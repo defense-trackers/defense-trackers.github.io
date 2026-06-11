@@ -8,7 +8,7 @@
 const $ = (id) => document.getElementById(id);
 
 export async function loadStatus() {
-  const r = await fetch('data/status.json', { cache: 'no-store' });
+  const r = await fetch('/data/status.json', { cache: 'no-store' });
   if (!r.ok) throw new Error('HTTP ' + r.status);
   return r.json();
 }
@@ -130,7 +130,7 @@ export function renderIndex(status) {
     mainEl.className = 'track-main';
     const a = document.createElement('a');
     a.className = 'track-name';
-    a.href = 'tracker.html?t=' + encodeURIComponent(t);
+    a.href = '/' + encodeURIComponent(t) + '/';
     a.textContent = t;
     const idEl = document.createElement('span');
     idEl.className = 'track-id mono dim';
@@ -151,7 +151,7 @@ async function fetchEvents(tracker) {
   const lines = [];
   for (const y of [year - 1, year]) {
     try {
-      const r = await fetch(`data/${tracker}/events/${y}.jsonl`, { cache: 'no-store' });
+      const r = await fetch(`/data/${tracker}/events/${y}.jsonl`, { cache: 'no-store' });
       if (r.ok) lines.push(...(await r.text()).trim().split('\n').filter(Boolean));
     } catch { /* a year file may not exist; fine */ }
   }
@@ -162,8 +162,8 @@ export async function renderTracker(t) {
   if (!t) { $('t-name').textContent = 'No tracker specified'; return; }
   $('t-name').textContent = t;
   document.title = t + ' — Defense Trackers';
-  $('t-rss').href = 'feeds/' + encodeURIComponent(t) + '.xml';
-  $('t-json').href = 'data/' + encodeURIComponent(t) + '/current.json';
+  $('t-rss').href = '/feeds/' + encodeURIComponent(t) + '.xml';
+  $('t-json').href = '/data/' + encodeURIComponent(t) + '/current.json';
   if ($('t-desc')) $('t-desc').textContent = TRACKER_DESC[t] || '';
 
   try {
@@ -205,7 +205,7 @@ export async function renderTracker(t) {
   }
 
   try {
-    const r = await fetch(`data/${t}/current.json`, { cache: 'no-store' });
+    const r = await fetch(`/data/${t}/current.json`, { cache: 'no-store' });
     if (!r.ok) throw new Error('HTTP ' + r.status);
     const cur = await r.json();
     const recs = cur.records || [];
