@@ -226,6 +226,17 @@ tbody tr:hover { background: var(--panel-2); }
 td { padding: .5rem .7rem .5rem 0; vertical-align: top; }
 td:first-child { white-space: nowrap; width: 1%; }
 
+/* per-source report tables */
+.report { margin: 0 0 2.2rem; }
+.report-head { font-size: .9rem; font-weight: 600; text-transform: none; letter-spacing: 0; margin: 0 0 .6rem; color: var(--ink-2); }
+.report-src { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; color: var(--brand); }
+.report-table { border-collapse: collapse; width: 100%; font-size: .85rem; display: block; overflow-x: auto; white-space: nowrap; }
+.report-table th { text-align: left; font-weight: 600; font-size: .68rem; text-transform: uppercase; letter-spacing: .06em; color: var(--dim); border-bottom: 1px solid var(--line-2); padding: .4rem .9rem .4rem 0; }
+.report-table td { padding: .45rem .9rem .45rem 0; border-bottom: 1px solid var(--line); vertical-align: top; }
+.report-table tbody tr:hover { background: var(--panel-2); }
+.report-table .col-name { font-weight: 500; white-space: normal; max-width: 38ch; }
+.report-table th.num, .report-table td.num { text-align: right; font-variant-numeric: tabular-nums; }
+
 /* ---- prose (methodology) ------------------------------------------------- */
 .prose h2 { color: var(--ink); text-transform: none; letter-spacing: -.01em; font-size: 1.15rem; margin-top: 2rem; }
 .prose p, .prose li { color: var(--ink-2); }

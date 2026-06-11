@@ -1,0 +1,56 @@
+{
+ "source": "tak",
+ "tracker": "tak",
+ "fetched_at": "2026-06-11T03:05:14Z",
+ "schema_version": 1,
+ "records": [
+  {
+   "key": "rixau/atak-reactive",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-04-09T16:53:39Z",
+    "description": "Build ATAK (Android Team Awareness Kit) plugin UIs with React and TypeScript. Typed WebView bridge, hot reload, incremental adoption.",
+    "stars": "2",
+    "text": "rixau/atak-reactive",
+    "title": "rixau/atak-reactive",
+    "url": "https://github.com/rixau/atak-reactive"
+   }
+  },
+  {
+   "key": "ATAK-CIV",
+   "source": "tak-sdk-compat",
+   "fields": {
+    "plugin": "ATAK-CIV",
+    "repo": "deptofdefense/AndroidTacticalAssaultKit-CIV",
+    "sdk": "5.x",
+    "status": "active",
+    "text": "ATAK-CIV",
+    "url": "https://github.com/deptofdefense/AndroidTacticalAssaultKit-CIV"
+   }
+  },
+  {
+   "key": "FreeTAKServer",
+   "source": "tak-sdk-compat",
+   "fields": {
+    "plugin": "FreeTAKServer",
+    "repo": "FreeTAKTeam/FreeTakServer",
+    "sdk": "server (n/a)",
+    "status": "active",
+    "text": "FreeTAKServer",
+    "url": "https://github.com/FreeTAKTeam/FreeTakServer"
+   }
+  },
+  {
+   "key": "openTAKpickList",
+   "source": "tak-sdk-compat",
+   "fields": {
+    "plugin": "openTAKpickList",
+    "repo": "FreeTAKTeam/openTAKpickList",
+    "sdk": "5.x",
+    "status": "community",
+    "text": "openTAKpickList",
+    "url": "https://github.com/FreeTAKTeam/openTAKpickList"
+   }
+  }
+ ]
+}

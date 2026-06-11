@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//defense-trackers//deadlines//EN
+X-WR-CALNAME:deadlines
+BEGIN:VEVENT
+UID:ausa-annual-2026@defense-trackers
+DTSTART;VALUE=DATE:20261012
+SUMMARY:AUSA Annual Meeting & Exposition 2026
+URL:https://meetings.ausa.org/annual/
+END:VEVENT
+BEGIN:VEVENT
+UID:reagan-ndf-2026@defense-trackers
+DTSTART;VALUE=DATE:20261205
+SUMMARY:Reagan National Defense Forum 2026
+URL:https://www.reaganfoundation.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:sof-week-2027@defense-trackers
+DTSTART;VALUE=DATE:20270510
+SUMMARY:SOF Week 2027
+URL:https://sofweek.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:modern-day-marine-2027@defense-trackers
+DTSTART;VALUE=DATE:20270427
+SUMMARY:Modern Day Marine 2027
+URL:https://marinemilitaryexpos.com/
+END:VEVENT
+END:VCALENDAR

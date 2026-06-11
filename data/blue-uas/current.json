@@ -1,133 +1,221 @@
 {
  "source": "blue-uas",
  "tracker": "blue-uas",
- "fetched_at": "2026-06-11T02:11:05Z",
+ "fetched_at": "2026-06-11T03:04:48Z",
  "schema_version": 1,
  "records": [
   {
-   "key": "52774431a7aba596",
+   "key": "4ec10ea2eed56887",
+   "source": "blue-uas",
    "fields": {
-    "text": "Blue UAS"
+    "text": "Blue UAS Cleared Drone List"
    }
   },
   {
-   "key": "a8af47846c9ba184",
+   "key": "c887f134c26ea831",
+   "source": "blue-uas",
    "fields": {
-    "text": "Lists of DoD-cleared platforms and NDAA-compliant components. Updated on a rolling basis."
+    "text": "Skip to main content"
    }
   },
   {
-   "key": "db9e72b3a74c943d",
+   "key": "10a516acef819fd1",
+   "source": "blue-uas",
    "fields": {
-    "text": "Blue UAS Cleared List"
+    "text": "Who We Are"
    }
   },
   {
-   "key": "89fec118b8ccc626",
+   "key": "5d8c71abc527284c",
+   "source": "blue-uas",
    "fields": {
-    "text": "Skydio X10D"
+    "text": "About Us"
    }
   },
   {
-   "key": "c80f793789acf28a",
+   "key": "c300c9454f5b5aaa",
+   "source": "blue-uas",
    "fields": {
-    "text": "Anduril Ghost-X"
+    "text": "Our Team"
    }
   },
   {
-   "key": "3546bfdcc6addb72",
+   "key": "c5f69a0611f2eb99",
+   "source": "blue-uas",
    "fields": {
-    "text": "Freefly Systems Astro"
+    "text": "Work With Us"
    }
   },
   {
-   "key": "0778ad7463c58630",
+   "key": "900fe12faa2658c3",
+   "source": "blue-uas",
    "fields": {
-    "text": "Teal Black Widow"
+    "text": "Solutions"
    }
   },
   {
-   "key": "2f223640580caa0c",
+   "key": "8730d3c2022abf1f",
+   "source": "blue-uas",
    "fields": {
-    "text": "PDW C100"
+    "text": "Latest"
    }
   },
   {
-   "key": "aa80bc38b1fc215c",
+   "key": "2b5c3d26721ae9c3",
+   "source": "blue-uas",
    "fields": {
-    "text": "Vantage Robotics Trace"
+    "text": "Contact"
    }
   },
   {
-   "key": "42e8549db1356779",
+   "key": "885df3aa02171f8f",
+   "source": "blue-uas",
    "fields": {
-    "text": "Parrot ANAFI UKR"
+    "text": "5 Open Pathway s"
    }
   },
   {
-   "key": "9ab98b73a9e3d43e",
+   "key": "8f0998e69ccf81c0",
+   "source": "blue-uas",
    "fields": {
-    "text": "Blue UAS Framework"
+    "text": "NOTICE: In accordance with the July 10, 2025 Secretary of War memo, \"Unleashing U.S. Military Drone Dominance\", the Blue UAS Cleared List is transitioning to the Defense Contract Management Agency (DCMA)."
    }
   },
   {
-   "key": "ce54f0e22dbb39de",
+   "key": "1689a74a516d258c",
+   "source": "blue-uas",
    "fields": {
-    "text": "Component"
+    "text": "If you are not automatically redirected, please click here: https://bluelist.dcma.mil"
    }
   },
   {
-   "key": "292c06f0045a45d0",
+   "key": "2db87f82ba20b521",
+   "source": "blue-uas",
    "fields": {
-    "text": "Category"
+    "text": "Autonomy Portfolio"
    }
   },
   {
-   "key": "7d5c208eaf01173e",
+   "key": "dc711608c4219766",
+   "source": "blue-uas",
    "fields": {
+    "text": "Connect with DIU"
+   }
+  },
+  {
+   "key": "6d27086fb4353b5d",
+   "source": "blue-uas",
+   "fields": {
+    "text": "Have a question? Looking to connect? Reach out to us."
+   }
+  },
+  {
+   "key": "7cfc890e22315a58",
+   "source": "blue-uas",
+   "fields": {
+    "text": "Select how to connect… I'd like to learn how my company can can work with the DOD I'd like to see open solicitations or submit a solution I'd like to receive notifications of DIU's posted solicitations I'd like to receive DIU's newsletter I'm interested in DIU career opportunities I work for the DoD or another government organization I'm interested in student/university programming I'd like to tell DIU about my company or technology I have another question"
+   }
+  },
+  {
+   "key": "ff80481d9a5b58ef",
+   "source": "blue-uas",
+   "fields": {
+    "text": "DIU for DoW Entities"
+   }
+  },
+  {
+   "key": "a2d3f543ce88f07c",
+   "source": "blue-uas",
+   "fields": {
+    "text": "DIU for Commercial Companies"
+   }
+  },
+  {
+   "key": "1853eb2e9e5ed2bc",
+   "source": "blue-uas",
+   "fields": {
+    "text": "Portfolio"
+   }
+  },
+  {
+   "key": "dcb419e6f1aed7e9",
+   "source": "blue-uas",
+   "fields": {
+    "text": "Careers At DIU"
+   }
+  },
+  {
+   "key": "506ff394621596dd",
+   "source": "blue-uas",
+   "fields": {
+    "text": "Privacy Policy"
+   }
+  },
+  {
+   "key": "22bb28e686b12bf6",
+   "source": "blue-uas",
+   "fields": {
+    "text": "v:2.5.0"
+   }
+  },
+  {
+   "key": "CubePilot Cube Orange+",
+   "source": "blue-uas-parts",
+   "fields": {
+    "category": "Flight controller",
+    "component": "CubePilot Cube Orange+",
+    "country": "AUS / US",
+    "framework_status": "verify",
+    "manufacturer": "CubePilot",
     "text": "CubePilot Cube Orange+"
    }
   },
   {
-   "key": "12874855684838ab",
+   "key": "ARK GPS",
+   "source": "blue-uas-parts",
    "fields": {
-    "text": "Flight controller"
+    "category": "GNSS module",
+    "component": "ARK GPS",
+    "country": "US",
+    "framework_status": "verify",
+    "manufacturer": "ARK Electronics",
+    "text": "ARK GPS"
    }
   },
   {
-   "key": "de347c3ec650a395",
+   "key": "Doodle Labs Helix",
+   "source": "blue-uas-parts",
    "fields": {
-    "text": "ARK Electronics GPS"
-   }
-  },
-  {
-   "key": "60e91c7011fcddd8",
-   "fields": {
-    "text": "GNSS module"
-   }
-  },
-  {
-   "key": "ad2bc89d6e029eca",
-   "fields": {
+    "category": "Data link",
+    "component": "Doodle Labs Helix",
+    "country": "US / SG",
+    "framework_status": "verify",
+    "manufacturer": "Doodle Labs",
     "text": "Doodle Labs Helix"
    }
   },
   {
-   "key": "2909ab988e724761",
+   "key": "ModalAI VOXL 2",
+   "source": "blue-uas-parts",
    "fields": {
-    "text": "Data link"
-   }
-  },
-  {
-   "key": "7ad9fd42570f3c04",
-   "fields": {
+    "category": "Autonomy compute",
+    "component": "ModalAI VOXL 2",
+    "country": "US",
+    "framework_status": "verify",
+    "manufacturer": "ModalAI",
     "text": "ModalAI VOXL 2"
    }
   },
   {
-   "key": "f5589e6d8d1e5462",
+   "key": "Holybro / Matek flight controllers",
+   "source": "blue-uas-parts",
    "fields": {
-    "text": "Autonomy compute"
+    "category": "Flight controller",
+    "component": "Holybro / Matek flight controllers",
+    "country": "CN",
+    "framework_status": "country-of-origin concern — verify",
+    "manufacturer": "Holybro / Matek",
+    "text": "Holybro / Matek flight controllers"
    }
   }
  ]

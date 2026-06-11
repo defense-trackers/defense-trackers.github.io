@@ -1,0 +1,60 @@
+{
+ "source": "deadlines",
+ "tracker": "deadlines",
+ "fetched_at": "2026-06-11T03:04:48Z",
+ "schema_version": 1,
+ "records": [
+  {
+   "key": "ausa-annual-2026",
+   "source": "deadlines-events",
+   "fields": {
+    "date": "2026-10-12",
+    "id": "ausa-annual-2026",
+    "note": "verify dates",
+    "text": "AUSA Annual Meeting \u0026 Exposition 2026",
+    "title": "AUSA Annual Meeting \u0026 Exposition 2026",
+    "type": "event",
+    "url": "https://meetings.ausa.org/annual/"
+   }
+  },
+  {
+   "key": "reagan-ndf-2026",
+   "source": "deadlines-events",
+   "fields": {
+    "date": "2026-12-05",
+    "id": "reagan-ndf-2026",
+    "note": "verify dates",
+    "text": "Reagan National Defense Forum 2026",
+    "title": "Reagan National Defense Forum 2026",
+    "type": "event",
+    "url": "https://www.reaganfoundation.org/"
+   }
+  },
+  {
+   "key": "sof-week-2027",
+   "source": "deadlines-events",
+   "fields": {
+    "date": "2027-05-10",
+    "id": "sof-week-2027",
+    "note": "verify dates",
+    "text": "SOF Week 2027",
+    "title": "SOF Week 2027",
+    "type": "event",
+    "url": "https://sofweek.org/"
+   }
+  },
+  {
+   "key": "modern-day-marine-2027",
+   "source": "deadlines-events",
+   "fields": {
+    "date": "2027-04-27",
+    "id": "modern-day-marine-2027",
+    "note": "verify dates",
+    "text": "Modern Day Marine 2027",
+    "title": "Modern Day Marine 2027",
+    "type": "event",
+    "url": "https://marinemilitaryexpos.com/"
+   }
+  }
+ ]
+}

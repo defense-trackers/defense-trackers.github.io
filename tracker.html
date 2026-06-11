@@ -45,17 +45,17 @@
 
 <main class="wrap">
   <section>
+    <h2>Current data <span class="mono dim" id="rec-count"></span></h2>
+    <div id="records"></div>
+  </section>
+
+  <section>
     <h2>Changelog</h2>
     <p class="hint">
       <svg width="13" height="13" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.4" aria-hidden="true"><rect x="3" y="7" width="10" height="7" rx="1.5"/><path d="M5 7V5a3 3 0 0 1 6 0v2"/></svg>
       Append-only and hash-chained — each entry is bound to the previous, so tampering is detectable.
     </p>
     <ol id="events" class="events"></ol>
-  </section>
-
-  <section>
-    <h2>Current records <span class="mono dim" id="rec-count"></span></h2>
-    <table id="records"><tbody></tbody></table>
   </section>
 </main>
 

@@ -1,0 +1,708 @@
+{
+ "source": "authorizations",
+ "tracker": "authorizations",
+ "fetched_at": "2026-06-11T03:04:46Z",
+ "schema_version": 1,
+ "records": [
+  {
+   "key": "FR2617664138",
+   "source": "authorizations-fedramp",
+   "fields": {
+    "date": "2026-06-09T20:00:00.000Z",
+    "status": "Now FedRAMP Ready",
+    "text": "Minuet",
+    "title": "Minuet"
+   }
+  },
+  {
+   "key": "FR2529113288",
+   "source": "authorizations-fedramp",
+   "fields": {
+    "date": "2026-06-09T20:00:00.000Z",
+    "status": "Now Authorized",
+    "text": "Archive360 Platform",
+    "title": "Archive360 Platform"
+   }
+  },
+  {
+   "key": "FR2518943913",
+   "source": "authorizations-fedramp",
+   "fields": {
+    "date": "2026-06-08T20:00:00.000Z",
+    "status": "Now in Agency Review",
+    "text": "SentiLink",
+    "title": "SentiLink"
+   }
+  },
+  {
+   "key": "1607",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2026-06-08T19:12:32.866Z",
+    "stars": "71",
+    "text": "Iron Bank / ironbank-pipeline",
+    "title": "Iron Bank / ironbank-pipeline",
+    "url": "https://repo1.dso.mil/ironbank-tools/ironbank-pipeline"
+   }
+  },
+  {
+   "key": "13338",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2026-06-08T19:12:32.508Z",
+    "stars": "2",
+    "text": "Iron Bank / ironbank-modules",
+    "title": "Iron Bank / ironbank-modules",
+    "url": "https://repo1.dso.mil/ironbank-tools/ironbank-modules"
+   }
+  },
+  {
+   "key": "18724",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2026-06-08T19:12:32.490Z",
+    "stars": "0",
+    "text": "Iron Bank / ironbank-rf-content",
+    "title": "Iron Bank / ironbank-rf-content",
+    "url": "https://repo1.dso.mil/ironbank-tools/ironbank-rf-content"
+   }
+  },
+  {
+   "key": "18550",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2026-06-08T03:03:56.597Z",
+    "stars": "0",
+    "text": "Iron Bank Containers / AddxCorpTrajectSimHgv / trajectsimhgv-ml-trainer-ironbank",
+    "title": "Iron Bank Containers / AddxCorpTrajectSimHgv / trajectsimhgv-ml-trainer-ironbank",
+    "url": "https://repo1.dso.mil/dsop/addxcorptrajectsimhgv/trajectsimhgv-ml-trainer-ironbank"
+   }
+  },
+  {
+   "key": "12410",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2026-06-04T19:04:35.743Z",
+    "stars": "7",
+    "text": "Iron Bank / Documentation / ironbank-docs",
+    "title": "Iron Bank / Documentation / ironbank-docs",
+    "url": "https://repo1.dso.mil/ironbank-tools/documentation/ironbank-docs"
+   }
+  },
+  {
+   "key": "902",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2026-03-24T16:30:54.327Z",
+    "stars": "4",
+    "text": "Iron Bank / Container Hardening Team / Container Hardening Tools / Iron Bank / Replicator / IronBank Replicator",
+    "title": "Iron Bank / Container Hardening Team / Container Hardening Tools / Iron Bank / Replicator / IronBank Replicator",
+    "url": "https://repo1.dso.mil/ironbank-tools/containers/container-hardening-tools/iron-bank/replicator/ironbank-replicator"
+   }
+  },
+  {
+   "key": "3579",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2026-03-24T16:30:53.224Z",
+    "stars": "1",
+    "text": "Iron Bank / ironbank-plugins-pipeline",
+    "title": "Iron Bank / ironbank-plugins-pipeline",
+    "url": "https://repo1.dso.mil/ironbank-tools/ironbank-plugins-pipeline"
+   }
+  },
+  {
+   "key": "2377",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2026-03-24T16:30:52.784Z",
+    "stars": "0",
+    "text": "Iron Bank / ironbank-bot",
+    "title": "Iron Bank / ironbank-bot",
+    "url": "https://repo1.dso.mil/ironbank-tools/ironbank-bot"
+   }
+  },
+  {
+   "key": "13900",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2026-03-24T16:30:48.859Z",
+    "stars": "1",
+    "text": "Iron Bank / Container Hardening Team / Container Hardening Tools / ironbank-pipeline-testing ",
+    "title": "Iron Bank / Container Hardening Team / Container Hardening Tools / ironbank-pipeline-testing ",
+    "url": "https://repo1.dso.mil/ironbank-tools/containers/container-hardening-tools/ironbank-pipeline-testing"
+   }
+  },
+  {
+   "key": "11868",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2026-03-24T16:30:47.703Z",
+    "stars": "0",
+    "text": "Iron Bank / pre-receive",
+    "title": "Iron Bank / pre-receive",
+    "url": "https://repo1.dso.mil/ironbank-tools/pre-receive"
+   }
+  },
+  {
+   "key": "1928",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2025-12-19T09:43:43.211Z",
+    "stars": "2",
+    "text": "Iron Bank Containers / ironbank-onboarding-tf",
+    "title": "Iron Bank Containers / ironbank-onboarding-tf",
+    "url": "https://repo1.dso.mil/dsop/ironbank-onboarding-tf"
+   }
+  },
+  {
+   "key": "12037",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2025-12-19T09:22:07.934Z",
+    "stars": "2",
+    "text": "Iron Bank Containers / project-templates / ironbank-template",
+    "title": "Iron Bank Containers / project-templates / ironbank-template",
+    "url": "https://repo1.dso.mil/dsop/project-templates/ironbank-template"
+   }
+  },
+  {
+   "key": "13583",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2023-08-03T16:56:46.828Z",
+    "stars": "0",
+    "text": "Mark Galpin / ironbank-pipeline",
+    "title": "Mark Galpin / ironbank-pipeline",
+    "url": "https://repo1.dso.mil/mark-tidelift/ironbank-pipeline"
+   }
+  },
+  {
+   "key": "13559",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2023-07-21T20:00:15.724Z",
+    "stars": "0",
+    "text": "Abdullah Alsindy / ironbank-docs",
+    "title": "Abdullah Alsindy / ironbank-docs",
+    "url": "https://repo1.dso.mil/aalsindy/ironbank-docs"
+   }
+  },
+  {
+   "key": "6738",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2022-03-08T16:28:26.327Z",
+    "stars": "0",
+    "text": "Ironbank Plugins / EAZY BI for Jira",
+    "title": "Ironbank Plugins / EAZY BI for Jira",
+    "url": "https://repo1.dso.mil/ironbank-plugins/eazy-bi"
+   }
+  },
+  {
+   "key": "6741",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2022-01-31T19:13:04.759Z",
+    "stars": "0",
+    "text": "Ironbank Plugins / Prometheus Exporter PRO for Jira",
+    "title": "Ironbank Plugins / Prometheus Exporter PRO for Jira",
+    "url": "https://repo1.dso.mil/ironbank-plugins/prometheus-exporter-pro-for-jira"
+   }
+  },
+  {
+   "key": "6748",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2022-01-31T18:54:57.264Z",
+    "stars": "0",
+    "text": "Ironbank Plugins / Composition Tabs for Confluence",
+    "title": "Ironbank Plugins / Composition Tabs for Confluence",
+    "url": "https://repo1.dso.mil/ironbank-plugins/composition-tabs-for-confluence"
+   }
+  },
+  {
+   "key": "6850",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2022-01-31T18:52:13.189Z",
+    "stars": "0",
+    "text": "Ironbank Plugins / Table Filter and Charts for Confluence",
+    "title": "Ironbank Plugins / Table Filter and Charts for Confluence",
+    "url": "https://repo1.dso.mil/ironbank-plugins/table-filter-and-charts-for-confluence"
+   }
+  },
+  {
+   "key": "6743",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2022-01-31T18:48:01.213Z",
+    "stars": "0",
+    "text": "Ironbank Plugins / Git Integration for Jira",
+    "title": "Ironbank Plugins / Git Integration for Jira",
+    "url": "https://repo1.dso.mil/ironbank-plugins/git-integration-for-jira"
+   }
+  },
+  {
+   "key": "6736",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2022-01-31T18:29:48.112Z",
+    "stars": "0",
+    "text": "Ironbank Plugins / Agile Retrospectives for Confluence",
+    "title": "Ironbank Plugins / Agile Retrospectives for Confluence",
+    "url": "https://repo1.dso.mil/ironbank-plugins/agile-retrospectives-for-confluence"
+   }
+  },
+  {
+   "key": "6746",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2022-01-31T18:23:25.217Z",
+    "stars": "0",
+    "text": "Ironbank Plugins / Chat for Jira Service Desk",
+    "title": "Ironbank Plugins / Chat for Jira Service Desk",
+    "url": "https://repo1.dso.mil/ironbank-plugins/chat-for-jira-service-desk"
+   }
+  },
+  {
+   "key": "6740",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2022-01-31T18:06:50.604Z",
+    "stars": "0",
+    "text": "Ironbank Plugins / Prometheus Exporter PRO for Confluence",
+    "title": "Ironbank Plugins / Prometheus Exporter PRO for Confluence",
+    "url": "https://repo1.dso.mil/ironbank-plugins/prometheus-exporter-pro-for-confluence"
+   }
+  },
+  {
+   "key": "6735",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2022-01-31T18:03:39.854Z",
+    "stars": "0",
+    "text": "Ironbank Plugins / Agile Poker for Jira",
+    "title": "Ironbank Plugins / Agile Poker for Jira",
+    "url": "https://repo1.dso.mil/ironbank-plugins/agile-poker-for-jira"
+   }
+  },
+  {
+   "key": "6884",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2022-01-31T17:48:17.335Z",
+    "stars": "0",
+    "text": "Ironbank Plugins / Canned Responses Pro Templates for Jira",
+    "title": "Ironbank Plugins / Canned Responses Pro Templates for Jira",
+    "url": "https://repo1.dso.mil/ironbank-plugins/canned-responses-pro-templates-for-jira"
+   }
+  },
+  {
+   "key": "6744",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2021-07-12T13:12:11.088Z",
+    "stars": "1",
+    "text": "Ironbank Plugins / Insight - Asset Management",
+    "title": "Ironbank Plugins / Insight - Asset Management",
+    "url": "https://repo1.dso.mil/ironbank-plugins/insight-asset-management"
+   }
+  },
+  {
+   "key": "6545",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2021-06-17T19:51:56.582Z",
+    "stars": "0",
+    "text": "Ironbank Plugins / OIDC for Jira SSO",
+    "title": "Ironbank Plugins / OIDC for Jira SSO",
+    "url": "https://repo1.dso.mil/ironbank-plugins/oidc-for-jira-sso"
+   }
+  },
+  {
+   "key": "6997",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2021-06-11T19:49:53.469Z",
+    "stars": "0",
+    "text": "Ironbank Plugins / Mattermost  Confluence Questions Plugin",
+    "title": "Ironbank Plugins / Mattermost  Confluence Questions Plugin",
+    "url": "https://repo1.dso.mil/ironbank-plugins/mm-confluence-questions-plugin"
+   }
+  },
+  {
+   "key": "7010",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2021-06-11T19:46:01.244Z",
+    "stars": "0",
+    "text": "Ironbank Plugins / Mattermost Team Statistics",
+    "title": "Ironbank Plugins / Mattermost Team Statistics",
+    "url": "https://repo1.dso.mil/ironbank-plugins/mm-team-statistics-plugin"
+   }
+  },
+  {
+   "key": "7011",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2021-06-11T19:19:37.898Z",
+    "stars": "0",
+    "text": "Ironbank Plugins / Mattermost All User Plugin",
+    "title": "Ironbank Plugins / Mattermost All User Plugin",
+    "url": "https://repo1.dso.mil/ironbank-plugins/mm-all-user-plugin"
+   }
+  },
+  {
+   "key": "7115",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2021-06-11T19:09:54.219Z",
+    "stars": "0",
+    "text": "Ironbank Plugins / Mattermost File Management",
+    "title": "Ironbank Plugins / Mattermost File Management",
+    "url": "https://repo1.dso.mil/ironbank-plugins/mm-file-management-plugin"
+   }
+  },
+  {
+   "key": "6888",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2021-05-26T19:36:23.576Z",
+    "stars": "0",
+    "text": "Ironbank Plugins / Devops Command Center",
+    "title": "Ironbank Plugins / Devops Command Center",
+    "url": "https://repo1.dso.mil/ironbank-plugins/devops-command-center"
+   }
+  },
+  {
+   "key": "6887",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2021-05-26T18:54:21.195Z",
+    "stars": "0",
+    "text": "Ironbank Plugins / Jira Watcher Field",
+    "title": "Ironbank Plugins / Jira Watcher Field",
+    "url": "https://repo1.dso.mil/ironbank-plugins/jira-watcher-field"
+   }
+  },
+  {
+   "key": "6855",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2021-05-26T18:28:46.886Z",
+    "stars": "0",
+    "text": "Ironbank Plugins / Zephyr",
+    "title": "Ironbank Plugins / Zephyr",
+    "url": "https://repo1.dso.mil/ironbank-plugins/zephyr"
+   }
+  },
+  {
+   "key": "6883",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2021-05-26T17:25:37.496Z",
+    "stars": "0",
+    "text": "Ironbank Plugins / Risk Management for Jira",
+    "title": "Ironbank Plugins / Risk Management for Jira",
+    "url": "https://repo1.dso.mil/ironbank-plugins/risk-management-for-jira"
+   }
+  },
+  {
+   "key": "6882",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2021-05-26T17:14:52.218Z",
+    "stars": "0",
+    "text": "Ironbank Plugins / Jira Misc Workflow Extensions",
+    "title": "Ironbank Plugins / Jira Misc Workflow Extensions",
+    "url": "https://repo1.dso.mil/ironbank-plugins/jira-misc-workflow-extensions"
+   }
+  },
+  {
+   "key": "6866",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2021-05-26T17:00:32.840Z",
+    "stars": "0",
+    "text": "Ironbank Plugins / Insight Discovery",
+    "title": "Ironbank Plugins / Insight Discovery",
+    "url": "https://repo1.dso.mil/ironbank-plugins/insight-discovery"
+   }
+  },
+  {
+   "key": "6849",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2021-05-25T19:38:53.432Z",
+    "stars": "0",
+    "text": "Ironbank Plugins / API Token OAuth Authentication for Jira",
+    "title": "Ironbank Plugins / API Token OAuth Authentication for Jira",
+    "url": "https://repo1.dso.mil/ironbank-plugins/api-token-oauth-authentication-for-jira"
+   }
+  },
+  {
+   "key": "6843",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2021-05-25T18:29:24.538Z",
+    "stars": "0",
+    "text": "Ironbank Plugins / Checklist for Jira",
+    "title": "Ironbank Plugins / Checklist for Jira",
+    "url": "https://repo1.dso.mil/ironbank-plugins/checklist-for-jira"
+   }
+  },
+  {
+   "key": "6544",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2021-05-24T17:55:08.717Z",
+    "stars": "0",
+    "text": "Ironbank Plugins / Configuration Manager for Jira",
+    "title": "Ironbank Plugins / Configuration Manager for Jira",
+    "url": "https://repo1.dso.mil/ironbank-plugins/configuration-manager-for-jira"
+   }
+  },
+  {
+   "key": "6804",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2021-05-24T17:45:50.398Z",
+    "stars": "0",
+    "text": "Ironbank Plugins / Configuration Manager for Jira - Deployed",
+    "title": "Ironbank Plugins / Configuration Manager for Jira - Deployed",
+    "url": "https://repo1.dso.mil/ironbank-plugins/configuration-manager-for-jira-deployed"
+   }
+  },
+  {
+   "key": "6803",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2021-05-24T17:16:05.606Z",
+    "stars": "0",
+    "text": "Ironbank Plugins / Advanced Roadmaps for Jira - Deployed",
+    "title": "Ironbank Plugins / Advanced Roadmaps for Jira - Deployed",
+    "url": "https://repo1.dso.mil/ironbank-plugins/advanced-roadmaps-for-jira-deployed"
+   }
+  },
+  {
+   "key": "6800",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2021-05-24T17:02:09.687Z",
+    "stars": "0",
+    "text": "Ironbank Plugins / Draw.io for Confluence - Deployed",
+    "title": "Ironbank Plugins / Draw.io for Confluence - Deployed",
+    "url": "https://repo1.dso.mil/ironbank-plugins/draw.io-for-confluence-deployed"
+   }
+  },
+  {
+   "key": "6536",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2021-05-24T16:59:56.961Z",
+    "stars": "0",
+    "text": "Ironbank Plugins / Draw.io for Confluence",
+    "title": "Ironbank Plugins / Draw.io for Confluence",
+    "url": "https://repo1.dso.mil/ironbank-plugins/draw.io-for-confluence"
+   }
+  },
+  {
+   "key": "6762",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2021-05-21T13:22:29.840Z",
+    "stars": "0",
+    "text": "Ironbank Plugins / Jitsi Plugin",
+    "title": "Ironbank Plugins / Jitsi Plugin",
+    "url": "https://repo1.dso.mil/ironbank-plugins/jitsi-plugin"
+   }
+  },
+  {
+   "key": "6747",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2021-05-20T21:15:19.420Z",
+    "stars": "0",
+    "text": "Ironbank Plugins / Mattermost File List Plugin",
+    "title": "Ironbank Plugins / Mattermost File List Plugin",
+    "url": "https://repo1.dso.mil/ironbank-plugins/mattermost-file-list-plugin"
+   }
+  },
+  {
+   "key": "6750",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2021-05-18T20:44:13.579Z",
+    "stars": "0",
+    "text": "Ironbank Plugins / Oboard OKR Plugin",
+    "title": "Ironbank Plugins / Oboard OKR Plugin",
+    "url": "https://repo1.dso.mil/ironbank-plugins/oboard-okr-plugin"
+   }
+  },
+  {
+   "key": "6749",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2021-05-18T20:16:53.665Z",
+    "stars": "0",
+    "text": "Ironbank Plugins / Mattermost Connector for Confluence",
+    "title": "Ironbank Plugins / Mattermost Connector for Confluence",
+    "url": "https://repo1.dso.mil/ironbank-plugins/mattermost-connector-for-confluence"
+   }
+  },
+  {
+   "key": "6742",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2021-05-18T17:35:01.573Z",
+    "stars": "0",
+    "text": "Ironbank Plugins / Scriptrunner for Confluence",
+    "title": "Ironbank Plugins / Scriptrunner for Confluence",
+    "url": "https://repo1.dso.mil/ironbank-plugins/scriptrunner-for-confluence"
+   }
+  },
+  {
+   "key": "6739",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2021-05-18T13:48:30.445Z",
+    "stars": "0",
+    "text": "Ironbank Plugins / EAZY BI for Confluence",
+    "title": "Ironbank Plugins / EAZY BI for Confluence",
+    "url": "https://repo1.dso.mil/ironbank-plugins/eazy-bi-for-confluence"
+   }
+  },
+  {
+   "key": "6737",
+   "source": "authorizations-ironbank",
+   "fields": {
+    "date": "2021-05-17T21:15:40.532Z",
+    "stars": "0",
+    "text": "Ironbank Plugins / Comala Document Management for Confluence",
+    "title": "Ironbank Plugins / Comala Document Management for Confluence",
+    "url": "https://repo1.dso.mil/ironbank-plugins/comala-document-management-for-confluence"
+   }
+  },
+  {
+   "key": "CBMihgJBVV95cUxQV0pTd2JWcDVvTERyZUNJTy1GbWdlSlh2Qk83dzZwTWdSaEp1amVEcktFbU1zVmtUT1RFUWZNbVc2T0VwaEJkMkdWZTExZklJY2ZCWWpITXFKU2JYYnhzWkxWUGs2SzM0NjR3RG5aMFNCOWNyWlJDVDdoVi1vM1UwR1p0WnRDcmlfU2tOYXBDaTJvcFQ3OGpsdDJGbHNqMm5mbll1WlBLN3lscjUzRHF0eEh3ZTc5bERyTXVlYmtGZWR4cGlHY19TWUFONVM0cjdHR05BZ194dU5hSVlHMlRNaUtyT3BhYXhDenFjV1M3ODQ5djJSblVRVnR0c0tIaTZNdDJvQU1n",
+   "source": "authorizations-news",
+   "fields": {
+    "date": "Thu, 12 Feb 2026 08:00:00 GMT",
+    "text": "Palantir IR - Palantir",
+    "title": "Palantir IR - Palantir",
+    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQV0pTd2JWcDVvTERyZUNJTy1GbWdlSlh2Qk83dzZwTWdSaEp1amVEcktFbU1zVmtUT1RFUWZNbVc2T0VwaEJkMkdWZTExZklJY2ZCWWpITXFKU2JYYnhzWkxWUGs2SzM0NjR3RG5aMFNCOWNyWlJDVDdoVi1vM1UwR1p0WnRDcmlfU2tOYXBDaTJvcFQ3OGpsdDJGbHNqMm5mbll1WlBLN3lscjUzRHF0eEh3ZTc5bERyTXVlYmtGZWR4cGlHY19TWUFONVM0cjdHR05BZ194dU5hSVlHMlRNaUtyT3BhYXhDenFjV1M3ODQ5djJSblVRVnR0c0tIaTZNdDJvQU1n?oc=5"
+   }
+  },
+  {
+   "key": "CBMirwFBVV95cUxNSXl6bjJJTnB4YXFka0RBQlh2ZXlqWnhUcU5hQnRYRnBKS0pzNzJaUHlDMEd1LU5JdWcwZklqZnVoMXgwOFM1bDJWYUplbThuVkpMWk9WMDNGOXVwbEQ0RlA4RDkycEE0LXZLcW41V3RFUm85T0ZzZHBrUFhzdUo4LXIxa3dlV3lZSUNFNnJVZ3NUU3lHQk5UTUhYdlZ3VHZfUC16ZHlDQ25fSHIyZl9J",
+   "source": "authorizations-news",
+   "fields": {
+    "date": "Tue, 24 Feb 2026 08:00:00 GMT",
+    "text": "Armis achieves DISA IL5 status, expanding support for US defense cybersecurity - Industrial Cyber",
+    "title": "Armis achieves DISA IL5 status, expanding support for US defense cybersecurity - Industrial Cyber",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSXl6bjJJTnB4YXFka0RBQlh2ZXlqWnhUcU5hQnRYRnBKS0pzNzJaUHlDMEd1LU5JdWcwZklqZnVoMXgwOFM1bDJWYUplbThuVkpMWk9WMDNGOXVwbEQ0RlA4RDkycEE0LXZLcW41V3RFUm85T0ZzZHBrUFhzdUo4LXIxa3dlV3lZSUNFNnJVZ3NUU3lHQk5UTUhYdlZ3VHZfUC16ZHlDQ25fSHIyZl9J?oc=5"
+   }
+  },
+  {
+   "key": "CBMihwFBVV95cUxQRzhjQzVjYVRmVzZBVE9zVS02STJhS0tVeGFhLVVvcXZSOFhFSkFGbUxZWEZuZ1RYWllNX3FFVGlRRXk5RHdRWEZYYnNqODNoWGpHdkdES0R3aVFYVjFSVmFsSzBaQVpudEljNWN0UXJvOENpd0VURnRfd3hVVng4STdCaWhfdUE",
+   "source": "authorizations-news",
+   "fields": {
+    "date": "Mon, 02 Mar 2026 08:00:00 GMT",
+    "text": "Oracle Achieves DISA IL5, FedRAMP High Authorizations for GenAI, Exadata, Other Cloud Services - ExecutiveBiz",
+    "title": "Oracle Achieves DISA IL5, FedRAMP High Authorizations for GenAI, Exadata, Other Cloud Services - ExecutiveBiz",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRzhjQzVjYVRmVzZBVE9zVS02STJhS0tVeGFhLVVvcXZSOFhFSkFGbUxZWEZuZ1RYWllNX3FFVGlRRXk5RHdRWEZYYnNqODNoWGpHdkdES0R3aVFYVjFSVmFsSzBaQVpudEljNWN0UXJvOENpd0VURnRfd3hVVng4STdCaWhfdUE?oc=5"
+   }
+  },
+  {
+   "key": "CBMixgFBVV95cUxNQnlQX3YtUHNQekdMRmZBWVlTX19CQkd5OVdNalEyc29yLTdCTU9DSjhjWkV5WV9hRkpkX2ZCdmJFMk1YR2xOY1QxUFNWWG5HU0JvNHRyNHp4NVRYX21XZHp3OFZzZHp6WkR2TGdWMlJURkhZdTlaWXRscFR1cHhzVWc3U1VXbFpxOWlGVUMtTUx5ZkMwTTNSM2NkdXRnTkd0amxkdUVpUXczMTlUZlI1S1FFdEhIbjZIbHpTVTZaV2NGZUpzM2c",
+   "source": "authorizations-news",
+   "fields": {
+    "date": "Mon, 23 Feb 2026 08:00:00 GMT",
+    "text": "Armis Achieves U.S. Department of Defense Impact Level 5 Authorization - Business Wire",
+    "title": "Armis Achieves U.S. Department of Defense Impact Level 5 Authorization - Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQnlQX3YtUHNQekdMRmZBWVlTX19CQkd5OVdNalEyc29yLTdCTU9DSjhjWkV5WV9hRkpkX2ZCdmJFMk1YR2xOY1QxUFNWWG5HU0JvNHRyNHp4NVRYX21XZHp3OFZzZHp6WkR2TGdWMlJURkhZdTlaWXRscFR1cHhzVWc3U1VXbFpxOWlGVUMtTUx5ZkMwTTNSM2NkdXRnTkd0amxkdUVpUXczMTlUZlI1S1FFdEhIbjZIbHpTVTZaV2NGZUpzM2c?oc=5"
+   }
+  },
+  {
+   "key": "CBMilwFBVV95cUxPckd2a2tGY0t0MEZNeEVIWmZEVHRfcGVLTDlnRGtwNG1TOTdHN1BqWWVzeHJxZkU5c1YxZktoektueDlYTjl6M24xN3oxaDEyUTF5dmZmU2VSLVJfR0MyT2FNZjJKUVVlNDIwdkRVcjJGckRuYjRoOWttRG4zMDltZF82eEppbWxpdUlGWFF5OWEyQ0x5S1ZJ",
+   "source": "authorizations-news",
+   "fields": {
+    "date": "Fri, 27 Feb 2026 08:00:00 GMT",
+    "text": "OCI adds Generative AI, Exadata Cloud@Customer, and other authorized services for US government customers - Oracle Blogs",
+    "title": "OCI adds Generative AI, Exadata Cloud@Customer, and other authorized services for US government customers - Oracle Blogs",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPckd2a2tGY0t0MEZNeEVIWmZEVHRfcGVLTDlnRGtwNG1TOTdHN1BqWWVzeHJxZkU5c1YxZktoektueDlYTjl6M24xN3oxaDEyUTF5dmZmU2VSLVJfR0MyT2FNZjJKUVVlNDIwdkRVcjJGckRuYjRoOWttRG4zMDltZF82eEppbWxpdUlGWFF5OWEyQ0x5S1ZJ?oc=5"
+   }
+  },
+  {
+   "key": "CBMi8AFBVV95cUxNT1dKOFNzc3N4djdfbER5SENwZGlvVDhYZ19LdEp1UVBScVVxbktTVlZSOFc0RkRWaUlMZjA0S0hVU0J6bXFMU1FvbnRFZGdwVHA2VkxIN3lxTHdFempKWVV3djZpQXNsX19rRW54NEU3a0dzN2Izc045SWJUd0tIcE15RG84dXBUNFdJdlBtRVFXaE5EOTZBcG1MMTE3QWlPeW9vM2FxSGh5YWlYZVp4RTJmLTd1WGU2aWVnY0c0V0p5UTJVQllGajlrQUZNZGcxZzVWUEVKZXU2VGZPVnQ3bXU5a2R1RFoyTXFLR1FaVXk",
+   "source": "authorizations-news",
+   "fields": {
+    "date": "Mon, 03 Mar 2025 08:00:00 GMT",
+    "text": "Armis Doubles Down on Federal Business as it Finalizes “In Process” Designation for FedRAMP High and DoD IL5 Authorizations - Armis",
+    "title": "Armis Doubles Down on Federal Business as it Finalizes “In Process” Designation for FedRAMP High and DoD IL5 Authorizations - Armis",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNT1dKOFNzc3N4djdfbER5SENwZGlvVDhYZ19LdEp1UVBScVVxbktTVlZSOFc0RkRWaUlMZjA0S0hVU0J6bXFMU1FvbnRFZGdwVHA2VkxIN3lxTHdFempKWVV3djZpQXNsX19rRW54NEU3a0dzN2Izc045SWJUd0tIcE15RG84dXBUNFdJdlBtRVFXaE5EOTZBcG1MMTE3QWlPeW9vM2FxSGh5YWlYZVp4RTJmLTd1WGU2aWVnY0c0V0p5UTJVQllGajlrQUZNZGcxZzVWUEVKZXU2VGZPVnQ3bXU5a2R1RFoyTXFLR1FaVXk?oc=5"
+   }
+  },
+  {
+   "key": "CBMimwFBVV95cUxQNTI1SC1LSFYtcmhWZElQYkxpUkdaZ0gwRWxiQlptQlpucEQ2ZXJZU3ZNWkdPVGhmeHZscW03ZG5Qbkk2UzJuTlIxTXZUcVJnakE3U3AtcDI2Vm9qXzRHUjRYSkJLSk9rR085QVl2Z1RGLWp0NlZRcFk4cVRTNUhVVTJVX2JtRkFrVFZZMDJGSHdldE04T1YyX2U5cw",
+   "source": "authorizations-news",
+   "fields": {
+    "date": "Tue, 06 Dec 2022 08:00:00 GMT",
+    "text": "DISA approves Google to host more sensitive DOD cloud data - DefenseScoop",
+    "title": "DISA approves Google to host more sensitive DOD cloud data - DefenseScoop",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNTI1SC1LSFYtcmhWZElQYkxpUkdaZ0gwRWxiQlptQlpucEQ2ZXJZU3ZNWkdPVGhmeHZscW03ZG5Qbkk2UzJuTlIxTXZUcVJnakE3U3AtcDI2Vm9qXzRHUjRYSkJLSk9rR085QVl2Z1RGLWp0NlZRcFk4cVRTNUhVVTJVX2JtRkFrVFZZMDJGSHdldE04T1YyX2U5cw?oc=5"
+   }
+  },
+  {
+   "key": "CBMiuwFBVV95cUxPZV9lQ2ZjT0xJWjdnQVo0U3BlWTBWR0ZZTy04bjA3ZDlTbmR3cnFNX3lxcDBBUlJpbHVGTWdlTk9JRXJoQVdKa2xvRFFaUExqMS1HTmxrVzlDR05Ma1J5bjJ0ZnRpaFJwbWJpNXJiZVJFTVdubHljanVmekozdUMxYkQ0YldoVXo0TlFlTFRDdm94eTlEQ1g2MFpxeEM5WFl4WXZ0Z20wamhTbXVyaFMzNGpGM2VYeFg0bjZv",
+   "source": "authorizations-news",
+   "fields": {
+    "date": "Tue, 18 Aug 2020 07:00:00 GMT",
+    "text": "19 additional AWS services authorized at DoD Impact Level 5 for AWS GovCloud (US) Regions - Amazon Web Services (AWS)",
+    "title": "19 additional AWS services authorized at DoD Impact Level 5 for AWS GovCloud (US) Regions - Amazon Web Services (AWS)",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZV9lQ2ZjT0xJWjdnQVo0U3BlWTBWR0ZZTy04bjA3ZDlTbmR3cnFNX3lxcDBBUlJpbHVGTWdlTk9JRXJoQVdKa2xvRFFaUExqMS1HTmxrVzlDR05Ma1J5bjJ0ZnRpaFJwbWJpNXJiZVJFTVdubHljanVmekozdUMxYkQ0YldoVXo0TlFlTFRDdm94eTlEQ1g2MFpxeEM5WFl4WXZ0Z20wamhTbXVyaFMzNGpGM2VYeFg0bjZv?oc=5"
+   }
+  },
+  {
+   "key": "CBMilwFBVV95cUxQbzRnUG52aERXQ20ybVk5alZQTWI4M05XeGUxaTRBZ25kVnVPZmw1akJLRDBOSDllMExuclI5M0Q3RDRDU2puNjhPbGRUVC1jQ1lhTlZZNF83NnZqbXNyZU9fVHNsLVc4eUUxWTlrYXJySlg2YmVPUFFzSnU5OGdLbDRwRFh1WnE1LXllSG9ENUhqQWxqckVv",
+   "source": "authorizations-news",
+   "fields": {
+    "date": "Thu, 10 Oct 2024 07:00:00 GMT",
+    "text": "Ask Sage Achieves IL5 Authorization - Business Wire",
+    "title": "Ask Sage Achieves IL5 Authorization - Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbzRnUG52aERXQ20ybVk5alZQTWI4M05XeGUxaTRBZ25kVnVPZmw1akJLRDBOSDllMExuclI5M0Q3RDRDU2puNjhPbGRUVC1jQ1lhTlZZNF83NnZqbXNyZU9fVHNsLVc4eUUxWTlrYXJySlg2YmVPUFFzSnU5OGdLbDRwRFh1WnE1LXllSG9ENUhqQWxqckVv?oc=5"
+   }
+  },
+  {
+   "key": "CBMic0FVX3lxTE05M2FfcFFUOV85VERpVl9RMElZMEM5cEt5bFVqUjNRT0VKQk1pZGpkNGNWOXFVTjZxTzNiS29jUEN0cVczZ1lzUVRuekw0VW1XdUZ2UHdiSDBRS2toanFOeDJaLUh5Zi1YU2Iya01oMWFSdUk",
+   "source": "authorizations-news",
+   "fields": {
+    "date": "Mon, 14 Apr 2025 07:00:00 GMT",
+    "text": "DISA Grants Snowflake Impact Level 5 Authorization - ExecutiveBiz",
+    "title": "DISA Grants Snowflake Impact Level 5 Authorization - ExecutiveBiz",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05M2FfcFFUOV85VERpVl9RMElZMEM5cEt5bFVqUjNRT0VKQk1pZGpkNGNWOXFVTjZxTzNiS29jUEN0cVczZ1lzUVRuekw0VW1XdUZ2UHdiSDBRS2toanFOeDJaLUh5Zi1YU2Iya01oMWFSdUk?oc=5"
+   }
+  },
+  {
+   "key": "CBMisAFBVV95cUxOU2RhNnBKb3pXX2Jva3IwdEh1LTZxakNLY1l0eC1XN2RrM1RVZ2ZSUFlXQllpNnhnSnhJczJ1TVNOdDNCbnhUY1J2ZHVLY3YwWVpJWlNOak1vR1lZV3k1Wm95TVB3M21Vd19CVWtVSW13TlhRVE9nODR0LWZiX1VrLXM2d3B6N1RNanA3X09YdTFsZF82VndWd0NNamF3cDZNMjhiMEk5TDM3ZzJiVzdPeQ",
+   "source": "authorizations-news",
+   "fields": {
+    "date": "Tue, 12 Sep 2017 07:00:00 GMT",
+    "text": "AWS Earns Department of Defense Impact Level 5 Provisional Authorization - Amazon Web Services (AWS)",
+    "title": "AWS Earns Department of Defense Impact Level 5 Provisional Authorization - Amazon Web Services (AWS)",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU2RhNnBKb3pXX2Jva3IwdEh1LTZxakNLY1l0eC1XN2RrM1RVZ2ZSUFlXQllpNnhnSnhJczJ1TVNOdDNCbnhUY1J2ZHVLY3YwWVpJWlNOak1vR1lZV3k1Wm95TVB3M21Vd19CVWtVSW13TlhRVE9nODR0LWZiX1VrLXM2d3B6N1RNanA3X09YdTFsZF82VndWd0NNamF3cDZNMjhiMEk5TDM3ZzJiVzdPeQ?oc=5"
+   }
+  },
+  {
+   "key": "CBMivgFBVV95cUxQN2s4WUI0b1N2RVA1MV9NZGxQLWRJdWQyVHlING5EU1hrV1BLWFhjcEZXbWlleDhlNTJVTGpOY0YxbmpvSFZYQm85MVZheXdLRjJUZG1MRjB4cUJzWGRZQUNMTTZEMnc5dWFUQXBtQUZuNkJ0TTZYWGhEWWwyQm0xNVgtaFdDMk95RS1DV3JJdThRLVJVQXdsX0cweVM5SHpCcmVNV3daWkJuZllxQVl5THlWQkJoQVU1SjE1enpB",
+   "source": "authorizations-news",
+   "fields": {
+    "date": "Tue, 27 Aug 2024 07:00:00 GMT",
+    "text": "Salesforce Offers As-a-Service Platform With DISA BCAP Connection, IL5 Authorization - ExecutiveBiz",
+    "title": "Salesforce Offers As-a-Service Platform With DISA BCAP Connection, IL5 Authorization - ExecutiveBiz",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQN2s4WUI0b1N2RVA1MV9NZGxQLWRJdWQyVHlING5EU1hrV1BLWFhjcEZXbWlleDhlNTJVTGpOY0YxbmpvSFZYQm85MVZheXdLRjJUZG1MRjB4cUJzWGRZQUNMTTZEMnc5dWFUQXBtQUZuNkJ0TTZYWGhEWWwyQm0xNVgtaFdDMk95RS1DV3JJdThRLVJVQXdsX0cweVM5SHpCcmVNV3daWkJuZllxQVl5THlWQkJoQVU1SjE1enpB?oc=5"
+   }
+  }
+ ]
+}

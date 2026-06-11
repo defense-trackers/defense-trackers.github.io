@@ -51,18 +51,54 @@ export function badgeEl(s) {
   return span;
 }
 
+// A tracker may have several sources; its board badge is the worst of them,
+// dated to the most recent success.
+function aggregate(sources) {
+  const rank = { ok: 0, warn: 1, bad: 2 };
+  let worst = 'ok', latest = 0;
+  for (const s of sources) {
+    const c = badgeFor(s).cls;
+    if (rank[c] > rank[worst]) worst = c;
+    const ls = Date.parse(s.last_success || 0) || 0;
+    if (ls > latest) latest = ls;
+  }
+  const label = worst === 'ok' ? 'fresh' : worst === 'warn' ? 'lagging' : 'attention';
+  return { cls: worst, label, latest };
+}
+
+function aggBadgeEl(agg) {
+  const span = document.createElement('span');
+  span.className = 'badge ' + agg.cls;
+  const dot = document.createElement('span');
+  dot.className = 'dot' + (agg.cls === 'ok' ? ' live' : '');
+  dot.setAttribute('aria-hidden', 'true');
+  const text = document.createElement('span');
+  const iso = agg.latest ? new Date(agg.latest).toISOString() : '';
+  text.textContent = `${agg.label} · ${relTime(iso)}`;
+  span.append(dot, text);
+  return span;
+}
+
 export function renderIndex(status) {
   const list = $('trackers');
   list.textContent = '';
-  const entries = Object.entries(status).sort(([a], [b]) => a.localeCompare(b));
+
+  const groups = {};
+  for (const s of Object.values(status)) {
+    const t = s.tracker || 'unknown';
+    (groups[t] = groups[t] || []).push(s);
+  }
+  const trackers = Object.keys(groups).sort();
 
   let fresh = 0, attn = 0, newest = 0;
-  for (const [, s] of entries) {
-    const cls = badgeFor(s).cls;
-    if (cls === 'ok') fresh++; else attn++;
-    newest = Math.max(newest, Date.parse(s.last_attempt || s.last_success || 0) || 0);
+  for (const t of trackers) {
+    const agg = aggregate(groups[t]);
+    if (agg.cls === 'ok') fresh++; else attn++;
+    for (const s of groups[t]) {
+      newest = Math.max(newest, Date.parse(s.last_attempt || s.last_success || 0) || 0);
+    }
   }
-  if ($('stat-total')) $('stat-total').textContent = entries.length;
+  if ($('stat-total')) $('stat-total').textContent = trackers.length;
   if ($('stat-fresh')) $('stat-fresh').textContent = fresh;
   if ($('stat-attn'))  $('stat-attn').textContent = attn;
   if ($('last-published')) {
@@ -71,19 +107,20 @@ export function renderIndex(status) {
     $('last-published').title = iso;
   }
 
-  if (entries.length === 0) {
+  if (trackers.length === 0) {
     const li = document.createElement('li');
     li.className = 'empty';
-    li.textContent = 'No sources published yet — the first engine run creates them.';
+    li.textContent = 'No trackers published yet — the first engine run creates them.';
     list.append(li);
     return;
   }
 
-  for (const [id, s] of entries) {
-    const b = badgeFor(s);
+  for (const t of trackers) {
+    const sources = groups[t];
+    const agg = aggregate(sources);
     const li = document.createElement('li');
     li.className = 'track';
-    li.dataset.state = b.cls;
+    li.dataset.state = agg.cls;
 
     const rail = document.createElement('span');
     rail.className = 'rail';
@@ -93,22 +130,16 @@ export function renderIndex(status) {
     mainEl.className = 'track-main';
     const a = document.createElement('a');
     a.className = 'track-name';
-    a.href = 'tracker.html?t=' + encodeURIComponent(s.tracker);
-    a.textContent = s.tracker;
+    a.href = 'tracker.html?t=' + encodeURIComponent(t);
+    a.textContent = t;
     const idEl = document.createElement('span');
     idEl.className = 'track-id mono dim';
-    idEl.textContent = id;
+    idEl.textContent = sources.length + (sources.length === 1 ? ' source' : ' sources');
     mainEl.append(a, idEl);
-    if (s.message) {
-      const msg = document.createElement('div');
-      msg.className = 'track-msg mono';
-      msg.textContent = s.message;
-      mainEl.append(msg);
-    }
 
     const statusEl = document.createElement('div');
     statusEl.className = 'track-status';
-    statusEl.append(badgeEl(s));
+    statusEl.append(aggBadgeEl(agg));
 
     li.append(rail, mainEl, statusEl);
     list.append(li);
@@ -136,14 +167,16 @@ export async function renderTracker(t) {
 
   try {
     const status = await loadStatus();
-    const mine = Object.values(status).find((s) => s.tracker === t);
-    if (mine) {
-      $('t-badge').replaceWith(badgeEl(mine));
-      if (mine.message) $('t-message').textContent = mine.message;
+    const mine = Object.values(status).filter((s) => s.tracker === t);
+    if (mine.length) {
+      $('t-badge').replaceWith(aggBadgeEl(aggregate(mine)));
+      $('t-message').textContent =
+        mine.length + (mine.length === 1 ? ' source' : ' sources') +
+        ' · ' + mine.map((s) => s.message).filter(Boolean).join('   ·   ');
     }
   } catch { /* badge optional if status missing */ }
 
-  const evs = (await fetchEvents(t)).reverse().slice(0, 200);
+  const evs = (await fetchEvents(t)).reverse().slice(0, 50);
   const list = $('events');
   list.textContent = '';
   if (evs.length === 0) {
@@ -173,21 +206,122 @@ export async function renderTracker(t) {
     if (!r.ok) throw new Error('HTTP ' + r.status);
     const cur = await r.json();
     const recs = cur.records || [];
-    $('rec-count').textContent = `(${recs.length}, as of ${(cur.fetched_at || '').slice(0, 16).replace('T', ' ')}Z)`;
-    const tbody = $('records').querySelector('tbody');
-    for (const rec of recs.slice(0, 500)) {
-      const tr = document.createElement('tr');
-      const key = document.createElement('td');
-      key.className = 'mono dim';
-      key.textContent = rec.key;
-      const val = document.createElement('td');
-      val.textContent = rec.fields ? (rec.fields.text || JSON.stringify(rec.fields)) : '';
-      tr.append(key, val);
-      tbody.append(tr);
-    }
+    $('rec-count').textContent = `(${recs.length} records, as of ${(cur.fetched_at || '').slice(0, 16).replace('T', ' ')}Z)`;
+    renderReports(t, recs);
   } catch (e) {
     $('rec-count').textContent = '(records unavailable: ' + e.message + ')';
   }
+}
+
+// --- per-source report tables: each source renders as its own table whose
+// columns are derived from the fields actually present, so every tracker reads
+// as a tailored report without any per-tracker code. ---
+
+const COL_PRIORITY = ['date', 'posted', 'closes', 'status', 'type', 'agency', 'amount',
+  'downloads', 'likes', 'stars', 'license', 'params', 'network', 'data_ceiling', 'service',
+  'sdk', 'country', 'category', 'manufacturer', 'framework_status', 'provenance', 'air_gap',
+  'tags', 'description', 'note', 'as_of', 'award_id', 'repo', 'archived'];
+const NAME_FIELDS = new Set(['text', 'title', 'name', 'url', 'key', 'source']);
+
+function pretty(k) { return k.replace(/_/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase()); }
+
+function fmtVal(k, v) {
+  if (/date|posted|closes|as_of|published/i.test(k) && /^\d{4}-\d{2}-\d{2}T/.test(v)) return v.slice(0, 10);
+  return v;
+}
+
+function renderReports(t, recs) {
+  const box = $('records');
+  box.textContent = '';
+  const order = [], groups = {};
+  for (const rec of recs) {
+    const s = rec.source || '(unsourced)';
+    if (!groups[s]) { groups[s] = []; order.push(s); }
+    groups[s].push(rec);
+  }
+  if (order.length === 0) {
+    const p = document.createElement('p');
+    p.className = 'empty';
+    p.textContent = 'No records yet.';
+    box.append(p);
+    return;
+  }
+  for (const src of order) {
+    const rows = groups[src];
+    const section = document.createElement('section');
+    section.className = 'report';
+    const h = document.createElement('h3');
+    h.className = 'report-head';
+    const label = src.startsWith(t + '-') ? src.slice(t.length + 1) : src;
+    const name = document.createElement('span');
+    name.className = 'report-src';
+    name.textContent = label;
+    const cnt = document.createElement('span');
+    cnt.className = 'mono dim';
+    cnt.textContent = ' · ' + rows.length;
+    h.append(name, cnt);
+    section.append(h, buildTable(rows));
+    box.append(section);
+  }
+}
+
+function buildTable(rows) {
+  const keys = new Set();
+  for (const r of rows) {
+    for (const k of Object.keys(r.fields || {})) {
+      if (!NAME_FIELDS.has(k)) keys.add(k);
+    }
+  }
+  const cols = [...keys].sort((a, b) => {
+    const ia = COL_PRIORITY.indexOf(a), ib = COL_PRIORITY.indexOf(b);
+    return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib) || a.localeCompare(b);
+  });
+
+  const table = document.createElement('table');
+  table.className = 'report-table';
+  const thead = document.createElement('thead');
+  const htr = document.createElement('tr');
+  const th0 = document.createElement('th');
+  th0.textContent = 'name';
+  htr.append(th0);
+  for (const c of cols) {
+    const th = document.createElement('th');
+    th.textContent = pretty(c);
+    if (/amount|downloads|likes|stars/i.test(c)) th.className = 'num';
+    htr.append(th);
+  }
+  thead.append(htr);
+  table.append(thead);
+
+  const tbody = document.createElement('tbody');
+  for (const r of rows.slice(0, 500)) {
+    const f = r.fields || {};
+    const tr = document.createElement('tr');
+    const td0 = document.createElement('td');
+    td0.className = 'col-name';
+    const label = f.title || f.name || f.text || r.key;
+    if (f.url) {
+      const a = document.createElement('a');
+      a.href = f.url;
+      a.target = '_blank';
+      a.rel = 'noopener';
+      a.textContent = label;
+      td0.append(a);
+    } else {
+      td0.textContent = label;
+    }
+    tr.append(td0);
+    for (const c of cols) {
+      const td = document.createElement('td');
+      const v = f[c];
+      td.textContent = v ? fmtVal(c, v) : '—';
+      if (/amount|downloads|likes|stars/i.test(c)) td.className = 'num';
+      tr.append(td);
+    }
+    tbody.append(tr);
+  }
+  table.append(tbody);
+  return table;
 }
 
 // Live UTC clock in the system bar — cosmetic, reinforces the "honest about

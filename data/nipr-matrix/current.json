@@ -1,0 +1,74 @@
+{
+ "source": "nipr-matrix",
+ "tracker": "nipr-matrix",
+ "fetched_at": "2026-06-11T03:04:58Z",
+ "schema_version": 1,
+ "records": [
+  {
+   "key": "GenAI.mil",
+   "source": "nipr-matrix",
+   "fields": {
+    "as_of": "2026-06",
+    "data_ceiling": "CUI",
+    "network": "NIPR",
+    "service": "DoD enterprise",
+    "status": "live",
+    "text": "GenAI.mil",
+    "tool": "GenAI.mil",
+    "url": "https://genai.mil"
+   }
+  },
+  {
+   "key": "CamoGPT",
+   "source": "nipr-matrix",
+   "fields": {
+    "as_of": "2026-06",
+    "data_ceiling": "CUI",
+    "network": "NIPR / SIPR",
+    "service": "Army",
+    "status": "live (R\u0026D platform)",
+    "text": "CamoGPT",
+    "tool": "CamoGPT"
+   }
+  },
+  {
+   "key": "Army Enterprise LLM Workspace (Ask Sage)",
+   "source": "nipr-matrix",
+   "fields": {
+    "as_of": "2026-06",
+    "data_ceiling": "CUI",
+    "network": "NIPR",
+    "service": "Army",
+    "status": "live (FedRAMP High)",
+    "text": "Army Enterprise LLM Workspace (Ask Sage)",
+    "tool": "Army Enterprise LLM Workspace (Ask Sage)"
+   }
+  },
+  {
+   "key": "NIPRGPT",
+   "source": "nipr-matrix",
+   "fields": {
+    "as_of": "2026-06",
+    "data_ceiling": "PUBLIC",
+    "network": "NIPR",
+    "service": "Air Force",
+    "status": "sunset 2025-12-31 -\u003e GenAI.mil",
+    "text": "NIPRGPT",
+    "tool": "NIPRGPT"
+   }
+  },
+  {
+   "key": "Ask Hamilton",
+   "source": "nipr-matrix",
+   "fields": {
+    "as_of": "2026-06",
+    "data_ceiling": "CUI",
+    "network": "NIPR",
+    "service": "USCG",
+    "status": "live",
+    "text": "Ask Hamilton",
+    "tool": "Ask Hamilton"
+   }
+  }
+ ]
+}
