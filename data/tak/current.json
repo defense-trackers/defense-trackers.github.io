@@ -1,19 +1,31 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-06-11T22:28:10Z",
+ "fetched_at": "2026-06-11T23:08:11Z",
  "schema_version": 1,
  "records": [
   {
    "key": "engindearing-projects/OmniTAK-Android",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-06-11T21:55:20Z",
+    "date": "2026-06-11T23:06:09Z",
     "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
     "stars": "10",
     "text": "engindearing-projects/OmniTAK-Android",
     "title": "engindearing-projects/OmniTAK-Android",
     "url": "https://github.com/engindearing-projects/OmniTAK-Android"
+   }
+  },
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-06-11T22:44:00Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "42",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -26,18 +38,6 @@
     "text": "engindearing-projects/OmniTAK-iOS",
     "title": "engindearing-projects/OmniTAK-iOS",
     "url": "https://github.com/engindearing-projects/OmniTAK-iOS"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-06-11T17:17:19Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "42",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-06-11T22:23:12Z",
+    "date": "2026-06-11T22:59:03Z",
     "description": "full port of Reticulum and LXMF to Rust with added SDK",
     "stars": "18",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -771,7 +771,7 @@
    "fields": {
     "date": "2026-06-11T02:18:03Z",
     "description": "Live Google traffic overlay in ATAK (no plugin, custom map source XML) and OmniTAK — verified guide with screenshots and source-level receipts",
-    "stars": "1",
+    "stars": "2",
     "text": "engindearing-projects/tak-live-traffic-guide",
     "title": "engindearing-projects/tak-live-traffic-guide",
     "url": "https://github.com/engindearing-projects/tak-live-traffic-guide"
