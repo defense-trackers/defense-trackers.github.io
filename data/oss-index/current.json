@@ -1,7 +1,7 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-06-11T15:19:43Z",
+ "fetched_at": "2026-06-11T20:40:09Z",
  "schema_version": 1,
  "records": [
   {
@@ -308,7 +308,7 @@
    "key": "cisagov/ncats-webui",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-03-26T13:39:00Z",
+    "date": "2026-06-11T15:58:55Z",
     "stars": "5",
     "text": "cisagov/ncats-webui",
     "title": "cisagov/ncats-webui",
@@ -857,7 +857,7 @@
    "key": "cisagov/cset",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-06-10T20:36:20Z",
+    "date": "2026-06-11T18:41:02Z",
     "description": "Cybersecurity Evaluation Tool",
     "stars": "1835",
     "text": "cisagov/cset",
@@ -905,7 +905,7 @@
    "key": "cisagov/ansible-role-ncats-webui",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-06-08T03:52:40Z",
+    "date": "2026-06-11T19:55:50Z",
     "description": "An Ansible role for installing cisagov/ncats-webui.",
     "stars": "4",
     "text": "cisagov/ansible-role-ncats-webui",
@@ -1097,7 +1097,7 @@
    "key": "cisagov/pca-gophish-composition-packer",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-06-11T14:24:24Z",
+    "date": "2026-06-11T15:40:09Z",
     "description": "Create machine images that include cisagov/pca-gophish-composition",
     "stars": "5",
     "text": "cisagov/pca-gophish-composition-packer",
@@ -1276,7 +1276,7 @@
    "key": "cisagov/kali-packer",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-06-03T16:44:02Z",
+    "date": "2026-06-11T20:23:02Z",
     "description": "This project can be used to create AMIs based on Kali Linux, a penetration testing distribution.",
     "stars": "21",
     "text": "cisagov/kali-packer",
@@ -1756,7 +1756,7 @@
    "key": "cisagov/teamserver-packer",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-06-05T16:22:53Z",
+    "date": "2026-06-11T20:21:12Z",
     "description": "Create an AMI with CobaltStrike and related tools.",
     "stars": "12",
     "text": "cisagov/teamserver-packer",
@@ -2748,7 +2748,7 @@
    "key": "idaholab/moose",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-06-11T14:34:14Z",
+    "date": "2026-06-11T16:56:59Z",
     "description": "Multiphysics Object Oriented Simulation Environment",
     "stars": "2263",
     "text": "idaholab/moose",
@@ -2819,7 +2819,7 @@
    "key": "idaholab/civet",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-06-10T14:16:41Z",
+    "date": "2026-06-11T16:41:33Z",
     "description": "Continuous Integration, Verification, Enhancement, and Testing",
     "stars": "39",
     "text": "idaholab/civet",
@@ -2843,7 +2843,7 @@
    "key": "idaholab/large_media",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-06-04T23:26:19Z",
+    "date": "2026-06-11T19:45:40Z",
     "description": "A repository for storing large images and movies associated with MOOSE documentation.",
     "stars": "6",
     "text": "idaholab/large_media",
@@ -2893,7 +2893,7 @@
    "fields": {
     "date": "2026-06-09T11:59:08Z",
     "description": "A MOOSE app for structural dynamics, seismic analysis, and risk assessment. ",
-    "stars": "50",
+    "stars": "51",
     "text": "idaholab/mastodon",
     "title": "idaholab/mastodon",
     "url": "https://github.com/idaholab/mastodon"
@@ -3083,7 +3083,7 @@
    "fields": {
     "date": "2026-06-09T13:15:49Z",
     "description": "Tritium Migration Analysis Program, Version 8",
-    "stars": "32",
+    "stars": "35",
     "text": "idaholab/TMAP8",
     "title": "idaholab/TMAP8",
     "url": "https://github.com/idaholab/TMAP8"
@@ -5675,7 +5675,7 @@
    "fields": {
     "date": "2026-06-10T23:55:17Z",
     "description": "Simplified Data Exchange for HPC Simulations",
-    "stars": "242",
+    "stars": "243",
     "text": "llnl/conduit",
     "title": "llnl/conduit",
     "url": "https://github.com/llnl/conduit"
@@ -5817,7 +5817,7 @@
    "key": "llnl/RAJA",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-06-11T14:40:56Z",
+    "date": "2026-06-11T15:23:11Z",
     "description": "RAJA Performance Portability Layer (C++)",
     "stars": "584",
     "text": "llnl/RAJA",
@@ -6539,7 +6539,7 @@
    "fields": {
     "date": "2026-06-08T14:09:39Z",
     "description": "Cyber Threat Intelligence Repository expressed in STIX 2.0",
-    "stars": "2078",
+    "stars": "2079",
     "text": "mitre/cti",
     "title": "mitre/cti",
     "url": "https://github.com/mitre/cti"
@@ -6837,7 +6837,7 @@
    "key": "mitre/vulcan",
    "source": "oss-mitre",
    "fields": {
-    "date": "2026-06-11T06:18:31Z",
+    "date": "2026-06-11T19:33:45Z",
     "description": "A web application to streamline the development of STIGs from SRGs",
     "stars": "85",
     "text": "mitre/vulcan",
@@ -7443,7 +7443,7 @@
    "key": "nasa/trick",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-06-10T22:34:28Z",
+    "date": "2026-06-11T20:33:12Z",
     "description": "Trick Simulation Environment.  Trick provides a common set of simulation capabilities and utilities to build simulations automatically.",
     "stars": "149",
     "text": "nasa/trick",
@@ -7503,7 +7503,7 @@
    "key": "nasa/openmct",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-06-09T17:28:17Z",
+    "date": "2026-06-11T17:43:21Z",
     "description": "A web based mission control framework. ",
     "stars": "12997",
     "text": "nasa/openmct",
@@ -8523,7 +8523,7 @@
    "key": "ngageoint/mage-server",
    "source": "oss-ngageoint",
    "fields": {
-    "date": "2026-06-11T15:03:27Z",
+    "date": "2026-06-11T20:11:42Z",
     "description": "Mage Server",
     "stars": "99",
     "text": "ngageoint/mage-server",
@@ -10316,7 +10316,7 @@
    "key": "nsacyber/HIRS",
    "source": "oss-nsacyber",
    "fields": {
-    "date": "2026-06-10T23:04:51Z",
+    "date": "2026-06-11T18:43:32Z",
     "description": "Trusted Computing based services supporting TPM provisioning and supply chain validation concepts. #nsacyber",
     "stars": "211",
     "text": "nsacyber/HIRS",
@@ -10328,7 +10328,7 @@
    "key": "nsacyber/paccor",
    "source": "oss-nsacyber",
    "fields": {
-    "date": "2026-06-11T13:58:21Z",
+    "date": "2026-06-11T18:53:26Z",
     "description": "The Platform Attribute Certificate Creator can gather component details, create, sign, and validate the TCG-defined Platform Credential. #nsacyber",
     "stars": "76",
     "text": "nsacyber/paccor",
@@ -11262,7 +11262,7 @@
    "key": "ORNL/flowcept",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-06-11T15:16:52Z",
+    "date": "2026-06-11T20:32:37Z",
     "description": "Runtime provenance for AI and scientific workflows—capture, enrich, and query workflow data via observability adapters and code annotation across edge, cloud, and HPC.",
     "stars": "27",
     "text": "ORNL/flowcept",
@@ -11513,7 +11513,7 @@
    "key": "ORNL/GridKit",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-06-11T13:04:55Z",
+    "date": "2026-06-11T16:29:14Z",
     "description": "Modeling framework for power systems simulations and analysis.",
     "stars": "18",
     "text": "ORNL/GridKit",
@@ -12071,7 +12071,7 @@
    "key": "sandialabs/Norma.jl",
    "source": "oss-sandialabs",
    "fields": {
-    "date": "2026-06-06T19:51:00Z",
+    "date": "2026-06-11T20:38:20Z",
     "description": "A Julia testbed for solid mechanics, coupling and multiphysics",
     "stars": "22",
     "text": "sandialabs/Norma.jl",
@@ -12462,7 +12462,7 @@
    "key": "sandialabs/SpecUtils",
    "source": "oss-sandialabs",
    "fields": {
-    "date": "2026-06-10T20:17:18Z",
+    "date": "2026-06-11T17:40:42Z",
     "description": "A library for opening, manipulating, and exporting gamma spectral files",
     "stars": "46",
     "text": "sandialabs/SpecUtils",
@@ -13344,7 +13344,7 @@
    "fields": {
     "date": "2022-03-07T15:51:55Z",
     "description": "Python scripts for analysis of crystallographic texture",
-    "stars": "24",
+    "stars": "25",
     "text": "usnistgov/texture",
     "title": "usnistgov/texture",
     "url": "https://github.com/usnistgov/texture"

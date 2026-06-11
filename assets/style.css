@@ -282,6 +282,27 @@ section + section { margin-top: 2.6rem; }
 .gres-tracker { display: inline-block; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-weight: 600; color: var(--brand); margin-bottom: .35rem; }
 .gres-row { font-size: .9rem; color: var(--ink-2); padding: .12rem 0; }
 
+/* sparkline */
+.sparkline { margin: 1rem 0 0; display: flex; align-items: center; gap: .6rem; }
+.spark-path { stroke: var(--brand); }
+.spark-label { font-size: .72rem; }
+
+/* closing-soon homepage panel */
+.closing-soon { margin: 0 0 2rem; padding: 1rem 1.15rem; background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow); }
+.closing-soon h2 { margin: 0 0 .8rem; color: var(--ink); text-transform: none; letter-spacing: -.01em; font-size: 1.05rem; }
+.soon-list { list-style: none; margin: 0; padding: 0; }
+.soon-list li { display: flex; flex-wrap: wrap; gap: .6rem; align-items: baseline; padding: .45rem 0; border-bottom: 1px solid var(--line); }
+.soon-list li:last-child { border-bottom: none; }
+.soon-date { color: var(--warn); white-space: nowrap; font-size: .82rem; }
+.soon-title { flex: 1 1 28ch; }
+
+/* about-this-tracker */
+.about { margin: .9rem 0 0; }
+.about > summary { cursor: pointer; color: var(--ink-2); font-size: .85rem; }
+.about-sources { list-style: none; margin: .6rem 0; padding: 0; }
+.about-sources li { padding: .2rem 0; font-size: .85rem; }
+.about-body p { font-size: .85rem; }
+
 /* ---- prose (methodology) ------------------------------------------------- */
 .prose h2 { color: var(--ink); text-transform: none; letter-spacing: -.01em; font-size: 1.15rem; margin-top: 2rem; }
 .prose p, .prose li { color: var(--ink-2); }

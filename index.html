@@ -52,12 +52,14 @@
       <span><span class="dot warn"></span> lagging — overdue, last-good still shown</span>
       <span><span class="dot bad"></span> stale / degraded — not current</span>
     </div>
+    <div id="sparkline" class="sparkline"></div>
   </div>
 </header>
 
 <main class="wrap">
   <input id="gsearch" class="gsearch" type="search" placeholder="Search across every tracker…" aria-label="Search all trackers">
   <div id="gresults" class="gresults" style="display:none"></div>
+  <section id="closing-soon" class="closing-soon" style="display:none"></section>
   <section id="board-section">
     <h2>Trackers</h2>
     <ol id="trackers" class="tracker-list">

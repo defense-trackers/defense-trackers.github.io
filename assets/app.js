@@ -156,6 +156,8 @@ export function renderIndex(status) {
     list.append(li);
   }
   wireGlobalSearch(status);
+  renderClosingSoon();
+  renderSparkline();
 }
 
 async function fetchEvents(tracker) {
@@ -187,6 +189,7 @@ export async function renderTracker(t) {
         mine.length + (mine.length === 1 ? ' source' : ' sources') +
         ' · ' + mine.map((s) => s.message).filter(Boolean).join('   ·   ');
     }
+    renderAbout(t, status);
   } catch { /* badge optional if status missing */ }
 
   const evs = (await fetchEvents(t)).reverse().slice(0, 50);
@@ -393,6 +396,78 @@ function wireGlobalSearch(status) {
     gr.style.display = '';
     renderGlobalResults(gr, hits, gs.value.trim());
   });
+}
+
+// homepage: solicitations & events closing in the next 30 days, soonest first
+async function renderClosingSoon() {
+  const el = document.getElementById('closing-soon');
+  if (!el) return;
+  let recs = [];
+  try { const r = await fetch('/data/deadlines/current.json', { cache: 'no-store' }); if (r.ok) recs = (await r.json()).records || []; } catch { return; }
+  const now = Date.now();
+  const soon = recs
+    .map((rc) => ({ f: rc.fields || {}, t: pd((rc.fields || {}).date || (rc.fields || {}).closes) }))
+    .filter((x) => !isNaN(x.t) && x.t >= now && x.t <= now + 30 * 864e5)
+    .sort((a, b) => a.t - b.t)
+    .slice(0, 12);
+  if (!soon.length) return;
+  el.style.display = '';
+  el.textContent = '';
+  const h = document.createElement('h2'); h.textContent = 'Closing in the next 30 days'; el.append(h);
+  const ul = document.createElement('ul'); ul.className = 'soon-list';
+  for (const x of soon) {
+    const li = document.createElement('li');
+    const days = Math.ceil((x.t - now) / 864e5);
+    const d = document.createElement('span'); d.className = 'soon-date mono';
+    d.textContent = (x.f.date || x.f.closes || '').slice(0, 10) + ' · ' + (days === 0 ? 'today' : days + 'd');
+    const tt = document.createElement('span'); tt.className = 'soon-title';
+    const label = x.f.title || x.f.text || '';
+    if (x.f.url) { const a = document.createElement('a'); a.href = x.f.url; a.target = '_blank'; a.rel = 'noopener'; a.textContent = label; tt.append(a); } else tt.textContent = label;
+    li.append(d, tt);
+    if (x.f.from) { const fr = document.createElement('span'); fr.className = 'mono dim'; fr.textContent = x.f.from; li.append(fr); }
+    ul.append(li);
+  }
+  el.append(ul);
+}
+
+// homepage: data-points-over-time sparkline from the appended metrics history
+async function renderSparkline() {
+  const el = document.getElementById('sparkline');
+  if (!el) return;
+  let pts = [];
+  try { const r = await fetch('/data/metrics.jsonl', { cache: 'no-store' }); if (r.ok) pts = (await r.text()).trim().split('\n').map((l) => { try { return JSON.parse(l); } catch { return null; } }).filter(Boolean); } catch { return; }
+  if (pts.length < 2) return;
+  pts = pts.slice(-40);
+  const vals = pts.map((p) => p.total || 0);
+  const max = Math.max(...vals), min = Math.min(...vals);
+  const w = 180, h = 34, n = vals.length;
+  const norm = (v) => (max === min ? h / 2 : h - 3 - ((v - min) / (max - min)) * (h - 6));
+  const step = n > 1 ? w / (n - 1) : 0;
+  const d = vals.map((v, i) => `${i === 0 ? 'M' : 'L'}${(i * step).toFixed(1)},${norm(v).toFixed(1)}`).join(' ');
+  el.innerHTML = `<svg viewBox="0 0 ${w} ${h}" width="${w}" height="${h}" preserveAspectRatio="none" aria-label="data points over time"><path class="spark-path" d="${d}" fill="none" stroke-width="1.5"/></svg><span class="spark-label mono dim">data points · last ${n} runs</span>`;
+}
+
+// tracker page: which sources feed it, their state, and cadence
+function renderAbout(t, status) {
+  const el = document.getElementById('about-body');
+  if (!el) return;
+  el.textContent = '';
+  const sources = Object.entries(status).filter(([, s]) => s.tracker === t).sort();
+  const ul = document.createElement('ul');
+  ul.className = 'about-sources';
+  for (const [id, s] of sources) {
+    const li = document.createElement('li');
+    const name = document.createElement('span'); name.className = 'mono'; name.textContent = id;
+    const meta = document.createElement('span'); meta.className = 'dim';
+    meta.textContent = ` — ${s.state}, ${s.count || 0} records, every ${s.cadence_hours || 24}h`;
+    li.append(name, meta);
+    ul.append(li);
+  }
+  el.append(ul);
+  const note = document.createElement('p');
+  note.className = 'dim';
+  note.innerHTML = 'Public sources only; append-only and hash-chained. See the <a href="/methodology.html">methodology</a> for what is deliberately excluded.';
+  el.append(note);
 }
 
 function renderReports(t, recs) {

@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-06-11T15:19:49Z",
+ "fetched_at": "2026-06-11T20:40:15Z",
  "schema_version": 1,
  "records": [
   {
@@ -471,6 +471,7 @@
    "source": "pipeline-autonomy",
    "fields": {
     "agency": "Rural Utilities Service",
+    "closes": "06/11/2026",
     "number": "RD-RUS-CY22DISASTER",
     "posted": "06/22/2023",
     "text": "Calendar Year 2022 Disaster Water Grants",
@@ -1080,6 +1081,17 @@
    }
   },
   {
+   "key": "362767",
+   "source": "pipeline-autonomy",
+   "fields": {
+    "agency": "Administration for Community Living",
+    "number": "HHS-2026-ACL-AOA-EESC-0037",
+    "posted": "06/11/2026",
+    "text": "National Information and Referral Support Center",
+    "title": "National Information and Referral Support Center"
+   }
+  },
+  {
    "key": "336273",
    "source": "pipeline-autonomy",
    "fields": {
@@ -1122,17 +1134,6 @@
     "posted": "09/26/2025",
     "text": "Collaborative Awards to Support Microphysiological System Pilot Studies in Type 2 Diabetes Research",
     "title": "Collaborative Awards to Support Microphysiological System Pilot Studies in Type 2 Diabetes Research"
-   }
-  },
-  {
-   "key": "360660",
-   "source": "pipeline-autonomy",
-   "fields": {
-    "agency": "National Institutes of Health",
-    "number": "PAR-26-144",
-    "posted": "09/26/2025",
-    "text": "Global Brain and Nervous System Disorders Research Across the Lifespan - Exploratory Grants",
-    "title": "Global Brain and Nervous System Disorders Research Across the Lifespan - Exploratory Grants"
    }
   },
   {
@@ -2818,6 +2819,18 @@
     "posted": "06/05/2026",
     "text": "CyberNext: Advance Cybersecurity and AI Readiness",
     "title": "CyberNext: Advance Cybersecurity and AI Readiness"
+   }
+  },
+  {
+   "key": "362763",
+   "source": "pipeline-grants",
+   "fields": {
+    "agency": "U.S. Mission to Canada",
+    "closes": "07/31/2026",
+    "number": "PD-FY26-CANADA-NOFO-001",
+    "posted": "06/11/2026",
+    "text": "U.S. Talent Program for the U.S. Embassy and Consulates in Canada",
+    "title": "U.S. Talent Program for the U.S. Embassy and Consulates in Canada"
    }
   },
   {
@@ -4668,18 +4681,6 @@
    }
   },
   {
-   "key": "362671",
-   "source": "pipeline-grants",
-   "fields": {
-    "agency": "Department of Homeland Security - FEMA",
-    "closes": "07/06/2026",
-    "number": "DHS-26-GPD-159-00-99",
-    "posted": "06/03/2026",
-    "text": "State Border Security Reinforcement Fund",
-    "title": "State Border Security Reinforcement Fund"
-   }
-  },
-  {
    "key": "353936",
    "source": "pipeline-ml",
    "fields": {
@@ -5984,6 +5985,18 @@
    }
   },
   {
+   "key": "362761",
+   "source": "pipeline-unmanned",
+   "fields": {
+    "agency": "Bureau of Global Health Security and Diplomacy",
+    "closes": "02/14/2027",
+    "number": "DFOP0017890",
+    "posted": "06/11/2026",
+    "text": "Advancing Global Health",
+    "title": "Advancing Global Health"
+   }
+  },
+  {
    "key": "348258",
    "source": "pipeline-unmanned",
    "fields": {
@@ -6230,18 +6243,6 @@
    }
   },
   {
-   "key": "362701",
-   "source": "pipeline-unmanned",
-   "fields": {
-    "agency": "Bureau of Global Health Security and Diplomacy",
-    "closes": "02/14/2027",
-    "number": "DFOP0017890",
-    "posted": "06/05/2026",
-    "text": "Advancing Global Health",
-    "title": "Advancing Global Health"
-   }
-  },
-  {
    "key": "339728",
    "source": "pipeline-unmanned",
    "fields": {
@@ -6358,6 +6359,7 @@
    "source": "pipeline-unmanned",
    "fields": {
     "agency": "Rural Utilities Service",
+    "closes": "06/11/2026",
     "number": "RD-RUS-CY22DISASTER",
     "posted": "06/22/2023",
     "text": "Calendar Year 2022 Disaster Water Grants",
