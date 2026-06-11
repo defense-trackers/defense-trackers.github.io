@@ -1,0 +1,77 @@
+name: update
+on:
+  schedule:
+    # Redundant lines on purpose: Actions cron is best-effort and drops runs.
+    - cron: "17 6 * * *"
+    - cron: "47 18 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout site (self)
+        uses: actions/checkout@v4
+
+      - name: Checkout engine (public)
+        uses: actions/checkout@v4
+        with:
+          repository: defense-trackers/engine
+          path: .engine
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version: "1.22"
+
+      - name: Build engine
+        working-directory: .engine
+        run: go build -o bin/engine .
+
+      - name: Fetch
+        id: fetch
+        env:
+          GITHUB_TOKEN: ${{ github.token }}        # api crawlers (GitHub, etc.)
+          SAM_API_KEY: ${{ secrets.SAM_API_KEY }}  # optional; SAM source stays off without it
+        run: |
+          set +e
+          .engine/bin/engine fetch --out . \
+            --contracts .engine/contracts --curated .engine/curated \
+            --cache .engine/cache --quarantine .engine/quarantine
+          echo "code=$?" >> "$GITHUB_OUTPUT"
+
+      - name: Sentinel (flip stale, honest freshness)
+        run: .engine/bin/engine sentinel --out . || true
+
+      - name: Verify chain
+        run: .engine/bin/engine verify --out . || true
+
+      - name: Commit & push data
+        run: |
+          rm -rf .engine                      # never commit the engine checkout into the site
+          git config user.name  "tracker-bot"
+          git config user.email "tracker-bot@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "no data changes this run"
+          else
+            git commit -m "data: $(date -u +%FT%TZ)"
+            git push
+          fi
+
+      - name: Open issue on degraded/quarantined
+        if: steps.fetch.outputs.code == '2'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create --repo "${{ github.repository }}" --label data-degraded \
+            --title "data degraded $(date -u +%F)" \
+            --body "One or more sources degraded or quarantined in run ${{ github.run_id }}. Last-good data was left live." \
+            || true
