@@ -90,15 +90,17 @@ export function renderIndex(status) {
   }
   const trackers = Object.keys(groups).sort();
 
-  let fresh = 0, attn = 0, newest = 0;
+  let fresh = 0, attn = 0, newest = 0, totalRecords = 0;
   for (const t of trackers) {
     const agg = aggregate(groups[t]);
     if (agg.cls === 'ok') fresh++; else attn++;
     for (const s of groups[t]) {
       newest = Math.max(newest, Date.parse(s.last_attempt || s.last_success || 0) || 0);
+      totalRecords += s.count || 0;
     }
   }
   if ($('stat-total')) $('stat-total').textContent = trackers.length;
+  if ($('stat-records')) $('stat-records').textContent = totalRecords.toLocaleString('en-US');
   if ($('stat-fresh')) $('stat-fresh').textContent = fresh;
   if ($('stat-attn'))  $('stat-attn').textContent = attn;
   if ($('last-published')) {
@@ -132,10 +134,19 @@ export function renderIndex(status) {
     a.className = 'track-name';
     a.href = '/' + encodeURIComponent(t) + '/';
     a.textContent = t;
+    const recs = sources.reduce((n, s) => n + (s.count || 0), 0);
     const idEl = document.createElement('span');
     idEl.className = 'track-id mono dim';
-    idEl.textContent = sources.length + (sources.length === 1 ? ' source' : ' sources');
+    idEl.textContent = recs.toLocaleString('en-US') + ' records · ' +
+      sources.length + (sources.length === 1 ? ' source' : ' sources');
     mainEl.append(a, idEl);
+    const desc = TRACKER_DESC[t];
+    if (desc) {
+      const d = document.createElement('div');
+      d.className = 'track-desc-line';
+      d.textContent = desc;
+      mainEl.append(d);
+    }
 
     const statusEl = document.createElement('div');
     statusEl.className = 'track-status';
@@ -230,7 +241,7 @@ const ROW_CAP = 30;
 
 // One line per tracker so a visitor knows what they're looking at instantly.
 const TRACKER_DESC = {
-  pipeline: 'Open funding and solicitation opportunities across DoD innovation channels.',
+  pipeline: 'Open AI funding and solicitation opportunities across U.S. federal channels (grants.gov).',
   policy: 'DoD AI policy issuances and the deadlines they create.',
   authorizations: 'Which AI platforms hold which DoD / FedRAMP authorizations — and what just changed.',
   'nipr-matrix': 'Which AI tools each service can actually use on NIPR, and at what data ceiling.',
@@ -238,7 +249,7 @@ const TRACKER_DESC = {
   'blue-uas': 'DIU Blue UAS cleared platforms and NDAA-compliant components.',
   'model-ops': 'Open-weight models and the inference stacks that support them, with gov-deployability.',
   'oss-index': 'Maintained open-source software from U.S. government organizations.',
-  transition: 'Where prototypes turn into production contracts — the valley-of-death scoreboard.',
+  transition: 'The largest recent DoD contract awards — the production-dollar signal (rolling 1-year window).',
   deadlines: 'Defense innovation deadlines and events, as a calendar (with iCal feed).',
 };
 

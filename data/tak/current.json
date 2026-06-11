@@ -1,9 +1,718 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-06-11T03:22:27Z",
+ "fetched_at": "2026-06-11T04:15:29Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "FreeTAKTeam/FreeTakServer",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2024-10-29T11:52:00Z",
+    "description": "Situational Awareness Server compatible with TAK clients",
+    "stars": "923",
+    "text": "FreeTAKTeam/FreeTakServer",
+    "title": "FreeTAKTeam/FreeTakServer",
+    "url": "https://github.com/FreeTAKTeam/FreeTakServer"
+   }
+  },
+  {
+   "key": "FreeTAKTeam/UI",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2025-05-30T12:09:19Z",
+    "description": "FreeTAKServer Web User Interface project",
+    "stars": "41",
+    "text": "FreeTAKTeam/UI",
+    "title": "FreeTAKTeam/UI",
+    "url": "https://github.com/FreeTAKTeam/UI"
+   }
+  },
+  {
+   "key": "FreeTAKTeam/FreeTAKServer-User-Docs",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2025-09-22T00:48:17Z",
+    "description": "FreeTAKServer documentation for end users",
+    "stars": "74",
+    "text": "FreeTAKTeam/FreeTAKServer-User-Docs",
+    "title": "FreeTAKTeam/FreeTAKServer-User-Docs",
+    "url": "https://github.com/FreeTAKTeam/FreeTAKServer-User-Docs"
+   }
+  },
+  {
+   "key": "FreeTAKTeam/FreeTAKServer-Simulator",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2021-02-02T23:33:09Z",
+    "description": "Tool for Simulating moving objects in ATAK",
+    "stars": "15",
+    "text": "FreeTAKTeam/FreeTAKServer-Simulator",
+    "title": "FreeTAKTeam/FreeTAKServer-Simulator",
+    "url": "https://github.com/FreeTAKTeam/FreeTAKServer-Simulator"
+   }
+  },
+  {
+   "key": "FreeTAKTeam/FreeTAKServer-Simulator-UI-Example",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2021-01-29T12:18:29Z",
+    "description": "Web App example for FreeTAKServer-Simulator",
+    "stars": "4",
+    "text": "FreeTAKTeam/FreeTAKServer-Simulator-UI-Example",
+    "title": "FreeTAKTeam/FreeTAKServer-Simulator-UI-Example",
+    "url": "https://github.com/FreeTAKTeam/FreeTAKServer-Simulator-UI-Example"
+   }
+  },
+  {
+   "key": "FreeTAKTeam/openTAKpickList",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2022-08-06T13:17:21Z",
+    "description": "a list of hardware and software to be used in conjunction with ATAK platform",
+    "stars": "292",
+    "text": "FreeTAKTeam/openTAKpickList",
+    "title": "FreeTAKTeam/openTAKpickList",
+    "url": "https://github.com/FreeTAKTeam/openTAKpickList"
+   }
+  },
+  {
+   "key": "FreeTAKTeam/FreeTAKHub",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2023-05-08T12:34:35Z",
+    "description": "the FreeTAKHub is a component to integrate FreeTAKServer with other systems. It's based on Node Red.",
+    "stars": "25",
+    "text": "FreeTAKTeam/FreeTAKHub",
+    "title": "FreeTAKTeam/FreeTAKHub",
+    "url": "https://github.com/FreeTAKTeam/FreeTAKHub"
+   }
+  },
+  {
+   "key": "FreeTAKTeam/FreeTAKUAS",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2022-11-06T13:11:28Z",
+    "description": "DJI drone flying app with integrations for FreeTAKServer. Looking for a maitainer!",
+    "stars": "121",
+    "text": "FreeTAKTeam/FreeTAKUAS",
+    "title": "FreeTAKTeam/FreeTAKUAS",
+    "url": "https://github.com/FreeTAKTeam/FreeTAKUAS"
+   }
+  },
+  {
+   "key": "FreeTAKTeam/rtsp-simple-server",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2021-07-04T00:18:22Z",
+    "description": "ready-to-use RTSP / RTMP / HLS server and proxy that allows to read, publish and proxy video and audio streams",
+    "stars": "5",
+    "text": "FreeTAKTeam/rtsp-simple-server",
+    "title": "FreeTAKTeam/rtsp-simple-server",
+    "url": "https://github.com/FreeTAKTeam/rtsp-simple-server"
+   }
+  },
+  {
+   "key": "FreeTAKTeam/FreeTAKHub-Installation",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2025-02-04T19:39:23Z",
+    "description": "this repository contains the Ansible code that is used by the ZeroTouch installer",
+    "stars": "44",
+    "text": "FreeTAKTeam/FreeTAKHub-Installation",
+    "title": "FreeTAKTeam/FreeTAKHub-Installation",
+    "url": "https://github.com/FreeTAKTeam/FreeTAKHub-Installation"
+   }
+  },
+  {
+   "key": "FreeTAKTeam/FreeTAKHub-Webmap",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2024-10-17T17:13:39Z",
+    "description": "a webmap that can show and create messages for FreeTAKServer",
+    "stars": "5",
+    "text": "FreeTAKTeam/FreeTAKHub-Webmap",
+    "title": "FreeTAKTeam/FreeTAKHub-Webmap",
+    "url": "https://github.com/FreeTAKTeam/FreeTAKHub-Webmap"
+   }
+  },
+  {
+   "key": "FreeTAKTeam/FreeTAKHub_Forms_SALUTE",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2023-07-14T11:16:09Z",
+    "description": "Create a Salute report in FreeTAK Server",
+    "stars": "3",
+    "text": "FreeTAKTeam/FreeTAKHub_Forms_SALUTE",
+    "title": "FreeTAKTeam/FreeTAKHub_Forms_SALUTE",
+    "url": "https://github.com/FreeTAKTeam/FreeTAKHub_Forms_SALUTE"
+   }
+  },
+  {
+   "key": "FreeTAKTeam/FreeTAKHub_VideoChecker",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2023-06-25T20:46:05Z",
+    "description": "integrates the Media server with TAK server and connected clients",
+    "stars": "7",
+    "text": "FreeTAKTeam/FreeTAKHub_VideoChecker",
+    "title": "FreeTAKTeam/FreeTAKHub_VideoChecker",
+    "url": "https://github.com/FreeTAKTeam/FreeTAKHub_VideoChecker"
+   }
+  },
+  {
+   "key": "FreeTAKTeam/FreeTAK_Hub_Telegram",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2022-06-21T14:36:33Z",
+    "description": "TelegramTAK: Connects telegram to FTS ",
+    "stars": "6",
+    "text": "FreeTAKTeam/FreeTAK_Hub_Telegram",
+    "title": "FreeTAKTeam/FreeTAK_Hub_Telegram",
+    "url": "https://github.com/FreeTAKTeam/FreeTAK_Hub_Telegram"
+   }
+  },
+  {
+   "key": "FreeTAKTeam/ansible-role-freetakserver",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2022-03-20T22:59:26Z",
+    "stars": "0",
+    "text": "FreeTAKTeam/ansible-role-freetakserver",
+    "title": "FreeTAKTeam/ansible-role-freetakserver",
+    "url": "https://github.com/FreeTAKTeam/ansible-role-freetakserver"
+   }
+  },
+  {
+   "key": "FreeTAKTeam/FreeTAKMumla_Plugin",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2026-05-21T19:32:24Z",
+    "description": "A project that host a ATAK plugin that display a PPT button for Mumla Android ",
+    "stars": "27",
+    "text": "FreeTAKTeam/FreeTAKMumla_Plugin",
+    "title": "FreeTAKTeam/FreeTAKMumla_Plugin",
+    "url": "https://github.com/FreeTAKTeam/FreeTAKMumla_Plugin"
+   }
+  },
+  {
+   "key": "FreeTAKTeam/DigitalPy",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2026-05-10T15:11:53Z",
+    "description": "A framework to support digital engineering in the python language",
+    "stars": "11",
+    "text": "FreeTAKTeam/DigitalPy",
+    "title": "FreeTAKTeam/DigitalPy",
+    "url": "https://github.com/FreeTAKTeam/DigitalPy"
+   }
+  },
+  {
+   "key": "FreeTAKTeam/FreeTAKTeam.github.io",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2024-04-02T16:34:45Z",
+    "stars": "1",
+    "text": "FreeTAKTeam/FreeTAKTeam.github.io",
+    "title": "FreeTAKTeam/FreeTAKTeam.github.io",
+    "url": "https://github.com/FreeTAKTeam/FreeTAKTeam.github.io"
+   }
+  },
+  {
+   "key": "FreeTAKTeam/DigitalArchitectureFramework",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2025-10-06T20:22:34Z",
+    "description": "The Digital Architecture Framework (DAF),  is a set modeling tools for Digital Engineering. ",
+    "stars": "7",
+    "text": "FreeTAKTeam/DigitalArchitectureFramework",
+    "title": "FreeTAKTeam/DigitalArchitectureFramework",
+    "url": "https://github.com/FreeTAKTeam/DigitalArchitectureFramework"
+   }
+  },
+  {
+   "key": "FreeTAKTeam/.github",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2025-04-16T12:02:44Z",
+    "stars": "0",
+    "text": "FreeTAKTeam/.github",
+    "title": "FreeTAKTeam/.github",
+    "url": "https://github.com/FreeTAKTeam/.github"
+   }
+  },
+  {
+   "key": "FreeTAKTeam/FreeTAKTest",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2026-01-18T20:17:01Z",
+    "description": "this repository contains data and utilities to test TAK servers and clients",
+    "stars": "1",
+    "text": "FreeTAKTeam/FreeTAKTest",
+    "title": "FreeTAKTeam/FreeTAKTest",
+    "url": "https://github.com/FreeTAKTeam/FreeTAKTest"
+   }
+  },
+  {
+   "key": "FreeTAKTeam/DigitalPyHelloWorld",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2024-06-15T16:43:32Z",
+    "description": "a minimal application running DigitalPy",
+    "stars": "1",
+    "text": "FreeTAKTeam/DigitalPyHelloWorld",
+    "title": "FreeTAKTeam/DigitalPyHelloWorld",
+    "url": "https://github.com/FreeTAKTeam/DigitalPyHelloWorld"
+   }
+  },
+  {
+   "key": "FreeTAKTeam/TMC-Workforce-Management-",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2024-07-20T01:54:37Z",
+    "stars": "0",
+    "text": "FreeTAKTeam/TMC-Workforce-Management-",
+    "title": "FreeTAKTeam/TMC-Workforce-Management-",
+    "url": "https://github.com/FreeTAKTeam/TMC-Workforce-Management-"
+   }
+  },
+  {
+   "key": "FreeTAKTeam/Reticulum-Community-Hub",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2026-05-30T22:20:31Z",
+    "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
+    "stars": "81",
+    "text": "FreeTAKTeam/Reticulum-Community-Hub",
+    "title": "FreeTAKTeam/Reticulum-Community-Hub",
+    "url": "https://github.com/FreeTAKTeam/Reticulum-Community-Hub"
+   }
+  },
+  {
+   "key": "FreeTAKTeam/Reticulum",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2024-10-17T12:33:44Z",
+    "description": "The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.",
+    "stars": "0",
+    "text": "FreeTAKTeam/Reticulum",
+    "title": "FreeTAKTeam/Reticulum",
+    "url": "https://github.com/FreeTAKTeam/Reticulum"
+   }
+  },
+  {
+   "key": "FreeTAKTeam/DOD_TAK_Server",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2024-09-08T22:25:38Z",
+    "description": "TAK Server",
+    "stars": "1",
+    "text": "FreeTAKTeam/DOD_TAK_Server",
+    "title": "FreeTAKTeam/DOD_TAK_Server",
+    "url": "https://github.com/FreeTAKTeam/DOD_TAK_Server"
+   }
+  },
+  {
+   "key": "FreeTAKTeam/AndroidTacticalAssaultKit-CIV",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2024-10-18T15:00:36Z",
+    "stars": "0",
+    "text": "FreeTAKTeam/AndroidTacticalAssaultKit-CIV",
+    "title": "FreeTAKTeam/AndroidTacticalAssaultKit-CIV",
+    "url": "https://github.com/FreeTAKTeam/AndroidTacticalAssaultKit-CIV"
+   }
+  },
+  {
+   "key": "FreeTAKTeam/FreeTAKHub_meshtastic",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2025-02-02T20:34:54Z",
+    "description": "integration between FreeTAKServer and Meshtastic using MQTT and Node red ",
+    "stars": "12",
+    "text": "FreeTAKTeam/FreeTAKHub_meshtastic",
+    "title": "FreeTAKTeam/FreeTAKHub_meshtastic",
+    "url": "https://github.com/FreeTAKTeam/FreeTAKHub_meshtastic"
+   }
+  },
+  {
+   "key": "FreeTAKTeam/staged-recipes",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2026-06-02T19:47:05Z",
+    "description": "A place to submit conda recipes before they become fully fledged conda-forge feedstocks",
+    "stars": "0",
+    "text": "FreeTAKTeam/staged-recipes",
+    "title": "FreeTAKTeam/staged-recipes",
+    "url": "https://github.com/FreeTAKTeam/staged-recipes"
+   }
+  },
+  {
+   "key": "FreeTAKTeam/openapi-generator",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2025-06-17T16:24:15Z",
+    "description": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)",
+    "stars": "0",
+    "text": "FreeTAKTeam/openapi-generator",
+    "title": "FreeTAKTeam/openapi-generator",
+    "url": "https://github.com/FreeTAKTeam/openapi-generator"
+   }
+  },
+  {
+   "key": "FreeTAKTeam/LXMF-rs",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2026-06-10T19:41:57Z",
+    "description": "full port of Reticulum and LXMF to Rust with added SDK",
+    "stars": "18",
+    "text": "FreeTAKTeam/LXMF-rs",
+    "title": "FreeTAKTeam/LXMF-rs",
+    "url": "https://github.com/FreeTAKTeam/LXMF-rs"
+   }
+  },
+  {
+   "key": "FreeTAKTeam/Reticulum_Meshtastic_Integration",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2026-02-15T15:33:46Z",
+    "stars": "12",
+    "text": "FreeTAKTeam/Reticulum_Meshtastic_Integration",
+    "title": "FreeTAKTeam/Reticulum_Meshtastic_Integration",
+    "url": "https://github.com/FreeTAKTeam/Reticulum_Meshtastic_Integration"
+   }
+  },
+  {
+   "key": "FreeTAKTeam/Reticulum_AsyncAPI_rs",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2026-02-16T17:47:11Z",
+    "description": "AsyncAPI-first Reticulum/LXMF framework in Rust",
+    "stars": "0",
+    "text": "FreeTAKTeam/Reticulum_AsyncAPI_rs",
+    "title": "FreeTAKTeam/Reticulum_AsyncAPI_rs",
+    "url": "https://github.com/FreeTAKTeam/Reticulum_AsyncAPI_rs"
+   }
+  },
+  {
+   "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2026-06-10T16:06:09Z",
+    "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
+    "stars": "14",
+    "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
+    "title": "FreeTAKTeam/reticulum_mobile_emergency_management",
+    "url": "https://github.com/FreeTAKTeam/reticulum_mobile_emergency_management"
+   }
+  },
+  {
+   "key": "FreeTAKTeam/R3AKTClient",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2026-04-23T03:57:38Z",
+    "stars": "1",
+    "text": "FreeTAKTeam/R3AKTClient",
+    "title": "FreeTAKTeam/R3AKTClient",
+    "url": "https://github.com/FreeTAKTeam/R3AKTClient"
+   }
+  },
+  {
+   "key": "engindearing-projects/tak-live-traffic-guide",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-06-11T02:18:03Z",
+    "description": "Live Google traffic overlay in ATAK (no plugin, custom map source XML) and OmniTAK — verified guide with screenshots and source-level receipts",
+    "stars": "0",
+    "text": "engindearing-projects/tak-live-traffic-guide",
+    "title": "engindearing-projects/tak-live-traffic-guide",
+    "url": "https://github.com/engindearing-projects/tak-live-traffic-guide"
+   }
+  },
+  {
+   "key": "atakmaps/TAK-MESHCORE",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-06-11T01:24:34Z",
+    "description": "ATAK MeshCore plugin",
+    "stars": "13",
+    "text": "atakmaps/TAK-MESHCORE",
+    "title": "atakmaps/TAK-MESHCORE",
+    "url": "https://github.com/atakmaps/TAK-MESHCORE"
+   }
+  },
+  {
+   "key": "kd2var/aprsdroid-atak-plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-06-10T05:19:17Z",
+    "description": "ATAK Plugin that pulls position data from APRSdroid into ATAK",
+    "stars": "0",
+    "text": "kd2var/aprsdroid-atak-plugin",
+    "title": "kd2var/aprsdroid-atak-plugin",
+    "url": "https://github.com/kd2var/aprsdroid-atak-plugin"
+   }
+  },
+  {
+   "key": "jpat-12/ATAK-Plugin_EFJohnson",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-06-09T20:30:23Z",
+    "stars": "0",
+    "text": "jpat-12/ATAK-Plugin_EFJohnson",
+    "title": "jpat-12/ATAK-Plugin_EFJohnson",
+    "url": "https://github.com/jpat-12/ATAK-Plugin_EFJohnson"
+   }
+  },
+  {
+   "key": "niccellular/wifi2cot",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-06-09T16:44:09Z",
+    "description": "ATAK Plugin to grab RSSI values from local Access Points and try to guess where they are.",
+    "stars": "24",
+    "text": "niccellular/wifi2cot",
+    "title": "niccellular/wifi2cot",
+    "url": "https://github.com/niccellular/wifi2cot"
+   }
+  },
+  {
+   "key": "newtypeind/atak-mcp",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-06-09T04:57:12Z",
+    "description": "Drive ATAK (Android Team Awareness Kit) and its plugins over adb without blind taps: CLI + MCP server (uvx-installable).",
+    "stars": "1",
+    "text": "newtypeind/atak-mcp",
+    "title": "newtypeind/atak-mcp",
+    "url": "https://github.com/newtypeind/atak-mcp"
+   }
+  },
+  {
+   "key": "engindearing-projects/omni-COT",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-06-08T00:20:56Z",
+    "description": "One Plugin to do all the COT things I want to do in ATAK",
+    "stars": "17",
+    "text": "engindearing-projects/omni-COT",
+    "title": "engindearing-projects/omni-COT",
+    "url": "https://github.com/engindearing-projects/omni-COT"
+   }
+  },
+  {
+   "key": "swim-fish/atak_tw_coord_plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-06-06T05:49:13Z",
+    "stars": "1",
+    "text": "swim-fish/atak_tw_coord_plugin",
+    "title": "swim-fish/atak_tw_coord_plugin",
+    "url": "https://github.com/swim-fish/atak_tw_coord_plugin"
+   }
+  },
+  {
+   "key": "meshtastic/ATAK-Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-06-04T21:30:53Z",
+    "description": "ATAK Plugin for sending CoT to IMeshService",
+    "stars": "494",
+    "text": "meshtastic/ATAK-Plugin",
+    "title": "meshtastic/ATAK-Plugin",
+    "url": "https://github.com/meshtastic/ATAK-Plugin"
+   }
+  },
+  {
+   "key": "jjames31/Kaonic-ATAK-Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-06-04T15:40:47Z",
+    "stars": "1",
+    "text": "jjames31/Kaonic-ATAK-Plugin",
+    "title": "jjames31/Kaonic-ATAK-Plugin",
+    "url": "https://github.com/jjames31/Kaonic-ATAK-Plugin"
+   }
+  },
+  {
+   "key": "AkitaEngineering/Akita-MeshTAK",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-06-03T16:44:34Z",
+    "description": "The Akita MeshTAK Plugin is a game-changing Android Tactical Assault Kit (ATAK) plugin meticulously crafted to bridge the gap between ATAK and Meshtastic, providing unparalleled communication capabilities in the most challenging and disconnected environments.",
+    "stars": "11",
+    "text": "AkitaEngineering/Akita-MeshTAK",
+    "title": "AkitaEngineering/Akita-MeshTAK",
+    "url": "https://github.com/AkitaEngineering/Akita-MeshTAK"
+   }
+  },
+  {
+   "key": "GUMMIIII/takserver_ota",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-05-24T19:53:16Z",
+    "description": "Generate product.inf + product.infz from ATAK plugin APKs for civTAK OTA updates. Companion to TAKSERVER_MDM.",
+    "stars": "10",
+    "text": "GUMMIIII/takserver_ota",
+    "title": "GUMMIIII/takserver_ota",
+    "url": "https://github.com/GUMMIIII/takserver_ota"
+   }
+  },
+  {
+   "key": "FreeTAKTeam/FreeTAKMumla_Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-05-21T19:32:24Z",
+    "description": "A project that host a ATAK plugin that display a PPT button for Mumla Android ",
+    "stars": "27",
+    "text": "FreeTAKTeam/FreeTAKMumla_Plugin",
+    "title": "FreeTAKTeam/FreeTAKMumla_Plugin",
+    "url": "https://github.com/FreeTAKTeam/FreeTAKMumla_Plugin"
+   }
+  },
+  {
+   "key": "njaalsb/Meshtastic-ATAK-plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-05-18T19:51:06Z",
+    "description": "Utvidelse av ATAK-plugin laget for Meshtastic.",
+    "stars": "0",
+    "text": "njaalsb/Meshtastic-ATAK-plugin",
+    "title": "njaalsb/Meshtastic-ATAK-plugin",
+    "url": "https://github.com/njaalsb/Meshtastic-ATAK-plugin"
+   }
+  },
+  {
+   "key": "meshtastic/pluginmeshtastic",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-05-13T18:28:50Z",
+    "description": "A standalone Meshtastic plugin for ATAK",
+    "stars": "21",
+    "text": "meshtastic/pluginmeshtastic",
+    "title": "meshtastic/pluginmeshtastic",
+    "url": "https://github.com/meshtastic/pluginmeshtastic"
+   }
+  },
+  {
+   "key": "Cloud-RF/SOOTHSAYER-ATAK-plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-06-10T20:29:06Z",
+    "description": "ATAK plugin for SOOTHSAYER",
+    "stars": "10",
+    "text": "Cloud-RF/SOOTHSAYER-ATAK-plugin",
+    "title": "Cloud-RF/SOOTHSAYER-ATAK-plugin",
+    "url": "https://github.com/Cloud-RF/SOOTHSAYER-ATAK-plugin"
+   }
+  },
+  {
+   "key": "clodzeischi/fakeDRON-ATAK-Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-05-06T21:43:23Z",
+    "stars": "0",
+    "text": "clodzeischi/fakeDRON-ATAK-Plugin",
+    "title": "clodzeischi/fakeDRON-ATAK-Plugin",
+    "url": "https://github.com/clodzeischi/fakeDRON-ATAK-Plugin"
+   }
+  },
+  {
+   "key": "mighkel/ATAK-Plugin-KestrelWx",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-05-04T13:41:15Z",
+    "description": "An ATAK plugin that connects to Kestrel weather devices via bluetooth.",
+    "stars": "1",
+    "text": "mighkel/ATAK-Plugin-KestrelWx",
+    "title": "mighkel/ATAK-Plugin-KestrelWx",
+    "url": "https://github.com/mighkel/ATAK-Plugin-KestrelWx"
+   }
+  },
+  {
+   "key": "3rdEyeOperation/ATAK-helloworld",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-05-04T04:56:03Z",
+    "description": "ATAK plugin build with guide",
+    "stars": "0",
+    "text": "3rdEyeOperation/ATAK-helloworld",
+    "title": "3rdEyeOperation/ATAK-helloworld",
+    "url": "https://github.com/3rdEyeOperation/ATAK-helloworld"
+   }
+  },
+  {
+   "key": "PoggyBobby/EMCON-Sentinel",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-05-03T21:09:51Z",
+    "description": "EMCON Sentinel — ATAK-CIV plugin that warns drone operators when adversary RF direction-finding assets are about to fix their position. Three-tier sensing (phone, MAVLink C2, RTL-SDR) + Friis path-loss + dwell-time composite risk + directional displacement candidates. Army xTech 2026.",
+    "stars": "0",
+    "text": "PoggyBobby/EMCON-Sentinel",
+    "title": "PoggyBobby/EMCON-Sentinel",
+    "url": "https://github.com/PoggyBobby/EMCON-Sentinel"
+   }
+  },
+  {
+   "key": "mtepenner/swarmbotics-operator-frontend",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-04-28T00:08:06Z",
+    "description": "A multi-platform operator frontend for massive robotic swarms, featuring an ATAK plugin, a React-based C2 dashboard, and low-latency WebRTC teleoperation.",
+    "stars": "0",
+    "text": "mtepenner/swarmbotics-operator-frontend",
+    "title": "mtepenner/swarmbotics-operator-frontend",
+    "url": "https://github.com/mtepenner/swarmbotics-operator-frontend"
+   }
+  },
+  {
+   "key": "niccellular/gadget",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-04-26T01:41:59Z",
+    "description": "ATAK plugin that loads unsigned/signature-rejected plugins by bypassing AtakPluginRegistry verification",
+    "stars": "9",
+    "text": "niccellular/gadget",
+    "title": "niccellular/gadget",
+    "url": "https://github.com/niccellular/gadget"
+   }
+  },
+  {
+   "key": "TacticalSensorIntegration/atak-vns-routing-bundles",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-04-20T06:46:06Z",
+    "description": "Pre-built offline routing bundles for the ATAK VNS plugin — Australia and other regions, ready to drop onto the device.",
+    "stars": "1",
+    "text": "TacticalSensorIntegration/atak-vns-routing-bundles",
+    "title": "TacticalSensorIntegration/atak-vns-routing-bundles",
+    "url": "https://github.com/TacticalSensorIntegration/atak-vns-routing-bundles"
+   }
+  },
+  {
+   "key": "c5bravo/atak-airguardian-practice-tool",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-04-11T00:57:51Z",
+    "description": "A web application to generate mock data for the ATAK plugin for military practise situations",
+    "stars": "0",
+    "text": "c5bravo/atak-airguardian-practice-tool",
+    "title": "c5bravo/atak-airguardian-practice-tool",
+    "url": "https://github.com/c5bravo/atak-airguardian-practice-tool"
+   }
+  },
+  {
+   "key": "lhermosilloz/uas_plugin_tak",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-04-11T00:54:50Z",
+    "description": "Various ATAK UAS Plugin Tool scripts for development",
+    "stars": "0",
+    "text": "lhermosilloz/uas_plugin_tak",
+    "title": "lhermosilloz/uas_plugin_tak",
+    "url": "https://github.com/lhermosilloz/uas_plugin_tak"
+   }
+  },
   {
    "key": "rixau/atak-reactive",
    "source": "tak-github",
@@ -14,6 +723,54 @@
     "text": "rixau/atak-reactive",
     "title": "rixau/atak-reactive",
     "url": "https://github.com/rixau/atak-reactive"
+   }
+  },
+  {
+   "key": "VCWG/Air-Sea",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-04-09T15:04:16Z",
+    "description": "AIS and ADS-B plugin for ATAK",
+    "stars": "20",
+    "text": "VCWG/Air-Sea",
+    "title": "VCWG/Air-Sea",
+    "url": "https://github.com/VCWG/Air-Sea"
+   }
+  },
+  {
+   "key": "njaalsb/ATAK-Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-04-07T12:19:50Z",
+    "description": "ATAK Plugin for sending CoT to IMeshService",
+    "stars": "0",
+    "text": "njaalsb/ATAK-Plugin",
+    "title": "njaalsb/ATAK-Plugin",
+    "url": "https://github.com/njaalsb/ATAK-Plugin"
+   }
+  },
+  {
+   "key": "tigerthemenance77/openrelay",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-04-05T00:18:47Z",
+    "description": "Open-source ATAK/ITAK radio plugin for Baofeng \u0026 BTech radios. Multi-radio support, cross-platform feature parity.",
+    "stars": "3",
+    "text": "tigerthemenance77/openrelay",
+    "title": "tigerthemenance77/openrelay",
+    "url": "https://github.com/tigerthemenance77/openrelay"
+   }
+  },
+  {
+   "key": "VCWG/VC-HUD",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-04-04T21:41:08Z",
+    "description": "HUD plugin for ATAK, compatible with ECOTI over USB",
+    "stars": "12",
+    "text": "VCWG/VC-HUD",
+    "title": "VCWG/VC-HUD",
+    "url": "https://github.com/VCWG/VC-HUD"
    }
   },
   {

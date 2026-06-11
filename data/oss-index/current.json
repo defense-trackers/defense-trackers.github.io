@@ -1,1392 +1,3984 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-06-11T03:22:20Z",
+ "fetched_at": "2026-06-11T04:15:11Z",
  "schema_version": 1,
  "records": [
   {
-   "key": "15551",
-   "source": "oss-repo1",
+   "key": "cisagov/pshtt",
+   "source": "oss-cisagov",
    "fields": {
-    "date": "2026-06-11T03:10:02.302Z",
-    "stars": "3",
-    "text": "Iron Bank Containers / Beast Code / Space Force / sld45-map-viewer",
-    "title": "Iron Bank Containers / Beast Code / Space Force / sld45-map-viewer",
-    "url": "https://repo1.dso.mil/dsop/beast-code/space-force/sld45-map-viewer"
+    "date": "2026-05-12T18:54:13Z",
+    "description": "Scan domains and return data based on HTTPS best practices",
+    "stars": "693",
+    "text": "cisagov/pshtt",
+    "title": "cisagov/pshtt",
+    "url": "https://github.com/cisagov/pshtt"
    }
   },
   {
-   "key": "18650",
-   "source": "oss-repo1",
+   "key": "cisagov/trustymail",
+   "source": "oss-cisagov",
    "fields": {
-    "date": "2026-06-11T03:09:41.038Z",
-    "stars": "1",
-    "text": "Iron Bank Containers / AFDCO / malcolm / suricata",
-    "title": "Iron Bank Containers / AFDCO / malcolm / suricata",
-    "url": "https://repo1.dso.mil/dsop/afdco/malcolm/suricata"
+    "date": "2026-05-13T14:22:02Z",
+    "description": "Scan domains and return data based on trustworthy email best practices",
+    "stars": "221",
+    "text": "cisagov/trustymail",
+    "title": "cisagov/trustymail",
+    "url": "https://github.com/cisagov/trustymail"
    }
   },
   {
-   "key": "15670",
-   "source": "oss-repo1",
+   "key": "cisagov/cyhy-mailer",
+   "source": "oss-cisagov",
    "fields": {
-    "date": "2026-06-11T03:09:36.634Z",
-    "stars": "0",
-    "text": "Iron Bank Containers / Kasm / Workspaces Platform / 1.16 / rdp-gateway",
-    "title": "Iron Bank Containers / Kasm / Workspaces Platform / 1.16 / rdp-gateway",
-    "url": "https://repo1.dso.mil/dsop/kasm/workspaces-platform/1.16/rdp-gateway"
+    "date": "2025-05-16T15:00:35Z",
+    "description": "Email Cyber Hygiene, Trustworthy Email, and HTTPS reports to the appropriate technical or distribution addresses",
+    "stars": "13",
+    "text": "cisagov/cyhy-mailer",
+    "title": "cisagov/cyhy-mailer",
+    "url": "https://github.com/cisagov/cyhy-mailer"
    }
   },
   {
-   "key": "18837",
-   "source": "oss-repo1",
+   "key": "cisagov/scanner",
+   "source": "oss-cisagov",
    "fields": {
-    "date": "2026-06-11T03:09:10.256Z",
-    "stars": "0",
-    "text": "Iron Bank Containers / Tetrate / istio / 1.29 / install-cni",
-    "title": "Iron Bank Containers / Tetrate / istio / 1.29 / install-cni",
-    "url": "https://repo1.dso.mil/dsop/tetrate/istio/1.29/install-cni"
+    "date": "2026-05-15T05:25:22Z",
+    "description": "Automated pshtt, trustymail, and sslyze scanning",
+    "stars": "31",
+    "text": "cisagov/scanner",
+    "title": "cisagov/scanner",
+    "url": "https://github.com/cisagov/scanner"
    }
   },
   {
-   "key": "422",
-   "source": "oss-repo1",
+   "key": "cisagov/gatherer",
+   "source": "oss-cisagov",
    "fields": {
-    "date": "2026-06-11T03:09:07.922Z",
-    "stars": "5",
-    "text": "Iron Bank Containers / Elastic / Logstash / Logstash",
-    "title": "Iron Bank Containers / Elastic / Logstash / Logstash",
-    "url": "https://repo1.dso.mil/dsop/elastic/logstash/logstash"
+    "date": "2026-05-20T19:06:54Z",
+    "description": "Gather domains as a precursor to scanning",
+    "stars": "21",
+    "text": "cisagov/gatherer",
+    "title": "cisagov/gatherer",
+    "url": "https://github.com/cisagov/gatherer"
    }
   },
   {
-   "key": "15829",
-   "source": "oss-repo1",
+   "key": "cisagov/lambda_functions",
+   "source": "oss-cisagov",
    "fields": {
-    "date": "2026-06-11T03:09:06.533Z",
-    "stars": "0",
-    "text": "Iron Bank Containers / hpe / mldm / pachd",
-    "title": "Iron Bank Containers / hpe / mldm / pachd",
-    "url": "https://repo1.dso.mil/dsop/hpe/mldm/pachd"
+    "date": "2023-10-11T19:08:40Z",
+    "description": "Generate AWS Lambda environment zip files for use by cisagov/domain-scan",
+    "stars": "12",
+    "text": "cisagov/lambda_functions",
+    "title": "cisagov/lambda_functions",
+    "url": "https://github.com/cisagov/lambda_functions"
    }
   },
   {
-   "key": "3472",
-   "source": "oss-repo1",
+   "key": "cisagov/orchestrator",
+   "source": "oss-cisagov",
    "fields": {
-    "date": "2026-06-11T03:09:01.019Z",
-    "stars": "4",
-    "text": "Big Bang / Universe / Product / authservice",
-    "title": "Big Bang / Universe / Product / authservice",
-    "url": "https://repo1.dso.mil/big-bang/product/packages/authservice"
+    "date": "2026-06-01T17:57:29Z",
+    "description": "Orchestrate gatherer, scanner, saver, and trustymail_reporter",
+    "stars": "21",
+    "text": "cisagov/orchestrator",
+    "title": "cisagov/orchestrator",
+    "url": "https://github.com/cisagov/orchestrator"
    }
   },
   {
-   "key": "11589",
-   "source": "oss-repo1",
+   "key": "cisagov/saver",
+   "source": "oss-cisagov",
    "fields": {
-    "date": "2026-06-11T03:08:56.943Z",
-    "stars": "0",
-    "text": "Iron Bank Containers / sentar / codevalor / restapi",
-    "title": "Iron Bank Containers / sentar / codevalor / restapi",
-    "url": "https://repo1.dso.mil/dsop/sentar/codevalor/restapi"
+    "date": "2026-05-20T19:20:22Z",
+    "description": "Save scan results to a database",
+    "stars": "12",
+    "text": "cisagov/saver",
+    "title": "cisagov/saver",
+    "url": "https://github.com/cisagov/saver"
    }
   },
   {
-   "key": "13897",
-   "source": "oss-repo1",
+   "key": "cisagov/trustymail_reporter",
+   "source": "oss-cisagov",
    "fields": {
-    "date": "2026-06-11T03:08:36.024Z",
-    "stars": "0",
-    "text": "Iron Bank Containers / Meroxa / Conduit_Platform / CDP",
-    "title": "Iron Bank Containers / Meroxa / Conduit_Platform / CDP",
-    "url": "https://repo1.dso.mil/dsop/meroxa/conduit_platform/cdp"
+    "date": "2026-05-20T19:15:25Z",
+    "description": "Generate Trustworthy Email reports based on scan data",
+    "stars": "13",
+    "text": "cisagov/trustymail_reporter",
+    "title": "cisagov/trustymail_reporter",
+    "url": "https://github.com/cisagov/trustymail_reporter"
    }
   },
   {
-   "key": "507",
-   "source": "oss-repo1",
+   "key": "cisagov/pshtt_reporter",
+   "source": "oss-cisagov",
    "fields": {
-    "date": "2026-06-11T03:08:23.550Z",
-    "stars": "1",
-    "text": "Iron Bank Containers / Opensource / ansible / ansible-lint",
-    "title": "Iron Bank Containers / Opensource / ansible / ansible-lint",
-    "url": "https://repo1.dso.mil/dsop/opensource/ansible/ansible-lint"
-   }
-  },
-  {
-   "key": "18686",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:08:00.061Z",
-    "stars": "0",
-    "text": "Iron Bank Containers / AFDCO / arkime / arkime-6",
-    "title": "Iron Bank Containers / AFDCO / arkime / arkime-6",
-    "url": "https://repo1.dso.mil/dsop/afdco/arkime/arkime-6"
-   }
-  },
-  {
-   "key": "12671",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:07:57.805Z",
-    "stars": "1",
-    "text": "Iron Bank Containers / ortussolutions / commandbox",
-    "title": "Iron Bank Containers / ortussolutions / commandbox",
-    "url": "https://repo1.dso.mil/dsop/ortussolutions/commandbox"
-   }
-  },
-  {
-   "key": "7198",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:07:55.402Z",
-    "stars": "4",
-    "text": "Iron Bank Containers / Red Hat / UBI / 8.x / ubi8-micro",
-    "title": "Iron Bank Containers / Red Hat / UBI / 8.x / ubi8-micro",
-    "url": "https://repo1.dso.mil/dsop/redhat/ubi/8.x/ubi8-micro"
-   }
-  },
-  {
-   "key": "12298",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:07:53.865Z",
-    "stars": "0",
-    "text": "Iron Bank Containers / Hashicorp / Consul / 1.20",
-    "title": "Iron Bank Containers / Hashicorp / Consul / 1.20",
-    "url": "https://repo1.dso.mil/dsop/hashicorp/consul/1.20"
-   }
-  },
-  {
-   "key": "16080",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:07:48.796Z",
-    "stars": "0",
-    "text": "Iron Bank Containers / 309thEDDGE / dask-gateway-worker",
-    "title": "Iron Bank Containers / 309thEDDGE / dask-gateway-worker",
-    "url": "https://repo1.dso.mil/dsop/309theddge/dask-gateway-worker"
-   }
-  },
-  {
-   "key": "12686",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:07:40.355Z",
-    "stars": "0",
-    "text": "Iron Bank Containers / Hashicorp / Consul-Enterprise / 1.20",
-    "title": "Iron Bank Containers / Hashicorp / Consul-Enterprise / 1.20",
-    "url": "https://repo1.dso.mil/dsop/hashicorp/consul-enterprise/1.20"
-   }
-  },
-  {
-   "key": "18641",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:07:06.514Z",
-    "stars": "1",
-    "text": "Iron Bank Containers / AFDCO / malcolm / keycloak",
-    "title": "Iron Bank Containers / AFDCO / malcolm / keycloak",
-    "url": "https://repo1.dso.mil/dsop/afdco/malcolm/keycloak"
-   }
-  },
-  {
-   "key": "13542",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:06:54.533Z",
-    "stars": "0",
-    "text": "Iron Bank Containers / Opensource / cassandra / cassandra",
-    "title": "Iron Bank Containers / Opensource / cassandra / cassandra",
-    "url": "https://repo1.dso.mil/dsop/opensource/cassandra/cassandra"
-   }
-  },
-  {
-   "key": "18659",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:06:34.507Z",
-    "stars": "0",
-    "text": "Iron Bank Containers / Tetrate / istio / 1.28 / install-cni",
-    "title": "Iron Bank Containers / Tetrate / istio / 1.28 / install-cni",
-    "url": "https://repo1.dso.mil/dsop/tetrate/istio/1.28/install-cni"
-   }
-  },
-  {
-   "key": "18643",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:06:32.613Z",
-    "stars": "1",
-    "text": "Iron Bank Containers / AFDCO / malcolm / netbox",
-    "title": "Iron Bank Containers / AFDCO / malcolm / netbox",
-    "url": "https://repo1.dso.mil/dsop/afdco/malcolm/netbox"
-   }
-  },
-  {
-   "key": "11928",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:06:24.092Z",
-    "stars": "2",
-    "text": "Iron Bank Containers / Opensource / prometheus / jmx-exporter",
-    "title": "Iron Bank Containers / Opensource / prometheus / jmx-exporter",
-    "url": "https://repo1.dso.mil/dsop/opensource/prometheus/jmx-exporter"
-   }
-  },
-  {
-   "key": "11024",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:05:36.977Z",
-    "stars": "1",
-    "text": "Iron Bank Containers / Synopsys / Seeker / Seeker-Sensor",
-    "title": "Iron Bank Containers / Synopsys / Seeker / Seeker-Sensor",
-    "url": "https://repo1.dso.mil/dsop/synopsys/seeker/seeker-sensor"
-   }
-  },
-  {
-   "key": "12062",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:05:36.660Z",
-    "stars": "0",
-    "text": "Iron Bank Containers / Confluent / confluentinc / confluent-operator-3.0.x",
-    "title": "Iron Bank Containers / Confluent / confluentinc / confluent-operator-3.0.x",
-    "url": "https://repo1.dso.mil/dsop/confluent/confluentinc/confluent-operator-3.0.x"
-   }
-  },
-  {
-   "key": "16610",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:05:17.459Z",
-    "stars": "0",
-    "text": "Iron Bank Containers / defenseunicorns / uds / ui",
-    "title": "Iron Bank Containers / defenseunicorns / uds / ui",
-    "url": "https://repo1.dso.mil/dsop/defenseunicorns/uds/ui"
-   }
-  },
-  {
-   "key": "12569",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:05:12.984Z",
-    "stars": "0",
-    "text": "Iron Bank Containers / sentar / missionvalor / missionvalor-client",
-    "title": "Iron Bank Containers / sentar / missionvalor / missionvalor-client",
-    "url": "https://repo1.dso.mil/dsop/sentar/missionvalor/missionvalor-client"
-   }
-  },
-  {
-   "key": "18227",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:05:01.539Z",
-    "stars": "0",
-    "text": "Iron Bank Containers / Tetrate / istio / 1.27 / install-cni",
-    "title": "Iron Bank Containers / Tetrate / istio / 1.27 / install-cni",
-    "url": "https://repo1.dso.mil/dsop/tetrate/istio/1.27/install-cni"
-   }
-  },
-  {
-   "key": "18892",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:04:50.993Z",
-    "stars": "0",
-    "text": "Iron Bank Containers / Opensource / vespaengine / vespa",
-    "title": "Iron Bank Containers / Opensource / vespaengine / vespa",
-    "url": "https://repo1.dso.mil/dsop/opensource/vespaengine/vespa"
-   }
-  },
-  {
-   "key": "18746",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:04:40.392Z",
-    "stars": "0",
-    "text": "Iron Bank Containers / AFDCO / opencti / opencti-6 / connector-import-external-reference",
-    "title": "Iron Bank Containers / AFDCO / opencti / opencti-6 / connector-import-external-reference",
-    "url": "https://repo1.dso.mil/dsop/afdco/opencti/opencti-6/connector-import-external-reference"
-   }
-  },
-  {
-   "key": "1896",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:04:25.550Z",
-    "stars": "0",
-    "text": "Iron Bank Containers / Rancher Federal / RKE2 / flannel",
-    "title": "Iron Bank Containers / Rancher Federal / RKE2 / flannel",
-    "url": "https://repo1.dso.mil/dsop/rancher-federal/rke2/flannel"
-   }
-  },
-  {
-   "key": "11618",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:04:24.431Z",
-    "stars": "0",
-    "text": "Iron Bank Containers / Rancher Federal / RKE2 / hardened-cluster-autoscaler",
-    "title": "Iron Bank Containers / Rancher Federal / RKE2 / hardened-cluster-autoscaler",
-    "url": "https://repo1.dso.mil/dsop/rancher-federal/rke2/hardened-cluster-autoscaler"
-   }
-  },
-  {
-   "key": "1892",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:04:24.098Z",
-    "stars": "0",
-    "text": "Iron Bank Containers / Rancher Federal / RKE2 / calico",
-    "title": "Iron Bank Containers / Rancher Federal / RKE2 / calico",
-    "url": "https://repo1.dso.mil/dsop/rancher-federal/rke2/calico"
-   }
-  },
-  {
-   "key": "11620",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:04:23.991Z",
-    "stars": "0",
-    "text": "Iron Bank Containers / Rancher Federal / RKE2 / hardened-dns-node-cache",
-    "title": "Iron Bank Containers / Rancher Federal / RKE2 / hardened-dns-node-cache",
-    "url": "https://repo1.dso.mil/dsop/rancher-federal/rke2/hardened-dns-node-cache"
-   }
-  },
-  {
-   "key": "1904",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:04:23.093Z",
-    "stars": "0",
-    "text": "Iron Bank Containers / Rancher Federal / RKE2 / hardened-kubernetes",
-    "title": "Iron Bank Containers / Rancher Federal / RKE2 / hardened-kubernetes",
-    "url": "https://repo1.dso.mil/dsop/rancher-federal/rke2/hardened-kubernetes"
-   }
-  },
-  {
-   "key": "16602",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:04:20.846Z",
-    "stars": "1",
-    "text": "Iron Bank Containers / AFRL-DCGS / Stream / opensearch-project / opensearch",
-    "title": "Iron Bank Containers / AFRL-DCGS / Stream / opensearch-project / opensearch",
-    "url": "https://repo1.dso.mil/dsop/afrl-dcgs/stream/opensearch-project/opensearch"
-   }
-  },
-  {
-   "key": "14133",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:04:18.760Z",
-    "stars": "0",
-    "text": "Iron Bank Containers / budibase / budibase / worker",
-    "title": "Iron Bank Containers / budibase / budibase / worker",
-    "url": "https://repo1.dso.mil/dsop/budibase/budibase/worker"
-   }
-  },
-  {
-   "key": "11698",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:04:17.653Z",
-    "stars": "0",
-    "text": "Iron Bank Containers / CloudBees / cbflow / cbflow-server",
-    "title": "Iron Bank Containers / CloudBees / cbflow / cbflow-server",
-    "url": "https://repo1.dso.mil/dsop/cloudbees/cbflow/cbflow-server"
-   }
-  },
-  {
-   "key": "2000",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:04:15.011Z",
-    "description": "cloudfit-cfs-actionworker",
-    "stars": "0",
-    "text": "Iron Bank Containers / CloudFit / CFS / cfs-actionworker",
-    "title": "Iron Bank Containers / CloudFit / CFS / cfs-actionworker",
-    "url": "https://repo1.dso.mil/dsop/cloudfit/CFS/cloudfit-cfs-actionworker"
-   }
-  },
-  {
-   "key": "18456",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:04:09.832Z",
-    "stars": "1",
-    "text": "Iron Bank Containers / nswccd-code104 / rdte-httpd-demo",
-    "title": "Iron Bank Containers / nswccd-code104 / rdte-httpd-demo",
-    "url": "https://repo1.dso.mil/dsop/nswccd-code104/rdte-httpd-demo"
-   }
-  },
-  {
-   "key": "1697",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:04:09.273Z",
-    "description": "cloudfit-cfs-portal",
-    "stars": "0",
-    "text": "Iron Bank Containers / CloudFit / CFS / cfs-portal",
-    "title": "Iron Bank Containers / CloudFit / CFS / cfs-portal",
-    "url": "https://repo1.dso.mil/dsop/cloudfit/CFS/cloudfit-cfs-portal"
-   }
-  },
-  {
-   "key": "1991",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:04:09.159Z",
-    "description": "cloudfit-cfs-recurringexpiredruleworker",
-    "stars": "0",
-    "text": "Iron Bank Containers / CloudFit / CFS / cfs-recurringexpiredruleworker",
-    "title": "Iron Bank Containers / CloudFit / CFS / cfs-recurringexpiredruleworker",
-    "url": "https://repo1.dso.mil/dsop/cloudfit/CFS/cloudfit-cfs-recurringexpiredruleworker"
-   }
-  },
-  {
-   "key": "1987",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:04:08.501Z",
-    "description": "cloudfit-cfs-recurringagedruleworker",
-    "stars": "0",
-    "text": "Iron Bank Containers / CloudFit / CFS / cfs-recurringagedruleworker",
-    "title": "Iron Bank Containers / CloudFit / CFS / cfs-recurringagedruleworker",
-    "url": "https://repo1.dso.mil/dsop/cloudfit/CFS/cloudfit-cfs-recurringagedruleworker"
-   }
-  },
-  {
-   "key": "1985",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:04:08.369Z",
-    "description": "cloudfit-cfs-api",
-    "stars": "0",
-    "text": "Iron Bank Containers / CloudFit / CFS / cfs-api",
-    "title": "Iron Bank Containers / CloudFit / CFS / cfs-api",
-    "url": "https://repo1.dso.mil/dsop/cloudfit/CFS/cloudfit-cfs-api"
-   }
-  },
-  {
-   "key": "2001",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:04:06.884Z",
-    "description": "cloudfit-cfs-rulematchaggregateworker",
-    "stars": "0",
-    "text": "Iron Bank Containers / CloudFit / CFS / cfs-rulematchworker",
-    "title": "Iron Bank Containers / CloudFit / CFS / cfs-rulematchworker",
-    "url": "https://repo1.dso.mil/dsop/cloudfit/CFS/cloudfit-cfs-rulematchaggregateworker"
-   }
-  },
-  {
-   "key": "1983",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:04:05.147Z",
-    "description": "cloudfit-cfs-realtimeruleworker",
-    "stars": "0",
-    "text": "Iron Bank Containers / CloudFit / CFS / cfs-ruleworker",
-    "title": "Iron Bank Containers / CloudFit / CFS / cfs-ruleworker",
-    "url": "https://repo1.dso.mil/dsop/cloudfit/CFS/cloudfit-cfs-realtimeruleworker"
-   }
-  },
-  {
-   "key": "15837",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:04:04.978Z",
-    "stars": "0",
-    "text": "Iron Bank Containers / CloudFit / AI / enrichment-services-v1",
-    "title": "Iron Bank Containers / CloudFit / AI / enrichment-services-v1",
-    "url": "https://repo1.dso.mil/dsop/cloudfit/ai/enrichment-services-v1"
-   }
-  },
-  {
-   "key": "211",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:04:01.951Z",
-    "stars": "0",
-    "text": "Iron Bank Containers / Anchore / enterprise / enterprise",
-    "title": "Iron Bank Containers / Anchore / enterprise / enterprise",
-    "url": "https://repo1.dso.mil/dsop/anchore/enterprise/enterprise"
-   }
-  },
-  {
-   "key": "16280",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:04:01.719Z",
-    "stars": "0",
-    "text": "Iron Bank Containers / budibase / budibase / couchdb",
-    "title": "Iron Bank Containers / budibase / budibase / couchdb",
-    "url": "https://repo1.dso.mil/dsop/budibase/budibase/couchdb"
-   }
-  },
-  {
-   "key": "6319",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:04:01.639Z",
-    "description": "Project template for all Iron Bank container repositories.",
-    "stars": "1",
-    "text": "Iron Bank Containers / Via / Tac Node / bigchaindb",
-    "title": "Iron Bank Containers / Via / Tac Node / bigchaindb",
-    "url": "https://repo1.dso.mil/dsop/via/tac-node/bigchaindb"
-   }
-  },
-  {
-   "key": "16425",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:04:01.342Z",
-    "stars": "0",
-    "text": "Iron Bank Containers / soacloud / custom-artemis-init",
-    "title": "Iron Bank Containers / soacloud / custom-artemis-init",
-    "url": "https://repo1.dso.mil/dsop/soacloud/custom-artemis-init"
-   }
-  },
-  {
-   "key": "12955",
-   "source": "oss-repo1",
-   "fields": {
-    "date": "2026-06-11T03:04:00.383Z",
-    "stars": "0",
-    "text": "Iron Bank Containers / Hashicorp / vault-csi-provider",
-    "title": "Iron Bank Containers / Hashicorp / vault-csi-provider",
-    "url": "https://repo1.dso.mil/dsop/hashicorp/vault-csi-provider"
-   }
-  },
-  {
-   "key": "deptofdefense/anet",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2017-12-19T20:22:43Z",
-    "description": "Advisor Network",
-    "stars": "27",
-    "text": "deptofdefense/anet",
-    "title": "deptofdefense/anet",
-    "url": "https://github.com/deptofdefense/anet"
-   }
-  },
-  {
-   "key": "deptofdefense/data-mil-THOR-example",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2023-03-25T15:30:35Z",
-    "description": "An example of visualizing data from Data.mil using common open source tools",
-    "stars": "14",
-    "text": "deptofdefense/data-mil-THOR-example",
-    "title": "deptofdefense/data-mil-THOR-example",
-    "url": "https://github.com/deptofdefense/data-mil-THOR-example"
-   }
-  },
-  {
-   "key": "deptofdefense/eMCM",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2024-07-09T20:35:11Z",
-    "description": "An online, searchable interface for the Manual for Courts-Martial.",
-    "stars": "14",
-    "text": "deptofdefense/eMCM",
-    "title": "deptofdefense/eMCM",
-    "url": "https://github.com/deptofdefense/eMCM"
-   }
-  },
-  {
-   "key": "deptofdefense/dco-bot",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2023-03-25T12:36:49Z",
-    "description": "Bot for a GitHub webhook to check commits for DCO sign-off via AWS Lambda",
-    "stars": "5",
-    "text": "deptofdefense/dco-bot",
-    "title": "deptofdefense/dco-bot",
-    "url": "https://github.com/deptofdefense/dco-bot"
-   }
-  },
-  {
-   "key": "deptofdefense/code.mil.page",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2017-04-30T08:29:17Z",
-    "stars": "5",
-    "text": "deptofdefense/code.mil.page",
-    "title": "deptofdefense/code.mil.page",
-    "url": "https://github.com/deptofdefense/code.mil.page"
-   }
-  },
-  {
-   "key": "deptofdefense/move.mil",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2018-07-27T16:35:45Z",
-    "description": "The entry point website to the Defense Personal Property System (DPS).",
-    "stars": "16",
-    "text": "deptofdefense/move.mil",
-    "title": "deptofdefense/move.mil",
-    "url": "https://github.com/deptofdefense/move.mil"
-   }
-  },
-  {
-   "key": "deptofdefense/gr-uaslink",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2017-11-12T18:52:44Z",
-    "description": "DARPA HackFest",
-    "stars": "39",
-    "text": "deptofdefense/gr-uaslink",
-    "title": "deptofdefense/gr-uaslink",
-    "url": "https://github.com/deptofdefense/gr-uaslink"
-   }
-  },
-  {
-   "key": "deptofdefense/meta-darpahackfest",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2017-10-13T14:51:48Z",
-    "description": "DARPA HackFest",
-    "stars": "11",
-    "text": "deptofdefense/meta-darpahackfest",
-    "title": "deptofdefense/meta-darpahackfest",
-    "url": "https://github.com/deptofdefense/meta-darpahackfest"
-   }
-  },
-  {
-   "key": "deptofdefense/rtfn-mil",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2018-02-13T21:02:45Z",
+    "date": "2026-05-18T19:54:16Z",
+    "description": "Generate HTTPS reports based on scan data",
     "stars": "15",
-    "text": "deptofdefense/rtfn-mil",
-    "title": "deptofdefense/rtfn-mil",
-    "url": "https://github.com/deptofdefense/rtfn-mil"
+    "text": "cisagov/pshtt_reporter",
+    "title": "cisagov/pshtt_reporter",
+    "url": "https://github.com/cisagov/pshtt_reporter"
    }
   },
   {
-   "key": "deptofdefense/certificate-transparency",
-   "source": "oss-deptofdefense",
+   "key": "cisagov/dmarc-import",
+   "source": "oss-cisagov",
    "fields": {
-    "archived": "true",
-    "date": "2023-03-25T15:29:58Z",
-    "description": "Auditing for TLS certificates.",
-    "stars": "2",
-    "text": "deptofdefense/certificate-transparency",
-    "title": "deptofdefense/certificate-transparency",
-    "url": "https://github.com/deptofdefense/certificate-transparency"
+    "date": "2026-04-21T21:04:56Z",
+    "description": "A tool for parsing DMARC aggregate reports.",
+    "stars": "11",
+    "text": "cisagov/dmarc-import",
+    "title": "cisagov/dmarc-import",
+    "url": "https://github.com/cisagov/dmarc-import"
    }
   },
   {
-   "key": "deptofdefense/SalSA",
-   "source": "oss-deptofdefense",
+   "key": "cisagov/dmarc-import-tf-module",
+   "source": "oss-cisagov",
    "fields": {
-    "archived": "true",
-    "date": "2019-06-07T21:49:47Z",
-    "description": "Salvaging Static Analysis",
-    "stars": "87",
-    "text": "deptofdefense/SalSA",
-    "title": "deptofdefense/SalSA",
-    "url": "https://github.com/deptofdefense/SalSA"
+    "date": "2026-04-27T22:13:05Z",
+    "description": "Terraform code to create AWS infrastructure for parsing DMARC aggregate reports.",
+    "stars": "9",
+    "text": "cisagov/dmarc-import-tf-module",
+    "title": "cisagov/dmarc-import-tf-module",
+    "url": "https://github.com/cisagov/dmarc-import-tf-module"
    }
   },
   {
-   "key": "deptofdefense/terraform-provisioner-ansible",
-   "source": "oss-deptofdefense",
+   "key": "cisagov/dmarc-import-lambda",
+   "source": "oss-cisagov",
    "fields": {
-    "archived": "true",
-    "date": "2018-01-17T18:51:01Z",
-    "description": "A provisioner for bootstrapping terraform resources with ansible",
-    "stars": "2",
-    "text": "deptofdefense/terraform-provisioner-ansible",
-    "title": "deptofdefense/terraform-provisioner-ansible",
-    "url": "https://github.com/deptofdefense/terraform-provisioner-ansible"
-   }
-  },
-  {
-   "key": "deptofdefense/code.mil",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2018-03-12T13:34:19Z",
-    "description": "Moved To:",
-    "stars": "2",
-    "text": "deptofdefense/code.mil",
-    "title": "deptofdefense/code.mil",
-    "url": "https://github.com/deptofdefense/code.mil"
-   }
-  },
-  {
-   "key": "deptofdefense/ElasticScroll",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2023-03-25T15:29:17Z",
-    "stars": "5",
-    "text": "deptofdefense/ElasticScroll",
-    "title": "deptofdefense/ElasticScroll",
-    "url": "https://github.com/deptofdefense/ElasticScroll"
-   }
-  },
-  {
-   "key": "deptofdefense/telepath",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2018-04-23T15:47:13Z",
-    "description": "Decrypt TLS data with keys found in memory dumps",
+    "date": "2019-03-08T22:23:41Z",
+    "description": "AWS Lambda function for dmarc-import",
     "stars": "4",
-    "text": "deptofdefense/telepath",
-    "title": "deptofdefense/telepath",
-    "url": "https://github.com/deptofdefense/telepath"
+    "text": "cisagov/dmarc-import-lambda",
+    "title": "cisagov/dmarc-import-lambda",
+    "url": "https://github.com/cisagov/dmarc-import-lambda"
    }
   },
   {
-   "key": "deptofdefense/dds.mil",
-   "source": "oss-deptofdefense",
+   "key": "cisagov/cyhy_amis",
+   "source": "oss-cisagov",
    "fields": {
-    "archived": "true",
-    "date": "2023-07-18T22:19:49Z",
-    "description": "The website of the Defense Digital Service.",
+    "date": "2026-05-28T14:06:16Z",
+    "description": "AWS infrastructure for Cyber Hygiene and BOD 18-01 scanning",
     "stars": "24",
-    "text": "deptofdefense/dds.mil",
-    "title": "deptofdefense/dds.mil",
-    "url": "https://github.com/deptofdefense/dds.mil"
+    "text": "cisagov/cyhy_amis",
+    "title": "cisagov/cyhy_amis",
+    "url": "https://github.com/cisagov/cyhy_amis"
    }
   },
   {
-   "key": "deptofdefense/one-question-survey",
-   "source": "oss-deptofdefense",
+   "key": "cisagov/cyhy-core",
+   "source": "oss-cisagov",
    "fields": {
-    "archived": "true",
-    "date": "2019-01-26T01:20:13Z",
-    "stars": "0",
-    "text": "deptofdefense/one-question-survey",
-    "title": "deptofdefense/one-question-survey",
-    "url": "https://github.com/deptofdefense/one-question-survey"
+    "date": "2026-05-18T19:53:55Z",
+    "description": "Core code for Cyber Hygiene (CyHy)",
+    "stars": "18",
+    "text": "cisagov/cyhy-core",
+    "title": "cisagov/cyhy-core",
+    "url": "https://github.com/cisagov/cyhy-core"
    }
   },
   {
-   "key": "deptofdefense/traefik",
-   "source": "oss-deptofdefense",
+   "key": "cisagov/cyhy-feeds",
+   "source": "oss-cisagov",
    "fields": {
-    "archived": "true",
-    "date": "2023-03-25T12:39:01Z",
-    "description": "The Cloud Native Edge Router",
+    "date": "2026-02-18T16:43:06Z",
+    "description": "Tools to create and retrieve Cyber Hygiene (CyHy) data extracts",
     "stars": "2",
-    "text": "deptofdefense/traefik",
-    "title": "deptofdefense/traefik",
-    "url": "https://github.com/deptofdefense/traefik"
+    "text": "cisagov/cyhy-feeds",
+    "title": "cisagov/cyhy-feeds",
+    "url": "https://github.com/cisagov/cyhy-feeds"
    }
   },
   {
-   "key": "deptofdefense/policyengine",
-   "source": "oss-deptofdefense",
+   "key": "cisagov/cyhy-reports",
+   "source": "oss-cisagov",
    "fields": {
-    "archived": "true",
-    "date": "2019-03-28T13:45:26Z",
-    "description": "authn and authz services for web-based access decisions",
-    "stars": "4",
-    "text": "deptofdefense/policyengine",
-    "title": "deptofdefense/policyengine",
-    "url": "https://github.com/deptofdefense/policyengine"
+    "date": "2026-06-10T19:19:33Z",
+    "description": "Code to generate Cyber Hygiene (CyHy) reports",
+    "stars": "11",
+    "text": "cisagov/cyhy-reports",
+    "title": "cisagov/cyhy-reports",
+    "url": "https://github.com/cisagov/cyhy-reports"
    }
   },
   {
-   "key": "deptofdefense/accessproxyredux",
-   "source": "oss-deptofdefense",
+   "key": "cisagov/cyhy-runner",
+   "source": "oss-cisagov",
    "fields": {
-    "archived": "true",
-    "date": "2023-03-25T12:38:12Z",
-    "description": "software based identity and access control proxy",
-    "stars": "8",
-    "text": "deptofdefense/accessproxyredux",
-    "title": "deptofdefense/accessproxyredux",
-    "url": "https://github.com/deptofdefense/accessproxyredux"
-   }
-  },
-  {
-   "key": "deptofdefense/BricksInTheAir",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2023-10-06T17:57:30Z",
-    "description": "Hack the Plane with Legos and Arduinos!",
-    "stars": "10",
-    "text": "deptofdefense/BricksInTheAir",
-    "title": "deptofdefense/BricksInTheAir",
-    "url": "https://github.com/deptofdefense/BricksInTheAir"
-   }
-  },
-  {
-   "key": "deptofdefense/osd-ogc-doha-data-extract",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2019-08-20T16:19:35Z",
-    "description": "Data extracted from http://ogc.osd.mil/doha/industrial/",
-    "stars": "3",
-    "text": "deptofdefense/osd-ogc-doha-data-extract",
-    "title": "deptofdefense/osd-ogc-doha-data-extract",
-    "url": "https://github.com/deptofdefense/osd-ogc-doha-data-extract"
-   }
-  },
-  {
-   "key": "deptofdefense/send",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2023-03-25T12:37:34Z",
-    "description": "Simple, private file sharing from the makers of Firefox",
-    "stars": "4",
-    "text": "deptofdefense/send",
-    "title": "deptofdefense/send",
-    "url": "https://github.com/deptofdefense/send"
-   }
-  },
-  {
-   "key": "deptofdefense/solo",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2020-08-14T15:19:51Z",
-    "description": "System for Operational Logistics Orders (SOLO)",
-    "stars": "10",
-    "text": "deptofdefense/solo",
-    "title": "deptofdefense/solo",
-    "url": "https://github.com/deptofdefense/solo"
-   }
-  },
-  {
-   "key": "deptofdefense/timebucket",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2023-03-25T12:35:28Z",
-    "description": "Create histograms from temporal data",
-    "stars": "6",
-    "text": "deptofdefense/timebucket",
-    "title": "deptofdefense/timebucket",
-    "url": "https://github.com/deptofdefense/timebucket"
-   }
-  },
-  {
-   "key": "deptofdefense/iceberg",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2023-03-25T12:31:38Z",
-    "description": "File server using client certificate authentication and policy-based access control",
-    "stars": "9",
-    "text": "deptofdefense/iceberg",
-    "title": "deptofdefense/iceberg",
-    "url": "https://github.com/deptofdefense/iceberg"
-   }
-  },
-  {
-   "key": "deptofdefense/hack-a-sat-library",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2024-05-05T02:37:42Z",
-    "description": "Public library of space documents and tutorials",
-    "stars": "959",
-    "text": "deptofdefense/hack-a-sat-library",
-    "title": "deptofdefense/hack-a-sat-library",
-    "url": "https://github.com/deptofdefense/hack-a-sat-library"
-   }
-  },
-  {
-   "key": "deptofdefense/covid19-calculator",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2023-07-18T22:19:31Z",
-    "description": "COVID-19 Calculator written in Typescript.",
-    "stars": "20",
-    "text": "deptofdefense/covid19-calculator",
-    "title": "deptofdefense/covid19-calculator",
-    "url": "https://github.com/deptofdefense/covid19-calculator"
-   }
-  },
-  {
-   "key": "deptofdefense/porglet",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2023-02-10T21:38:51Z",
-    "description": "porglet development repo",
-    "stars": "16",
-    "text": "deptofdefense/porglet",
-    "title": "deptofdefense/porglet",
-    "url": "https://github.com/deptofdefense/porglet"
-   }
-  },
-  {
-   "key": "deptofdefense/AndroidTacticalAssaultKit-CIV",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2024-10-18T15:00:36Z",
-    "stars": "471",
-    "text": "deptofdefense/AndroidTacticalAssaultKit-CIV",
-    "title": "deptofdefense/AndroidTacticalAssaultKit-CIV",
-    "url": "https://github.com/deptofdefense/AndroidTacticalAssaultKit-CIV"
-   }
-  },
-  {
-   "key": "deptofdefense/dds-at-DEFCON",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2024-08-08T05:02:50Z",
-    "description": "DDS workshops at DEFCON",
-    "stars": "90",
-    "text": "deptofdefense/dds-at-DEFCON",
-    "title": "deptofdefense/dds-at-DEFCON",
-    "url": "https://github.com/deptofdefense/dds-at-DEFCON"
-   }
-  },
-  {
-   "key": "deptofdefense/now",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2023-05-09T22:11:03Z",
-    "description": "Simple command line tool for printing current time.",
-    "stars": "4",
-    "text": "deptofdefense/now",
-    "title": "deptofdefense/now",
-    "url": "https://github.com/deptofdefense/now"
-   }
-  },
-  {
-   "key": "deptofdefense/HAS-Qualifier-Challenges",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2022-09-04T10:14:34Z",
-    "description": "Hack A Sat 2020 Qualifier Challenges",
-    "stars": "108",
-    "text": "deptofdefense/HAS-Qualifier-Challenges",
-    "title": "deptofdefense/HAS-Qualifier-Challenges",
-    "url": "https://github.com/deptofdefense/HAS-Qualifier-Challenges"
-   }
-  },
-  {
-   "key": "deptofdefense/Crossfeed",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2021-06-15T16:01:17Z",
-    "stars": "8",
-    "text": "deptofdefense/Crossfeed",
-    "title": "deptofdefense/Crossfeed",
-    "url": "https://github.com/deptofdefense/Crossfeed"
-   }
-  },
-  {
-   "key": "deptofdefense/hack-aviation-library",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2020-08-05T19:57:11Z",
-    "description": "A collection of learning resources for budding aviation security researchers ",
-    "stars": "101",
-    "text": "deptofdefense/hack-aviation-library",
-    "title": "deptofdefense/hack-aviation-library",
-    "url": "https://github.com/deptofdefense/hack-aviation-library"
-   }
-  },
-  {
-   "key": "deptofdefense/crossfeed-ows",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2021-06-15T00:33:22Z",
-    "description": "External monitoring for organization assets",
-    "stars": "3",
-    "text": "deptofdefense/crossfeed-ows",
-    "title": "deptofdefense/crossfeed-ows",
-    "url": "https://github.com/deptofdefense/crossfeed-ows"
-   }
-  },
-  {
-   "key": "deptofdefense/HAS-launchdotcom-challenge",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2020-08-25T18:04:44Z",
-    "stars": "0",
-    "text": "deptofdefense/HAS-launchdotcom-challenge",
-    "title": "deptofdefense/HAS-launchdotcom-challenge",
-    "url": "https://github.com/deptofdefense/HAS-launchdotcom-challenge"
-   }
-  },
-  {
-   "key": "deptofdefense/scan-alb-logs",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2023-07-12T20:28:12Z",
-    "description": "Scan AWS Application Load Balancer (ALB) logs",
-    "stars": "8",
-    "text": "deptofdefense/scan-alb-logs",
-    "title": "deptofdefense/scan-alb-logs",
-    "url": "https://github.com/deptofdefense/scan-alb-logs"
-   }
-  },
-  {
-   "key": "deptofdefense/s3-access-logs",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2023-05-09T22:11:40Z",
-    "description": "Take AWS S3 access logs and transform them to parquet format.",
-    "stars": "0",
-    "text": "deptofdefense/s3-access-logs",
-    "title": "deptofdefense/s3-access-logs",
-    "url": "https://github.com/deptofdefense/s3-access-logs"
-   }
-  },
-  {
-   "key": "deptofdefense/jc",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2023-03-25T12:29:41Z",
-    "description": "A simple tool to compress JSON",
-    "stars": "4",
-    "text": "deptofdefense/jc",
-    "title": "deptofdefense/jc",
-    "url": "https://github.com/deptofdefense/jc"
-   }
-  },
-  {
-   "key": "deptofdefense/moff",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2021-06-22T16:33:26Z",
-    "description": "Test data",
-    "stars": "0",
-    "text": "deptofdefense/moff",
-    "title": "deptofdefense/moff",
-    "url": "https://github.com/deptofdefense/moff"
-   }
-  },
-  {
-   "key": "deptofdefense/safelock",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2023-09-06T12:53:20Z",
-    "description": "A golang package for locking files used by distributed services",
-    "stars": "7",
-    "text": "deptofdefense/safelock",
-    "title": "deptofdefense/safelock",
-    "url": "https://github.com/deptofdefense/safelock"
-   }
-  },
-  {
-   "key": "deptofdefense/simplelogger",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2023-08-30T14:06:12Z",
-    "description": "A golang package for logging",
-    "stars": "1",
-    "text": "deptofdefense/simplelogger",
-    "title": "deptofdefense/simplelogger",
-    "url": "https://github.com/deptofdefense/simplelogger"
-   }
-  },
-  {
-   "key": "deptofdefense/awslogin",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2023-08-28T03:44:36Z",
-    "description": "A utility to log in to AWS using aws-vault with secrets stored in 1Password",
-    "stars": "10",
-    "text": "deptofdefense/awslogin",
-    "title": "deptofdefense/awslogin",
-    "url": "https://github.com/deptofdefense/awslogin"
-   }
-  },
-  {
-   "key": "deptofdefense/awsutil",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2023-09-06T08:45:51Z",
-    "description": "This is a set of utilities for managing AWS accounts",
-    "stars": "6",
-    "text": "deptofdefense/awsutil",
-    "title": "deptofdefense/awsutil",
-    "url": "https://github.com/deptofdefense/awsutil"
-   }
-  },
-  {
-   "key": "deptofdefense/icecube",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2023-08-30T14:08:23Z",
-    "stars": "1",
-    "text": "deptofdefense/icecube",
-    "title": "deptofdefense/icecube",
-    "url": "https://github.com/deptofdefense/icecube"
-   }
-  },
-  {
-   "key": "deptofdefense/pyserializer",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2023-03-25T12:32:18Z",
-    "stars": "1",
-    "text": "deptofdefense/pyserializer",
-    "title": "deptofdefense/pyserializer",
-    "url": "https://github.com/deptofdefense/pyserializer"
-   }
-  },
-  {
-   "key": "deptofdefense/pylogger",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2023-03-25T12:32:55Z",
+    "date": "2026-05-13T17:42:44Z",
+    "description": "Provides functionality to process jobs pushed by cisagov/cyhy-commander to a scanner instance.",
     "stars": "2",
-    "text": "deptofdefense/pylogger",
-    "title": "deptofdefense/pylogger",
-    "url": "https://github.com/deptofdefense/pylogger"
+    "text": "cisagov/cyhy-runner",
+    "title": "cisagov/cyhy-runner",
+    "url": "https://github.com/cisagov/cyhy-runner"
    }
   },
   {
-   "key": "deptofdefense/slack-archiver",
-   "source": "oss-deptofdefense",
+   "key": "cisagov/ncats-webui",
+   "source": "oss-cisagov",
    "fields": {
-    "archived": "true",
-    "date": "2023-03-25T12:29:04Z",
-    "description": "A simple tool to archive a Slack enterprise grid.",
-    "stars": "1",
-    "text": "deptofdefense/slack-archiver",
-    "title": "deptofdefense/slack-archiver",
-    "url": "https://github.com/deptofdefense/slack-archiver"
-   }
-  },
-  {
-   "key": "deptofdefense/kanga",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2023-07-12T20:32:16Z",
-    "stars": "4",
-    "text": "deptofdefense/kanga",
-    "title": "deptofdefense/kanga",
-    "url": "https://github.com/deptofdefense/kanga"
-   }
-  },
-  {
-   "key": "deptofdefense/dds-at-HTC5.0",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2022-05-03T16:57:39Z",
-    "description": "Public database of DDS events at Hack The Capitol ",
-    "stars": "3",
-    "text": "deptofdefense/dds-at-HTC5.0",
-    "title": "deptofdefense/dds-at-HTC5.0",
-    "url": "https://github.com/deptofdefense/dds-at-HTC5.0"
-   }
-  },
-  {
-   "key": "deptofdefense/satellite-jamming-simulator",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2023-07-19T19:04:09Z",
-    "description": "A simple simulator for modeling earth-to-space RFI attacks. Demonstrated at DEFCON 30.",
-    "stars": "46",
-    "text": "deptofdefense/satellite-jamming-simulator",
-    "title": "deptofdefense/satellite-jamming-simulator",
-    "url": "https://github.com/deptofdefense/satellite-jamming-simulator"
-   }
-  },
-  {
-   "key": "deptofdefense/dc30-space-jam",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2022-07-27T18:12:52Z",
-    "description": "Resources and demos from the DEFCON 30 Brief \"Space Jam: Exploring Radio Frequency Attacks in Outer Space\" by James Pavur",
-    "stars": "25",
-    "text": "deptofdefense/dc30-space-jam",
-    "title": "deptofdefense/dc30-space-jam",
-    "url": "https://github.com/deptofdefense/dc30-space-jam"
-   }
-  },
-  {
-   "key": "deptofdefense/halloween",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2022-10-18T19:32:56Z",
-    "description": "Public Repo for Halloween stuff",
-    "stars": "2",
-    "text": "deptofdefense/halloween",
-    "title": "deptofdefense/halloween",
-    "url": "https://github.com/deptofdefense/halloween"
-   }
-  },
-  {
-   "key": "deptofdefense/MagicManifest",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2023-06-30T20:35:20Z",
-    "stars": "0",
-    "text": "deptofdefense/MagicManifest",
-    "title": "deptofdefense/MagicManifest",
-    "url": "https://github.com/deptofdefense/MagicManifest"
-   }
-  },
-  {
-   "key": "deptofdefense/hack-ai-library",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2023-06-30T14:15:14Z",
-    "description": "A collection of resources for budding AI hackers",
-    "stars": "25",
-    "text": "deptofdefense/hack-ai-library",
-    "title": "deptofdefense/hack-ai-library",
-    "url": "https://github.com/deptofdefense/hack-ai-library"
-   }
-  },
-  {
-   "key": "deptofdefense/CPXSimpleSat",
-   "source": "oss-deptofdefense",
-   "fields": {
-    "archived": "true",
-    "date": "2023-09-11T19:49:59Z",
-    "description": "Repo for DEFCON28 CPXSimpleSat",
+    "date": "2026-03-26T13:39:00Z",
     "stars": "5",
-    "text": "deptofdefense/CPXSimpleSat",
-    "title": "deptofdefense/CPXSimpleSat",
-    "url": "https://github.com/deptofdefense/CPXSimpleSat"
+    "text": "cisagov/ncats-webui",
+    "title": "cisagov/ncats-webui",
+    "url": "https://github.com/cisagov/ncats-webui"
    }
   },
   {
-   "key": "deptofdefense/DDSat",
-   "source": "oss-deptofdefense",
+   "key": "cisagov/ncats-webd",
+   "source": "oss-cisagov",
    "fields": {
-    "archived": "true",
-    "date": "2023-09-11T19:50:31Z",
-    "description": "Repo for DEFCON28 DDSat",
-    "stars": "6",
-    "text": "deptofdefense/DDSat",
-    "title": "deptofdefense/DDSat",
-    "url": "https://github.com/deptofdefense/DDSat"
+    "date": "2025-10-09T14:20:19Z",
+    "stars": "3",
+    "text": "cisagov/ncats-webd",
+    "title": "cisagov/ncats-webd",
+    "url": "https://github.com/cisagov/ncats-webd"
    }
   },
   {
-   "key": "deptofdefense/DDRover",
-   "source": "oss-deptofdefense",
+   "key": "cisagov/elastic-ips-terraform",
+   "source": "oss-cisagov",
    "fields": {
-    "archived": "true",
-    "date": "2023-09-11T19:47:45Z",
-    "description": "Repo for DEFCON29 DDRover",
+    "date": "2024-06-06T23:18:41Z",
+    "description": "Terraform files that provide AWS elastic IP addresses for use by other dhs-ncats projects ",
     "stars": "5",
-    "text": "deptofdefense/DDRover",
-    "title": "deptofdefense/DDRover",
-    "url": "https://github.com/deptofdefense/DDRover"
+    "text": "cisagov/elastic-ips-terraform",
+    "title": "cisagov/elastic-ips-terraform",
+    "url": "https://github.com/cisagov/elastic-ips-terraform"
    }
   },
   {
-   "key": "deptofdefense/HackTheMicrogrid",
-   "source": "oss-deptofdefense",
+   "key": "cisagov/Sogu",
+   "source": "oss-cisagov",
    "fields": {
-    "archived": "true",
-    "date": "2023-09-11T19:46:27Z",
-    "description": "Repo for DEFCON30 Hack The Microgrid",
+    "date": "2019-04-22T16:53:45Z",
+    "description": "This script generates a list of possible SOGU filenames based on serial numbers of active drives. It has the added functionality of searching each drive from the generated file list.",
+    "stars": "8",
+    "text": "cisagov/Sogu",
+    "title": "cisagov/Sogu",
+    "url": "https://github.com/cisagov/Sogu"
+   }
+  },
+  {
+   "key": "cisagov/trustymail-lambda",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2019-03-08T22:10:48Z",
+    "description": "AWS Lambda function for trustymail",
+    "stars": "2",
+    "text": "cisagov/trustymail-lambda",
+    "title": "cisagov/trustymail-lambda",
+    "url": "https://github.com/cisagov/trustymail-lambda"
+   }
+  },
+  {
+   "key": "cisagov/bod-18-01-terraform",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2019-03-08T22:24:12Z",
+    "description": "Terraform code for BOD 18-01 scanning",
+    "stars": "1",
+    "text": "cisagov/bod-18-01-terraform",
+    "title": "cisagov/bod-18-01-terraform",
+    "url": "https://github.com/cisagov/bod-18-01-terraform"
+   }
+  },
+  {
+   "key": "cisagov/sslyze-lambda",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2019-03-08T22:13:46Z",
+    "description": "AWS Lambda function for sslyze",
+    "stars": "6",
+    "text": "cisagov/sslyze-lambda",
+    "title": "cisagov/sslyze-lambda",
+    "url": "https://github.com/cisagov/sslyze-lambda"
+   }
+  },
+  {
+   "key": "cisagov/bod-18-01-celery",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2024-06-05T08:59:54Z",
+    "description": "Celery code for BOD 18-01 scanning",
+    "stars": "2",
+    "text": "cisagov/bod-18-01-celery",
+    "title": "cisagov/bod-18-01-celery",
+    "url": "https://github.com/cisagov/bod-18-01-celery"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-htop",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-05-19T03:06:30Z",
+    "description": "Ansible role for installing and configuring htop",
+    "stars": "5",
+    "text": "cisagov/ansible-role-htop",
+    "title": "cisagov/ansible-role-htop",
+    "url": "https://github.com/cisagov/ansible-role-htop"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-cyhy-logrotate",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-05-20T19:01:06Z",
+    "description": "Ansible role for installing and configuring logrotate for Cyber Hygiene hosts",
+    "stars": "4",
+    "text": "cisagov/ansible-role-cyhy-logrotate",
+    "title": "cisagov/ansible-role-cyhy-logrotate",
+    "url": "https://github.com/cisagov/ansible-role-cyhy-logrotate"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-banner",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-05-26T00:23:51Z",
+    "description": "Ansible role for installing CISA banner text.",
+    "stars": "6",
+    "text": "cisagov/ansible-role-banner",
+    "title": "cisagov/ansible-role-banner",
+    "url": "https://github.com/cisagov/ansible-role-banner"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-mongo-logrotate",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-02T19:25:44Z",
+    "description": "Ansible role for installing and configuring logrotate for MongoDB hosts",
+    "stars": "4",
+    "text": "cisagov/ansible-role-mongo-logrotate",
+    "title": "cisagov/ansible-role-mongo-logrotate",
+    "url": "https://github.com/cisagov/ansible-role-mongo-logrotate"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-logrotate",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-05-19T03:44:24Z",
+    "description": "Ansible role for installing and configuring logrotate",
+    "stars": "6",
+    "text": "cisagov/ansible-role-logrotate",
+    "title": "cisagov/ansible-role-logrotate",
+    "url": "https://github.com/cisagov/ansible-role-logrotate"
+   }
+  },
+  {
+   "key": "cisagov/github_org_name_change",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2019-02-22T18:31:58Z",
+    "description": "Bash script to help folks update git remote URLs when a GitHub organization changes names",
+    "stars": "5",
+    "text": "cisagov/github_org_name_change",
+    "title": "cisagov/github_org_name_change",
+    "url": "https://github.com/cisagov/github_org_name_change"
+   }
+  },
+  {
+   "key": "cisagov/vulnerable-instances",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2022-03-01T10:57:01Z",
+    "description": "Virtual machines that are set up with a variety of known vulnerabilities.",
+    "stars": "17",
+    "text": "cisagov/vulnerable-instances",
+    "title": "cisagov/vulnerable-instances",
+    "url": "https://github.com/cisagov/vulnerable-instances"
+   }
+  },
+  {
+   "key": "cisagov/skeleton-generic",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-05-22T19:08:19Z",
+    "description": "A generic skeleton project for quickly getting a new cisagov project started.",
+    "stars": "18",
+    "text": "cisagov/skeleton-generic",
+    "title": "cisagov/skeleton-generic",
+    "url": "https://github.com/cisagov/skeleton-generic"
+   }
+  },
+  {
+   "key": "cisagov/skeleton-ansible-role",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-05-29T14:43:13Z",
+    "description": "A skeleton project for quickly getting a new cisagov Ansible role started.",
+    "stars": "13",
+    "text": "cisagov/skeleton-ansible-role",
+    "title": "cisagov/skeleton-ansible-role",
+    "url": "https://github.com/cisagov/skeleton-ansible-role"
+   }
+  },
+  {
+   "key": "cisagov/metasploitable3",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2023-04-20T02:36:40Z",
+    "description": "Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities.",
     "stars": "14",
-    "text": "deptofdefense/HackTheMicrogrid",
-    "title": "deptofdefense/HackTheMicrogrid",
-    "url": "https://github.com/deptofdefense/HackTheMicrogrid"
+    "text": "cisagov/metasploitable3",
+    "title": "cisagov/metasploitable3",
+    "url": "https://github.com/cisagov/metasploitable3"
    }
   },
   {
-   "key": "deptofdefense/LLMs-at-DoD",
-   "source": "oss-deptofdefense",
+   "key": "cisagov/scan-target-data",
+   "source": "oss-cisagov",
    "fields": {
-    "archived": "true",
-    "date": "2024-08-22T13:44:15Z",
-    "description": "This repo is dedicated to providing open-source tutorials for Large Language Model experimentation.",
-    "stars": "105",
-    "text": "deptofdefense/LLMs-at-DoD",
-    "title": "deptofdefense/LLMs-at-DoD",
-    "url": "https://github.com/deptofdefense/LLMs-at-DoD"
+    "date": "2026-04-27T20:16:17Z",
+    "description": "Contains data used to identify targets for scanning",
+    "stars": "10",
+    "text": "cisagov/scan-target-data",
+    "title": "cisagov/scan-target-data",
+    "url": "https://github.com/cisagov/scan-target-data"
    }
   },
   {
-   "key": "deptofdefense/combee",
-   "source": "oss-deptofdefense",
+   "key": "cisagov/ncats-data-dictionary",
+   "source": "oss-cisagov",
    "fields": {
-    "archived": "true",
-    "date": "2024-03-22T17:44:25Z",
-    "description": "A proof of concept framework for safely integrating generative AI and large language models into physical systems",
-    "stars": "9",
-    "text": "deptofdefense/combee",
-    "title": "deptofdefense/combee",
-    "url": "https://github.com/deptofdefense/combee"
+    "date": "2026-06-03T18:28:02Z",
+    "stars": "6",
+    "text": "cisagov/ncats-data-dictionary",
+    "title": "cisagov/ncats-data-dictionary",
+    "url": "https://github.com/cisagov/ncats-data-dictionary"
    }
   },
   {
-   "key": "deptofdefense/naruto",
-   "source": "oss-deptofdefense",
+   "key": "cisagov/code-gov-update",
+   "source": "oss-cisagov",
    "fields": {
-    "archived": "true",
-    "date": "2024-07-29T04:13:22Z",
-    "description": "Test program to help spoof and mimic different wifi drones",
+    "date": "2026-06-10T23:04:08Z",
+    "description": "Update the DHS code.gov JSON",
+    "stars": "6",
+    "text": "cisagov/code-gov-update",
+    "title": "cisagov/code-gov-update",
+    "url": "https://github.com/cisagov/code-gov-update"
+   }
+  },
+  {
+   "key": "cisagov/mongo-db-from-config",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-05-12T14:34:42Z",
+    "description": "Simple library to instantiate a MongoDB database connection based on the data in a YAML configuration file",
+    "stars": "2",
+    "text": "cisagov/mongo-db-from-config",
+    "title": "cisagov/mongo-db-from-config",
+    "url": "https://github.com/cisagov/mongo-db-from-config"
+   }
+  },
+  {
+   "key": "cisagov/skeleton-python-library",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-05-11T19:20:04Z",
+    "description": "A skeleton project for quickly getting a new cisagov Python library started.",
+    "stars": "32",
+    "text": "cisagov/skeleton-python-library",
+    "title": "cisagov/skeleton-python-library",
+    "url": "https://github.com/cisagov/skeleton-python-library"
+   }
+  },
+  {
+   "key": "cisagov/bod-18-01-cloudwatch-users",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-04-28T00:08:56Z",
+    "description": "Create AWS users that only have permission to view CloudWatch logs related to BOD 18-01 scanning",
+    "stars": "2",
+    "text": "cisagov/bod-18-01-cloudwatch-users",
+    "title": "cisagov/bod-18-01-cloudwatch-users",
+    "url": "https://github.com/cisagov/bod-18-01-cloudwatch-users"
+   }
+  },
+  {
+   "key": "cisagov/assessment-data-import-terraform",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-04-27T22:47:08Z",
+    "description": "Terraform code to create resources used to import assessment data into AWS",
+    "stars": "2",
+    "text": "cisagov/assessment-data-import-terraform",
+    "title": "cisagov/assessment-data-import-terraform",
+    "url": "https://github.com/cisagov/assessment-data-import-terraform"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-docker",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-04T15:30:19Z",
+    "description": "An Ansible role for installing Docker",
+    "stars": "7",
+    "text": "cisagov/ansible-role-docker",
+    "title": "cisagov/ansible-role-docker",
+    "url": "https://github.com/cisagov/ansible-role-docker"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-python",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-05-18T03:08:07Z",
+    "description": "An Ansible role for installing python",
+    "stars": "8",
+    "text": "cisagov/ansible-role-python",
+    "title": "cisagov/ansible-role-python",
+    "url": "https://github.com/cisagov/ansible-role-python"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-pip",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-09T14:11:01Z",
+    "description": "An Ansible role for installing pip",
+    "stars": "4",
+    "text": "cisagov/ansible-role-pip",
+    "title": "cisagov/ansible-role-pip",
+    "url": "https://github.com/cisagov/ansible-role-pip"
+   }
+  },
+  {
+   "key": "cisagov/lcgit",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-05-05T19:26:49Z",
+    "description": "A pythonic Linear Congruential Generator iterator",
+    "stars": "6",
+    "text": "cisagov/lcgit",
+    "title": "cisagov/lcgit",
+    "url": "https://github.com/cisagov/lcgit"
+   }
+  },
+  {
+   "key": "cisagov/.github",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-04-27T18:41:40Z",
+    "description": "Default community health files for cisagov",
+    "stars": "7",
+    "text": "cisagov/.github",
+    "title": "cisagov/.github",
+    "url": "https://github.com/cisagov/.github"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-code-gov-update",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-03T02:32:35Z",
+    "description": "An Ansible role for installing cisagov/code-gov-update.",
+    "stars": "3",
+    "text": "cisagov/ansible-role-code-gov-update",
+    "title": "cisagov/ansible-role-code-gov-update",
+    "url": "https://github.com/cisagov/ansible-role-code-gov-update"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-cyhy-mailer",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-03T14:41:06Z",
+    "description": "An Ansible role for installing cisagov/cyhy-mailer.",
+    "stars": "3",
+    "text": "cisagov/ansible-role-cyhy-mailer",
+    "title": "cisagov/ansible-role-cyhy-mailer",
+    "url": "https://github.com/cisagov/ansible-role-cyhy-mailer"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-orchestrator",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-02T00:11:22Z",
+    "description": "An Ansible role for installing cisagov/orchestrator.",
+    "stars": "4",
+    "text": "cisagov/ansible-role-orchestrator",
+    "title": "cisagov/ansible-role-orchestrator",
+    "url": "https://github.com/cisagov/ansible-role-orchestrator"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-xfs",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-03T02:59:54Z",
+    "description": "An Ansible role for installing prerequisites for working with XFS file systems.",
+    "stars": "3",
+    "text": "cisagov/ansible-role-xfs",
+    "title": "cisagov/ansible-role-xfs",
+    "url": "https://github.com/cisagov/ansible-role-xfs"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-nmap",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-05-25T20:25:57Z",
+    "description": "An Ansible role for installing Nmap.",
+    "stars": "5",
+    "text": "cisagov/ansible-role-nmap",
+    "title": "cisagov/ansible-role-nmap",
+    "url": "https://github.com/cisagov/ansible-role-nmap"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-numactl",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-03T11:49:17Z",
+    "description": "An Ansible role for installing numactl.",
+    "stars": "3",
+    "text": "cisagov/ansible-role-numactl",
+    "title": "cisagov/ansible-role-numactl",
+    "url": "https://github.com/cisagov/ansible-role-numactl"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-nvme",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-05-25T01:16:06Z",
+    "description": "An Ansible role for installing the prerequisites for working with NVMe drives.",
+    "stars": "4",
+    "text": "cisagov/ansible-role-nvme",
+    "title": "cisagov/ansible-role-nvme",
+    "url": "https://github.com/cisagov/ansible-role-nvme"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-more-ephemeral-ports",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-05-19T02:20:22Z",
+    "description": "An Ansible role for configuring an instance for the maximum number of ephemeral ports.",
+    "stars": "3",
+    "text": "cisagov/ansible-role-more-ephemeral-ports",
+    "title": "cisagov/ansible-role-more-ephemeral-ports",
+    "url": "https://github.com/cisagov/ansible-role-more-ephemeral-ports"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-disable-numa",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-02T16:31:48Z",
+    "description": "An Ansible role for configuring an instance to disable NUMA globally.",
+    "stars": "3",
+    "text": "cisagov/ansible-role-disable-numa",
+    "title": "cisagov/ansible-role-disable-numa",
+    "url": "https://github.com/cisagov/ansible-role-disable-numa"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-upgrade",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-05-18T18:51:20Z",
+    "description": "An Ansible role for upgrading a Linux installation to the latest packages.",
+    "stars": "10",
+    "text": "cisagov/ansible-role-upgrade",
+    "title": "cisagov/ansible-role-upgrade",
+    "url": "https://github.com/cisagov/ansible-role-upgrade"
+   }
+  },
+  {
+   "key": "cisagov/Malcolm",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-01T23:04:22Z",
+    "description": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.",
+    "stars": "2433",
+    "text": "cisagov/Malcolm",
+    "title": "cisagov/Malcolm",
+    "url": "https://github.com/cisagov/Malcolm"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-persist-journald",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-05-25T02:37:31Z",
+    "description": "An Ansible for configuring an instance to preserve journald entries across reboots.",
+    "stars": "3",
+    "text": "cisagov/ansible-role-persist-journald",
+    "title": "cisagov/ansible-role-persist-journald",
+    "url": "https://github.com/cisagov/ansible-role-persist-journald"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-nessus",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-03T05:07:35Z",
+    "description": "An Ansible role for installing Nessus.",
+    "stars": "6",
+    "text": "cisagov/ansible-role-nessus",
+    "title": "cisagov/ansible-role-nessus",
+    "url": "https://github.com/cisagov/ansible-role-nessus"
+   }
+  },
+  {
+   "key": "cisagov/cset-bucket-terraform",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2024-06-05T09:01:14Z",
+    "description": "Configures an S3 bucket to host the prebuilt CSET binaries",
+    "stars": "2",
+    "text": "cisagov/cset-bucket-terraform",
+    "title": "cisagov/cset-bucket-terraform",
+    "url": "https://github.com/cisagov/cset-bucket-terraform"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-cyhy-core",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-04T00:11:15Z",
+    "description": "An Ansible role for installing cisagov/cyhy-core.",
+    "stars": "5",
+    "text": "cisagov/ansible-role-cyhy-core",
+    "title": "cisagov/ansible-role-cyhy-core",
+    "url": "https://github.com/cisagov/ansible-role-cyhy-core"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-cyhy-archive",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-04T06:32:32Z",
+    "description": "Install the cyhy_archive.sh script from cisagov/cyhy-core.",
+    "stars": "3",
+    "text": "cisagov/ansible-role-cyhy-archive",
+    "title": "cisagov/ansible-role-cyhy-archive",
+    "url": "https://github.com/cisagov/ansible-role-cyhy-archive"
+   }
+  },
+  {
+   "key": "cisagov/cset",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-10T20:36:20Z",
+    "description": "Cybersecurity Evaluation Tool",
+    "stars": "1835",
+    "text": "cisagov/cset",
+    "title": "cisagov/cset",
+    "url": "https://github.com/cisagov/cset"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-cyhy-commander",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-04T00:40:01Z",
+    "description": "An Ansible role for installing cisagov/cyhy-commander.",
+    "stars": "2",
+    "text": "cisagov/ansible-role-cyhy-commander",
+    "title": "cisagov/ansible-role-cyhy-commander",
+    "url": "https://github.com/cisagov/ansible-role-cyhy-commander"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-cyhy-reports",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-04T00:36:05Z",
+    "description": "An Ansible role for installing cisagov/cyhy-reports.",
+    "stars": "6",
+    "text": "cisagov/ansible-role-cyhy-reports",
+    "title": "cisagov/ansible-role-cyhy-reports",
+    "url": "https://github.com/cisagov/ansible-role-cyhy-reports"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-ncats-webd",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-03T23:08:00Z",
+    "description": "An Ansible role for installing cisagov/ncats-webd.",
+    "stars": "6",
+    "text": "cisagov/ansible-role-ncats-webd",
+    "title": "cisagov/ansible-role-ncats-webd",
+    "url": "https://github.com/cisagov/ansible-role-ncats-webd"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-ncats-webui",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-08T03:52:40Z",
+    "description": "An Ansible role for installing cisagov/ncats-webui.",
+    "stars": "4",
+    "text": "cisagov/ansible-role-ncats-webui",
+    "title": "cisagov/ansible-role-ncats-webui",
+    "url": "https://github.com/cisagov/ansible-role-ncats-webui"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-cyhy-feeds",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-08T01:32:39Z",
+    "description": "An Ansible role for installing cisagov/cyhy-feeds.",
+    "stars": "3",
+    "text": "cisagov/ansible-role-cyhy-feeds",
+    "title": "cisagov/ansible-role-cyhy-feeds",
+    "url": "https://github.com/cisagov/ansible-role-cyhy-feeds"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-cyhy-runner",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-08T11:02:39Z",
+    "description": "An Ansible role for installing cisagov/cyhy-runner.",
+    "stars": "4",
+    "text": "cisagov/ansible-role-cyhy-runner",
+    "title": "cisagov/ansible-role-cyhy-runner",
+    "url": "https://github.com/cisagov/ansible-role-cyhy-runner"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-mongo",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-02T06:11:51Z",
+    "description": "An Ansible role for installing MongoDB.",
+    "stars": "3",
+    "text": "cisagov/ansible-role-mongo",
+    "title": "cisagov/ansible-role-mongo",
+    "url": "https://github.com/cisagov/ansible-role-mongo"
+   }
+  },
+  {
+   "key": "cisagov/ioc-scanner",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-05-13T17:23:11Z",
+    "description": "Search a filesystem for indicators of compromise (IoC).",
+    "stars": "86",
+    "text": "cisagov/ioc-scanner",
+    "title": "cisagov/ioc-scanner",
+    "url": "https://github.com/cisagov/ioc-scanner"
+   }
+  },
+  {
+   "key": "cisagov/postfix-docker",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-10T14:03:47Z",
+    "description": "Docker container with a postfix server designed for use during phishing campaigns",
+    "stars": "66",
+    "text": "cisagov/postfix-docker",
+    "title": "cisagov/postfix-docker",
+    "url": "https://github.com/cisagov/postfix-docker"
+   }
+  },
+  {
+   "key": "cisagov/gophish-docker",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-04-21T22:52:36Z",
+    "description": "Docker container for the gophish phishing framework.",
+    "stars": "55",
+    "text": "cisagov/gophish-docker",
+    "title": "cisagov/gophish-docker",
+    "url": "https://github.com/cisagov/gophish-docker"
+   }
+  },
+  {
+   "key": "cisagov/pca-gophish-composition",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-05-13T18:09:47Z",
+    "description": "Phishing campaign docker composition for Gophish",
+    "stars": "44",
+    "text": "cisagov/pca-gophish-composition",
+    "title": "cisagov/pca-gophish-composition",
+    "url": "https://github.com/cisagov/pca-gophish-composition"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-server-setup",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-01T06:39:19Z",
+    "description": "An Ansible role for installing the server setup script passed down by the RVA folks.",
+    "stars": "7",
+    "text": "cisagov/ansible-role-server-setup",
+    "title": "cisagov/ansible-role-server-setup",
+    "url": "https://github.com/cisagov/ansible-role-server-setup"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-cobalt-strike",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-10T19:48:14Z",
+    "description": "An Ansible role for installing Cobalt Strike.",
+    "stars": "81",
+    "text": "cisagov/ansible-role-cobalt-strike",
+    "title": "cisagov/ansible-role-cobalt-strike",
+    "url": "https://github.com/cisagov/ansible-role-cobalt-strike"
+   }
+  },
+  {
+   "key": "cisagov/skeleton-docker",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-05-28T20:31:53Z",
+    "description": "A skeleton project for quickly getting a new cisagov Docker container started.",
     "stars": "22",
-    "text": "deptofdefense/naruto",
-    "title": "deptofdefense/naruto",
-    "url": "https://github.com/deptofdefense/naruto"
+    "text": "cisagov/skeleton-docker",
+    "title": "cisagov/skeleton-docker",
+    "url": "https://github.com/cisagov/skeleton-docker"
    }
   },
   {
-   "key": "nsacyber/Pass-the-Hash-Guidance",
-   "source": "oss-nsacyber",
+   "key": "cisagov/ansible-role-guacamole",
+   "source": "oss-cisagov",
    "fields": {
-    "archived": "true",
-    "date": "2016-11-25T13:48:20Z",
-    "description": "Configuration guidance for implementing Pass-the-Hash mitigations. #nsacyber",
-    "stars": "200",
-    "text": "nsacyber/Pass-the-Hash-Guidance",
-    "title": "nsacyber/Pass-the-Hash-Guidance",
-    "url": "https://github.com/nsacyber/Pass-the-Hash-Guidance"
+    "date": "2026-06-09T17:42:39Z",
+    "description": "An Ansible role for installing cisagov/guacamole-composition",
+    "stars": "8",
+    "text": "cisagov/ansible-role-guacamole",
+    "title": "cisagov/ansible-role-guacamole",
+    "url": "https://github.com/cisagov/ansible-role-guacamole"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-openvpn",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-01T06:54:37Z",
+    "description": "Ansible role to install an OpenVPN server and configure it to authenticate users certificates against FreeIPA.",
+    "stars": "10",
+    "text": "cisagov/ansible-role-openvpn",
+    "title": "cisagov/ansible-role-openvpn",
+    "url": "https://github.com/cisagov/ansible-role-openvpn"
+   }
+  },
+  {
+   "key": "cisagov/openvpn-packer",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-09T18:28:47Z",
+    "description": "Creates machine images for use as an OpenVPN gateway",
+    "stars": "7",
+    "text": "cisagov/openvpn-packer",
+    "title": "cisagov/openvpn-packer",
+    "url": "https://github.com/cisagov/openvpn-packer"
+   }
+  },
+  {
+   "key": "cisagov/development-guide",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-05-11T10:20:10Z",
+    "description": "A set of guidelines and best practices for an awesome engineering team",
+    "stars": "278",
+    "text": "cisagov/development-guide",
+    "title": "cisagov/development-guide",
+    "url": "https://github.com/cisagov/development-guide"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-pca-gophish-composition",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-08T01:42:37Z",
+    "description": "An Ansible role for installing cisagov/pca-gophish-composition.",
+    "stars": "4",
+    "text": "cisagov/ansible-role-pca-gophish-composition",
+    "title": "cisagov/ansible-role-pca-gophish-composition",
+    "url": "https://github.com/cisagov/ansible-role-pca-gophish-composition"
+   }
+  },
+  {
+   "key": "cisagov/pca-gophish-composition-packer",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-10T19:52:35Z",
+    "description": "Create machine images that include cisagov/pca-gophish-composition",
+    "stars": "5",
+    "text": "cisagov/pca-gophish-composition-packer",
+    "title": "cisagov/pca-gophish-composition-packer",
+    "url": "https://github.com/cisagov/pca-gophish-composition-packer"
+   }
+  },
+  {
+   "key": "cisagov/skeleton-packer",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-10T20:56:52Z",
+    "description": "A skeleton project for quickly getting a new cisagov packer project started.",
+    "stars": "9",
+    "text": "cisagov/skeleton-packer",
+    "title": "cisagov/skeleton-packer",
+    "url": "https://github.com/cisagov/skeleton-packer"
+   }
+  },
+  {
+   "key": "cisagov/skeleton-tf-module",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-08T02:53:59Z",
+    "description": "A skeleton project for quickly getting a new cisagov Terraform module started.",
+    "stars": "5",
+    "text": "cisagov/skeleton-tf-module",
+    "title": "cisagov/skeleton-tf-module",
+    "url": "https://github.com/cisagov/skeleton-tf-module"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-dev-ssh-access",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-01T00:02:50Z",
+    "description": "An Ansible role for setting up SSH access for the development team",
+    "stars": "5",
+    "text": "cisagov/ansible-role-dev-ssh-access",
+    "title": "cisagov/ansible-role-dev-ssh-access",
+    "url": "https://github.com/cisagov/ansible-role-dev-ssh-access"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-freeipa-server",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-02T19:50:39Z",
+    "description": "An Ansible role for installing FreeIPA.",
+    "stars": "5",
+    "text": "cisagov/ansible-role-freeipa-server",
+    "title": "cisagov/ansible-role-freeipa-server",
+    "url": "https://github.com/cisagov/ansible-role-freeipa-server"
+   }
+  },
+  {
+   "key": "cisagov/guacamole-packer",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-09T18:31:22Z",
+    "description": "Create machine images containing the Guacamole remote desktop gateway",
+    "stars": "12",
+    "text": "cisagov/guacamole-packer",
+    "title": "cisagov/guacamole-packer",
+    "url": "https://github.com/cisagov/guacamole-packer"
+   }
+  },
+  {
+   "key": "cisagov/freeipa-server-packer",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-09T18:48:47Z",
+    "description": "Create a Fedora-based AMI with FreeIPA server installed.",
+    "stars": "8",
+    "text": "cisagov/freeipa-server-packer",
+    "title": "cisagov/freeipa-server-packer",
+    "url": "https://github.com/cisagov/freeipa-server-packer"
+   }
+  },
+  {
+   "key": "cisagov/freeipa-server-tf-module",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-05-18T19:46:25Z",
+    "description": "A Terraform module for instantiating a FreeIPA server.",
+    "stars": "8",
+    "text": "cisagov/freeipa-server-tf-module",
+    "title": "cisagov/freeipa-server-tf-module",
+    "url": "https://github.com/cisagov/freeipa-server-tf-module"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-freeipa-client",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-02T12:50:23Z",
+    "description": "An Ansible role for installing the prerequisites for FreeIPA clients.",
+    "stars": "3",
+    "text": "cisagov/ansible-role-freeipa-client",
+    "title": "cisagov/ansible-role-freeipa-client",
+    "url": "https://github.com/cisagov/ansible-role-freeipa-client"
+   }
+  },
+  {
+   "key": "cisagov/flare-misp-service",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2024-06-05T09:01:59Z",
+    "description": "Automate the regular transfer of AIS data into a MISP Server",
+    "stars": "10",
+    "text": "cisagov/flare-misp-service",
+    "title": "cisagov/flare-misp-service",
+    "url": "https://github.com/cisagov/flare-misp-service"
+   }
+  },
+  {
+   "key": "cisagov/stix-editor",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2024-06-05T09:03:49Z",
+    "stars": "4",
+    "text": "cisagov/stix-editor",
+    "title": "cisagov/stix-editor",
+    "url": "https://github.com/cisagov/stix-editor"
+   }
+  },
+  {
+   "key": "cisagov/openvpn-server-tf-module",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-05-18T19:55:22Z",
+    "description": "Terraform module to create an OpenVPN server instance",
+    "stars": "9",
+    "text": "cisagov/openvpn-server-tf-module",
+    "title": "cisagov/openvpn-server-tf-module",
+    "url": "https://github.com/cisagov/openvpn-server-tf-module"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-vnc-server",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-08T01:22:35Z",
+    "description": "An Ansible role for installing a VNC server",
+    "stars": "5",
+    "text": "cisagov/ansible-role-vnc-server",
+    "title": "cisagov/ansible-role-vnc-server",
+    "url": "https://github.com/cisagov/ansible-role-vnc-server"
+   }
+  },
+  {
+   "key": "cisagov/guacamole-composition",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-05-28T13:16:30Z",
+    "description": "Docker composition for Guacamole clientless remote desktop gateway",
+    "stars": "14",
+    "text": "cisagov/guacamole-composition",
+    "title": "cisagov/guacamole-composition",
+    "url": "https://github.com/cisagov/guacamole-composition"
+   }
+  },
+  {
+   "key": "cisagov/certboto-docker",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-05-12T17:43:31Z",
+    "description": "Certbot container that stores its configuration in an AWS S3 bucket",
+    "stars": "15",
+    "text": "cisagov/certboto-docker",
+    "title": "cisagov/certboto-docker",
+    "url": "https://github.com/cisagov/certboto-docker"
+   }
+  },
+  {
+   "key": "cisagov/kali-packer",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-03T16:44:02Z",
+    "description": "This project can be used to create AMIs based on Kali Linux, a penetration testing distribution.",
+    "stars": "21",
+    "text": "cisagov/kali-packer",
+    "title": "cisagov/kali-packer",
+    "url": "https://github.com/cisagov/kali-packer"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-clamav",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-02T01:38:55Z",
+    "description": "Ansible role to install and enable the ClamAV virus scanner",
+    "stars": "21",
+    "text": "cisagov/ansible-role-clamav",
+    "title": "cisagov/ansible-role-clamav",
+    "url": "https://github.com/cisagov/ansible-role-clamav"
+   }
+  },
+  {
+   "key": "cisagov/ansible-manage-user",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-08T06:02:46Z",
+    "description": "Ansible playbooks to manage a user account on a set of hosts",
+    "stars": "11",
+    "text": "cisagov/ansible-manage-user",
+    "title": "cisagov/ansible-manage-user",
+    "url": "https://github.com/cisagov/ansible-manage-user"
+   }
+  },
+  {
+   "key": "cisagov/cert-read-role-tf-module",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-04-27T20:05:00Z",
+    "description": "A Terraform role to create an AWS IAM role for reading certificate data generated by cisagov/certboto-docker",
+    "stars": "2",
+    "text": "cisagov/cert-read-role-tf-module",
+    "title": "cisagov/cert-read-role-tf-module",
+    "url": "https://github.com/cisagov/cert-read-role-tf-module"
+   }
+  },
+  {
+   "key": "cisagov/ssm-read-role-tf-module",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-04-27T06:08:33Z",
+    "description": "A Terraform role to create an AWS IAM role for reading SSM parameters",
+    "stars": "2",
+    "text": "cisagov/ssm-read-role-tf-module",
+    "title": "cisagov/ssm-read-role-tf-module",
+    "url": "https://github.com/cisagov/ssm-read-role-tf-module"
+   }
+  },
+  {
+   "key": "cisagov/findings-data-import-terraform",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-04-28T00:30:39Z",
+    "description": "Terraform code to create resources used to import findings data into AWS",
+    "stars": "2",
+    "text": "cisagov/findings-data-import-terraform",
+    "title": "cisagov/findings-data-import-terraform",
+    "url": "https://github.com/cisagov/findings-data-import-terraform"
+   }
+  },
+  {
+   "key": "cisagov/vulnerability-age-data",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-04-27T09:47:20Z",
+    "description": "A Python script for querying the Cyber Hygiene database for vulnerability age data",
+    "stars": "8",
+    "text": "cisagov/vulnerability-age-data",
+    "title": "cisagov/vulnerability-age-data",
+    "url": "https://github.com/cisagov/vulnerability-age-data"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-cloudwatch-agent",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-03T14:40:42Z",
+    "description": "An Ansible role for installing Amazon CloudWatch Agent",
+    "stars": "12",
+    "text": "cisagov/ansible-role-cloudwatch-agent",
+    "title": "cisagov/ansible-role-cloudwatch-agent",
+    "url": "https://github.com/cisagov/ansible-role-cloudwatch-agent"
+   }
+  },
+  {
+   "key": "cisagov/performance-parser",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2019-10-08T17:41:42Z",
+    "description": "Parse DHS performance goals and convert them to a CSV file.",
+    "stars": "2",
+    "text": "cisagov/performance-parser",
+    "title": "cisagov/performance-parser",
+    "url": "https://github.com/cisagov/performance-parser"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-libselinux-python",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-02T22:30:55Z",
+    "description": "An Ansible role for installing the libselinux-python package",
+    "stars": "3",
+    "text": "cisagov/ansible-role-libselinux-python",
+    "title": "cisagov/ansible-role-libselinux-python",
+    "url": "https://github.com/cisagov/ansible-role-libselinux-python"
+   }
+  },
+  {
+   "key": "cisagov/setup-env-github-action",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-10T21:11:40Z",
+    "description": "Set up a standard environment used by cisagov GitHub action workflows",
+    "stars": "9",
+    "text": "cisagov/setup-env-github-action",
+    "title": "cisagov/setup-env-github-action",
+    "url": "https://github.com/cisagov/setup-env-github-action"
+   }
+  },
+  {
+   "key": "cisagov/ipsec-tunnel-tf-module",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-04-28T02:15:46Z",
+    "description": "Terraform code to create an IPSec tunnel in an AWS VPC",
+    "stars": "2",
+    "text": "cisagov/ipsec-tunnel-tf-module",
+    "title": "cisagov/ipsec-tunnel-tf-module",
+    "url": "https://github.com/cisagov/ipsec-tunnel-tf-module"
+   }
+  },
+  {
+   "key": "cisagov/distributed-subnets-tf-module",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-04-27T00:36:51Z",
+    "description": "A Terraform module to create one or more subnets that are distributed across AZs.",
+    "stars": "2",
+    "text": "cisagov/distributed-subnets-tf-module",
+    "title": "cisagov/distributed-subnets-tf-module",
+    "url": "https://github.com/cisagov/distributed-subnets-tf-module"
+   }
+  },
+  {
+   "key": "cisagov/admiral",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-05-13T17:45:43Z",
+    "description": "Distributed certificate transparency log harvester",
+    "stars": "19",
+    "text": "cisagov/admiral",
+    "title": "cisagov/admiral",
+    "url": "https://github.com/cisagov/admiral"
+   }
+  },
+  {
+   "key": "cisagov/findings-data-s3-users",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-04-27T21:07:33Z",
+    "description": "Create AWS users that have permission to modify the findings-data bucket.",
+    "stars": "2",
+    "text": "cisagov/findings-data-s3-users",
+    "title": "cisagov/findings-data-s3-users",
+    "url": "https://github.com/cisagov/findings-data-s3-users"
+   }
+  },
+  {
+   "key": "cisagov/cool-sharedservices-networking",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-05-06T17:14:49Z",
+    "description": "Terraform code to create the COOL shared services networking infrastructure in AWS.",
+    "stars": "5",
+    "text": "cisagov/cool-sharedservices-networking",
+    "title": "cisagov/cool-sharedservices-networking",
+    "url": "https://github.com/cisagov/cool-sharedservices-networking"
+   }
+  },
+  {
+   "key": "cisagov/cset-analytics",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2020-08-17T23:56:01Z",
+    "description": "Anonymous data collection for the CSET tool.",
+    "stars": "1",
+    "text": "cisagov/cset-analytics",
+    "title": "cisagov/cset-analytics",
+    "url": "https://github.com/cisagov/cset-analytics"
+   }
+  },
+  {
+   "key": "cisagov/cool-sharedservices-freeipa",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-05-06T17:20:14Z",
+    "description": "Terraform code to create the FreeIPA shared service in the COOL environment.",
+    "stars": "5",
+    "text": "cisagov/cool-sharedservices-freeipa",
+    "title": "cisagov/cool-sharedservices-freeipa",
+    "url": "https://github.com/cisagov/cool-sharedservices-freeipa"
+   }
+  },
+  {
+   "key": "cisagov/cool-sharedservices-openvpn",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-05-06T17:24:31Z",
+    "description": "Terraform code to create the OpenVPN shared service in the COOL environment.",
+    "stars": "5",
+    "text": "cisagov/cool-sharedservices-openvpn",
+    "title": "cisagov/cool-sharedservices-openvpn",
+    "url": "https://github.com/cisagov/cool-sharedservices-openvpn"
+   }
+  },
+  {
+   "key": "cisagov/cool-accounts",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-05-27T20:18:38Z",
+    "description": "Terraform code to configure the accounts for the COOL.",
+    "stars": "5",
+    "text": "cisagov/cool-accounts",
+    "title": "cisagov/cool-accounts",
+    "url": "https://github.com/cisagov/cool-accounts"
+   }
+  },
+  {
+   "key": "cisagov/cool-users-non-admin",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-04-27T09:34:00Z",
+    "description": "Manage COOL IAM user accounts and group membership for non-admin users",
+    "stars": "3",
+    "text": "cisagov/cool-users-non-admin",
+    "title": "cisagov/cool-users-non-admin",
+    "url": "https://github.com/cisagov/cool-users-non-admin"
+   }
+  },
+  {
+   "key": "cisagov/cool-images-parameterstore",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-04-27T09:04:24Z",
+    "description": "Terraform code to create the necessary roles to work with AWS SSM ParameterStore in the Images account.",
+    "stars": "2",
+    "text": "cisagov/cool-images-parameterstore",
+    "title": "cisagov/cool-images-parameterstore",
+    "url": "https://github.com/cisagov/cool-images-parameterstore"
+   }
+  },
+  {
+   "key": "cisagov/aws-profile-sync",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-05-13T15:19:44Z",
+    "description": "Synchronize AWS credential profiles from remote sources",
+    "stars": "16",
+    "text": "cisagov/aws-profile-sync",
+    "title": "cisagov/aws-profile-sync",
+    "url": "https://github.com/cisagov/aws-profile-sync"
+   }
+  },
+  {
+   "key": "cisagov/vpn-config-gen",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-05-13T15:41:44Z",
+    "description": "Update OpenVPN configurations file routes.",
+    "stars": "6",
+    "text": "cisagov/vpn-config-gen",
+    "title": "cisagov/vpn-config-gen",
+    "url": "https://github.com/cisagov/vpn-config-gen"
+   }
+  },
+  {
+   "key": "cisagov/cool-dns-certboto",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-04-27T02:20:04Z",
+    "description": "Terraform code to create the necessary resources to work with cisagov/certboto-docker in the DNS account.",
+    "stars": "4",
+    "text": "cisagov/cool-dns-certboto",
+    "title": "cisagov/cool-dns-certboto",
+    "url": "https://github.com/cisagov/cool-dns-certboto"
+   }
+  },
+  {
+   "key": "cisagov/ami-launch-permission-tf-module",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-04-27T09:40:23Z",
+    "description": "A Terraform module for giving AWS accounts permission to launch an AMI.",
+    "stars": "4",
+    "text": "cisagov/ami-launch-permission-tf-module",
+    "title": "cisagov/ami-launch-permission-tf-module",
+    "url": "https://github.com/cisagov/ami-launch-permission-tf-module"
+   }
+  },
+  {
+   "key": "cisagov/cool-dns-cyber.dhs.gov",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-04-27T21:29:35Z",
+    "description": "Terraform configuration to create and populate the cyber.dhs.gov zone.",
+    "stars": "4",
+    "text": "cisagov/cool-dns-cyber.dhs.gov",
+    "title": "cisagov/cool-dns-cyber.dhs.gov",
+    "url": "https://github.com/cisagov/cool-dns-cyber.dhs.gov"
+   }
+  },
+  {
+   "key": "cisagov/cool-assessment-terraform",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-09T19:31:15Z",
+    "description": "Terraform to deploy an assessment environment to the COOL",
+    "stars": "16",
+    "text": "cisagov/cool-assessment-terraform",
+    "title": "cisagov/cool-assessment-terraform",
+    "url": "https://github.com/cisagov/cool-assessment-terraform"
+   }
+  },
+  {
+   "key": "cisagov/cool-dns-57.69.64.in-addr.arpa",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-04-27T22:16:06Z",
+    "description": "Terraform configuration to create and populate the 57.69.64.in-addr.arpa zone.",
+    "stars": "3",
+    "text": "cisagov/cool-dns-57.69.64.in-addr.arpa",
+    "title": "cisagov/cool-dns-57.69.64.in-addr.arpa",
+    "url": "https://github.com/cisagov/cool-dns-57.69.64.in-addr.arpa"
+   }
+  },
+  {
+   "key": "cisagov/prescup-web",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-08T20:51:10Z",
+    "description": "President's Cup Cybersecurity Competition landing page",
+    "stars": "4",
+    "text": "cisagov/prescup-web",
+    "title": "cisagov/prescup-web",
+    "url": "https://github.com/cisagov/prescup-web"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-xfce",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-03T04:49:31Z",
+    "description": "An Ansible role for installing the Xfce desktop environment.",
+    "stars": "5",
+    "text": "cisagov/ansible-role-xfce",
+    "title": "cisagov/ansible-role-xfce",
+    "url": "https://github.com/cisagov/ansible-role-xfce"
+   }
+  },
+  {
+   "key": "cisagov/docker-kali-ansible",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-04-28T19:47:43Z",
+    "description": "A systemd-enabled Kali Linux Docker image, in the spirit of geerlingguy/docker-debian11-ansible.",
+    "stars": "15",
+    "text": "cisagov/docker-kali-ansible",
+    "title": "cisagov/docker-kali-ansible",
+    "url": "https://github.com/cisagov/docker-kali-ansible"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-amazon-efs-utils",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-08T00:14:28Z",
+    "description": "An Ansible role for installing aws/efs-utils",
+    "stars": "7",
+    "text": "cisagov/ansible-role-amazon-efs-utils",
+    "title": "cisagov/ansible-role-amazon-efs-utils",
+    "url": "https://github.com/cisagov/ansible-role-amazon-efs-utils"
+   }
+  },
+  {
+   "key": "cisagov/ami-build-iam-user-tf-module",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-04-27T13:56:28Z",
+    "description": "A Terraform module for creating an IAM user that can build Amazon Machine Images (AMIs).",
+    "stars": "2",
+    "text": "cisagov/ami-build-iam-user-tf-module",
+    "title": "cisagov/ami-build-iam-user-tf-module",
+    "url": "https://github.com/cisagov/ami-build-iam-user-tf-module"
+   }
+  },
+  {
+   "key": "cisagov/molecule-iam-user-tf-module",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-04-28T00:22:45Z",
+    "description": "A Terraform module for creating an IAM user suitable for use in molecule testing of an Ansible role.",
+    "stars": "2",
+    "text": "cisagov/molecule-iam-user-tf-module",
+    "title": "cisagov/molecule-iam-user-tf-module",
+    "url": "https://github.com/cisagov/molecule-iam-user-tf-module"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-ufw",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-01T23:38:03Z",
+    "description": "An Ansible role for installing Uncomplicated Firewall (UFW)",
+    "stars": "6",
+    "text": "cisagov/ansible-role-ufw",
+    "title": "cisagov/ansible-role-ufw",
+    "url": "https://github.com/cisagov/ansible-role-ufw"
+   }
+  },
+  {
+   "key": "cisagov/cool-dns-dmarc-import",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-04-27T19:03:44Z",
+    "description": "Terraform code to create the necessary resources to work with cisagov/dmarc-import in the DNS account.",
+    "stars": "2",
+    "text": "cisagov/cool-dns-dmarc-import",
+    "title": "cisagov/cool-dns-dmarc-import",
+    "url": "https://github.com/cisagov/cool-dns-dmarc-import"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-xfce-cool",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-02T22:10:46Z",
+    "description": "Install Xfce and customize it for use within the COOL",
+    "stars": "5",
+    "text": "cisagov/ansible-role-xfce-cool",
+    "title": "cisagov/ansible-role-xfce-cool",
+    "url": "https://github.com/cisagov/ansible-role-xfce-cool"
+   }
+  },
+  {
+   "key": "cisagov/nessus-packer",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-10T19:52:19Z",
+    "description": "Create machine images containing the Nessus vulnerability scanner",
+    "stars": "13",
+    "text": "cisagov/nessus-packer",
+    "title": "cisagov/nessus-packer",
+    "url": "https://github.com/cisagov/nessus-packer"
+   }
+  },
+  {
+   "key": "cisagov/s3-read-role-tf-module",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-04-28T02:23:00Z",
+    "description": "A Terraform role to create an AWS IAM role for reading data from S3 buckets",
+    "stars": "5",
+    "text": "cisagov/s3-read-role-tf-module",
+    "title": "cisagov/s3-read-role-tf-module",
+    "url": "https://github.com/cisagov/s3-read-role-tf-module"
+   }
+  },
+  {
+   "key": "cisagov/teamserver-packer",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-05T16:22:53Z",
+    "description": "Create an AMI with CobaltStrike and related tools.",
+    "stars": "12",
+    "text": "cisagov/teamserver-packer",
+    "title": "cisagov/teamserver-packer",
+    "url": "https://github.com/cisagov/teamserver-packer"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-openjdk",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-01T00:57:12Z",
+    "description": "An Ansible role for installing the OpenJDK Java JDK",
+    "stars": "5",
+    "text": "cisagov/ansible-role-openjdk",
+    "title": "cisagov/ansible-role-openjdk",
+    "url": "https://github.com/cisagov/ansible-role-openjdk"
+   }
+  },
+  {
+   "key": "cisagov/action-apb",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-05-11T15:49:57Z",
+    "description": "GitHub Action to trigger repository rebuilds that haven't occurred recently.",
+    "stars": "3",
+    "text": "cisagov/action-apb",
+    "title": "cisagov/action-apb",
+    "url": "https://github.com/cisagov/action-apb"
+   }
+  },
+  {
+   "key": "cisagov/manage-cyhy-ops",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-05-13T18:04:20Z",
+    "description": "Manage CyHy Operators in the production CyHy environment.",
+    "stars": "3",
+    "text": "cisagov/manage-cyhy-ops",
+    "title": "cisagov/manage-cyhy-ops",
+    "url": "https://github.com/cisagov/manage-cyhy-ops"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-remove-python2",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-05-18T19:17:18Z",
+    "description": "An Ansible role for removing python2 and all related packages.",
+    "stars": "3",
+    "text": "cisagov/ansible-role-remove-python2",
+    "title": "cisagov/ansible-role-remove-python2",
+    "url": "https://github.com/cisagov/ansible-role-remove-python2"
+   }
+  },
+  {
+   "key": "cisagov/action-apb-dashboard",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-05-13T15:30:35Z",
+    "stars": "2",
+    "text": "cisagov/action-apb-dashboard",
+    "title": "cisagov/action-apb-dashboard",
+    "url": "https://github.com/cisagov/action-apb-dashboard"
+   }
+  },
+  {
+   "key": "cisagov/action-lineage",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-05-06T19:27:13Z",
+    "stars": "9",
+    "text": "cisagov/action-lineage",
+    "title": "cisagov/action-lineage",
+    "url": "https://github.com/cisagov/action-lineage"
+   }
+  },
+  {
+   "key": "cisagov/ci-iam-user-tf-module",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-04-28T01:37:16Z",
+    "description": "A repository for creating an IAM user suitable for performing Continuous Integration (CI) tasks.",
+    "stars": "2",
+    "text": "cisagov/ci-iam-user-tf-module",
+    "title": "cisagov/ci-iam-user-tf-module",
+    "url": "https://github.com/cisagov/ci-iam-user-tf-module"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-amazon-ssm-agent",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-03T08:53:04Z",
+    "description": "An Ansible role for installing aws/amazon-ssm-agent",
+    "stars": "10",
+    "text": "cisagov/ansible-role-amazon-ssm-agent",
+    "title": "cisagov/ansible-role-amazon-ssm-agent",
+    "url": "https://github.com/cisagov/ansible-role-amazon-ssm-agent"
+   }
+  },
+  {
+   "key": "cisagov/findcdn",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-05-01T01:39:27Z",
+    "description": "findCDN is a tool created to help accurately identify what CDN a domain is using.",
+    "stars": "122",
+    "text": "cisagov/findcdn",
+    "title": "cisagov/findcdn",
+    "url": "https://github.com/cisagov/findcdn"
+   }
+  },
+  {
+   "key": "cisagov/gophish-tools",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-05-01T01:33:26Z",
+    "description": "Helpful tools for interacting with a GoPhish phishing instance",
+    "stars": "48",
+    "text": "cisagov/gophish-tools",
+    "title": "cisagov/gophish-tools",
+    "url": "https://github.com/cisagov/gophish-tools"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-joiner-user",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-08T01:42:32Z",
+    "description": "An Ansible role for creating the joiner user, whose sole reason for existence is to join the FreeIPA domain.",
+    "stars": "3",
+    "text": "cisagov/ansible-role-joiner-user",
+    "title": "cisagov/ansible-role-joiner-user",
+    "url": "https://github.com/cisagov/ansible-role-joiner-user"
+   }
+  },
+  {
+   "key": "cisagov/crossfeed",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2024-06-05T09:00:53Z",
+    "description": "External monitoring for organization assets",
+    "stars": "426",
+    "text": "cisagov/crossfeed",
+    "title": "cisagov/crossfeed",
+    "url": "https://github.com/cisagov/crossfeed"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-httpd",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-09T15:38:09Z",
+    "description": "An Ansible role for installing Apache httpd web server, along with the mod_auth_gssapi and mod-authnz_pam modules.",
+    "stars": "4",
+    "text": "cisagov/ansible-role-httpd",
+    "title": "cisagov/ansible-role-httpd",
+    "url": "https://github.com/cisagov/ansible-role-httpd"
+   }
+  },
+  {
+   "key": "cisagov/ansible-role-devops-user",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-06-02T17:51:24Z",
+    "description": "An Ansible role for creating a devops user that developers can use to ssh into an instance before it is joined to the domain.",
+    "stars": "4",
+    "text": "cisagov/ansible-role-devops-user",
+    "title": "cisagov/ansible-role-devops-user",
+    "url": "https://github.com/cisagov/ansible-role-devops-user"
+   }
+  },
+  {
+   "key": "ngageoint/csm",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2026-05-18T17:38:17Z",
+    "description": "Community Sensor Model",
+    "stars": "21",
+    "text": "ngageoint/csm",
+    "title": "ngageoint/csm",
+    "url": "https://github.com/ngageoint/csm"
+   }
+  },
+  {
+   "key": "ngageoint/geoq",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2022-12-08T09:45:02Z",
+    "description": "Django web application to collect geospatial features and manage feature collection among groups of users",
+    "stars": "772",
+    "text": "ngageoint/geoq",
+    "title": "ngageoint/geoq",
+    "url": "https://github.com/ngageoint/geoq"
+   }
+  },
+  {
+   "key": "ngageoint/geoq-chef-installer",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2015-05-15T20:51:16Z",
+    "description": "Chef recipes and configuration files to install the 'geoq' app onto a Virtual Machine",
+    "stars": "25",
+    "text": "ngageoint/geoq-chef-installer",
+    "title": "ngageoint/geoq-chef-installer",
+    "url": "https://github.com/ngageoint/geoq-chef-installer"
+   }
+  },
+  {
+   "key": "ngageoint/geoevents",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2014-07-25T16:25:34Z",
+    "description": "The GeoEvents project is a dynamic and customizable open source web presence that provides a common operational picture to consolidate activities, manage content, and provides a single point of discovery. GeoEvents was used by deployers and first responders in over 100 real-world events.",
+    "stars": "43",
+    "text": "ngageoint/geoevents",
+    "title": "ngageoint/geoevents",
+    "url": "https://github.com/ngageoint/geoevents"
+   }
+  },
+  {
+   "key": "ngageoint/geoevents-chef-installer",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2014-06-23T15:18:09Z",
+    "description": "This is a set of Chef recipes (think of them as macros to automatically build a running Virtual Machine) that will work to set the geoevents app up on either a local Virtualbox VM or onto an Amazon Web Service VM.",
+    "stars": "4",
+    "text": "ngageoint/geoevents-chef-installer",
+    "title": "ngageoint/geoevents-chef-installer",
+    "url": "https://github.com/ngageoint/geoevents-chef-installer"
+   }
+  },
+  {
+   "key": "ngageoint/rfi-generator",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2021-11-08T16:29:25Z",
+    "description": "The RFI Generator helps first responders and HQ analysts work Requests for Information (RFIs) within a geospatial context.  ",
+    "stars": "13",
+    "text": "ngageoint/rfi-generator",
+    "title": "ngageoint/rfi-generator",
+    "url": "https://github.com/ngageoint/rfi-generator"
+   }
+  },
+  {
+   "key": "ngageoint/rfi-generator-chef-installer",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2015-03-24T21:37:54Z",
+    "description": "Chef recipes and configuration files to install the 'RFI Generator' app onto a Virtual Machine",
+    "stars": "1",
+    "text": "ngageoint/rfi-generator-chef-installer",
+    "title": "ngageoint/rfi-generator-chef-installer",
+    "url": "https://github.com/ngageoint/rfi-generator-chef-installer"
+   }
+  },
+  {
+   "key": "ngageoint/anti-piracy-iOS-app",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2019-10-05T23:31:54Z",
+    "description": "Anti-Shipping Activity Messages (ASAM) App for iOS displays location and descriptive information about hostile acts against ships and mariners. The app caches warning data and works without a Wi-Fi or cellular connection.  ",
+    "stars": "17",
+    "text": "ngageoint/anti-piracy-iOS-app",
+    "title": "ngageoint/anti-piracy-iOS-app",
+    "url": "https://github.com/ngageoint/anti-piracy-iOS-app"
+   }
+  },
+  {
+   "key": "ngageoint/anti-piracy-android-app",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2022-02-18T16:11:34Z",
+    "description": "Anti-Shipping Activity Messages (ASAM) App for Android displays location and descriptive information about hostile acts against ships and mariners. The app caches warning data and works without a Wi-Fi or cellular connection.  ",
+    "stars": "19",
+    "text": "ngageoint/anti-piracy-android-app",
+    "title": "ngageoint/anti-piracy-android-app",
+    "url": "https://github.com/ngageoint/anti-piracy-android-app"
+   }
+  },
+  {
+   "key": "ngageoint/disconnected-content-explorer-iOS",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2018-10-05T15:35:18Z",
+    "description": "Disconnected Interactive Content Explorer (DICE) is an app for iOS, Android, and Windows that allows users to load interactive content generated in HTML, CSS, and Javascript to a mobile device so the device can display interactive content without a network connection.",
+    "stars": "15",
+    "text": "ngageoint/disconnected-content-explorer-iOS",
+    "title": "ngageoint/disconnected-content-explorer-iOS",
+    "url": "https://github.com/ngageoint/disconnected-content-explorer-iOS"
+   }
+  },
+  {
+   "key": "ngageoint/geotools",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2015-03-17T17:39:57Z",
+    "description": "Official GeoTools repository",
+    "stars": "13",
+    "text": "ngageoint/geotools",
+    "title": "ngageoint/geotools",
+    "url": "https://github.com/ngageoint/geotools"
+   }
+  },
+  {
+   "key": "ngageoint/disconnected-content-explorer-android",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2017-07-17T19:01:28Z",
+    "description": "Disconnected Interactive Content Explorer (DICE) is an app for iOS, Android, and Windows that allows users to load interactive content generated in HTML, CSS, and Javascript to a mobile device so the device can display interactive content without a network connection.",
+    "stars": "13",
+    "text": "ngageoint/disconnected-content-explorer-android",
+    "title": "ngageoint/disconnected-content-explorer-android",
+    "url": "https://github.com/ngageoint/disconnected-content-explorer-android"
+   }
+  },
+  {
+   "key": "ngageoint/gamification-server",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2023-07-09T15:15:15Z",
+    "description": "Server to track gamification elements (badges, points, tags) to work pages or apps",
+    "stars": "249",
+    "text": "ngageoint/gamification-server",
+    "title": "ngageoint/gamification-server",
+    "url": "https://github.com/ngageoint/gamification-server"
+   }
+  },
+  {
+   "key": "ngageoint/mrgeo",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2022-12-16T00:44:33Z",
+    "description": "MrGeo is a geospatial toolkit designed to provide raster-based geospatial capabilities that can be performed at scale. MrGeo is built upon Apache Spark and the Hadoop ecosystem to leverage the storage and processing of hundreds of commodity computers.  See the wiki for more details.",
+    "stars": "210",
+    "text": "ngageoint/mrgeo",
+    "title": "ngageoint/mrgeo",
+    "url": "https://github.com/ngageoint/mrgeo"
+   }
+  },
+  {
+   "key": "ngageoint/disconnected-content-explorer-examples",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2018-01-03T20:58:13Z",
+    "description": "Example reports for the Disconnected Interactive Content Explorer (DICE) app",
+    "stars": "2",
+    "text": "ngageoint/disconnected-content-explorer-examples",
+    "title": "ngageoint/disconnected-content-explorer-examples",
+    "url": "https://github.com/ngageoint/disconnected-content-explorer-examples"
+   }
+  },
+  {
+   "key": "ngageoint/geowave-osm",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2016-04-15T20:01:47Z",
+    "description": "OSM Data processing for GeoWave",
+    "stars": "5",
+    "text": "ngageoint/geowave-osm",
+    "title": "ngageoint/geowave-osm",
+    "url": "https://github.com/ngageoint/geowave-osm"
+   }
+  },
+  {
+   "key": "ngageoint/geoint-standards",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2026-04-21T20:40:31Z",
+    "description": "co-create and grow GEOINT standards transparenlty",
+    "stars": "33",
+    "text": "ngageoint/geoint-standards",
+    "title": "ngageoint/geoint-standards",
+    "url": "https://github.com/ngageoint/geoint-standards"
+   }
+  },
+  {
+   "key": "ngageoint/elasticgeo",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2022-05-25T23:17:05Z",
+    "description": "ElasticGeo provides a GeoTools data store that allows geospatial features from an Elasticsearch index to be published via OGC services using GeoServer.  ",
+    "stars": "172",
+    "text": "ngageoint/elasticgeo",
+    "title": "ngageoint/elasticgeo",
+    "url": "https://github.com/ngageoint/elasticgeo"
+   }
+  },
+  {
+   "key": "ngageoint/geowave-vagrant",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2016-11-30T13:48:23Z",
+    "description": "Vagrant environment for geowave development.",
+    "stars": "5",
+    "text": "ngageoint/geowave-vagrant",
+    "title": "ngageoint/geowave-vagrant",
+    "url": "https://github.com/ngageoint/geowave-vagrant"
+   }
+  },
+  {
+   "key": "ngageoint/geowave-benchmark",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2015-04-29T00:14:37Z",
+    "description": "Benchmarks for GeoWave",
+    "stars": "3",
+    "text": "ngageoint/geowave-benchmark",
+    "title": "ngageoint/geowave-benchmark",
+    "url": "https://github.com/ngageoint/geowave-benchmark"
+   }
+  },
+  {
+   "key": "ngageoint/imageio-ext",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2015-05-12T20:49:05Z",
+    "description": "Additional plugins and extension for the standard Java ImageIO library",
+    "stars": "2",
+    "text": "ngageoint/imageio-ext",
+    "title": "ngageoint/imageio-ext",
+    "url": "https://github.com/ngageoint/imageio-ext"
+   }
+  },
+  {
+   "key": "ngageoint/map-of-world-api",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2015-08-28T21:48:08Z",
+    "description": "Map of the World API supports multiple web-based mapping libraries and provides a consistent set of methods for interacting with any supported implementations",
+    "stars": "27",
+    "text": "ngageoint/map-of-world-api",
+    "title": "ngageoint/map-of-world-api",
+    "url": "https://github.com/ngageoint/map-of-world-api"
+   }
+  },
+  {
+   "key": "ngageoint/hootenanny",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2026-06-10T13:42:06Z",
+    "description": "Hootenanny conflates multiple maps into a single seamless map.",
+    "stars": "383",
+    "text": "ngageoint/hootenanny",
+    "title": "ngageoint/hootenanny",
+    "url": "https://github.com/ngageoint/hootenanny"
+   }
+  },
+  {
+   "key": "ngageoint/hootenanny-ui",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2025-09-17T13:57:58Z",
+    "description": "Hootenanny UI is a submodule of the Hootennany vector conflation project.",
+    "stars": "30",
+    "text": "ngageoint/hootenanny-ui",
+    "title": "ngageoint/hootenanny-ui",
+    "url": "https://github.com/ngageoint/hootenanny-ui"
+   }
+  },
+  {
+   "key": "ngageoint/voxel-globe",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2016-11-15T15:43:31Z",
+    "description": "calibrates aerial camera models and constructs 3D models from video sequences ",
+    "stars": "26",
+    "text": "ngageoint/voxel-globe",
+    "title": "ngageoint/voxel-globe",
+    "url": "https://github.com/ngageoint/voxel-globe"
+   }
+  },
+  {
+   "key": "ngageoint/six-library",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2026-04-28T16:38:39Z",
+    "description": "Sensor Independent XML Library",
+    "stars": "79",
+    "text": "ngageoint/six-library",
+    "title": "ngageoint/six-library",
+    "url": "https://github.com/ngageoint/six-library"
+   }
+  },
+  {
+   "key": "ngageoint/simple-features-wkb-java",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2024-04-03T12:03:55Z",
+    "description": "Simple Features Well-Known Binary Java Library",
+    "stars": "23",
+    "text": "ngageoint/simple-features-wkb-java",
+    "title": "ngageoint/simple-features-wkb-java",
+    "url": "https://github.com/ngageoint/simple-features-wkb-java"
+   }
+  },
+  {
+   "key": "ngageoint/geopackage-core-java",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2024-04-03T19:39:03Z",
+    "description": "GeoPackage Core Java Library",
+    "stars": "35",
+    "text": "ngageoint/geopackage-core-java",
+    "title": "ngageoint/geopackage-core-java",
+    "url": "https://github.com/ngageoint/geopackage-core-java"
+   }
+  },
+  {
+   "key": "ngageoint/geopackage-java",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2024-04-04T15:36:59Z",
+    "description": "GeoPackage Java Library",
+    "stars": "87",
+    "text": "ngageoint/geopackage-java",
+    "title": "ngageoint/geopackage-java",
+    "url": "https://github.com/ngageoint/geopackage-java"
+   }
+  },
+  {
+   "key": "ngageoint/geopackage-android",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2026-04-23T19:34:51Z",
+    "description": "GeoPackage Android Library",
+    "stars": "108",
+    "text": "ngageoint/geopackage-android",
+    "title": "ngageoint/geopackage-android",
+    "url": "https://github.com/ngageoint/geopackage-android"
+   }
+  },
+  {
+   "key": "ngageoint/geoint-standards.io",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2015-08-07T20:40:22Z",
+    "description": "Website for GEOINT Standards Projects",
+    "stars": "1",
+    "text": "ngageoint/geoint-standards.io",
+    "title": "ngageoint/geoint-standards.io",
+    "url": "https://github.com/ngageoint/geoint-standards.io"
+   }
+  },
+  {
+   "key": "ngageoint/hootenanny-rpms",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2025-05-23T16:51:42Z",
+    "description": "RPMs needed for a Hootenanny install",
+    "stars": "5",
+    "text": "ngageoint/hootenanny-rpms",
+    "title": "ngageoint/hootenanny-rpms",
+    "url": "https://github.com/ngageoint/hootenanny-rpms"
+   }
+  },
+  {
+   "key": "ngageoint/mage-server",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2026-06-10T21:37:40Z",
+    "description": "Mage Server",
+    "stars": "99",
+    "text": "ngageoint/mage-server",
+    "title": "ngageoint/mage-server",
+    "url": "https://github.com/ngageoint/mage-server"
+   }
+  },
+  {
+   "key": "ngageoint/mage-android",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2026-05-26T15:21:16Z",
+    "description": "Mobile Awareness GEOINT Environment Android",
+    "stars": "45",
+    "text": "ngageoint/mage-android",
+    "title": "ngageoint/mage-android",
+    "url": "https://github.com/ngageoint/mage-android"
+   }
+  },
+  {
+   "key": "ngageoint/mage-ios",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2026-06-01T17:45:58Z",
+    "description": "Mobile Awareness GEOINT Environment iOS",
+    "stars": "44",
+    "text": "ngageoint/mage-ios",
+    "title": "ngageoint/mage-ios",
+    "url": "https://github.com/ngageoint/mage-ios"
+   }
+  },
+  {
+   "key": "ngageoint/GeoPackage",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2026-04-23T19:30:58Z",
+    "description": "Main Page for NGA GeoPackage Efforts",
+    "stars": "40",
+    "text": "ngageoint/GeoPackage",
+    "title": "ngageoint/GeoPackage",
+    "url": "https://github.com/ngageoint/GeoPackage"
+   }
+  },
+  {
+   "key": "ngageoint/MAGE",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2026-03-26T21:03:13Z",
+    "description": "Main Page for the Mobile Awareness GEOINT Environment",
+    "stars": "45",
+    "text": "ngageoint/MAGE",
+    "title": "ngageoint/MAGE",
+    "url": "https://github.com/ngageoint/MAGE"
+   }
+  },
+  {
+   "key": "ngageoint/simple-features-wkb-ios",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2025-06-04T18:56:32Z",
+    "description": "Simple Features Well-Known Binary iOS Library",
+    "stars": "5",
+    "text": "ngageoint/simple-features-wkb-ios",
+    "title": "ngageoint/simple-features-wkb-ios",
+    "url": "https://github.com/ngageoint/simple-features-wkb-ios"
+   }
+  },
+  {
+   "key": "ngageoint/geopackage-ios",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2026-04-23T19:27:55Z",
+    "description": "GeoPackage iOS Library",
+    "stars": "58",
+    "text": "ngageoint/geopackage-ios",
+    "title": "ngageoint/geopackage-ios",
+    "url": "https://github.com/ngageoint/geopackage-ios"
+   }
+  },
+  {
+   "key": "ngageoint/wordpress-revision-slider",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2016-05-26T20:59:20Z",
+    "description": "User Friendly Version Control Slider",
+    "stars": "2",
+    "text": "ngageoint/wordpress-revision-slider",
+    "title": "ngageoint/wordpress-revision-slider",
+    "url": "https://github.com/ngageoint/wordpress-revision-slider"
+   }
+  },
+  {
+   "key": "ngageoint/Nounalyzer",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2020-10-07T16:17:19Z",
+    "description": "Analyze the nouns and entities in a rss feed",
+    "stars": "21",
+    "text": "ngageoint/Nounalyzer",
+    "title": "ngageoint/Nounalyzer",
+    "url": "https://github.com/ngageoint/Nounalyzer"
+   }
+  },
+  {
+   "key": "ngageoint/social-media-picture-explorer-ui",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2018-03-05T09:26:02Z",
+    "description": "A user interface to explore social media more graphically",
+    "stars": "19",
+    "text": "ngageoint/social-media-picture-explorer-ui",
+    "title": "ngageoint/social-media-picture-explorer-ui",
+    "url": "https://github.com/ngageoint/social-media-picture-explorer-ui"
+   }
+  },
+  {
+   "key": "ngageoint/mrgeo-geoserver-plugin",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2020-02-11T14:00:04Z",
+    "stars": "9",
+    "text": "ngageoint/mrgeo-geoserver-plugin",
+    "title": "ngageoint/mrgeo-geoserver-plugin",
+    "url": "https://github.com/ngageoint/mrgeo-geoserver-plugin"
+   }
+  },
+  {
+   "key": "ngageoint/Rational-Polynomial-Coefficients-Mapper",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2020-10-07T02:55:27Z",
+    "description": "C++ class that uses RPC coefficients to map an object space coordinate represented in Latitude, Longitude, and Altitude to a sensor position represented in X,Y ",
+    "stars": "21",
+    "text": "ngageoint/Rational-Polynomial-Coefficients-Mapper",
+    "title": "ngageoint/Rational-Polynomial-Coefficients-Mapper",
+    "url": "https://github.com/ngageoint/Rational-Polynomial-Coefficients-Mapper"
+   }
+  },
+  {
+   "key": "ngageoint/Spectral-Library-Reader",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2016-01-23T18:19:53Z",
+    "description": "C++ Library that reads the splib06a file, which is a custom binary spectral reflectance database file created by USGS",
+    "stars": "10",
+    "text": "ngageoint/Spectral-Library-Reader",
+    "title": "ngageoint/Spectral-Library-Reader",
+    "url": "https://github.com/ngageoint/Spectral-Library-Reader"
+   }
+  },
+  {
+   "key": "ngageoint/social-media-picture-explorer",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2018-02-25T15:33:58Z",
+    "description": "Backend for social-media-picture-explorer-ui, a tool for using deep learning to interactively explore social media",
+    "stars": "52",
+    "text": "ngageoint/social-media-picture-explorer",
+    "title": "ngageoint/social-media-picture-explorer",
+    "url": "https://github.com/ngageoint/social-media-picture-explorer"
+   }
+  },
+  {
+   "key": "ngageoint/scale",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2022-01-10T03:06:44Z",
+    "description": "Processing framework for containerized algorithms",
+    "stars": "104",
+    "text": "ngageoint/scale",
+    "title": "ngageoint/scale",
+    "url": "https://github.com/ngageoint/scale"
+   }
+  },
+  {
+   "key": "ngageoint/TM_UTDS_SVG",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2016-02-04T12:44:57Z",
+    "description": "Initial push of svg",
+    "stars": "1",
+    "text": "ngageoint/TM_UTDS_SVG",
+    "title": "ngageoint/TM_UTDS_SVG",
+    "url": "https://github.com/ngageoint/TM_UTDS_SVG"
+   }
+  },
+  {
+   "key": "ngageoint/geopackage-js",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2024-08-13T09:29:15Z",
+    "description": "GeoPackage JavaScript Library",
+    "stars": "331",
+    "text": "ngageoint/geopackage-js",
+    "title": "ngageoint/geopackage-js",
+    "url": "https://github.com/ngageoint/geopackage-js"
+   }
+  },
+  {
+   "key": "ngageoint/DigitalGlobeReader",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2018-10-30T02:45:15Z",
+    "stars": "6",
+    "text": "ngageoint/DigitalGlobeReader",
+    "title": "ngageoint/DigitalGlobeReader",
+    "url": "https://github.com/ngageoint/DigitalGlobeReader"
+   }
+  },
+  {
+   "key": "ngageoint/SWIRSignalDetection",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2016-03-03T14:40:52Z",
+    "description": "analyzes shortwave infrared reflectance",
+    "stars": "7",
+    "text": "ngageoint/SWIRSignalDetection",
+    "title": "ngageoint/SWIRSignalDetection",
+    "url": "https://github.com/ngageoint/SWIRSignalDetection"
+   }
+  },
+  {
+   "key": "ngageoint/endpoint.js",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2016-12-12T03:06:48Z",
+    "description": "Web application discovery, execution and streaming library",
+    "stars": "26",
+    "text": "ngageoint/endpoint.js",
+    "title": "ngageoint/endpoint.js",
+    "url": "https://github.com/ngageoint/endpoint.js"
+   }
+  },
+  {
+   "key": "ngageoint/titan",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2017-02-01T20:22:55Z",
+    "description": "Distributed Graph Database",
+    "stars": "14",
+    "text": "ngageoint/titan",
+    "title": "ngageoint/titan",
+    "url": "https://github.com/ngageoint/titan"
+   }
+  },
+  {
+   "key": "ngageoint/mapcache-server",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2017-10-10T16:11:36Z",
+    "description": "MapCache Server ",
+    "stars": "22",
+    "text": "ngageoint/mapcache-server",
+    "title": "ngageoint/mapcache-server",
+    "url": "https://github.com/ngageoint/mapcache-server"
+   }
+  },
+  {
+   "key": "ngageoint/cocreate",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2016-05-26T21:58:25Z",
+    "description": "Open source environment for development, integration and testing",
+    "stars": "9",
+    "text": "ngageoint/cocreate",
+    "title": "ngageoint/cocreate",
+    "url": "https://github.com/ngageoint/cocreate"
+   }
+  },
+  {
+   "key": "ngageoint/wedge-maker-4-gis",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2016-04-20T19:03:41Z",
+    "description": "An ArcGIS Python toolbox for creating wedge and arcband shapes",
+    "stars": "8",
+    "text": "ngageoint/wedge-maker-4-gis",
+    "title": "ngageoint/wedge-maker-4-gis",
+    "url": "https://github.com/ngageoint/wedge-maker-4-gis"
+   }
+  },
+  {
+   "key": "ngageoint/fog-machine",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2020-04-09T17:28:34Z",
+    "description": "iOS Swift framework for parallel processing",
+    "stars": "122",
+    "text": "ngageoint/fog-machine",
+    "title": "ngageoint/fog-machine",
+    "url": "https://github.com/ngageoint/fog-machine"
+   }
+  },
+  {
+   "key": "ngageoint/kobo-docker",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2016-09-20T21:41:01Z",
+    "description": "Installing KoBoToolbox on a local or remote server using Docker",
+    "stars": "0",
+    "text": "ngageoint/kobo-docker",
+    "title": "ngageoint/kobo-docker",
+    "url": "https://github.com/ngageoint/kobo-docker"
+   }
+  },
+  {
+   "key": "ngageoint/wordpress-revision-slider-challenge",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2016-09-25T17:34:16Z",
+    "description": "10 Grand Living Stories Challenge",
+    "stars": "1",
+    "text": "ngageoint/wordpress-revision-slider-challenge",
+    "title": "ngageoint/wordpress-revision-slider-challenge",
+    "url": "https://github.com/ngageoint/wordpress-revision-slider-challenge"
+   }
+  },
+  {
+   "key": "ngageoint/aws-compliance",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2016-07-01T21:07:38Z",
+    "stars": "1",
+    "text": "ngageoint/aws-compliance",
+    "title": "ngageoint/aws-compliance",
+    "url": "https://github.com/ngageoint/aws-compliance"
+   }
+  },
+  {
+   "key": "ngageoint/seed",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2021-11-18T19:35:55Z",
+    "description": "Standard for discovery and consumption of Docker containerized jobs.",
+    "stars": "6",
+    "text": "ngageoint/seed",
+    "title": "ngageoint/seed",
+    "url": "https://github.com/ngageoint/seed"
+   }
+  },
+  {
+   "key": "ngageoint/Geoserver_SLD-s",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2016-07-07T02:15:29Z",
+    "description": "Some SLD's I have been creating for features hosted on our Geoshape instance, via Geoserver. ",
+    "stars": "0",
+    "text": "ngageoint/Geoserver_SLD-s",
+    "title": "ngageoint/Geoserver_SLD-s",
+    "url": "https://github.com/ngageoint/Geoserver_SLD-s"
+   }
+  },
+  {
+   "key": "ngageoint/tiff-java",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2024-04-03T15:50:36Z",
+    "description": "Tagged Image File Format Java Library",
+    "stars": "82",
+    "text": "ngageoint/tiff-java",
+    "title": "ngageoint/tiff-java",
+    "url": "https://github.com/ngageoint/tiff-java"
+   }
+  },
+  {
+   "key": "ngageoint/tinkerpop",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2016-10-26T21:50:17Z",
+    "description": "Mirror of Apache TinkerPop",
+    "stars": "0",
+    "text": "ngageoint/tinkerpop",
+    "title": "ngageoint/tinkerpop",
+    "url": "https://github.com/ngageoint/tinkerpop"
+   }
+  },
+  {
+   "key": "ngageoint/ndaas-vpc",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2017-09-13T17:33:38Z",
+    "stars": "0",
+    "text": "ngageoint/ndaas-vpc",
+    "title": "ngageoint/ndaas-vpc",
+    "url": "https://github.com/ngageoint/ndaas-vpc"
+   }
+  },
+  {
+   "key": "ngageoint/ansible-role-rexray",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2016-02-04T16:30:43Z",
+    "description": "Ansible Galaxy role for installing REX-Ray",
+    "stars": "2",
+    "text": "ngageoint/ansible-role-rexray",
+    "title": "ngageoint/ansible-role-rexray",
+    "url": "https://github.com/ngageoint/ansible-role-rexray"
+   }
+  },
+  {
+   "key": "ngageoint/janusgraph",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2017-06-08T04:24:02Z",
+    "description": "JanusGraph: an open-source, distributed graph database",
+    "stars": "3",
+    "text": "ngageoint/janusgraph",
+    "title": "ngageoint/janusgraph",
+    "url": "https://github.com/ngageoint/janusgraph"
+   }
+  },
+  {
+   "key": "ngageoint/tiff-ios",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2025-06-05T17:23:27Z",
+    "description": "Tagged Image File Format iOS Library",
+    "stars": "36",
+    "text": "ngageoint/tiff-ios",
+    "title": "ngageoint/tiff-ios",
+    "url": "https://github.com/ngageoint/tiff-ios"
+   }
+  },
+  {
+   "key": "ngageoint/geopackage-android-map",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2025-10-21T19:36:33Z",
+    "description": "GeoPackage Android Map Library",
+    "stars": "37",
+    "text": "ngageoint/geopackage-android-map",
+    "title": "ngageoint/geopackage-android-map",
+    "url": "https://github.com/ngageoint/geopackage-android-map"
+   }
+  },
+  {
+   "key": "ngageoint/joint-military-symbology-xml",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2016-10-17T20:23:43Z",
+    "description": "Joint Military Symbology Markup Language is a data encapsulation of MIL-STD-2525D and APP-6(C).",
+    "stars": "7",
+    "text": "ngageoint/joint-military-symbology-xml",
+    "title": "ngageoint/joint-military-symbology-xml",
+    "url": "https://github.com/ngageoint/joint-military-symbology-xml"
+   }
+  },
+  {
+   "key": "ngageoint/conduit",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2018-03-20T11:45:07Z",
+    "description": "content curation tool",
+    "stars": "17",
+    "text": "ngageoint/conduit",
+    "title": "ngageoint/conduit",
+    "url": "https://github.com/ngageoint/conduit"
+   }
+  },
+  {
+   "key": "ngageoint/aero-app",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2017-05-03T16:09:23Z",
+    "description": "licensing and sample videos of NGA's Aero App for iOS",
+    "stars": "1",
+    "text": "ngageoint/aero-app",
+    "title": "ngageoint/aero-app",
+    "url": "https://github.com/ngageoint/aero-app"
+   }
+  },
+  {
+   "key": "ngageoint/seed-cli",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2020-11-12T20:07:23Z",
+    "description": "Algorithm developer CLI supporting Seed compliant image publish and testing.",
+    "stars": "5",
+    "text": "ngageoint/seed-cli",
+    "title": "ngageoint/seed-cli",
+    "url": "https://github.com/ngageoint/seed-cli"
+   }
+  },
+  {
+   "key": "ngageoint/state-of-the-data",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2023-11-17T18:56:24Z",
+    "description": "content suitability assessment tools",
+    "stars": "19",
+    "text": "ngageoint/state-of-the-data",
+    "title": "ngageoint/state-of-the-data",
+    "url": "https://github.com/ngageoint/state-of-the-data"
+   }
+  },
+  {
+   "key": "ngageoint/geoint-in-motion",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2018-03-09T02:06:59Z",
+    "description": "data comparison tools written in python",
+    "stars": "16",
+    "text": "ngageoint/geoint-in-motion",
+    "title": "ngageoint/geoint-in-motion",
+    "url": "https://github.com/ngageoint/geoint-in-motion"
+   }
+  },
+  {
+   "key": "ngageoint/seed-silo",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2022-02-07T15:32:26Z",
+    "description": "Rest API for discovering Seed images",
+    "stars": "5",
+    "text": "ngageoint/seed-silo",
+    "title": "ngageoint/seed-silo",
+    "url": "https://github.com/ngageoint/seed-silo"
+   }
+  },
+  {
+   "key": "ngageoint/hootenanny-translate",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2020-12-04T09:43:25Z",
+    "description": "Hootenanny Translate is a submodule of the Hootenanny vector conflation project",
+    "stars": "0",
+    "text": "ngageoint/hootenanny-translate",
+    "title": "ngageoint/hootenanny-translate",
+    "url": "https://github.com/ngageoint/hootenanny-translate"
+   }
+  },
+  {
+   "key": "ngageoint/eslint-config-opensphere",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2024-03-27T15:30:56Z",
+    "description": "eslint-config-opensphere",
+    "stars": "3",
+    "text": "ngageoint/eslint-config-opensphere",
+    "title": "ngageoint/eslint-config-opensphere",
+    "url": "https://github.com/ngageoint/eslint-config-opensphere"
+   }
+  },
+  {
+   "key": "ngageoint/eslint-plugin-opensphere",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2023-02-03T17:13:40Z",
+    "description": "eslint-plugin-opensphere",
+    "stars": "1",
+    "text": "ngageoint/eslint-plugin-opensphere",
+    "title": "ngageoint/eslint-plugin-opensphere",
+    "url": "https://github.com/ngageoint/eslint-plugin-opensphere"
+   }
+  },
+  {
+   "key": "ngageoint/opensphere",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2024-08-16T18:12:48Z",
+    "description": "OpenSphere",
+    "stars": "202",
+    "text": "ngageoint/opensphere",
+    "title": "ngageoint/opensphere",
+    "url": "https://github.com/ngageoint/opensphere"
+   }
+  },
+  {
+   "key": "ngageoint/opensphere-asm",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2023-03-05T21:05:34Z",
+    "description": "opensphere-asm",
+    "stars": "10",
+    "text": "ngageoint/opensphere-asm",
+    "title": "ngageoint/opensphere-asm",
+    "url": "https://github.com/ngageoint/opensphere-asm"
+   }
+  },
+  {
+   "key": "ngageoint/opensphere-build-closure-helper",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2023-02-03T17:12:21Z",
+    "description": "opensphere-build-closure-helper",
+    "stars": "3",
+    "text": "ngageoint/opensphere-build-closure-helper",
+    "title": "ngageoint/opensphere-build-closure-helper",
+    "url": "https://github.com/ngageoint/opensphere-build-closure-helper"
+   }
+  },
+  {
+   "key": "ngageoint/opensphere-build-docs",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2022-12-12T03:21:29Z",
+    "description": "opensphere-build-docs",
+    "stars": "3",
+    "text": "ngageoint/opensphere-build-docs",
+    "title": "ngageoint/opensphere-build-docs",
+    "url": "https://github.com/ngageoint/opensphere-build-docs"
+   }
+  },
+  {
+   "key": "ngageoint/opensphere-build-index",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2023-02-03T17:13:31Z",
+    "description": "opensphere-build-index",
+    "stars": "3",
+    "text": "ngageoint/opensphere-build-index",
+    "title": "ngageoint/opensphere-build-index",
+    "url": "https://github.com/ngageoint/opensphere-build-index"
+   }
+  },
+  {
+   "key": "ngageoint/opensphere-build-resolver",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2023-02-03T17:13:18Z",
+    "description": "opensphere-build-resolver",
+    "stars": "2",
+    "text": "ngageoint/opensphere-build-resolver",
+    "title": "ngageoint/opensphere-build-resolver",
+    "url": "https://github.com/ngageoint/opensphere-build-resolver"
+   }
+  },
+  {
+   "key": "ngageoint/opensphere-config-developer",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2017-12-06T22:51:25Z",
+    "description": "opensphere-config-developer",
+    "stars": "3",
+    "text": "ngageoint/opensphere-config-developer",
+    "title": "ngageoint/opensphere-config-developer",
+    "url": "https://github.com/ngageoint/opensphere-config-developer"
+   }
+  },
+  {
+   "key": "ngageoint/opensphere-state-schema",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2022-12-12T03:11:13Z",
+    "description": "opensphere-state-schema",
+    "stars": "2",
+    "text": "ngageoint/opensphere-state-schema",
+    "title": "ngageoint/opensphere-state-schema",
+    "url": "https://github.com/ngageoint/opensphere-state-schema"
+   }
+  },
+  {
+   "key": "ngageoint/opensphere-desktop",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2022-06-29T15:58:00Z",
+    "description": "opensphere-desktop",
+    "stars": "30",
+    "text": "ngageoint/opensphere-desktop",
+    "title": "ngageoint/opensphere-desktop",
+    "url": "https://github.com/ngageoint/opensphere-desktop"
+   }
+  },
+  {
+   "key": "ngageoint/opensphere-yarn-workspace",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2024-09-03T19:30:02Z",
+    "description": "opensphere-yarn-workspace",
+    "stars": "10",
+    "text": "ngageoint/opensphere-yarn-workspace",
+    "title": "ngageoint/opensphere-yarn-workspace",
+    "url": "https://github.com/ngageoint/opensphere-yarn-workspace"
+   }
+  },
+  {
+   "key": "ngageoint/opensphere-website",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2018-01-11T01:29:42Z",
+    "description": "opensphere-website",
+    "stars": "1",
+    "text": "ngageoint/opensphere-website",
+    "title": "ngageoint/opensphere-website",
+    "url": "https://github.com/ngageoint/opensphere-website"
+   }
+  },
+  {
+   "key": "ngageoint/opensphere-plugin-example",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2022-04-05T19:11:51Z",
+    "description": "opensphere-plugin-example",
+    "stars": "4",
+    "text": "ngageoint/opensphere-plugin-example",
+    "title": "ngageoint/opensphere-plugin-example",
+    "url": "https://github.com/ngageoint/opensphere-plugin-example"
+   }
+  },
+  {
+   "key": "ngageoint/opensphere-app-example",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2021-11-04T22:48:55Z",
+    "description": "opensphere-app-example",
+    "stars": "2",
+    "text": "ngageoint/opensphere-app-example",
+    "title": "ngageoint/opensphere-app-example",
+    "url": "https://github.com/ngageoint/opensphere-app-example"
+   }
+  },
+  {
+   "key": "ngageoint/opensphere-docker-images-",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2018-01-10T00:52:06Z",
+    "description": "opensphere-docker-images​",
+    "stars": "0",
+    "text": "ngageoint/opensphere-docker-images-",
+    "title": "ngageoint/opensphere-docker-images-",
+    "url": "https://github.com/ngageoint/opensphere-docker-images-"
+   }
+  },
+  {
+   "key": "ngageoint/seed-common",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2020-03-31T00:03:29Z",
+    "description": "Common library code shared by seed-silo and seed-cli projects",
+    "stars": "2",
+    "text": "ngageoint/seed-common",
+    "title": "ngageoint/seed-common",
+    "url": "https://github.com/ngageoint/seed-common"
+   }
+  },
+  {
+   "key": "ngageoint/simple-features-java",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2024-04-02T20:24:02Z",
+    "description": "Simple Features Java Library",
+    "stars": "16",
+    "text": "ngageoint/simple-features-java",
+    "title": "ngageoint/simple-features-java",
+    "url": "https://github.com/ngageoint/simple-features-java"
+   }
+  },
+  {
+   "key": "ngageoint/simple-features-ios",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2025-06-04T17:37:53Z",
+    "description": "Simple Features iOS Library",
+    "stars": "2",
+    "text": "ngageoint/simple-features-ios",
+    "title": "ngageoint/simple-features-ios",
+    "url": "https://github.com/ngageoint/simple-features-ios"
+   }
+  },
+  {
+   "key": "ngageoint/opensphere-electron",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2024-07-11T18:04:08Z",
+    "description": "Run OpenSphere in an Electron container.",
+    "stars": "9",
+    "text": "ngageoint/opensphere-electron",
+    "title": "ngageoint/opensphere-electron",
+    "url": "https://github.com/ngageoint/opensphere-electron"
+   }
+  },
+  {
+   "key": "ngageoint/opensphere-config-electron",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2024-06-25T15:04:36Z",
+    "description": "Provides OpenSphere configuration specific to Electron builds.",
+    "stars": "1",
+    "text": "ngageoint/opensphere-config-electron",
+    "title": "ngageoint/opensphere-config-electron",
+    "url": "https://github.com/ngageoint/opensphere-config-electron"
+   }
+  },
+  {
+   "key": "ngageoint/sarpy",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2026-05-13T19:11:27Z",
+    "description": "A basic Python library to demonstrate reading, writing, display, and simple processing of complex SAR data using the NGA SICD standard.",
+    "stars": "320",
+    "text": "ngageoint/sarpy",
+    "title": "ngageoint/sarpy",
+    "url": "https://github.com/ngageoint/sarpy"
+   }
+  },
+  {
+   "key": "ngageoint/MATLAB_SAR",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2024-11-22T21:55:56Z",
+    "description": "A basic MATLAB library to demonstrate reading, writing, display, and simple processing of complex SAR data using the NGA SICD standard.",
+    "stars": "253",
+    "text": "ngageoint/MATLAB_SAR",
+    "title": "ngageoint/MATLAB_SAR",
+    "url": "https://github.com/ngageoint/MATLAB_SAR"
+   }
+  },
+  {
+   "key": "ngageoint/simple-features-proj-java",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2024-04-03T11:05:11Z",
+    "description": "Simple Features Projection Java Library",
+    "stars": "11",
+    "text": "ngageoint/simple-features-proj-java",
+    "title": "ngageoint/simple-features-proj-java",
+    "url": "https://github.com/ngageoint/simple-features-proj-java"
+   }
+  },
+  {
+   "key": "ngageoint/simple-features-proj-ios",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2025-06-05T17:09:38Z",
+    "description": "Simple Features Projection iOS Library",
+    "stars": "3",
+    "text": "ngageoint/simple-features-proj-ios",
+    "title": "ngageoint/simple-features-proj-ios",
+    "url": "https://github.com/ngageoint/simple-features-proj-ios"
+   }
+  },
+  {
+   "key": "ngageoint/simple-features-geojson-java",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2024-04-03T13:46:16Z",
+    "description": "Simple Features GeoJSON Java Library",
+    "stars": "37",
+    "text": "ngageoint/simple-features-geojson-java",
+    "title": "ngageoint/simple-features-geojson-java",
+    "url": "https://github.com/ngageoint/simple-features-geojson-java"
+   }
+  },
+  {
+   "key": "ngageoint/simple-features-geojson-ios",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2025-06-04T18:29:20Z",
+    "description": "Simple Features GeoJSON iOS Library",
+    "stars": "2",
+    "text": "ngageoint/simple-features-geojson-ios",
+    "title": "ngageoint/simple-features-geojson-ios",
+    "url": "https://github.com/ngageoint/simple-features-geojson-ios"
+   }
+  },
+  {
+   "key": "ngageoint/geoserver",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2018-04-16T15:49:14Z",
+    "description": "Official GeoServer repository",
+    "stars": "2",
+    "text": "ngageoint/geoserver",
+    "title": "ngageoint/geoserver",
+    "url": "https://github.com/ngageoint/geoserver"
+   }
+  },
+  {
+   "key": "ngageoint/Geospatial-Analysis-Integrity-Tool",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2018-04-23T18:46:18Z",
+    "description": "The Geospatial Analysis Integrity Tool (GAIT) validates data against a data model. GAIT checks geometry, feature codes, attribute values and domains, and metadata. The tool writes its results as line and point shapefiles to an output directory. GAIT can execute against data in MGCP, GIFD, TDS, and VMap data models.",
+    "stars": "13",
+    "text": "ngageoint/Geospatial-Analysis-Integrity-Tool",
+    "title": "ngageoint/Geospatial-Analysis-Integrity-Tool",
+    "url": "https://github.com/ngageoint/Geospatial-Analysis-Integrity-Tool"
+   }
+  },
+  {
+   "key": "ngageoint/OGC-Web-API-Guidelines",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2018-07-27T17:54:20Z",
+    "description": "A Comprehensive Set of Guidelines for developing OGC serivces using REST and OpenAPI.",
+    "stars": "0",
+    "text": "ngageoint/OGC-Web-API-Guidelines",
+    "title": "ngageoint/OGC-Web-API-Guidelines",
+    "url": "https://github.com/ngageoint/OGC-Web-API-Guidelines"
+   }
+  },
+  {
+   "key": "ngageoint/scale-ui",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2024-01-31T15:56:11Z",
+    "description": "UI front-end for Scale - Processing framework for containerized algorithms",
+    "stars": "6",
+    "text": "ngageoint/scale-ui",
+    "title": "ngageoint/scale-ui",
+    "url": "https://github.com/ngageoint/scale-ui"
+   }
+  },
+  {
+   "key": "ngageoint/seed-vault",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2023-01-07T02:29:31Z",
+    "description": "UI front-end for Seed Silo - discovery for Seed compliant images",
+    "stars": "2",
+    "text": "ngageoint/seed-vault",
+    "title": "ngageoint/seed-vault",
+    "url": "https://github.com/ngageoint/seed-vault"
+   }
+  },
+  {
+   "key": "ngageoint/seed-images",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2023-01-07T02:34:17Z",
+    "description": "An Angular component for Seed image discovery",
+    "stars": "3",
+    "text": "ngageoint/seed-images",
+    "title": "ngageoint/seed-images",
+    "url": "https://github.com/ngageoint/seed-images"
+   }
+  },
+  {
+   "key": "ngageoint/mgrs-java",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2024-04-03T20:45:37Z",
+    "description": "Military Grid Reference System Java Library",
+    "stars": "25",
+    "text": "ngageoint/mgrs-java",
+    "title": "ngageoint/mgrs-java",
+    "url": "https://github.com/ngageoint/mgrs-java"
+   }
+  },
+  {
+   "key": "ngageoint/mgrs-android",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2024-04-04T20:26:48Z",
+    "description": "Military Grid Reference System Android Library",
+    "stars": "11",
+    "text": "ngageoint/mgrs-android",
+    "title": "ngageoint/mgrs-android",
+    "url": "https://github.com/ngageoint/mgrs-android"
+   }
+  },
+  {
+   "key": "ngageoint/color-java",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2024-04-03T15:33:03Z",
+    "description": "Color Java Library",
+    "stars": "14",
+    "text": "ngageoint/color-java",
+    "title": "ngageoint/color-java",
+    "url": "https://github.com/ngageoint/color-java"
+   }
+  },
+  {
+   "key": "ngageoint/gars-java",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2024-04-03T20:45:27Z",
+    "description": "Global Area Reference System Java Library",
+    "stars": "3",
+    "text": "ngageoint/gars-java",
+    "title": "ngageoint/gars-java",
+    "url": "https://github.com/ngageoint/gars-java"
+   }
+  },
+  {
+   "key": "ngageoint/gars-android",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2024-04-04T18:16:46Z",
+    "description": "Global Area Reference System Android Library",
+    "stars": "2",
+    "text": "ngageoint/gars-android",
+    "title": "ngageoint/gars-android",
+    "url": "https://github.com/ngageoint/gars-android"
+   }
+  },
+  {
+   "key": "ngageoint/grid-java",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2024-04-03T18:51:32Z",
+    "description": "Grid Java Library",
+    "stars": "4",
+    "text": "ngageoint/grid-java",
+    "title": "ngageoint/grid-java",
+    "url": "https://github.com/ngageoint/grid-java"
+   }
+  },
+  {
+   "key": "ngageoint/nsg_geopackage_2.1",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2018-10-23T21:52:02Z",
+    "description": "NSG Profile of OGC Geopackage encoding standard",
+    "stars": "1",
+    "text": "ngageoint/nsg_geopackage_2.1",
+    "title": "ngageoint/nsg_geopackage_2.1",
+    "url": "https://github.com/ngageoint/nsg_geopackage_2.1"
+   }
+  },
+  {
+   "key": "ngageoint/nsg_wmts_1.1",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2019-01-31T14:25:51Z",
+    "description": "This Interoperability Standard, also known as a profile, identifies and tailors the implementable provisions prescribed for the National System for Geospatial-Intelligence (NSG) for a Web Map Tile Service (WMTS) based on the Open Geospatial Consortium (OGC) OpenGIS® Web Map Tile Service",
+    "stars": "0",
+    "text": "ngageoint/nsg_wmts_1.1",
+    "title": "ngageoint/nsg_wmts_1.1",
+    "url": "https://github.com/ngageoint/nsg_wmts_1.1"
+   }
+  },
+  {
+   "key": "ngageoint/nsg_wms_2.0",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2018-10-04T12:28:25Z",
+    "description": "This document defines specific National System for Geospatial-Intelligence (NSG) and Defence Geospatial Information Working Group (DGIWG) requirements, recommendations and guidelines for implementation of the International Organization for Standardization (ISO) / Open Geospatial Consortium (OGC) Web Map Service (WMS) standard which are based on ISO 19128:2005 Web Map Server Interface / OpenGIS Web Map Server Implementation Specification 1.3.0.  This document shall be referred to as the National Geospatial-Intelligence (NSG) OGC Web Map Service 1.3 Interoperability Standard, version 2.0, 20 November 2015.",
+    "stars": "0",
+    "text": "ngageoint/nsg_wms_2.0",
+    "title": "ngageoint/nsg_wms_2.0",
+    "url": "https://github.com/ngageoint/nsg_wms_2.0"
+   }
+  },
+  {
+   "key": "ngageoint/mapcache-electron",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2025-03-28T18:09:16Z",
+    "description": "Desktop application for creating and editing GeoPackages",
+    "stars": "35",
+    "text": "ngageoint/mapcache-electron",
+    "title": "ngageoint/mapcache-electron",
+    "url": "https://github.com/ngageoint/mapcache-electron"
+   }
+  },
+  {
+   "key": "ngageoint/suite-crm",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2019-02-19T21:44:45Z",
+    "stars": "0",
+    "text": "ngageoint/suite-crm",
+    "title": "ngageoint/suite-crm",
+    "url": "https://github.com/ngageoint/suite-crm"
+   }
+  },
+  {
+   "key": "ngageoint/Sensor_Integration_Framework",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2020-12-17T17:21:12Z",
+    "description": "The purpose of this document is to provide guidance required for sensor data producers and consumers to implement a sensor information enterprise that meets operational requirements, achieves United States (U.S.) Department of Defense (DoD) and Intelligence Community (IC) Chief Information Officer (CIO) goals, and conforms to applicable policy.",
+    "stars": "11",
+    "text": "ngageoint/Sensor_Integration_Framework",
+    "title": "ngageoint/Sensor_Integration_Framework",
+    "url": "https://github.com/ngageoint/Sensor_Integration_Framework"
+   }
+  },
+  {
+   "key": "ngageoint/geogig-web",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2024-09-19T16:28:35Z",
+    "stars": "2",
+    "text": "ngageoint/geogig-web",
+    "title": "ngageoint/geogig-web",
+    "url": "https://github.com/ngageoint/geogig-web"
+   }
+  },
+  {
+   "key": "ngageoint/geogig-qgis-client-plugin",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2019-06-19T16:37:15Z",
+    "stars": "4",
+    "text": "ngageoint/geogig-qgis-client-plugin",
+    "title": "ngageoint/geogig-qgis-client-plugin",
+    "url": "https://github.com/ngageoint/geogig-qgis-client-plugin"
+   }
+  },
+  {
+   "key": "ngageoint/geogig",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2022-12-10T04:26:56Z",
+    "stars": "7",
+    "text": "ngageoint/geogig",
+    "title": "ngageoint/geogig",
+    "url": "https://github.com/ngageoint/geogig"
+   }
+  },
+  {
+   "key": "ngageoint/ogc-api-features-json-java",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2024-04-03T15:13:45Z",
+    "description": "OGC API Features JSON Java Library",
+    "stars": "8",
+    "text": "ngageoint/ogc-api-features-json-java",
+    "title": "ngageoint/ogc-api-features-json-java",
+    "url": "https://github.com/ngageoint/ogc-api-features-json-java"
+   }
+  },
+  {
+   "key": "ngageoint/storyscapes",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2022-08-23T00:52:51Z",
+    "description": "Collaborative platform where everyone in the NSG can edit their collective insights in to an living atlas of change.",
+    "stars": "3",
+    "text": "ngageoint/storyscapes",
+    "title": "ngageoint/storyscapes",
+    "url": "https://github.com/ngageoint/storyscapes"
+   }
+  },
+  {
+   "key": "ngageoint/exchange",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2022-08-23T00:52:51Z",
+    "stars": "0",
+    "text": "ngageoint/exchange",
+    "title": "ngageoint/exchange",
+    "url": "https://github.com/ngageoint/exchange"
+   }
+  },
+  {
+   "key": "ngageoint/ogc-api-features-json-ios",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2025-06-05T14:51:28Z",
+    "description": "OGC API Features JSON iOS Library",
+    "stars": "4",
+    "text": "ngageoint/ogc-api-features-json-ios",
+    "title": "ngageoint/ogc-api-features-json-ios",
+    "url": "https://github.com/ngageoint/ogc-api-features-json-ios"
+   }
+  },
+  {
+   "key": "ngageoint/sarpy_apps",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2025-08-19T15:16:27Z",
+    "stars": "23",
+    "text": "ngageoint/sarpy_apps",
+    "title": "ngageoint/sarpy_apps",
+    "url": "https://github.com/ngageoint/sarpy_apps"
+   }
+  },
+  {
+   "key": "ngageoint/tk_builder",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2024-06-26T15:06:13Z",
+    "stars": "7",
+    "text": "ngageoint/tk_builder",
+    "title": "ngageoint/tk_builder",
+    "url": "https://github.com/ngageoint/tk_builder"
+   }
+  },
+  {
+   "key": "ngageoint/simple-features-wkt-java",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2024-04-03T12:49:48Z",
+    "description": "Simple Features Well-Known Text Java Library",
+    "stars": "5",
+    "text": "ngageoint/simple-features-wkt-java",
+    "title": "ngageoint/simple-features-wkt-java",
+    "url": "https://github.com/ngageoint/simple-features-wkt-java"
+   }
+  },
+  {
+   "key": "ngageoint/simple-features-wkt-ios",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2025-06-04T19:07:03Z",
+    "description": "Simple Features Well-Known Text iOS Library",
+    "stars": "3",
+    "text": "ngageoint/simple-features-wkt-ios",
+    "title": "ngageoint/simple-features-wkt-ios",
+    "url": "https://github.com/ngageoint/simple-features-wkt-ios"
+   }
+  },
+  {
+   "key": "ngageoint/keycloak-login.gov-integration",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2021-11-24T19:35:45Z",
+    "stars": "11",
+    "text": "ngageoint/keycloak-login.gov-integration",
+    "title": "ngageoint/keycloak-login.gov-integration",
+    "url": "https://github.com/ngageoint/keycloak-login.gov-integration"
+   }
+  },
+  {
+   "key": "ngageoint/opensphere-plugin-geopackage",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2024-07-12T16:29:17Z",
+    "description": "Geopackage support for OpenSphere.",
+    "stars": "0",
+    "text": "ngageoint/opensphere-plugin-geopackage",
+    "title": "ngageoint/opensphere-plugin-geopackage",
+    "url": "https://github.com/ngageoint/opensphere-plugin-geopackage"
+   }
+  },
+  {
+   "key": "ngageoint/closure-webpack-plugin",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2022-02-15T20:07:46Z",
+    "description": "Webpack Google Closure Compiler and Closure Library plugin - ",
+    "stars": "0",
+    "text": "ngageoint/closure-webpack-plugin",
+    "title": "ngageoint/closure-webpack-plugin",
+    "url": "https://github.com/ngageoint/closure-webpack-plugin"
+   }
+  },
+  {
+   "key": "ngageoint/foundation_data_evaluation",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2021-06-29T14:05:10Z",
+    "description": "script to approximate precision and recall for road and building comparisons",
+    "stars": "2",
+    "text": "ngageoint/foundation_data_evaluation",
+    "title": "ngageoint/foundation_data_evaluation",
+    "url": "https://github.com/ngageoint/foundation_data_evaluation"
+   }
+  },
+  {
+   "key": "ngageoint/chardetng-wasm",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2020-12-14T16:58:34Z",
+    "stars": "0",
+    "text": "ngageoint/chardetng-wasm",
+    "title": "ngageoint/chardetng-wasm",
+    "url": "https://github.com/ngageoint/chardetng-wasm"
+   }
+  },
+  {
+   "key": "ngageoint/opensphere-coverage-loader",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2021-01-20T16:55:32Z",
+    "stars": "0",
+    "text": "ngageoint/opensphere-coverage-loader",
+    "title": "ngageoint/opensphere-coverage-loader",
+    "url": "https://github.com/ngageoint/opensphere-coverage-loader"
+   }
+  },
+  {
+   "key": "ngageoint/projections-java",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2024-04-02T19:02:23Z",
+    "description": "Projections Java Library",
+    "stars": "3",
+    "text": "ngageoint/projections-java",
+    "title": "ngageoint/projections-java",
+    "url": "https://github.com/ngageoint/projections-java"
+   }
+  },
+  {
+   "key": "ngageoint/projections-ios",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2025-06-04T17:06:43Z",
+    "description": "Projections iOS Library",
+    "stars": "11",
+    "text": "ngageoint/projections-ios",
+    "title": "ngageoint/projections-ios",
+    "url": "https://github.com/ngageoint/projections-ios"
+   }
+  },
+  {
+   "key": "ngageoint/coordinate-reference-systems-java",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2024-04-02T17:25:28Z",
+    "description": "Coordinate Reference Systems Java Library",
+    "stars": "7",
+    "text": "ngageoint/coordinate-reference-systems-java",
+    "title": "ngageoint/coordinate-reference-systems-java",
+    "url": "https://github.com/ngageoint/coordinate-reference-systems-java"
+   }
+  },
+  {
+   "key": "ngageoint/coordinate-reference-systems-ios",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2025-06-03T19:48:56Z",
+    "description": "Coordinate Reference Systems iOS Library",
+    "stars": "3",
+    "text": "ngageoint/coordinate-reference-systems-ios",
+    "title": "ngageoint/coordinate-reference-systems-ios",
+    "url": "https://github.com/ngageoint/coordinate-reference-systems-ios"
+   }
+  },
+  {
+   "key": "ngageoint/stylelint-config-opensphere",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2022-01-26T16:33:01Z",
+    "description": "Stylelint config for OpenSphere.",
+    "stars": "0",
+    "text": "ngageoint/stylelint-config-opensphere",
+    "title": "ngageoint/stylelint-config-opensphere",
+    "url": "https://github.com/ngageoint/stylelint-config-opensphere"
+   }
+  },
+  {
+   "key": "ngageoint/geopackage-csv-js",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2022-10-28T18:25:04Z",
+    "description": "GeoPackage CSV Converter",
+    "stars": "1",
+    "text": "ngageoint/geopackage-csv-js",
+    "title": "ngageoint/geopackage-csv-js",
+    "url": "https://github.com/ngageoint/geopackage-csv-js"
+   }
+  },
+  {
+   "key": "ngageoint/geopackage-xyz-js",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2022-10-28T18:24:51Z",
+    "description": "GeoPackage XYZ Converter",
+    "stars": "0",
+    "text": "ngageoint/geopackage-xyz-js",
+    "title": "ngageoint/geopackage-xyz-js",
+    "url": "https://github.com/ngageoint/geopackage-xyz-js"
+   }
+  },
+  {
+   "key": "ngageoint/geopackage-pbf-js",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2022-10-28T18:24:47Z",
+    "description": "GeoPackage PBF Converter",
+    "stars": "1",
+    "text": "ngageoint/geopackage-pbf-js",
+    "title": "ngageoint/geopackage-pbf-js",
+    "url": "https://github.com/ngageoint/geopackage-pbf-js"
+   }
+  },
+  {
+   "key": "ngageoint/geopackage-mbtiles-js",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2022-10-28T18:20:38Z",
+    "description": "GeoPackage MBTiles Converter",
+    "stars": "2",
+    "text": "ngageoint/geopackage-mbtiles-js",
+    "title": "ngageoint/geopackage-mbtiles-js",
+    "url": "https://github.com/ngageoint/geopackage-mbtiles-js"
+   }
+  },
+  {
+   "key": "ngageoint/geopackage-kml-js",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2022-10-28T18:25:50Z",
+    "description": "GeoPackage KML Converter",
+    "stars": "2",
+    "text": "ngageoint/geopackage-kml-js",
+    "title": "ngageoint/geopackage-kml-js",
+    "url": "https://github.com/ngageoint/geopackage-kml-js"
+   }
+  },
+  {
+   "key": "ngageoint/geopackage-geojson-js",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2023-02-03T12:59:01Z",
+    "description": "GeoPackage GeoJSON Converter",
+    "stars": "9",
+    "text": "ngageoint/geopackage-geojson-js",
+    "title": "ngageoint/geopackage-geojson-js",
+    "url": "https://github.com/ngageoint/geopackage-geojson-js"
+   }
+  },
+  {
+   "key": "ngageoint/geopackage-viewer-js",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2022-10-28T14:42:36Z",
+    "stars": "27",
+    "text": "ngageoint/geopackage-viewer-js",
+    "title": "ngageoint/geopackage-viewer-js",
+    "url": "https://github.com/ngageoint/geopackage-viewer-js"
+   }
+  },
+  {
+   "key": "ngageoint/leaflet-geopackage",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2023-02-10T01:12:51Z",
+    "description": "Leaflet GeoPackage",
+    "stars": "24",
+    "text": "ngageoint/leaflet-geopackage",
+    "title": "ngageoint/leaflet-geopackage",
+    "url": "https://github.com/ngageoint/leaflet-geopackage"
+   }
+  },
+  {
+   "key": "ngageoint/geopackage-mobile-optimizer",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2022-10-31T14:35:46Z",
+    "description": "GeoPackage Mobile Optimizer",
+    "stars": "1",
+    "text": "ngageoint/geopackage-mobile-optimizer",
+    "title": "ngageoint/geopackage-mobile-optimizer",
+    "url": "https://github.com/ngageoint/geopackage-mobile-optimizer"
+   }
+  },
+  {
+   "key": "ngageoint/geopackage-xyz-server-js",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2023-02-03T14:16:36Z",
+    "description": "GeoPackage XYZ Tile Server",
+    "stars": "2",
+    "text": "ngageoint/geopackage-xyz-server-js",
+    "title": "ngageoint/geopackage-xyz-server-js",
+    "url": "https://github.com/ngageoint/geopackage-xyz-server-js"
+   }
+  },
+  {
+   "key": "ngageoint/geopackage-shapefile-js",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2022-10-28T18:25:34Z",
+    "description": "GeoPackage Shapefile Converter",
+    "stars": "1",
+    "text": "ngageoint/geopackage-shapefile-js",
+    "title": "ngageoint/geopackage-shapefile-js",
+    "url": "https://github.com/ngageoint/geopackage-shapefile-js"
+   }
+  },
+  {
+   "key": "ngageoint/geopackage-gpx-js",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2022-06-08T17:39:31Z",
+    "stars": "1",
+    "text": "ngageoint/geopackage-gpx-js",
+    "title": "ngageoint/geopackage-gpx-js",
+    "url": "https://github.com/ngageoint/geopackage-gpx-js"
+   }
+  },
+  {
+   "key": "ngageoint/mgrs-ios",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2025-06-06T16:55:44Z",
+    "description": "Military Grid Reference System iOS Library",
+    "stars": "16",
+    "text": "ngageoint/mgrs-ios",
+    "title": "ngageoint/mgrs-ios",
+    "url": "https://github.com/ngageoint/mgrs-ios"
+   }
+  },
+  {
+   "key": "ngageoint/gars-ios",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2025-06-06T17:47:33Z",
+    "description": "Global Area Reference System iOS Library",
+    "stars": "2",
+    "text": "ngageoint/gars-ios",
+    "title": "ngageoint/gars-ios",
+    "url": "https://github.com/ngageoint/gars-ios"
+   }
+  },
+  {
+   "key": "ngageoint/grid-ios",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2025-06-05T17:36:04Z",
+    "description": "Grid iOS Library",
+    "stars": "6",
+    "text": "ngageoint/grid-ios",
+    "title": "ngageoint/grid-ios",
+    "url": "https://github.com/ngageoint/grid-ios"
+   }
+  },
+  {
+   "key": "ngageoint/color-ios",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2025-06-05T14:28:15Z",
+    "description": "Color iOS Library",
+    "stars": "3",
+    "text": "ngageoint/color-ios",
+    "title": "ngageoint/color-ios",
+    "url": "https://github.com/ngageoint/color-ios"
+   }
+  },
+  {
+   "key": "ngageoint/simple-features-js",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2022-11-28T17:42:01Z",
+    "description": "Simple Features JS",
+    "stars": "2",
+    "text": "ngageoint/simple-features-js",
+    "title": "ngageoint/simple-features-js",
+    "url": "https://github.com/ngageoint/simple-features-js"
+   }
+  },
+  {
+   "key": "ngageoint/simple-features-wkb-js",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2022-11-28T17:48:43Z",
+    "description": "Simple Features WKB Javascript",
+    "stars": "2",
+    "text": "ngageoint/simple-features-wkb-js",
+    "title": "ngageoint/simple-features-wkb-js",
+    "url": "https://github.com/ngageoint/simple-features-wkb-js"
+   }
+  },
+  {
+   "key": "ngageoint/simple-features-wkt-js",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2022-11-28T17:49:09Z",
+    "description": "Simple Feature WKT Javascript",
+    "stars": "1",
+    "text": "ngageoint/simple-features-wkt-js",
+    "title": "ngageoint/simple-features-wkt-js",
+    "url": "https://github.com/ngageoint/simple-features-wkt-js"
+   }
+  },
+  {
+   "key": "ngageoint/simple-features-geojson-js",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2022-11-28T17:49:30Z",
+    "description": "Simple Features GeoJSON Javascript",
+    "stars": "0",
+    "text": "ngageoint/simple-features-geojson-js",
+    "title": "ngageoint/simple-features-geojson-js",
+    "url": "https://github.com/ngageoint/simple-features-geojson-js"
+   }
+  },
+  {
+   "key": "ngageoint/simple-features-proj-js",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2023-01-30T12:26:26Z",
+    "description": "Simple Features Projection Javascript",
+    "stars": "0",
+    "text": "ngageoint/simple-features-proj-js",
+    "title": "ngageoint/simple-features-proj-js",
+    "url": "https://github.com/ngageoint/simple-features-proj-js"
+   }
+  },
+  {
+   "key": "ngageoint/projections-js",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2023-01-30T12:24:19Z",
+    "description": "Projections Javascript",
+    "stars": "2",
+    "text": "ngageoint/projections-js",
+    "title": "ngageoint/projections-js",
+    "url": "https://github.com/ngageoint/projections-js"
+   }
+  },
+  {
+   "key": "ngageoint/grid-js",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2022-11-01T12:51:22Z",
+    "description": "Grid Javascript Library",
+    "stars": "8",
+    "text": "ngageoint/grid-js",
+    "title": "ngageoint/grid-js",
+    "url": "https://github.com/ngageoint/grid-js"
+   }
+  },
+  {
+   "key": "ngageoint/mgrs-js",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2022-11-01T12:51:41Z",
+    "description": "Military Grid Reference System Javascript Library",
+    "stars": "18",
+    "text": "ngageoint/mgrs-js",
+    "title": "ngageoint/mgrs-js",
+    "url": "https://github.com/ngageoint/mgrs-js"
+   }
+  },
+  {
+   "key": "ngageoint/gars-js",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2022-11-01T12:51:49Z",
+    "description": "Global Area Reference System Javascript Library",
+    "stars": "2",
+    "text": "ngageoint/gars-js",
+    "title": "ngageoint/gars-js",
+    "url": "https://github.com/ngageoint/gars-js"
+   }
+  },
+  {
+   "key": "ngageoint/color-js",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2022-10-31T17:56:48Z",
+    "description": "Color Javascript Library",
+    "stars": "0",
+    "text": "ngageoint/color-js",
+    "title": "ngageoint/color-js",
+    "url": "https://github.com/ngageoint/color-js"
+   }
+  },
+  {
+   "key": "ngageoint/sips-xml",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2023-01-11T18:00:48Z",
+    "description": "Softcopy Image Processing Standard (SIPS) Database for NGA.STND.0014",
+    "stars": "1",
+    "text": "ngageoint/sips-xml",
+    "title": "ngageoint/sips-xml",
+    "url": "https://github.com/ngageoint/sips-xml"
+   }
+  },
+  {
+   "key": "ngageoint/marlin",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2025-04-28T15:05:28Z",
+    "stars": "0",
+    "text": "ngageoint/marlin",
+    "title": "ngageoint/marlin",
+    "url": "https://github.com/ngageoint/marlin"
+   }
+  },
+  {
+   "key": "ngageoint/PROJ",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2025-06-03T16:15:55Z",
+    "description": "PROJ - CocoaPods",
+    "stars": "2",
+    "text": "ngageoint/PROJ",
+    "title": "ngageoint/PROJ",
+    "url": "https://github.com/ngageoint/PROJ"
+   }
+  },
+  {
+   "key": "ngageoint/pydrodem",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2023-08-11T14:51:08Z",
+    "description": "hydrologically conditions elevation data to derive stream networks and basins",
+    "stars": "1",
+    "text": "ngageoint/pydrodem",
+    "title": "ngageoint/pydrodem",
+    "url": "https://github.com/ngageoint/pydrodem"
+   }
+  },
+  {
+   "key": "ngageoint/opensphere-plugin-analyze",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2024-09-11T20:53:33Z",
+    "stars": "0",
+    "text": "ngageoint/opensphere-plugin-analyze",
+    "title": "ngageoint/opensphere-plugin-analyze",
+    "url": "https://github.com/ngageoint/opensphere-plugin-analyze"
+   }
+  },
+  {
+   "key": "ngageoint/opensphere-plugin-geoint-viewer",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2024-09-11T19:58:35Z",
+    "stars": "0",
+    "text": "ngageoint/opensphere-plugin-geoint-viewer",
+    "title": "ngageoint/opensphere-plugin-geoint-viewer",
+    "url": "https://github.com/ngageoint/opensphere-plugin-geoint-viewer"
+   }
+  },
+  {
+   "key": "ngageoint/color-spm",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2025-01-09T16:34:07Z",
+    "description": "Repo for NGA color swift package manager",
+    "stars": "0",
+    "text": "ngageoint/color-spm",
+    "title": "ngageoint/color-spm",
+    "url": "https://github.com/ngageoint/color-spm"
+   }
+  },
+  {
+   "key": "ngageoint/sarpyapps",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2025-07-31T12:36:43Z",
+    "description": "Future home of sarpy_apps repo",
+    "stars": "1",
+    "text": "ngageoint/sarpyapps",
+    "title": "ngageoint/sarpyapps",
+    "url": "https://github.com/ngageoint/sarpyapps"
+   }
+  },
+  {
+   "key": "ngageoint/EGMTrans",
+   "source": "oss-ngageoint",
+   "fields": {
+    "date": "2026-04-15T22:34:05Z",
+    "description": "Provides a comprehensive solution for transforming vertical datums between the WGS 84 ellipsoid and the EGM96 and EGM2008 geoids for DTED and GeoTIFF files",
+    "stars": "0",
+    "text": "ngageoint/EGMTrans",
+    "title": "ngageoint/EGMTrans",
+    "url": "https://github.com/ngageoint/EGMTrans"
    }
   },
   {
    "key": "nsacyber/Event-Forwarding-Guidance",
    "source": "oss-nsacyber",
    "fields": {
-    "archived": "false",
     "date": "2020-11-17T17:25:51Z",
     "description": "Configuration guidance for implementing collection of security relevant Windows Event Log events by using Windows Event Forwarding. #nsacyber",
     "stars": "886",
@@ -1399,7 +3991,6 @@
    "key": "nsacyber/AppLocker-Guidance",
    "source": "oss-nsacyber",
    "fields": {
-    "archived": "false",
     "date": "2025-10-31T14:38:01Z",
     "description": "Configuration guidance for implementing application whitelisting with AppLocker. #nsacyber",
     "stars": "240",
@@ -1409,205 +4000,9 @@
    }
   },
   {
-   "key": "nsacyber/Control-Flow-Integrity",
-   "source": "oss-nsacyber",
-   "fields": {
-    "archived": "true",
-    "date": "2017-05-10T21:18:08Z",
-    "description": "A proposed hardware-based method for stopping known memory corruption exploitation techniques. #nsacyber",
-    "stars": "156",
-    "text": "nsacyber/Control-Flow-Integrity",
-    "title": "nsacyber/Control-Flow-Integrity",
-    "url": "https://github.com/nsacyber/Control-Flow-Integrity"
-   }
-  },
-  {
-   "key": "nsacyber/Maplesyrup",
-   "source": "oss-nsacyber",
-   "fields": {
-    "archived": "true",
-    "date": "2016-06-01T15:48:14Z",
-    "description": "Assesses CPU security of embedded devices. #nsacyber",
-    "stars": "141",
-    "text": "nsacyber/Maplesyrup",
-    "title": "nsacyber/Maplesyrup",
-    "url": "https://github.com/nsacyber/Maplesyrup"
-   }
-  },
-  {
-   "key": "nsacyber/GRASSMARLIN",
-   "source": "oss-nsacyber",
-   "fields": {
-    "archived": "true",
-    "date": "2020-02-24T16:24:07Z",
-    "description": "Provides situational awareness of Industrial Control Systems (ICS) and Supervisory Control and Data Acquisition (SCADA) networks in support of network security assessments. #nsacyber",
-    "stars": "1057",
-    "text": "nsacyber/GRASSMARLIN",
-    "title": "nsacyber/GRASSMARLIN",
-    "url": "https://github.com/nsacyber/GRASSMARLIN"
-   }
-  },
-  {
-   "key": "nsacyber/Windows-Secure-Host-Baseline",
-   "source": "oss-nsacyber",
-   "fields": {
-    "archived": "true",
-    "date": "2022-12-24T16:24:21Z",
-    "description": "Configuration guidance for implementing the Windows 10 and Windows Server 2016 DoD Secure Host Baseline settings. #nsacyber",
-    "stars": "1591",
-    "text": "nsacyber/Windows-Secure-Host-Baseline",
-    "title": "nsacyber/Windows-Secure-Host-Baseline",
-    "url": "https://github.com/nsacyber/Windows-Secure-Host-Baseline"
-   }
-  },
-  {
-   "key": "nsacyber/goSecure",
-   "source": "oss-nsacyber",
-   "fields": {
-    "archived": "true",
-    "date": "2017-06-27T20:17:10Z",
-    "description": "An easy to use and portable Virtual Private Network (VPN) system built with Linux and a Raspberry Pi. #nsacyber",
-    "stars": "991",
-    "text": "nsacyber/goSecure",
-    "title": "nsacyber/goSecure",
-    "url": "https://github.com/nsacyber/goSecure"
-   }
-  },
-  {
-   "key": "nsacyber/LOCKLEVEL",
-   "source": "oss-nsacyber",
-   "fields": {
-    "archived": "true",
-    "date": "2016-06-08T23:30:21Z",
-    "description": "A prototype that demonstrates a method for scoring how well Windows systems have implemented some of the top 10 Information Assurance mitigation strategies. #nsacyber",
-    "stars": "99",
-    "text": "nsacyber/LOCKLEVEL",
-    "title": "nsacyber/LOCKLEVEL",
-    "url": "https://github.com/nsacyber/LOCKLEVEL"
-   }
-  },
-  {
-   "key": "nsacyber/Splunk-Assessment-of-Mitigation-Implementations",
-   "source": "oss-nsacyber",
-   "fields": {
-    "archived": "true",
-    "date": "2016-05-25T22:46:52Z",
-    "description": "Automatically scores how well Windows systems have implemented some of the top 10 Information Assurance mitigation strategies. #nsacyber",
-    "stars": "77",
-    "text": "nsacyber/Splunk-Assessment-of-Mitigation-Implementations",
-    "title": "nsacyber/Splunk-Assessment-of-Mitigation-Implementations",
-    "url": "https://github.com/nsacyber/Splunk-Assessment-of-Mitigation-Implementations"
-   }
-  },
-  {
-   "key": "nsacyber/Certificate-Authority-Situational-Awareness",
-   "source": "oss-nsacyber",
-   "fields": {
-    "archived": "true",
-    "date": "2016-06-02T16:44:11Z",
-    "description": "Identifies unexpected and prohibited certificate authority certificates on Windows systems. #nsacyber",
-    "stars": "113",
-    "text": "nsacyber/Certificate-Authority-Situational-Awareness",
-    "title": "nsacyber/Certificate-Authority-Situational-Awareness",
-    "url": "https://github.com/nsacyber/Certificate-Authority-Situational-Awareness"
-   }
-  },
-  {
-   "key": "nsacyber/WALKOFF",
-   "source": "oss-nsacyber",
-   "fields": {
-    "archived": "true",
-    "date": "2022-12-12T04:07:15Z",
-    "description": "A flexible, easy to use, automation framework allowing users to integrate their capabilities and devices to cut through the repetitive, tedious tasks slowing them down. #nsacyber",
-    "stars": "1233",
-    "text": "nsacyber/WALKOFF",
-    "title": "nsacyber/WALKOFF",
-    "url": "https://github.com/nsacyber/WALKOFF"
-   }
-  },
-  {
-   "key": "nsacyber/simon-speck",
-   "source": "oss-nsacyber",
-   "fields": {
-    "archived": "true",
-    "date": "2019-11-12T17:04:55Z",
-    "description": "The SIMON and SPECK families of lightweight block ciphers. #nsacyber",
-    "stars": "170",
-    "text": "nsacyber/simon-speck",
-    "title": "nsacyber/simon-speck",
-    "url": "https://github.com/nsacyber/simon-speck"
-   }
-  },
-  {
-   "key": "nsacyber/simon-speck-supercop",
-   "source": "oss-nsacyber",
-   "fields": {
-    "archived": "true",
-    "date": "2018-06-13T19:12:14Z",
-    "description": "Fast implementations of the SIMON and SPECK lightweight block ciphers for the SUPERCOP benchmark toolkit. #nsacyber",
-    "stars": "50",
-    "text": "nsacyber/simon-speck-supercop",
-    "title": "nsacyber/simon-speck-supercop",
-    "url": "https://github.com/nsacyber/simon-speck-supercop"
-   }
-  },
-  {
-   "key": "nsacyber/Windows-Event-Log-Messages",
-   "source": "oss-nsacyber",
-   "fields": {
-    "archived": "true",
-    "date": "2022-12-08T03:43:40Z",
-    "description": "Retrieves the definitions of Windows Event Log messages embedded in Windows binaries and provides them in discoverable formats. #nsacyber",
-    "stars": "412",
-    "text": "nsacyber/Windows-Event-Log-Messages",
-    "title": "nsacyber/Windows-Event-Log-Messages",
-    "url": "https://github.com/nsacyber/Windows-Event-Log-Messages"
-   }
-  },
-  {
-   "key": "nsacyber/unfetter",
-   "source": "oss-nsacyber",
-   "fields": {
-    "archived": "true",
-    "date": "2020-05-11T02:21:07Z",
-    "description": "Identifies defensive gaps in security posture by leveraging Mitre's ATT\u0026CK framework. #nsacyber",
-    "stars": "164",
-    "text": "nsacyber/unfetter",
-    "title": "nsacyber/unfetter",
-    "url": "https://github.com/nsacyber/unfetter"
-   }
-  },
-  {
-   "key": "nsacyber/netman",
-   "source": "oss-nsacyber",
-   "fields": {
-    "archived": "true",
-    "date": "2016-11-29T21:50:54Z",
-    "description": "A userland network manager with monitoring and limiting capabilities for macOS. #nsacyber",
-    "stars": "82",
-    "text": "nsacyber/netman",
-    "title": "nsacyber/netman",
-    "url": "https://github.com/nsacyber/netman"
-   }
-  },
-  {
-   "key": "nsacyber/netfil",
-   "source": "oss-nsacyber",
-   "fields": {
-    "archived": "true",
-    "date": "2017-03-16T16:10:30Z",
-    "description": "A kernel network manager with monitoring and limiting capabilities for macOS. #nsacyber",
-    "stars": "113",
-    "text": "nsacyber/netfil",
-    "title": "nsacyber/netfil",
-    "url": "https://github.com/nsacyber/netfil"
-   }
-  },
-  {
    "key": "nsacyber/nsacyber.github.io",
    "source": "oss-nsacyber",
    "fields": {
-    "archived": "false",
     "date": "2024-08-17T01:49:22Z",
     "description": "NSA Cybersecurity. Formerly known as NSA Information Assurance and the Information Assurance Directorate",
     "stars": "295",
@@ -1617,101 +4012,9 @@
    }
   },
   {
-   "key": "nsacyber/WALKOFF-Apps",
-   "source": "oss-nsacyber",
-   "fields": {
-    "archived": "true",
-    "date": "2019-03-14T19:06:45Z",
-    "description": "WALKOFF-enabled applications. #nsacyber",
-    "stars": "143",
-    "text": "nsacyber/WALKOFF-Apps",
-    "title": "nsacyber/WALKOFF-Apps",
-    "url": "https://github.com/nsacyber/WALKOFF-Apps"
-   }
-  },
-  {
-   "key": "nsacyber/AtomicWatch",
-   "source": "oss-nsacyber",
-   "fields": {
-    "archived": "true",
-    "date": "2017-06-10T00:20:43Z",
-    "description": "Intel Atom C2000 series discovery tool that parses log files and returns results if a positive match is found. #nsacyber",
-    "stars": "28",
-    "text": "nsacyber/AtomicWatch",
-    "title": "nsacyber/AtomicWatch",
-    "url": "https://github.com/nsacyber/AtomicWatch"
-   }
-  },
-  {
-   "key": "nsacyber/serial2pcap",
-   "source": "oss-nsacyber",
-   "fields": {
-    "archived": "true",
-    "date": "2017-10-25T19:25:32Z",
-    "description": "Converts serial IP data, typically collected from Industrial Control System devices, to the more commonly used Packet Capture (PCAP) format. #nsacyber",
-    "stars": "82",
-    "text": "nsacyber/serial2pcap",
-    "title": "nsacyber/serial2pcap",
-    "url": "https://github.com/nsacyber/serial2pcap"
-   }
-  },
-  {
-   "key": "nsacyber/Driver-Collider",
-   "source": "oss-nsacyber",
-   "fields": {
-    "archived": "true",
-    "date": "2017-12-18T16:49:11Z",
-    "description": "Blocks drivers from loading by using a name collision technique. #nsacyber",
-    "stars": "50",
-    "text": "nsacyber/Driver-Collider",
-    "title": "nsacyber/Driver-Collider",
-    "url": "https://github.com/nsacyber/Driver-Collider"
-   }
-  },
-  {
-   "key": "nsacyber/HTTP-Connectivity-Tester",
-   "source": "oss-nsacyber",
-   "fields": {
-    "archived": "true",
-    "date": "2021-02-19T23:11:16Z",
-    "description": "Aids in discovering HTTP and HTTPS connectivity issues. #nsacyber",
-    "stars": "115",
-    "text": "nsacyber/HTTP-Connectivity-Tester",
-    "title": "nsacyber/HTTP-Connectivity-Tester",
-    "url": "https://github.com/nsacyber/HTTP-Connectivity-Tester"
-   }
-  },
-  {
-   "key": "nsacyber/CodeGov",
-   "source": "oss-nsacyber",
-   "fields": {
-    "archived": "true",
-    "date": "2019-01-16T22:22:26Z",
-    "description": "Creates a code.gov code inventory JSON file based on GitHub repository information. #nsacyber",
-    "stars": "30",
-    "text": "nsacyber/CodeGov",
-    "title": "nsacyber/CodeGov",
-    "url": "https://github.com/nsacyber/CodeGov"
-   }
-  },
-  {
-   "key": "nsacyber/Detect-CVE-2017-15361-TPM",
-   "source": "oss-nsacyber",
-   "fields": {
-    "archived": "true",
-    "date": "2018-09-04T21:35:36Z",
-    "description": "Detects Windows and Linux systems with enabled Trusted Platform Modules (TPM) vulnerable to CVE-2017-15361. #nsacyber",
-    "stars": "61",
-    "text": "nsacyber/Detect-CVE-2017-15361-TPM",
-    "title": "nsacyber/Detect-CVE-2017-15361-TPM",
-    "url": "https://github.com/nsacyber/Detect-CVE-2017-15361-TPM"
-   }
-  },
-  {
    "key": "nsacyber/Hardware-and-Firmware-Security-Guidance",
    "source": "oss-nsacyber",
    "fields": {
-    "archived": "false",
     "date": "2024-12-23T21:28:31Z",
     "description": "Guidance for the Spectre, Meltdown, Speculative Store Bypass, Rogue System Register Read, Lazy FP State Restore, Bounds Check Bypass Store, TLBleed, and L1TF/Foreshadow vulnerabilities as well as general hardware and firmware security guidance. #nsacyber",
     "stars": "868",
@@ -1724,7 +4027,6 @@
    "key": "nsacyber/HIRS",
    "source": "oss-nsacyber",
    "fields": {
-    "archived": "false",
     "date": "2026-06-10T23:04:51Z",
     "description": "Trusted Computing based services supporting TPM provisioning and supply chain validation concepts. #nsacyber",
     "stars": "211",
@@ -1734,23 +4036,9 @@
    }
   },
   {
-   "key": "nsacyber/BitLocker-Guidance",
-   "source": "oss-nsacyber",
-   "fields": {
-    "archived": "true",
-    "date": "2019-07-24T12:37:17Z",
-    "description": "Configuration guidance for implementing BitLocker. #nsacyber",
-    "stars": "128",
-    "text": "nsacyber/BitLocker-Guidance",
-    "title": "nsacyber/BitLocker-Guidance",
-    "url": "https://github.com/nsacyber/BitLocker-Guidance"
-   }
-  },
-  {
    "key": "nsacyber/paccor",
    "source": "oss-nsacyber",
    "fields": {
-    "archived": "false",
     "date": "2026-06-02T12:31:01Z",
     "description": "The Platform Attribute Certificate Creator can gather component details, create, sign, and validate the TCG-defined Platform Credential. #nsacyber",
     "stars": "76",
@@ -1763,7 +4051,6 @@
    "key": "nsacyber/BAM",
    "source": "oss-nsacyber",
    "fields": {
-    "archived": "false",
     "date": "2024-05-02T21:40:04Z",
     "description": "The Binary Analysis Metadata tool gathers information about Windows binaries to aid in their analysis. #nsacyber",
     "stars": "167",
@@ -1773,23 +4060,9 @@
    }
   },
   {
-   "key": "nsacyber/Blocking-Outdated-Web-Technologies",
-   "source": "oss-nsacyber",
-   "fields": {
-    "archived": "true",
-    "date": "2021-12-09T02:52:00Z",
-    "description": "Guidance for blocking outdated web technologies. #nsacyber",
-    "stars": "63",
-    "text": "nsacyber/Blocking-Outdated-Web-Technologies",
-    "title": "nsacyber/Blocking-Outdated-Web-Technologies",
-    "url": "https://github.com/nsacyber/Blocking-Outdated-Web-Technologies"
-   }
-  },
-  {
    "key": "nsacyber/RandPassGenerator",
    "source": "oss-nsacyber",
    "fields": {
-    "archived": "false",
     "date": "2023-12-22T13:59:05Z",
     "description": "A command-line utility  for generating random passwords, passphrases, and raw keys. #nsacyber",
     "stars": "151",
@@ -1799,23 +4072,9 @@
    }
   },
   {
-   "key": "nsacyber/PRUNE",
-   "source": "oss-nsacyber",
-   "fields": {
-    "archived": "true",
-    "date": "2022-12-08T05:50:30Z",
-    "description": "Logs key Windows process performance metrics. #nsacyber",
-    "stars": "71",
-    "text": "nsacyber/PRUNE",
-    "title": "nsacyber/PRUNE",
-    "url": "https://github.com/nsacyber/PRUNE"
-   }
-  },
-  {
    "key": "nsacyber/Mitigating-Web-Shells",
    "source": "oss-nsacyber",
    "fields": {
-    "archived": "false",
     "date": "2023-06-18T07:48:07Z",
     "description": "Guidance for mitigation web shells. #nsacyber",
     "stars": "979",
@@ -1825,36 +4084,9 @@
    }
   },
   {
-   "key": "nsacyber/Mitigating-Obsolete-TLS",
-   "source": "oss-nsacyber",
-   "fields": {
-    "archived": "true",
-    "date": "2021-02-03T15:26:47Z",
-    "description": "Guidance for mitigating obsolete Transport Layer Security configurations. #nsacyber",
-    "stars": "273",
-    "text": "nsacyber/Mitigating-Obsolete-TLS",
-    "title": "nsacyber/Mitigating-Obsolete-TLS",
-    "url": "https://github.com/nsacyber/Mitigating-Obsolete-TLS"
-   }
-  },
-  {
-   "key": "nsacyber/Chinese-State-Sponsored-Cyber-Operations-Observed-TTPs",
-   "source": "oss-nsacyber",
-   "fields": {
-    "archived": "true",
-    "date": "2021-07-19T11:49:00Z",
-    "description": "Supporting files for the Chinese State-Sponsored Cyber Operations: Observed TTPs Cybersecurity Advisory. #nsacyber",
-    "stars": "48",
-    "text": "nsacyber/Chinese-State-Sponsored-Cyber-Operations-Observed-TTPs",
-    "title": "nsacyber/Chinese-State-Sponsored-Cyber-Operations-Observed-TTPs",
-    "url": "https://github.com/nsacyber/Chinese-State-Sponsored-Cyber-Operations-Observed-TTPs"
-   }
-  },
-  {
    "key": "nsacyber/ELITEWOLF",
    "source": "oss-nsacyber",
    "fields": {
-    "archived": "false",
     "date": "2024-01-07T18:44:45Z",
     "description": "OT security monitoring #nsacyber",
     "stars": "637",
@@ -1867,7 +4099,6 @@
    "key": "nsacyber/RIM-Tool",
    "source": "oss-nsacyber",
    "fields": {
-    "archived": "false",
     "date": "2026-06-04T18:39:49Z",
     "description": "A tool to create TCG Reference Integrity Manifest (RIM) files for use with attestation verifiers like HIRS.",
     "stars": "7",

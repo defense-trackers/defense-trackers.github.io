@@ -1,73 +1,203 @@
 {
  "source": "nipr-matrix",
  "tracker": "nipr-matrix",
- "fetched_at": "2026-06-11T03:22:15Z",
+ "fetched_at": "2026-06-11T04:14:59Z",
  "schema_version": 1,
  "records": [
   {
    "key": "GenAI.mil",
    "source": "nipr-matrix",
    "fields": {
+    "access": "CAC / account",
     "as_of": "2026-06",
-    "data_ceiling": "CUI",
+    "data_ceiling": "up to IL5",
     "network": "NIPR",
     "service": "DoD enterprise",
-    "status": "live",
+    "status": "live (launched Dec 2025; 1.1M users by Feb 2026)",
     "text": "GenAI.mil",
     "tool": "GenAI.mil",
-    "url": "https://genai.mil"
+    "url": "https://genai.mil",
+    "vendor": "DoD CDAO (Gemini, xAI, OpenAI, Anthropic)"
+   }
+  },
+  {
+   "key": "Google Gemini for Government",
+   "source": "nipr-matrix",
+   "fields": {
+    "access": "account",
+    "as_of": "2026-06",
+    "data_ceiling": "up to IL5",
+    "network": "GenAI.mil (NIPR)",
+    "service": "DoD / federal",
+    "status": "live (first model on GenAI.mil)",
+    "text": "Google Gemini for Government",
+    "tool": "Google Gemini for Government",
+    "vendor": "Google Public Sector"
+   }
+  },
+  {
+   "key": "xAI for Government",
+   "source": "nipr-matrix",
+   "fields": {
+    "access": "account",
+    "as_of": "2026-06",
+    "data_ceiling": "PUBLIC / CUI",
+    "network": "GenAI.mil (NIPR)",
+    "service": "DoD",
+    "status": "live",
+    "text": "xAI for Government",
+    "tool": "xAI for Government",
+    "vendor": "xAI"
+   }
+  },
+  {
+   "key": "Army Enterprise LLM Workspace",
+   "source": "nipr-matrix",
+   "fields": {
+    "access": "account",
+    "as_of": "2026-06",
+    "data_ceiling": "CUI / IL4",
+    "network": "NIPR",
+    "service": "Army (+ Joint Staff, OSD, CCMDs)",
+    "status": "live ($49M IDIQ)",
+    "text": "Army Enterprise LLM Workspace",
+    "tool": "Army Enterprise LLM Workspace",
+    "vendor": "Ask Sage"
    }
   },
   {
    "key": "CamoGPT",
    "source": "nipr-matrix",
    "fields": {
+    "access": "account",
     "as_of": "2026-06",
-    "data_ceiling": "CUI",
-    "network": "NIPR / SIPR",
-    "service": "Army",
-    "status": "live (R\u0026D platform)",
-    "text": "CamoGPT",
-    "tool": "CamoGPT"
-   }
-  },
-  {
-   "key": "Army Enterprise LLM Workspace (Ask Sage)",
-   "source": "nipr-matrix",
-   "fields": {
-    "as_of": "2026-06",
-    "data_ceiling": "CUI",
+    "data_ceiling": "CUI / IL4",
     "network": "NIPR",
     "service": "Army",
-    "status": "live (FedRAMP High)",
-    "text": "Army Enterprise LLM Workspace (Ask Sage)",
-    "tool": "Army Enterprise LLM Workspace (Ask Sage)"
+    "status": "live (now R\u0026D; secondary to Ask Sage workspace)",
+    "text": "CamoGPT",
+    "tool": "CamoGPT",
+    "vendor": "Army AI Integration Center (in-house)"
    }
   },
   {
    "key": "NIPRGPT",
    "source": "nipr-matrix",
    "fields": {
+    "access": "account",
     "as_of": "2026-06",
-    "data_ceiling": "PUBLIC",
+    "data_ceiling": "PUBLIC / CUI",
     "network": "NIPR",
     "service": "Air Force",
     "status": "sunset 2025-12-31 -\u003e GenAI.mil",
     "text": "NIPRGPT",
-    "tool": "NIPRGPT"
+    "tool": "NIPRGPT",
+    "vendor": "AFRL (in-house)"
    }
   },
   {
-   "key": "Ask Hamilton",
+   "key": "ChatDIA",
    "source": "nipr-matrix",
    "fields": {
+    "access": "CAC + clearance",
     "as_of": "2026-06",
-    "data_ceiling": "CUI",
-    "network": "NIPR",
-    "service": "USCG",
-    "status": "live",
-    "text": "Ask Hamilton",
-    "tool": "Ask Hamilton"
+    "data_ceiling": "TS/SCI",
+    "network": "JWICS (classified)",
+    "service": "Defense Intelligence Agency",
+    "status": "live (full deployment Dec 2025)",
+    "text": "ChatDIA",
+    "tool": "ChatDIA",
+    "vendor": "DIA (in-house)"
+   }
+  },
+  {
+   "key": "Microsoft 365 Copilot",
+   "source": "nipr-matrix",
+   "fields": {
+    "access": "account",
+    "as_of": "2026-06",
+    "data_ceiling": "CUI / IL5",
+    "network": "GCC-High / IL5",
+    "service": "Federal / DoD",
+    "status": "live (web grounding off by default for CUI)",
+    "text": "Microsoft 365 Copilot",
+    "tool": "Microsoft 365 Copilot",
+    "vendor": "Microsoft"
+   }
+  },
+  {
+   "key": "ChatGPT Gov",
+   "source": "nipr-matrix",
+   "fields": {
+    "access": "account",
+    "as_of": "2026-06",
+    "data_ceiling": "CUI / IL5",
+    "network": "Azure GCC-High / IL5",
+    "service": "DoD / CDAO",
+    "status": "live ($200M CDAO award)",
+    "text": "ChatGPT Gov",
+    "tool": "ChatGPT Gov",
+    "vendor": "OpenAI (Azure IL5)"
+   }
+  },
+  {
+   "key": "Claude Gov",
+   "source": "nipr-matrix",
+   "fields": {
+    "access": "GSA schedule (Carahsoft)",
+    "as_of": "2026-06",
+    "data_ceiling": "up to IL6",
+    "network": "FedRAMP High / AWS Secret",
+    "service": "National security / all branches",
+    "status": "live (first frontier model approved for classified)",
+    "text": "Claude Gov",
+    "tool": "Claude Gov",
+    "vendor": "Anthropic (AWS)"
+   }
+  },
+  {
+   "key": "Scale Donovan",
+   "source": "nipr-matrix",
+   "fields": {
+    "access": "account",
+    "as_of": "2026-06",
+    "data_ceiling": "CUI / classified",
+    "network": "NIPR / SIPR",
+    "service": "DoD / CDAO",
+    "status": "live ($500M ceiling OTA)",
+    "text": "Scale Donovan",
+    "tool": "Scale Donovan",
+    "vendor": "Scale AI"
+   }
+  },
+  {
+   "key": "Defense Llama",
+   "source": "nipr-matrix",
+   "fields": {
+    "access": "account (via Scale)",
+    "as_of": "2026-06",
+    "data_ceiling": "CUI / classified",
+    "network": "NIPR / SIPR",
+    "service": "DoD",
+    "status": "live (beta)",
+    "text": "Defense Llama",
+    "tool": "Defense Llama",
+    "vendor": "Scale AI / Meta"
+   }
+  },
+  {
+   "key": "Palantir AIP",
+   "source": "nipr-matrix",
+   "fields": {
+    "access": "contract",
+    "as_of": "2026-06",
+    "data_ceiling": "CUI / classified (IL4+)",
+    "network": "government",
+    "service": "DoD (contract-dependent)",
+    "status": "live (multiple DoD deployments)",
+    "text": "Palantir AIP",
+    "tool": "Palantir AIP",
+    "vendor": "Palantir"
    }
   }
  ]

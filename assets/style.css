@@ -166,6 +166,7 @@ section + section { margin-top: 2.6rem; }
 .track-id { margin-left: .5rem; }
 .track-msg { margin-top: .25rem; font-size: .8rem; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .track-status { flex: none; align-self: center; }
+.track-desc-line { font-size: .88rem; color: var(--ink-2); margin-top: .35rem; max-width: 78ch; }
 
 /* ---- the signal light: signature element --------------------------------- */
 .badge {

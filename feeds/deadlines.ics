@@ -3,6 +3,30 @@ VERSION:2.0
 PRODID:-//defense-trackers//deadlines//EN
 X-WR-CALNAME:deadlines
 BEGIN:VEVENT
+UID:afcea-west-2027@defense-trackers
+DTSTART;VALUE=DATE:20270126
+SUMMARY:AFCEA WEST 2027
+URL:https://www.westconference.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:ausa-global-2026@defense-trackers
+DTSTART;VALUE=DATE:20260331
+SUMMARY:AUSA Global Force Symposium 2026
+URL:https://meetings.ausa.org/global/
+END:VEVENT
+BEGIN:VEVENT
+UID:sea-air-space-2026@defense-trackers
+DTSTART;VALUE=DATE:20260406
+SUMMARY:Sea-Air-Space 2026
+URL:https://seaairspace.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:xtechsearch-2026@defense-trackers
+DTSTART;VALUE=DATE:20260701
+SUMMARY:Army xTechSearch (rolling competition window)
+URL:https://www.xtech.army.mil/
+END:VEVENT
+BEGIN:VEVENT
 UID:ausa-annual-2026@defense-trackers
 DTSTART;VALUE=DATE:20261012
 SUMMARY:AUSA Annual Meeting & Exposition 2026
