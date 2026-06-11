@@ -9,6 +9,8 @@ on:
 permissions:
   contents: write
   issues: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: update
@@ -17,6 +19,9 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - name: Checkout site (self)
         uses: actions/checkout@v4
@@ -75,3 +80,16 @@ jobs:
             --title "data degraded $(date -u +%F)" \
             --body "One or more sources degraded or quarantined in run ${{ github.run_id }}. Last-good data was left live." \
             || true
+
+      # Deploy to Pages from this same run — a token-pushed data commit would not
+      # trigger the standalone pages workflow, so publish here directly.
+      - uses: actions/configure-pages@v5
+      - name: Stage site
+        run: |
+          mkdir -p _site
+          rsync -a --exclude='.git' --exclude='_site' --exclude='.github' --exclude='.engine' ./ _site/
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deploy
+        uses: actions/deploy-pages@v4
