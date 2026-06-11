@@ -250,6 +250,12 @@ section + section { margin-top: 2.6rem; }
 .report-table .col-name { font-weight: 600; max-width: 40ch; }
 .report-table td:not(.col-name) { color: var(--ink-2); }
 .report-table th.num, .report-table td.num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.report-table th { cursor: pointer; user-select: none; }
+.report-table th:hover { color: var(--ink-2); }
+.sort-arrow { color: var(--brand); font-size: .7em; }
+.filter-box { width: 100%; max-width: 440px; margin: 0 0 1.3rem; padding: .55rem .8rem; background: var(--panel); border: 1px solid var(--line-2); border-radius: 8px; color: var(--ink); font: inherit; font-size: .9rem; }
+.filter-box:focus { outline: 2px solid var(--brand); outline-offset: 1px; }
+.filter-box::placeholder { color: var(--dim); }
 
 /* ---- prose (methodology) ------------------------------------------------- */
 .prose h2 { color: var(--ink); text-transform: none; letter-spacing: -.01em; font-size: 1.15rem; margin-top: 2rem; }

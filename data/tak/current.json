@@ -1,9 +1,345 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-06-11T04:18:22Z",
+ "fetched_at": "2026-06-11T04:47:55Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "snstac/dronecot",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-06-11T01:33:02Z",
+    "description": "DroneCOT is software for monitoring and analyzing Direct Remote Identification (DRI), Remote ID (RID) or Open Drone ID (ODID) broadcasts from Uncrewed Aircraft (UA) via the Team Awareness Kit (TAK) ecosystem of products.",
+    "stars": "31",
+    "text": "snstac/dronecot",
+    "title": "snstac/dronecot",
+    "url": "https://github.com/snstac/dronecot"
+   }
+  },
+  {
+   "key": "engindearing-projects/OmniTAK-Android",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-06-11T00:26:04Z",
+    "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
+    "stars": "10",
+    "text": "engindearing-projects/OmniTAK-Android",
+    "title": "engindearing-projects/OmniTAK-Android",
+    "url": "https://github.com/engindearing-projects/OmniTAK-Android"
+   }
+  },
+  {
+   "key": "engindearing-projects/OmniTAK-iOS",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-06-11T00:26:03Z",
+    "description": "Open-source TAK (Team Awareness Kit) client for iPhone and iPad. Swift + SwiftUI. Apache 2.0.",
+    "stars": "5",
+    "text": "engindearing-projects/OmniTAK-iOS",
+    "title": "engindearing-projects/OmniTAK-iOS",
+    "url": "https://github.com/engindearing-projects/OmniTAK-iOS"
+   }
+  },
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-06-11T04:13:28Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "41",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
+  {
+   "key": "newtypeind/atak-mcp",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-06-09T04:57:12Z",
+    "description": "Drive ATAK (Android Team Awareness Kit) and its plugins over adb without blind taps: CLI + MCP server (uvx-installable).",
+    "stars": "1",
+    "text": "newtypeind/atak-mcp",
+    "title": "newtypeind/atak-mcp",
+    "url": "https://github.com/newtypeind/atak-mcp"
+   }
+  },
+  {
+   "key": "snstac/pytak",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-06-08T14:51:39Z",
+    "description": "PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.",
+    "stars": "240",
+    "text": "snstac/pytak",
+    "title": "snstac/pytak",
+    "url": "https://github.com/snstac/pytak"
+   }
+  },
+  {
+   "key": "joshuafuller/SRTM2TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-06-02T04:37:30Z",
+    "description": "Progressive Web App to download and package SRTM elevation data for ATAK (Android Team Awareness Kit). Features offline caching, concurrent downloads, and automatic ZIP packaging for direct import into ATAK.",
+    "stars": "8",
+    "text": "joshuafuller/SRTM2TAK",
+    "title": "joshuafuller/SRTM2TAK",
+    "url": "https://github.com/joshuafuller/SRTM2TAK"
+   }
+  },
+  {
+   "key": "flighttactics/SwiftTAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-06-01T12:57:14Z",
+    "description": "SwiftTAK (Team Awareness Kit) is a Swift Package for exchanging information with TAK Products",
+    "stars": "27",
+    "text": "flighttactics/SwiftTAK",
+    "title": "flighttactics/SwiftTAK",
+    "url": "https://github.com/flighttactics/SwiftTAK"
+   }
+  },
+  {
+   "key": "copyleftdev/tak-rs",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-04-29T06:19:09Z",
+    "description": "High-performance Rust kernel for the TAK (Team Awareness Kit) ecosystem — drop-in replacement for the messaging core of the Java TAK Server. Cursor-on-Target (CoT) over mTLS, single-node firehose at 10k+ concurrent clients. Compatible with ATAK, iTAK, WinTAK.",
+    "stars": "1",
+    "text": "copyleftdev/tak-rs",
+    "title": "copyleftdev/tak-rs",
+    "url": "https://github.com/copyleftdev/tak-rs"
+   }
+  },
+  {
+   "key": "coreywagehoft/go-tak",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-04-23T23:15:36Z",
+    "description": "Go package for Team Awareness Kit (TAK) integration",
+    "stars": "1",
+    "text": "coreywagehoft/go-tak",
+    "title": "coreywagehoft/go-tak",
+    "url": "https://github.com/coreywagehoft/go-tak"
+   }
+  },
+  {
+   "key": "emfoursolutions/trakbridge",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-06-08T13:09:23Z",
+    "description": "A comprehensive web application for bridging tracking devices and services to TAK (Team Awareness Kit) servers.",
+    "stars": "37",
+    "text": "emfoursolutions/trakbridge",
+    "title": "emfoursolutions/trakbridge",
+    "url": "https://github.com/emfoursolutions/trakbridge"
+   }
+  },
+  {
+   "key": "rixau/atak-reactive",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-04-09T16:53:39Z",
+    "description": "Build ATAK (Android Team Awareness Kit) plugin UIs with React and TypeScript. Typed WebView bridge, hot reload, incremental adoption.",
+    "stars": "2",
+    "text": "rixau/atak-reactive",
+    "title": "rixau/atak-reactive",
+    "url": "https://github.com/rixau/atak-reactive"
+   }
+  },
+  {
+   "key": "ksoodevelopper/Civ-ATACK-ITAK-JTACK-Syst-me",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-03-30T23:25:40Z",
+    "description": "Team Awareness Kit - Civil (ATAK-Civ)",
+    "stars": "0",
+    "text": "ksoodevelopper/Civ-ATACK-ITAK-JTACK-Syst-me",
+    "title": "ksoodevelopper/Civ-ATACK-ITAK-JTACK-Syst-me",
+    "url": "https://github.com/ksoodevelopper/Civ-ATACK-ITAK-JTACK-Syst-me"
+   }
+  },
+  {
+   "key": "veil-protocol/BTAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-03-27T20:59:20Z",
+    "description": "BTAK or Blue Team Awareness Kit is a mapping product aimed to provide realtime insight similar to global attack maps but at the network level",
+    "stars": "1",
+    "text": "veil-protocol/BTAK",
+    "title": "veil-protocol/BTAK",
+    "url": "https://github.com/veil-protocol/BTAK"
+   }
+  },
+  {
+   "key": "C2A2-at-Florida-Atlantic-University/RTAK-V2",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-03-26T22:29:34Z",
+    "description": "RTAK V2 brings the decentralized versatility of the Reticulum Network Stack to the Android Team Awareness Kit by serving as a bridge between it and RNS' secure heterogenous mesh networking stack.",
+    "stars": "3",
+    "text": "C2A2-at-Florida-Atlantic-University/RTAK-V2",
+    "title": "C2A2-at-Florida-Atlantic-University/RTAK-V2",
+    "url": "https://github.com/C2A2-at-Florida-Atlantic-University/RTAK-V2"
+   }
+  },
+  {
+   "key": "xuha233/project-team-kit",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-02-23T19:13:35Z",
+    "description": "A complete, context-aware project handoff and 4-member AI agent team collaboration system with MCP-like interface",
+    "stars": "0",
+    "text": "xuha233/project-team-kit",
+    "title": "xuha233/project-team-kit",
+    "url": "https://github.com/xuha233/project-team-kit"
+   }
+  },
+  {
+   "key": "5hay196/reticulum-atak-tango",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-02-23T00:45:51Z",
+    "description": "Reticulum mesh networking integration with ATAK (Android Team Awareness Kit) and Project Tango devices — hardware compatibility, CoT bridging, plugin architecture, and 3D sensor fusion for off-grid situational awareness.",
+    "stars": "1",
+    "text": "5hay196/reticulum-atak-tango",
+    "title": "5hay196/reticulum-atak-tango",
+    "url": "https://github.com/5hay196/reticulum-atak-tango"
+   }
+  },
+  {
+   "key": "jwdinius/taktile",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-01-03T17:29:00Z",
+    "description": "C++ Client Library for Team Awareness Kit (TAK)",
+    "stars": "0",
+    "text": "jwdinius/taktile",
+    "title": "jwdinius/taktile",
+    "url": "https://github.com/jwdinius/taktile"
+   }
+  },
+  {
+   "key": "catsmells/LTAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2025-12-13T19:36:30Z",
+    "description": "Linux-based Team Awareness Kit",
+    "stars": "3",
+    "text": "catsmells/LTAK",
+    "title": "catsmells/LTAK",
+    "url": "https://github.com/catsmells/LTAK"
+   }
+  },
+  {
+   "key": "mardzie/FossTeamAwarenessKit",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2025-12-12T14:21:44Z",
+    "description": "FOSSTAK helps you and your team coordinate your operations and plans.",
+    "stars": "0",
+    "text": "mardzie/FossTeamAwarenessKit",
+    "title": "mardzie/FossTeamAwarenessKit",
+    "url": "https://github.com/mardzie/FossTeamAwarenessKit"
+   }
+  },
+  {
+   "key": "alex-podolian-impressit/helloWorldPlugin",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2025-10-03T10:55:51Z",
+    "description": "Playground for getting familiar with Android Team Awareness Kit (ATAK-CIV)",
+    "stars": "0",
+    "text": "alex-podolian-impressit/helloWorldPlugin",
+    "title": "alex-podolian-impressit/helloWorldPlugin",
+    "url": "https://github.com/alex-podolian-impressit/helloWorldPlugin"
+   }
+  },
+  {
+   "key": "TAK-NZ/tak-deploy",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2025-08-21T18:35:45Z",
+    "description": "One-line installer for TAK (Team Awareness Kit) infrastructure on AWS",
+    "stars": "1",
+    "text": "TAK-NZ/tak-deploy",
+    "title": "TAK-NZ/tak-deploy",
+    "url": "https://github.com/TAK-NZ/tak-deploy"
+   }
+  },
+  {
+   "key": "abhinavkumar985/code-instructions-kit",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2025-07-06T16:42:40Z",
+    "description": "A structured, plug-and-play instruction kit to enhance Gemini CLI's coding output with framework-specific, scalable, and team-aligned guidelines — enabling project-aware AI development.",
+    "stars": "23",
+    "text": "abhinavkumar985/code-instructions-kit",
+    "title": "abhinavkumar985/code-instructions-kit",
+    "url": "https://github.com/abhinavkumar985/code-instructions-kit"
+   }
+  },
+  {
+   "key": "JShadowNull/TAK-Manager",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2025-04-02T19:43:50Z",
+    "description": "A comprehensive TAK Server management solution providing a modern web interface for managing and monitoring TAK (Team Awareness Kit) servers.",
+    "stars": "21",
+    "text": "JShadowNull/TAK-Manager",
+    "title": "JShadowNull/TAK-Manager",
+    "url": "https://github.com/JShadowNull/TAK-Manager"
+   }
+  },
+  {
+   "key": "clptak/node-red-contrib-tfr2cot",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2025-03-30T14:13:42Z",
+    "description": "Requests TFR List for a given state from https://tfr.faa.gov/ and creates cursor-on-target (CoT) polygon messages sent to a Team Awareness Kit (TAK) Server or network",
+    "stars": "1",
+    "text": "clptak/node-red-contrib-tfr2cot",
+    "title": "clptak/node-red-contrib-tfr2cot",
+    "url": "https://github.com/clptak/node-red-contrib-tfr2cot"
+   }
+  },
+  {
+   "key": "v-fol/atak-signal-bot",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2024-12-15T20:17:51Z",
+    "description": "A Signal bot that sends geolocation and target information (CoT) to an ATAK (Android Team Awareness Kit) client",
+    "stars": "8",
+    "text": "v-fol/atak-signal-bot",
+    "title": "v-fol/atak-signal-bot",
+    "url": "https://github.com/v-fol/atak-signal-bot"
+   }
+  },
+  {
+   "key": "westpoint-robotics/moos-tak",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2024-01-29T17:08:10Z",
+    "description": "Ability to send Team Awareness Kit (TAK) cursor on target (COT) messages from the MOOS robot middleware.",
+    "stars": "1",
+    "text": "westpoint-robotics/moos-tak",
+    "title": "westpoint-robotics/moos-tak",
+    "url": "https://github.com/westpoint-robotics/moos-tak"
+   }
+  },
+  {
+   "key": "raytheonbbn/tak-cad",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2023-10-03T12:28:02Z",
+    "description": "TAK-CAD is an Android Team Awareness Kit (ATAK) plugin that provides Computer Aided Dispatch capabilities to security force and public safety personnel executing dispatch operations.",
+    "stars": "35",
+    "text": "raytheonbbn/tak-cad",
+    "title": "raytheonbbn/tak-cad",
+    "url": "https://github.com/raytheonbbn/tak-cad"
+   }
+  },
   {
    "key": "FreeTAKTeam/FreeTakServer",
    "source": "tak-freetak",

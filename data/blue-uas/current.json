@@ -1,7 +1,7 @@
 {
  "source": "blue-uas",
  "tracker": "blue-uas",
- "fetched_at": "2026-06-11T04:17:45Z",
+ "fetched_at": "2026-06-11T04:46:47Z",
  "schema_version": 1,
  "records": [
   {
@@ -147,6 +147,18 @@
    }
   },
   {
+   "key": "Auterion Skynode",
+   "source": "blue-uas-parts",
+   "fields": {
+    "category": "Autopilot + compute",
+    "component": "Auterion Skynode",
+    "country": "US / CH",
+    "framework_status": "verify",
+    "manufacturer": "Auterion",
+    "text": "Auterion Skynode"
+   }
+  },
+  {
    "key": "ARK GPS",
    "source": "blue-uas-parts",
    "fields": {
@@ -159,15 +171,63 @@
    }
   },
   {
-   "key": "Doodle Labs Helix",
+   "key": "Septentrio / u-blox GNSS",
+   "source": "blue-uas-parts",
+   "fields": {
+    "category": "GNSS module",
+    "component": "Septentrio / u-blox GNSS",
+    "country": "BE / CH",
+    "framework_status": "verify",
+    "manufacturer": "Septentrio / u-blox",
+    "text": "Septentrio / u-blox GNSS"
+   }
+  },
+  {
+   "key": "Doodle Labs Helix / Smart Radio",
    "source": "blue-uas-parts",
    "fields": {
     "category": "Data link",
-    "component": "Doodle Labs Helix",
+    "component": "Doodle Labs Helix / Smart Radio",
     "country": "US / SG",
     "framework_status": "verify",
     "manufacturer": "Doodle Labs",
-    "text": "Doodle Labs Helix"
+    "text": "Doodle Labs Helix / Smart Radio"
+   }
+  },
+  {
+   "key": "Silvus StreamCaster",
+   "source": "blue-uas-parts",
+   "fields": {
+    "category": "Data link (MANET)",
+    "component": "Silvus StreamCaster",
+    "country": "US",
+    "framework_status": "verify",
+    "manufacturer": "Silvus Technologies",
+    "text": "Silvus StreamCaster"
+   }
+  },
+  {
+   "key": "Persistent Systems MPU5",
+   "source": "blue-uas-parts",
+   "fields": {
+    "category": "Data link (MANET)",
+    "component": "Persistent Systems MPU5",
+    "country": "US",
+    "framework_status": "verify",
+    "manufacturer": "Persistent Systems",
+    "text": "Persistent Systems MPU5"
+   }
+  },
+  {
+   "key": "Mobilicom MCU / SkyHopper",
+   "source": "blue-uas-parts",
+   "fields": {
+    "category": "Data link + cyber",
+    "component": "Mobilicom MCU / SkyHopper",
+    "country": "IL / US / AUS",
+    "framework_status": "verify",
+    "manufacturer": "Mobilicom",
+    "text": "Mobilicom MCU / SkyHopper"
    }
   },
   {
@@ -183,6 +243,66 @@
    }
   },
   {
+   "key": "NVIDIA Jetson Orin (carrier)",
+   "source": "blue-uas-parts",
+   "fields": {
+    "category": "Autonomy compute",
+    "component": "NVIDIA Jetson Orin (carrier)",
+    "country": "US",
+    "framework_status": "verify",
+    "manufacturer": "NVIDIA (US carriers)",
+    "text": "NVIDIA Jetson Orin (carrier)"
+   }
+  },
+  {
+   "key": "NextVision Dragoneye / Raptor",
+   "source": "blue-uas-parts",
+   "fields": {
+    "category": "EO/IR gimbal camera",
+    "component": "NextVision Dragoneye / Raptor",
+    "country": "IL",
+    "framework_status": "verify",
+    "manufacturer": "NextVision",
+    "text": "NextVision Dragoneye / Raptor"
+   }
+  },
+  {
+   "key": "Sierra-Olympia / Teledyne FLIR",
+   "source": "blue-uas-parts",
+   "fields": {
+    "category": "Thermal camera",
+    "component": "Sierra-Olympia / Teledyne FLIR",
+    "country": "US",
+    "framework_status": "verify",
+    "manufacturer": "Sierra-Olympia / Teledyne FLIR",
+    "text": "Sierra-Olympia / Teledyne FLIR"
+   }
+  },
+  {
+   "key": "Hood Tech Alticam",
+   "source": "blue-uas-parts",
+   "fields": {
+    "category": "Gimbal / imaging",
+    "component": "Hood Tech Alticam",
+    "country": "US",
+    "framework_status": "verify",
+    "manufacturer": "Hood Tech Vision",
+    "text": "Hood Tech Alticam"
+   }
+  },
+  {
+   "key": "uAvionix ping ADS-B",
+   "source": "blue-uas-parts",
+   "fields": {
+    "category": "Detect-and-avoid / ADS-B",
+    "component": "uAvionix ping ADS-B",
+    "country": "US",
+    "framework_status": "verify",
+    "manufacturer": "uAvionix",
+    "text": "uAvionix ping ADS-B"
+   }
+  },
+  {
    "key": "Holybro / Matek flight controllers",
    "source": "blue-uas-parts",
    "fields": {
@@ -192,6 +312,18 @@
     "framework_status": "country-of-origin concern — verify",
     "manufacturer": "Holybro / Matek",
     "text": "Holybro / Matek flight controllers"
+   }
+  },
+  {
+   "key": "T-Motor / Hobbywing ESCs \u0026 motors",
+   "source": "blue-uas-parts",
+   "fields": {
+    "category": "Propulsion (ESC/motor)",
+    "component": "T-Motor / Hobbywing ESCs \u0026 motors",
+    "country": "CN",
+    "framework_status": "country-of-origin concern — verify",
+    "manufacturer": "T-Motor / Hobbywing",
+    "text": "T-Motor / Hobbywing ESCs \u0026 motors"
    }
   }
  ]

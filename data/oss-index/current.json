@@ -1,7 +1,7 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-06-11T04:18:05Z",
+ "fetched_at": "2026-06-11T04:47:27Z",
  "schema_version": 1,
  "records": [
   {
@@ -703,7 +703,7 @@
    "fields": {
     "date": "2026-06-01T23:04:22Z",
     "description": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.",
-    "stars": "2433",
+    "stars": "2434",
     "text": "cisagov/Malcolm",
     "title": "cisagov/Malcolm",
     "url": "https://github.com/cisagov/Malcolm"
@@ -1844,6 +1844,2010 @@
     "text": "cisagov/ansible-role-devops-user",
     "title": "cisagov/ansible-role-devops-user",
     "url": "https://github.com/cisagov/ansible-role-devops-user"
+   }
+  },
+  {
+   "key": "idaholab/moose",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2026-06-11T01:52:36Z",
+    "description": "Multiphysics Object Oriented Simulation Environment",
+    "stars": "2261",
+    "text": "idaholab/moose",
+    "title": "idaholab/moose",
+    "url": "https://github.com/idaholab/moose"
+   }
+  },
+  {
+   "key": "idaholab/magpie",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2026-06-09T11:51:44Z",
+    "description": "Mesoscale Atomistic Glue Program for Integrated Execution",
+    "stars": "8",
+    "text": "idaholab/magpie",
+    "title": "idaholab/magpie",
+    "url": "https://github.com/idaholab/magpie"
+   }
+  },
+  {
+   "key": "idaholab/SPPARKS",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2020-11-06T17:44:43Z",
+    "description": "Kinetic Monte Carlo Simulator",
+    "stars": "31",
+    "text": "idaholab/SPPARKS",
+    "title": "idaholab/SPPARKS",
+    "url": "https://github.com/idaholab/SPPARKS"
+   }
+  },
+  {
+   "key": "idaholab/mytrim",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2025-10-14T20:32:08Z",
+    "description": "Three dimensional binary collision Monte Carlo library",
+    "stars": "14",
+    "text": "idaholab/mytrim",
+    "title": "idaholab/mytrim",
+    "url": "https://github.com/idaholab/mytrim"
+   }
+  },
+  {
+   "key": "idaholab/falcon",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2026-06-09T11:29:29Z",
+    "description": "Fracturing And Liquid CONservation ",
+    "stars": "34",
+    "text": "idaholab/falcon",
+    "title": "idaholab/falcon",
+    "url": "https://github.com/idaholab/falcon"
+   }
+  },
+  {
+   "key": "idaholab/advcubit",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2021-08-23T18:42:22Z",
+    "stars": "2",
+    "text": "idaholab/advcubit",
+    "title": "idaholab/advcubit",
+    "url": "https://github.com/idaholab/advcubit"
+   }
+  },
+  {
+   "key": "idaholab/civet",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2026-06-10T14:16:41Z",
+    "description": "Continuous Integration, Verification, Enhancement, and Testing",
+    "stars": "39",
+    "text": "idaholab/civet",
+    "title": "idaholab/civet",
+    "url": "https://github.com/idaholab/civet"
+   }
+  },
+  {
+   "key": "idaholab/civet_example_recipes",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2018-10-01T22:14:28Z",
+    "description": "Example recipes and scripts for use with CIVET",
+    "stars": "1",
+    "text": "idaholab/civet_example_recipes",
+    "title": "idaholab/civet_example_recipes",
+    "url": "https://github.com/idaholab/civet_example_recipes"
+   }
+  },
+  {
+   "key": "idaholab/large_media",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2026-06-04T23:26:19Z",
+    "description": "A repository for storing large images and movies associated with MOOSE documentation.",
+    "stars": "6",
+    "text": "idaholab/large_media",
+    "title": "idaholab/large_media",
+    "url": "https://github.com/idaholab/large_media"
+   }
+  },
+  {
+   "key": "idaholab/raven",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2026-06-04T16:46:38Z",
+    "description": "RAVEN is a flexible and multi-purpose probabilistic risk analysis, validation and uncertainty quantification, parameter optimization, model reduction and data knowledge-discovering framework.",
+    "stars": "258",
+    "text": "idaholab/raven",
+    "title": "idaholab/raven",
+    "url": "https://github.com/idaholab/raven"
+   }
+  },
+  {
+   "key": "idaholab/blackbear",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2026-06-09T12:41:58Z",
+    "description": "BlackBear is a MOOSE-based code for simulating degradation processes in concrete and other structural materials.",
+    "stars": "27",
+    "text": "idaholab/blackbear",
+    "title": "idaholab/blackbear",
+    "url": "https://github.com/idaholab/blackbear"
+   }
+  },
+  {
+   "key": "idaholab/labrat",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2017-05-11T13:08:07Z",
+    "description": "Test repository used for CIVET demonstration purposes",
+    "stars": "0",
+    "text": "idaholab/labrat",
+    "title": "idaholab/labrat",
+    "url": "https://github.com/idaholab/labrat"
+   }
+  },
+  {
+   "key": "idaholab/mastodon",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2026-06-09T11:59:08Z",
+    "description": "A MOOSE app for structural dynamics, seismic analysis, and risk assessment. ",
+    "stars": "50",
+    "text": "idaholab/mastodon",
+    "title": "idaholab/mastodon",
+    "url": "https://github.com/idaholab/mastodon"
+   }
+  },
+  {
+   "key": "idaholab/XFEMParaviewPlugin",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2025-12-16T14:45:52Z",
+    "stars": "4",
+    "text": "idaholab/XFEMParaviewPlugin",
+    "title": "idaholab/XFEMParaviewPlugin",
+    "url": "https://github.com/idaholab/XFEMParaviewPlugin"
+   }
+  },
+  {
+   "key": "idaholab/STIG",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2025-12-30T14:41:38Z",
+    "description": "Structured Threat Intelligence Graph",
+    "stars": "99",
+    "text": "idaholab/STIG",
+    "title": "idaholab/STIG",
+    "url": "https://github.com/idaholab/STIG"
+   }
+  },
+  {
+   "key": "idaholab/DIAMOND",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2023-10-18T22:31:29Z",
+    "description": "Data Integration Aggregated Model and Ontology for Nuclear Deployment ",
+    "stars": "35",
+    "text": "idaholab/DIAMOND",
+    "title": "idaholab/DIAMOND",
+    "url": "https://github.com/idaholab/DIAMOND"
+   }
+  },
+  {
+   "key": "idaholab/EMV",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2023-10-05T18:58:29Z",
+    "description": "Exploit, Malware and Vulnerability Scoring Application ",
+    "stars": "15",
+    "text": "idaholab/EMV",
+    "title": "idaholab/EMV",
+    "url": "https://github.com/idaholab/EMV"
+   }
+  },
+  {
+   "key": "idaholab/STOTS",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2025-12-16T14:42:56Z",
+    "description": "STOTS (Structured Threat Observation Tool Set) is a collection of tools that allow users in a test environment to create STIX v2 observable objects. ",
+    "stars": "3",
+    "text": "idaholab/STOTS",
+    "title": "idaholab/STOTS",
+    "url": "https://github.com/idaholab/STOTS"
+   }
+  },
+  {
+   "key": "idaholab/DeepLynx",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2026-05-28T13:47:16Z",
+    "description": "DeepLynx Nexus is version 2 of the DeepLynx data warehouse, and acts as the central integration point for the DeepLynx data ecosystem. Nexus is a functional data catalog and digital thread tool, allowing users to track metadata from disparate sources and identify ontological and semantic connections between data. It is written in C# and React.",
+    "stars": "95",
+    "text": "idaholab/DeepLynx",
+    "title": "idaholab/DeepLynx",
+    "url": "https://github.com/idaholab/DeepLynx"
+   }
+  },
+  {
+   "key": "idaholab/SR2ML",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2025-01-23T16:06:16Z",
+    "description": "Safety Risk Reliability Model Library",
+    "stars": "12",
+    "text": "idaholab/SR2ML",
+    "title": "idaholab/SR2ML",
+    "url": "https://github.com/idaholab/SR2ML"
+   }
+  },
+  {
+   "key": "idaholab/LOGOS",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2026-05-22T21:59:38Z",
+    "description": "Discrete optimization models (i.e., stochastic optimization, distributionally robust optimization and conditional value-at-risk optimization) that can be employed for capital budgeting optimization problems",
+    "stars": "17",
+    "text": "idaholab/LOGOS",
+    "title": "idaholab/LOGOS",
+    "url": "https://github.com/idaholab/LOGOS"
+   }
+  },
+  {
+   "key": "idaholab/HERON",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2026-05-26T22:14:45Z",
+    "description": "Holistic Energy Resource Optimization Network (HERON) is a modeling toolset and plugin for RAVEN to accelerate stochastic technoeconomic assessment of the economic viability of various grid-energy system configurations, especially with application to electrical grids and integrated energy systems (IES).",
+    "stars": "31",
+    "text": "idaholab/HERON",
+    "title": "idaholab/HERON",
+    "url": "https://github.com/idaholab/HERON"
+   }
+  },
+  {
+   "key": "idaholab/TEAL",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2025-04-07T21:55:23Z",
+    "description": "TEAL is a financial performance calculator plugin for the RAVEN code, framework, resolving around the computation of Net Present Value and associated financial metrics.",
+    "stars": "10",
+    "text": "idaholab/TEAL",
+    "title": "idaholab/TEAL",
+    "url": "https://github.com/idaholab/TEAL"
+   }
+  },
+  {
+   "key": "idaholab/Malcolm",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2026-06-01T23:04:25Z",
+    "description": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.",
+    "stars": "469",
+    "text": "idaholab/Malcolm",
+    "title": "idaholab/Malcolm",
+    "url": "https://github.com/idaholab/Malcolm"
+   }
+  },
+  {
+   "key": "idaholab/WiiBin",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2025-12-16T14:41:09Z",
+    "description": "WiiBin is a framework to determine architecture of an unknown binary and locate opcode sections within the same binary via supervised machine learning. ",
+    "stars": "20",
+    "text": "idaholab/WiiBin",
+    "title": "idaholab/WiiBin",
+    "url": "https://github.com/idaholab/WiiBin"
+   }
+  },
+  {
+   "key": "idaholab/STAR",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2025-12-16T14:40:25Z",
+    "description": "Structured Threat Automated Response (STAR) is a script that creates a python run-time for automated response action included in the Structure Threat Information Expression (STIX) Course of Action object. This script can parse a valid STIX json file and execute the included Course of Action. ",
+    "stars": "4",
+    "text": "idaholab/STAR",
+    "title": "idaholab/STAR",
+    "url": "https://github.com/idaholab/STAR"
+   }
+  },
+  {
+   "key": "idaholab/atDisco",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2021-01-21T20:42:22Z",
+    "description": "@DisCo is a graph based datastore designed to minimize reverse engineering efforts.",
+    "stars": "12",
+    "text": "idaholab/atDisco",
+    "title": "idaholab/atDisco",
+    "url": "https://github.com/idaholab/atDisco"
+   }
+  },
+  {
+   "key": "idaholab/Location-Generalizer",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2025-12-16T14:36:38Z",
+    "stars": "2",
+    "text": "idaholab/Location-Generalizer",
+    "title": "idaholab/Location-Generalizer",
+    "url": "https://github.com/idaholab/Location-Generalizer"
+   }
+  },
+  {
+   "key": "idaholab/TMAP8",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2026-06-09T13:15:49Z",
+    "description": "Tritium Migration Analysis Program, Version 8",
+    "stars": "32",
+    "text": "idaholab/TMAP8",
+    "title": "idaholab/TMAP8",
+    "url": "https://github.com/idaholab/TMAP8"
+   }
+  },
+  {
+   "key": "idaholab/LIGGGHTS-INL",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2023-06-14T17:20:18Z",
+    "description": "LIGGGHTS-INL is a capability-extended adaptation of the LIGGGHTS Open Source Discrete Element Method (DEM) Particle Simulation Software based on LIGGGHTS release version 4.0.0.",
+    "stars": "65",
+    "text": "idaholab/LIGGGHTS-INL",
+    "title": "idaholab/LIGGGHTS-INL",
+    "url": "https://github.com/idaholab/LIGGGHTS-INL"
+   }
+  },
+  {
+   "key": "idaholab/GranularFlowModels",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2021-06-23T17:43:47Z",
+    "description": "The software is a list of Abaqus User MATerial subroutines (VUMAT) for modeling granular flow physics. It includes (1) density dependent Mohr-Coulomb model, (2) density dependent Drager-Prager\\Cap model, (3)Gudehus-Bauer hypoplastic model, and (4) critical state-based NorSand model. ",
+    "stars": "35",
+    "text": "idaholab/GranularFlowModels",
+    "title": "idaholab/GranularFlowModels",
+    "url": "https://github.com/idaholab/GranularFlowModels"
+   }
+  },
+  {
+   "key": "idaholab/IDEAS",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2022-03-24T22:36:20Z",
+    "stars": "3",
+    "text": "idaholab/IDEAS",
+    "title": "idaholab/IDEAS",
+    "url": "https://github.com/idaholab/IDEAS"
+   }
+  },
+  {
+   "key": "idaholab/HYBRID",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2026-05-27T21:36:04Z",
+    "description": "HYBRID is a modeling toolset to assess the integration and economic viability of Integrated Energy Systems (IES).",
+    "stars": "38",
+    "text": "idaholab/HYBRID",
+    "title": "idaholab/HYBRID",
+    "url": "https://github.com/idaholab/HYBRID"
+   }
+  },
+  {
+   "key": "idaholab/moosetools",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2021-09-22T22:59:58Z",
+    "description": "Tools for supporting MOOSE ",
+    "stars": "2",
+    "text": "idaholab/moosetools",
+    "title": "idaholab/moosetools",
+    "url": "https://github.com/idaholab/moosetools"
+   }
+  },
+  {
+   "key": "idaholab/SPEMMCRA",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2025-12-16T14:35:50Z",
+    "description": "SPEMMCRA provides a low-cost simulated method to provide for testing of control theory and cybersecurity approaches to microgrid implementations. Specifically, this physics-based approach provides realistic responses to compare control strategies in simulation, but also to demonstrate actions that can or cannot be taken in taking cybersecurity actions . As communications interfaces or other actions are taken that affect the flow of data, SPEMMCRA can show whether the microgrid operation is adversely affected by what is intended to mitigate a cybersecurity event. ",
+    "stars": "6",
+    "text": "idaholab/SPEMMCRA",
+    "title": "idaholab/SPEMMCRA",
+    "url": "https://github.com/idaholab/SPEMMCRA"
+   }
+  },
+  {
+   "key": "idaholab/EMRALD",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2026-06-10T16:15:04Z",
+    "description": "Event Modeling Risk Assessment using Linked Diagrams (EMRALD) is a software tool developed at INL for researching the capabilities of dynamic PRA (Probabilistic Risk Assessment). In order to promote the effective use of dynamic PRA by the general community, EMRALD focuses on the following key aspects: Simplifying the modeling process by providing a structure that corresponds to traditional PRA modeling methods Providing a user interface (UI) that makes it easy for the user to model and visualize complex interactions Allowing the user to couple with other analysis applications such as physics based simulations. This includes one-way communication for most applications and two-way loose coupling for customizable applications Providing the sequence and timing of events that lead to the specified outcomes when calculating results Traditional aspects of components with basic events, fault trees, and event trees are all captured in a dynamic framework of state diagrams, which are displayed ",
+    "stars": "29",
+    "text": "idaholab/EMRALD",
+    "title": "idaholab/EMRALD",
+    "url": "https://github.com/idaholab/EMRALD"
+   }
+  },
+  {
+   "key": "idaholab/STEM",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2021-05-14T18:58:04Z",
+    "description": "The Stochastic Techno-Economic Model or STEM is an analytical tool that estimates the logistics cost of different biomass feedstocks by incorporating uncertainty into the modeling framework.",
+    "stars": "1",
+    "text": "idaholab/STEM",
+    "title": "idaholab/STEM",
+    "url": "https://github.com/idaholab/STEM"
+   }
+  },
+  {
+   "key": "idaholab/virtual_test_bed",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2026-06-09T03:57:37Z",
+    "description": "The National Reactor Innovation Center's (NRIC) Virtual Test Bed Repository",
+    "stars": "70",
+    "text": "idaholab/virtual_test_bed",
+    "title": "idaholab/virtual_test_bed",
+    "url": "https://github.com/idaholab/virtual_test_bed"
+   }
+  },
+  {
+   "key": "idaholab/VDEA",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2021-09-23T21:40:10Z",
+    "description": "The application is being developed with the goal of preventing the entropy of all the different single purpose applications. This application utilizes a framework that enables different file formats to be read and understood through plugins dynamically loaded to the main application containing the framework. The main application provides interoperability to all the different plugins, this allows each file format to convert to every other file format that has been read. There is no theoretical limit to the number of plugins that can be used by the application. Even though the plugins may be individually written and serve a purpose like single use scripts, the plugins can only be used with the main application, this forces the application and plugins to be linked. In theory this will force better data management, or at least the bundling of the main application with the plugins.",
+    "stars": "1",
+    "text": "idaholab/VDEA",
+    "title": "idaholab/VDEA",
+    "url": "https://github.com/idaholab/VDEA"
+   }
+  },
+  {
+   "key": "idaholab/Deep-Lynx-Python-Package",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2024-08-20T14:58:16Z",
+    "stars": "5",
+    "text": "idaholab/Deep-Lynx-Python-Package",
+    "title": "idaholab/Deep-Lynx-Python-Package",
+    "url": "https://github.com/idaholab/Deep-Lynx-Python-Package"
+   }
+  },
+  {
+   "key": "idaholab/repository-statistics",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2026-06-06T00:45:21Z",
+    "description": "Tracking repository statistics over time for projects on GitHub under IdahoLab, IdahoLabResearch and IdahoLabUnsupported.",
+    "stars": "1",
+    "text": "idaholab/repository-statistics",
+    "title": "idaholab/repository-statistics",
+    "url": "https://github.com/idaholab/repository-statistics"
+   }
+  },
+  {
+   "key": "idaholab/Deep-Lynx-MOOSE",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2024-08-20T16:27:59Z",
+    "description": "The Deep Lynx MOOSE Adapter connects the Deep Lynx data warehouse with any MOOSE executable. The Adapter can receive events from Deep Lynx and will take incoming data to format a template input file for the MOOSE executable. Returns from the MOOSE run are sent back to Deep Lynx for use by other applications.",
+    "stars": "2",
+    "text": "idaholab/Deep-Lynx-MOOSE",
+    "title": "idaholab/Deep-Lynx-MOOSE",
+    "url": "https://github.com/idaholab/Deep-Lynx-MOOSE"
+   }
+  },
+  {
+   "key": "idaholab/ncrc-client",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2025-12-16T14:39:00Z",
+    "description": "A wrapper tool for connecting to RSA SecurID conda channels",
+    "stars": "0",
+    "text": "idaholab/ncrc-client",
+    "title": "idaholab/ncrc-client",
+    "url": "https://github.com/idaholab/ncrc-client"
+   }
+  },
+  {
+   "key": "idaholab/DISCOverflow",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2021-12-07T18:36:58Z",
+    "description": "A framework to automate disassembly of binary files in to a graph database. ",
+    "stars": "5",
+    "text": "idaholab/DISCOverflow",
+    "title": "idaholab/DISCOverflow",
+    "url": "https://github.com/idaholab/DISCOverflow"
+   }
+  },
+  {
+   "key": "idaholab/IX-DiscoveryTools",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2025-12-16T14:37:36Z",
+    "description": "The Infrastructure Expression: Discovery Tools is a toolset that allows for the automated collection of various network, hardware, and software vulnerabilities and details to be collected from systems on a given network. These details are then converted into a STIX 2.1 format, allowing for easy viewing in existing applications as well as sharing and interfacing with tools that already use the STIX 2.1 format.",
+    "stars": "9",
+    "text": "idaholab/IX-DiscoveryTools",
+    "title": "idaholab/IX-DiscoveryTools",
+    "url": "https://github.com/idaholab/IX-DiscoveryTools"
+   }
+  },
+  {
+   "key": "idaholab/Deep-Lynx-Machine-Learning",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2024-08-20T16:28:29Z",
+    "description": "The Deep Lynx Machine Learning (ML) Adapter is a generic adapter that programmatically runs the ML as continuous data is received. Then, Jupyter Notebooks can be customized according to the project for pre-processing the data, building the machine learning models, prediction analysis of incoming data using an existing model, and forecasting anomalies / failures of the physical asset.",
+    "stars": "2",
+    "text": "idaholab/Deep-Lynx-Machine-Learning",
+    "title": "idaholab/Deep-Lynx-Machine-Learning",
+    "url": "https://github.com/idaholab/Deep-Lynx-Machine-Learning"
+   }
+  },
+  {
+   "key": "idaholab/isopod",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2026-06-09T19:56:14Z",
+    "description": "isopod, a MOOSE based app for multiphysics PDE constrained optimization",
+    "stars": "9",
+    "text": "idaholab/isopod",
+    "title": "idaholab/isopod",
+    "url": "https://github.com/idaholab/isopod"
+   }
+  },
+  {
+   "key": "idaholab/Deep-Lynx-JS-SDK",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2024-08-20T16:28:58Z",
+    "description": "This software is a JavaScript package that interacts with the Application Programming Interface (API) suite provided by Deep Lynx. A JavaScript or TypeScript codebase may import this package in order to have access to these methods for communicating with a Deep Lynx instance.",
+    "stars": "0",
+    "text": "idaholab/Deep-Lynx-JS-SDK",
+    "title": "idaholab/Deep-Lynx-JS-SDK",
+    "url": "https://github.com/idaholab/Deep-Lynx-JS-SDK"
+   }
+  },
+  {
+   "key": "idaholab/Hydro_Hybrids",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2024-05-30T22:32:25Z",
+    "description": "The Hydro + Storage Sizing Tool recommends battery sizes and configurations to maximize financial performance of a battery investment that is integrated with a hydropower plant for a facility participating in a competitive electricity market. While the tool is primarily designed for hydropower facilities, it also works with other forms of baseload and peaking generation.",
+    "stars": "5",
+    "text": "idaholab/Hydro_Hybrids",
+    "title": "idaholab/Hydro_Hybrids",
+    "url": "https://github.com/idaholab/Hydro_Hybrids"
+   }
+  },
+  {
+   "key": "idaholab/Deep-Lynx-UNC",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2022-01-20T23:00:13Z",
+    "stars": "0",
+    "text": "idaholab/Deep-Lynx-UNC",
+    "title": "idaholab/Deep-Lynx-UNC",
+    "url": "https://github.com/idaholab/Deep-Lynx-UNC"
+   }
+  },
+  {
+   "key": "idaholab/FORCE",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2025-01-02T15:54:45Z",
+    "description": "The Framework for Optimization of Resources, Controls, and Economics is a collection of software tools, models, and datasets acquired and developed under the Integrated Energy Systems (IES) program to enable analysis of technical and economic viability of myriad IES configurations. FORCE is the consolidating repository for IES tools.",
+    "stars": "12",
+    "text": "idaholab/FORCE",
+    "title": "idaholab/FORCE",
+    "url": "https://github.com/idaholab/FORCE"
+   }
+  },
+  {
+   "key": "idaholab/moose-language-support",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2025-09-12T05:32:28Z",
+    "description": "MOOSE language support for VSCode",
+    "stars": "7",
+    "text": "idaholab/moose-language-support",
+    "title": "idaholab/moose-language-support",
+    "url": "https://github.com/idaholab/moose-language-support"
+   }
+  },
+  {
+   "key": "idaholab/Deep-Lynx-Data-Historian",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2024-08-20T15:00:05Z",
+    "description": "This software is intended to facilitate the ingestion of data from some data historian into Deep Lynx. A data historian in this instance is any location where sensor and operational data from some live asset is gathered. The data can be either manual retrieved by this software or the data historian source can push to a listening endpoint provided by this software.",
+    "stars": "2",
+    "text": "idaholab/Deep-Lynx-Data-Historian",
+    "title": "idaholab/Deep-Lynx-Data-Historian",
+    "url": "https://github.com/idaholab/Deep-Lynx-Data-Historian"
+   }
+  },
+  {
+   "key": "idaholab/BinaryDriller",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2022-08-03T16:00:31Z",
+    "description": "Binary Driller (BD) is a visualization tool which uses the data produced from the Troglodyte tool developed on the Deep Learning Malware project. Binary Driller performs function matching using the provided function embeddings (function representations), then displays the matches for each function in a layout that mimics the location of each function within the binary.",
+    "stars": "0",
+    "text": "idaholab/BinaryDriller",
+    "title": "idaholab/BinaryDriller",
+    "url": "https://github.com/idaholab/BinaryDriller"
+   }
+  },
+  {
+   "key": "idaholab/BinDrill",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2025-08-19T22:15:40Z",
+    "description": "Binary Driller (BD) is a visualization tool which uses the data produced from the Troglodyte tool developed on the Deep Learning Malware project. Binary Driller performs function matching using the provided function embeddings (function representations), then displays the matches for each function in a layout that mimics the location of each function within the binary.",
+    "stars": "2",
+    "text": "idaholab/BinDrill",
+    "title": "idaholab/BinDrill",
+    "url": "https://github.com/idaholab/BinDrill"
+   }
+  },
+  {
+   "key": "idaholab/GEM",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2022-10-10T15:21:53Z",
+    "description": "General Entity Model (GEM) is an extensible, upper-level ontology. An ontology is simply a collection of concepts and their relationships and properties and can be used as a schema or data model to describe some domain. As an upper-level ontology, GEM is intended to be used as a foundation for building domain-specific ontologies (such as energy, manufacturing, etc).",
+    "stars": "3",
+    "text": "idaholab/GEM",
+    "title": "idaholab/GEM",
+    "url": "https://github.com/idaholab/GEM"
+   }
+  },
+  {
+   "key": "idaholab/General-Simulator-Intermediary",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2022-12-13T21:30:22Z",
+    "description": "This application allows parallel development of simulator screens for the Human System Simulation Laboratory  and connection of the backend simulators for various power plants",
+    "stars": "0",
+    "text": "idaholab/General-Simulator-Intermediary",
+    "title": "idaholab/General-Simulator-Intermediary",
+    "url": "https://github.com/idaholab/General-Simulator-Intermediary"
+   }
+  },
+  {
+   "key": "idaholab/DaRT",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2022-11-14T20:38:50Z",
+    "description": "The purpose of this code is to disassemble potentially malicious code into benign pieces that can safely be transported via any number of traditional methods without fear of infection.",
+    "stars": "1",
+    "text": "idaholab/DaRT",
+    "title": "idaholab/DaRT",
+    "url": "https://github.com/idaholab/DaRT"
+   }
+  },
+  {
+   "key": "idaholab/ATIS",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2025-12-16T14:32:26Z",
+    "description": "Any Threat Intelligence to STIX (ATIS) autogenerates and enriches STIX bundles with data from open source threat intelligence sources.",
+    "stars": "3",
+    "text": "idaholab/ATIS",
+    "title": "idaholab/ATIS",
+    "url": "https://github.com/idaholab/ATIS"
+   }
+  },
+  {
+   "key": "idaholab/Caldera_ICM",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2026-04-01T01:53:11Z",
+    "stars": "5",
+    "text": "idaholab/Caldera_ICM",
+    "title": "idaholab/Caldera_ICM",
+    "url": "https://github.com/idaholab/Caldera_ICM"
+   }
+  },
+  {
+   "key": "idaholab/Caldera_Grid",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2026-01-22T17:56:08Z",
+    "stars": "6",
+    "text": "idaholab/Caldera_Grid",
+    "title": "idaholab/Caldera_Grid",
+    "url": "https://github.com/idaholab/Caldera_Grid"
+   }
+  },
+  {
+   "key": "idaholab/BayCal",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2024-09-25T19:18:31Z",
+    "description": "Bayesian Model Calibration (BayCal) toolkit is a software plugin for Risk Analysis Virtual Environment (RAVEN) framework, arming at inversely quantifying the uncertainties associated with simulation model parameters based on available experiment data.",
+    "stars": "4",
+    "text": "idaholab/BayCal",
+    "title": "idaholab/BayCal",
+    "url": "https://github.com/idaholab/BayCal"
+   }
+  },
+  {
+   "key": "idaholab/hit",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2025-09-11T02:13:42Z",
+    "stars": "0",
+    "text": "idaholab/hit",
+    "title": "idaholab/hit",
+    "url": "https://github.com/idaholab/hit"
+   }
+  },
+  {
+   "key": "idaholab/Enhanced_STIX_Elevator",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2025-12-16T14:31:19Z",
+    "description": "To more effectively and completely convert STIX1 data to STIX2.",
+    "stars": "0",
+    "text": "idaholab/Enhanced_STIX_Elevator",
+    "title": "idaholab/Enhanced_STIX_Elevator",
+    "url": "https://github.com/idaholab/Enhanced_STIX_Elevator"
+   }
+  },
+  {
+   "key": "idaholab/Jester",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2023-08-07T17:08:16Z",
+    "description": "Jester is a Rust CLI designed to package and send time series or tabular data to the data warehouse DeepLynx. It primarily reads .csv files and then sends those via HTTP or Websocket requests to an external instance of DeepLynx. It is meant to run on a host computer which has access to the data.",
+    "stars": "2",
+    "text": "idaholab/Jester",
+    "title": "idaholab/Jester",
+    "url": "https://github.com/idaholab/Jester"
+   }
+  },
+  {
+   "key": "idaholab/malamute",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2026-06-09T12:29:25Z",
+    "description": "Advanced manufacturing modeling and simulation",
+    "stars": "20",
+    "text": "idaholab/malamute",
+    "title": "idaholab/malamute",
+    "url": "https://github.com/idaholab/malamute"
+   }
+  },
+  {
+   "key": "idaholab/STIXEnforcer",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2025-12-16T14:58:57Z",
+    "description": "The purpose of this code is to impose additional requirements for STIX 2.1 objects, properties, and bundles which will provided enrichment and added benefit for end users.",
+    "stars": "0",
+    "text": "idaholab/STIXEnforcer",
+    "title": "idaholab/STIXEnforcer",
+    "url": "https://github.com/idaholab/STIXEnforcer"
+   }
+  },
+  {
+   "key": "idaholab/ResDEEDS",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2025-09-30T21:21:56Z",
+    "description": "The Resilience Development for Electric Energy Delivery Systems (ResDEEDS) tool walks users through the process of evaluating electric energy delivery systems (EEDS) for resiliency. It implements the steps of the INL Resilience Framework for EEDS and provides automated tracking of resilience planning and suggestions for mitigating hazards.",
+    "stars": "1",
+    "text": "idaholab/ResDEEDS",
+    "title": "idaholab/ResDEEDS",
+    "url": "https://github.com/idaholab/ResDEEDS"
+   }
+  },
+  {
+   "key": "idaholab/Deep-Lynx-MATLAB",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2023-07-10T22:38:19Z",
+    "description": "The Deep Lynx MATLAB Adapter is a Python application that connects the Deep Lynx data warehouse with any MATLAB simulation.",
+    "stars": "1",
+    "text": "idaholab/Deep-Lynx-MATLAB",
+    "title": "idaholab/Deep-Lynx-MATLAB",
+    "url": "https://github.com/idaholab/Deep-Lynx-MATLAB"
+   }
+  },
+  {
+   "key": "idaholab/Saleae_Output_Parser",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2024-06-27T21:22:30Z",
+    "description": "A Python script that parsers Saleae Logic 2 output files into useful data sets.",
+    "stars": "10",
+    "text": "idaholab/Saleae_Output_Parser",
+    "title": "idaholab/Saleae_Output_Parser",
+    "url": "https://github.com/idaholab/Saleae_Output_Parser"
+   }
+  },
+  {
+   "key": "idaholab/Deep-Lynx-Supervisory-Control",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2024-08-20T14:59:29Z",
+    "stars": "0",
+    "text": "idaholab/Deep-Lynx-Supervisory-Control",
+    "title": "idaholab/Deep-Lynx-Supervisory-Control",
+    "url": "https://github.com/idaholab/Deep-Lynx-Supervisory-Control"
+   }
+  },
+  {
+   "key": "idaholab/Deep-Lynx-Timeseries-Loader",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2023-07-12T18:46:12Z",
+    "description": "'deeplynx-timeseries-loader' is a library designed to make it as easy as possible for users to download and access timeseries or tabular data from DeepLynx.",
+    "stars": "0",
+    "text": "idaholab/Deep-Lynx-Timeseries-Loader",
+    "title": "idaholab/Deep-Lynx-Timeseries-Loader",
+    "url": "https://github.com/idaholab/Deep-Lynx-Timeseries-Loader"
+   }
+  },
+  {
+   "key": "idaholab/Deep-Lynx-Rust_SDK",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2023-07-11T19:50:08Z",
+    "description": "This software is a Rust package that interacts with the Application Programming Interface (API) suite provided by DeepLynx. A Rust codebase may import this package in order to have access to these methods for communicating with a DeepLynx instance.",
+    "stars": "1",
+    "text": "idaholab/Deep-Lynx-Rust_SDK",
+    "title": "idaholab/Deep-Lynx-Rust_SDK",
+    "url": "https://github.com/idaholab/Deep-Lynx-Rust_SDK"
+   }
+  },
+  {
+   "key": "idaholab/sodium",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2026-04-27T15:29:53Z",
+    "stars": "0",
+    "text": "idaholab/sodium",
+    "title": "idaholab/sodium",
+    "url": "https://github.com/idaholab/sodium"
+   }
+  },
+  {
+   "key": "idaholab/potassium",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2026-04-24T00:45:01Z",
+    "stars": "0",
+    "text": "idaholab/potassium",
+    "title": "idaholab/potassium",
+    "url": "https://github.com/idaholab/potassium"
+   }
+  },
+  {
+   "key": "idaholab/helium",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2026-06-09T12:04:51Z",
+    "stars": "0",
+    "text": "idaholab/helium",
+    "title": "idaholab/helium",
+    "url": "https://github.com/idaholab/helium"
+   }
+  },
+  {
+   "key": "idaholab/air",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2026-06-09T12:00:08Z",
+    "stars": "0",
+    "text": "idaholab/air",
+    "title": "idaholab/air",
+    "url": "https://github.com/idaholab/air"
+   }
+  },
+  {
+   "key": "idaholab/nitrogen",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2026-06-09T12:05:04Z",
+    "stars": "1",
+    "text": "idaholab/nitrogen",
+    "title": "idaholab/nitrogen",
+    "url": "https://github.com/idaholab/nitrogen"
+   }
+  },
+  {
+   "key": "idaholab/carbon_dioxide",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2026-04-24T00:40:13Z",
+    "stars": "1",
+    "text": "idaholab/carbon_dioxide",
+    "title": "idaholab/carbon_dioxide",
+    "url": "https://github.com/idaholab/carbon_dioxide"
+   }
+  },
+  {
+   "key": "idaholab/cape2stix",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2023-09-29T00:11:01Z",
+    "description": "This software allows for the conversion, extraction, and transformation of malware behavior data from \"Malware Configuration And Payload Extraction\" (CAPEv2) sandbox reports, to Structured Threat Information eXpression (STIX). This allows for further analysis to be performed, sharing of threat data, and transit to a graph database.",
+    "stars": "6",
+    "text": "idaholab/cape2stix",
+    "title": "idaholab/cape2stix",
+    "url": "https://github.com/idaholab/cape2stix"
+   }
+  },
+  {
+   "key": "idaholab/ORCA",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2025-12-16T19:12:56Z",
+    "description": "ORCA is a modeling toolset to accelerate real-time control and optimization of digital twins, including virtual models of facilities, physical facilities, and interconnections to allow optimal control of physical facilities using virtual models. ORCA is enabled by INL's RAVEN and DeepLynx software codes.",
+    "stars": "4",
+    "text": "idaholab/ORCA",
+    "title": "idaholab/ORCA",
+    "url": "https://github.com/idaholab/ORCA"
+   }
+  },
+  {
+   "key": "idaholab/CAPE2STIXDATA",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2023-09-27T19:54:31Z",
+    "description": "Data supporting CAPE2STIX repository",
+    "stars": "1",
+    "text": "idaholab/CAPE2STIXDATA",
+    "title": "idaholab/CAPE2STIXDATA",
+    "url": "https://github.com/idaholab/CAPE2STIXDATA"
+   }
+  },
+  {
+   "key": "idaholab/macaw",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2023-10-11T12:56:18Z",
+    "description": "MaCaw is a MOOSE-based application that enables domain-decomposed neutral particle transport calculations in MOOSE. It leverages the ray tracing MOOSE module for unstructured mesh tracking and OpenMC for collision physics, handling material definitions, and tallying quantities.",
+    "stars": "9",
+    "text": "idaholab/macaw",
+    "title": "idaholab/macaw",
+    "url": "https://github.com/idaholab/macaw"
+   }
+  },
+  {
+   "key": "idaholab/HPC_OOD",
+   "source": "oss-idaholab",
+   "fields": {
+    "date": "2025-12-16T18:13:15Z",
+    "description": "This code demonstrates how the high performance computing group at Idaho National Laboratory has added functionality to execute MOOSE Herd applications within the science gateway, Open OnDemand on HPC resources.",
+    "stars": "3",
+    "text": "idaholab/HPC_OOD",
+    "title": "idaholab/HPC_OOD",
+    "url": "https://github.com/idaholab/HPC_OOD"
+   }
+  },
+  {
+   "key": "mitre/HTTP-Proxy-Servlet",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2026-05-20T04:40:17Z",
+    "description": "Smiley's HTTP Proxy implemented as a Java servlet",
+    "stars": "1486",
+    "text": "mitre/HTTP-Proxy-Servlet",
+    "title": "mitre/HTTP-Proxy-Servlet",
+    "url": "https://github.com/mitre/HTTP-Proxy-Servlet"
+   }
+  },
+  {
+   "key": "mitre/mitre.github.io",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2026-04-14T20:39:46Z",
+    "description": "Open Source software from The MITRE Corporation",
+    "stars": "26",
+    "text": "mitre/mitre.github.io",
+    "title": "mitre/mitre.github.io",
+    "url": "https://github.com/mitre/mitre.github.io"
+   }
+  },
+  {
+   "key": "mitre/rid-agent",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2013-03-11T21:36:21Z",
+    "description": "A repository for the MITRE RID Agent.",
+    "stars": "1",
+    "text": "mitre/rid-agent",
+    "title": "mitre/rid-agent",
+    "url": "https://github.com/mitre/rid-agent"
+   }
+  },
+  {
+   "key": "mitre/callisto",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2014-02-05T19:38:34Z",
+    "stars": "16",
+    "text": "mitre/callisto",
+    "title": "mitre/callisto",
+    "url": "https://github.com/mitre/callisto"
+   }
+  },
+  {
+   "key": "mitre/multiscanner",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2019-10-08T14:12:14Z",
+    "description": "Modular file scanning/analysis framework",
+    "stars": "622",
+    "text": "mitre/multiscanner",
+    "title": "mitre/multiscanner",
+    "url": "https://github.com/mitre/multiscanner"
+   }
+  },
+  {
+   "key": "mitre/FMACM",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2026-06-08T20:13:17Z",
+    "description": "An aircraft dynamics and control model for closed-loop RTCA requirements testing.",
+    "stars": "15",
+    "text": "mitre/FMACM",
+    "title": "mitre/FMACM",
+    "url": "https://github.com/mitre/FMACM"
+   }
+  },
+  {
+   "key": "mitre/test-harness-interface",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2016-06-30T19:57:49Z",
+    "description": "Specification of the interface for the PCOR Patient Matching Test Harness",
+    "stars": "1",
+    "text": "mitre/test-harness-interface",
+    "title": "mitre/test-harness-interface",
+    "url": "https://github.com/mitre/test-harness-interface"
+   }
+  },
+  {
+   "key": "mitre/node-qme-worker",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2016-01-08T20:06:51Z",
+    "description": "A node based server that provides services for invoking node-qme",
+    "stars": "1",
+    "text": "mitre/node-qme-worker",
+    "title": "mitre/node-qme-worker",
+    "url": "https://github.com/mitre/node-qme-worker"
+   }
+  },
+  {
+   "key": "mitre/ptmatch",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2017-02-28T15:54:09Z",
+    "description": "A patient matching test harness to support PCOR",
+    "stars": "16",
+    "text": "mitre/ptmatch",
+    "title": "mitre/ptmatch",
+    "url": "https://github.com/mitre/ptmatch"
+   }
+  },
+  {
+   "key": "mitre/ptmatchadapter",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2018-01-23T13:55:49Z",
+    "description": "Adapter for patient matching systems to integrate with the PCOR patient matching test harness",
+    "stars": "5",
+    "text": "mitre/ptmatchadapter",
+    "title": "mitre/ptmatchadapter",
+    "url": "https://github.com/mitre/ptmatchadapter"
+   }
+  },
+  {
+   "key": "mitre/hybrid-curation",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2017-04-24T14:42:34Z",
+    "description": "Tools to support MITRE's methodology for crowd-sourced curation.",
+    "stars": "2",
+    "text": "mitre/hybrid-curation",
+    "title": "mitre/hybrid-curation",
+    "url": "https://github.com/mitre/hybrid-curation"
+   }
+  },
+  {
+   "key": "mitre/ecqm",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2017-02-28T16:07:44Z",
+    "description": "Server side components to support electronic clinical quality measure calculation",
+    "stars": "11",
+    "text": "mitre/ecqm",
+    "title": "mitre/ecqm",
+    "url": "https://github.com/mitre/ecqm"
+   }
+  },
+  {
+   "key": "mitre/homebrew-oidc",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2016-03-03T21:29:39Z",
+    "description": "Homebrew formula to set up OpenID Connect related tools",
+    "stars": "1",
+    "text": "mitre/homebrew-oidc",
+    "title": "mitre/homebrew-oidc",
+    "url": "https://github.com/mitre/homebrew-oidc"
+   }
+  },
+  {
+   "key": "mitre/argonaut-gateway",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2016-03-21T19:42:05Z",
+    "description": "Tools for building a gateway to protect healthcare applications conforming to the Argonauts Project",
+    "stars": "2",
+    "text": "mitre/argonaut-gateway",
+    "title": "mitre/argonaut-gateway",
+    "url": "https://github.com/mitre/argonaut-gateway"
+   }
+  },
+  {
+   "key": "mitre/cedar",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2017-09-13T18:55:58Z",
+    "description": "Cedar is a tool for testing the strength of Electronic Clinical Quality Measure (eCQM) collection systems that receive Quality Reporting Document Architecture (QRDA) files. Please email opensource@mitre.org for more information.",
+    "stars": "8",
+    "text": "mitre/cedar",
+    "title": "mitre/cedar",
+    "url": "https://github.com/mitre/cedar"
+   }
+  },
+  {
+   "key": "mitre/ptmatch-frontend",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2019-05-17T22:14:56Z",
+    "description": "User interface for the PCOR Patient Matching Test Harness",
+    "stars": "4",
+    "text": "mitre/ptmatch-frontend",
+    "title": "mitre/ptmatch-frontend",
+    "url": "https://github.com/mitre/ptmatch-frontend"
+   }
+  },
+  {
+   "key": "mitre/ptmatch-designs",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2016-07-25T18:43:04Z",
+    "stars": "1",
+    "text": "mitre/ptmatch-designs",
+    "title": "mitre/ptmatch-designs",
+    "url": "https://github.com/mitre/ptmatch-designs"
+   }
+  },
+  {
+   "key": "mitre/policynet",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2022-05-20T20:45:12Z",
+    "description": "Exploration of the U.S. rulesets as a network",
+    "stars": "16",
+    "text": "mitre/policynet",
+    "title": "mitre/policynet",
+    "url": "https://github.com/mitre/policynet"
+   }
+  },
+  {
+   "key": "mitre/heart",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2016-08-25T19:37:12Z",
+    "description": "This library provides tools for go based clients to conform to the HEART Working Group profiles",
+    "stars": "3",
+    "text": "mitre/heart",
+    "title": "mitre/heart",
+    "url": "https://github.com/mitre/heart"
+   }
+  },
+  {
+   "key": "mitre/caret",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2020-01-15T13:52:31Z",
+    "description": "CARET - A tool for viewing cyber analytic relationships",
+    "stars": "57",
+    "text": "mitre/caret",
+    "title": "mitre/caret",
+    "url": "https://github.com/mitre/caret"
+   }
+  },
+  {
+   "key": "mitre/unfetter",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2019-01-24T18:17:20Z",
+    "stars": "3",
+    "text": "mitre/unfetter",
+    "title": "mitre/unfetter",
+    "url": "https://github.com/mitre/unfetter"
+   }
+  },
+  {
+   "key": "mitre/unfetter-mediawiki-vagrant",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2016-12-01T16:08:34Z",
+    "description": "A virtual MediaWiki development environment, built on Vagrant, VirtualBox, and Puppet.",
+    "stars": "16",
+    "text": "mitre/unfetter-mediawiki-vagrant",
+    "title": "mitre/unfetter-mediawiki-vagrant",
+    "url": "https://github.com/mitre/unfetter-mediawiki-vagrant"
+   }
+  },
+  {
+   "key": "mitre/fhir-server",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2016-09-26T17:51:36Z",
+    "description": "A fast, open source, HL7 FHIR server",
+    "stars": "38",
+    "text": "mitre/fhir-server",
+    "title": "mitre/fhir-server",
+    "url": "https://github.com/mitre/fhir-server"
+   }
+  },
+  {
+   "key": "mitre/ptmerge-frontend",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2017-03-09T13:53:37Z",
+    "description": "Web application to provide an interface for PCOR Patient Merging Test Harness",
+    "stars": "1",
+    "text": "mitre/ptmerge-frontend",
+    "title": "mitre/ptmerge-frontend",
+    "url": "https://github.com/mitre/ptmerge-frontend"
+   }
+  },
+  {
+   "key": "mitre/ps_pc_props",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2017-01-10T18:31:36Z",
+    "description": "PowerShell Utilities for Security Situational Awareness",
+    "stars": "13",
+    "text": "mitre/ps_pc_props",
+    "title": "mitre/ps_pc_props",
+    "url": "https://github.com/mitre/ps_pc_props"
+   }
+  },
+  {
+   "key": "mitre/ptmerge",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2017-03-09T13:23:28Z",
+    "description": "Service for merging two FHIR based patient records",
+    "stars": "2",
+    "text": "mitre/ptmerge",
+    "title": "mitre/ptmerge",
+    "url": "https://github.com/mitre/ptmerge"
+   }
+  },
+  {
+   "key": "mitre/FindRogueElfs",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2017-02-03T20:16:14Z",
+    "description": "FindRogueElfs is a script designed to find ELF files on a Linux machine which are not part of any RPM on the system",
+    "stars": "7",
+    "text": "mitre/FindRogueElfs",
+    "title": "mitre/FindRogueElfs",
+    "url": "https://github.com/mitre/FindRogueElfs"
+   }
+  },
+  {
+   "key": "mitre/repochk",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2017-02-03T20:16:56Z",
+    "description": "repochk is a set of scripts designed to find RPMs installed on a system which are out of date or newer than what is available on the official mirror",
+    "stars": "2",
+    "text": "mitre/repochk",
+    "title": "mitre/repochk",
+    "url": "https://github.com/mitre/repochk"
+   }
+  },
+  {
+   "key": "mitre/SystemInspector",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2018-05-22T18:08:24Z",
+    "description": "SystemInspector is a script to pull a majority of the security-relevant files and settings from a system.",
+    "stars": "18",
+    "text": "mitre/SystemInspector",
+    "title": "mitre/SystemInspector",
+    "url": "https://github.com/mitre/SystemInspector"
+   }
+  },
+  {
+   "key": "mitre/multiscanner-ansible",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2019-04-11T12:13:36Z",
+    "description": "Ansible configurations for distributed MultiScanner installations",
+    "stars": "14",
+    "text": "mitre/multiscanner-ansible",
+    "title": "mitre/multiscanner-ansible",
+    "url": "https://github.com/mitre/multiscanner-ansible"
+   }
+  },
+  {
+   "key": "mitre/vulnerable-mobile-apps",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2019-05-24T14:10:31Z",
+    "stars": "31",
+    "text": "mitre/vulnerable-mobile-apps",
+    "title": "mitre/vulnerable-mobile-apps",
+    "url": "https://github.com/mitre/vulnerable-mobile-apps"
+   }
+  },
+  {
+   "key": "mitre/device-admin-sample",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2017-08-18T02:43:01Z",
+    "stars": "51",
+    "text": "mitre/device-admin-sample",
+    "title": "mitre/device-admin-sample",
+    "url": "https://github.com/mitre/device-admin-sample"
+   }
+  },
+  {
+   "key": "mitre/ptmerge-interface",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2017-03-09T02:59:56Z",
+    "description": "Specification for FHIR patient merging",
+    "stars": "2",
+    "text": "mitre/ptmerge-interface",
+    "title": "mitre/ptmerge-interface",
+    "url": "https://github.com/mitre/ptmerge-interface"
+   }
+  },
+  {
+   "key": "mitre/uploaddataapp",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2018-05-29T19:49:05Z",
+    "stars": "7",
+    "text": "mitre/uploaddataapp",
+    "title": "mitre/uploaddataapp",
+    "url": "https://github.com/mitre/uploaddataapp"
+   }
+  },
+  {
+   "key": "mitre/acmeairlines",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2017-03-29T17:05:56Z",
+    "stars": "6",
+    "text": "mitre/acmeairlines",
+    "title": "mitre/acmeairlines",
+    "url": "https://github.com/mitre/acmeairlines"
+   }
+  },
+  {
+   "key": "mitre/stixmarx",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2026-04-13T16:46:33Z",
+    "description": "Data Markings API for STIX 1.x",
+    "stars": "9",
+    "text": "mitre/stixmarx",
+    "title": "mitre/stixmarx",
+    "url": "https://github.com/mitre/stixmarx"
+   }
+  },
+  {
+   "key": "mitre/stix-edh",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2022-08-10T18:30:15Z",
+    "description": "STIX 1.x Data Markings for ESSA",
+    "stars": "6",
+    "text": "mitre/stix-edh",
+    "title": "mitre/stix-edh",
+    "url": "https://github.com/mitre/stix-edh"
+   }
+  },
+  {
+   "key": "mitre/cti-python-stix2",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2019-10-17T18:12:45Z",
+    "description": "OASIS Open Repository: Python APIs for STIX 2",
+    "stars": "7",
+    "text": "mitre/cti-python-stix2",
+    "title": "mitre/cti-python-stix2",
+    "url": "https://github.com/mitre/cti-python-stix2"
+   }
+  },
+  {
+   "key": "mitre/chef-nginx-hardening",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2022-06-03T20:58:11Z",
+    "description": "ALPHA WIP This chef cookbook provides secure nginx configurations.",
+    "stars": "4",
+    "text": "mitre/chef-nginx-hardening",
+    "title": "mitre/chef-nginx-hardening",
+    "url": "https://github.com/mitre/chef-nginx-hardening"
+   }
+  },
+  {
+   "key": "mitre/nginx-baseline",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2021-08-23T20:34:49Z",
+    "description": "Nginx Baseline - InSpec Profile",
+    "stars": "10",
+    "text": "mitre/nginx-baseline",
+    "title": "mitre/nginx-baseline",
+    "url": "https://github.com/mitre/nginx-baseline"
+   }
+  },
+  {
+   "key": "mitre/cti",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2026-06-08T14:09:39Z",
+    "description": "Cyber Threat Intelligence Repository expressed in STIX 2.0",
+    "stars": "2078",
+    "text": "mitre/cti",
+    "title": "mitre/cti",
+    "url": "https://github.com/mitre/cti"
+   }
+  },
+  {
+   "key": "mitre/atdf",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2019-09-03T21:20:17Z",
+    "description": "Automated Test Decision Framework",
+    "stars": "7",
+    "text": "mitre/atdf",
+    "title": "mitre/atdf",
+    "url": "https://github.com/mitre/atdf"
+   }
+  },
+  {
+   "key": "mitre/oldcpsa",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2022-10-04T14:42:07Z",
+    "description": "Cryptographic Protocol Shapes Analyzer",
+    "stars": "37",
+    "text": "mitre/oldcpsa",
+    "title": "mitre/oldcpsa",
+    "url": "https://github.com/mitre/oldcpsa"
+   }
+  },
+  {
+   "key": "mitre/sparklyr.nested",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2026-02-27T14:56:55Z",
+    "description": "A sparklyr extension for nested data",
+    "stars": "30",
+    "text": "mitre/sparklyr.nested",
+    "title": "mitre/sparklyr.nested",
+    "url": "https://github.com/mitre/sparklyr.nested"
+   }
+  },
+  {
+   "key": "mitre/brawl-public-game-001",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2020-10-02T09:07:56Z",
+    "description": "Data from a BRAWL Automated Adversary Emulation Exercise",
+    "stars": "214",
+    "text": "mitre/brawl-public-game-001",
+    "title": "mitre/brawl-public-game-001",
+    "url": "https://github.com/mitre/brawl-public-game-001"
+   }
+  },
+  {
+   "key": "mitre/cascade-server",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2022-12-08T07:42:38Z",
+    "description": "CASCADE Server",
+    "stars": "273",
+    "text": "mitre/cascade-server",
+    "title": "mitre/cascade-server",
+    "url": "https://github.com/mitre/cascade-server"
+   }
+  },
+  {
+   "key": "mitre/cis-kubernetes-benchmark",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2023-05-02T14:15:24Z",
+    "description": "ALPHA WIP MITRE fork of the DevSec CIS Kubernetes Benchmark - InSpec Profile",
+    "stars": "2",
+    "text": "mitre/cis-kubernetes-benchmark",
+    "title": "mitre/cis-kubernetes-benchmark",
+    "url": "https://github.com/mitre/cis-kubernetes-benchmark"
+   }
+  },
+  {
+   "key": "mitre/heimdall-baseline",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2020-10-08T16:16:21Z",
+    "description": "(WIP) InSpec Profile for the Heimdall Application",
+    "stars": "1",
+    "text": "mitre/heimdall-baseline",
+    "title": "mitre/heimdall-baseline",
+    "url": "https://github.com/mitre/heimdall-baseline"
+   }
+  },
+  {
+   "key": "mitre/parslet-inspec",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2018-12-18T19:09:10Z",
+    "description": "ALPHA WIP A parselet to parse and work with native InSpec Profiles",
+    "stars": "1",
+    "text": "mitre/parslet-inspec",
+    "title": "mitre/parslet-inspec",
+    "url": "https://github.com/mitre/parslet-inspec"
+   }
+  },
+  {
+   "key": "mitre/docker-ce-cis-baseline",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2025-12-14T20:52:33Z",
+    "description": "CIS Docker Community Edition Benchmark InSpec Profile",
+    "stars": "8",
+    "text": "mitre/docker-ce-cis-baseline",
+    "title": "mitre/docker-ce-cis-baseline",
+    "url": "https://github.com/mitre/docker-ce-cis-baseline"
+   }
+  },
+  {
+   "key": "mitre/chef-cis-docker-ce-hardening",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2022-06-03T20:58:10Z",
+    "description": "ALPHA WIP A hardening recipe and cookbook for the CIS Docker Community Edition Benchmark",
+    "stars": "1",
+    "text": "mitre/chef-cis-docker-ce-hardening",
+    "title": "mitre/chef-cis-docker-ce-hardening",
+    "url": "https://github.com/mitre/chef-cis-docker-ce-hardening"
+   }
+  },
+  {
+   "key": "mitre/stix2patterns_translator",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2018-10-04T11:05:12Z",
+    "description": "Translate STIX 2 Patterning Queries",
+    "stars": "31",
+    "text": "mitre/stix2patterns_translator",
+    "title": "mitre/stix2patterns_translator",
+    "url": "https://github.com/mitre/stix2patterns_translator"
+   }
+  },
+  {
+   "key": "mitre/mvndeps",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2021-08-09T20:50:57Z",
+    "description": "Use (previously installed) maven from R to resolve java dependencies",
+    "stars": "3",
+    "text": "mitre/mvndeps",
+    "title": "mitre/mvndeps",
+    "url": "https://github.com/mitre/mvndeps"
+   }
+  },
+  {
+   "key": "mitre/credentials",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2017-11-07T22:19:53Z",
+    "description": "Insulates package authors from worrying about how to collect user credentials",
+    "stars": "8",
+    "text": "mitre/credentials",
+    "title": "mitre/credentials",
+    "url": "https://github.com/mitre/credentials"
+   }
+  },
+  {
+   "key": "mitre/ckl2csv",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2018-11-23T23:05:52Z",
+    "description": "Converts a DISA Checklist XML file to a CSV file",
+    "stars": "1",
+    "text": "mitre/ckl2csv",
+    "title": "mitre/ckl2csv",
+    "url": "https://github.com/mitre/ckl2csv"
+   }
+  },
+  {
+   "key": "mitre/demo-aws-baseline",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2022-02-07T05:56:38Z",
+    "description": "Example: AWS InSpec profile for validation of AWS infrastructure",
+    "stars": "2",
+    "text": "mitre/demo-aws-baseline",
+    "title": "mitre/demo-aws-baseline",
+    "url": "https://github.com/mitre/demo-aws-baseline"
+   }
+  },
+  {
+   "key": "mitre/demo-aws-hardening",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2022-02-07T08:34:31Z",
+    "description": "DEMO: A kitchen-terraform based example of building and validating AWS security settings",
+    "stars": "4",
+    "text": "mitre/demo-aws-hardening",
+    "title": "mitre/demo-aws-hardening",
+    "url": "https://github.com/mitre/demo-aws-hardening"
+   }
+  },
+  {
+   "key": "mitre/aws-foundations-cis-baseline",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2025-12-14T20:57:23Z",
+    "description": "InSpec profile to validate your VPC to the standards of the CIS Amazon Web Services Foundations Benchmark",
+    "stars": "77",
+    "text": "mitre/aws-foundations-cis-baseline",
+    "title": "mitre/aws-foundations-cis-baseline",
+    "url": "https://github.com/mitre/aws-foundations-cis-baseline"
+   }
+  },
+  {
+   "key": "mitre/cis-aws-foundations-hardening",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2025-12-14T20:57:24Z",
+    "description": "(WIP) A terraform / kitchen-terraform hardening baseline for the cis-aws-foundations-baseline",
+    "stars": "24",
+    "text": "mitre/cis-aws-foundations-hardening",
+    "title": "mitre/cis-aws-foundations-hardening",
+    "url": "https://github.com/mitre/cis-aws-foundations-hardening"
+   }
+  },
+  {
+   "key": "mitre/Rsch",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2018-01-10T21:33:38Z",
+    "description": "Connect to remote systems, execute system commands, collect results from stdout",
+    "stars": "5",
+    "text": "mitre/Rsch",
+    "title": "mitre/Rsch",
+    "url": "https://github.com/mitre/Rsch"
+   }
+  },
+  {
+   "key": "mitre/earthtools",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2021-08-09T20:46:07Z",
+    "description": "Tools for working on planet Earth",
+    "stars": "4",
+    "text": "mitre/earthtools",
+    "title": "mitre/earthtools",
+    "url": "https://github.com/mitre/earthtools"
+   }
+  },
+  {
+   "key": "mitre/fusera",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2020-01-29T22:56:47Z",
+    "description": "A FUSE interface to the NCBI Sequence Read Archive (SRA)",
+    "stars": "31",
+    "text": "mitre/fusera",
+    "title": "mitre/fusera",
+    "url": "https://github.com/mitre/fusera"
+   }
+  },
+  {
+   "key": "mitre/IMAC",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2021-04-13T16:59:37Z",
+    "description": "Ground Truth Adjudication Tool",
+    "stars": "8",
+    "text": "mitre/IMAC",
+    "title": "mitre/IMAC",
+    "url": "https://github.com/mitre/IMAC"
+   }
+  },
+  {
+   "key": "mitre/clusterconf",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2020-06-02T04:15:37Z",
+    "description": "Manage Hadoop cluster configurations",
+    "stars": "4",
+    "text": "mitre/clusterconf",
+    "title": "mitre/clusterconf",
+    "url": "https://github.com/mitre/clusterconf"
+   }
+  },
+  {
+   "key": "mitre/webhdfs",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2025-10-02T07:30:38Z",
+    "description": "Interface with WebHDFS Service in a Cluster-Neutral Way",
+    "stars": "3",
+    "text": "mitre/webhdfs",
+    "title": "mitre/webhdfs",
+    "url": "https://github.com/mitre/webhdfs"
+   }
+  },
+  {
+   "key": "mitre/vulcan",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2026-06-11T04:33:07Z",
+    "description": "A web application to streamline the development of STIGs from SRGs",
+    "stars": "85",
+    "text": "mitre/vulcan",
+    "title": "mitre/vulcan",
+    "url": "https://github.com/mitre/vulcan"
+   }
+  },
+  {
+   "key": "mitre/apache-tomcat-7-cis-baseline",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2025-12-14T21:09:29Z",
+    "description": "(WIP) (ALPHA) InSpec Profile for the CIS Apache Tomcat v7 Benchmark",
+    "stars": "3",
+    "text": "mitre/apache-tomcat-7-cis-baseline",
+    "title": "mitre/apache-tomcat-7-cis-baseline",
+    "url": "https://github.com/mitre/apache-tomcat-7-cis-baseline"
+   }
+  },
+  {
+   "key": "mitre/chef-cis-tomcat-hardening",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2022-06-03T20:58:10Z",
+    "description": "(WIP) Chef recipe for hardening tomcat 8 to the CIS Tomcat Benchmark v1.0.1",
+    "stars": "2",
+    "text": "mitre/chef-cis-tomcat-hardening",
+    "title": "mitre/chef-cis-tomcat-hardening",
+    "url": "https://github.com/mitre/chef-cis-tomcat-hardening"
+   }
+  },
+  {
+   "key": "mitre/ansible-cis-tomcat-hardening",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2025-10-13T23:20:52Z",
+    "description": "WIP Ansible playbook for hardening a tomcat instance to the CIS Tomcat Benchmark v1.0.1",
+    "stars": "7",
+    "text": "mitre/ansible-cis-tomcat-hardening",
+    "title": "mitre/ansible-cis-tomcat-hardening",
+    "url": "https://github.com/mitre/ansible-cis-tomcat-hardening"
+   }
+  },
+  {
+   "key": "mitre/apache-tomcat-8-cis-baseline",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2025-12-15T02:53:28Z",
+    "description": "(WIP) (Alpha) InSpec profile for CIS Apache Tomcat v8 Benchmark",
+    "stars": "6",
+    "text": "mitre/apache-tomcat-8-cis-baseline",
+    "title": "mitre/apache-tomcat-8-cis-baseline",
+    "url": "https://github.com/mitre/apache-tomcat-8-cis-baseline"
+   }
+  },
+  {
+   "key": "mitre/heimdall-lite-1.0",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2019-11-07T01:36:00Z",
+    "description": "A single page java-script implementation of the MITRE Heimdall InSpec results viewer",
+    "stars": "4",
+    "text": "mitre/heimdall-lite-1.0",
+    "title": "mitre/heimdall-lite-1.0",
+    "url": "https://github.com/mitre/heimdall-lite-1.0"
+   }
+  },
+  {
+   "key": "mitre/yararules-python",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2024-03-09T02:53:25Z",
+    "description": "Easily scan with multiple yara rules from different sources.",
+    "stars": "14",
+    "text": "mitre/yararules-python",
+    "title": "mitre/yararules-python",
+    "url": "https://github.com/mitre/yararules-python"
+   }
+  },
+  {
+   "key": "mitre/aws-s3-baseline",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2025-01-17T18:06:33Z",
+    "description": "A micro InSpec baseline to check for insecure or public s3 buckets in your VPC",
+    "stars": "15",
+    "text": "mitre/aws-s3-baseline",
+    "title": "mitre/aws-s3-baseline",
+    "url": "https://github.com/mitre/aws-s3-baseline"
+   }
+  },
+  {
+   "key": "mitre/keyterms",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2019-02-07T18:04:01Z",
+    "description": "KeyTerms centralized terminology management tool",
+    "stars": "13",
+    "text": "mitre/keyterms",
+    "title": "mitre/keyterms",
+    "url": "https://github.com/mitre/keyterms"
+   }
+  },
+  {
+   "key": "mitre/keyterms-nlp",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2019-05-13T21:00:43Z",
+    "description": "Linguistic services for KeyTerms or for independent use",
+    "stars": "3",
+    "text": "mitre/keyterms-nlp",
+    "title": "mitre/keyterms-nlp",
+    "url": "https://github.com/mitre/keyterms-nlp"
+   }
+  },
+  {
+   "key": "mitre/microsoft-windows-2012r2-memberserver-stig-baseline",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2022-02-07T07:21:30Z",
+    "description": "InSpec profile for the Windows 2012r2 Memberserver DISA STIG",
+    "stars": "4",
+    "text": "mitre/microsoft-windows-2012r2-memberserver-stig-baseline",
+    "title": "mitre/microsoft-windows-2012r2-memberserver-stig-baseline",
+    "url": "https://github.com/mitre/microsoft-windows-2012r2-memberserver-stig-baseline"
+   }
+  },
+  {
+   "key": "mitre/ansible-cis-docker-ce-hardening",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2025-10-13T23:19:28Z",
+    "description": "(WIP) An ansible playbook to harden a docker host to the CIS CE Benchmark requirements",
+    "stars": "31",
+    "text": "mitre/ansible-cis-docker-ce-hardening",
+    "title": "mitre/ansible-cis-docker-ce-hardening",
+    "url": "https://github.com/mitre/ansible-cis-docker-ce-hardening"
+   }
+  },
+  {
+   "key": "mitre/chef-stig-windows-2012-v2r12-memberserver-hardening",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2019-05-17T20:57:46Z",
+    "stars": "1",
+    "text": "mitre/chef-stig-windows-2012-v2r12-memberserver-hardening",
+    "title": "mitre/chef-stig-windows-2012-v2r12-memberserver-hardening",
+    "url": "https://github.com/mitre/chef-stig-windows-2012-v2r12-memberserver-hardening"
+   }
+  },
+  {
+   "key": "mitre/chef-stig-windows-server-2016-v1r4-hardening",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2019-05-17T20:58:38Z",
+    "description": "(WIP) chef recipe to harden a Windows 2016 server to the DISA STIGs",
+    "stars": "4",
+    "text": "mitre/chef-stig-windows-server-2016-v1r4-hardening",
+    "title": "mitre/chef-stig-windows-server-2016-v1r4-hardening",
+    "url": "https://github.com/mitre/chef-stig-windows-server-2016-v1r4-hardening"
+   }
+  },
+  {
+   "key": "mitre/microsoft-windows-server-2016-stig-baseline",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2023-07-06T12:13:48Z",
+    "description": "An InSpec Profile for evaluating a Windows 2016 server to the DISA STIGs",
+    "stars": "13",
+    "text": "mitre/microsoft-windows-server-2016-stig-baseline",
+    "title": "mitre/microsoft-windows-server-2016-stig-baseline",
+    "url": "https://github.com/mitre/microsoft-windows-server-2016-stig-baseline"
+   }
+  },
+  {
+   "key": "mitre/lingvo",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2018-08-31T20:58:46Z",
+    "description": "Lingvo is a JVM-compatible package containing enumerations of various ISO codes related to language including ISO 639-3 and ISO 15924.",
+    "stars": "7",
+    "text": "mitre/lingvo",
+    "title": "mitre/lingvo",
+    "url": "https://github.com/mitre/lingvo"
+   }
+  },
+  {
+   "key": "mitre/microsoft-iis-8.5-server-stig-baseline",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2024-11-30T22:56:16Z",
+    "description": "InSpec profile to validate an MS IIS Server to the DISA STIG",
+    "stars": "4",
+    "text": "mitre/microsoft-iis-8.5-server-stig-baseline",
+    "title": "mitre/microsoft-iis-8.5-server-stig-baseline",
+    "url": "https://github.com/mitre/microsoft-iis-8.5-server-stig-baseline"
+   }
+  },
+  {
+   "key": "mitre/microsoft-iis-8.5-site-stig-baseline",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2024-11-30T22:51:38Z",
+    "description": "Inspec Profile to validate MS IIS 8.5 to the DISA STIG",
+    "stars": "6",
+    "text": "mitre/microsoft-iis-8.5-site-stig-baseline",
+    "title": "mitre/microsoft-iis-8.5-site-stig-baseline",
+    "url": "https://github.com/mitre/microsoft-iis-8.5-site-stig-baseline"
+   }
+  },
+  {
+   "key": "mitre/microsoft-sql-server-2014-instance-stig-baseline",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2024-12-01T03:03:47Z",
+    "description": "Inspec Profile to validate MSSQL 2014",
+    "stars": "4",
+    "text": "mitre/microsoft-sql-server-2014-instance-stig-baseline",
+    "title": "mitre/microsoft-sql-server-2014-instance-stig-baseline",
+    "url": "https://github.com/mitre/microsoft-sql-server-2014-instance-stig-baseline"
+   }
+  },
+  {
+   "key": "mitre/microsoft-sql-server-2014-database-stig-baseline",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2025-05-08T14:54:59Z",
+    "description": "Inspec Profile to validate MSSQL Database 2014",
+    "stars": "3",
+    "text": "mitre/microsoft-sql-server-2014-database-stig-baseline",
+    "title": "mitre/microsoft-sql-server-2014-database-stig-baseline",
+    "url": "https://github.com/mitre/microsoft-sql-server-2014-database-stig-baseline"
    }
   },
   {
@@ -4105,6 +6109,2186 @@
     "text": "nsacyber/RIM-Tool",
     "title": "nsacyber/RIM-Tool",
     "url": "https://github.com/nsacyber/RIM-Tool"
+   }
+  },
+  {
+   "key": "sandialabs/slycat",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2026-06-10T17:32:11Z",
+    "description": "A web-based analysis and visualization platform for HPC ensembles and high dimensional data sets.",
+    "stars": "75",
+    "text": "sandialabs/slycat",
+    "title": "sandialabs/slycat",
+    "url": "https://github.com/sandialabs/slycat"
+   }
+  },
+  {
+   "key": "sandialabs/Chordly",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2025-01-26T22:32:08Z",
+    "description": "Chordly is a javascript library that may be used to detect and act upon key sequences entered by a user.",
+    "stars": "19",
+    "text": "sandialabs/Chordly",
+    "title": "sandialabs/Chordly",
+    "url": "https://github.com/sandialabs/Chordly"
+   }
+  },
+  {
+   "key": "sandialabs/affect",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2018-12-18T16:13:30Z",
+    "description": "Read/write and post-process results of the finite element method in Python and C++.",
+    "stars": "0",
+    "text": "sandialabs/affect",
+    "title": "sandialabs/affect",
+    "url": "https://github.com/sandialabs/affect"
+   }
+  },
+  {
+   "key": "sandialabs/Albany",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2026-06-03T22:48:58Z",
+    "description": "Sandia National Laboratories' Albany multiphysics code",
+    "stars": "328",
+    "text": "sandialabs/Albany",
+    "title": "sandialabs/Albany",
+    "url": "https://github.com/sandialabs/Albany"
+   }
+  },
+  {
+   "key": "sandialabs/toyplot",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2026-05-04T20:36:49Z",
+    "description": "Interactive plotting for Python.",
+    "stars": "446",
+    "text": "sandialabs/toyplot",
+    "title": "sandialabs/toyplot",
+    "url": "https://github.com/sandialabs/toyplot"
+   }
+  },
+  {
+   "key": "sandialabs/d2t",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2016-06-13T21:58:08Z",
+    "description": "Doubly Distributed Transactions",
+    "stars": "1",
+    "text": "sandialabs/d2t",
+    "title": "sandialabs/d2t",
+    "url": "https://github.com/sandialabs/d2t"
+   }
+  },
+  {
+   "key": "sandialabs/scot",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2024-11-04T14:36:39Z",
+    "description": "Sandia Cyber Omni Tracker (SCOT)",
+    "stars": "254",
+    "text": "sandialabs/scot",
+    "title": "sandialabs/scot",
+    "url": "https://github.com/sandialabs/scot"
+   }
+  },
+  {
+   "key": "sandialabs/spat",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2020-06-24T16:44:53Z",
+    "description": "A graphical user interface for measuring and performing inter-active analysis of physical unclonable functions (PUFs)",
+    "stars": "27",
+    "text": "sandialabs/spat",
+    "title": "sandialabs/spat",
+    "url": "https://github.com/sandialabs/spat"
+   }
+  },
+  {
+   "key": "sandialabs/gibraltar",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2020-10-22T22:30:28Z",
+    "stars": "4",
+    "text": "sandialabs/gibraltar",
+    "title": "sandialabs/gibraltar",
+    "url": "https://github.com/sandialabs/gibraltar"
+   }
+  },
+  {
+   "key": "sandialabs/SNL-SWAN",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2023-06-27T16:54:44Z",
+    "description": "SNL-SWAN",
+    "stars": "12",
+    "text": "sandialabs/SNL-SWAN",
+    "title": "sandialabs/SNL-SWAN",
+    "url": "https://github.com/sandialabs/SNL-SWAN"
+   }
+  },
+  {
+   "key": "sandialabs/qthreads",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2026-05-11T22:41:15Z",
+    "description": "Lightweight locality-aware user-level threading runtime.",
+    "stars": "200",
+    "text": "sandialabs/qthreads",
+    "title": "sandialabs/qthreads",
+    "url": "https://github.com/sandialabs/qthreads"
+   }
+  },
+  {
+   "key": "sandialabs/seacas",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2026-06-08T23:58:18Z",
+    "description": "The Sandia Engineering Analysis Code Access System (SEACAS) is a suite of preprocessing, postprocessing, translation, and utility applications supporting finite element analysis software using the Exodus database file format.",
+    "stars": "183",
+    "text": "sandialabs/seacas",
+    "title": "sandialabs/seacas",
+    "url": "https://github.com/sandialabs/seacas"
+   }
+  },
+  {
+   "key": "sandialabs/n2a",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2026-06-01T13:07:04Z",
+    "description": "An object-oriented language for modeling large-scale neural systems, along with an IDE for writing and simulating models.",
+    "stars": "30",
+    "text": "sandialabs/n2a",
+    "title": "sandialabs/n2a",
+    "url": "https://github.com/sandialabs/n2a"
+   }
+  },
+  {
+   "key": "sandialabs/portals4",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2024-09-09T16:47:02Z",
+    "description": "Portals is a low-level network API for high-performance networking on high-performance computing systems developed by Sandia National Laboratories, Intel Corporation, and the University of New Mexico.  The Portals 4 Reference Implementation is a complete implementation of Portals 4, with transport over InfiniBand VERBS and UDP. Shared memory transport is available as an optimization, including Linux KNEM support. The Portals 4 reference implementation is supported on both modern 64 bit Linux and 64 bit Mac OS X. The reference implementation has been developed by Sandia National Laboratories, Intel Corporation, and System Fabric Works.  For more information on the Portals 4 standard, please see the Portals 4 page. ",
+    "stars": "40",
+    "text": "sandialabs/portals4",
+    "title": "sandialabs/portals4",
+    "url": "https://github.com/sandialabs/portals4"
+   }
+  },
+  {
+   "key": "sandialabs/StrideSearch",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2022-01-19T20:29:55Z",
+    "description": "Storm detection in climate data",
+    "stars": "13",
+    "text": "sandialabs/StrideSearch",
+    "title": "sandialabs/StrideSearch",
+    "url": "https://github.com/sandialabs/StrideSearch"
+   }
+  },
+  {
+   "key": "sandialabs/slycat-data",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2026-04-29T19:34:24Z",
+    "description": "A directory of sample data that can be used by Slycat",
+    "stars": "2",
+    "text": "sandialabs/slycat-data",
+    "title": "sandialabs/slycat-data",
+    "url": "https://github.com/sandialabs/slycat-data"
+   }
+  },
+  {
+   "key": "sandialabs/pyGSTi",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2026-06-11T02:32:58Z",
+    "description": "A python implementation of Gate Set Tomography",
+    "stars": "182",
+    "text": "sandialabs/pyGSTi",
+    "title": "sandialabs/pyGSTi",
+    "url": "https://github.com/sandialabs/pyGSTi"
+   }
+  },
+  {
+   "key": "sandialabs/sirocco-release",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2019-07-18T21:09:15Z",
+    "stars": "1",
+    "text": "sandialabs/sirocco-release",
+    "title": "sandialabs/sirocco-release",
+    "url": "https://github.com/sandialabs/sirocco-release"
+   }
+  },
+  {
+   "key": "sandialabs/pecos",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2026-04-10T19:23:08Z",
+    "description": "Python package for performance monitoring of time series data",
+    "stars": "74",
+    "text": "sandialabs/pecos",
+    "title": "sandialabs/pecos",
+    "url": "https://github.com/sandialabs/pecos"
+   }
+  },
+  {
+   "key": "sandialabs/Juxtaposer",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2025-03-20T21:38:36Z",
+    "description": "Juxtaposer is software used to identify actively mobile genomic elements using high throughput sequencing data.",
+    "stars": "5",
+    "text": "sandialabs/Juxtaposer",
+    "title": "sandialabs/Juxtaposer",
+    "url": "https://github.com/sandialabs/Juxtaposer"
+   }
+  },
+  {
+   "key": "sandialabs/MATLAB_PV_LIB",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2022-03-03T16:15:24Z",
+    "description": "MATLAB PV function library",
+    "stars": "33",
+    "text": "sandialabs/MATLAB_PV_LIB",
+    "title": "sandialabs/MATLAB_PV_LIB",
+    "url": "https://github.com/sandialabs/MATLAB_PV_LIB"
+   }
+  },
+  {
+   "key": "sandialabs/omega_h",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2024-06-13T16:11:22Z",
+    "description": "Simplex mesh adaptivity for HPC",
+    "stars": "129",
+    "text": "sandialabs/omega_h",
+    "title": "sandialabs/omega_h",
+    "url": "https://github.com/sandialabs/omega_h"
+   }
+  },
+  {
+   "key": "sandialabs/SpokeDartsPublic",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2021-08-04T00:07:13Z",
+    "description": "SpokeDarts sphere-packing sampling in any dimension. Advancing front sampling from radial lines (spokes) through prior samples.",
+    "stars": "10",
+    "text": "sandialabs/SpokeDartsPublic",
+    "title": "sandialabs/SpokeDartsPublic",
+    "url": "https://github.com/sandialabs/SpokeDartsPublic"
+   }
+  },
+  {
+   "key": "sandialabs/mac-sandbox",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2016-07-08T19:13:43Z",
+    "description": "This is a malware analyzer for Mac OS X that extends the Cuckoo Sandbox project (https://cuckoosandbox.org/)",
+    "stars": "23",
+    "text": "sandialabs/mac-sandbox",
+    "title": "sandialabs/mac-sandbox",
+    "url": "https://github.com/sandialabs/mac-sandbox"
+   }
+  },
+  {
+   "key": "sandialabs/exomerge",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2019-12-10T11:00:49Z",
+    "description": "Exomerge is a lightweight Python module for reading, manipulating and writing ExodusII files.",
+    "stars": "6",
+    "text": "sandialabs/exomerge",
+    "title": "sandialabs/exomerge",
+    "url": "https://github.com/sandialabs/exomerge"
+   }
+  },
+  {
+   "key": "sandialabs/FRENSIE-0.3.0",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2016-09-01T20:52:07Z",
+    "description": "SCR #2123",
+    "stars": "0",
+    "text": "sandialabs/FRENSIE-0.3.0",
+    "title": "sandialabs/FRENSIE-0.3.0",
+    "url": "https://github.com/sandialabs/FRENSIE-0.3.0"
+   }
+  },
+  {
+   "key": "sandialabs/SMASHtoolbox",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2026-06-10T14:47:21Z",
+    "description": "Version 1.0 of the SMASH toolbox",
+    "stars": "11",
+    "text": "sandialabs/SMASHtoolbox",
+    "title": "sandialabs/SMASHtoolbox",
+    "url": "https://github.com/sandialabs/SMASHtoolbox"
+   }
+  },
+  {
+   "key": "sandialabs/GeoPlace",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2017-03-26T22:26:35Z",
+    "description": "Sampling and placement algorithms for optimal placement of sensor footprint and subfootprint shapes.",
+    "stars": "1",
+    "text": "sandialabs/GeoPlace",
+    "title": "sandialabs/GeoPlace",
+    "url": "https://github.com/sandialabs/GeoPlace"
+   }
+  },
+  {
+   "key": "sandialabs/laikaboss",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2022-11-09T21:30:37Z",
+    "description": "Laika BOSS: Object Scanning System",
+    "stars": "11",
+    "text": "sandialabs/laikaboss",
+    "title": "sandialabs/laikaboss",
+    "url": "https://github.com/sandialabs/laikaboss"
+   }
+  },
+  {
+   "key": "sandialabs/chama",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2026-04-10T19:30:46Z",
+    "description": "Python package for sensor placement optimization",
+    "stars": "77",
+    "text": "sandialabs/chama",
+    "title": "sandialabs/chama",
+    "url": "https://github.com/sandialabs/chama"
+   }
+  },
+  {
+   "key": "sandialabs/Fenix",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2026-05-21T21:10:33Z",
+    "description": "Fenix: A Portable, Flexible Fault Tolerance Programming Framework for MPI Applications",
+    "stars": "15",
+    "text": "sandialabs/Fenix",
+    "title": "sandialabs/Fenix",
+    "url": "https://github.com/sandialabs/Fenix"
+   }
+  },
+  {
+   "key": "sandialabs/dial-a-cluster",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2020-04-03T23:01:34Z",
+    "description": "Dial-a-cluster can be used to perform interactive visualization/clustering of multi-variate time series data. The original version was in Matlab. This is version 2 and is implemented using the Slycat framework.",
+    "stars": "4",
+    "text": "sandialabs/dial-a-cluster",
+    "title": "sandialabs/dial-a-cluster",
+    "url": "https://github.com/sandialabs/dial-a-cluster"
+   }
+  },
+  {
+   "key": "sandialabs/WNTR",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2026-04-13T18:19:36Z",
+    "description": "An EPANET compatible python package to simulate and analyze water distribution networks under disaster scenarios.",
+    "stars": "12",
+    "text": "sandialabs/WNTR",
+    "title": "sandialabs/WNTR",
+    "url": "https://github.com/sandialabs/WNTR"
+   }
+  },
+  {
+   "key": "sandialabs/Prove-It",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2026-06-11T03:21:33Z",
+    "description": "A tool for proving and organizing general theorems using Python. ",
+    "stars": "36",
+    "text": "sandialabs/Prove-It",
+    "title": "sandialabs/Prove-It",
+    "url": "https://github.com/sandialabs/Prove-It"
+   }
+  },
+  {
+   "key": "sandialabs/implicit-sph",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2017-03-10T22:28:14Z",
+    "description": "Implicit SPH code using LAMMPS and Trilinos",
+    "stars": "5",
+    "text": "sandialabs/implicit-sph",
+    "title": "sandialabs/implicit-sph",
+    "url": "https://github.com/sandialabs/implicit-sph"
+   }
+  },
+  {
+   "key": "sandialabs/gnom3-fe",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2017-08-07T18:16:22Z",
+    "stars": "0",
+    "text": "sandialabs/gnom3-fe",
+    "title": "sandialabs/gnom3-fe",
+    "url": "https://github.com/sandialabs/gnom3-fe"
+   }
+  },
+  {
+   "key": "sandialabs/tbnn",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2018-02-10T00:41:19Z",
+    "description": "This code implements the Tensor Basis Neural Network (TBNN) as described in Ling et al. (Journal of Fluid Mechanics, 2016).",
+    "stars": "45",
+    "text": "sandialabs/tbnn",
+    "title": "sandialabs/tbnn",
+    "url": "https://github.com/sandialabs/tbnn"
+   }
+  },
+  {
+   "key": "sandialabs/linkshop",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2017-05-19T20:45:36Z",
+    "stars": "8",
+    "text": "sandialabs/linkshop",
+    "title": "sandialabs/linkshop",
+    "url": "https://github.com/sandialabs/linkshop"
+   }
+  },
+  {
+   "key": "sandialabs/lapart-python",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2021-03-18T13:14:26Z",
+    "stars": "10",
+    "text": "sandialabs/lapart-python",
+    "title": "sandialabs/lapart-python",
+    "url": "https://github.com/sandialabs/lapart-python"
+   }
+  },
+  {
+   "key": "sandialabs/Adaptive-Self-Tuning",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2017-08-07T16:52:55Z",
+    "stars": "0",
+    "text": "sandialabs/Adaptive-Self-Tuning",
+    "title": "sandialabs/Adaptive-Self-Tuning",
+    "url": "https://github.com/sandialabs/Adaptive-Self-Tuning"
+   }
+  },
+  {
+   "key": "sandialabs/SmartBlock",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2017-08-08T01:09:15Z",
+    "description": "Reusable workflow components using ADIOS + FlexPath",
+    "stars": "2",
+    "text": "sandialabs/SmartBlock",
+    "title": "sandialabs/SmartBlock",
+    "url": "https://github.com/sandialabs/SmartBlock"
+   }
+  },
+  {
+   "key": "sandialabs/Norma.jl",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2026-06-06T19:51:00Z",
+    "description": "A Julia testbed for solid mechanics, coupling and multiphysics",
+    "stars": "22",
+    "text": "sandialabs/Norma.jl",
+    "title": "sandialabs/Norma.jl",
+    "url": "https://github.com/sandialabs/Norma.jl"
+   }
+  },
+  {
+   "key": "sandialabs/The-Hybrid-Toolkit",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2024-04-08T15:41:43Z",
+    "stars": "0",
+    "text": "sandialabs/The-Hybrid-Toolkit",
+    "title": "sandialabs/The-Hybrid-Toolkit",
+    "url": "https://github.com/sandialabs/The-Hybrid-Toolkit"
+   }
+  },
+  {
+   "key": "sandialabs/n2a-repo-base",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2025-10-13T23:26:37Z",
+    "description": "N2A base models",
+    "stars": "0",
+    "text": "sandialabs/n2a-repo-base",
+    "title": "sandialabs/n2a-repo-base",
+    "url": "https://github.com/sandialabs/n2a-repo-base"
+   }
+  },
+  {
+   "key": "sandialabs/single-sided-messaging",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2017-10-12T19:15:50Z",
+    "stars": "0",
+    "text": "sandialabs/single-sided-messaging",
+    "title": "sandialabs/single-sided-messaging",
+    "url": "https://github.com/sandialabs/single-sided-messaging"
+   }
+  },
+  {
+   "key": "sandialabs/Arcus",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2025-11-24T01:13:48Z",
+    "description": "Arcus, developed by Sandia National Laboratories, is a C# library for calculating, parsing, formatting, converting and comparing both IPv4 and IPv6 addresses and subnets. It accounts for 128-bit numbers on 32-bit platforms.",
+    "stars": "11",
+    "text": "sandialabs/Arcus",
+    "title": "sandialabs/Arcus",
+    "url": "https://github.com/sandialabs/Arcus"
+   }
+  },
+  {
+   "key": "sandialabs/faodel",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2025-11-08T16:44:21Z",
+    "description": "Flexible, Asynchronous, Object Data-Exchange Libraries: HPC libraries for moving data between applications",
+    "stars": "6",
+    "text": "sandialabs/faodel",
+    "title": "sandialabs/faodel",
+    "url": "https://github.com/sandialabs/faodel"
+   }
+  },
+  {
+   "key": "sandialabs/BioRAM",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2023-12-14T16:55:00Z",
+    "description": "BioSafety and BioSecurity Laboratory Risk Assessment Tool",
+    "stars": "2",
+    "text": "sandialabs/BioRAM",
+    "title": "sandialabs/BioRAM",
+    "url": "https://github.com/sandialabs/BioRAM"
+   }
+  },
+  {
+   "key": "sandialabs/MCMD1",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2025-09-30T21:36:22Z",
+    "description": "Multi-configuration membrane distillation model version 1.0. Allows air-gap, and direct contact membrane distillation configurations. Programming strives to make simulation of other layouts straightforward.",
+    "stars": "3",
+    "text": "sandialabs/MCMD1",
+    "title": "sandialabs/MCMD1",
+    "url": "https://github.com/sandialabs/MCMD1"
+   }
+  },
+  {
+   "key": "sandialabs/bientropy",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2019-07-08T06:35:09Z",
+    "description": " BiEntropy Randomness Metrics for Python",
+    "stars": "7",
+    "text": "sandialabs/bientropy",
+    "title": "sandialabs/bientropy",
+    "url": "https://github.com/sandialabs/bientropy"
+   }
+  },
+  {
+   "key": "sandialabs/samlab",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2024-08-16T19:22:54Z",
+    "description": "Samlab provides tools for analyzing computer vision models.",
+    "stars": "3",
+    "text": "sandialabs/samlab",
+    "title": "sandialabs/samlab",
+    "url": "https://github.com/sandialabs/samlab"
+   }
+  },
+  {
+   "key": "sandialabs/Matrices",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2023-12-04T17:55:41Z",
+    "description": "Contains the matrix generation software and normed matrices described in \"Recreating Raven's: Software for systematically generating large numbers of Raven-like matrix problems with normed properties,\" published in Behavior Research Methods in 2010",
+    "stars": "17",
+    "text": "sandialabs/Matrices",
+    "title": "sandialabs/Matrices",
+    "url": "https://github.com/sandialabs/Matrices"
+   }
+  },
+  {
+   "key": "sandialabs/gr-pdu_utils",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2024-06-09T10:36:25Z",
+    "description": "GNU Radio PDU Utilities",
+    "stars": "76",
+    "text": "sandialabs/gr-pdu_utils",
+    "title": "sandialabs/gr-pdu_utils",
+    "url": "https://github.com/sandialabs/gr-pdu_utils"
+   }
+  },
+  {
+   "key": "sandialabs/gr-timing_utils",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2024-02-08T21:48:01Z",
+    "description": "GNU Radio Timing Utilties",
+    "stars": "28",
+    "text": "sandialabs/gr-timing_utils",
+    "title": "sandialabs/gr-timing_utils",
+    "url": "https://github.com/sandialabs/gr-timing_utils"
+   }
+  },
+  {
+   "key": "sandialabs/svp_UL1741SA",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2022-09-20T22:41:08Z",
+    "description": "SVP UL 1741 SA Test Scripts",
+    "stars": "0",
+    "text": "sandialabs/svp_UL1741SA",
+    "title": "sandialabs/svp_UL1741SA",
+    "url": "https://github.com/sandialabs/svp_UL1741SA"
+   }
+  },
+  {
+   "key": "sandialabs/svp_energy_lab",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2023-04-20T19:55:06Z",
+    "description": "SVP library that enables communication with energy lab equipment.",
+    "stars": "2",
+    "text": "sandialabs/svp_energy_lab",
+    "title": "sandialabs/svp_energy_lab",
+    "url": "https://github.com/sandialabs/svp_energy_lab"
+   }
+  },
+  {
+   "key": "sandialabs/InterSpec",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2026-06-10T22:43:51Z",
+    "description": "spectral radiation analysis software",
+    "stars": "220",
+    "text": "sandialabs/InterSpec",
+    "title": "sandialabs/InterSpec",
+    "url": "https://github.com/sandialabs/InterSpec"
+   }
+  },
+  {
+   "key": "sandialabs/svp_additional_tools",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2023-04-19T13:19:26Z",
+    "stars": "1",
+    "text": "sandialabs/svp_additional_tools",
+    "title": "sandialabs/svp_additional_tools",
+    "url": "https://github.com/sandialabs/svp_additional_tools"
+   }
+  },
+  {
+   "key": "sandialabs/linear-scaling-test",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2019-04-11T13:40:43Z",
+    "description": "Companion Software to “Assessment of localized and randomized algorithms for electronic structure”",
+    "stars": "1",
+    "text": "sandialabs/linear-scaling-test",
+    "title": "sandialabs/linear-scaling-test",
+    "url": "https://github.com/sandialabs/linear-scaling-test"
+   }
+  },
+  {
+   "key": "sandialabs/Whetstone",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2018-10-03T23:44:00Z",
+    "stars": "48",
+    "text": "sandialabs/Whetstone",
+    "title": "sandialabs/Whetstone",
+    "url": "https://github.com/sandialabs/Whetstone"
+   }
+  },
+  {
+   "key": "sandialabs/snl-quest",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2026-05-19T16:33:12Z",
+    "description": "An open source, Python-based software platform for energy storage simulation and analysis developed by Sandia National Laboratories.",
+    "stars": "156",
+    "text": "sandialabs/snl-quest",
+    "title": "sandialabs/snl-quest",
+    "url": "https://github.com/sandialabs/snl-quest"
+   }
+  },
+  {
+   "key": "sandialabs/miniGraphics",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2022-09-13T21:09:07Z",
+    "description": "Miniapp to demonstrate parallel rendering in an MPI environment using a sort-last parallel rendering approach.",
+    "stars": "9",
+    "text": "sandialabs/miniGraphics",
+    "title": "sandialabs/miniGraphics",
+    "url": "https://github.com/sandialabs/miniGraphics"
+   }
+  },
+  {
+   "key": "sandialabs/Paracousti",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2019-01-21T23:07:40Z",
+    "description": "Paracousti is an underwater sound propagation tool used to investigate changes to the marine environment from arrays of current- and wave-energy converters. Paracousti solves the governing equations with a finite-difference, time-domain scheme that can be massively parallelized for use on high performance computing clusters.",
+    "stars": "9",
+    "text": "sandialabs/Paracousti",
+    "title": "sandialabs/Paracousti",
+    "url": "https://github.com/sandialabs/Paracousti"
+   }
+  },
+  {
+   "key": "sandialabs/lgrtk",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2023-05-26T00:35:08Z",
+    "description": "Tool Kit for Lagrangian Grid Reconnection",
+    "stars": "24",
+    "text": "sandialabs/lgrtk",
+    "title": "sandialabs/lgrtk",
+    "url": "https://github.com/sandialabs/lgrtk"
+   }
+  },
+  {
+   "key": "sandialabs/SNL-Delft3D-FM-CEC",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2024-02-05T21:44:06Z",
+    "stars": "3",
+    "text": "sandialabs/SNL-Delft3D-FM-CEC",
+    "title": "sandialabs/SNL-Delft3D-FM-CEC",
+    "url": "https://github.com/sandialabs/SNL-Delft3D-FM-CEC"
+   }
+  },
+  {
+   "key": "sandialabs/common",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2024-09-19T20:53:08Z",
+    "description": "NSDD Communication Systems Monitor",
+    "stars": "4",
+    "text": "sandialabs/common",
+    "title": "sandialabs/common",
+    "url": "https://github.com/sandialabs/common"
+   }
+  },
+  {
+   "key": "sandialabs/n2a-repo-local",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2023-01-30T17:55:06Z",
+    "description": "N2A starter db",
+    "stars": "0",
+    "text": "sandialabs/n2a-repo-local",
+    "title": "sandialabs/n2a-repo-local",
+    "url": "https://github.com/sandialabs/n2a-repo-local"
+   }
+  },
+  {
+   "key": "sandialabs/pyperc",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2018-12-04T16:10:16Z",
+    "description": "Python package to model invasion percolation",
+    "stars": "12",
+    "text": "sandialabs/pyperc",
+    "title": "sandialabs/pyperc",
+    "url": "https://github.com/sandialabs/pyperc"
+   }
+  },
+  {
+   "key": "sandialabs/Payette",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2023-08-24T18:10:15Z",
+    "description": "Payette: An Object Oriented Material Model Driver",
+    "stars": "0",
+    "text": "sandialabs/Payette",
+    "title": "sandialabs/Payette",
+    "url": "https://github.com/sandialabs/Payette"
+   }
+  },
+  {
+   "key": "sandialabs/svp_1547.1",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2025-09-18T15:57:53Z",
+    "description": "Test scripts for IEEE 1547.1",
+    "stars": "9",
+    "text": "sandialabs/svp_1547.1",
+    "title": "sandialabs/svp_1547.1",
+    "url": "https://github.com/sandialabs/svp_1547.1"
+   }
+  },
+  {
+   "key": "sandialabs/compadre",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2026-05-12T11:04:54Z",
+    "description": "Compadre (Compatible Particle Discretization and Remap)",
+    "stars": "24",
+    "text": "sandialabs/compadre",
+    "title": "sandialabs/compadre",
+    "url": "https://github.com/sandialabs/compadre"
+   }
+  },
+  {
+   "key": "sandialabs/suncal",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2026-05-21T18:01:22Z",
+    "description": "Suncal - Sandia PSL Uncertainty Calculator",
+    "stars": "21",
+    "text": "sandialabs/suncal",
+    "title": "sandialabs/suncal",
+    "url": "https://github.com/sandialabs/suncal"
+   }
+  },
+  {
+   "key": "sandialabs/SandiaDecay",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2025-01-27T16:41:03Z",
+    "description": "Easy to use C++ library to calculate nuclear decays and emissions ",
+    "stars": "20",
+    "text": "sandialabs/SandiaDecay",
+    "title": "sandialabs/SandiaDecay",
+    "url": "https://github.com/sandialabs/SandiaDecay"
+   }
+  },
+  {
+   "key": "sandialabs/MatMCNP",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2021-02-26T16:51:46Z",
+    "description": "A utility code for generating material cards for MCNP",
+    "stars": "24",
+    "text": "sandialabs/MatMCNP",
+    "title": "sandialabs/MatMCNP",
+    "url": "https://github.com/sandialabs/MatMCNP"
+   }
+  },
+  {
+   "key": "sandialabs/SpecUtils",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2026-06-10T20:17:18Z",
+    "description": "A library for opening, manipulating, and exporting gamma spectral files",
+    "stars": "46",
+    "text": "sandialabs/SpecUtils",
+    "title": "sandialabs/SpecUtils",
+    "url": "https://github.com/sandialabs/SpecUtils"
+   }
+  },
+  {
+   "key": "sandialabs/Stitch-IO",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2021-01-19T20:49:04Z",
+    "description": "Stitch IO library",
+    "stars": "3",
+    "text": "sandialabs/Stitch-IO",
+    "title": "sandialabs/Stitch-IO",
+    "url": "https://github.com/sandialabs/Stitch-IO"
+   }
+  },
+  {
+   "key": "sandialabs/sgm",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2019-05-16T22:59:29Z",
+    "stars": "7",
+    "text": "sandialabs/sgm",
+    "title": "sandialabs/sgm",
+    "url": "https://github.com/sandialabs/sgm"
+   }
+  },
+  {
+   "key": "sandialabs/cambio",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2025-11-05T03:48:39Z",
+    "description": "Spectroscopic file conversion tool",
+    "stars": "20",
+    "text": "sandialabs/cambio",
+    "title": "sandialabs/cambio",
+    "url": "https://github.com/sandialabs/cambio"
+   }
+  },
+  {
+   "key": "sandialabs/poblano_toolbox",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2020-06-17T18:57:49Z",
+    "description": "Nonlinear optimization for MATLAB.",
+    "stars": "28",
+    "text": "sandialabs/poblano_toolbox",
+    "title": "sandialabs/poblano_toolbox",
+    "url": "https://github.com/sandialabs/poblano_toolbox"
+   }
+  },
+  {
+   "key": "sandialabs/hyram",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2025-09-12T14:00:05Z",
+    "stars": "51",
+    "text": "sandialabs/hyram",
+    "title": "sandialabs/hyram",
+    "url": "https://github.com/sandialabs/hyram"
+   }
+  },
+  {
+   "key": "sandialabs/tracktable",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2025-08-13T22:40:05Z",
+    "description": "Tracktable: moving object trajectory analysis in C++ and Python",
+    "stars": "52",
+    "text": "sandialabs/tracktable",
+    "title": "sandialabs/tracktable",
+    "url": "https://github.com/sandialabs/tracktable"
+   }
+  },
+  {
+   "key": "sandialabs/IX2.6",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2019-06-03T14:40:31Z",
+    "description": "Coordinates DOE2.2 Building Energy Model (BEM) fleets with energy conservation measure studies",
+    "stars": "2",
+    "text": "sandialabs/IX2.6",
+    "title": "sandialabs/IX2.6",
+    "url": "https://github.com/sandialabs/IX2.6"
+   }
+  },
+  {
+   "key": "sandialabs/EGSim",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2020-06-17T13:57:13Z",
+    "stars": "3",
+    "text": "sandialabs/EGSim",
+    "title": "sandialabs/EGSim",
+    "url": "https://github.com/sandialabs/EGSim"
+   }
+  },
+  {
+   "key": "sandialabs/UQTk",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2024-12-21T02:22:41Z",
+    "description": "Sandia Uncertainty Quantification Toolkit",
+    "stars": "86",
+    "text": "sandialabs/UQTk",
+    "title": "sandialabs/UQTk",
+    "url": "https://github.com/sandialabs/UQTk"
+   }
+  },
+  {
+   "key": "usnistgov/wsabi",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2011-12-20T19:46:49Z",
+    "description": "iOS Client for WS-Biometric Devices",
+    "stars": "10",
+    "text": "usnistgov/wsabi",
+    "title": "usnistgov/wsabi",
+    "url": "https://github.com/usnistgov/wsabi"
+   }
+  },
+  {
+   "key": "usnistgov/wsabi2",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2014-04-07T13:42:28Z",
+    "description": "A second version of the wsabi iPad app for biometric device control over Web Services.",
+    "stars": "26",
+    "text": "usnistgov/wsabi2",
+    "title": "usnistgov/wsabi2",
+    "url": "https://github.com/usnistgov/wsabi2"
+   }
+  },
+  {
+   "key": "usnistgov/reflectometry-calculators",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2026-04-23T20:06:17Z",
+    "description": "Web-based (html and javascript) calculators for neutron reflectometry",
+    "stars": "2",
+    "text": "usnistgov/reflectometry-calculators",
+    "title": "usnistgov/reflectometry-calculators",
+    "url": "https://github.com/usnistgov/reflectometry-calculators"
+   }
+  },
+  {
+   "key": "usnistgov/touchrecorder",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2013-12-12T19:14:10Z",
+    "stars": "2",
+    "text": "usnistgov/touchrecorder",
+    "title": "usnistgov/touchrecorder",
+    "url": "https://github.com/usnistgov/touchrecorder"
+   }
+  },
+  {
+   "key": "usnistgov/BWSMixedReplaceHTTPRequestOperation",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2013-04-22T17:58:21Z",
+    "description": "multipart/x-mixed-replace handler for AFNetworking",
+    "stars": "2",
+    "text": "usnistgov/BWSMixedReplaceHTTPRequestOperation",
+    "title": "usnistgov/BWSMixedReplaceHTTPRequestOperation",
+    "url": "https://github.com/usnistgov/BWSMixedReplaceHTTPRequestOperation"
+   }
+  },
+  {
+   "key": "usnistgov/XE-COAT",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2015-04-29T15:46:29Z",
+    "description": "XE Template Engine (COAT)",
+    "stars": "1",
+    "text": "usnistgov/XE-COAT",
+    "title": "usnistgov/XE-COAT",
+    "url": "https://github.com/usnistgov/XE-COAT"
+   }
+  },
+  {
+   "key": "usnistgov/erccdashboard_preBioC",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2015-06-17T17:12:27Z",
+    "description": "Analyze ERCC spike-in RNA controls in Differential Gene Expression Experiments",
+    "stars": "3",
+    "text": "usnistgov/erccdashboard_preBioC",
+    "title": "usnistgov/erccdashboard_preBioC",
+    "url": "https://github.com/usnistgov/erccdashboard_preBioC"
+   }
+  },
+  {
+   "key": "usnistgov/el-robotics-core",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2018-06-15T15:17:07Z",
+    "description": "Core message descriptions and supporting library code for the EL robotics projects",
+    "stars": "7",
+    "text": "usnistgov/el-robotics-core",
+    "title": "usnistgov/el-robotics-core",
+    "url": "https://github.com/usnistgov/el-robotics-core"
+   }
+  },
+  {
+   "key": "usnistgov/PTPM",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2016-09-07T14:11:07Z",
+    "description": "Tool(s) for the collection, display and analysis of position tracking performance metrics ",
+    "stars": "3",
+    "text": "usnistgov/PTPM",
+    "title": "usnistgov/PTPM",
+    "url": "https://github.com/usnistgov/PTPM"
+   }
+  },
+  {
+   "key": "usnistgov/AGV_ObstAvoid",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2014-11-12T15:55:41Z",
+    "description": "Visualization and Planning Software for Obstacle Avoidance with B-Splines to connect to a custom AGV (Autonomous Guided Vehicle) with a NDC8 Controller",
+    "stars": "6",
+    "text": "usnistgov/AGV_ObstAvoid",
+    "title": "usnistgov/AGV_ObstAvoid",
+    "url": "https://github.com/usnistgov/AGV_ObstAvoid"
+   }
+  },
+  {
+   "key": "usnistgov/SpectrumBrowser",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2019-02-19T20:56:53Z",
+    "description": "ITL",
+    "stars": "15",
+    "text": "usnistgov/SpectrumBrowser",
+    "title": "usnistgov/SpectrumBrowser",
+    "url": "https://github.com/usnistgov/SpectrumBrowser"
+   }
+  },
+  {
+   "key": "usnistgov/tem_analysis",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2017-04-13T14:17:36Z",
+    "description": "Image Processing Scheme to Visualize and Analyze Time Resolved TEM Video Images",
+    "stars": "4",
+    "text": "usnistgov/tem_analysis",
+    "title": "usnistgov/tem_analysis",
+    "url": "https://github.com/usnistgov/tem_analysis"
+   }
+  },
+  {
+   "key": "usnistgov/chef-cookbook-httpd",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2014-09-26T13:47:05Z",
+    "description": "the ELSA cookbook for handling webserver installations",
+    "stars": "1",
+    "text": "usnistgov/chef-cookbook-httpd",
+    "title": "usnistgov/chef-cookbook-httpd",
+    "url": "https://github.com/usnistgov/chef-cookbook-httpd"
+   }
+  },
+  {
+   "key": "usnistgov/youbot",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2015-08-06T21:53:40Z",
+    "description": "Robotic platform for industrial control systems cybersecurity research.  We use the research-grade Youbot as the robotics platform for our research.  The ROS framework is used for inter-process communication, and Python is the language used for application development.",
+    "stars": "27",
+    "text": "usnistgov/youbot",
+    "title": "usnistgov/youbot",
+    "url": "https://github.com/usnistgov/youbot"
+   }
+  },
+  {
+   "key": "usnistgov/HEV",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2018-04-02T13:58:12Z",
+    "description": "High End Visualization",
+    "stars": "8",
+    "text": "usnistgov/HEV",
+    "title": "usnistgov/HEV",
+    "url": "https://github.com/usnistgov/HEV"
+   }
+  },
+  {
+   "key": "usnistgov/fipy",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2026-05-15T17:29:22Z",
+    "description": "FiPy is a Finite Volume PDE solver written in Python",
+    "stars": "628",
+    "text": "usnistgov/fipy",
+    "title": "usnistgov/fipy",
+    "url": "https://github.com/usnistgov/fipy"
+   }
+  },
+  {
+   "key": "usnistgov/NIST_SRSW_Software",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2014-09-02T20:24:56Z",
+    "description": "Repository for software and scripts associated with the NIST Standard Reference Simulation Website",
+    "stars": "2",
+    "text": "usnistgov/NIST_SRSW_Software",
+    "title": "usnistgov/NIST_SRSW_Software",
+    "url": "https://github.com/usnistgov/NIST_SRSW_Software"
+   }
+  },
+  {
+   "key": "usnistgov/guilogger",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2014-12-12T22:22:38Z",
+    "description": "  This project aims to provide tools for constructing graphical user interfaces (GUIs) that are easily testable. A testable GUI is one in which a user session can be recorded in a log file, after which the log file can be instrumented and replayed to ensure that the GUI is performing correctly.",
+    "stars": "3",
+    "text": "usnistgov/guilogger",
+    "title": "usnistgov/guilogger",
+    "url": "https://github.com/usnistgov/guilogger"
+   }
+  },
+  {
+   "key": "usnistgov/mosaic",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2026-04-13T19:51:00Z",
+    "description": "A modular single-molecule analysis interface",
+    "stars": "43",
+    "text": "usnistgov/mosaic",
+    "title": "usnistgov/mosaic",
+    "url": "https://github.com/usnistgov/mosaic"
+   }
+  },
+  {
+   "key": "usnistgov/PasswordMetrics",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2016-05-05T14:03:02Z",
+    "description": "Python code for 1) permuting randomly-generated passwords for easier entry on mobile devices, and 2) for estimating entropy lost as a result of said permutation. ",
+    "stars": "16",
+    "text": "usnistgov/PasswordMetrics",
+    "title": "usnistgov/PasswordMetrics",
+    "url": "https://github.com/usnistgov/PasswordMetrics"
+   }
+  },
+  {
+   "key": "usnistgov/DataVis",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2015-12-15T16:35:00Z",
+    "description": "Tool for visualizing password usability and security metrics",
+    "stars": "5",
+    "text": "usnistgov/DataVis",
+    "title": "usnistgov/DataVis",
+    "url": "https://github.com/usnistgov/DataVis"
+   }
+  },
+  {
+   "key": "usnistgov/CogMod",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2016-08-12T12:43:41Z",
+    "description": "Stochastic typing model for ICCM 2015 (International Conference on Cognitive Modeling)",
+    "stars": "0",
+    "text": "usnistgov/CogMod",
+    "title": "usnistgov/CogMod",
+    "url": "https://github.com/usnistgov/CogMod"
+   }
+  },
+  {
+   "key": "usnistgov/influxdb-python",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2014-11-26T20:36:20Z",
+    "description": "Python client for InfluxDB",
+    "stars": "0",
+    "text": "usnistgov/influxdb-python",
+    "title": "usnistgov/influxdb-python",
+    "url": "https://github.com/usnistgov/influxdb-python"
+   }
+  },
+  {
+   "key": "usnistgov/Cell-Imaging",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2015-01-09T20:06:08Z",
+    "description": "Cell Imaging.  MML. Michael Halter",
+    "stars": "0",
+    "text": "usnistgov/Cell-Imaging",
+    "title": "usnistgov/Cell-Imaging",
+    "url": "https://github.com/usnistgov/Cell-Imaging"
+   }
+  },
+  {
+   "key": "usnistgov/demo-arithmetic-old",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2015-01-14T20:31:04Z",
+    "description": "demo for repro research",
+    "stars": "0",
+    "text": "usnistgov/demo-arithmetic-old",
+    "title": "usnistgov/demo-arithmetic-old",
+    "url": "https://github.com/usnistgov/demo-arithmetic-old"
+   }
+  },
+  {
+   "key": "usnistgov/OOF1",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2015-01-21T19:07:22Z",
+    "description": "Object Oriented for Finite Elements initial code (no longer maintained).",
+    "stars": "3",
+    "text": "usnistgov/OOF1",
+    "title": "usnistgov/OOF1",
+    "url": "https://github.com/usnistgov/OOF1"
+   }
+  },
+  {
+   "key": "usnistgov/OOF2",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2026-06-10T18:12:33Z",
+    "description": "Object Oriented for Finite Elements 2D version.",
+    "stars": "33",
+    "text": "usnistgov/OOF2",
+    "title": "usnistgov/OOF2",
+    "url": "https://github.com/usnistgov/OOF2"
+   }
+  },
+  {
+   "key": "usnistgov/mixtureprocesscontrol",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2015-09-14T16:43:46Z",
+    "description": "Mixtures as genome-scale process controls",
+    "stars": "0",
+    "text": "usnistgov/mixtureprocesscontrol",
+    "title": "usnistgov/mixtureprocesscontrol",
+    "url": "https://github.com/usnistgov/mixtureprocesscontrol"
+   }
+  },
+  {
+   "key": "usnistgov/OOF3D",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2024-05-02T19:58:52Z",
+    "description": "Object Oriented for Finite Elements 3D version code.",
+    "stars": "39",
+    "text": "usnistgov/OOF3D",
+    "title": "usnistgov/OOF3D",
+    "url": "https://github.com/usnistgov/OOF3D"
+   }
+  },
+  {
+   "key": "usnistgov/TypingTester",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2015-08-06T15:42:50Z",
+    "description": "iOS 7 typing tester application for usable security behavioral studies",
+    "stars": "0",
+    "text": "usnistgov/TypingTester",
+    "title": "usnistgov/TypingTester",
+    "url": "https://github.com/usnistgov/TypingTester"
+   }
+  },
+  {
+   "key": "usnistgov/corr-sumatra",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2019-02-05T02:58:33Z",
+    "stars": "0",
+    "text": "usnistgov/corr-sumatra",
+    "title": "usnistgov/corr-sumatra",
+    "url": "https://github.com/usnistgov/corr-sumatra"
+   }
+  },
+  {
+   "key": "usnistgov/sctools",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2024-08-30T18:30:34Z",
+    "description": "Tools for security content automation, baseline tailoring, and overlay development.",
+    "stars": "45",
+    "text": "usnistgov/sctools",
+    "title": "usnistgov/sctools",
+    "url": "https://github.com/usnistgov/sctools"
+   }
+  },
+  {
+   "key": "usnistgov/SP800-90B_EntropyAssessment",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2026-05-26T14:57:01Z",
+    "description": "The SP800-90B_EntropyAssessment C++package implements the min-entropy assessment methods included in Special Publication 800-90B.",
+    "stars": "253",
+    "text": "usnistgov/SP800-90B_EntropyAssessment",
+    "title": "usnistgov/SP800-90B_EntropyAssessment",
+    "url": "https://github.com/usnistgov/SP800-90B_EntropyAssessment"
+   }
+  },
+  {
+   "key": "usnistgov/rtmms",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2019-05-07T16:25:57Z",
+    "stars": "0",
+    "text": "usnistgov/rtmms",
+    "title": "usnistgov/rtmms",
+    "url": "https://github.com/usnistgov/rtmms"
+   }
+  },
+  {
+   "key": "usnistgov/ForrestalBuildingSubmetering",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2018-07-13T14:29:08Z",
+    "description": "Project to convert Forrestal Building data to Green Button",
+    "stars": "1",
+    "text": "usnistgov/ForrestalBuildingSubmetering",
+    "title": "usnistgov/ForrestalBuildingSubmetering",
+    "url": "https://github.com/usnistgov/ForrestalBuildingSubmetering"
+   }
+  },
+  {
+   "key": "usnistgov/rcslib",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2023-04-03T20:03:51Z",
+    "description": "NIST Real-Time Control Systems Library including Posemath, NML communications \u0026 Java Plotter",
+    "stars": "43",
+    "text": "usnistgov/rcslib",
+    "title": "usnistgov/rcslib",
+    "url": "https://github.com/usnistgov/rcslib"
+   }
+  },
+  {
+   "key": "usnistgov/pfhub",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2025-08-15T14:27:06Z",
+    "description": "The CHiMaD Phase Field Community Website",
+    "stars": "66",
+    "text": "usnistgov/pfhub",
+    "title": "usnistgov/pfhub",
+    "url": "https://github.com/usnistgov/pfhub"
+   }
+  },
+  {
+   "key": "usnistgov/pepr",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2016-09-16T14:05:12Z",
+    "description": "Pipeline for Evaluating Prokaryotic References",
+    "stars": "11",
+    "text": "usnistgov/pepr",
+    "title": "usnistgov/pepr",
+    "url": "https://github.com/usnistgov/pepr"
+   }
+  },
+  {
+   "key": "usnistgov/peprr",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2016-05-31T20:09:50Z",
+    "description": "Pipeline for Evaluating Prokaryotic References R - R package for analyzing pepr output.",
+    "stars": "1",
+    "text": "usnistgov/peprr",
+    "title": "usnistgov/peprr",
+    "url": "https://github.com/usnistgov/peprr"
+   }
+  },
+  {
+   "key": "usnistgov/PersistentUUIDs",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2015-10-09T23:04:33Z",
+    "stars": "2",
+    "text": "usnistgov/PersistentUUIDs",
+    "title": "usnistgov/PersistentUUIDs",
+    "url": "https://github.com/usnistgov/PersistentUUIDs"
+   }
+  },
+  {
+   "key": "usnistgov/qpx-gamma",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2019-04-17T01:24:08Z",
+    "description": "Data acquisition for coincidence gamma spectroscopy",
+    "stars": "19",
+    "text": "usnistgov/qpx-gamma",
+    "title": "usnistgov/qpx-gamma",
+    "url": "https://github.com/usnistgov/qpx-gamma"
+   }
+  },
+  {
+   "key": "usnistgov/SVClassify",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2016-01-12T16:48:14Z",
+    "description": "Hemang Parikh",
+    "stars": "11",
+    "text": "usnistgov/SVClassify",
+    "title": "usnistgov/SVClassify",
+    "url": "https://github.com/usnistgov/SVClassify"
+   }
+  },
+  {
+   "key": "usnistgov/pysr",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2016-07-05T17:32:55Z",
+    "description": "a pure-python symbolic regression library built on deap",
+    "stars": "11",
+    "text": "usnistgov/pysr",
+    "title": "usnistgov/pysr",
+    "url": "https://github.com/usnistgov/pysr"
+   }
+  },
+  {
+   "key": "usnistgov/winder",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2015-05-07T00:39:55Z",
+    "description": "A customizable graphical file manager written in wxpython",
+    "stars": "2",
+    "text": "usnistgov/winder",
+    "title": "usnistgov/winder",
+    "url": "https://github.com/usnistgov/winder"
+   }
+  },
+  {
+   "key": "usnistgov/envy-mayavi",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2015-12-02T16:45:07Z",
+    "description": "3D viewer for mixture phase envelopes",
+    "stars": "2",
+    "text": "usnistgov/envy-mayavi",
+    "title": "usnistgov/envy-mayavi",
+    "url": "https://github.com/usnistgov/envy-mayavi"
+   }
+  },
+  {
+   "key": "usnistgov/docker-f4de",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2017-07-06T22:46:20Z",
+    "description": "Dockerfile for F4DE",
+    "stars": "1",
+    "text": "usnistgov/docker-f4de",
+    "title": "usnistgov/docker-f4de",
+    "url": "https://github.com/usnistgov/docker-f4de"
+   }
+  },
+  {
+   "key": "usnistgov/THAMES",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2019-06-26T19:34:51Z",
+    "description": "Jeffry Bullard",
+    "stars": "2",
+    "text": "usnistgov/THAMES",
+    "title": "usnistgov/THAMES",
+    "url": "https://github.com/usnistgov/THAMES"
+   }
+  },
+  {
+   "key": "usnistgov/TSQUARE",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2015-05-11T21:43:25Z",
+    "stars": "0",
+    "text": "usnistgov/TSQUARE",
+    "title": "usnistgov/TSQUARE",
+    "url": "https://github.com/usnistgov/TSQUARE"
+   }
+  },
+  {
+   "key": "usnistgov/JobRunner",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2016-05-05T20:46:08Z",
+    "description": "Tool to run jobs in parallel, avoiding to rerun a previously run job with the use of a 'jobid'. Comes with a queue processor.",
+    "stars": "2",
+    "text": "usnistgov/JobRunner",
+    "title": "usnistgov/JobRunner",
+    "url": "https://github.com/usnistgov/JobRunner"
+   }
+  },
+  {
+   "key": "usnistgov/F4DE",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2017-07-06T22:20:09Z",
+    "description": "Framework for Detection Evaluation (F4DE) : set of evaluation tools for detection evaluations and for specific NIST-coordinated evaluations",
+    "stars": "26",
+    "text": "usnistgov/F4DE",
+    "title": "usnistgov/F4DE",
+    "url": "https://github.com/usnistgov/F4DE"
+   }
+  },
+  {
+   "key": "usnistgov/iso15926",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2016-12-07T20:21:57Z",
+    "description": "Test cases for ISO15926 interoperability",
+    "stars": "4",
+    "text": "usnistgov/iso15926",
+    "title": "usnistgov/iso15926",
+    "url": "https://github.com/usnistgov/iso15926"
+   }
+  },
+  {
+   "key": "usnistgov/modelmeth",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2023-07-19T17:33:26Z",
+    "description": "Shared work of the Modeling Methodology for Smart Manufacturing project",
+    "stars": "8",
+    "text": "usnistgov/modelmeth",
+    "title": "usnistgov/modelmeth",
+    "url": "https://github.com/usnistgov/modelmeth"
+   }
+  },
+  {
+   "key": "usnistgov/poseList3DPlot",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2015-12-24T16:07:48Z",
+    "description": "Plots mulitple lists of Points or Poses(showing orientation) in 3D using JavaFX read from CSV files.",
+    "stars": "1",
+    "text": "usnistgov/poseList3DPlot",
+    "title": "usnistgov/poseList3DPlot",
+    "url": "https://github.com/usnistgov/poseList3DPlot"
+   }
+  },
+  {
+   "key": "usnistgov/BiometricEvaluation",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2018-11-21T13:12:19Z",
+    "description": "NIST Image Group Biometric Repositories",
+    "stars": "21",
+    "text": "usnistgov/BiometricEvaluation",
+    "title": "usnistgov/BiometricEvaluation",
+    "url": "https://github.com/usnistgov/BiometricEvaluation"
+   }
+  },
+  {
+   "key": "usnistgov/ocr-pipeline",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2024-03-05T15:34:14Z",
+    "description": "Convert a corpus of PDF to clean text files on a distributed architecture",
+    "stars": "40",
+    "text": "usnistgov/ocr-pipeline",
+    "title": "usnistgov/ocr-pipeline",
+    "url": "https://github.com/usnistgov/ocr-pipeline"
+   }
+  },
+  {
+   "key": "usnistgov/nistdrupallogger",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2017-05-15T17:31:06Z",
+    "description": "I am a logger module for Drupal which meets FIPS compliancy requirements.",
+    "stars": "1",
+    "text": "usnistgov/nistdrupallogger",
+    "title": "usnistgov/nistdrupallogger",
+    "url": "https://github.com/usnistgov/nistdrupallogger"
+   }
+  },
+  {
+   "key": "usnistgov/Voting",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2024-05-15T17:12:14Z",
+    "description": "The NIST Voting Program repository",
+    "stars": "35",
+    "text": "usnistgov/Voting",
+    "title": "usnistgov/Voting",
+    "url": "https://github.com/usnistgov/Voting"
+   }
+  },
+  {
+   "key": "usnistgov/REFPROP-wrappers",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2026-03-18T17:49:22Z",
+    "description": "Wrappers around NIST REFPROP for languages such as Python, MATLAB, etc.",
+    "stars": "249",
+    "text": "usnistgov/REFPROP-wrappers",
+    "title": "usnistgov/REFPROP-wrappers",
+    "url": "https://github.com/usnistgov/REFPROP-wrappers"
+   }
+  },
+  {
+   "key": "usnistgov/2015-07-23-nist",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2015-08-11T21:54:59Z",
+    "description": "Software Carpentry Workshop website",
+    "stars": "1",
+    "text": "usnistgov/2015-07-23-nist",
+    "title": "usnistgov/2015-07-23-nist",
+    "url": "https://github.com/usnistgov/2015-07-23-nist"
+   }
+  },
+  {
+   "key": "usnistgov/tesim_nivis_setup",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2018-06-27T20:05:43Z",
+    "description": "Contains the files and instructions to setup the NIVIS V220 and VR910 for correct operation.",
+    "stars": "0",
+    "text": "usnistgov/tesim_nivis_setup",
+    "title": "usnistgov/tesim_nivis_setup",
+    "url": "https://github.com/usnistgov/tesim_nivis_setup"
+   }
+  },
+  {
+   "key": "usnistgov/hit-mu-tools",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2025-09-30T19:30:22Z",
+    "description": "Web tools instances from the base tool. Branches for LRI, eDOS, LOI and SS",
+    "stars": "2",
+    "text": "usnistgov/hit-mu-tools",
+    "title": "usnistgov/hit-mu-tools",
+    "url": "https://github.com/usnistgov/hit-mu-tools"
+   }
+  },
+  {
+   "key": "usnistgov/TEChallenge",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2019-12-05T18:58:47Z",
+    "description": "Collaboration on the NIST Transactive Energy Challenge",
+    "stars": "1",
+    "text": "usnistgov/TEChallenge",
+    "title": "usnistgov/TEChallenge",
+    "url": "https://github.com/usnistgov/TEChallenge"
+   }
+  },
+  {
+   "key": "usnistgov/QIF",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2015-07-14T14:55:57Z",
+    "description": "NIST developed software that implements  codesynthesis, xerces, and postgres for windows MSVC and ubuntu with eclipse and gcc to handle QIF XML",
+    "stars": "8",
+    "text": "usnistgov/QIF",
+    "title": "usnistgov/QIF",
+    "url": "https://github.com/usnistgov/QIF"
+   }
+  },
+  {
+   "key": "usnistgov/DiffStress",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2017-10-11T09:00:40Z",
+    "description": "A tool to obtain tensorial stress states from lattice-strains using fully anisotropic diffraction elastic constants",
+    "stars": "8",
+    "text": "usnistgov/DiffStress",
+    "title": "usnistgov/DiffStress",
+    "url": "https://github.com/usnistgov/DiffStress"
+   }
+  },
+  {
+   "key": "usnistgov/texture",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2022-03-07T15:51:55Z",
+    "description": "Python scripts for analysis of crystallographic texture",
+    "stars": "24",
+    "text": "usnistgov/texture",
+    "title": "usnistgov/texture",
+    "url": "https://github.com/usnistgov/texture"
+   }
+  },
+  {
+   "key": "usnistgov/peprDnaStability",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2015-10-02T12:15:58Z",
+    "description": "R package with shiny application for analyzing PFGE gels used to assess genomic DNA RM stability.",
+    "stars": "1",
+    "text": "usnistgov/peprDnaStability",
+    "title": "usnistgov/peprDnaStability",
+    "url": "https://github.com/usnistgov/peprDnaStability"
+   }
+  },
+  {
+   "key": "usnistgov/hit-validation",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2015-07-27T19:07:34Z",
+    "stars": "0",
+    "text": "usnistgov/hit-validation",
+    "title": "usnistgov/hit-validation",
+    "url": "https://github.com/usnistgov/hit-validation"
+   }
+  },
+  {
+   "key": "usnistgov/pagetest",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2025-05-07T19:02:38Z",
+    "description": "Repo for testing pages functionality.  It does not contain anything useful.",
+    "stars": "1",
+    "text": "usnistgov/pagetest",
+    "title": "usnistgov/pagetest",
+    "url": "https://github.com/usnistgov/pagetest"
+   }
+  },
+  {
+   "key": "usnistgov/vagrant-erx",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2026-05-15T17:13:05Z",
+    "stars": "1",
+    "text": "usnistgov/vagrant-erx",
+    "title": "usnistgov/vagrant-erx",
+    "url": "https://github.com/usnistgov/vagrant-erx"
+   }
+  },
+  {
+   "key": "usnistgov/DT4SM",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2018-08-10T16:48:16Z",
+    "description": "Digital Thread for Smart Manufacturing",
+    "stars": "43",
+    "text": "usnistgov/DT4SM",
+    "title": "usnistgov/DT4SM",
+    "url": "https://github.com/usnistgov/DT4SM"
+   }
+  },
+  {
+   "key": "usnistgov/xml-util",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2024-04-25T15:29:13Z",
+    "description": "This module contains utility classes for working with XML",
+    "stars": "0",
+    "text": "usnistgov/xml-util",
+    "title": "usnistgov/xml-util",
+    "url": "https://github.com/usnistgov/xml-util"
+   }
+  },
+  {
+   "key": "usnistgov/vagrant-iztool",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2015-08-07T16:19:32Z",
+    "stars": "0",
+    "text": "usnistgov/vagrant-iztool",
+    "title": "usnistgov/vagrant-iztool",
+    "url": "https://github.com/usnistgov/vagrant-iztool"
+   }
+  },
+  {
+   "key": "usnistgov/NIST_Micro_Genomic_RM_Data",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2017-10-24T14:02:28Z",
+    "stars": "5",
+    "text": "usnistgov/NIST_Micro_Genomic_RM_Data",
+    "title": "usnistgov/NIST_Micro_Genomic_RM_Data",
+    "url": "https://github.com/usnistgov/NIST_Micro_Genomic_RM_Data"
+   }
+  },
+  {
+   "key": "usnistgov/tesim_ads_comms",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2018-01-03T19:51:50Z",
+    "description": "Provides basic global IO for ADS communications to a Tennessee Eastman simulator (tesim)",
+    "stars": "2",
+    "text": "usnistgov/tesim_ads_comms",
+    "title": "usnistgov/tesim_ads_comms",
+    "url": "https://github.com/usnistgov/tesim_ads_comms"
+   }
+  },
+  {
+   "key": "usnistgov/RECON",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2015-10-10T14:45:58Z",
+    "description": "RECON - Restricted English for Constructing Ontologies",
+    "stars": "5",
+    "text": "usnistgov/RECON",
+    "title": "usnistgov/RECON",
+    "url": "https://github.com/usnistgov/RECON"
+   }
+  },
+  {
+   "key": "usnistgov/hit-erx-tool",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2018-10-16T15:24:31Z",
+    "description": "This is the base tool, template of all the others tools. The packages included are domain independent. ",
+    "stars": "0",
+    "text": "usnistgov/hit-erx-tool",
+    "title": "usnistgov/hit-erx-tool",
+    "url": "https://github.com/usnistgov/hit-erx-tool"
+   }
+  },
+  {
+   "key": "usnistgov/hit-core-erx",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2015-10-08T19:25:59Z",
+    "description": "This is the code base of the hl7 version 2 tools. ",
+    "stars": "0",
+    "text": "usnistgov/hit-core-erx",
+    "title": "usnistgov/hit-core-erx",
+    "url": "https://github.com/usnistgov/hit-core-erx"
+   }
+  },
+  {
+   "key": "usnistgov/2015-09-23-nist",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2015-09-24T17:47:08Z",
+    "stars": "0",
+    "text": "usnistgov/2015-09-23-nist",
+    "title": "usnistgov/2015-09-23-nist",
+    "url": "https://github.com/usnistgov/2015-09-23-nist"
+   }
+  },
+  {
+   "key": "usnistgov/n0mcli",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2018-07-13T14:32:06Z",
+    "description": "NET0 House Meter Client",
+    "stars": "0",
+    "text": "usnistgov/n0mcli",
+    "title": "usnistgov/n0mcli",
+    "url": "https://github.com/usnistgov/n0mcli"
+   }
+  },
+  {
+   "key": "usnistgov/unified-report",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2026-04-06T15:01:24Z",
+    "description": "Unified Report Project",
+    "stars": "1",
+    "text": "usnistgov/unified-report",
+    "title": "usnistgov/unified-report",
+    "url": "https://github.com/usnistgov/unified-report"
+   }
+  },
+  {
+   "key": "usnistgov/hit-core-xml",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2025-05-28T20:17:31Z",
+    "stars": "1",
+    "text": "usnistgov/hit-core-xml",
+    "title": "usnistgov/hit-core-xml",
+    "url": "https://github.com/usnistgov/hit-core-xml"
+   }
+  },
+  {
+   "key": "usnistgov/hit-core-edi",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2018-09-21T15:14:31Z",
+    "stars": "1",
+    "text": "usnistgov/hit-core-edi",
+    "title": "usnistgov/hit-core-edi",
+    "url": "https://github.com/usnistgov/hit-core-edi"
+   }
+  },
+  {
+   "key": "usnistgov/data-quality-analysis",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2018-02-21T18:51:10Z",
+    "description": "Data Quality Analysis",
+    "stars": "2",
+    "text": "usnistgov/data-quality-analysis",
+    "title": "usnistgov/data-quality-analysis",
+    "url": "https://github.com/usnistgov/data-quality-analysis"
+   }
+  },
+  {
+   "key": "usnistgov/REFPROP-issues",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2018-06-02T19:13:02Z",
+    "description": "A repository solely used for reporting issues with NIST REFPROP",
+    "stars": "32",
+    "text": "usnistgov/REFPROP-issues",
+    "title": "usnistgov/REFPROP-issues",
+    "url": "https://github.com/usnistgov/REFPROP-issues"
+   }
+  },
+  {
+   "key": "usnistgov/dane_tester",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2020-01-07T01:18:07Z",
+    "stars": "3",
+    "text": "usnistgov/dane_tester",
+    "title": "usnistgov/dane_tester",
+    "url": "https://github.com/usnistgov/dane_tester"
+   }
+  },
+  {
+   "key": "usnistgov/Pages-Template",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2017-08-10T22:06:21Z",
+    "description": "A Repository for a GitHub Pages Template to be hosted through pages.nist.gov",
+    "stars": "1",
+    "text": "usnistgov/Pages-Template",
+    "title": "usnistgov/Pages-Template",
+    "url": "https://github.com/usnistgov/Pages-Template"
+   }
+  },
+  {
+   "key": "usnistgov/WebFF-Documentation",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2024-03-18T22:27:25Z",
+    "stars": "5",
+    "text": "usnistgov/WebFF-Documentation",
+    "title": "usnistgov/WebFF-Documentation",
+    "url": "https://github.com/usnistgov/WebFF-Documentation"
+   }
+  },
+  {
+   "key": "usnistgov/hit-mu-tools-configs",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2024-04-08T14:31:30Z",
+    "description": "config projects for hit-mu-tools",
+    "stars": "0",
+    "text": "usnistgov/hit-mu-tools-configs",
+    "title": "usnistgov/hit-mu-tools-configs",
+    "url": "https://github.com/usnistgov/hit-mu-tools-configs"
+   }
+  },
+  {
+   "key": "usnistgov/gr-msod-sensor",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2017-04-03T18:53:07Z",
+    "description": "Gnuradio based Sensor for RF measurements that works with the Measured Spectrum Occupancy Database",
+    "stars": "8",
+    "text": "usnistgov/gr-msod-sensor",
+    "title": "usnistgov/gr-msod-sensor",
+    "url": "https://github.com/usnistgov/gr-msod-sensor"
+   }
+  },
+  {
+   "key": "usnistgov/hit-ws-tester",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2022-07-07T23:08:04Z",
+    "description": "HL7 Validation WebService Client",
+    "stars": "0",
+    "text": "usnistgov/hit-ws-tester",
+    "title": "usnistgov/hit-ws-tester",
+    "url": "https://github.com/usnistgov/hit-ws-tester"
+   }
+  },
+  {
+   "key": "usnistgov/cpspwg",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2018-07-13T14:32:55Z",
+    "description": "CPS Public Working Group",
+    "stars": "1",
+    "text": "usnistgov/cpspwg",
+    "title": "usnistgov/cpspwg",
+    "url": "https://github.com/usnistgov/cpspwg"
+   }
+  },
+  {
+   "key": "usnistgov/hit-erx-tool-config",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2018-09-21T15:25:23Z",
+    "description": "Project to configure hit-erx-tool",
+    "stars": "1",
+    "text": "usnistgov/hit-erx-tool-config",
+    "title": "usnistgov/hit-erx-tool-config",
+    "url": "https://github.com/usnistgov/hit-erx-tool-config"
+   }
+  },
+  {
+   "key": "usnistgov/hit-mu-tools-resource-bundles",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2025-09-30T19:30:44Z",
+    "description": "Resource bundles",
+    "stars": "2",
+    "text": "usnistgov/hit-mu-tools-resource-bundles",
+    "title": "usnistgov/hit-mu-tools-resource-bundles",
+    "url": "https://github.com/usnistgov/hit-mu-tools-resource-bundles"
+   }
+  },
+  {
+   "key": "usnistgov/hl7-iz-plugins",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2019-05-02T20:17:01Z",
+    "description": "Plugins for IZ HL7 Messages validation",
+    "stars": "1",
+    "text": "usnistgov/hl7-iz-plugins",
+    "title": "usnistgov/hl7-iz-plugins",
+    "url": "https://github.com/usnistgov/hl7-iz-plugins"
+   }
+  },
+  {
+   "key": "usnistgov/NIST_Marciniak",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2015-11-03T14:58:25Z",
+    "description": "Collection of Python scripts that analyze data generated by NIST's augmented Marciniak test using DIC and X-ray",
+    "stars": "2",
+    "text": "usnistgov/NIST_Marciniak",
+    "title": "usnistgov/NIST_Marciniak",
+    "url": "https://github.com/usnistgov/NIST_Marciniak"
+   }
+  },
+  {
+   "key": "usnistgov/smartcitiesarchitecture",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2018-09-30T18:44:08Z",
+    "description": "Collaboration site for the International Technical Working Group on Smart Cities Architectures",
+    "stars": "5",
+    "text": "usnistgov/smartcitiesarchitecture",
+    "title": "usnistgov/smartcitiesarchitecture",
+    "url": "https://github.com/usnistgov/smartcitiesarchitecture"
+   }
+  },
+  {
+   "key": "usnistgov/workbench_admin_per_menu",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2016-03-02T12:56:57Z",
+    "description": "I am a module that provides workbench access for Drupal menus.",
+    "stars": "0",
+    "text": "usnistgov/workbench_admin_per_menu",
+    "title": "usnistgov/workbench_admin_per_menu",
+    "url": "https://github.com/usnistgov/workbench_admin_per_menu"
+   }
+  },
+  {
+   "key": "usnistgov/webgme",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2015-11-23T17:15:19Z",
+    "description": "Web-based Generic Modeling Environment",
+    "stars": "1",
+    "text": "usnistgov/webgme",
+    "title": "usnistgov/webgme",
+    "url": "https://github.com/usnistgov/webgme"
+   }
+  },
+  {
+   "key": "usnistgov/hit-mu-tools-message-validations",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2024-02-27T17:56:30Z",
+    "description": "Plugins for message validation.",
+    "stars": "1",
+    "text": "usnistgov/hit-mu-tools-message-validations",
+    "title": "usnistgov/hit-mu-tools-message-validations",
+    "url": "https://github.com/usnistgov/hit-mu-tools-message-validations"
+   }
+  },
+  {
+   "key": "usnistgov/tcamt",
+   "source": "oss-usnistgov",
+   "fields": {
+    "date": "2019-02-20T18:43:39Z",
+    "description": "Test Case Authoring and Management Tool",
+    "stars": "0",
+    "text": "usnistgov/tcamt",
+    "title": "usnistgov/tcamt",
+    "url": "https://github.com/usnistgov/tcamt"
    }
   }
  ]

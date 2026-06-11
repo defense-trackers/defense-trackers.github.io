@@ -222,6 +222,7 @@ export async function renderTracker(t) {
     const recs = cur.records || [];
     $('rec-count').textContent = `(${recs.length} records, as of ${(cur.fetched_at || '').slice(0, 16).replace('T', ' ')}Z)`;
     renderReports(t, recs);
+    wireFilter();
   } catch (e) {
     $('rec-count').textContent = '(records unavailable: ' + e.message + ')';
   }
@@ -237,7 +238,7 @@ const COL_PRIORITY = ['date', 'posted', 'closes', 'status', 'type', 'agency', 'a
   'tags', 'description', 'note', 'as_of', 'award_id', 'repo', 'archived'];
 const NAME_FIELDS = new Set(['text', 'title', 'name', 'url', 'key', 'source']);
 const NUM_RE = /amount|downloads|likes|stars/i;
-const ROW_CAP = 30;
+const ROW_CAP = 1000;
 
 // One line per tracker so a visitor knows what they're looking at instantly.
 const TRACKER_DESC = {
@@ -251,6 +252,7 @@ const TRACKER_DESC = {
   'oss-index': 'Maintained open-source software from U.S. government organizations.',
   transition: 'The largest recent DoD contract awards — the production-dollar signal (rolling 1-year window).',
   deadlines: 'Defense innovation deadlines and events, as a calendar (with iCal feed).',
+  'research-funding': 'Federal AI research funding — NSF and NIH grant awards advancing artificial intelligence.',
 };
 
 function pretty(k) { return k.replace(/_/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase()); }
@@ -372,7 +374,57 @@ function buildTable(rows) {
     tbody.append(tr);
   }
   table.append(tbody);
+  makeSortable(table);
   return table;
+}
+
+// Click a column header to sort that source's table (numeric columns sort
+// numerically). Toggles asc/desc.
+function makeSortable(table) {
+  const ths = [...table.querySelectorAll('thead th')];
+  ths.forEach((th, idx) => {
+    th.addEventListener('click', () => {
+      const numeric = th.classList.contains('num');
+      const dir = th.dataset.dir === 'asc' ? 'desc' : 'asc';
+      ths.forEach((h) => { delete h.dataset.dir; const a = h.querySelector('.sort-arrow'); if (a) a.remove(); });
+      th.dataset.dir = dir;
+      const tbody = table.querySelector('tbody');
+      const rows = [...tbody.querySelectorAll('tr')];
+      rows.sort((a, b) => {
+        let av = a.children[idx] ? a.children[idx].textContent : '';
+        let bv = b.children[idx] ? b.children[idx].textContent : '';
+        if (numeric) {
+          av = parseFloat(av.replace(/[^0-9.-]/g, '')) || 0;
+          bv = parseFloat(bv.replace(/[^0-9.-]/g, '')) || 0;
+          return dir === 'asc' ? av - bv : bv - av;
+        }
+        return dir === 'asc' ? av.localeCompare(bv) : bv.localeCompare(av);
+      });
+      rows.forEach((r) => tbody.appendChild(r));
+      const arrow = document.createElement('span');
+      arrow.className = 'sort-arrow';
+      arrow.textContent = dir === 'asc' ? ' ▲' : ' ▼';
+      th.appendChild(arrow);
+    });
+  });
+}
+
+// Live filter across every source table on the page.
+function wireFilter() {
+  const box = document.getElementById('filter');
+  if (!box) return;
+  box.addEventListener('input', () => {
+    const q = box.value.trim().toLowerCase();
+    document.querySelectorAll('#records .report').forEach((card) => {
+      let shown = 0;
+      card.querySelectorAll('tbody tr').forEach((tr) => {
+        const match = !q || tr.textContent.toLowerCase().includes(q);
+        tr.style.display = match ? '' : 'none';
+        if (match) shown++;
+      });
+      card.style.display = (q && shown === 0) ? 'none' : '';
+    });
+  });
 }
 
 // Live UTC clock in the system bar — cosmetic, reinforces the "honest about
