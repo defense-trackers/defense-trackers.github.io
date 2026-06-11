@@ -8,7 +8,7 @@
 <link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3Ccircle%20cx='16'%20cy='16'%20r='13'%20fill='none'%20stroke='%235eb1ff'%20stroke-width='2'/%3E%3Ccircle%20cx='16'%20cy='16'%20r='4'%20fill='%2335d07f'/%3E%3C/svg%3E">
 <link rel="stylesheet" href="assets/style.css">
 </head>
-<body>
+<body class="t-page">
 <header class="masthead">
   <div class="wrap">
     <div class="sysbar">
@@ -34,6 +34,7 @@
       <h1 id="t-name">—</h1>
       <span id="t-badge"></span>
     </div>
+    <p class="t-desc" id="t-desc"></p>
     <p class="detail-msg" id="t-message"></p>
     <div class="chips">
       <a class="chip" id="t-rss" href="#">RSS feed</a>
@@ -50,12 +51,13 @@
   </section>
 
   <section>
-    <h2>Changelog</h2>
-    <p class="hint">
-      <svg width="13" height="13" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.4" aria-hidden="true"><rect x="3" y="7" width="10" height="7" rx="1.5"/><path d="M5 7V5a3 3 0 0 1 6 0v2"/></svg>
-      Append-only and hash-chained — each entry is bound to the previous, so tampering is detectable.
-    </p>
-    <ol id="events" class="events"></ol>
+    <details class="changelog">
+      <summary>
+        <span class="cl-title">Changelog</span>
+        <span class="cl-hint mono dim">append-only · hash-chained · tamper-evident</span>
+      </summary>
+      <ol id="events" class="events"></ol>
+    </details>
   </section>
 </main>
 

@@ -164,6 +164,7 @@ export async function renderTracker(t) {
   document.title = t + ' — Defense Trackers';
   $('t-rss').href = 'feeds/' + encodeURIComponent(t) + '.xml';
   $('t-json').href = 'data/' + encodeURIComponent(t) + '/current.json';
+  if ($('t-desc')) $('t-desc').textContent = TRACKER_DESC[t] || '';
 
   try {
     const status = await loadStatus();
@@ -177,6 +178,8 @@ export async function renderTracker(t) {
   } catch { /* badge optional if status missing */ }
 
   const evs = (await fetchEvents(t)).reverse().slice(0, 50);
+  const clt = document.querySelector('.cl-title');
+  if (clt) clt.textContent = `Changelog · ${evs.length} recent`;
   const list = $('events');
   list.textContent = '';
   if (evs.length === 0) {
@@ -222,11 +225,30 @@ const COL_PRIORITY = ['date', 'posted', 'closes', 'status', 'type', 'agency', 'a
   'sdk', 'country', 'category', 'manufacturer', 'framework_status', 'provenance', 'air_gap',
   'tags', 'description', 'note', 'as_of', 'award_id', 'repo', 'archived'];
 const NAME_FIELDS = new Set(['text', 'title', 'name', 'url', 'key', 'source']);
+const NUM_RE = /amount|downloads|likes|stars/i;
+const ROW_CAP = 30;
+
+// One line per tracker so a visitor knows what they're looking at instantly.
+const TRACKER_DESC = {
+  pipeline: 'Open funding and solicitation opportunities across DoD innovation channels.',
+  policy: 'DoD AI policy issuances and the deadlines they create.',
+  authorizations: 'Which AI platforms hold which DoD / FedRAMP authorizations — and what just changed.',
+  'nipr-matrix': 'Which AI tools each service can actually use on NIPR, and at what data ceiling.',
+  tak: 'The TAK plugin ecosystem — what is live and what it is compatible with.',
+  'blue-uas': 'DIU Blue UAS cleared platforms and NDAA-compliant components.',
+  'model-ops': 'Open-weight models and the inference stacks that support them, with gov-deployability.',
+  'oss-index': 'Maintained open-source software from U.S. government organizations.',
+  transition: 'Where prototypes turn into production contracts — the valley-of-death scoreboard.',
+  deadlines: 'Defense innovation deadlines and events, as a calendar (with iCal feed).',
+};
 
 function pretty(k) { return k.replace(/_/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase()); }
 
+function fmtNum(v) { const n = Number(v); return isNaN(n) ? v : n.toLocaleString('en-US'); }
+
 function fmtVal(k, v) {
-  if (/date|posted|closes|as_of|published/i.test(k) && /^\d{4}-\d{2}-\d{2}T/.test(v)) return v.slice(0, 10);
+  if (/date|posted|closes|as_of|published/i.test(k) && /^\d{4}-\d{2}-\d{2}/.test(v)) return v.slice(0, 10);
+  if (NUM_RE.test(k)) return (/amount/i.test(k) ? '$' : '') + fmtNum(v);
   return v;
 }
 
@@ -248,8 +270,9 @@ function renderReports(t, recs) {
   }
   for (const src of order) {
     const rows = groups[src];
-    const section = document.createElement('section');
-    section.className = 'report';
+    const card = document.createElement('section');
+    card.className = 'report';
+
     const h = document.createElement('h3');
     h.className = 'report-head';
     const label = src.startsWith(t + '-') ? src.slice(t.length + 1) : src;
@@ -257,11 +280,22 @@ function renderReports(t, recs) {
     name.className = 'report-src';
     name.textContent = label;
     const cnt = document.createElement('span');
-    cnt.className = 'mono dim';
-    cnt.textContent = ' · ' + rows.length;
+    cnt.className = 'mono dim report-count';
+    cnt.textContent = rows.length + (rows.length === 1 ? ' record' : ' records');
     h.append(name, cnt);
-    section.append(h, buildTable(rows));
-    box.append(section);
+
+    const scroll = document.createElement('div');
+    scroll.className = 'table-scroll';
+    scroll.append(buildTable(rows.slice(0, ROW_CAP)));
+
+    card.append(h, scroll);
+    if (rows.length > ROW_CAP) {
+      const more = document.createElement('p');
+      more.className = 'mono dim report-more';
+      more.textContent = `showing ${ROW_CAP} of ${rows.length} — full set in current.json`;
+      card.append(more);
+    }
+    box.append(card);
   }
 }
 
@@ -272,10 +306,13 @@ function buildTable(rows) {
       if (!NAME_FIELDS.has(k)) keys.add(k);
     }
   }
-  const cols = [...keys].sort((a, b) => {
+  const sorted = [...keys].sort((a, b) => {
     const ia = COL_PRIORITY.indexOf(a), ib = COL_PRIORITY.indexOf(b);
     return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib) || a.localeCompare(b);
   });
+  const labelOf = (r) => { const f = r.fields || {}; return f.title || f.name || f.text || r.key; };
+  // drop any column that just repeats the name (e.g. a curated key field)
+  const cols = sorted.filter((c) => !rows.every((r) => ((r.fields || {})[c] || '') === labelOf(r)));
 
   const table = document.createElement('table');
   table.className = 'report-table';
@@ -287,14 +324,14 @@ function buildTable(rows) {
   for (const c of cols) {
     const th = document.createElement('th');
     th.textContent = pretty(c);
-    if (/amount|downloads|likes|stars/i.test(c)) th.className = 'num';
+    if (NUM_RE.test(c)) th.className = 'num';
     htr.append(th);
   }
   thead.append(htr);
   table.append(thead);
 
   const tbody = document.createElement('tbody');
-  for (const r of rows.slice(0, 500)) {
+  for (const r of rows) {
     const f = r.fields || {};
     const tr = document.createElement('tr');
     const td0 = document.createElement('td');
@@ -313,9 +350,12 @@ function buildTable(rows) {
     tr.append(td0);
     for (const c of cols) {
       const td = document.createElement('td');
-      const v = f[c];
-      td.textContent = v ? fmtVal(c, v) : '—';
-      if (/amount|downloads|likes|stars/i.test(c)) td.className = 'num';
+      let v = f[c];
+      if (c === 'tags' && v) v = v.split(',').map((s) => s.trim()).slice(0, 6).join(', ');
+      let out = (v !== undefined && v !== '') ? fmtVal(c, v) : '—';
+      if (out.length > 160) out = out.slice(0, 158) + '…';
+      td.textContent = out;
+      if (NUM_RE.test(c)) td.className = 'num';
       tr.append(td);
     }
     tbody.append(tr);
