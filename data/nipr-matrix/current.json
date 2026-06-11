@@ -1,7 +1,7 @@
 {
  "source": "nipr-matrix",
  "tracker": "nipr-matrix",
- "fetched_at": "2026-06-11T20:44:14Z",
+ "fetched_at": "2026-06-11T21:18:12Z",
  "schema_version": 1,
  "records": [
   {
@@ -32,6 +32,7 @@
     "status": "live (first model on GenAI.mil)",
     "text": "Google Gemini for Government",
     "tool": "Google Gemini for Government",
+    "url": "https://www.ai.mil/",
     "vendor": "Google Public Sector"
    }
   },
@@ -47,6 +48,7 @@
     "status": "live",
     "text": "xAI for Government",
     "tool": "xAI for Government",
+    "url": "https://www.ai.mil/",
     "vendor": "xAI"
    }
   },
@@ -62,6 +64,7 @@
     "status": "live ($49M IDIQ)",
     "text": "Army Enterprise LLM Workspace",
     "tool": "Army Enterprise LLM Workspace",
+    "url": "https://www.ai.mil/",
     "vendor": "Ask Sage"
    }
   },
@@ -77,6 +80,7 @@
     "status": "live (now R\u0026D; secondary to Ask Sage workspace)",
     "text": "CamoGPT",
     "tool": "CamoGPT",
+    "url": "https://www.ai.mil/",
     "vendor": "Army AI Integration Center (in-house)"
    }
   },
@@ -92,6 +96,7 @@
     "status": "sunset 2025-12-31 -\u003e GenAI.mil",
     "text": "NIPRGPT",
     "tool": "NIPRGPT",
+    "url": "https://www.ai.mil/",
     "vendor": "AFRL (in-house)"
    }
   },
@@ -107,6 +112,7 @@
     "status": "live (full deployment Dec 2025)",
     "text": "ChatDIA",
     "tool": "ChatDIA",
+    "url": "https://www.ai.mil/",
     "vendor": "DIA (in-house)"
    }
   },
@@ -122,6 +128,7 @@
     "status": "live (web grounding off by default for CUI)",
     "text": "Microsoft 365 Copilot",
     "tool": "Microsoft 365 Copilot",
+    "url": "https://www.ai.mil/",
     "vendor": "Microsoft"
    }
   },
@@ -137,6 +144,7 @@
     "status": "live ($200M CDAO award)",
     "text": "ChatGPT Gov",
     "tool": "ChatGPT Gov",
+    "url": "https://www.ai.mil/",
     "vendor": "OpenAI (Azure IL5)"
    }
   },
@@ -152,6 +160,7 @@
     "status": "live (first frontier model approved for classified)",
     "text": "Claude Gov",
     "tool": "Claude Gov",
+    "url": "https://www.ai.mil/",
     "vendor": "Anthropic (AWS)"
    }
   },
@@ -167,6 +176,7 @@
     "status": "live ($500M ceiling OTA)",
     "text": "Scale Donovan",
     "tool": "Scale Donovan",
+    "url": "https://www.ai.mil/",
     "vendor": "Scale AI"
    }
   },
@@ -182,6 +192,7 @@
     "status": "live (beta)",
     "text": "Defense Llama",
     "tool": "Defense Llama",
+    "url": "https://www.ai.mil/",
     "vendor": "Scale AI / Meta"
    }
   },
@@ -197,6 +208,7 @@
     "status": "live (multiple DoD deployments)",
     "text": "Palantir AIP",
     "tool": "Palantir AIP",
+    "url": "https://www.ai.mil/",
     "vendor": "Palantir"
    }
   }

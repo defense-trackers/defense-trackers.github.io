@@ -228,6 +228,12 @@ export async function renderTracker(t) {
     renderStatStrip(recs);
     renderReports(t, recs);
     wireFilter();
+    // whole-row click opens the record's source (links inside still work)
+    $('records').addEventListener('click', (e) => {
+      if (e.target.closest('a')) return;
+      const tr = e.target.closest('tr[data-href]');
+      if (tr) window.open(tr.dataset.href, '_blank', 'noopener');
+    });
   } catch (e) {
     $('rec-count').textContent = '(records unavailable: ' + e.message + ')';
   }
@@ -583,6 +589,7 @@ function buildTable(rows) {
   for (const r of rows) {
     const f = r.fields || {};
     const tr = document.createElement('tr');
+    if (f.url) { tr.dataset.href = f.url; tr.classList.add('rowlink'); }
     const td0 = document.createElement('td');
     td0.className = 'col-name';
     const label = f.title || f.name || f.text || r.key;

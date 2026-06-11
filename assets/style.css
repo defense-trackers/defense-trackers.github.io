@@ -250,6 +250,8 @@ section + section { margin-top: 2.6rem; }
 .report-table td { padding: .5rem 1.1rem .5rem 0; border-bottom: 1px solid var(--line); vertical-align: top; }
 .report-table tbody tr:last-child td { border-bottom: none; }
 .report-table tbody tr:hover { background: var(--panel-2); }
+.report-table tbody tr.rowlink { cursor: pointer; }
+.report-table tbody tr.rowlink:hover td:first-child { color: var(--brand); }
 .report-table .col-name { font-weight: 600; max-width: 40ch; }
 .report-table td:not(.col-name) { color: var(--ink-2); }
 .report-table th.num, .report-table td.num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
@@ -302,6 +304,19 @@ section + section { margin-top: 2.6rem; }
 .about-sources { list-style: none; margin: .6rem 0; padding: 0; }
 .about-sources li { padding: .2rem 0; font-size: .85rem; }
 .about-body p { font-size: .85rem; }
+
+/* AI search page */
+.beta-tag { font-size: .45em; vertical-align: super; color: var(--brand); border: 1px solid var(--brand-dim); border-radius: 6px; padding: .15em .45em; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: .08em; }
+.ai-status { color: var(--ink-2); font-size: .9rem; max-width: 72ch; }
+.ai-enable { font-family: inherit; font-size: .95rem; padding: .6rem 1.1rem; border: 1px solid var(--brand); border-radius: 10px; background: color-mix(in oklab, var(--brand) 14%, transparent); color: var(--ink); cursor: pointer; margin: 1rem 0; }
+.ai-enable:hover { background: color-mix(in oklab, var(--brand) 24%, transparent); }
+.ai-progress { color: var(--ink-2); font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: .85rem; margin: .5rem 0; }
+#ai-q { margin-bottom: .6rem; }
+.ai-answer { white-space: pre-wrap; line-height: 1.6; margin: 1rem 0; padding: 1rem 1.1rem; background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); }
+.ai-answer:empty { display: none; }
+.ai-cites h3 { font-size: .8rem; text-transform: uppercase; letter-spacing: .1em; color: var(--dim); margin: 1.4rem 0 .5rem; }
+.ai-cites ol { padding-left: 1.2rem; margin: 0; }
+.ai-cites li { font-size: .88rem; padding: .15rem 0; color: var(--ink-2); }
 
 /* ---- prose (methodology) ------------------------------------------------- */
 .prose h2 { color: var(--ink); text-transform: none; letter-spacing: -.01em; font-size: 1.15rem; margin-top: 2rem; }

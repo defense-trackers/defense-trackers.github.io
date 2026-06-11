@@ -1,7 +1,7 @@
 {
  "source": "blue-uas",
  "tracker": "blue-uas",
- "fetched_at": "2026-06-11T20:43:54Z",
+ "fetched_at": "2026-06-11T21:17:51Z",
  "schema_version": 1,
  "records": [
   {
@@ -14,7 +14,8 @@
     "platform": "Skydio X10D",
     "status": "Cleared",
     "text": "Skydio X10D",
-    "type": "sUAS quadcopter"
+    "type": "sUAS quadcopter",
+    "url": "https://www.diu.mil/blue-uas-cleared-list"
    }
   },
   {
@@ -27,7 +28,8 @@
     "platform": "Anduril Ghost-X",
     "status": "Cleared",
     "text": "Anduril Ghost-X",
-    "type": "sUAS VTOL"
+    "type": "sUAS VTOL",
+    "url": "https://www.diu.mil/blue-uas-cleared-list"
    }
   },
   {
@@ -40,7 +42,8 @@
     "platform": "Freefly Astro",
     "status": "Cleared",
     "text": "Freefly Astro",
-    "type": "sUAS quadcopter"
+    "type": "sUAS quadcopter",
+    "url": "https://www.diu.mil/blue-uas-cleared-list"
    }
   },
   {
@@ -53,7 +56,8 @@
     "platform": "Teal Black Widow",
     "status": "Cleared",
     "text": "Teal Black Widow",
-    "type": "sUAS quadcopter"
+    "type": "sUAS quadcopter",
+    "url": "https://www.diu.mil/blue-uas-cleared-list"
    }
   },
   {
@@ -66,7 +70,8 @@
     "platform": "Parrot ANAFI USA",
     "status": "Cleared",
     "text": "Parrot ANAFI USA",
-    "type": "sUAS quadcopter"
+    "type": "sUAS quadcopter",
+    "url": "https://www.diu.mil/blue-uas-cleared-list"
    }
   },
   {
@@ -79,7 +84,8 @@
     "platform": "PDW C100",
     "status": "Cleared",
     "text": "PDW C100",
-    "type": "sUAS quadcopter"
+    "type": "sUAS quadcopter",
+    "url": "https://www.diu.mil/blue-uas-cleared-list"
    }
   },
   {
@@ -92,7 +98,8 @@
     "platform": "Vantage Robotics Vesper",
     "status": "Cleared",
     "text": "Vantage Robotics Vesper",
-    "type": "sUAS quadcopter"
+    "type": "sUAS quadcopter",
+    "url": "https://www.diu.mil/blue-uas-cleared-list"
    }
   },
   {
@@ -105,7 +112,8 @@
     "platform": "Ascent AeroSystems Spirit",
     "status": "Cleared",
     "text": "Ascent AeroSystems Spirit",
-    "type": "sUAS coaxial"
+    "type": "sUAS coaxial",
+    "url": "https://www.diu.mil/blue-uas-cleared-list"
    }
   },
   {
@@ -118,7 +126,8 @@
     "platform": "Inspired Flight IF1200",
     "status": "Cleared",
     "text": "Inspired Flight IF1200",
-    "type": "sUAS hexacopter"
+    "type": "sUAS hexacopter",
+    "url": "https://www.diu.mil/blue-uas-cleared-list"
    }
   },
   {
@@ -131,7 +140,8 @@
     "platform": "Wingtra WingtraOne",
     "status": "Cleared",
     "text": "Wingtra WingtraOne",
-    "type": "fixed-wing VTOL"
+    "type": "fixed-wing VTOL",
+    "url": "https://www.diu.mil/blue-uas-cleared-list"
    }
   },
   {
@@ -143,7 +153,8 @@
     "country": "AUS / US",
     "framework_status": "verify",
     "manufacturer": "CubePilot",
-    "text": "CubePilot Cube Orange+"
+    "text": "CubePilot Cube Orange+",
+    "url": "https://www.diu.mil/blue-uas/framework"
    }
   },
   {
@@ -155,7 +166,8 @@
     "country": "US / CH",
     "framework_status": "verify",
     "manufacturer": "Auterion",
-    "text": "Auterion Skynode"
+    "text": "Auterion Skynode",
+    "url": "https://www.diu.mil/blue-uas/framework"
    }
   },
   {
@@ -167,7 +179,8 @@
     "country": "US",
     "framework_status": "verify",
     "manufacturer": "ARK Electronics",
-    "text": "ARK GPS"
+    "text": "ARK GPS",
+    "url": "https://www.diu.mil/blue-uas/framework"
    }
   },
   {
@@ -179,7 +192,8 @@
     "country": "BE / CH",
     "framework_status": "verify",
     "manufacturer": "Septentrio / u-blox",
-    "text": "Septentrio / u-blox GNSS"
+    "text": "Septentrio / u-blox GNSS",
+    "url": "https://www.diu.mil/blue-uas/framework"
    }
   },
   {
@@ -191,7 +205,8 @@
     "country": "US / SG",
     "framework_status": "verify",
     "manufacturer": "Doodle Labs",
-    "text": "Doodle Labs Helix / Smart Radio"
+    "text": "Doodle Labs Helix / Smart Radio",
+    "url": "https://www.diu.mil/blue-uas/framework"
    }
   },
   {
@@ -203,7 +218,8 @@
     "country": "US",
     "framework_status": "verify",
     "manufacturer": "Silvus Technologies",
-    "text": "Silvus StreamCaster"
+    "text": "Silvus StreamCaster",
+    "url": "https://www.diu.mil/blue-uas/framework"
    }
   },
   {
@@ -215,7 +231,8 @@
     "country": "US",
     "framework_status": "verify",
     "manufacturer": "Persistent Systems",
-    "text": "Persistent Systems MPU5"
+    "text": "Persistent Systems MPU5",
+    "url": "https://www.diu.mil/blue-uas/framework"
    }
   },
   {
@@ -227,7 +244,8 @@
     "country": "IL / US / AUS",
     "framework_status": "verify",
     "manufacturer": "Mobilicom",
-    "text": "Mobilicom MCU / SkyHopper"
+    "text": "Mobilicom MCU / SkyHopper",
+    "url": "https://www.diu.mil/blue-uas/framework"
    }
   },
   {
@@ -239,7 +257,8 @@
     "country": "US",
     "framework_status": "verify",
     "manufacturer": "ModalAI",
-    "text": "ModalAI VOXL 2"
+    "text": "ModalAI VOXL 2",
+    "url": "https://www.diu.mil/blue-uas/framework"
    }
   },
   {
@@ -251,7 +270,8 @@
     "country": "US",
     "framework_status": "verify",
     "manufacturer": "NVIDIA (US carriers)",
-    "text": "NVIDIA Jetson Orin (carrier)"
+    "text": "NVIDIA Jetson Orin (carrier)",
+    "url": "https://www.diu.mil/blue-uas/framework"
    }
   },
   {
@@ -263,7 +283,8 @@
     "country": "IL",
     "framework_status": "verify",
     "manufacturer": "NextVision",
-    "text": "NextVision Dragoneye / Raptor"
+    "text": "NextVision Dragoneye / Raptor",
+    "url": "https://www.diu.mil/blue-uas/framework"
    }
   },
   {
@@ -275,7 +296,8 @@
     "country": "US",
     "framework_status": "verify",
     "manufacturer": "Sierra-Olympia / Teledyne FLIR",
-    "text": "Sierra-Olympia / Teledyne FLIR"
+    "text": "Sierra-Olympia / Teledyne FLIR",
+    "url": "https://www.diu.mil/blue-uas/framework"
    }
   },
   {
@@ -287,7 +309,8 @@
     "country": "US",
     "framework_status": "verify",
     "manufacturer": "Hood Tech Vision",
-    "text": "Hood Tech Alticam"
+    "text": "Hood Tech Alticam",
+    "url": "https://www.diu.mil/blue-uas/framework"
    }
   },
   {
@@ -299,7 +322,8 @@
     "country": "US",
     "framework_status": "verify",
     "manufacturer": "uAvionix",
-    "text": "uAvionix ping ADS-B"
+    "text": "uAvionix ping ADS-B",
+    "url": "https://www.diu.mil/blue-uas/framework"
    }
   },
   {
@@ -311,7 +335,8 @@
     "country": "CN",
     "framework_status": "country-of-origin concern — verify",
     "manufacturer": "Holybro / Matek",
-    "text": "Holybro / Matek flight controllers"
+    "text": "Holybro / Matek flight controllers",
+    "url": "https://www.diu.mil/blue-uas/framework"
    }
   },
   {
@@ -323,7 +348,8 @@
     "country": "CN",
     "framework_status": "country-of-origin concern — verify",
     "manufacturer": "T-Motor / Hobbywing",
-    "text": "T-Motor / Hobbywing ESCs \u0026 motors"
+    "text": "T-Motor / Hobbywing ESCs \u0026 motors",
+    "url": "https://www.diu.mil/blue-uas/framework"
    }
   }
  ]
