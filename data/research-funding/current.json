@@ -1,7 +1,7 @@
 {
  "source": "research-funding",
  "tracker": "research-funding",
- "fetched_at": "2026-06-11T22:25:38Z",
+ "fetched_at": "2026-06-11T22:28:02Z",
  "schema_version": 1,
  "records": [
   {
@@ -251,6 +251,20 @@
    }
   },
   {
+   "key": "2609116",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "300000",
+    "awardee": "University of Texas at Austin",
+    "date": "10/01/2026",
+    "program": "Software Institutes",
+    "text": "Collaborative Research: Frameworks: Cloud Conversations: AI-Augmented Interfaces to Research Infrastructure",
+    "title": "Collaborative Research: Frameworks: Cloud Conversations: AI-Augmented Interfaces to Research Infrastructure",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2609116"
+   }
+  },
+  {
    "key": "2548192",
    "source": "research-nsf",
    "fields": {
@@ -265,6 +279,20 @@
    }
   },
   {
+   "key": "2548346",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "462888",
+    "awardee": "University of Georgia Research Foundation Inc",
+    "date": "10/01/2026",
+    "program": "RSCH EXPER FOR UNDERGRAD SITES",
+    "text": "REU Site: Population Biology of Infectious Diseases",
+    "title": "REU Site: Population Biology of Infectious Diseases",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2548346"
+   }
+  },
+  {
    "key": "2609003",
    "source": "research-nsf",
    "fields": {
@@ -276,48 +304,6 @@
     "text": "Collaborative Research: Frameworks: ML4GW, a machine learning ecosystem for gravitational wave data analysis",
     "title": "Collaborative Research: Frameworks: ML4GW, a machine learning ecosystem for gravitational wave data analysis",
     "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2609003"
-   }
-  },
-  {
-   "key": "2551964",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "214246",
-    "awardee": "University of Hawaii",
-    "date": "10/01/2026",
-    "program": "CER-ComputingEducationResearch",
-    "text": "Collaborative Research: CER: From Classroom to Career Readiness: Enhancing Undergraduate Computing Education Through Collaborative Research Experience in AI Security and Privacy",
-    "title": "Collaborative Research: CER: From Classroom to Career Readiness: Enhancing Undergraduate Computing Education Through Collaborative Research Experience in AI Security and Privacy",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2551964"
-   }
-  },
-  {
-   "key": "2542666",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "743315",
-    "awardee": "University of Colorado at Boulder",
-    "date": "10/01/2026",
-    "program": "Algorithmic Foundations",
-    "text": "CAREER: Structure and Incentives for Eliciting and Aggregating Information",
-    "title": "CAREER: Structure and Incentives for Eliciting and Aggregating Information",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2542666"
-   }
-  },
-  {
-   "key": "2609116",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "300000",
-    "awardee": "University of Texas at Austin",
-    "date": "10/01/2026",
-    "program": "Software Institutes",
-    "text": "Collaborative Research: Frameworks: Cloud Conversations: AI-Augmented Interfaces to Research Infrastructure",
-    "title": "Collaborative Research: Frameworks: Cloud Conversations: AI-Augmented Interfaces to Research Infrastructure",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2609116"
    }
   },
   {
@@ -349,34 +335,6 @@
    }
   },
   {
-   "key": "2526620",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "410000",
-    "awardee": "Columbia University",
-    "date": "10/01/2026",
-    "program": "Secure \u0026Trustworthy Cyberspace",
-    "text": "Collaborative Research: SaTC 2.0: RES: AIGIS: Securing the Deep Learning Model Supply Chain",
-    "title": "Collaborative Research: SaTC 2.0: RES: AIGIS: Securing the Deep Learning Model Supply Chain",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2526620"
-   }
-  },
-  {
-   "key": "2602364",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "190000",
-    "awardee": "Calle, Maxine Elena",
-    "date": "10/01/2026",
-    "program": "Workforce (MSPRF) MathSciPDFel",
-    "text": "Postdoctoral Fellowship: MSPRF: Homotopy Invariants of Orbifolds",
-    "title": "Postdoctoral Fellowship: MSPRF: Homotopy Invariants of Orbifolds",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2602364"
-   }
-  },
-  {
    "key": "2544222",
    "source": "research-nsf",
    "fields": {
@@ -391,45 +349,31 @@
    }
   },
   {
-   "key": "2602112",
+   "key": "2551964",
    "source": "research-nsf",
    "fields": {
     "agency": "NSF",
-    "amount": "190000",
-    "awardee": "Stevenson, Noah William",
+    "amount": "214246",
+    "awardee": "University of Hawaii",
     "date": "10/01/2026",
-    "program": "Workforce (MSPRF) MathSciPDFel",
-    "text": "Postdoctoral Fellowship: MSPRF: Traveling Water Waves and Stellar Collapse: Nonlinear Analysis of Free Boundary Problems in Fluid Mechanics",
-    "title": "Postdoctoral Fellowship: MSPRF: Traveling Water Waves and Stellar Collapse: Nonlinear Analysis of Free Boundary Problems in Fluid Mechanics",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2602112"
+    "program": "CER-ComputingEducationResearch",
+    "text": "Collaborative Research: CER: From Classroom to Career Readiness: Enhancing Undergraduate Computing Education Through Collaborative Research Experience in AI Security and Privacy",
+    "title": "Collaborative Research: CER: From Classroom to Career Readiness: Enhancing Undergraduate Computing Education Through Collaborative Research Experience in AI Security and Privacy",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2551964"
    }
   },
   {
-   "key": "2541822",
+   "key": "2608397",
    "source": "research-nsf",
    "fields": {
     "agency": "NSF",
-    "amount": "596521",
-    "awardee": "Washington University",
+    "amount": "1352523",
+    "awardee": "Las Cumbres Observatory Global Telescope Network",
     "date": "10/01/2026",
-    "program": "Info Integration \u0026 Informatics",
-    "text": "CAREER: Adaptive Knowledge Synthesis for Language Model Reasoning",
-    "title": "CAREER: Adaptive Knowledge Synthesis for Language Model Reasoning",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2541822"
-   }
-  },
-  {
-   "key": "2606034",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "214876",
-    "awardee": "University of California-Los Angeles",
-    "date": "10/01/2026",
-    "program": "APPLIED MATHEMATICS",
-    "text": "Generalization Capabilities of Machine Learning for Solving Multiple Partial Differential Equations",
-    "title": "Generalization Capabilities of Machine Learning for Solving Multiple Partial Differential Equations",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2606034"
+    "program": "PHYSICS AT THE INFO FRONTIER, Software Institutes",
+    "text": "Frameworks: An Ecosystem of Services for Multi-Messenger and Time Domain Science",
+    "title": "Frameworks: An Ecosystem of Services for Multi-Messenger and Time Domain Science",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2608397"
    }
   },
   {
@@ -475,45 +419,17 @@
    }
   },
   {
-   "key": "2548100",
+   "key": "2601437",
    "source": "research-nsf",
    "fields": {
     "agency": "NSF",
-    "amount": "456210",
-    "awardee": "University of Missouri-Columbia",
+    "amount": "599943",
+    "awardee": "Mississippi State University",
     "date": "10/01/2026",
-    "program": "RSCH EXPER FOR UNDERGRAD SITES",
-    "text": "REU SITE: Research in Consumer Networking Technologies",
-    "title": "REU SITE: Research in Consumer Networking Technologies",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2548100"
-   }
-  },
-  {
-   "key": "2547922",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "370039",
-    "awardee": "Grand Valley State University",
-    "date": "10/01/2026",
-    "program": "RSCH EXPER FOR UNDERGRAD SITES",
-    "text": "REU Site: Research Experience for Undergraduates Intersecting Computing and Evolution",
-    "title": "REU Site: Research Experience for Undergraduates Intersecting Computing and Evolution",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2547922"
-   }
-  },
-  {
-   "key": "2548395",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "464400",
-    "awardee": "Board of Regents, NSHE, obo University of Nevada, Reno",
-    "date": "10/01/2026",
-    "program": "RSCH EXPER FOR UNDERGRAD SITES",
-    "text": "REU Site: Undergraduate Research Experience in Edge Intelligence",
-    "title": "REU Site: Undergraduate Research Experience in Edge Intelligence",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2548395"
+    "program": "RES EXP FOR TEACHERS(RET)-SITE",
+    "text": "RET Site: Research Experiences for Teachers in Cybersecurity and Artificial Intelligence",
+    "title": "RET Site: Research Experiences for Teachers in Cybersecurity and Artificial Intelligence",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2601437"
    }
   },
   {
@@ -531,45 +447,129 @@
    }
   },
   {
-   "key": "2601437",
+   "key": "2602364",
    "source": "research-nsf",
    "fields": {
     "agency": "NSF",
-    "amount": "599943",
-    "awardee": "Mississippi State University",
+    "amount": "190000",
+    "awardee": "Calle, Maxine Elena",
     "date": "10/01/2026",
-    "program": "RES EXP FOR TEACHERS(RET)-SITE",
-    "text": "RET Site: Research Experiences for Teachers in Cybersecurity and Artificial Intelligence",
-    "title": "RET Site: Research Experiences for Teachers in Cybersecurity and Artificial Intelligence",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2601437"
+    "program": "Workforce (MSPRF) MathSciPDFel",
+    "text": "Postdoctoral Fellowship: MSPRF: Homotopy Invariants of Orbifolds",
+    "title": "Postdoctoral Fellowship: MSPRF: Homotopy Invariants of Orbifolds",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2602364"
    }
   },
   {
-   "key": "2548346",
+   "key": "2606034",
    "source": "research-nsf",
    "fields": {
     "agency": "NSF",
-    "amount": "462888",
-    "awardee": "University of Georgia Research Foundation Inc",
+    "amount": "214876",
+    "awardee": "University of California-Los Angeles",
+    "date": "10/01/2026",
+    "program": "APPLIED MATHEMATICS",
+    "text": "Generalization Capabilities of Machine Learning for Solving Multiple Partial Differential Equations",
+    "title": "Generalization Capabilities of Machine Learning for Solving Multiple Partial Differential Equations",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2606034"
+   }
+  },
+  {
+   "key": "2602112",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "190000",
+    "awardee": "Stevenson, Noah William",
+    "date": "10/01/2026",
+    "program": "Workforce (MSPRF) MathSciPDFel",
+    "text": "Postdoctoral Fellowship: MSPRF: Traveling Water Waves and Stellar Collapse: Nonlinear Analysis of Free Boundary Problems in Fluid Mechanics",
+    "title": "Postdoctoral Fellowship: MSPRF: Traveling Water Waves and Stellar Collapse: Nonlinear Analysis of Free Boundary Problems in Fluid Mechanics",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2602112"
+   }
+  },
+  {
+   "key": "2526620",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "410000",
+    "awardee": "Columbia University",
+    "date": "10/01/2026",
+    "program": "Secure \u0026Trustworthy Cyberspace",
+    "text": "Collaborative Research: SaTC 2.0: RES: AIGIS: Securing the Deep Learning Model Supply Chain",
+    "title": "Collaborative Research: SaTC 2.0: RES: AIGIS: Securing the Deep Learning Model Supply Chain",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2526620"
+   }
+  },
+  {
+   "key": "2541822",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "596521",
+    "awardee": "Washington University",
+    "date": "10/01/2026",
+    "program": "Info Integration \u0026 Informatics",
+    "text": "CAREER: Adaptive Knowledge Synthesis for Language Model Reasoning",
+    "title": "CAREER: Adaptive Knowledge Synthesis for Language Model Reasoning",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2541822"
+   }
+  },
+  {
+   "key": "2548395",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "464400",
+    "awardee": "Board of Regents, NSHE, obo University of Nevada, Reno",
     "date": "10/01/2026",
     "program": "RSCH EXPER FOR UNDERGRAD SITES",
-    "text": "REU Site: Population Biology of Infectious Diseases",
-    "title": "REU Site: Population Biology of Infectious Diseases",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2548346"
+    "text": "REU Site: Undergraduate Research Experience in Edge Intelligence",
+    "title": "REU Site: Undergraduate Research Experience in Edge Intelligence",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2548395"
    }
   },
   {
-   "key": "2608397",
+   "key": "2547922",
    "source": "research-nsf",
    "fields": {
     "agency": "NSF",
-    "amount": "1352523",
-    "awardee": "Las Cumbres Observatory Global Telescope Network",
+    "amount": "370039",
+    "awardee": "Grand Valley State University",
     "date": "10/01/2026",
-    "program": "PHYSICS AT THE INFO FRONTIER, Software Institutes",
-    "text": "Frameworks: An Ecosystem of Services for Multi-Messenger and Time Domain Science",
-    "title": "Frameworks: An Ecosystem of Services for Multi-Messenger and Time Domain Science",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2608397"
+    "program": "RSCH EXPER FOR UNDERGRAD SITES",
+    "text": "REU Site: Research Experience for Undergraduates Intersecting Computing and Evolution",
+    "title": "REU Site: Research Experience for Undergraduates Intersecting Computing and Evolution",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2547922"
+   }
+  },
+  {
+   "key": "2548100",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "456210",
+    "awardee": "University of Missouri-Columbia",
+    "date": "10/01/2026",
+    "program": "RSCH EXPER FOR UNDERGRAD SITES",
+    "text": "REU SITE: Research in Consumer Networking Technologies",
+    "title": "REU SITE: Research in Consumer Networking Technologies",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2548100"
+   }
+  },
+  {
+   "key": "2542666",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "743315",
+    "awardee": "University of Colorado at Boulder",
+    "date": "10/01/2026",
+    "program": "Algorithmic Foundations",
+    "text": "CAREER: Structure and Incentives for Eliciting and Aggregating Information",
+    "title": "CAREER: Structure and Incentives for Eliciting and Aggregating Information",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2542666"
    }
   },
   {
