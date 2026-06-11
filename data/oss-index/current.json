@@ -1,9 +1,93 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-06-11T14:50:26Z",
+ "fetched_at": "2026-06-11T15:00:13Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "18F/api.data.gov",
+   "source": "oss-18f",
+   "fields": {
+    "date": "2026-05-13T19:20:14Z",
+    "description": "A hosted, shared-service that provides an API key, analytics, and proxy solution for government web services.",
+    "stars": "111",
+    "text": "18F/api.data.gov",
+    "title": "18F/api.data.gov",
+    "url": "https://github.com/18F/api.data.gov"
+   }
+  },
+  {
+   "key": "18F/API-Usability-Testing",
+   "source": "oss-18f",
+   "fields": {
+    "date": "2025-07-18T21:53:50Z",
+    "description": "The unofficial website for the API Usability Testing project, which can help agencies collect real customer feedback to reduce errors, simplify work flow, and increase adoption of their APIs.",
+    "stars": "13",
+    "text": "18F/API-Usability-Testing",
+    "title": "18F/API-Usability-Testing",
+    "url": "https://github.com/18F/API-Usability-Testing"
+   }
+  },
+  {
+   "key": "18F/18f.gsa.gov",
+   "source": "oss-18f",
+   "fields": {
+    "date": "2026-02-17T03:18:24Z",
+    "description": "The 18F website",
+    "stars": "334",
+    "text": "18F/18f.gsa.gov",
+    "title": "18F/18f.gsa.gov",
+    "url": "https://github.com/18F/18f.gsa.gov"
+   }
+  },
+  {
+   "key": "18F/API-All-the-X",
+   "source": "oss-18f",
+   "fields": {
+    "date": "2026-05-08T12:49:25Z",
+    "description": "Resources and Materials for the /Developer Program",
+    "stars": "186",
+    "text": "18F/API-All-the-X",
+    "title": "18F/API-All-the-X",
+    "url": "https://github.com/18F/API-All-the-X"
+   }
+  },
+  {
+   "key": "18F/open-source-policy",
+   "source": "oss-18f",
+   "fields": {
+    "date": "2024-05-14T02:56:10Z",
+    "description": "This repository contains the official Open Source Policy of 18F",
+    "stars": "334",
+    "text": "18F/open-source-policy",
+    "title": "18F/open-source-policy",
+    "url": "https://github.com/18F/open-source-policy"
+   }
+  },
+  {
+   "key": "18F/charlie",
+   "source": "oss-18f",
+   "fields": {
+    "date": "2026-05-23T12:23:18Z",
+    "description": "18F's Slack bot, Charlie. Built on Bolt",
+    "stars": "45",
+    "text": "18F/charlie",
+    "title": "18F/charlie",
+    "url": "https://github.com/18F/charlie"
+   }
+  },
+  {
+   "key": "18F/analytics-reporter",
+   "source": "oss-18f",
+   "fields": {
+    "date": "2026-06-11T14:17:38Z",
+    "description": "Lightweight analytics reporting and publishing tool for Digital Analytics Program's Google Analytics 360 data.",
+    "stars": "664",
+    "text": "18F/analytics-reporter",
+    "title": "18F/analytics-reporter",
+    "url": "https://github.com/18F/analytics-reporter"
+   }
+  },
   {
    "key": "cisagov/pshtt",
    "source": "oss-cisagov",
@@ -929,7 +1013,7 @@
    "key": "cisagov/ansible-role-cobalt-strike",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-06-11T13:46:44Z",
+    "date": "2026-06-11T14:58:42Z",
     "description": "An Ansible role for installing Cobalt Strike.",
     "stars": "81",
     "text": "cisagov/ansible-role-cobalt-strike",
@@ -1844,6 +1928,820 @@
     "text": "cisagov/ansible-role-devops-user",
     "title": "cisagov/ansible-role-devops-user",
     "url": "https://github.com/cisagov/ansible-role-devops-user"
+   }
+  },
+  {
+   "key": "GSA/resque-priority",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2012-02-22T21:35:24Z",
+    "description": "Simple priority control when enqueuing Resque jobs.",
+    "stars": "0",
+    "text": "GSA/resque-priority",
+    "title": "GSA/resque-priority",
+    "url": "https://github.com/GSA/resque-priority"
+   }
+  },
+  {
+   "key": "GSA/datafiles-wordpress-plugin",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2012-07-16T14:51:23Z",
+    "description": "Allows sites to serve and track changes of root level XML, JSON, and other data files without directly uploading files to the server",
+    "stars": "4",
+    "text": "GSA/datafiles-wordpress-plugin",
+    "title": "GSA/datafiles-wordpress-plugin",
+    "url": "https://github.com/GSA/datafiles-wordpress-plugin"
+   }
+  },
+  {
+   "key": "GSA/federal-open-source-repos-php",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2012-06-28T03:53:16Z",
+    "description": "PHP Class to retrieve details about federal open source code hosted on GitHub  ",
+    "stars": "2",
+    "text": "GSA/federal-open-source-repos-php",
+    "title": "GSA/federal-open-source-repos-php",
+    "url": "https://github.com/GSA/federal-open-source-repos-php"
+   }
+  },
+  {
+   "key": "GSA/federal-open-source-repos",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2014-03-05T17:21:14Z",
+    "description": "Uses Javascript to query the Social Media Registry and GitHub APIs and list details about all federal open source code on GitHub",
+    "stars": "37",
+    "text": "GSA/federal-open-source-repos",
+    "title": "GSA/federal-open-source-repos",
+    "url": "https://github.com/GSA/federal-open-source-repos"
+   }
+  },
+  {
+   "key": "GSA/gogogon",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2011-08-15T22:46:48Z",
+    "description": "1.USA.Gov daily ranked URLs",
+    "stars": "2",
+    "text": "GSA/gogogon",
+    "title": "GSA/gogogon",
+    "url": "https://github.com/GSA/gogogon"
+   }
+  },
+  {
+   "key": "GSA/ckanext-geodatagov",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2026-03-28T21:06:11Z",
+    "description": "data.gov extension",
+    "stars": "42",
+    "text": "GSA/ckanext-geodatagov",
+    "title": "GSA/ckanext-geodatagov",
+    "url": "https://github.com/GSA/ckanext-geodatagov"
+   }
+  },
+  {
+   "key": "GSA/digital-strategy-report-generator",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2016-02-19T20:18:27Z",
+    "description": "Generates reports to describe agencies' progress in realizing the goals of the President's Digital Government Strategy ",
+    "stars": "19",
+    "text": "GSA/digital-strategy-report-generator",
+    "title": "GSA/digital-strategy-report-generator",
+    "url": "https://github.com/GSA/digital-strategy-report-generator"
+   }
+  },
+  {
+   "key": "GSA/digital-strategy-drupal-module",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2012-07-20T17:38:02Z",
+    "description": "Creates 3 page nodes for digital strategy progess on enable. Also creates menu callbacks which load the page nodes and output just the body with the appropriate content type headers.",
+    "stars": "0",
+    "text": "GSA/digital-strategy-drupal-module",
+    "title": "GSA/digital-strategy-drupal-module",
+    "url": "https://github.com/GSA/digital-strategy-drupal-module"
+   }
+  },
+  {
+   "key": "GSA/oauth2-provider",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2013-09-18T18:37:53Z",
+    "description": "Easy tools for adding OAuth2 to Ruby web apps",
+    "stars": "0",
+    "text": "GSA/oauth2-provider",
+    "title": "GSA/oauth2-provider",
+    "url": "https://github.com/GSA/oauth2-provider"
+   }
+  },
+  {
+   "key": "GSA/Open311-Forms-Engine",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2012-08-30T20:38:37Z",
+    "description": "User interface and lightweight backend to build forms that can be served as Open311 GeoReport v2 compliant service definitions. Originally forked from https://github.com/botskonet/jquery.formbuilder - A jQuery plugin for building forms, loading form structure from json/xml, and saving back to the server.",
+    "stars": "0",
+    "text": "GSA/Open311-Forms-Engine",
+    "title": "GSA/Open311-Forms-Engine",
+    "url": "https://github.com/GSA/Open311-Forms-Engine"
+   }
+  },
+  {
+   "key": "GSA/uReport",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2012-09-17T20:49:10Z",
+    "stars": "0",
+    "text": "GSA/uReport",
+    "title": "GSA/uReport",
+    "url": "https://github.com/GSA/uReport"
+   }
+  },
+  {
+   "key": "GSA/open311-proxy",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2012-08-22T15:12:20Z",
+    "description": "A proxy between web pages and Open311 servers",
+    "stars": "0",
+    "text": "GSA/open311-proxy",
+    "title": "GSA/open311-proxy",
+    "url": "https://github.com/GSA/open311-proxy"
+   }
+  },
+  {
+   "key": "GSA/mygov-mobile-first-foundation",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2012-12-17T14:45:25Z",
+    "description": "[DEPRECATED] A slightly reorganized version of Foundation, with core mobile styles up front (for the most part) and tablet and desktop second. ",
+    "stars": "5",
+    "text": "GSA/mygov-mobile-first-foundation",
+    "title": "GSA/mygov-mobile-first-foundation",
+    "url": "https://github.com/GSA/mygov-mobile-first-foundation"
+   }
+  },
+  {
+   "key": "GSA/slash-developer-pages",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2018-01-10T19:53:12Z",
+    "description": "A lightweight listing of /developer pages in government, including embed-ready html code and structured xml.  ",
+    "stars": "62",
+    "text": "GSA/slash-developer-pages",
+    "title": "GSA/slash-developer-pages",
+    "url": "https://github.com/GSA/slash-developer-pages"
+   }
+  },
+  {
+   "key": "GSA/pdf-filler",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2018-10-01T18:37:43Z",
+    "description": "PDF Filler is a RESTful service (API) to aid in the completion of existing PDF-based forms and empowers web developers to use browser-based forms and modern web standards to facilitate the collection of information.  ",
+    "stars": "204",
+    "text": "GSA/pdf-filler",
+    "title": "GSA/pdf-filler",
+    "url": "https://github.com/GSA/pdf-filler"
+   }
+  },
+  {
+   "key": "GSA/epa_uv_index",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2012-10-10T17:46:21Z",
+    "description": "A Ruby client library for the EPA's UV Index REST API (http://www.epa.gov/enviro/facts/services.html#uvindex)",
+    "stars": "4",
+    "text": "GSA/epa_uv_index",
+    "title": "GSA/epa_uv_index",
+    "url": "https://github.com/GSA/epa_uv_index"
+   }
+  },
+  {
+   "key": "GSA/apidocs",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2014-02-27T22:10:56Z",
+    "description": "Interactive API Documentation for Presidential Innovation Fellows' Projects.",
+    "stars": "0",
+    "text": "GSA/apidocs",
+    "title": "GSA/apidocs",
+    "url": "https://github.com/GSA/apidocs"
+   }
+  },
+  {
+   "key": "GSA/omniauth-mygov",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2013-07-30T13:51:18Z",
+    "description": "[DEPRECATED] OmniAuth strategy for MyGov",
+    "stars": "1",
+    "text": "GSA/omniauth-mygov",
+    "title": "GSA/omniauth-mygov",
+    "url": "https://github.com/GSA/omniauth-mygov"
+   }
+  },
+  {
+   "key": "GSA/mygov-bar",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2013-07-22T21:25:53Z",
+    "description": "[DEPRECATED] The MyGov Discovery Bar allows visitors to government websites to find relevant content across federal agencies.",
+    "stars": "6",
+    "text": "GSA/mygov-bar",
+    "title": "GSA/mygov-bar",
+    "url": "https://github.com/GSA/mygov-bar"
+   }
+  },
+  {
+   "key": "GSA/mygov-discovery",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2013-10-17T17:37:08Z",
+    "description": "[DEPRECATED] The MyGov Discovery API provides a service to discover related government content. Each page is assigned tags, which are used to find similarly tagged pages.",
+    "stars": "10",
+    "text": "GSA/mygov-discovery",
+    "title": "GSA/mygov-discovery",
+    "url": "https://github.com/GSA/mygov-discovery"
+   }
+  },
+  {
+   "key": "GSA/mygov-forms",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2013-09-30T17:46:44Z",
+    "description": "[DEPRECATED] ",
+    "stars": "4",
+    "text": "GSA/mygov-forms",
+    "title": "GSA/mygov-forms",
+    "url": "https://github.com/GSA/mygov-forms"
+   }
+  },
+  {
+   "key": "GSA/db-to-api",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2012-11-30T21:56:38Z",
+    "description": "Turns a Database into a Secure, RESTful API",
+    "stars": "5",
+    "text": "GSA/db-to-api",
+    "title": "GSA/db-to-api",
+    "url": "https://github.com/GSA/db-to-api"
+   }
+  },
+  {
+   "key": "GSA/DataBeam",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2014-02-06T21:47:12Z",
+    "description": "Generic RESTful Interface for databases ",
+    "stars": "36",
+    "text": "GSA/DataBeam",
+    "title": "GSA/DataBeam",
+    "url": "https://github.com/GSA/DataBeam"
+   }
+  },
+  {
+   "key": "GSA/benefits-mockup",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2013-05-28T21:10:21Z",
+    "stars": "1",
+    "text": "GSA/benefits-mockup",
+    "title": "GSA/benefits-mockup",
+    "url": "https://github.com/GSA/benefits-mockup"
+   }
+  },
+  {
+   "key": "GSA/mygov-feedback-reporting",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2013-01-17T18:16:16Z",
+    "description": "[DEPRECATED] ",
+    "stars": "1",
+    "text": "GSA/mygov-feedback-reporting",
+    "title": "GSA/mygov-feedback-reporting",
+    "url": "https://github.com/GSA/mygov-feedback-reporting"
+   }
+  },
+  {
+   "key": "GSA/mygov-account",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2014-07-30T13:50:54Z",
+    "description": "[DEPRECATED see https://github.com/18f/identity-idp]  MyUSA - reimagine how citizens interact with government through an experience designed around their needs rather than a confusing and fragmented bureaucracy.",
+    "stars": "12",
+    "text": "GSA/mygov-account",
+    "title": "GSA/mygov-account",
+    "url": "https://github.com/GSA/mygov-account"
+   }
+  },
+  {
+   "key": "GSA/mygov-account-php-sdk",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2013-01-30T22:43:25Z",
+    "description": "[DEPRECATED] A lightweight SDK for PHP applications to interact with the MyGov Account APIs and OAuth login",
+    "stars": "1",
+    "text": "GSA/mygov-account-php-sdk",
+    "title": "GSA/mygov-account-php-sdk",
+    "url": "https://github.com/GSA/mygov-account-php-sdk"
+   }
+  },
+  {
+   "key": "GSA/usa-faqs",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2013-01-29T19:33:45Z",
+    "description": "An API and mobile interface for the USA.gov FAQs",
+    "stars": "2",
+    "text": "GSA/usa-faqs",
+    "title": "GSA/usa-faqs",
+    "url": "https://github.com/GSA/usa-faqs"
+   }
+  },
+  {
+   "key": "GSA/unclaimed_money",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2014-11-26T00:36:20Z",
+    "description": "US Government unclaimed money metasearch",
+    "stars": "15",
+    "text": "GSA/unclaimed_money",
+    "title": "GSA/unclaimed_money",
+    "url": "https://github.com/GSA/unclaimed_money"
+   }
+  },
+  {
+   "key": "GSA/omniauth-openid",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2013-04-18T18:43:17Z",
+    "description": "OpenID strategy for OmniAuth",
+    "stars": "0",
+    "text": "GSA/omniauth-openid",
+    "title": "GSA/omniauth-openid",
+    "url": "https://github.com/GSA/omniauth-openid"
+   }
+  },
+  {
+   "key": "GSA/GSA-APIs",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2018-11-09T19:14:18Z",
+    "description": "Do you have feedback, ideas, questions, or feature requests for GSA APIs?  Use this repository's Issue Tracker to join the discussion.",
+    "stars": "10",
+    "text": "GSA/GSA-APIs",
+    "title": "GSA/GSA-APIs",
+    "url": "https://github.com/GSA/GSA-APIs"
+   }
+  },
+  {
+   "key": "GSA/usfedgov_google_analytics",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2013-03-07T20:53:53Z",
+    "description": "Drupal module to integrate DAP Federal Gov Google Analytics codes",
+    "stars": "1",
+    "text": "GSA/usfedgov_google_analytics",
+    "title": "GSA/usfedgov_google_analytics",
+    "url": "https://github.com/GSA/usfedgov_google_analytics"
+   }
+  },
+  {
+   "key": "GSA/ckanext-saml2",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2020-12-22T19:16:10Z",
+    "description": "SAML2 Athentication extension",
+    "stars": "2",
+    "text": "GSA/ckanext-saml2",
+    "title": "GSA/ckanext-saml2",
+    "url": "https://github.com/GSA/ckanext-saml2"
+   }
+  },
+  {
+   "key": "GSA/rack-openid",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2013-04-23T14:14:46Z",
+    "description": "Provides a more HTTPish API around the ruby-openid library",
+    "stars": "0",
+    "text": "GSA/rack-openid",
+    "title": "GSA/rack-openid",
+    "url": "https://github.com/GSA/rack-openid"
+   }
+  },
+  {
+   "key": "GSA/SMR-site-embed",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2013-04-24T03:59:03Z",
+    "description": "A lightweight method for calling an agency's Social Media Registry entries.  ",
+    "stars": "0",
+    "text": "GSA/SMR-site-embed",
+    "title": "GSA/SMR-site-embed",
+    "url": "https://github.com/GSA/SMR-site-embed"
+   }
+  },
+  {
+   "key": "GSA/Mobile-Code-Catalog",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2015-02-18T17:21:59Z",
+    "description": "Source code from around, inside, and outside the federal government that can be helpful to federal agencies building mobile apps.",
+    "stars": "15",
+    "text": "GSA/Mobile-Code-Catalog",
+    "title": "GSA/Mobile-Code-Catalog",
+    "url": "https://github.com/GSA/Mobile-Code-Catalog"
+   }
+  },
+  {
+   "key": "GSA/Mobile-Web-Manual-Testing-Script",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2013-04-29T17:08:12Z",
+    "description": "A test script you can use as a starting point for testing your mobile web site.",
+    "stars": "3",
+    "text": "GSA/Mobile-Web-Manual-Testing-Script",
+    "title": "GSA/Mobile-Web-Manual-Testing-Script",
+    "url": "https://github.com/GSA/Mobile-Web-Manual-Testing-Script"
+   }
+  },
+  {
+   "key": "GSA/federal-apps-gallery-widgets",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2014-05-15T14:21:16Z",
+    "description": "A Sizable App Registration Rotator for Wordpress, Drupal and HTML5",
+    "stars": "2",
+    "text": "GSA/federal-apps-gallery-widgets",
+    "title": "GSA/federal-apps-gallery-widgets",
+    "url": "https://github.com/GSA/federal-apps-gallery-widgets"
+   }
+  },
+  {
+   "key": "GSA/ckanext-usmetadata",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2025-09-04T15:41:40Z",
+    "description": "A CKAN extension for inventory.data.gov",
+    "stars": "27",
+    "text": "GSA/ckanext-usmetadata",
+    "title": "GSA/ckanext-usmetadata",
+    "url": "https://github.com/GSA/ckanext-usmetadata"
+   }
+  },
+  {
+   "key": "GSA/mygov-admin-tasks",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2013-09-23T14:33:39Z",
+    "description": "[DEPRECATED] Frontend for creating/editing tasks through the mygov-account tasks api",
+    "stars": "3",
+    "text": "GSA/mygov-admin-tasks",
+    "title": "GSA/mygov-admin-tasks",
+    "url": "https://github.com/GSA/mygov-admin-tasks"
+   }
+  },
+  {
+   "key": "GSA/Crowdsource-Testing-USDA_FSIS",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2013-07-27T11:47:12Z",
+    "description": "Crowdsource test cycle for the USAD FSIS  ",
+    "stars": "2",
+    "text": "GSA/Crowdsource-Testing-USDA_FSIS",
+    "title": "GSA/Crowdsource-Testing-USDA_FSIS",
+    "url": "https://github.com/GSA/Crowdsource-Testing-USDA_FSIS"
+   }
+  },
+  {
+   "key": "GSA/hyabusa",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2014-01-30T02:44:23Z",
+    "description": "My BusinessUSA",
+    "stars": "2",
+    "text": "GSA/hyabusa",
+    "title": "GSA/hyabusa",
+    "url": "https://github.com/GSA/hyabusa"
+   }
+  },
+  {
+   "key": "GSA/modus-operandi",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2013-09-12T18:29:50Z",
+    "description": "Modus Operandi API",
+    "stars": "1",
+    "text": "GSA/modus-operandi",
+    "title": "GSA/modus-operandi",
+    "url": "https://github.com/GSA/modus-operandi"
+   }
+  },
+  {
+   "key": "GSA/just_inform",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2014-12-13T01:45:39Z",
+    "description": "Reginfo.gov XML Forms Report Data Parser",
+    "stars": "6",
+    "text": "GSA/just_inform",
+    "title": "GSA/just_inform",
+    "url": "https://github.com/GSA/just_inform"
+   }
+  },
+  {
+   "key": "GSA/just_inform_web",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2014-12-13T02:17:24Z",
+    "description": "Sinatra app used to display the top 25 forms using data from Reginfo.gov",
+    "stars": "3",
+    "text": "GSA/just_inform_web",
+    "title": "GSA/just_inform_web",
+    "url": "https://github.com/GSA/just_inform_web"
+   }
+  },
+  {
+   "key": "GSA/ckanext-datajson",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2026-06-08T16:19:53Z",
+    "description": "A CKAN extension for US-DCAT and /data pages in Project Open Data implementation",
+    "stars": "24",
+    "text": "GSA/ckanext-datajson",
+    "title": "GSA/ckanext-datajson",
+    "url": "https://github.com/GSA/ckanext-datajson"
+   }
+  },
+  {
+   "key": "GSA/embedding-data-catalogs",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2015-01-16T22:42:59Z",
+    "description": "Code snippets and solutions for presentation layers to the catalog",
+    "stars": "0",
+    "text": "GSA/embedding-data-catalogs",
+    "title": "GSA/embedding-data-catalogs",
+    "url": "https://github.com/GSA/embedding-data-catalogs"
+   }
+  },
+  {
+   "key": "GSA/enterprise-data-inventory",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2014-11-07T19:44:06Z",
+    "description": "The Enterprise Data Inventory is a CKAN based data management system for private and public data management",
+    "stars": "8",
+    "text": "GSA/enterprise-data-inventory",
+    "title": "GSA/enterprise-data-inventory",
+    "url": "https://github.com/GSA/enterprise-data-inventory"
+   }
+  },
+  {
+   "key": "GSA/capistrano-resque",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2013-11-19T19:27:22Z",
+    "description": "Capistrano integration for Resque",
+    "stars": "1",
+    "text": "GSA/capistrano-resque",
+    "title": "GSA/capistrano-resque",
+    "url": "https://github.com/GSA/capistrano-resque"
+   }
+  },
+  {
+   "key": "GSA/Crowdsource-Testing-CIO.gov",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2014-03-22T12:25:16Z",
+    "description": "Crowdsource test-cycle for the CIO.gov web site ",
+    "stars": "2",
+    "text": "GSA/Crowdsource-Testing-CIO.gov",
+    "title": "GSA/Crowdsource-Testing-CIO.gov",
+    "url": "https://github.com/GSA/Crowdsource-Testing-CIO.gov"
+   }
+  },
+  {
+   "key": "GSA/gman",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2013-11-26T15:20:30Z",
+    "description": "A ruby gem to check if the owner of a given email address or website is working for THE MAN (a.k.a verifies government domains).",
+    "stars": "1",
+    "text": "GSA/gman",
+    "title": "GSA/gman",
+    "url": "https://github.com/GSA/gman"
+   }
+  },
+  {
+   "key": "GSA/helio",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2014-02-05T21:54:49Z",
+    "description": "DEPRECATED - Government notifications.. simplified.",
+    "stars": "1",
+    "text": "GSA/helio",
+    "title": "GSA/helio",
+    "url": "https://github.com/GSA/helio"
+   }
+  },
+  {
+   "key": "GSA/govt-urls",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2026-01-23T19:21:31Z",
+    "description": "Most government websites end in .gov or .mil, but many do not. This repo contains a list of public government domains and URLs that don't end in .gov or .mil.",
+    "stars": "233",
+    "text": "GSA/govt-urls",
+    "title": "GSA/govt-urls",
+    "url": "https://github.com/GSA/govt-urls"
+   }
+  },
+  {
+   "key": "GSA/logo",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2026-06-10T22:17:57Z",
+    "description": "A collection of federal agency logos",
+    "stars": "11",
+    "text": "GSA/logo",
+    "title": "GSA/logo",
+    "url": "https://github.com/GSA/logo"
+   }
+  },
+  {
+   "key": "GSA/twitter-widgets-gallery",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2014-01-22T19:01:05Z",
+    "description": "Gallery of widgets powered by the Social Media Registry",
+    "stars": "0",
+    "text": "GSA/twitter-widgets-gallery",
+    "title": "GSA/twitter-widgets-gallery",
+    "url": "https://github.com/GSA/twitter-widgets-gallery"
+   }
+  },
+  {
+   "key": "GSA/Template-Microsite",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2014-02-06T22:09:21Z",
+    "description": "A template for a lightweight microsite using markdown.  Good for collaboration, as well.  ",
+    "stars": "1",
+    "text": "GSA/Template-Microsite",
+    "title": "GSA/Template-Microsite",
+    "url": "https://github.com/GSA/Template-Microsite"
+   }
+  },
+  {
+   "key": "GSA/Open-Data-Collaboration-Sandbox",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2024-12-11T18:51:35Z",
+    "description": "A sandbox for loose collaboration on assorted open data projects",
+    "stars": "17",
+    "text": "GSA/Open-Data-Collaboration-Sandbox",
+    "title": "GSA/Open-Data-Collaboration-Sandbox",
+    "url": "https://github.com/GSA/Open-Data-Collaboration-Sandbox"
+   }
+  },
+  {
+   "key": "GSA/Very-Simple-API",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2015-04-08T19:12:24Z",
+    "description": "A barebones API",
+    "stars": "15",
+    "text": "GSA/Very-Simple-API",
+    "title": "GSA/Very-Simple-API",
+    "url": "https://github.com/GSA/Very-Simple-API"
+   }
+  },
+  {
+   "key": "GSA/Developer-Feedback-for-Government-APIs",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2016-11-28T22:16:34Z",
+    "description": "A hub for accepting public feedback on government APIs",
+    "stars": "8",
+    "text": "GSA/Developer-Feedback-for-Government-APIs",
+    "title": "GSA/Developer-Feedback-for-Government-APIs",
+    "url": "https://github.com/GSA/Developer-Feedback-for-Government-APIs"
+   }
+  },
+  {
+   "key": "GSA/API-Resources",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2014-05-23T18:50:52Z",
+    "description": "A collection of example and template resources for agencies producing APIs",
+    "stars": "8",
+    "text": "GSA/API-Resources",
+    "title": "GSA/API-Resources",
+    "url": "https://github.com/GSA/API-Resources"
+   }
+  },
+  {
+   "key": "GSA/wp-open311",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2017-08-25T17:45:38Z",
+    "description": "Wordpress Plugin to interact with Open311 API",
+    "stars": "4",
+    "text": "GSA/wp-open311",
+    "title": "GSA/wp-open311",
+    "url": "https://github.com/GSA/wp-open311"
+   }
+  },
+  {
+   "key": "GSA/open-data-program-template",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2014-02-28T14:48:38Z",
+    "description": "This is a set of artifacts that an organization can use to help bootstrap and support an open data program.",
+    "stars": "3",
+    "text": "GSA/open-data-program-template",
+    "title": "GSA/open-data-program-template",
+    "url": "https://github.com/GSA/open-data-program-template"
+   }
+  },
+  {
+   "key": "GSA/pod-schema-variants",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2014-03-25T00:02:53Z",
+    "description": "Alternate versions of the Project Open Data schema",
+    "stars": "0",
+    "text": "GSA/pod-schema-variants",
+    "title": "GSA/pod-schema-variants",
+    "url": "https://github.com/GSA/pod-schema-variants"
+   }
+  },
+  {
+   "key": "GSA/PricesPaidAPI",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2014-09-17T18:09:50Z",
+    "description": "Prices Paid Portal API",
+    "stars": "5",
+    "text": "GSA/PricesPaidAPI",
+    "title": "GSA/PricesPaidAPI",
+    "url": "https://github.com/GSA/PricesPaidAPI"
+   }
+  },
+  {
+   "key": "GSA/LAMP-CentOS-with-Vagrant",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2014-03-20T22:48:29Z",
+    "description": "A vagrant based VM for Wordpress on CentOS",
+    "stars": "2",
+    "text": "GSA/LAMP-CentOS-with-Vagrant",
+    "title": "GSA/LAMP-CentOS-with-Vagrant",
+    "url": "https://github.com/GSA/LAMP-CentOS-with-Vagrant"
+   }
+  },
+  {
+   "key": "GSA/ckan",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2026-06-04T13:56:26Z",
+    "description": "CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers datahub.io, catalog.data.gov and data.gov.uk among many other sites.",
+    "stars": "12",
+    "text": "GSA/ckan",
+    "title": "GSA/ckan",
+    "url": "https://github.com/GSA/ckan"
+   }
+  },
+  {
+   "key": "GSA/ckanext-harvest",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2025-03-13T19:43:20Z",
+    "description": "Remote harvesting extension for CKAN",
+    "stars": "1",
+    "text": "GSA/ckanext-harvest",
+    "title": "GSA/ckanext-harvest",
+    "url": "https://github.com/GSA/ckanext-harvest"
+   }
+  },
+  {
+   "key": "GSA/ckanext-spatial",
+   "source": "oss-gsa",
+   "fields": {
+    "date": "2025-07-18T23:11:17Z",
+    "description": "Geospatial extension for CKAN",
+    "stars": "2",
+    "text": "GSA/ckanext-spatial",
+    "title": "GSA/ckanext-spatial",
+    "url": "https://github.com/GSA/ckanext-spatial"
    }
   },
   {
@@ -4019,6 +4917,1150 @@
    }
   },
   {
+   "key": "llnl/tox",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2023-08-30T19:28:19Z",
+    "description": "The tox (Tomcat, Oracle, and XML) micro service translates your PL/SQL packages directly into addressable URLs.",
+    "stars": "5",
+    "text": "llnl/tox",
+    "title": "llnl/tox",
+    "url": "https://github.com/llnl/tox"
+   }
+  },
+  {
+   "key": "llnl/muster",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2019-03-14T13:06:21Z",
+    "description": "Massively Scalable Clustering",
+    "stars": "23",
+    "text": "llnl/muster",
+    "title": "llnl/muster",
+    "url": "https://github.com/llnl/muster"
+   }
+  },
+  {
+   "key": "llnl/wrap",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2025-03-20T07:22:15Z",
+    "description": "MPI wrapper generator, for writing PMPI tool libraries",
+    "stars": "37",
+    "text": "llnl/wrap",
+    "title": "llnl/wrap",
+    "url": "https://github.com/llnl/wrap"
+   }
+  },
+  {
+   "key": "llnl/callpath",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2018-02-14T17:51:51Z",
+    "description": "Library for representing callpaths consistently in distributed-memory performance tools.",
+    "stars": "7",
+    "text": "llnl/callpath",
+    "title": "llnl/callpath",
+    "url": "https://github.com/llnl/callpath"
+   }
+  },
+  {
+   "key": "llnl/PnMPI",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2022-04-30T19:27:17Z",
+    "description": "Virtualization Layer for the MPI Profiling Interface",
+    "stars": "22",
+    "text": "llnl/PnMPI",
+    "title": "llnl/PnMPI",
+    "url": "https://github.com/llnl/PnMPI"
+   }
+  },
+  {
+   "key": "llnl/lustre",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2026-05-29T23:11:18Z",
+    "description": "LLNL's branches of Lustre",
+    "stars": "63",
+    "text": "llnl/lustre",
+    "title": "llnl/lustre",
+    "url": "https://github.com/llnl/lustre"
+   }
+  },
+  {
+   "key": "llnl/nami",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2014-04-13T03:41:44Z",
+    "description": "Parallel Wavelet Compression",
+    "stars": "4",
+    "text": "llnl/nami",
+    "title": "llnl/nami",
+    "url": "https://github.com/llnl/nami"
+   }
+  },
+  {
+   "key": "llnl/lustre-tools-llnl",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2025-04-08T22:16:54Z",
+    "description": "Some lustre-related scripts and utilities in use at LLNL.",
+    "stars": "26",
+    "text": "llnl/lustre-tools-llnl",
+    "title": "llnl/lustre-tools-llnl",
+    "url": "https://github.com/llnl/lustre-tools-llnl"
+   }
+  },
+  {
+   "key": "llnl/yorick-ml4",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2011-02-14T02:40:40Z",
+    "description": "Matlab4 I/O plugin for yorick",
+    "stars": "2",
+    "text": "llnl/yorick-ml4",
+    "title": "llnl/yorick-ml4",
+    "url": "https://github.com/llnl/yorick-ml4"
+   }
+  },
+  {
+   "key": "llnl/yorick",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2025-04-07T16:04:09Z",
+    "description": "yorick interpreted language",
+    "stars": "85",
+    "text": "llnl/yorick",
+    "title": "llnl/yorick",
+    "url": "https://github.com/llnl/yorick"
+   }
+  },
+  {
+   "key": "llnl/yorick-z",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2013-08-05T19:58:39Z",
+    "description": "zlib, jpeg, and png plugin for yorick",
+    "stars": "3",
+    "text": "llnl/yorick-z",
+    "title": "llnl/yorick-z",
+    "url": "https://github.com/llnl/yorick-z"
+   }
+  },
+  {
+   "key": "llnl/yorick-gl",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2012-09-25T03:22:34Z",
+    "description": "OpenGL 3D graphics plugin for yorick",
+    "stars": "1",
+    "text": "llnl/yorick-gl",
+    "title": "llnl/yorick-gl",
+    "url": "https://github.com/llnl/yorick-gl"
+   }
+  },
+  {
+   "key": "llnl/yorick-mpeg",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2011-02-15T06:02:06Z",
+    "description": "mpeg1 writer plugin for yorick",
+    "stars": "2",
+    "text": "llnl/yorick-mpeg",
+    "title": "llnl/yorick-mpeg",
+    "url": "https://github.com/llnl/yorick-mpeg"
+   }
+  },
+  {
+   "key": "llnl/mpy1",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2012-04-28T16:26:13Z",
+    "description": "Obsolete mpy version 1, use yorick/mpy",
+    "stars": "1",
+    "text": "llnl/mpy1",
+    "title": "llnl/mpy1",
+    "url": "https://github.com/llnl/mpy1"
+   }
+  },
+  {
+   "key": "llnl/lmt",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2025-10-03T00:06:19Z",
+    "description": "Lustre Monitoring Tools",
+    "stars": "77",
+    "text": "llnl/lmt",
+    "title": "llnl/lmt",
+    "url": "https://github.com/llnl/lmt"
+   }
+  },
+  {
+   "key": "llnl/libyogrt",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2026-02-27T23:21:12Z",
+    "description": "Your One Get Remaining Time library",
+    "stars": "8",
+    "text": "llnl/libyogrt",
+    "title": "llnl/libyogrt",
+    "url": "https://github.com/llnl/libyogrt"
+   }
+  },
+  {
+   "key": "llnl/adept-utils",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2021-07-05T17:07:13Z",
+    "description": "LLNL Utility Libraries",
+    "stars": "2",
+    "text": "llnl/adept-utils",
+    "title": "llnl/adept-utils",
+    "url": "https://github.com/llnl/adept-utils"
+   }
+  },
+  {
+   "key": "llnl/MountPointAttributes",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2021-04-21T16:11:44Z",
+    "description": "Mount Point Attributes module",
+    "stars": "1",
+    "text": "llnl/MountPointAttributes",
+    "title": "llnl/MountPointAttributes",
+    "url": "https://github.com/llnl/MountPointAttributes"
+   }
+  },
+  {
+   "key": "llnl/yorick-doc",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2012-09-26T04:06:37Z",
+    "description": "automatic documentation generator for yorick",
+    "stars": "6",
+    "text": "llnl/yorick-doc",
+    "title": "llnl/yorick-doc",
+    "url": "https://github.com/llnl/yorick-doc"
+   }
+  },
+  {
+   "key": "llnl/rhizome",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2016-03-07T18:33:41Z",
+    "stars": "7",
+    "text": "llnl/rhizome",
+    "title": "llnl/rhizome",
+    "url": "https://github.com/llnl/rhizome"
+   }
+  },
+  {
+   "key": "llnl/ap",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2012-05-25T21:59:13Z",
+    "description": "Absolute Path Command",
+    "stars": "2",
+    "text": "llnl/ap",
+    "title": "llnl/ap",
+    "url": "https://github.com/llnl/ap"
+   }
+  },
+  {
+   "key": "llnl/mpileaks",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2014-09-17T19:15:12Z",
+    "description": "Tool to detect and report leaked MPI objects like MPI_Requests and MPI_Datatypes",
+    "stars": "14",
+    "text": "llnl/mpileaks",
+    "title": "llnl/mpileaks",
+    "url": "https://github.com/llnl/mpileaks"
+   }
+  },
+  {
+   "key": "llnl/dtcmp",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2023-10-12T22:33:32Z",
+    "description": "Datatype Compare (DTCMP) Library for sorting and ranking distributed data using MPI",
+    "stars": "10",
+    "text": "llnl/dtcmp",
+    "title": "llnl/dtcmp",
+    "url": "https://github.com/llnl/dtcmp"
+   }
+  },
+  {
+   "key": "llnl/lwgrp",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2024-06-28T18:00:56Z",
+    "description": "The Light-weight Group Library provides methods for MPI codes to quickly create and destroy process groups",
+    "stars": "5",
+    "text": "llnl/lwgrp",
+    "title": "llnl/lwgrp",
+    "url": "https://github.com/llnl/lwgrp"
+   }
+  },
+  {
+   "key": "llnl/rubik",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2016-07-27T19:56:53Z",
+    "description": "Topology Aware Task Mapping Tool",
+    "stars": "14",
+    "text": "llnl/rubik",
+    "title": "llnl/rubik",
+    "url": "https://github.com/llnl/rubik"
+   }
+  },
+  {
+   "key": "llnl/scr",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2026-04-06T19:59:21Z",
+    "description": "SCR caches checkpoint data in storage on the compute nodes of a Linux cluster to provide a fast, scalable checkpoint / restart capability for MPI codes.",
+    "stars": "107",
+    "text": "llnl/scr",
+    "title": "llnl/scr",
+    "url": "https://github.com/llnl/scr"
+   }
+  },
+  {
+   "key": "llnl/STAT",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2026-06-08T21:14:15Z",
+    "description": "STAT - the Stack Trace Analysis Tool",
+    "stars": "69",
+    "text": "llnl/STAT",
+    "title": "llnl/STAT",
+    "url": "https://github.com/llnl/STAT"
+   }
+  },
+  {
+   "key": "llnl/graphlib",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2022-07-22T22:29:06Z",
+    "description": "GraphLib",
+    "stars": "4",
+    "text": "llnl/graphlib",
+    "title": "llnl/graphlib",
+    "url": "https://github.com/llnl/graphlib"
+   }
+  },
+  {
+   "key": "llnl/mib",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2013-03-09T00:35:07Z",
+    "stars": "2",
+    "text": "llnl/mib",
+    "title": "llnl/mib",
+    "url": "https://github.com/llnl/mib"
+   }
+  },
+  {
+   "key": "llnl/MacPatch",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2026-05-12T15:52:13Z",
+    "description": "Software \u0026 Patch management for macOS",
+    "stars": "87",
+    "text": "llnl/MacPatch",
+    "title": "llnl/MacPatch",
+    "url": "https://github.com/llnl/MacPatch"
+   }
+  },
+  {
+   "key": "llnl/Spindle",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2026-06-08T17:59:34Z",
+    "description": "Scalable dynamic library and python loading in HPC environments",
+    "stars": "108",
+    "text": "llnl/Spindle",
+    "title": "llnl/Spindle",
+    "url": "https://github.com/llnl/Spindle"
+   }
+  },
+  {
+   "key": "llnl/cruise",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2016-08-16T20:15:16Z",
+    "description": "User space POSIX-like file system in main memory",
+    "stars": "40",
+    "text": "llnl/cruise",
+    "title": "llnl/cruise",
+    "url": "https://github.com/llnl/cruise"
+   }
+  },
+  {
+   "key": "llnl/magpie",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2025-02-13T17:27:48Z",
+    "description": "Magpie contains a number of scripts for running Big Data software in HPC environments, including Hadoop and Spark. There is support for Lustre, Slurm, Moab, Torque. LSF, Flux, and more.",
+    "stars": "197",
+    "text": "llnl/magpie",
+    "title": "llnl/magpie",
+    "url": "https://github.com/llnl/magpie"
+   }
+  },
+  {
+   "key": "llnl/DysectAPI",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2013-10-25T17:25:21Z",
+    "description": "The DysectAPI allows users to install debug probes that can gather various debug data under user-specified conditions—i.e., breakpoints, evaluation points, external conditions, etc.  Probes can be linked in a tree to automate debug actions that a user would manually perform using a traditional debugger.",
+    "stars": "3",
+    "text": "llnl/DysectAPI",
+    "title": "llnl/DysectAPI",
+    "url": "https://github.com/llnl/DysectAPI"
+   }
+  },
+  {
+   "key": "llnl/FastGlobalFileStatus",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2021-04-21T16:11:23Z",
+    "description": "Fast and scalable retrieval techniques for file global properties",
+    "stars": "3",
+    "text": "llnl/FastGlobalFileStatus",
+    "title": "llnl/FastGlobalFileStatus",
+    "url": "https://github.com/llnl/FastGlobalFileStatus"
+   }
+  },
+  {
+   "key": "llnl/Gremlins",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2014-09-25T15:53:59Z",
+    "description": "Flexible and extensible framework to emulate expected exascale architecture characteristics",
+    "stars": "8",
+    "text": "llnl/Gremlins",
+    "title": "llnl/Gremlins",
+    "url": "https://github.com/llnl/Gremlins"
+   }
+  },
+  {
+   "key": "llnl/Adagio",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2017-12-22T22:14:17Z",
+    "description": "A power aware runtime",
+    "stars": "12",
+    "text": "llnl/Adagio",
+    "title": "llnl/Adagio",
+    "url": "https://github.com/llnl/Adagio"
+   }
+  },
+  {
+   "key": "llnl/mpi-tools",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2020-09-21T16:48:57Z",
+    "description": "Tools for MPI programmers",
+    "stars": "14",
+    "text": "llnl/mpi-tools",
+    "title": "llnl/mpi-tools",
+    "url": "https://github.com/llnl/mpi-tools"
+   }
+  },
+  {
+   "key": "llnl/AutomaDeD",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2015-10-15T06:19:59Z",
+    "description": "Debugging Tool based on Statistical Analysis",
+    "stars": "7",
+    "text": "llnl/AutomaDeD",
+    "title": "llnl/AutomaDeD",
+    "url": "https://github.com/llnl/AutomaDeD"
+   }
+  },
+  {
+   "key": "llnl/core_stack_merge",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2013-11-27T22:08:09Z",
+    "description": "A script to merge IBM BlueGene lightweight core files into STAT prefix trees",
+    "stars": "0",
+    "text": "llnl/core_stack_merge",
+    "title": "llnl/core_stack_merge",
+    "url": "https://github.com/llnl/core_stack_merge"
+   }
+  },
+  {
+   "key": "llnl/pynamic",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2022-11-10T20:23:29Z",
+    "description": "The Python Dynamic Benchmark",
+    "stars": "9",
+    "text": "llnl/pynamic",
+    "title": "llnl/pynamic",
+    "url": "https://github.com/llnl/pynamic"
+   }
+  },
+  {
+   "key": "llnl/cram",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2015-03-17T15:38:52Z",
+    "description": "Tool to run many small MPI jobs inside of one large MPI job.",
+    "stars": "25",
+    "text": "llnl/cram",
+    "title": "llnl/cram",
+    "url": "https://github.com/llnl/cram"
+   }
+  },
+  {
+   "key": "llnl/LaunchMON",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2026-02-11T23:04:50Z",
+    "description": "LaunchMON is a software infrastructure that enables HPC run-time tools to co-locate tool daemons with a parallel job. Its API allows a tool to identify all the remote processes of a job and to scalably launch daemons into the relevant nodes.",
+    "stars": "13",
+    "text": "llnl/LaunchMON",
+    "title": "llnl/LaunchMON",
+    "url": "https://github.com/llnl/LaunchMON"
+   }
+  },
+  {
+   "key": "llnl/perf-dump",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2024-12-12T03:18:38Z",
+    "description": "Records per-process, per-timestep PAPI performance counter values.  Saves them in an HDF5 file.",
+    "stars": "8",
+    "text": "llnl/perf-dump",
+    "title": "llnl/perf-dump",
+    "url": "https://github.com/llnl/perf-dump"
+   }
+  },
+  {
+   "key": "llnl/GRAPE",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2017-12-06T17:11:21Z",
+    "description": "Distributed Git Workflow Management Tool - The Git Replacement for the \"Awesome\" PARSEC Environment",
+    "stars": "6",
+    "text": "llnl/GRAPE",
+    "title": "llnl/GRAPE",
+    "url": "https://github.com/llnl/GRAPE"
+   }
+  },
+  {
+   "key": "llnl/msr-safe",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2025-09-17T15:52:32Z",
+    "description": "Allows safer access to model specific registers (MSRs)",
+    "stars": "97",
+    "text": "llnl/msr-safe",
+    "title": "llnl/msr-safe",
+    "url": "https://github.com/llnl/msr-safe"
+   }
+  },
+  {
+   "key": "llnl/MemAxes",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2022-09-10T18:26:08Z",
+    "description": "Interactive Visualization of Memory Access Samples",
+    "stars": "23",
+    "text": "llnl/MemAxes",
+    "title": "llnl/MemAxes",
+    "url": "https://github.com/llnl/MemAxes"
+   }
+  },
+  {
+   "key": "llnl/boxfish",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2016-03-09T04:31:33Z",
+    "description": "Boxfish is a platform for visualizing performance data across the domains in which it was collected",
+    "stars": "5",
+    "text": "llnl/boxfish",
+    "title": "llnl/boxfish",
+    "url": "https://github.com/llnl/boxfish"
+   }
+  },
+  {
+   "key": "llnl/pyorick",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2025-09-13T17:06:05Z",
+    "description": "Run yorick from python",
+    "stars": "3",
+    "text": "llnl/pyorick",
+    "title": "llnl/pyorick",
+    "url": "https://github.com/llnl/pyorick"
+   }
+  },
+  {
+   "key": "llnl/ravel",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2021-09-12T23:05:39Z",
+    "description": "Ravel MPI trace visualization tool",
+    "stars": "30",
+    "text": "llnl/ravel",
+    "title": "llnl/ravel",
+    "url": "https://github.com/llnl/ravel"
+   }
+  },
+  {
+   "key": "llnl/mitos",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2022-08-05T16:24:07Z",
+    "description": "Memory Sampling Tool using Linux perf_events",
+    "stars": "15",
+    "text": "llnl/mitos",
+    "title": "llnl/mitos",
+    "url": "https://github.com/llnl/mitos"
+   }
+  },
+  {
+   "key": "llnl/ADAPT",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2023-11-05T17:21:52Z",
+    "description": "Adaptive Thresholds for Feature Extraction",
+    "stars": "7",
+    "text": "llnl/ADAPT",
+    "title": "llnl/ADAPT",
+    "url": "https://github.com/llnl/ADAPT"
+   }
+  },
+  {
+   "key": "llnl/spawnnet",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2021-10-16T21:33:19Z",
+    "description": "Communication library for bootstrapping MPI",
+    "stars": "1",
+    "text": "llnl/spawnnet",
+    "title": "llnl/spawnnet",
+    "url": "https://github.com/llnl/spawnnet"
+   }
+  },
+  {
+   "key": "llnl/avalaunch",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2021-10-16T21:44:59Z",
+    "description": "Research prototype for fast launch of MPI jobs",
+    "stars": "2",
+    "text": "llnl/avalaunch",
+    "title": "llnl/avalaunch",
+    "url": "https://github.com/llnl/avalaunch"
+   }
+  },
+  {
+   "key": "llnl/ibtopo",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2021-06-29T01:24:09Z",
+    "description": "Perl scripts to process ibnetdiscover to extract network topology info",
+    "stars": "4",
+    "text": "llnl/ibtopo",
+    "title": "llnl/ibtopo",
+    "url": "https://github.com/llnl/ibtopo"
+   }
+  },
+  {
+   "key": "llnl/DragonView",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2016-12-08T17:30:03Z",
+    "description": "Visual Analytics Tool for Dragonfly Network-based Supercomputers",
+    "stars": "13",
+    "text": "llnl/DragonView",
+    "title": "llnl/DragonView",
+    "url": "https://github.com/llnl/DragonView"
+   }
+  },
+  {
+   "key": "llnl/blockbuster",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2016-02-04T19:24:08Z",
+    "description": "Automatically exported from code.google.com/p/blockbuster",
+    "stars": "1",
+    "text": "llnl/blockbuster",
+    "title": "llnl/blockbuster",
+    "url": "https://github.com/llnl/blockbuster"
+   }
+  },
+  {
+   "key": "llnl/llnl-hires-timers",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2020-10-20T11:26:21Z",
+    "description": "C library containing high resolution timer implementation for several platforms.",
+    "stars": "10",
+    "text": "llnl/llnl-hires-timers",
+    "title": "llnl/llnl-hires-timers",
+    "url": "https://github.com/llnl/llnl-hires-timers"
+   }
+  },
+  {
+   "key": "llnl/MacPatch-AutoPKG",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2020-08-06T23:04:49Z",
+    "stars": "9",
+    "text": "llnl/MacPatch-AutoPKG",
+    "title": "llnl/MacPatch-AutoPKG",
+    "url": "https://github.com/llnl/MacPatch-AutoPKG"
+   }
+  },
+  {
+   "key": "llnl/rose",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2026-06-07T14:13:29Z",
+    "description": "ROSE is an open-source compiler framework engineered by LLNL supporting program analysis and transformation at both the source and binary levels. ROSE can act as a compiler frontend for C, C++ (including applications which use UPC, OpenMP, or Cuda), Fortran, Java, Ada, and supports ELF and PE binary formats for a variety of instruction sets.",
+    "stars": "677",
+    "text": "llnl/rose",
+    "title": "llnl/rose",
+    "url": "https://github.com/llnl/rose"
+   }
+  },
+  {
+   "key": "llnl/ldapotp-jni-lib",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2016-04-14T18:08:05Z",
+    "description": "A native interface wrapper for the standard LDAPOTP Client Authentication libraries",
+    "stars": "0",
+    "text": "llnl/ldapotp-jni-lib",
+    "title": "llnl/ldapotp-jni-lib",
+    "url": "https://github.com/llnl/ldapotp-jni-lib"
+   }
+  },
+  {
+   "key": "llnl/flume-plugins",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2016-05-18T22:11:10Z",
+    "description": "A small collection of Flume Plugins and scripts.",
+    "stars": "2",
+    "text": "llnl/flume-plugins",
+    "title": "llnl/flume-plugins",
+    "url": "https://github.com/llnl/flume-plugins"
+   }
+  },
+  {
+   "key": "llnl/ldapotp-java-api",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2016-11-09T18:28:36Z",
+    "description": "provides OTP authentication services for java applications",
+    "stars": "2",
+    "text": "llnl/ldapotp-java-api",
+    "title": "llnl/ldapotp-java-api",
+    "url": "https://github.com/llnl/ldapotp-java-api"
+   }
+  },
+  {
+   "key": "llnl/conduit",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2026-06-10T23:55:17Z",
+    "description": "Simplified Data Exchange for HPC Simulations",
+    "stars": "242",
+    "text": "llnl/conduit",
+    "title": "llnl/conduit",
+    "url": "https://github.com/llnl/conduit"
+   }
+  },
+  {
+   "key": "llnl/MACSio",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2020-10-13T00:25:17Z",
+    "description": "A Multi-purpose, Application-Centric, Scalable I/O Proxy Application",
+    "stars": "34",
+    "text": "llnl/MACSio",
+    "title": "llnl/MACSio",
+    "url": "https://github.com/llnl/MACSio"
+   }
+  },
+  {
+   "key": "llnl/Caliper",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2026-06-11T10:43:11Z",
+    "description": "Caliper is an instrumentation and performance profiling library",
+    "stars": "414",
+    "text": "llnl/Caliper",
+    "title": "llnl/Caliper",
+    "url": "https://github.com/llnl/Caliper"
+   }
+  },
+  {
+   "key": "llnl/llnl.github.io",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2026-06-11T14:24:48Z",
+    "description": "Public home for LLNL software catalog",
+    "stars": "67",
+    "text": "llnl/llnl.github.io",
+    "title": "llnl/llnl.github.io",
+    "url": "https://github.com/llnl/llnl.github.io"
+   }
+  },
+  {
+   "key": "llnl/Jekyll-LLNL-Theme",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2026-05-12T15:28:10Z",
+    "description": "LLNL Themed Jekyll Template",
+    "stars": "2",
+    "text": "llnl/Jekyll-LLNL-Theme",
+    "title": "llnl/Jekyll-LLNL-Theme",
+    "url": "https://github.com/llnl/Jekyll-LLNL-Theme"
+   }
+  },
+  {
+   "key": "llnl/Task-Time-Tracker",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2022-02-04T13:36:36Z",
+    "description": "A client side web app for tracking your time",
+    "stars": "23",
+    "text": "llnl/Task-Time-Tracker",
+    "title": "llnl/Task-Time-Tracker",
+    "url": "https://github.com/llnl/Task-Time-Tracker"
+   }
+  },
+  {
+   "key": "llnl/SAMRAI",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2026-06-05T18:01:46Z",
+    "description": "Structured Adaptive Mesh Refinement Application Infrastructure - a scalable C++ framework for block-structured AMR application development",
+    "stars": "245",
+    "text": "llnl/SAMRAI",
+    "title": "llnl/SAMRAI",
+    "url": "https://github.com/llnl/SAMRAI"
+   }
+  },
+  {
+   "key": "llnl/OMSClient",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2016-07-01T07:40:40Z",
+    "description": "Tool to read network traffic data output by OpenSM Monitoring Service",
+    "stars": "2",
+    "text": "llnl/OMSClient",
+    "title": "llnl/OMSClient",
+    "url": "https://github.com/llnl/OMSClient"
+   }
+  },
+  {
+   "key": "llnl/zfp",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2026-06-08T16:57:32Z",
+    "description": "Compressed numerical arrays that support high-speed random access",
+    "stars": "868",
+    "text": "llnl/zfp",
+    "title": "llnl/zfp",
+    "url": "https://github.com/llnl/zfp"
+   }
+  },
+  {
+   "key": "llnl/libROM",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2026-05-14T14:53:01Z",
+    "description": "Data-driven model reduction library with an emphasis on large scale parallelism and linear subspace methods",
+    "stars": "235",
+    "text": "llnl/libROM",
+    "title": "llnl/libROM",
+    "url": "https://github.com/llnl/libROM"
+   }
+  },
+  {
+   "key": "llnl/Collabmaps",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2016-04-06T22:59:48Z",
+    "description": "An extension of the Datamaps package to show links between locations",
+    "stars": "0",
+    "text": "llnl/Collabmaps",
+    "title": "llnl/Collabmaps",
+    "url": "https://github.com/llnl/Collabmaps"
+   }
+  },
+  {
+   "key": "llnl/mpiP",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2025-09-30T22:53:22Z",
+    "description": "A light-weight MPI profiler.",
+    "stars": "107",
+    "text": "llnl/mpiP",
+    "title": "llnl/mpiP",
+    "url": "https://github.com/llnl/mpiP"
+   }
+  },
+  {
+   "key": "llnl/RAJA",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2026-06-11T14:40:56Z",
+    "description": "RAJA Performance Portability Layer (C++)",
+    "stars": "584",
+    "text": "llnl/RAJA",
+    "title": "llnl/RAJA",
+    "url": "https://github.com/llnl/RAJA"
+   }
+  },
+  {
+   "key": "llnl/spl",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2020-03-10T18:42:38Z",
+    "description": "A shim layer which adds the core interfaces required for OpenZFS.",
+    "stars": "0",
+    "text": "llnl/spl",
+    "title": "llnl/spl",
+    "url": "https://github.com/llnl/spl"
+   }
+  },
+  {
+   "key": "llnl/zfs",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2026-06-10T20:17:25Z",
+    "description": "ZFS on Linux - the official OpenZFS implementation for Linux.",
+    "stars": "3",
+    "text": "llnl/zfs",
+    "title": "llnl/zfs",
+    "url": "https://github.com/llnl/zfs"
+   }
+  },
+  {
+   "key": "llnl/paraDIS_lib",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2018-09-27T19:35:34Z",
+    "description": "Visualization library to work with the paraDIS dislocation dynamics code",
+    "stars": "13",
+    "text": "llnl/paraDIS_lib",
+    "title": "llnl/paraDIS_lib",
+    "url": "https://github.com/llnl/paraDIS_lib"
+   }
+  },
+  {
+   "key": "llnl/CoMD-Chapel",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2017-06-21T20:14:47Z",
+    "description": "CoMD implementation in Chapel",
+    "stars": "5",
+    "text": "llnl/CoMD-Chapel",
+    "title": "llnl/CoMD-Chapel",
+    "url": "https://github.com/llnl/CoMD-Chapel"
+   }
+  },
+  {
+   "key": "llnl/COGENT",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2026-01-13T18:59:01Z",
+    "stars": "16",
+    "text": "llnl/COGENT",
+    "title": "llnl/COGENT",
+    "url": "https://github.com/llnl/COGENT"
+   }
+  },
+  {
+   "key": "llnl/qball",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2024-02-16T00:23:11Z",
+    "description": "Qball (also known as qb@ll) is a first-principles molecular dynamics code that is used to compute the electronic structure of atoms, molecules, solids, and liquids within the Density Functional Theory (DFT) formalism. It is a fork of the Qbox code by Francois Gygi.",
+    "stars": "46",
+    "text": "llnl/qball",
+    "title": "llnl/qball",
+    "url": "https://github.com/llnl/qball"
+   }
+  },
+  {
+   "key": "llnl/pmgr_collective",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2016-07-01T22:49:52Z",
+    "stars": "0",
+    "text": "llnl/pmgr_collective",
+    "title": "llnl/pmgr_collective",
+    "url": "https://github.com/llnl/pmgr_collective"
+   }
+  },
+  {
+   "key": "llnl/WVL",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2016-07-22T07:04:34Z",
+    "stars": "0",
+    "text": "llnl/WVL",
+    "title": "llnl/WVL",
+    "url": "https://github.com/llnl/WVL"
+   }
+  },
+  {
+   "key": "llnl/spark-hdf5",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2016-11-17T20:47:27Z",
+    "description": "A plugin to enable Apache Spark to read HDF5 files",
+    "stars": "20",
+    "text": "llnl/spark-hdf5",
+    "title": "llnl/spark-hdf5",
+    "url": "https://github.com/llnl/spark-hdf5"
+   }
+  },
+  {
+   "key": "llnl/havoqgt",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2026-02-14T03:27:42Z",
+    "stars": "28",
+    "text": "llnl/havoqgt",
+    "title": "llnl/havoqgt",
+    "url": "https://github.com/llnl/havoqgt"
+   }
+  },
+  {
+   "key": "llnl/GridDyn",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2026-06-06T21:42:16Z",
+    "description": "GridDyn is an open-source power transmission simulation software package",
+    "stars": "58",
+    "text": "llnl/GridDyn",
+    "title": "llnl/GridDyn",
+    "url": "https://github.com/llnl/GridDyn"
+   }
+  },
+  {
+   "key": "llnl/PIPS-SBB",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2016-08-15T21:34:51Z",
+    "description": "Implementation of parallel branch-and-bound algorithm for stochastic (or block-angular) mixed-integer programs",
+    "stars": "10",
+    "text": "llnl/PIPS-SBB",
+    "title": "llnl/PIPS-SBB",
+    "url": "https://github.com/llnl/PIPS-SBB"
+   }
+  },
+  {
+   "key": "llnl/saamge",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2020-06-10T05:28:09Z",
+    "description": "Smoothed aggregation spectral element-based algebraic multigrid",
+    "stars": "10",
+    "text": "llnl/saamge",
+    "title": "llnl/saamge",
+    "url": "https://github.com/llnl/saamge"
+   }
+  },
+  {
+   "key": "llnl/irep",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2026-04-07T20:14:22Z",
+    "description": "A tool for filling C/C++ or Fortran data structures from Lua input tables",
+    "stars": "15",
+    "text": "llnl/irep",
+    "title": "llnl/irep",
+    "url": "https://github.com/llnl/irep"
+   }
+  },
+  {
+   "key": "llnl/tango",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2023-07-26T20:54:47Z",
+    "description": "Transport solver for coupling with turbulence",
+    "stars": "17",
+    "text": "llnl/tango",
+    "title": "llnl/tango",
+    "url": "https://github.com/llnl/tango"
+   }
+  },
+  {
+   "key": "llnl/cowc",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2021-01-29T23:14:13Z",
+    "description": "Cars Overhead With Context related scripts described in Mundhenk et al. 2016 ECCV. ",
+    "stars": "115",
+    "text": "llnl/cowc",
+    "title": "llnl/cowc",
+    "url": "https://github.com/llnl/cowc"
+   }
+  },
+  {
+   "key": "llnl/simul",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2020-12-30T16:24:42Z",
+    "description": "MPI coordinated test of parallel filesystem system calls and library functions",
+    "stars": "7",
+    "text": "llnl/simul",
+    "title": "llnl/simul",
+    "url": "https://github.com/llnl/simul"
+   }
+  },
+  {
+   "key": "llnl/fdtree",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2016-10-06T00:07:49Z",
+    "description": "Recursive generator of directory trees",
+    "stars": "7",
+    "text": "llnl/fdtree",
+    "title": "llnl/fdtree",
+    "url": "https://github.com/llnl/fdtree"
+   }
+  },
+  {
+   "key": "llnl/refex-rolx",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2016-09-24T00:49:21Z",
+    "stars": "3",
+    "text": "llnl/refex-rolx",
+    "title": "llnl/refex-rolx",
+    "url": "https://github.com/llnl/refex-rolx"
+   }
+  },
+  {
+   "key": "llnl/unum",
+   "source": "oss-llnl",
+   "fields": {
+    "date": "2018-03-15T04:39:11Z",
+    "description": "Universal Number Library",
+    "stars": "46",
+    "text": "llnl/unum",
+    "title": "llnl/unum",
+    "url": "https://github.com/llnl/unum"
+   }
+  },
+  {
    "key": "mitre/HTTP-Proxy-Servlet",
    "source": "oss-mitre",
    "fields": {
@@ -4497,7 +6539,7 @@
    "fields": {
     "date": "2026-06-08T14:09:39Z",
     "description": "Cyber Threat Intelligence Repository expressed in STIX 2.0",
-    "stars": "2079",
+    "stars": "2078",
     "text": "mitre/cti",
     "title": "mitre/cti",
     "url": "https://github.com/mitre/cti"
@@ -8352,6 +10394,1191 @@
     "text": "nsacyber/RIM-Tool",
     "title": "nsacyber/RIM-Tool",
     "url": "https://github.com/nsacyber/RIM-Tool"
+   }
+  },
+  {
+   "key": "ORNL/RSBench",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2014-06-19T16:27:18Z",
+    "description": "A mini-app to represent the multipole resonance representation lookup cross section algorithm.",
+    "stars": "1",
+    "text": "ORNL/RSBench",
+    "title": "ORNL/RSBench",
+    "url": "https://github.com/ORNL/RSBench"
+   }
+  },
+  {
+   "key": "ORNL/systemburn",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2013-06-19T14:29:13Z",
+    "stars": "0",
+    "text": "ORNL/systemburn",
+    "title": "ORNL/systemburn",
+    "url": "https://github.com/ORNL/systemburn"
+   }
+  },
+  {
+   "key": "ORNL/ompi",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2015-04-20T14:41:31Z",
+    "description": "Clone of Open MPI",
+    "stars": "0",
+    "text": "ORNL/ompi",
+    "title": "ORNL/ompi",
+    "url": "https://github.com/ORNL/ompi"
+   }
+  },
+  {
+   "key": "ORNL/nvl",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2016-06-25T12:35:06Z",
+    "description": "Node Virtualization Layer",
+    "stars": "0",
+    "text": "ORNL/nvl",
+    "title": "ORNL/nvl",
+    "url": "https://github.com/ORNL/nvl"
+   }
+  },
+  {
+   "key": "ORNL/WeldPredictor",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2016-09-22T10:55:33Z",
+    "stars": "1",
+    "text": "ORNL/WeldPredictor",
+    "title": "ORNL/WeldPredictor",
+    "url": "https://github.com/ORNL/WeldPredictor"
+   }
+  },
+  {
+   "key": "ORNL/TASQC",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2019-05-21T19:29:56Z",
+    "description": "The Timing Authentication Secured by Quantum Correlations project will develop and demonstrate a transformative system of ground-based timing and communication beacons featuring security that is enhanced by geographically distributed quantum correlations and that takes full advantage of the direction of information flow for power systems management.",
+    "stars": "2",
+    "text": "ORNL/TASQC",
+    "title": "ORNL/TASQC",
+    "url": "https://github.com/ORNL/TASQC"
+   }
+  },
+  {
+   "key": "ORNL/test-2017-10-03",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2017-10-04T02:24:50Z",
+    "stars": "0",
+    "text": "ORNL/test-2017-10-03",
+    "title": "ORNL/test-2017-10-03",
+    "url": "https://github.com/ORNL/test-2017-10-03"
+   }
+  },
+  {
+   "key": "ORNL/TASMANIAN",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2026-04-13T17:55:57Z",
+    "description": "The Toolkit for Adaptive Stochastic Modeling and Non-Intrusive ApproximatioN",
+    "stars": "74",
+    "text": "ORNL/TASMANIAN",
+    "title": "ORNL/TASMANIAN",
+    "url": "https://github.com/ORNL/TASMANIAN"
+   }
+  },
+  {
+   "key": "ORNL/mcr-container-tools",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2018-04-20T15:44:41Z",
+    "description": "MCR Container Tools",
+    "stars": "0",
+    "text": "ORNL/mcr-container-tools",
+    "title": "ORNL/mcr-container-tools",
+    "url": "https://github.com/ORNL/mcr-container-tools"
+   }
+  },
+  {
+   "key": "ORNL/cpp-proposals-pub",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2025-11-21T19:08:32Z",
+    "description": "Collaborating on papers for the ISO C++ committee - public repo",
+    "stars": "29",
+    "text": "ORNL/cpp-proposals-pub",
+    "title": "ORNL/cpp-proposals-pub",
+    "url": "https://github.com/ORNL/cpp-proposals-pub"
+   }
+  },
+  {
+   "key": "ORNL/eden",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2018-04-12T12:19:01Z",
+    "description": "EDEN v1 Repo",
+    "stars": "0",
+    "text": "ORNL/eden",
+    "title": "ORNL/eden",
+    "url": "https://github.com/ORNL/eden"
+   }
+  },
+  {
+   "key": "ORNL/CrossVis",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2022-11-17T12:52:52Z",
+    "description": "CrossVis Repository",
+    "stars": "12",
+    "text": "ORNL/CrossVis",
+    "title": "ORNL/CrossVis",
+    "url": "https://github.com/ORNL/CrossVis"
+   }
+  },
+  {
+   "key": "ORNL/ShareAnalytics",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2018-10-09T16:27:51Z",
+    "description": "ShareAnalytics (ShareAL)",
+    "stars": "0",
+    "text": "ORNL/ShareAnalytics",
+    "title": "ORNL/ShareAnalytics",
+    "url": "https://github.com/ORNL/ShareAnalytics"
+   }
+  },
+  {
+   "key": "ORNL/kelvin",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2019-05-03T17:08:32Z",
+    "description": "This is a repository for Kelvin, a multiphysics sintering simulation code.",
+    "stars": "7",
+    "text": "ORNL/kelvin",
+    "title": "ORNL/kelvin",
+    "url": "https://github.com/ORNL/kelvin"
+   }
+  },
+  {
+   "key": "ORNL/faro",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2024-07-16T13:31:18Z",
+    "description": "Face Recognition from Oak Ridge (FaRO) provides a well-defined server-client interface to a some of the best open source face recognition projects on the web. ",
+    "stars": "6",
+    "text": "ORNL/faro",
+    "title": "ORNL/faro",
+    "url": "https://github.com/ORNL/faro"
+   }
+  },
+  {
+   "key": "ORNL/siena-mem",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2019-04-22T15:08:09Z",
+    "stars": "4",
+    "text": "ORNL/siena-mem",
+    "title": "ORNL/siena-mem",
+    "url": "https://github.com/ORNL/siena-mem"
+   }
+  },
+  {
+   "key": "ORNL/DataFed",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2026-04-29T17:43:38Z",
+    "description": "A Federated Scientific Data Management System",
+    "stars": "27",
+    "text": "ORNL/DataFed",
+    "title": "ORNL/DataFed",
+    "url": "https://github.com/ORNL/DataFed"
+   }
+  },
+  {
+   "key": "ORNL/VitalVis",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2020-01-30T03:19:20Z",
+    "description": "Prototype Visualization System for Healthcare Data",
+    "stars": "1",
+    "text": "ORNL/VitalVis",
+    "title": "ORNL/VitalVis",
+    "url": "https://github.com/ORNL/VitalVis"
+   }
+  },
+  {
+   "key": "ORNL/SensorVisFC",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2020-01-24T15:38:45Z",
+    "description": "A focus+context time series visualization prototype for sensor data",
+    "stars": "0",
+    "text": "ORNL/SensorVisFC",
+    "title": "ORNL/SensorVisFC",
+    "url": "https://github.com/ORNL/SensorVisFC"
+   }
+  },
+  {
+   "key": "ORNL/iris",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2026-02-10T23:06:36Z",
+    "description": "A unified framework across multiple programming platforms",
+    "stars": "44",
+    "text": "ORNL/iris",
+    "title": "ORNL/iris",
+    "url": "https://github.com/ORNL/iris"
+   }
+  },
+  {
+   "key": "ORNL/papyrus",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2021-11-23T16:00:32Z",
+    "description": "Papyrus: Parallel Aggregate Persistent Storage",
+    "stars": "1",
+    "text": "ORNL/papyrus",
+    "title": "ORNL/papyrus",
+    "url": "https://github.com/ORNL/papyrus"
+   }
+  },
+  {
+   "key": "ORNL/COVID19Vis",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2020-04-16T18:42:24Z",
+    "description": "Visualizations of COVID-19 case data",
+    "stars": "0",
+    "text": "ORNL/COVID19Vis",
+    "title": "ORNL/COVID19Vis",
+    "url": "https://github.com/ORNL/COVID19Vis"
+   }
+  },
+  {
+   "key": "ORNL/llvm-doe",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2020-04-02T17:53:20Z",
+    "description": "This repository is a fork of the main llvm-project repo, and it contains ongoing contributions by DOE projects including the Exascale Computing Project (ECP).",
+    "stars": "0",
+    "text": "ORNL/llvm-doe",
+    "title": "ORNL/llvm-doe",
+    "url": "https://github.com/ORNL/llvm-doe"
+   }
+  },
+  {
+   "key": "ORNL/ORAgendaVis",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2020-05-13T18:42:39Z",
+    "description": "Timeline Visualization",
+    "stars": "0",
+    "text": "ORNL/ORAgendaVis",
+    "title": "ORNL/ORAgendaVis",
+    "url": "https://github.com/ORNL/ORAgendaVis"
+   }
+  },
+  {
+   "key": "ORNL/ncio",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2021-06-30T01:25:21Z",
+    "description": "No Cost Input Output data management framework",
+    "stars": "1",
+    "text": "ORNL/ncio",
+    "title": "ORNL/ncio",
+    "url": "https://github.com/ORNL/ncio"
+   }
+  },
+  {
+   "key": "ORNL/ParrLO",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2021-06-02T15:41:46Z",
+    "description": "Loewdin orthonormalization of distributed tall-skinny matrix using Schulz iteration",
+    "stars": "6",
+    "text": "ORNL/ParrLO",
+    "title": "ORNL/ParrLO",
+    "url": "https://github.com/ORNL/ParrLO"
+   }
+  },
+  {
+   "key": "ORNL/SetVis",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2020-09-02T14:39:39Z",
+    "description": "Visualization of items in multiple sets https://ornl.github.io/SetVis/",
+    "stars": "0",
+    "text": "ORNL/SetVis",
+    "title": "ORNL/SetVis",
+    "url": "https://github.com/ORNL/SetVis"
+   }
+  },
+  {
+   "key": "ORNL/ordflow",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2022-05-02T15:50:48Z",
+    "description": "Python interface to ORNL's DataFlow",
+    "stars": "3",
+    "text": "ORNL/ordflow",
+    "title": "ORNL/ordflow",
+    "url": "https://github.com/ORNL/ordflow"
+   }
+  },
+  {
+   "key": "ORNL/meumapps_ss",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2020-07-30T18:40:40Z",
+    "description": "Phase field code for simulating microstructure evolution due to solid-state phase transformations in multi_component alloys",
+    "stars": "17",
+    "text": "ORNL/meumapps_ss",
+    "title": "ORNL/meumapps_ss",
+    "url": "https://github.com/ORNL/meumapps_ss"
+   }
+  },
+  {
+   "key": "ORNL/HeCBench",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2026-06-09T15:22:26Z",
+    "stars": "294",
+    "text": "ORNL/HeCBench",
+    "title": "ORNL/HeCBench",
+    "url": "https://github.com/ORNL/HeCBench"
+   }
+  },
+  {
+   "key": "ORNL/SnapshotVis",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2021-01-12T18:45:15Z",
+    "stars": "0",
+    "text": "ORNL/SnapshotVis",
+    "title": "ORNL/SnapshotVis",
+    "url": "https://github.com/ORNL/SnapshotVis"
+   }
+  },
+  {
+   "key": "ORNL/tx2",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2024-10-24T13:53:16Z",
+    "description": "Transformer eXplainability and eXploration",
+    "stars": "20",
+    "text": "ORNL/tx2",
+    "title": "ORNL/tx2",
+    "url": "https://github.com/ORNL/tx2"
+   }
+  },
+  {
+   "key": "ORNL/sdproc",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2025-08-01T04:51:19Z",
+    "description": "Website for Scholarly Document Processing workshop 2021",
+    "stars": "2",
+    "text": "ORNL/sdproc",
+    "title": "ORNL/sdproc",
+    "url": "https://github.com/ORNL/sdproc"
+   }
+  },
+  {
+   "key": "ORNL/Thermo4PFM",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2025-08-08T23:05:54Z",
+    "description": "Library to evaluate alloy compositions in Phase-Field models",
+    "stars": "25",
+    "text": "ORNL/Thermo4PFM",
+    "title": "ORNL/Thermo4PFM",
+    "url": "https://github.com/ORNL/Thermo4PFM"
+   }
+  },
+  {
+   "key": "ORNL/Top500Vis",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2020-09-22T14:11:10Z",
+    "description": "Visualizations of supercomputing Top 500 rankings over time",
+    "stars": "0",
+    "text": "ORNL/Top500Vis",
+    "title": "ORNL/Top500Vis",
+    "url": "https://github.com/ORNL/Top500Vis"
+   }
+  },
+  {
+   "key": "ORNL/AADL",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2022-10-27T16:54:28Z",
+    "description": "Anderson Acceleration for Deep Learning",
+    "stars": "14",
+    "text": "ORNL/AADL",
+    "title": "ORNL/AADL",
+    "url": "https://github.com/ORNL/AADL"
+   }
+  },
+  {
+   "key": "ORNL/DistGANs",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2022-01-06T23:27:46Z",
+    "description": "Distributed computed training fo Generative Adversarial Neural Networks",
+    "stars": "2",
+    "text": "ORNL/DistGANs",
+    "title": "ORNL/DistGANs",
+    "url": "https://github.com/ORNL/DistGANs"
+   }
+  },
+  {
+   "key": "ORNL/pcapmunger",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2022-05-09T14:44:49Z",
+    "stars": "0",
+    "text": "ORNL/pcapmunger",
+    "title": "ORNL/pcapmunger",
+    "url": "https://github.com/ORNL/pcapmunger"
+   }
+  },
+  {
+   "key": "ORNL/smcdc-2021-covid-kg",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2021-05-13T16:39:46Z",
+    "description": "Data, code, and references related to the 2021 Smoky Mountains Computational Sciences and Engineering Conference Data Challenge \"Finding Novel Links in COVID-19 Knowledge Graph\"",
+    "stars": "1",
+    "text": "ORNL/smcdc-2021-covid-kg",
+    "title": "ORNL/smcdc-2021-covid-kg",
+    "url": "https://github.com/ORNL/smcdc-2021-covid-kg"
+   }
+  },
+  {
+   "key": "ORNL/affinity_pred",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2022-10-12T20:58:13Z",
+    "description": "Protein-ligand affinity prediction using NLP",
+    "stars": "7",
+    "text": "ORNL/affinity_pred",
+    "title": "ORNL/affinity_pred",
+    "url": "https://github.com/ORNL/affinity_pred"
+   }
+  },
+  {
+   "key": "ORNL/HydraGNN",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2026-05-27T17:07:58Z",
+    "description": "Distributed PyTorch implementation of multi-headed graph convolutional neural networks",
+    "stars": "123",
+    "text": "ORNL/HydraGNN",
+    "title": "ORNL/HydraGNN",
+    "url": "https://github.com/ORNL/HydraGNN"
+   }
+  },
+  {
+   "key": "ORNL/Jekyll-ORNL-Theme",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2021-08-13T13:22:32Z",
+    "stars": "0",
+    "text": "ORNL/Jekyll-ORNL-Theme",
+    "title": "ORNL/Jekyll-ORNL-Theme",
+    "url": "https://github.com/ORNL/Jekyll-ORNL-Theme"
+   }
+  },
+  {
+   "key": "ORNL/carla",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2025-12-01T15:25:39Z",
+    "description": "Open-source simulator for autonomous driving research.",
+    "stars": "3",
+    "text": "ORNL/carla",
+    "title": "ORNL/carla",
+    "url": "https://github.com/ORNL/carla"
+   }
+  },
+  {
+   "key": "ORNL/DataFed2",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2022-08-12T17:20:44Z",
+    "description": "A federated scientific data management system (redesigned)",
+    "stars": "0",
+    "text": "ORNL/DataFed2",
+    "title": "ORNL/DataFed2",
+    "url": "https://github.com/ORNL/DataFed2"
+   }
+  },
+  {
+   "key": "ORNL/pyvnc_client",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2021-12-03T17:16:41Z",
+    "description": "A python VNC client written from scratch using python's socket library",
+    "stars": "2",
+    "text": "ORNL/pyvnc_client",
+    "title": "ORNL/pyvnc_client",
+    "url": "https://github.com/ORNL/pyvnc_client"
+   }
+  },
+  {
+   "key": "ORNL/kokkos-ornl",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2024-01-10T16:18:16Z",
+    "description": "Kokkos C++ Performance Portability Programming EcoSystem: The Programming Model - Parallel Execution and Memory Abstraction",
+    "stars": "1",
+    "text": "ORNL/kokkos-ornl",
+    "title": "ORNL/kokkos-ornl",
+    "url": "https://github.com/ORNL/kokkos-ornl"
+   }
+  },
+  {
+   "key": "ORNL/soar_survey_scoring",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2021-12-10T18:01:51Z",
+    "description": "Code to score survey results and generate fake survey data",
+    "stars": "0",
+    "text": "ORNL/soar_survey_scoring",
+    "title": "ORNL/soar_survey_scoring",
+    "url": "https://github.com/ORNL/soar_survey_scoring"
+   }
+  },
+  {
+   "key": "ORNL/curifactory",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2026-03-11T21:00:26Z",
+    "description": "An experiment workflow and organization tool.",
+    "stars": "18",
+    "text": "ORNL/curifactory",
+    "title": "ORNL/curifactory",
+    "url": "https://github.com/ORNL/curifactory"
+   }
+  },
+  {
+   "key": "ORNL/CabanaPD",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2026-05-29T17:38:53Z",
+    "description": "Peridynamics with the Cabana library",
+    "stars": "34",
+    "text": "ORNL/CabanaPD",
+    "title": "ORNL/CabanaPD",
+    "url": "https://github.com/ORNL/CabanaPD"
+   }
+  },
+  {
+   "key": "ORNL/AutoDIET",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2021-11-18T16:21:02Z",
+    "stars": "0",
+    "text": "ORNL/AutoDIET",
+    "title": "ORNL/AutoDIET",
+    "url": "https://github.com/ORNL/AutoDIET"
+   }
+  },
+  {
+   "key": "ORNL/workflows",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2021-11-11T16:00:11Z",
+    "stars": "0",
+    "text": "ORNL/workflows",
+    "title": "ORNL/workflows",
+    "url": "https://github.com/ORNL/workflows"
+   }
+  },
+  {
+   "key": "ORNL/PDMATLAB2D",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2025-01-11T21:29:12Z",
+    "stars": "22",
+    "text": "ORNL/PDMATLAB2D",
+    "title": "ORNL/PDMATLAB2D",
+    "url": "https://github.com/ORNL/PDMATLAB2D"
+   }
+  },
+  {
+   "key": "ORNL/PFiSM",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2025-07-29T19:15:35Z",
+    "description": "Simple phase-field model (PFM) based on SAMRAI, Sundials and hypre",
+    "stars": "0",
+    "text": "ORNL/PFiSM",
+    "title": "ORNL/PFiSM",
+    "url": "https://github.com/ORNL/PFiSM"
+   }
+  },
+  {
+   "key": "ORNL/mario",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2021-12-16T21:18:26Z",
+    "description": "An Adaptive Mesh Refinement I/O Analyzer",
+    "stars": "2",
+    "text": "ORNL/mario",
+    "title": "ORNL/mario",
+    "url": "https://github.com/ORNL/mario"
+   }
+  },
+  {
+   "key": "ORNL/DD-AADL",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2022-05-03T16:55:56Z",
+    "description": "Data Driven Anderson Acceleration for Physics Informed Neural Networks to solve high dimensional partial differential equations",
+    "stars": "2",
+    "text": "ORNL/DD-AADL",
+    "title": "ORNL/DD-AADL",
+    "url": "https://github.com/ORNL/DD-AADL"
+   }
+  },
+  {
+   "key": "ORNL/RIOPA.jl",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2022-12-13T21:01:40Z",
+    "description": "Proxy app for input/output pattern generation in the Exascale Computing Project using Julia",
+    "stars": "1",
+    "text": "ORNL/RIOPA.jl",
+    "title": "ORNL/RIOPA.jl",
+    "url": "https://github.com/ORNL/RIOPA.jl"
+   }
+  },
+  {
+   "key": "ORNL/DataFedEndpointBenchmark",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2022-02-23T18:34:52Z",
+    "description": "This repo contains the DataFed ArangoDB Foxx code and performance benchmark testing infrastructure that has been run on the endpoints. ",
+    "stars": "0",
+    "text": "ORNL/DataFedEndpointBenchmark",
+    "title": "ORNL/DataFedEndpointBenchmark",
+    "url": "https://github.com/ORNL/DataFedEndpointBenchmark"
+   }
+  },
+  {
+   "key": "ORNL/builder",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2022-03-04T15:46:46Z",
+    "description": "Continuous builder and binary build scripts for pytorch",
+    "stars": "0",
+    "text": "ORNL/builder",
+    "title": "ORNL/builder",
+    "url": "https://github.com/ORNL/builder"
+   }
+  },
+  {
+   "key": "ORNL/Zambeze",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2024-09-13T14:26:56Z",
+    "description": "Zambeze is a distributed task orchestration system to manage science application tasks across large-scale and edge computing systems.",
+    "stars": "10",
+    "text": "ORNL/Zambeze",
+    "title": "ORNL/Zambeze",
+    "url": "https://github.com/ORNL/Zambeze"
+   }
+  },
+  {
+   "key": "ORNL/SNVA",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2022-05-01T14:54:39Z",
+    "description": "SHRP2 NDS Video Analytics built on TensorFlow",
+    "stars": "0",
+    "text": "ORNL/SNVA",
+    "title": "ORNL/SNVA",
+    "url": "https://github.com/ORNL/SNVA"
+   }
+  },
+  {
+   "key": "ORNL/MLHPC2022",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2022-11-07T16:16:25Z",
+    "stars": "0",
+    "text": "ORNL/MLHPC2022",
+    "title": "ORNL/MLHPC2022",
+    "url": "https://github.com/ORNL/MLHPC2022"
+   }
+  },
+  {
+   "key": "ORNL/ORNL.github.io",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2026-06-03T23:07:16Z",
+    "description": "ORNL GitHub pages related to projects repos and members on the organization",
+    "stars": "4",
+    "text": "ORNL/ORNL.github.io",
+    "title": "ORNL/ORNL.github.io",
+    "url": "https://github.com/ORNL/ORNL.github.io"
+   }
+  },
+  {
+   "key": "ORNL/lecroydso",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2022-07-08T17:06:30Z",
+    "description": "Communication library for LeCroy Oscilloscopes",
+    "stars": "0",
+    "text": "ORNL/lecroydso",
+    "title": "ORNL/lecroydso",
+    "url": "https://github.com/ORNL/lecroydso"
+   }
+  },
+  {
+   "key": "ORNL/libjson",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2022-03-23T20:42:49Z",
+    "description": "Fast, easy to use C++ JSON library",
+    "stars": "0",
+    "text": "ORNL/libjson",
+    "title": "ORNL/libjson",
+    "url": "https://github.com/ORNL/libjson"
+   }
+  },
+  {
+   "key": "ORNL/OpenARC",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2025-08-26T01:13:16Z",
+    "description": "Open Accelerator Research Compiler (OpenARC) repository",
+    "stars": "2",
+    "text": "ORNL/OpenARC",
+    "title": "ORNL/OpenARC",
+    "url": "https://github.com/ORNL/OpenARC"
+   }
+  },
+  {
+   "key": "ORNL/ipyanchorviz",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2024-09-04T14:58:18Z",
+    "stars": "4",
+    "text": "ORNL/ipyanchorviz",
+    "title": "ORNL/ipyanchorviz",
+    "url": "https://github.com/ORNL/ipyanchorviz"
+   }
+  },
+  {
+   "key": "ORNL/experiment_orchestration",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2022-12-06T00:34:49Z",
+    "stars": "0",
+    "text": "ORNL/experiment_orchestration",
+    "title": "ORNL/experiment_orchestration",
+    "url": "https://github.com/ORNL/experiment_orchestration"
+   }
+  },
+  {
+   "key": "ORNL/ProgrammingModels.jl",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2023-06-29T15:39:38Z",
+    "description": "Exploration of Programming Models in the Julia language",
+    "stars": "2",
+    "text": "ORNL/ProgrammingModels.jl",
+    "title": "ORNL/ProgrammingModels.jl",
+    "url": "https://github.com/ORNL/ProgrammingModels.jl"
+   }
+  },
+  {
+   "key": "ORNL/briar-api",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2026-02-20T13:26:14Z",
+    "description": "The open-source biometrics API and SDK for the IARPA BRIAR program",
+    "stars": "3",
+    "text": "ORNL/briar-api",
+    "title": "ORNL/briar-api",
+    "url": "https://github.com/ORNL/briar-api"
+   }
+  },
+  {
+   "key": "ORNL/sparse-gosine-similarity",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2022-09-23T15:24:25Z",
+    "description": "Efficient sparse matrix multiplication and cosine similarity in Go",
+    "stars": "8",
+    "text": "ORNL/sparse-gosine-similarity",
+    "title": "ORNL/sparse-gosine-similarity",
+    "url": "https://github.com/ORNL/sparse-gosine-similarity"
+   }
+  },
+  {
+   "key": "ORNL/icat",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2025-06-10T13:42:08Z",
+    "description": "Interactive machine learning dashboard for textual data exploration",
+    "stars": "7",
+    "text": "ORNL/icat",
+    "title": "ORNL/icat",
+    "url": "https://github.com/ORNL/icat"
+   }
+  },
+  {
+   "key": "ORNL/software-catalog",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2026-06-11T05:18:01Z",
+    "description": "Home of the ORNL software catalog",
+    "stars": "6",
+    "text": "ORNL/software-catalog",
+    "title": "ORNL/software-catalog",
+    "url": "https://github.com/ORNL/software-catalog"
+   }
+  },
+  {
+   "key": "ORNL/SYCLhash",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2023-08-17T20:05:34Z",
+    "description": "A hash table for use on accelerator devices using the SYCL programming model.",
+    "stars": "2",
+    "text": "ORNL/SYCLhash",
+    "title": "ORNL/SYCLhash",
+    "url": "https://github.com/ORNL/SYCLhash"
+   }
+  },
+  {
+   "key": "ORNL/flowcept",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2026-06-11T13:37:56Z",
+    "description": "Runtime provenance for AI and scientific workflows—capture, enrich, and query workflow data via observability adapters and code annotation across edge, cloud, and HPC.",
+    "stars": "27",
+    "text": "ORNL/flowcept",
+    "title": "ORNL/flowcept",
+    "url": "https://github.com/ORNL/flowcept"
+   }
+  },
+  {
+   "key": "ORNL/TwoFold_DL",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2023-10-31T17:36:57Z",
+    "description": "Deep Learning model for protein and ligand complex structure prediction from sequences and SMILES",
+    "stars": "12",
+    "text": "ORNL/TwoFold_DL",
+    "title": "ORNL/TwoFold_DL",
+    "url": "https://github.com/ORNL/TwoFold_DL"
+   }
+  },
+  {
+   "key": "ORNL/CrossVis2",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2024-04-30T14:37:19Z",
+    "description": "Multivariate Visual Analytics Tool for Data Exploratory",
+    "stars": "3",
+    "text": "ORNL/CrossVis2",
+    "title": "ORNL/CrossVis2",
+    "url": "https://github.com/ORNL/CrossVis2"
+   }
+  },
+  {
+   "key": "ORNL/Analysis-of-Large-Scale-Molecular-Datasets-with-Python",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2025-03-12T21:52:10Z",
+    "description": "Distributed computing workflow for generation and analysis of large scale molecular datasets obtained running multi-source multi-fidelity quantum chemical calculations of ground-state and excited-state properties",
+    "stars": "10",
+    "text": "ORNL/Analysis-of-Large-Scale-Molecular-Datasets-with-Python",
+    "title": "ORNL/Analysis-of-Large-Scale-Molecular-Datasets-with-Python",
+    "url": "https://github.com/ORNL/Analysis-of-Large-Scale-Molecular-Datasets-with-Python"
+   }
+  },
+  {
+   "key": "ORNL/VDiSC",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2023-01-07T21:40:00Z",
+    "description": "The VDiSC repository, also known as FaRO2",
+    "stars": "0",
+    "text": "ORNL/VDiSC",
+    "title": "ORNL/VDiSC",
+    "url": "https://github.com/ORNL/VDiSC"
+   }
+  },
+  {
+   "key": "ORNL/HPDM-STD205",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2023-03-21T16:37:31Z",
+    "description": "ASHRAE Standard 205 - Heat Pump Design Model supply; This package helps OEMs to convert HPDM output to STD 205 format; it also provide some RS sample tables.",
+    "stars": "0",
+    "text": "ORNL/HPDM-STD205",
+    "title": "ORNL/HPDM-STD205",
+    "url": "https://github.com/ORNL/HPDM-STD205"
+   }
+  },
+  {
+   "key": "ORNL/hykkt",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2025-03-14T03:57:46Z",
+    "description": "HyKKT is an experimental linear solver for Karush-Kuhn-Tucker type of systems.",
+    "stars": "16",
+    "text": "ORNL/hykkt",
+    "title": "ORNL/hykkt",
+    "url": "https://github.com/ORNL/hykkt"
+   }
+  },
+  {
+   "key": "ORNL/E3SM",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2023-02-21T19:13:44Z",
+    "description": "Energy Exascale Earth System Model source code.",
+    "stars": "1",
+    "text": "ORNL/E3SM",
+    "title": "ORNL/E3SM",
+    "url": "https://github.com/ORNL/E3SM"
+   }
+  },
+  {
+   "key": "ORNL/superneuroabm",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2026-06-08T18:26:48Z",
+    "description": "A GPU-based multi-agent simulation framework for neuromorphic computing",
+    "stars": "6",
+    "text": "ORNL/superneuroabm",
+    "title": "ORNL/superneuroabm",
+    "url": "https://github.com/ORNL/superneuroabm"
+   }
+  },
+  {
+   "key": "ORNL/superneuromat",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2026-06-10T21:33:25Z",
+    "description": "A matrix-based simulator for neuromorphic computing.",
+    "stars": "5",
+    "text": "ORNL/superneuromat",
+    "title": "ORNL/superneuromat",
+    "url": "https://github.com/ORNL/superneuromat"
+   }
+  },
+  {
+   "key": "ORNL/superneuro",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2026-03-04T22:53:54Z",
+    "description": "Neuromorphic simulator with two modes of computation",
+    "stars": "13",
+    "text": "ORNL/superneuro",
+    "title": "ORNL/superneuro",
+    "url": "https://github.com/ORNL/superneuro"
+   }
+  },
+  {
+   "key": "ORNL/AdditiveFOAM",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2026-06-08T15:42:46Z",
+    "description": "A continuum physics code for additive manufacturing built on OpenFOAM",
+    "stars": "62",
+    "text": "ORNL/AdditiveFOAM",
+    "title": "ORNL/AdditiveFOAM",
+    "url": "https://github.com/ORNL/AdditiveFOAM"
+   }
+  },
+  {
+   "key": "ORNL/slurmfs",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2023-04-27T20:20:09Z",
+    "description": "Slurm API Filesystem",
+    "stars": "0",
+    "text": "ORNL/slurmfs",
+    "title": "ORNL/slurmfs",
+    "url": "https://github.com/ORNL/slurmfs"
+   }
+  },
+  {
+   "key": "ORNL/syclreduce",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2023-06-19T17:36:40Z",
+    "description": "SYCL Reduce Primitive",
+    "stars": "1",
+    "text": "ORNL/syclreduce",
+    "title": "ORNL/syclreduce",
+    "url": "https://github.com/ORNL/syclreduce"
+   }
+  },
+  {
+   "key": "ORNL/grit",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2023-05-15T15:57:42Z",
+    "stars": "0",
+    "text": "ORNL/grit",
+    "title": "ORNL/grit",
+    "url": "https://github.com/ORNL/grit"
+   }
+  },
+  {
+   "key": "ORNL/CabanaPF",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2025-02-17T13:58:44Z",
+    "description": "Phase-field with Cabana",
+    "stars": "6",
+    "text": "ORNL/CabanaPF",
+    "title": "ORNL/CabanaPF",
+    "url": "https://github.com/ORNL/CabanaPF"
+   }
+  },
+  {
+   "key": "ORNL/pf_tutorial_codes",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2024-01-10T19:54:40Z",
+    "description": "Phase-field tutorial",
+    "stars": "0",
+    "text": "ORNL/pf_tutorial_codes",
+    "title": "ORNL/pf_tutorial_codes",
+    "url": "https://github.com/ORNL/pf_tutorial_codes"
+   }
+  },
+  {
+   "key": "ORNL/MLG",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2023-06-08T14:28:55Z",
+    "description": "Workshop on Machine Learning with Graphs in HPC environments",
+    "stars": "0",
+    "text": "ORNL/MLG",
+    "title": "ORNL/MLG",
+    "url": "https://github.com/ORNL/MLG"
+   }
+  },
+  {
+   "key": "ORNL/MOOSE_Python_Binder",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2023-06-14T21:33:53Z",
+    "description": "A custom algorithm and custom compute function to pass/retrieve MOOSE nodal variable data to/from a Python script",
+    "stars": "0",
+    "text": "ORNL/MOOSE_Python_Binder",
+    "title": "ORNL/MOOSE_Python_Binder",
+    "url": "https://github.com/ORNL/MOOSE_Python_Binder"
+   }
+  },
+  {
+   "key": "ORNL/globus-connect-server-deploy",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2023-05-22T14:49:05Z",
+    "description": "Deployment tools for Globus Connect Server",
+    "stars": "0",
+    "text": "ORNL/globus-connect-server-deploy",
+    "title": "ORNL/globus-connect-server-deploy",
+    "url": "https://github.com/ORNL/globus-connect-server-deploy"
+   }
+  },
+  {
+   "key": "ORNL/al-asmr",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2023-08-28T13:32:32Z",
+    "description": "AL-ASMR: Active Learning of Atomistic Surrogate Models for Rare Events",
+    "stars": "1",
+    "text": "ORNL/al-asmr",
+    "title": "ORNL/al-asmr",
+    "url": "https://github.com/ORNL/al-asmr"
+   }
+  },
+  {
+   "key": "ORNL/GridKit",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2026-06-11T13:04:55Z",
+    "description": "Modeling framework for power systems simulations and analysis.",
+    "stars": "18",
+    "text": "ORNL/GridKit",
+    "title": "ORNL/GridKit",
+    "url": "https://github.com/ORNL/GridKit"
+   }
+  },
+  {
+   "key": "ORNL/ReSolve",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2026-06-10T21:40:20Z",
+    "description": "Library of GPU-resident linear solvers",
+    "stars": "77",
+    "text": "ORNL/ReSolve",
+    "title": "ORNL/ReSolve",
+    "url": "https://github.com/ORNL/ReSolve"
+   }
+  },
+  {
+   "key": "ORNL/dasp-stacker",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2024-12-02T21:16:42Z",
+    "description": "Dimensionally Aligned Signal Processing Algorithms",
+    "stars": "4",
+    "text": "ORNL/dasp-stacker",
+    "title": "ORNL/dasp-stacker",
+    "url": "https://github.com/ORNL/dasp-stacker"
+   }
+  },
+  {
+   "key": "ORNL/Equilipy",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2026-01-07T20:39:04Z",
+    "description": "Open-source python package for multicomponent multiphase equilibrium CALPHAD calculations",
+    "stars": "28",
+    "text": "ORNL/Equilipy",
+    "title": "ORNL/Equilipy",
+    "url": "https://github.com/ORNL/Equilipy"
+   }
+  },
+  {
+   "key": "ORNL/DDStore",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2026-06-09T03:30:40Z",
+    "description": "Enabling efficient distributed data loading for distributed data parallelism",
+    "stars": "6",
+    "text": "ORNL/DDStore",
+    "title": "ORNL/DDStore",
+    "url": "https://github.com/ORNL/DDStore"
+   }
+  },
+  {
+   "key": "ORNL/MatRIS",
+   "source": "oss-ornl",
+   "fields": {
+    "date": "2025-10-23T15:17:26Z",
+    "description": "MatRIS: A heterogenous Math library using IRIS run-time",
+    "stars": "1",
+    "text": "ORNL/MatRIS",
+    "title": "ORNL/MatRIS",
+    "url": "https://github.com/ORNL/MatRIS"
    }
   },
   {

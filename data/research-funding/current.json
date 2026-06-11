@@ -1,7 +1,7 @@
 {
  "source": "research-funding",
  "tracker": "research-funding",
- "fetched_at": "2026-06-11T14:50:42Z",
+ "fetched_at": "2026-06-11T15:00:33Z",
  "schema_version": 1,
  "records": [
   {
@@ -569,29 +569,81 @@
    }
   },
   {
-   "key": "2548190",
+   "key": "2544044",
    "source": "research-nsf",
    "fields": {
     "agency": "NSF",
-    "amount": "498627",
-    "awardee": "University of Arizona",
+    "amount": "500000",
+    "awardee": "University of Oklahoma Norman Campus",
     "date": "10/01/2026",
-    "program": "RSCH EXPER FOR UNDERGRAD SITES",
-    "text": "REU Site: AI Research for Intelligent Systems and Efficiency",
-    "title": "REU Site: AI Research for Intelligent Systems and Efficiency"
+    "program": "Secure \u0026Trustworthy Cyberspace",
+    "text": "CAREER: Designing Domain Knowledge-Guided Learning Architectures towards Wireless Network Security: Enabling Effective and Efficient Attacks and Countermeasures",
+    "title": "CAREER: Designing Domain Knowledge-Guided Learning Architectures towards Wireless Network Security: Enabling Effective and Efficient Attacks and Countermeasures"
    }
   },
   {
-   "key": "2548161",
+   "key": "2548160",
    "source": "research-nsf",
    "fields": {
     "agency": "NSF",
-    "amount": "489183",
-    "awardee": "Missouri State University",
+    "amount": "471375",
+    "awardee": "University of South Florida",
     "date": "10/01/2026",
     "program": "RSCH EXPER FOR UNDERGRAD SITES",
-    "text": "REU Site: Applied Research in Deep Learning",
-    "title": "REU Site: Applied Research in Deep Learning"
+    "text": "REU Site: Cryptography, Coding Theory and Quantum Computing at the USF",
+    "title": "REU Site: Cryptography, Coding Theory and Quantum Computing at the USF"
+   }
+  },
+  {
+   "key": "2547822",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "465000",
+    "awardee": "Tufts University",
+    "date": "10/01/2026",
+    "program": "RSCH EXPER FOR UNDERGRAD SITES",
+    "text": "REU SITE: DIAMONDS: Directed, Intensive and Mentored Opportunities in Data Science",
+    "title": "REU SITE: DIAMONDS: Directed, Intensive and Mentored Opportunities in Data Science"
+   }
+  },
+  {
+   "key": "2548335",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "464622",
+    "awardee": "SUNY at Albany",
+    "date": "10/01/2026",
+    "program": "RSCH EXPER FOR UNDERGRAD SITES",
+    "text": "REU Site: Integrative Challenges in Cybersecurity-Deception, Remediation, and Resilient Systems",
+    "title": "REU Site: Integrative Challenges in Cybersecurity-Deception, Remediation, and Resilient Systems"
+   }
+  },
+  {
+   "key": "2548110",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "419402",
+    "awardee": "University of Missouri-Columbia",
+    "date": "10/01/2026",
+    "program": "RSCH EXPER FOR UNDERGRAD SITES",
+    "text": "REU Site: Research on Prescriptive Analytics for AI-enabled Operations Engineering",
+    "title": "REU Site: Research on Prescriptive Analytics for AI-enabled Operations Engineering"
+   }
+  },
+  {
+   "key": "2609004",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "880650",
+    "awardee": "University of Minnesota-Twin Cities",
+    "date": "10/01/2026",
+    "program": "NAIRR-Nat AI Research Resource, Software Institutes, PHYSICS AT THE INFO FRONTIER",
+    "text": "Collaborative Research: Frameworks: ML4GW, a machine learning ecosystem for gravitational wave data analysis",
+    "title": "Collaborative Research: Frameworks: ML4GW, a machine learning ecosystem for gravitational wave data analysis"
    }
   },
   {
@@ -647,42 +699,68 @@
    }
   },
   {
-   "key": "2548104",
+   "key": "2548161",
    "source": "research-nsf",
    "fields": {
     "agency": "NSF",
-    "amount": "463714",
-    "awardee": "University of Nebraska-Lincoln",
+    "amount": "489183",
+    "awardee": "Missouri State University",
     "date": "10/01/2026",
-    "program": "EWFD-Eng Workforce Development",
-    "text": "REU Site: Leveraging Engineering Education Research for U.S. Workforce Development",
-    "title": "REU Site: Leveraging Engineering Education Research for U.S. Workforce Development"
+    "program": "RSCH EXPER FOR UNDERGRAD SITES",
+    "text": "REU Site: Applied Research in Deep Learning",
+    "title": "REU Site: Applied Research in Deep Learning"
    }
   },
   {
-   "key": "2548110",
+   "key": "2551962",
    "source": "research-nsf",
    "fields": {
     "agency": "NSF",
-    "amount": "419402",
-    "awardee": "University of Missouri-Columbia",
+    "amount": "217779",
+    "awardee": "Rider University",
     "date": "10/01/2026",
-    "program": "RSCH EXPER FOR UNDERGRAD SITES",
-    "text": "REU Site: Research on Prescriptive Analytics for AI-enabled Operations Engineering",
-    "title": "REU Site: Research on Prescriptive Analytics for AI-enabled Operations Engineering"
+    "program": "CER-ComputingEducationResearch",
+    "text": "Collaborative Research: CER: From Classroom to Career Readiness: Enhancing Undergraduate Computing Education Through Collaborative Research Experience in AI Security and Privacy",
+    "title": "Collaborative Research: CER: From Classroom to Career Readiness: Enhancing Undergraduate Computing Education Through Collaborative Research Experience in AI Security and Privacy"
    }
   },
   {
-   "key": "2548335",
+   "key": "2540397",
    "source": "research-nsf",
    "fields": {
     "agency": "NSF",
-    "amount": "464622",
-    "awardee": "SUNY at Albany",
+    "amount": "600000",
+    "awardee": "Case Western Reserve University",
+    "date": "10/01/2026",
+    "program": "Info Integration \u0026 Informatics",
+    "text": "CAREER: Frontiers of Knowledge in Foundation Models",
+    "title": "CAREER: Frontiers of Knowledge in Foundation Models"
+   }
+  },
+  {
+   "key": "2548357",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "450000",
+    "awardee": "SUNY at Buffalo",
     "date": "10/01/2026",
     "program": "RSCH EXPER FOR UNDERGRAD SITES",
-    "text": "REU Site: Integrative Challenges in Cybersecurity-Deception, Remediation, and Resilient Systems",
-    "title": "REU Site: Integrative Challenges in Cybersecurity-Deception, Remediation, and Resilient Systems"
+    "text": "REU Site: Frontier Technologies for Biometrics and Authentication",
+    "title": "REU Site: Frontier Technologies for Biometrics and Authentication"
+   }
+  },
+  {
+   "key": "2551963",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "200000",
+    "awardee": "University of Missouri-Kansas City",
+    "date": "10/01/2026",
+    "program": "CER-ComputingEducationResearch",
+    "text": "Collaborative Research: CER: From Classroom to Career Readiness: Enhancing Undergraduate Computing Education Through Collaborative Research Experience in AI Security and Privacy",
+    "title": "Collaborative Research: CER: From Classroom to Career Readiness: Enhancing Undergraduate Computing Education Through Collaborative Research Experience in AI Security and Privacy"
    }
   },
   {
@@ -712,19 +790,6 @@
    }
   },
   {
-   "key": "2548357",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "450000",
-    "awardee": "SUNY at Buffalo",
-    "date": "10/01/2026",
-    "program": "RSCH EXPER FOR UNDERGRAD SITES",
-    "text": "REU Site: Frontier Technologies for Biometrics and Authentication",
-    "title": "REU Site: Frontier Technologies for Biometrics and Authentication"
-   }
-  },
-  {
    "key": "2602438",
    "source": "research-nsf",
    "fields": {
@@ -735,19 +800,6 @@
     "program": "Workforce (MSPRF) MathSciPDFel",
     "text": "Postdoctoral Fellowship: MSPRF: Newton Polygons and Higher Quasi-F-Injective Singularities",
     "title": "Postdoctoral Fellowship: MSPRF: Newton Polygons and Higher Quasi-F-Injective Singularities"
-   }
-  },
-  {
-   "key": "2609004",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "880650",
-    "awardee": "University of Minnesota-Twin Cities",
-    "date": "10/01/2026",
-    "program": "NAIRR-Nat AI Research Resource, Software Institutes, PHYSICS AT THE INFO FRONTIER",
-    "text": "Collaborative Research: Frameworks: ML4GW, a machine learning ecosystem for gravitational wave data analysis",
-    "title": "Collaborative Research: Frameworks: ML4GW, a machine learning ecosystem for gravitational wave data analysis"
    }
   },
   {
@@ -764,55 +816,16 @@
    }
   },
   {
-   "key": "2540397",
+   "key": "2540822",
    "source": "research-nsf",
    "fields": {
     "agency": "NSF",
-    "amount": "600000",
-    "awardee": "Case Western Reserve University",
+    "amount": "499831",
+    "awardee": "West Virginia University Research Corporation",
     "date": "10/01/2026",
-    "program": "Info Integration \u0026 Informatics",
-    "text": "CAREER: Frontiers of Knowledge in Foundation Models",
-    "title": "CAREER: Frontiers of Knowledge in Foundation Models"
-   }
-  },
-  {
-   "key": "2544044",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "500000",
-    "awardee": "University of Oklahoma Norman Campus",
-    "date": "10/01/2026",
-    "program": "Secure \u0026Trustworthy Cyberspace",
-    "text": "CAREER: Designing Domain Knowledge-Guided Learning Architectures towards Wireless Network Security: Enabling Effective and Efficient Attacks and Countermeasures",
-    "title": "CAREER: Designing Domain Knowledge-Guided Learning Architectures towards Wireless Network Security: Enabling Effective and Efficient Attacks and Countermeasures"
-   }
-  },
-  {
-   "key": "2602677",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "190000",
-    "awardee": "Conger, Lauren",
-    "date": "10/01/2026",
-    "program": "Workforce (MSPRF) MathSciPDFel",
-    "text": "Postdoctoral Fellowship: MSPRF: Coupled Multispecies Systems",
-    "title": "Postdoctoral Fellowship: MSPRF: Coupled Multispecies Systems"
-   }
-  },
-  {
-   "key": "2548160",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "471375",
-    "awardee": "University of South Florida",
-    "date": "10/01/2026",
-    "program": "RSCH EXPER FOR UNDERGRAD SITES",
-    "text": "REU Site: Cryptography, Coding Theory and Quantum Computing at the USF",
-    "title": "REU Site: Cryptography, Coding Theory and Quantum Computing at the USF"
+    "program": "HCC-Human-Centered Computing",
+    "text": "CAREER: Calibrating Human Trust in Artificial Intelligence through Real-Time Behavioral and Physiological Feedback in Healthcare Decision Making",
+    "title": "CAREER: Calibrating Human Trust in Artificial Intelligence through Real-Time Behavioral and Physiological Feedback in Healthcare Decision Making"
    }
   },
   {
@@ -826,19 +839,6 @@
     "program": "Info Integration \u0026 Informatics",
     "text": "CAREER: OPENALIGN: Towards Open-World Preference Alignment for Large Language Models",
     "title": "CAREER: OPENALIGN: Towards Open-World Preference Alignment for Large Language Models"
-   }
-  },
-  {
-   "key": "2540822",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "499831",
-    "awardee": "West Virginia University Research Corporation",
-    "date": "10/01/2026",
-    "program": "HCC-Human-Centered Computing",
-    "text": "CAREER: Calibrating Human Trust in Artificial Intelligence through Real-Time Behavioral and Physiological Feedback in Healthcare Decision Making",
-    "title": "CAREER: Calibrating Human Trust in Artificial Intelligence through Real-Time Behavioral and Physiological Feedback in Healthcare Decision Making"
    }
   }
  ]

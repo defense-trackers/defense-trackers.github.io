@@ -56,7 +56,9 @@
 </header>
 
 <main class="wrap">
-  <section>
+  <input id="gsearch" class="gsearch" type="search" placeholder="Search across every tracker…" aria-label="Search all trackers">
+  <div id="gresults" class="gresults" style="display:none"></div>
+  <section id="board-section">
     <h2>Trackers</h2>
     <ol id="trackers" class="tracker-list">
       <li class="empty">Loading status… if this never resolves you're viewing the file directly — serve it: <span class="mono">python -m http.server</span></li>

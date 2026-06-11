@@ -155,6 +155,7 @@ export function renderIndex(status) {
     li.append(rail, mainEl, statusEl);
     list.append(li);
   }
+  wireGlobalSearch(status);
 }
 
 async function fetchEvents(tracker) {
@@ -221,6 +222,7 @@ export async function renderTracker(t) {
     const cur = await r.json();
     const recs = cur.records || [];
     $('rec-count').textContent = `(${recs.length} records, as of ${(cur.fetched_at || '').slice(0, 16).replace('T', ' ')}Z)`;
+    renderStatStrip(recs);
     renderReports(t, recs);
     wireFilter();
   } catch (e) {
@@ -242,7 +244,7 @@ const ROW_CAP = 1000;
 
 // One line per tracker so a visitor knows what they're looking at instantly.
 const TRACKER_DESC = {
-  pipeline: 'Open AI funding and solicitation opportunities across U.S. federal channels (grants.gov).',
+  pipeline: 'Open AI, autonomy, and defense-tech funding & solicitation opportunities (grants.gov).',
   policy: 'DoD AI policy issuances and the deadlines they create.',
   authorizations: 'Which AI platforms hold which DoD / FedRAMP authorizations — and what just changed.',
   'nipr-matrix': 'Which AI tools each service can actually use on NIPR, and at what data ceiling.',
@@ -292,6 +294,105 @@ function downloadCSV(table, filename) {
   a.click();
   a.remove();
   URL.revokeObjectURL(a.href);
+}
+
+// parse YYYY-MM-DD or MM/DD/YYYY to epoch ms (NaN if unparseable)
+function pd(s) {
+  if (!s) return NaN;
+  if (/^\d{4}-\d{2}-\d{2}/.test(s)) return Date.parse(String(s).slice(0, 10));
+  const m = String(s).match(/^(\d{2})\/(\d{2})\/(\d{4})/);
+  if (m) return Date.parse(`${m[3]}-${m[1]}-${m[2]}`);
+  return Date.parse(s);
+}
+
+// key-stat strip atop a tracker's data: records, sources, total $, closing soon
+function renderStatStrip(recs) {
+  const el = document.getElementById('statstrip');
+  if (!el) return;
+  el.textContent = '';
+  const chip = (label, val, cls) => {
+    const s = document.createElement('span');
+    s.className = 'stat-chip' + (cls ? ' ' + cls : '');
+    const b = document.createElement('b'); b.textContent = val;
+    const l = document.createElement('span'); l.className = 'dim'; l.textContent = ' ' + label;
+    s.append(b, l); el.append(s);
+  };
+  const sources = new Set(recs.map((r) => r.source)).size;
+  chip('records', recs.length.toLocaleString('en-US'));
+  chip('sources', String(sources));
+  let sum = 0, hasAmt = false;
+  for (const r of recs) {
+    const f = r.fields || {};
+    const k = Object.keys(f).find((x) => /amount/i.test(x));
+    if (k) { const v = parseFloat(String(f[k]).replace(/[^0-9.-]/g, '')); if (!isNaN(v)) { sum += v; hasAmt = true; } }
+  }
+  if (hasAmt) chip('total $', '$' + abbrNum(sum));
+  const now = Date.now();
+  let soon = 0;
+  for (const r of recs) { const t = pd((r.fields || {}).closes); if (!isNaN(t) && t >= now && t <= now + 30 * 864e5) soon++; }
+  if (soon) chip('closing ≤30d', String(soon), 'warn');
+}
+
+// cross-tracker search (homepage): lazy-load every tracker's records once
+let ALL_RECORDS = null;
+async function loadAllRecords(status) {
+  if (ALL_RECORDS) return ALL_RECORDS;
+  const trackers = [...new Set(Object.values(status).map((s) => s.tracker))];
+  const all = [];
+  await Promise.all(trackers.map(async (t) => {
+    try {
+      const r = await fetch(`/data/${t}/current.json`, { cache: 'no-store' });
+      if (r.ok) { const c = await r.json(); (c.records || []).forEach((rec) => all.push({ t, f: rec.fields || {}, key: rec.key })); }
+    } catch { /* skip */ }
+  }));
+  ALL_RECORDS = all;
+  return all;
+}
+
+function renderGlobalResults(el, hits, q) {
+  el.textContent = '';
+  const head = document.createElement('p');
+  head.className = 'mono dim gres-head';
+  head.textContent = hits.length ? `${hits.length}${hits.length === 120 ? '+' : ''} matches for "${q}"` : `No matches for "${q}".`;
+  el.append(head);
+  const byT = {};
+  hits.forEach((h) => { (byT[h.t] = byT[h.t] || []).push(h); });
+  Object.keys(byT).sort().forEach((t) => {
+    const sec = document.createElement('div');
+    sec.className = 'gres-group';
+    const a = document.createElement('a');
+    a.className = 'gres-tracker';
+    a.href = '/' + encodeURIComponent(t) + '/?q=' + encodeURIComponent(q);
+    a.textContent = `${t} (${byT[t].length})`;
+    sec.append(a);
+    byT[t].slice(0, 6).forEach((h) => {
+      const row = document.createElement('div');
+      row.className = 'gres-row';
+      const label = h.f.title || h.f.text || h.key;
+      if (h.f.url) { const la = document.createElement('a'); la.href = h.f.url; la.target = '_blank'; la.rel = 'noopener'; la.textContent = label; row.append(la); } else row.textContent = label;
+      sec.append(row);
+    });
+    el.append(sec);
+  });
+}
+
+function wireGlobalSearch(status) {
+  const gs = document.getElementById('gsearch');
+  const gr = document.getElementById('gresults');
+  const board = document.getElementById('board-section');
+  if (!gs || !gr) return;
+  gs.addEventListener('input', async () => {
+    const q = gs.value.trim().toLowerCase();
+    if (q.length < 2) { gr.style.display = 'none'; gr.textContent = ''; if (board) board.style.display = ''; return; }
+    const all = await loadAllRecords(status);
+    const hits = all.filter((x) =>
+      (x.key || '').toLowerCase().includes(q) ||
+      Object.values(x.f).some((v) => String(v).toLowerCase().includes(q))
+    ).slice(0, 120);
+    if (board) board.style.display = 'none';
+    gr.style.display = '';
+    renderGlobalResults(gr, hits, gs.value.trim());
+  });
 }
 
 function renderReports(t, recs) {
@@ -419,6 +520,20 @@ function buildTable(rows) {
       td0.append(a);
     } else {
       td0.textContent = label;
+    }
+    // closing-soon / past highlighting from a "closes" field
+    const tms = pd(f.closes);
+    if (!isNaN(tms)) {
+      const days = Math.ceil((tms - Date.now()) / 864e5);
+      if (days >= 0 && days <= 30) {
+        tr.classList.add('row-soon');
+        const tag = document.createElement('span');
+        tag.className = 'soon-tag';
+        tag.textContent = days === 0 ? ' today' : ` ${days}d`;
+        td0.appendChild(tag);
+      } else if (days < 0) {
+        tr.classList.add('row-past');
+      }
     }
     tr.append(td0);
     for (const c of cols) {
