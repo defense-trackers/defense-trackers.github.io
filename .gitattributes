@@ -1,0 +1,7 @@
+# Keep LF everywhere. The changelog is hash-chained over newline-delimited
+# bytes; a CRLF conversion would change those bytes and break `engine verify`
+# on a fresh checkout. Pin LF so verification is identical on every platform.
+* text=auto eol=lf
+*.json   text eol=lf
+*.jsonl  text eol=lf
+CHAIN    text eol=lf

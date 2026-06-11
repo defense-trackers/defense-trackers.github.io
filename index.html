@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Defense Trackers — open, verifiable datasets for the defense innovation ecosystem</title>
+<meta name="description" content="Public datasets that say exactly how fresh they are. Append-only, hash-chained, reproducible from public sources, forkable.">
+<meta name="color-scheme" content="dark light">
+<link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3Ccircle%20cx='16'%20cy='16'%20r='13'%20fill='none'%20stroke='%235eb1ff'%20stroke-width='2'/%3E%3Ccircle%20cx='16'%20cy='16'%20r='4'%20fill='%2335d07f'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="alternate" type="application/rss+xml" title="Defense Trackers" href="feeds/blue-uas.xml">
+</head>
+<body>
+<header class="masthead">
+  <div class="wrap">
+    <div class="sysbar">
+      <a class="brand" href="index.html" aria-label="Defense Trackers home">
+        <svg class="mark" viewBox="0 0 32 32" width="26" height="26" aria-hidden="true">
+          <circle cx="16" cy="16" r="13" fill="none" stroke="currentColor" stroke-width="1.3" opacity=".45"/>
+          <circle cx="16" cy="16" r="7.5" fill="none" stroke="currentColor" stroke-width="1.3" opacity=".75"/>
+          <line class="sweep" x1="16" y1="16" x2="16" y2="3.5" stroke="currentColor" stroke-width="1.3"/>
+          <circle cx="16" cy="16" r="2.3" fill="currentColor"/>
+          <path d="M16 1V5 M16 27V31 M1 16H5 M27 16H31" stroke="currentColor" stroke-width="1.3"/>
+        </svg>
+        <span class="wordmark">Defense Trackers</span>
+      </a>
+      <nav class="nav">
+        <a href="methodology.html">Methodology</a>
+        <a href="https://github.com/defense-trackers">Source</a>
+        <span class="clock" id="clock" title="current UTC">—</span>
+      </nav>
+    </div>
+
+    <h1 class="title">The defense innovation ecosystem, tracked in the open.</h1>
+    <p class="tagline">Public datasets that say exactly how fresh they are — append-only, hash-chained, and reproducible from public sources. The JSON is the API. The changelog is tamper-evident.</p>
+
+    <div class="vitals">
+      <div class="vital"><span class="num" id="stat-total">—</span><span class="lbl">Trackers</span></div>
+      <div class="vital ok"><span class="num" id="stat-fresh">—</span><span class="lbl">Fresh</span></div>
+      <div class="vital attn"><span class="num" id="stat-attn">—</span><span class="lbl">Need attention</span></div>
+      <div class="vital"><span class="num" id="last-published" style="font-size:1rem">—</span><span class="lbl">Last published</span></div>
+    </div>
+
+    <div class="legend" aria-label="freshness legend">
+      <span><span class="dot ok"></span> fresh — within cadence</span>
+      <span><span class="dot warn"></span> lagging — overdue, last-good still shown</span>
+      <span><span class="dot bad"></span> stale / degraded — not current</span>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <section>
+    <h2>Trackers</h2>
+    <ol id="trackers" class="tracker-list">
+      <li class="empty">Loading status… if this never resolves you're viewing the file directly — serve it: <span class="mono">python -m http.server</span></li>
+    </ol>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <p>Every dataset here is reproducible from public sources. Each tracker links its RSS feed and raw JSON — the JSON <em>is</em> the API.</p>
+    <p>Verify any changelog yourself: <span class="mono">engine verify --out .</span> re-derives every hash and reports tampering.</p>
+    <p><a href="methodology.html">Methodology</a> · <a href="SUCCESSION.md">Succession</a> · <a href="CITATION.cff">Cite</a> · data <a href="LICENSE">CC-BY-4.0</a> · <span class="mono">static · no build · no telemetry</span></p>
+  </div>
+</footer>
+
+<script type="module">
+import { loadStatus, renderIndex } from './assets/app.js';
+loadStatus().then(renderIndex).catch((e) => {
+  const list = document.getElementById('trackers');
+  list.innerHTML = '';
+  const li = document.createElement('li');
+  li.className = 'empty';
+  li.textContent = 'Could not load data/status.json — ' + e.message + ' (the first engine run creates it).';
+  list.appendChild(li);
+});
+</script>
+</body>
+</html>

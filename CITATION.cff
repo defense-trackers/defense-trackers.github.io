@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "Defense Trackers"
+message: "If you use this data, please cite it."
+type: dataset
+authors:
+  - family-names: Morgan
+    given-names: Jesse
+url: "https://defense-trackers.github.io"
+license: CC-BY-4.0
+abstract: >-
+  Open, verifiable trackers for the defense innovation ecosystem. Each dataset
+  is reproducible from public sources, append-only, and hash-chained so the
+  changelog is tamper-evident.
