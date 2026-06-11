@@ -1,7 +1,7 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-06-11T04:50:26Z",
+ "fetched_at": "2026-06-11T13:59:25Z",
  "schema_version": 1,
  "records": [
   {
@@ -833,7 +833,7 @@
    "key": "cisagov/ansible-role-cyhy-feeds",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-06-08T01:32:39Z",
+    "date": "2026-06-11T13:46:49Z",
     "description": "An Ansible role for installing cisagov/cyhy-feeds.",
     "stars": "3",
     "text": "cisagov/ansible-role-cyhy-feeds",
@@ -883,7 +883,7 @@
    "fields": {
     "date": "2026-06-10T14:03:47Z",
     "description": "Docker container with a postfix server designed for use during phishing campaigns",
-    "stars": "66",
+    "stars": "67",
     "text": "cisagov/postfix-docker",
     "title": "cisagov/postfix-docker",
     "url": "https://github.com/cisagov/postfix-docker"
@@ -929,7 +929,7 @@
    "key": "cisagov/ansible-role-cobalt-strike",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-06-10T19:48:14Z",
+    "date": "2026-06-11T13:46:44Z",
     "description": "An Ansible role for installing Cobalt Strike.",
     "stars": "81",
     "text": "cisagov/ansible-role-cobalt-strike",
@@ -1312,7 +1312,7 @@
    "key": "cisagov/setup-env-github-action",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-06-10T21:11:40Z",
+    "date": "2026-06-11T07:26:32Z",
     "description": "Set up a standard environment used by cisagov GitHub action workflows",
     "stars": "9",
     "text": "cisagov/setup-env-github-action",
@@ -1850,9 +1850,9 @@
    "key": "idaholab/moose",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-06-11T01:52:36Z",
+    "date": "2026-06-11T13:30:07Z",
     "description": "Multiphysics Object Oriented Simulation Environment",
-    "stars": "2261",
+    "stars": "2263",
     "text": "idaholab/moose",
     "title": "idaholab/moose",
     "url": "https://github.com/idaholab/moose"
@@ -2839,6 +2839,1186 @@
    }
   },
   {
+   "key": "lanl/CODY",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2017-08-29T18:12:11Z",
+    "description": "Continuum Dynamics Evaluation and Test Suite",
+    "stars": "15",
+    "text": "lanl/CODY",
+    "title": "lanl/CODY",
+    "url": "https://github.com/lanl/CODY"
+   }
+  },
+  {
+   "key": "lanl/losalamos.github.com",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2016-01-11T20:02:00Z",
+    "description": "Portal for LANL open source at GitHub",
+    "stars": "5",
+    "text": "lanl/losalamos.github.com",
+    "title": "lanl/losalamos.github.com",
+    "url": "https://github.com/lanl/losalamos.github.com"
+   }
+  },
+  {
+   "key": "lanl/coNCePTuaL",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2019-03-04T23:01:56Z",
+    "description": "Network Correctness and Performance Testing Language",
+    "stars": "5",
+    "text": "lanl/coNCePTuaL",
+    "title": "lanl/coNCePTuaL",
+    "url": "https://github.com/lanl/coNCePTuaL"
+   }
+  },
+  {
+   "key": "lanl/McPhD",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2019-04-02T22:34:03Z",
+    "description": "A Parallel Haskell framework for particle-based Monte Carlo simulations",
+    "stars": "13",
+    "text": "lanl/McPhD",
+    "title": "lanl/McPhD",
+    "url": "https://github.com/lanl/McPhD"
+   }
+  },
+  {
+   "key": "lanl/go-papi",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2019-03-04T18:33:36Z",
+    "description": "Go language interface to the PAPI performance API",
+    "stars": "17",
+    "text": "lanl/go-papi",
+    "title": "lanl/go-papi",
+    "url": "https://github.com/lanl/go-papi"
+   }
+  },
+  {
+   "key": "lanl/goop",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2022-08-17T00:21:36Z",
+    "description": "Dynamic object-oriented programming support for the Go language",
+    "stars": "115",
+    "text": "lanl/goop",
+    "title": "lanl/goop",
+    "url": "https://github.com/lanl/goop"
+   }
+  },
+  {
+   "key": "lanl/HILO",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2011-09-30T18:46:40Z",
+    "description": "HILO: Quasi Diffusion Accelerated Monte Carlo on Hybrid Architectures",
+    "stars": "4",
+    "text": "lanl/HILO",
+    "title": "lanl/HILO",
+    "url": "https://github.com/lanl/HILO"
+   }
+  },
+  {
+   "key": "lanl/PISTON",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2013-10-12T21:52:15Z",
+    "description": "A Portable Cross-Platform Framework for Data-Parallel Visualization Operators",
+    "stars": "25",
+    "text": "lanl/PISTON",
+    "title": "lanl/PISTON",
+    "url": "https://github.com/lanl/PISTON"
+   }
+  },
+  {
+   "key": "lanl/CLAMR",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2021-05-05T18:44:34Z",
+    "description": "Cell-Based Adaptive Mesh Refinement",
+    "stars": "83",
+    "text": "lanl/CLAMR",
+    "title": "lanl/CLAMR",
+    "url": "https://github.com/lanl/CLAMR"
+   }
+  },
+  {
+   "key": "lanl/ExascaleDocs",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2019-04-16T00:29:17Z",
+    "description": "Exascale papers and presentations",
+    "stars": "20",
+    "text": "lanl/ExascaleDocs",
+    "title": "lanl/ExascaleDocs",
+    "url": "https://github.com/lanl/ExascaleDocs"
+   }
+  },
+  {
+   "key": "lanl/Byfl",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2021-05-13T21:40:09Z",
+    "description": "Program analysis tool based on software performance counters",
+    "stars": "56",
+    "text": "lanl/Byfl",
+    "title": "lanl/Byfl",
+    "url": "https://github.com/lanl/Byfl"
+   }
+  },
+  {
+   "key": "lanl/NuT",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2020-09-21T22:27:46Z",
+    "description": "Monte Carlo code for Neutrino Transport",
+    "stars": "6",
+    "text": "lanl/NuT",
+    "title": "lanl/NuT",
+    "url": "https://github.com/lanl/NuT"
+   }
+  },
+  {
+   "key": "lanl/PENNANT",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2023-08-16T15:02:32Z",
+    "description": "Unstructured mesh hydrodynamics for advanced architectures",
+    "stars": "23",
+    "text": "lanl/PENNANT",
+    "title": "lanl/PENNANT",
+    "url": "https://github.com/lanl/PENNANT"
+   }
+  },
+  {
+   "key": "lanl/pyHarmonySearch",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2026-04-30T16:59:11Z",
+    "description": "pyHarmonySearch is a pure Python implementation of the harmony search (HS) global optimization algorithm.",
+    "stars": "88",
+    "text": "lanl/pyHarmonySearch",
+    "title": "lanl/pyHarmonySearch",
+    "url": "https://github.com/lanl/pyHarmonySearch"
+   }
+  },
+  {
+   "key": "lanl/SNAP",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2022-06-22T09:44:44Z",
+    "description": "SN Application Proxy",
+    "stars": "52",
+    "text": "lanl/SNAP",
+    "title": "lanl/SNAP",
+    "url": "https://github.com/lanl/SNAP"
+   }
+  },
+  {
+   "key": "lanl/pyxDamerauLevenshtein",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2026-03-22T16:34:48Z",
+    "description": "pyxDamerauLevenshtein implements the Damerau-Levenshtein (DL) edit distance algorithm for Python in Cython for high performance.",
+    "stars": "253",
+    "text": "lanl/pyxDamerauLevenshtein",
+    "title": "lanl/pyxDamerauLevenshtein",
+    "url": "https://github.com/lanl/pyxDamerauLevenshtein"
+   }
+  },
+  {
+   "key": "lanl/Gazebo",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2015-02-04T17:49:45Z",
+    "description": "Suite of software to automate HPC system testing under Moab",
+    "stars": "2",
+    "text": "lanl/Gazebo",
+    "title": "lanl/Gazebo",
+    "url": "https://github.com/lanl/Gazebo"
+   }
+  },
+  {
+   "key": "lanl/yelpapi",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2026-03-21T03:46:18Z",
+    "description": "yelpapi is a pure Python implementation of the Yelp Fusion API (aka Yelp v3 API).",
+    "stars": "139",
+    "text": "lanl/yelpapi",
+    "title": "lanl/yelpapi",
+    "url": "https://github.com/lanl/yelpapi"
+   }
+  },
+  {
+   "key": "lanl/circle",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2022-10-24T23:02:39Z",
+    "description": "Go language interface to the Libcircle distributed-queue API",
+    "stars": "22",
+    "text": "lanl/circle",
+    "title": "lanl/circle",
+    "url": "https://github.com/lanl/circle"
+   }
+  },
+  {
+   "key": "lanl/libquo",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2025-03-03T21:35:28Z",
+    "description": "Dynamic execution environments for coupled, thread-heterogeneous MPI+X applications",
+    "stars": "22",
+    "text": "lanl/libquo",
+    "title": "lanl/libquo",
+    "url": "https://github.com/lanl/libquo"
+   }
+  },
+  {
+   "key": "lanl/CompactHash",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2020-09-26T15:07:41Z",
+    "description": "A compact hash algorithm for CPUs and GPUs using OpenCL",
+    "stars": "15",
+    "text": "lanl/CompactHash",
+    "title": "lanl/CompactHash",
+    "url": "https://github.com/lanl/CompactHash"
+   }
+  },
+  {
+   "key": "lanl/PerfectHash",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2020-10-24T14:54:44Z",
+    "description": "A perfect hash code for CPUs and GPUs using OpenCL",
+    "stars": "16",
+    "text": "lanl/PerfectHash",
+    "title": "lanl/PerfectHash",
+    "url": "https://github.com/lanl/PerfectHash"
+   }
+  },
+  {
+   "key": "lanl/lanl.github.io",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2017-08-24T15:04:52Z",
+    "stars": "3",
+    "text": "lanl/lanl.github.io",
+    "title": "lanl/lanl.github.io",
+    "url": "https://github.com/lanl/lanl.github.io"
+   }
+  },
+  {
+   "key": "lanl/libparty",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2014-12-05T17:33:22Z",
+    "description": "A general purpose particle library designed to run on next-generation hardware such as MICs and GPUs.",
+    "stars": "2",
+    "text": "lanl/libparty",
+    "title": "lanl/libparty",
+    "url": "https://github.com/lanl/libparty"
+   }
+  },
+  {
+   "key": "lanl/ExactPack",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2025-09-24T22:50:17Z",
+    "description": "ExactPack: An Open-Source Software Package for Code Verification",
+    "stars": "42",
+    "text": "lanl/ExactPack",
+    "title": "lanl/ExactPack",
+    "url": "https://github.com/lanl/ExactPack"
+   }
+  },
+  {
+   "key": "lanl/stress-make",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2020-06-09T19:37:57Z",
+    "description": "Expose race conditions in Makefiles",
+    "stars": "9",
+    "text": "lanl/stress-make",
+    "title": "lanl/stress-make",
+    "url": "https://github.com/lanl/stress-make"
+   }
+  },
+  {
+   "key": "lanl/MPI-Bash",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2025-08-23T20:41:37Z",
+    "description": "Parallel version of the Bash shell",
+    "stars": "90",
+    "text": "lanl/MPI-Bash",
+    "title": "lanl/MPI-Bash",
+    "url": "https://github.com/lanl/MPI-Bash"
+   }
+  },
+  {
+   "key": "lanl/Matriarch",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2015-02-13T22:17:19Z",
+    "description": "Matriarch: A Framework for Automated Performance Analysis",
+    "stars": "5",
+    "text": "lanl/Matriarch",
+    "title": "lanl/Matriarch",
+    "url": "https://github.com/lanl/Matriarch"
+   }
+  },
+  {
+   "key": "lanl/scout",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2016-02-18T23:05:26Z",
+    "description": "Scout -- Domain Specific Language \u0026 Toolchain",
+    "stars": "18",
+    "text": "lanl/scout",
+    "title": "lanl/scout",
+    "url": "https://github.com/lanl/scout"
+   }
+  },
+  {
+   "key": "lanl/libcircle",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2014-09-18T06:20:47Z",
+    "description": "An API to provide an efficient distributed queue on a cluster. Libcircle is currently used in production to quickly traverse and perform operations on a file tree which contains several hundred-million file nodes.",
+    "stars": "0",
+    "text": "lanl/libcircle",
+    "title": "lanl/libcircle",
+    "url": "https://github.com/lanl/libcircle"
+   }
+  },
+  {
+   "key": "lanl/brulilo",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2015-04-16T20:21:32Z",
+    "description": "Toy code for nuclear reaction networks in astrophysics.",
+    "stars": "1",
+    "text": "lanl/brulilo",
+    "title": "lanl/brulilo",
+    "url": "https://github.com/lanl/brulilo"
+   }
+  },
+  {
+   "key": "lanl/stonix",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2015-06-24T14:46:06Z",
+    "description": "Repo for the development of STONIX, the Security Tool for *NIX",
+    "stars": "1",
+    "text": "lanl/stonix",
+    "title": "lanl/stonix",
+    "url": "https://github.com/lanl/stonix"
+   }
+  },
+  {
+   "key": "lanl/tsk_get_files",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2015-06-24T14:45:24Z",
+    "description": "Recover deleted files based on a search string.  Wraps \"fls\" and \"icat\" from The Sleuth Kit: http://www.sleuthkit.org/sleuthkit/",
+    "stars": "0",
+    "text": "lanl/tsk_get_files",
+    "title": "lanl/tsk_get_files",
+    "url": "https://github.com/lanl/tsk_get_files"
+   }
+  },
+  {
+   "key": "lanl/matk",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2015-06-20T17:23:38Z",
+    "description": "Python Model Analysis ToolKit (MATK) module",
+    "stars": "0",
+    "text": "lanl/matk",
+    "title": "lanl/matk",
+    "url": "https://github.com/lanl/matk"
+   }
+  },
+  {
+   "key": "lanl/ramdisk",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2015-06-24T14:44:23Z",
+    "description": "interface to use, eventually for cross-platform setup and maintenance of ramdisk, primarily for unittesting and compiling code.",
+    "stars": "0",
+    "text": "lanl/ramdisk",
+    "title": "lanl/ramdisk",
+    "url": "https://github.com/lanl/ramdisk"
+   }
+  },
+  {
+   "key": "lanl/gladius",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2019-03-01T22:50:54Z",
+    "description": "Tools and Infrastructure for HPC",
+    "stars": "1",
+    "text": "lanl/gladius",
+    "title": "lanl/gladius",
+    "url": "https://github.com/lanl/gladius"
+   }
+  },
+  {
+   "key": "lanl/ares",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2016-11-30T20:48:18Z",
+    "description": "Project ARES represents a joint effort between LANL and ORNL to introduce a common compiler representation and tool-chain for HPC applications. At the project's core is the High Level Intermediate Representation, or HLIR, for common compiler toolchains. HLIR is built ontop of the LLVM IR, using metadata to represent high-level parallel constructs.",
+    "stars": "10",
+    "text": "lanl/ares",
+    "title": "lanl/ares",
+    "url": "https://github.com/lanl/ares"
+   }
+  },
+  {
+   "key": "lanl/GOTTCHA",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2019-02-26T17:46:33Z",
+    "description": "Accurate read-based metagenome characterization using a hierarchical suite of unique signatures. Please visit our homepage:",
+    "stars": "0",
+    "text": "lanl/GOTTCHA",
+    "title": "lanl/GOTTCHA",
+    "url": "https://github.com/lanl/GOTTCHA"
+   }
+  },
+  {
+   "key": "lanl/FaQCs",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2019-03-01T18:07:20Z",
+    "stars": "0",
+    "text": "lanl/FaQCs",
+    "title": "lanl/FaQCs",
+    "url": "https://github.com/lanl/FaQCs"
+   }
+  },
+  {
+   "key": "lanl/ADEPT",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2015-08-03T15:59:44Z",
+    "description": "ADEPT is the only tool to date that dynamically assesses errors within reads by comparing position-specific and neighboring base quality scores with the distribution for the dataset being analyzed. ",
+    "stars": "0",
+    "text": "lanl/ADEPT",
+    "title": "lanl/ADEPT",
+    "url": "https://github.com/lanl/ADEPT"
+   }
+  },
+  {
+   "key": "lanl/edge",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2019-02-26T17:03:55Z",
+    "description": "edge bioinformatics",
+    "stars": "1",
+    "text": "lanl/edge",
+    "title": "lanl/edge",
+    "url": "https://github.com/lanl/edge"
+   }
+  },
+  {
+   "key": "lanl/MeGAMerge",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2019-02-26T17:42:55Z",
+    "description": "MeGAMerge (A tool to merge assembled contigs, long reads from metagenomic sequencing runs)",
+    "stars": "0",
+    "text": "lanl/MeGAMerge",
+    "title": "lanl/MeGAMerge",
+    "url": "https://github.com/lanl/MeGAMerge"
+   }
+  },
+  {
+   "key": "lanl/cdss",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2025-10-06T17:51:48Z",
+    "description": "Co-Design Summer School",
+    "stars": "1",
+    "text": "lanl/cdss",
+    "title": "lanl/cdss",
+    "url": "https://github.com/lanl/cdss"
+   }
+  },
+  {
+   "key": "lanl/gromacs-kokkos",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2015-08-25T23:14:22Z",
+    "description": "Kokkos version of GROMACS",
+    "stars": "0",
+    "text": "lanl/gromacs-kokkos",
+    "title": "lanl/gromacs-kokkos",
+    "url": "https://github.com/lanl/gromacs-kokkos"
+   }
+  },
+  {
+   "key": "lanl/filemap",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2014-12-15T18:58:49Z",
+    "description": "File-Based Map-Reduce",
+    "stars": "0",
+    "text": "lanl/filemap",
+    "title": "lanl/filemap",
+    "url": "https://github.com/lanl/filemap"
+   }
+  },
+  {
+   "key": "lanl/GlobalSums",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2020-10-16T23:55:32Z",
+    "description": "Large global sums with reproducible results",
+    "stars": "6",
+    "text": "lanl/GlobalSums",
+    "title": "lanl/GlobalSums",
+    "url": "https://github.com/lanl/GlobalSums"
+   }
+  },
+  {
+   "key": "lanl/clp",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2022-11-08T06:08:49Z",
+    "description": "Go language bindings for the COIN-OR Linear Programming library",
+    "stars": "48",
+    "text": "lanl/clp",
+    "title": "lanl/clp",
+    "url": "https://github.com/lanl/clp"
+   }
+  },
+  {
+   "key": "lanl/APPFL",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2019-04-29T15:50:52Z",
+    "description": "Auto-parallelizing Pure Functional Language",
+    "stars": "27",
+    "text": "lanl/APPFL",
+    "title": "lanl/APPFL",
+    "url": "https://github.com/lanl/APPFL"
+   }
+  },
+  {
+   "key": "lanl/bml",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2025-08-05T21:03:52Z",
+    "description": "The Basic Matrix Library (bml)",
+    "stars": "44",
+    "text": "lanl/bml",
+    "title": "lanl/bml",
+    "url": "https://github.com/lanl/bml"
+   }
+  },
+  {
+   "key": "lanl/PowerParser",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2019-07-07T00:43:08Z",
+    "description": "Parsing package for input files including simple programming constructs such as loops and math operations.",
+    "stars": "0",
+    "text": "lanl/PowerParser",
+    "title": "lanl/PowerParser",
+    "url": "https://github.com/lanl/PowerParser"
+   }
+  },
+  {
+   "key": "lanl/CompactHashRemap",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2019-07-07T01:34:09Z",
+    "description": "Fast mesh remapping algorithm based on hashing techniques",
+    "stars": "10",
+    "text": "lanl/CompactHashRemap",
+    "title": "lanl/CompactHashRemap",
+    "url": "https://github.com/lanl/CompactHashRemap"
+   }
+  },
+  {
+   "key": "lanl/benchmark_codes",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2023-06-14T16:13:04Z",
+    "description": "Microcontroller benchmark codes for radiation testing.",
+    "stars": "12",
+    "text": "lanl/benchmark_codes",
+    "title": "lanl/benchmark_codes",
+    "url": "https://github.com/lanl/benchmark_codes"
+   }
+  },
+  {
+   "key": "lanl/UCNB_Analyzer",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2017-07-21T15:49:09Z",
+    "description": "Analysis software for the UCNB experiment",
+    "stars": "0",
+    "text": "lanl/UCNB_Analyzer",
+    "title": "lanl/UCNB_Analyzer",
+    "url": "https://github.com/lanl/UCNB_Analyzer"
+   }
+  },
+  {
+   "key": "lanl/vpic",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2025-06-19T18:38:36Z",
+    "description": "Vector Particle-In-Cell (VPIC) Project",
+    "stars": "185",
+    "text": "lanl/vpic",
+    "title": "lanl/vpic",
+    "url": "https://github.com/lanl/vpic"
+   }
+  },
+  {
+   "key": "lanl/scipy",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2017-01-16T21:13:28Z",
+    "description": "LANL fork of Scipy library main repository. Contains LANL copyright and license information (BSD-3 compatible). Intended only for development purposes. Users should get Scipy from the main repository at https://github.com/scipy/scipy.",
+    "stars": "0",
+    "text": "lanl/scipy",
+    "title": "lanl/scipy",
+    "url": "https://github.com/lanl/scipy"
+   }
+  },
+  {
+   "key": "lanl/Draco",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2026-02-03T20:11:43Z",
+    "description": "An object-oriented component library supporting radiation transport applications.",
+    "stars": "59",
+    "text": "lanl/Draco",
+    "title": "lanl/Draco",
+    "url": "https://github.com/lanl/Draco"
+   }
+  },
+  {
+   "key": "lanl/DRepl",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2016-04-21T14:37:05Z",
+    "stars": "1",
+    "text": "lanl/DRepl",
+    "title": "lanl/DRepl",
+    "url": "https://github.com/lanl/DRepl"
+   }
+  },
+  {
+   "key": "lanl/Hop",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2016-09-20T20:37:41Z",
+    "stars": "2",
+    "text": "lanl/Hop",
+    "title": "lanl/Hop",
+    "url": "https://github.com/lanl/Hop"
+   }
+  },
+  {
+   "key": "lanl/MSTK",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2016-05-06T21:55:48Z",
+    "description": "Infrastructure library for reading, writing, querying and manipulating distributed, general unstructured polyhedral meshes",
+    "stars": "0",
+    "text": "lanl/MSTK",
+    "title": "lanl/MSTK",
+    "url": "https://github.com/lanl/MSTK"
+   }
+  },
+  {
+   "key": "lanl/Sandal",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2016-05-24T15:50:13Z",
+    "description": "Simple rANDom wALk Simulation with Relational Programming Model",
+    "stars": "2",
+    "text": "lanl/Sandal",
+    "title": "lanl/Sandal",
+    "url": "https://github.com/lanl/Sandal"
+   }
+  },
+  {
+   "key": "lanl/tycho2",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2022-09-20T20:56:08Z",
+    "description": "A neutral particle transport mini-app to study performance of sweeps on unstructured, 3D tetrahedral meshes.",
+    "stars": "19",
+    "text": "lanl/tycho2",
+    "title": "lanl/tycho2",
+    "url": "https://github.com/lanl/tycho2"
+   }
+  },
+  {
+   "key": "lanl/PFSEFI",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2019-03-07T15:54:54Z",
+    "description": "Parallel Fine-grained Soft Error Fault Injector",
+    "stars": "5",
+    "text": "lanl/PFSEFI",
+    "title": "lanl/PFSEFI",
+    "url": "https://github.com/lanl/PFSEFI"
+   }
+  },
+  {
+   "key": "lanl/qmasm",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2021-02-28T01:25:34Z",
+    "description": "Quantum macro assembler for D-Wave systems",
+    "stars": "341",
+    "text": "lanl/qmasm",
+    "title": "lanl/qmasm",
+    "url": "https://github.com/lanl/qmasm"
+   }
+  },
+  {
+   "key": "lanl/kokkos-clang",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2017-03-15T21:53:39Z",
+    "description": "A Clang-based compiler for compiling Kokkos code (with no syntactical differences) with the aim of generating optimized code for parallel targets such a multithreaded and GPU (NVIDIA/CUDA) and preserving domain awareness.",
+    "stars": "5",
+    "text": "lanl/kokkos-clang",
+    "title": "lanl/kokkos-clang",
+    "url": "https://github.com/lanl/kokkos-clang"
+   }
+  },
+  {
+   "key": "lanl/Zenoss",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2016-08-01T20:34:29Z",
+    "description": "LANL's modification to Zenoss 2, allowing the monitoring of HPC resources with our \"Grid View\"",
+    "stars": "0",
+    "text": "lanl/Zenoss",
+    "title": "lanl/Zenoss",
+    "url": "https://github.com/lanl/Zenoss"
+   }
+  },
+  {
+   "key": "lanl/nuflood",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2025-05-25T16:17:40Z",
+    "description": "An open-source software project for surface water simulation.",
+    "stars": "8",
+    "text": "lanl/nuflood",
+    "title": "lanl/nuflood",
+    "url": "https://github.com/lanl/nuflood"
+   }
+  },
+  {
+   "key": "lanl/ThreeQ.jl",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2019-11-22T20:42:48Z",
+    "description": "Julia interface to D-Wave quantum annealing hardware",
+    "stars": "7",
+    "text": "lanl/ThreeQ.jl",
+    "title": "lanl/ThreeQ.jl",
+    "url": "https://github.com/lanl/ThreeQ.jl"
+   }
+  },
+  {
+   "key": "lanl/gridder",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2019-04-25T17:36:31Z",
+    "description": "gridder is a simple interactive grid generation tool for creating 2D and 3D orthogonal grids. Used at Los Alamos National Laboratory (EES Group).",
+    "stars": "18",
+    "text": "lanl/gridder",
+    "title": "lanl/gridder",
+    "url": "https://github.com/lanl/gridder"
+   }
+  },
+  {
+   "key": "lanl/LaGriT",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2026-05-14T14:16:43Z",
+    "description": "Los Alamos Grid Toolbox (LaGriT) is a library of user callable tools that provide mesh generation, mesh optimization and dynamic mesh maintenance in two and three dimensions.",
+    "stars": "131",
+    "text": "lanl/LaGriT",
+    "title": "lanl/LaGriT",
+    "url": "https://github.com/lanl/LaGriT"
+   }
+  },
+  {
+   "key": "lanl/lvPortDriver",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2023-11-30T18:36:46Z",
+    "description": "EPICS device support for LabVIEW",
+    "stars": "3",
+    "text": "lanl/lvPortDriver",
+    "title": "lanl/lvPortDriver",
+    "url": "https://github.com/lanl/lvPortDriver"
+   }
+  },
+  {
+   "key": "lanl/lampi",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2016-09-08T23:08:12Z",
+    "description": "Los Alamos Message Passing Interface",
+    "stars": "3",
+    "text": "lanl/lampi",
+    "title": "lanl/lampi",
+    "url": "https://github.com/lanl/lampi"
+   }
+  },
+  {
+   "key": "lanl/qmd-progress",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2026-06-02T15:41:50Z",
+    "description": "PROGRESS: Parallel, Rapid O(N) and Graph-based Recursive Electronic Structure Solver.",
+    "stars": "28",
+    "text": "lanl/qmd-progress",
+    "title": "lanl/qmd-progress",
+    "url": "https://github.com/lanl/qmd-progress"
+   }
+  },
+  {
+   "key": "lanl/SICM",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2023-08-31T21:04:30Z",
+    "description": "Simplified Interface to Complex Memory",
+    "stars": "29",
+    "text": "lanl/SICM",
+    "title": "lanl/SICM",
+    "url": "https://github.com/lanl/SICM"
+   }
+  },
+  {
+   "key": "lanl/NJOY21",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2016-11-02T20:09:46Z",
+    "description": "NJOY for the 21st Century",
+    "stars": "1",
+    "text": "lanl/NJOY21",
+    "title": "lanl/NJOY21",
+    "url": "https://github.com/lanl/NJOY21"
+   }
+  },
+  {
+   "key": "lanl/madspython",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2016-11-10T23:42:37Z",
+    "stars": "1",
+    "text": "lanl/madspython",
+    "title": "lanl/madspython",
+    "url": "https://github.com/lanl/madspython"
+   }
+  },
+  {
+   "key": "lanl/edif2qmasm",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2022-09-23T05:45:22Z",
+    "description": "Run hardware descriptions on a quantum annealer",
+    "stars": "25",
+    "text": "lanl/edif2qmasm",
+    "title": "lanl/edif2qmasm",
+    "url": "https://github.com/lanl/edif2qmasm"
+   }
+  },
+  {
+   "key": "lanl/CoARCT",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2020-10-29T22:04:50Z",
+    "description": "Code Analysis and Refactoring with Clang Tools",
+    "stars": "129",
+    "text": "lanl/CoARCT",
+    "title": "lanl/CoARCT",
+    "url": "https://github.com/lanl/CoARCT"
+   }
+  },
+  {
+   "key": "lanl/clog",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2019-04-17T22:46:28Z",
+    "stars": "3",
+    "text": "lanl/clog",
+    "title": "lanl/clog",
+    "url": "https://github.com/lanl/clog"
+   }
+  },
+  {
+   "key": "lanl/LATTE",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2026-02-23T18:56:35Z",
+    "description": "Developer repository for the LATTE code",
+    "stars": "49",
+    "text": "lanl/LATTE",
+    "title": "lanl/LATTE",
+    "url": "https://github.com/lanl/LATTE"
+   }
+  },
+  {
+   "key": "lanl/NHPP-for-FRBs",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2020-03-27T18:52:44Z",
+    "stars": "2",
+    "text": "lanl/NHPP-for-FRBs",
+    "title": "lanl/NHPP-for-FRBs",
+    "url": "https://github.com/lanl/NHPP-for-FRBs"
+   }
+  },
+  {
+   "key": "lanl/Galacticus-HDF5-Example",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2020-03-27T18:53:07Z",
+    "stars": "0",
+    "text": "lanl/Galacticus-HDF5-Example",
+    "title": "lanl/Galacticus-HDF5-Example",
+    "url": "https://github.com/lanl/Galacticus-HDF5-Example"
+   }
+  },
+  {
+   "key": "lanl/RAM-SCB",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2024-09-20T17:25:29Z",
+    "description": "RAM-SCB is a unique code that combines a kinetic model of ring current plasma with a three dimensional force-balanced model of the terrestrial magnetic field to simulate Earth's inner magnetosphere.",
+    "stars": "16",
+    "text": "lanl/RAM-SCB",
+    "title": "lanl/RAM-SCB",
+    "url": "https://github.com/lanl/RAM-SCB"
+   }
+  },
+  {
+   "key": "lanl/MultiMatTest",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2020-07-26T23:44:23Z",
+    "description": "A demonstration code to test performance of basic operations for different representations of multi-material data structures.",
+    "stars": "5",
+    "text": "lanl/MultiMatTest",
+    "title": "lanl/MultiMatTest",
+    "url": "https://github.com/lanl/MultiMatTest"
+   }
+  },
+  {
+   "key": "lanl/GPULife",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2017-02-01T05:46:35Z",
+    "description": "This cod project is a demonstration of GPU interoperability.",
+    "stars": "3",
+    "text": "lanl/GPULife",
+    "title": "lanl/GPULife",
+    "url": "https://github.com/lanl/GPULife"
+   }
+  },
+  {
+   "key": "lanl/EOSlib",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2017-06-15T23:21:17Z",
+    "description": "A C++ library, database, and utilities for performing thermodynamic calculations using analytic equations of state.",
+    "stars": "9",
+    "text": "lanl/EOSlib",
+    "title": "lanl/EOSlib",
+    "url": "https://github.com/lanl/EOSlib"
+   }
+  },
+  {
+   "key": "lanl/pinyon",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2017-03-20T14:49:59Z",
+    "description": "Tool for storing and managing scientific workflows with MongoDB",
+    "stars": "3",
+    "text": "lanl/pinyon",
+    "title": "lanl/pinyon",
+    "url": "https://github.com/lanl/pinyon"
+   }
+  },
+  {
+   "key": "lanl/libhio",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2017-03-01T23:24:21Z",
+    "description": "libhio is a library intended for writing data to hierarchical data store systems.",
+    "stars": "0",
+    "text": "lanl/libhio",
+    "title": "lanl/libhio",
+    "url": "https://github.com/lanl/libhio"
+   }
+  },
+  {
+   "key": "lanl/LANLGeoMag",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2025-01-10T19:22:51Z",
+    "description": "LANLGeoMag is a C-based library of magnetic-field models and tools for computing quantities relevant to geophysical and geospace research that rely on these models. More generally, the library provides functionality to perform high precision transforms between time standards and coordinate systems. The primary uses of this library are coordinate conversions, magnetic field evaluation, magnetic field line tracing, drift shell tracing, calculation of diffusion coefficients and bounce-averaging of quantities in arbitrary magnetic fields.",
+    "stars": "1",
+    "text": "lanl/LANLGeoMag",
+    "title": "lanl/LANLGeoMag",
+    "url": "https://github.com/lanl/LANLGeoMag"
+   }
+  },
+  {
+   "key": "lanl/branson",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2026-06-09T03:16:15Z",
+    "description": "A Monte Carlo transport mini-app for studying new parallel algorithms",
+    "stars": "19",
+    "text": "lanl/branson",
+    "title": "lanl/branson",
+    "url": "https://github.com/lanl/branson"
+   }
+  },
+  {
+   "key": "lanl/parsplice",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2017-04-07T20:32:45Z",
+    "description": "Mirror of parsplice",
+    "stars": "1",
+    "text": "lanl/parsplice",
+    "title": "lanl/parsplice",
+    "url": "https://github.com/lanl/parsplice"
+   }
+  },
+  {
+   "key": "lanl/CosmicEmu",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2025-06-27T17:00:44Z",
+    "description": "Fast predictions for the matter power spectrum.",
+    "stars": "12",
+    "text": "lanl/CosmicEmu",
+    "title": "lanl/CosmicEmu",
+    "url": "https://github.com/lanl/CosmicEmu"
+   }
+  },
+  {
+   "key": "lanl/walkabout",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2020-08-14T20:20:57Z",
+    "description": "Walkabout simulates random walk particle tracking.",
+    "stars": "1",
+    "text": "lanl/walkabout",
+    "title": "lanl/walkabout",
+    "url": "https://github.com/lanl/walkabout"
+   }
+  },
+  {
+   "key": "lanl/spite",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2017-05-08T16:19:21Z",
+    "description": "Synthetic Proxy Infrastructure for Task Evaluation",
+    "stars": "0",
+    "text": "lanl/spite",
+    "title": "lanl/spite",
+    "url": "https://github.com/lanl/spite"
+   }
+  },
+  {
+   "key": "lanl/jali",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2023-05-11T02:01:37Z",
+    "description": "A parallel unstructured mesh framework for multiphysics application",
+    "stars": "17",
+    "text": "lanl/jali",
+    "title": "lanl/jali",
+    "url": "https://github.com/lanl/jali"
+   }
+  },
+  {
+   "key": "lanl/hsapi",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2019-03-04T19:43:13Z",
+    "description": "Haskell bindings for DWave's SAPI interface",
+    "stars": "3",
+    "text": "lanl/hsapi",
+    "title": "lanl/hsapi",
+    "url": "https://github.com/lanl/hsapi"
+   }
+  },
+  {
+   "key": "lanl/find-frustration",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2019-03-04T17:32:19Z",
+    "description": "Help gauge the difficulty of a QUBO/Ising problem by measuring frustration",
+    "stars": "2",
+    "text": "lanl/find-frustration",
+    "title": "lanl/find-frustration",
+    "url": "https://github.com/lanl/find-frustration"
+   }
+  },
+  {
+   "key": "lanl/pececillo",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2017-08-21T19:32:43Z",
+    "description": "Truchas mini-app for agile code design and algorithm exploration",
+    "stars": "1",
+    "text": "lanl/pececillo",
+    "title": "lanl/pececillo",
+    "url": "https://github.com/lanl/pececillo"
+   }
+  },
+  {
+   "key": "lanl/openmpir-clang",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2018-07-12T16:30:12Z",
+    "description": "OpenMP to Tapir Implementation",
+    "stars": "2",
+    "text": "lanl/openmpir-clang",
+    "title": "lanl/openmpir-clang",
+    "url": "https://github.com/lanl/openmpir-clang"
+   }
+  },
+  {
+   "key": "lanl/formallegion",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2018-06-09T14:42:32Z",
+    "description": "Formalization of Legion Semantics",
+    "stars": "0",
+    "text": "lanl/formallegion",
+    "title": "lanl/formallegion",
+    "url": "https://github.com/lanl/formallegion"
+   }
+  },
+  {
    "key": "mitre/HTTP-Proxy-Servlet",
    "source": "oss-mitre",
    "fields": {
@@ -3317,7 +4497,7 @@
    "fields": {
     "date": "2026-06-08T14:09:39Z",
     "description": "Cyber Threat Intelligence Repository expressed in STIX 2.0",
-    "stars": "2078",
+    "stars": "2079",
     "text": "mitre/cti",
     "title": "mitre/cti",
     "url": "https://github.com/mitre/cti"
@@ -3615,7 +4795,7 @@
    "key": "mitre/vulcan",
    "source": "oss-mitre",
    "fields": {
-    "date": "2026-06-11T04:33:07Z",
+    "date": "2026-06-11T06:18:31Z",
     "description": "A web application to streamline the development of STIGs from SRGs",
     "stars": "85",
     "text": "mitre/vulcan",
@@ -3848,6 +5028,1069 @@
     "text": "mitre/microsoft-sql-server-2014-database-stig-baseline",
     "title": "mitre/microsoft-sql-server-2014-database-stig-baseline",
     "url": "https://github.com/mitre/microsoft-sql-server-2014-database-stig-baseline"
+   }
+  },
+  {
+   "key": "nasa/DAVEtools",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2015-03-02T15:31:13Z",
+    "description": "A Java package, nominally built in NetBeans, that allows use of DAVE-ML simulation models within tools such as Mathwork's Simulink(R) and Matlab(R) products",
+    "stars": "36",
+    "text": "nasa/DAVEtools",
+    "title": "nasa/DAVEtools",
+    "url": "https://github.com/nasa/DAVEtools"
+   }
+  },
+  {
+   "key": "nasa/World-Wind-Java",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2020-10-03T03:32:04Z",
+    "description": "World Wind, an open source 3D interactive world viewer, was created by NASA's Learning Technologies project, and released in mid-2004. It is now developed by NASA staff and open source community developers.",
+    "stars": "335",
+    "text": "nasa/World-Wind-Java",
+    "title": "nasa/World-Wind-Java",
+    "url": "https://github.com/nasa/World-Wind-Java"
+   }
+  },
+  {
+   "key": "nasa/OpenMDAO-Framework",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2015-05-06T13:44:26Z",
+    "description": "OpenMDAO is an open-source Multidisciplinary Design Analysis and Optimization (MDAO) framework, written in Python. It helps users solve complex problems by allowing them to link together analysis codes from multiple disciplines at multiple levels of fidelity.  The development effort for OpenMDAO is being led out of the NASA Glenn Research Center in the MDAO branch. The development effort is being funded by the Fundamental Aeronautic Program, Subsonic Fixe Wing project. The ultimate goal is to provide a flexible common analysis platform that can be shared between industry, academia, and government.",
+    "stars": "147",
+    "text": "nasa/OpenMDAO-Framework",
+    "title": "nasa/OpenMDAO-Framework",
+    "url": "https://github.com/nasa/OpenMDAO-Framework"
+   }
+  },
+  {
+   "key": "nasa/visionworkbench",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2017-04-03T16:31:12Z",
+    "description": "The NASA Vision Workbench is a general purpose image processing and computer vision library developed by the Autonomous Systems and Robotics (ASR) Area in the Intelligent Systems Division at the NASA Ames Research Center.",
+    "stars": "270",
+    "text": "nasa/visionworkbench",
+    "title": "nasa/visionworkbench",
+    "url": "https://github.com/nasa/visionworkbench"
+   }
+  },
+  {
+   "key": "nasa/StereoPipeline",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2015-05-10T18:59:54Z",
+    "description": "The NASA Ames Stereo Pipeline is a suite of automated geodesy \u0026 stereogrammetry tools designed for processing planetary imagery captured from orbiting and landed robotic explorers on other planets.",
+    "stars": "81",
+    "text": "nasa/StereoPipeline",
+    "title": "nasa/StereoPipeline",
+    "url": "https://github.com/nasa/StereoPipeline"
+   }
+  },
+  {
+   "key": "nasa/NASA-Space-Weather-Media-Viewer",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2017-03-02T21:23:11Z",
+    "description": "Space Weather and the Sun.",
+    "stars": "59",
+    "text": "nasa/NASA-Space-Weather-Media-Viewer",
+    "title": "nasa/NASA-Space-Weather-Media-Viewer",
+    "url": "https://github.com/nasa/NASA-Space-Weather-Media-Viewer"
+   }
+  },
+  {
+   "key": "nasa/CertWare",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2016-06-26T15:53:36Z",
+    "stars": "53",
+    "text": "nasa/CertWare",
+    "title": "nasa/CertWare",
+    "url": "https://github.com/nasa/CertWare"
+   }
+  },
+  {
+   "key": "nasa/osal",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2026-06-09T19:38:45Z",
+    "description": "The Core Flight System (cFS) Operating System Abstraction Layer (OSAL)",
+    "stars": "651",
+    "text": "nasa/osal",
+    "title": "nasa/osal",
+    "url": "https://github.com/nasa/osal"
+   }
+  },
+  {
+   "key": "nasa/digital-strategy",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2021-03-18T14:44:08Z",
+    "description": "Machine-readable schema for NASA's response to the president's digital strategy.",
+    "stars": "41",
+    "text": "nasa/digital-strategy",
+    "title": "nasa/digital-strategy",
+    "url": "https://github.com/nasa/digital-strategy"
+   }
+  },
+  {
+   "key": "nasa/github-latest-commits-widget",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2015-10-05T18:45:28Z",
+    "description": "Simple widget that shows a repo's latest github commit activity on your site",
+    "stars": "12",
+    "text": "nasa/github-latest-commits-widget",
+    "title": "nasa/github-latest-commits-widget",
+    "url": "https://github.com/nasa/github-latest-commits-widget"
+   }
+  },
+  {
+   "key": "nasa/VADER",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2020-10-10T08:40:57Z",
+    "stars": "18",
+    "text": "nasa/VADER",
+    "title": "nasa/VADER",
+    "url": "https://github.com/nasa/VADER"
+   }
+  },
+  {
+   "key": "nasa/MCT-Plugins",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2020-01-25T04:14:47Z",
+    "stars": "35",
+    "text": "nasa/MCT-Plugins",
+    "title": "nasa/MCT-Plugins",
+    "url": "https://github.com/nasa/MCT-Plugins"
+   }
+  },
+  {
+   "key": "nasa/code.nasa.gov_legacy",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2016-07-28T15:53:38Z",
+    "stars": "34",
+    "text": "nasa/code.nasa.gov_legacy",
+    "title": "nasa/code.nasa.gov_legacy",
+    "url": "https://github.com/nasa/code.nasa.gov_legacy"
+   }
+  },
+  {
+   "key": "nasa/T-MATS",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2025-01-15T14:22:32Z",
+    "description": "An open source thermodynamic modeling package completed on behalf of NASA. The Toolbox for the Modeling and Analysis of Thermodynamic Systems (T-MATS) package offers a MATLAB/Simulink toolbox that gives a developer the ability to create simulations of such thermodynamic systems as turbomachinery and gas turbines. Keywords: TMATS, Control System, Numerical Methods, Newton-Raphson, Jacobian Calculation, Propulsion, Aircraft Engine, Jet, Turbofan, Turbojet, Compressor, Turbine, Nozzle, Inlet, open source",
+    "stars": "318",
+    "text": "nasa/T-MATS",
+    "title": "nasa/T-MATS",
+    "url": "https://github.com/nasa/T-MATS"
+   }
+  },
+  {
+   "key": "nasa/autodoc",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2016-11-13T23:06:23Z",
+    "description": "Create Microsoft Documents automatically using Text and Template files",
+    "stars": "120",
+    "text": "nasa/autodoc",
+    "title": "nasa/autodoc",
+    "url": "https://github.com/nasa/autodoc"
+   }
+  },
+  {
+   "key": "nasa/cash",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2013-12-31T19:36:43Z",
+    "description": "Cassini Structured Homepages uses LDAP authorization to provide a security layer to webpage content",
+    "stars": "19",
+    "text": "nasa/cash",
+    "title": "nasa/cash",
+    "url": "https://github.com/nasa/cash"
+   }
+  },
+  {
+   "key": "nasa/WellClear",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2020-11-19T22:36:50Z",
+    "description": "Well-Clear Boundary Models for Integration of UAS in the NAS",
+    "stars": "54",
+    "text": "nasa/WellClear",
+    "title": "nasa/WellClear",
+    "url": "https://github.com/nasa/WellClear"
+   }
+  },
+  {
+   "key": "nasa/Kodiak",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2024-05-29T12:30:55Z",
+    "description": "Library for rigorous verification of non-linear arithmetic",
+    "stars": "115",
+    "text": "nasa/Kodiak",
+    "title": "nasa/Kodiak",
+    "url": "https://github.com/nasa/Kodiak"
+   }
+  },
+  {
+   "key": "nasa/eefs",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2024-08-14T19:57:05Z",
+    "description": "EEPROM File System",
+    "stars": "288",
+    "text": "nasa/eefs",
+    "title": "nasa/eefs",
+    "url": "https://github.com/nasa/eefs"
+   }
+  },
+  {
+   "key": "nasa/TTECTrA",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2014-06-06T17:39:15Z",
+    "description": "An open source, semi-automated, control design tool for subsonic aircraft engine simulations written in the MATLAB/Simulink environment.  The Tool for Turbine Engine Closed-loop Transient Analysis provides the user a preliminary estimate of the closed-loop transient performance of an engine model.",
+    "stars": "67",
+    "text": "nasa/TTECTrA",
+    "title": "nasa/TTECTrA",
+    "url": "https://github.com/nasa/TTECTrA"
+   }
+  },
+  {
+   "key": "nasa/NASA-3D-Resources",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2025-06-03T16:01:14Z",
+    "description": "Here you'll find a growing collection of 3D models, textures, and images from inside NASA.",
+    "stars": "3602",
+    "text": "nasa/NASA-3D-Resources",
+    "title": "nasa/NASA-3D-Resources",
+    "url": "https://github.com/nasa/NASA-3D-Resources"
+   }
+  },
+  {
+   "key": "nasa/Open-Source-Catalog",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2026-06-08T20:17:56Z",
+    "description": "Contains the NASA open source software catalog for automatic deployment to code.nasa.gov",
+    "stars": "335",
+    "text": "nasa/Open-Source-Catalog",
+    "title": "nasa/Open-Source-Catalog",
+    "url": "https://github.com/nasa/Open-Source-Catalog"
+   }
+  },
+  {
+   "key": "nasa/europa",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2023-02-10T21:33:04Z",
+    "stars": "228",
+    "text": "nasa/europa",
+    "title": "nasa/europa",
+    "url": "https://github.com/nasa/europa"
+   }
+  },
+  {
+   "key": "nasa/XPlaneConnect",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2024-04-23T23:11:23Z",
+    "description": "The X-Plane Communications Toolbox is a research tool used to interact with the X-Plane flight simulator",
+    "stars": "727",
+    "text": "nasa/XPlaneConnect",
+    "title": "nasa/XPlaneConnect",
+    "url": "https://github.com/nasa/XPlaneConnect"
+   }
+  },
+  {
+   "key": "nasa/pvslib",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2026-06-03T14:13:16Z",
+    "description": "NASA PVS Library of Formal Developments",
+    "stars": "307",
+    "text": "nasa/pvslib",
+    "title": "nasa/pvslib",
+    "url": "https://github.com/nasa/pvslib"
+   }
+  },
+  {
+   "key": "nasa/libSPRITE",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2016-09-25T20:27:52Z",
+    "description": "libSPRITE is a set of libraries that have been used on several past projects including flight, technology demonstration, and simulation projects. libSPRITE provides a diverse set of functions to attempt to simplify coding and reduce code errors. For example, libSPRITE defines engineering units as types (i.e., Meters or Radians instead of double or int). It includes an engineering unit aware math library. libSPRITE includes a task scheduling system that abstracts pthreads and includes a publish subscribe data system for data routing. In addition, libSPRITE includes an optional binding to the Lua scripting language for configuring the program, setting parameters, running Lua scripts within C++ tasks and even interacting with the application during runtime.",
+    "stars": "62",
+    "text": "nasa/libSPRITE",
+    "title": "nasa/libSPRITE",
+    "url": "https://github.com/nasa/libSPRITE"
+   }
+  },
+  {
+   "key": "nasa/CrisisMappingToolkit",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2025-12-15T18:38:03Z",
+    "description": "NASA Ames Crisis Mapping Toolkit",
+    "stars": "203",
+    "text": "nasa/CrisisMappingToolkit",
+    "title": "nasa/CrisisMappingToolkit",
+    "url": "https://github.com/nasa/CrisisMappingToolkit"
+   }
+  },
+  {
+   "key": "nasa/mplStyle",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2018-03-14T17:05:32Z",
+    "description": "Matplotlib object oriented style system",
+    "stars": "45",
+    "text": "nasa/mplStyle",
+    "title": "nasa/mplStyle",
+    "url": "https://github.com/nasa/mplStyle"
+   }
+  },
+  {
+   "key": "nasa/api-docs",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2026-06-01T20:14:01Z",
+    "description": "api.nasa.gov",
+    "stars": "536",
+    "text": "nasa/api-docs",
+    "title": "nasa/api-docs",
+    "url": "https://github.com/nasa/api-docs"
+   }
+  },
+  {
+   "key": "nasa/PyAMPR",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2025-11-18T19:16:11Z",
+    "description": "Python Advanced Microwave Precipitation Radiometer Data Toolkit (PyAMPR)",
+    "stars": "26",
+    "text": "nasa/PyAMPR",
+    "title": "nasa/PyAMPR",
+    "url": "https://github.com/nasa/PyAMPR"
+   }
+  },
+  {
+   "key": "nasa/PyTDA",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2024-03-04T21:42:31Z",
+    "description": "Python Turbulence Detection Algorithm (PyTDA)",
+    "stars": "98",
+    "text": "nasa/PyTDA",
+    "title": "nasa/PyTDA",
+    "url": "https://github.com/nasa/PyTDA"
+   }
+  },
+  {
+   "key": "nasa/trick",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2026-06-10T22:34:28Z",
+    "description": "Trick Simulation Environment.  Trick provides a common set of simulation capabilities and utilities to build simulations automatically.",
+    "stars": "149",
+    "text": "nasa/trick",
+    "title": "nasa/trick",
+    "url": "https://github.com/nasa/trick"
+   }
+  },
+  {
+   "key": "nasa/MMM-Py",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2022-08-16T16:11:36Z",
+    "description": "Marshall MRMS Mosaic Python Toolkit",
+    "stars": "59",
+    "text": "nasa/MMM-Py",
+    "title": "nasa/MMM-Py",
+    "url": "https://github.com/nasa/MMM-Py"
+   }
+  },
+  {
+   "key": "nasa/EADINLite",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2018-03-01T18:27:43Z",
+    "description": "EADIN_Lite Network Protocol",
+    "stars": "59",
+    "text": "nasa/EADINLite",
+    "title": "nasa/EADINLite",
+    "url": "https://github.com/nasa/EADINLite"
+   }
+  },
+  {
+   "key": "nasa/instructions",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2026-05-12T16:15:58Z",
+    "description": "https://github.com/nasa/nasa.github.io/blob/master/docs/INSTRUCTIONS.md",
+    "stars": "373",
+    "text": "nasa/instructions",
+    "title": "nasa/instructions",
+    "url": "https://github.com/nasa/instructions"
+   }
+  },
+  {
+   "key": "nasa/pymdptoolbox",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2015-05-22T22:25:28Z",
+    "description": "Markov Decision Process (MDP) Toolbox for Python",
+    "stars": "36",
+    "text": "nasa/pymdptoolbox",
+    "title": "nasa/pymdptoolbox",
+    "url": "https://github.com/nasa/pymdptoolbox"
+   }
+  },
+  {
+   "key": "nasa/openmct",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2026-06-09T17:28:17Z",
+    "description": "A web based mission control framework. ",
+    "stars": "12997",
+    "text": "nasa/openmct",
+    "title": "nasa/openmct",
+    "url": "https://github.com/nasa/openmct"
+   }
+  },
+  {
+   "key": "nasa/NASTRAN-93",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2015-12-03T17:30:46Z",
+    "description": "NASTRAN is the NASA Structural Analysis System, a finite element analysis program (FEA)",
+    "stars": "157",
+    "text": "nasa/NASTRAN-93",
+    "title": "nasa/NASTRAN-93",
+    "url": "https://github.com/nasa/NASTRAN-93"
+   }
+  },
+  {
+   "key": "nasa/DualPol",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2019-03-07T15:53:26Z",
+    "description": "Python Interface to Dual-Pol Radar Algorithms (DualPol)",
+    "stars": "47",
+    "text": "nasa/DualPol",
+    "title": "nasa/DualPol",
+    "url": "https://github.com/nasa/DualPol"
+   }
+  },
+  {
+   "key": "nasa/PyBlock",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2017-08-01T20:01:59Z",
+    "description": "Python Polarimetric Radar Beam Blockage Calculation (PyBlock)",
+    "stars": "41",
+    "text": "nasa/PyBlock",
+    "title": "nasa/PyBlock",
+    "url": "https://github.com/nasa/PyBlock"
+   }
+  },
+  {
+   "key": "nasa/SingleDop",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2022-10-12T18:41:46Z",
+    "description": "Single Doppler Retrieval Toolkit (SingleDop)",
+    "stars": "56",
+    "text": "nasa/SingleDop",
+    "title": "nasa/SingleDop",
+    "url": "https://github.com/nasa/SingleDop"
+   }
+  },
+  {
+   "key": "nasa/earthdata-search",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2026-06-10T20:11:30Z",
+    "description": "Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.",
+    "stars": "818",
+    "text": "nasa/earthdata-search",
+    "title": "nasa/earthdata-search",
+    "url": "https://github.com/nasa/earthdata-search"
+   }
+  },
+  {
+   "key": "nasa/edsc-echoforms",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2026-05-29T22:56:34Z",
+    "description": "A React component implementing the ECHO Forms specification.",
+    "stars": "9",
+    "text": "nasa/edsc-echoforms",
+    "title": "nasa/edsc-echoforms",
+    "url": "https://github.com/nasa/edsc-echoforms"
+   }
+  },
+  {
+   "key": "nasa/dictionaries",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2018-05-30T19:48:13Z",
+    "description": "A collection of NASA \"dictionaries\", including thesauri, taxonomies and ontologies.",
+    "stars": "65",
+    "text": "nasa/dictionaries",
+    "title": "nasa/dictionaries",
+    "url": "https://github.com/nasa/dictionaries"
+   }
+  },
+  {
+   "key": "nasa/astrobot",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2024-02-09T14:10:26Z",
+    "description": "A slack bot integration with NASA data",
+    "stars": "79",
+    "text": "nasa/astrobot",
+    "title": "nasa/astrobot",
+    "url": "https://github.com/nasa/astrobot"
+   }
+  },
+  {
+   "key": "nasa/edsc-timeline",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2026-05-29T23:12:59Z",
+    "stars": "19",
+    "text": "nasa/edsc-timeline",
+    "title": "nasa/edsc-timeline",
+    "url": "https://github.com/nasa/edsc-timeline"
+   }
+  },
+  {
+   "key": "nasa/edsc-geo",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2026-05-29T22:58:28Z",
+    "stars": "5",
+    "text": "nasa/edsc-geo",
+    "title": "nasa/edsc-geo",
+    "url": "https://github.com/nasa/edsc-geo"
+   }
+  },
+  {
+   "key": "nasa/ipv6_python",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2021-06-09T21:08:12Z",
+    "stars": "56",
+    "text": "nasa/ipv6_python",
+    "title": "nasa/ipv6_python",
+    "url": "https://github.com/nasa/ipv6_python"
+   }
+  },
+  {
+   "key": "nasa/VICAR",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2022-06-29T16:58:14Z",
+    "stars": "288",
+    "text": "nasa/VICAR",
+    "title": "nasa/VICAR",
+    "url": "https://github.com/nasa/VICAR"
+   }
+  },
+  {
+   "key": "nasa/RHEAS",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2023-08-01T16:55:13Z",
+    "description": "Regional Hydrologic Extremes Assessment System",
+    "stars": "77",
+    "text": "nasa/RHEAS",
+    "title": "nasa/RHEAS",
+    "url": "https://github.com/nasa/RHEAS"
+   }
+  },
+  {
+   "key": "nasa/DERT",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2019-02-06T00:50:48Z",
+    "description": "DERT is an open source software tool for exploring NASA's digital terrain models in 3D",
+    "stars": "150",
+    "text": "nasa/DERT",
+    "title": "nasa/DERT",
+    "url": "https://github.com/nasa/DERT"
+   }
+  },
+  {
+   "key": "nasa/GTM_DesignSim",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2019-08-22T14:43:16Z",
+    "stars": "82",
+    "text": "nasa/GTM_DesignSim",
+    "title": "nasa/GTM_DesignSim",
+    "url": "https://github.com/nasa/GTM_DesignSim"
+   }
+  },
+  {
+   "key": "nasa/apod-api",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2026-05-19T22:11:35Z",
+    "description": "Astronomy Picture of the Day API service",
+    "stars": "1052",
+    "text": "nasa/apod-api",
+    "title": "nasa/apod-api",
+    "url": "https://github.com/nasa/apod-api"
+   }
+  },
+  {
+   "key": "nasa/NASTRAN-95",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2024-04-27T16:29:48Z",
+    "stars": "578",
+    "text": "nasa/NASTRAN-95",
+    "title": "nasa/NASTRAN-95",
+    "url": "https://github.com/nasa/NASTRAN-95"
+   }
+  },
+  {
+   "key": "nasa/RtRetrievalFramework",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2025-01-07T16:12:42Z",
+    "stars": "55",
+    "text": "nasa/RtRetrievalFramework",
+    "title": "nasa/RtRetrievalFramework",
+    "url": "https://github.com/nasa/RtRetrievalFramework"
+   }
+  },
+  {
+   "key": "nasa/WinSURE",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2016-01-20T17:49:29Z",
+    "stars": "18",
+    "text": "nasa/WinSURE",
+    "title": "nasa/WinSURE",
+    "url": "https://github.com/nasa/WinSURE"
+   }
+  },
+  {
+   "key": "nasa/WinASSIST",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2016-01-21T12:55:37Z",
+    "stars": "10",
+    "text": "nasa/WinASSIST",
+    "title": "nasa/WinASSIST",
+    "url": "https://github.com/nasa/WinASSIST"
+   }
+  },
+  {
+   "key": "nasa/RtRetrievalFrameworkDoc",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2017-02-27T22:37:50Z",
+    "stars": "4",
+    "text": "nasa/RtRetrievalFrameworkDoc",
+    "title": "nasa/RtRetrievalFrameworkDoc",
+    "url": "https://github.com/nasa/RtRetrievalFrameworkDoc"
+   }
+  },
+  {
+   "key": "nasa/nasa-latex-docs",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2026-03-31T21:15:45Z",
+    "description": "An easy and convenient package to create technical LaTeX documents.",
+    "stars": "268",
+    "text": "nasa/nasa-latex-docs",
+    "title": "nasa/nasa-latex-docs",
+    "url": "https://github.com/nasa/nasa-latex-docs"
+   }
+  },
+  {
+   "key": "nasa/isle",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2021-05-06T22:09:35Z",
+    "stars": "216",
+    "text": "nasa/isle",
+    "title": "nasa/isle",
+    "url": "https://github.com/nasa/isle"
+   }
+  },
+  {
+   "key": "nasa/QuIP",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2020-01-31T06:13:03Z",
+    "description": "QuIP provides an interactive environment for computing and presenting images and image sequences, manipulating and storing arbitrary data, and general scientific computing and plotting.  The current release supports unix-like operating systems (tested on Linux and Mac OSX), and Apple's iOS mobile operating system.  GPU acceleration is supported with either CUDA or OpenCL.  There is built-in support for psychophysical experimentation, with general-purpose staircase routines and analysis of psychometric functions.",
+    "stars": "131",
+    "text": "nasa/QuIP",
+    "title": "nasa/QuIP",
+    "url": "https://github.com/nasa/QuIP"
+   }
+  },
+  {
+   "key": "nasa/channel-emulator",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2023-12-18T11:47:40Z",
+    "stars": "76",
+    "text": "nasa/channel-emulator",
+    "title": "nasa/channel-emulator",
+    "url": "https://github.com/nasa/channel-emulator"
+   }
+  },
+  {
+   "key": "nasa/IDF",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2026-05-05T21:25:30Z",
+    "stars": "89",
+    "text": "nasa/IDF",
+    "title": "nasa/IDF",
+    "url": "https://github.com/nasa/IDF"
+   }
+  },
+  {
+   "key": "nasa/CompDam_DGD",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2023-06-26T12:05:25Z",
+    "stars": "157",
+    "text": "nasa/CompDam_DGD",
+    "title": "nasa/CompDam_DGD",
+    "url": "https://github.com/nasa/CompDam_DGD"
+   }
+  },
+  {
+   "key": "nasa/Open-Gov-Plan-v4",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2016-08-18T20:46:08Z",
+    "stars": "7",
+    "text": "nasa/Open-Gov-Plan-v4",
+    "title": "nasa/Open-Gov-Plan-v4",
+    "url": "https://github.com/nasa/Open-Gov-Plan-v4"
+   }
+  },
+  {
+   "key": "nasa/cumulus-api",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2026-04-15T13:25:27Z",
+    "description": "Cumulus API Documentation",
+    "stars": "16",
+    "text": "nasa/cumulus-api",
+    "title": "nasa/cumulus-api",
+    "url": "https://github.com/nasa/cumulus-api"
+   }
+  },
+  {
+   "key": "nasa/PrognosticsModelLibrary",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2020-10-15T21:52:35Z",
+    "stars": "94",
+    "text": "nasa/PrognosticsModelLibrary",
+    "title": "nasa/PrognosticsModelLibrary",
+    "url": "https://github.com/nasa/PrognosticsModelLibrary"
+   }
+  },
+  {
+   "key": "nasa/PrognosticsAlgorithmLibrary",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2020-10-15T21:56:59Z",
+    "stars": "123",
+    "text": "nasa/PrognosticsAlgorithmLibrary",
+    "title": "nasa/PrognosticsAlgorithmLibrary",
+    "url": "https://github.com/nasa/PrognosticsAlgorithmLibrary"
+   }
+  },
+  {
+   "key": "nasa/MINX",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2019-07-22T22:13:30Z",
+    "description": "MISR INteractive eXplorer",
+    "stars": "13",
+    "text": "nasa/MINX",
+    "title": "nasa/MINX",
+    "url": "https://github.com/nasa/MINX"
+   }
+  },
+  {
+   "key": "nasa/MISR-Toolkit",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2020-06-20T08:47:03Z",
+    "description": "an API facilitating the access of MISR standard product files",
+    "stars": "22",
+    "text": "nasa/MISR-Toolkit",
+    "title": "nasa/MISR-Toolkit",
+    "url": "https://github.com/nasa/MISR-Toolkit"
+   }
+  },
+  {
+   "key": "nasa/icarous",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2023-04-12T05:33:30Z",
+    "description": "ICAROUS  is a software architecture for the development of UAS applications",
+    "stars": "176",
+    "text": "nasa/icarous",
+    "title": "nasa/icarous",
+    "url": "https://github.com/nasa/icarous"
+   }
+  },
+  {
+   "key": "nasa/cumulus-process-py",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2026-06-10T19:33:20Z",
+    "description": "Python utilities library for Cumulus",
+    "stars": "7",
+    "text": "nasa/cumulus-process-py",
+    "title": "nasa/cumulus-process-py",
+    "url": "https://github.com/nasa/cumulus-process-py"
+   }
+  },
+  {
+   "key": "nasa/PolyCARP",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2020-11-30T18:16:19Z",
+    "stars": "39",
+    "text": "nasa/PolyCARP",
+    "title": "nasa/PolyCARP",
+    "url": "https://github.com/nasa/PolyCARP"
+   }
+  },
+  {
+   "key": "nasa/abaverify",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2019-08-01T13:29:18Z",
+    "stars": "36",
+    "text": "nasa/abaverify",
+    "title": "nasa/abaverify",
+    "url": "https://github.com/nasa/abaverify"
+   }
+  },
+  {
+   "key": "nasa/sitepod",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2022-01-03T02:20:23Z",
+    "description": "A Sitemap Generator written in PHP",
+    "stars": "26",
+    "text": "nasa/sitepod",
+    "title": "nasa/sitepod",
+    "url": "https://github.com/nasa/sitepod"
+   }
+  },
+  {
+   "key": "nasa/SROMPy",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2023-06-09T14:44:13Z",
+    "description": "Python module to generate stochastic reduced order models (SROMs)",
+    "stars": "47",
+    "text": "nasa/SROMPy",
+    "title": "nasa/SROMPy",
+    "url": "https://github.com/nasa/SROMPy"
+   }
+  },
+  {
+   "key": "nasa/Common-Metadata-Repository",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2026-06-10T20:57:22Z",
+    "stars": "387",
+    "text": "nasa/Common-Metadata-Repository",
+    "title": "nasa/Common-Metadata-Repository",
+    "url": "https://github.com/nasa/Common-Metadata-Repository"
+   }
+  },
+  {
+   "key": "nasa/TrickFMI",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2024-07-16T18:28:22Z",
+    "description": "A Functional Mockup Interface (FMI) Standard Implementation for Trick Base Models and Simulations",
+    "stars": "23",
+    "text": "nasa/TrickFMI",
+    "title": "nasa/TrickFMI",
+    "url": "https://github.com/nasa/TrickFMI"
+   }
+  },
+  {
+   "key": "nasa/GSAP",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2023-02-21T20:34:02Z",
+    "description": "Generic Software Architecture for Prognostics (GSAP)",
+    "stars": "28",
+    "text": "nasa/GSAP",
+    "title": "nasa/GSAP",
+    "url": "https://github.com/nasa/GSAP"
+   }
+  },
+  {
+   "key": "nasa/CCDD",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2024-12-19T20:21:50Z",
+    "description": "CFS Command and Data Dictionary Tool (CCDDT)",
+    "stars": "92",
+    "text": "nasa/CCDD",
+    "title": "nasa/CCDD",
+    "url": "https://github.com/nasa/CCDD"
+   }
+  },
+  {
+   "key": "nasa/cumulus-dashboard",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2026-05-13T15:55:07Z",
+    "description": "Cumulus API Dashboard",
+    "stars": "69",
+    "text": "nasa/cumulus-dashboard",
+    "title": "nasa/cumulus-dashboard",
+    "url": "https://github.com/nasa/cumulus-dashboard"
+   }
+  },
+  {
+   "key": "nasa/PRECiSA",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2025-12-08T18:01:43Z",
+    "description": "Program Round-off Error Certifier via Static Analysis",
+    "stars": "57",
+    "text": "nasa/PRECiSA",
+    "title": "nasa/PRECiSA",
+    "url": "https://github.com/nasa/PRECiSA"
+   }
+  },
+  {
+   "key": "nasa/openmct-tutorial",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2025-06-02T14:47:37Z",
+    "description": "A tutorial for OpenMCT that guides you through integrating historical and realtime telemetry.",
+    "stars": "278",
+    "text": "nasa/openmct-tutorial",
+    "title": "nasa/openmct-tutorial",
+    "url": "https://github.com/nasa/openmct-tutorial"
+   }
+  },
+  {
+   "key": "nasa/MAV",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2017-03-04T02:44:00Z",
+    "stars": "13",
+    "text": "nasa/MAV",
+    "title": "nasa/MAV",
+    "url": "https://github.com/nasa/MAV"
+   }
+  },
+  {
+   "key": "nasa/mmt",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2026-06-08T18:33:39Z",
+    "description": "NASA's Metadata Management Tool.",
+    "stars": "103",
+    "text": "nasa/mmt",
+    "title": "nasa/mmt",
+    "url": "https://github.com/nasa/mmt"
+   }
+  },
+  {
+   "key": "nasa/MultiDop",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2020-05-29T12:20:59Z",
+    "description": "Multiple-Doppler Radar Analysis Toolkit (MultiDop)",
+    "stars": "42",
+    "text": "nasa/MultiDop",
+    "title": "nasa/MultiDop",
+    "url": "https://github.com/nasa/MultiDop"
+   }
+  },
+  {
+   "key": "nasa/openmct-demo",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2020-05-21T16:53:06Z",
+    "description": "An interactive demo of the Open MCT mission control software",
+    "stars": "34",
+    "text": "nasa/openmct-demo",
+    "title": "nasa/openmct-demo",
+    "url": "https://github.com/nasa/openmct-demo"
+   }
+  },
+  {
+   "key": "nasa/content-guide",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2025-03-03T14:25:31Z",
+    "description": "NASA GRC's Content Guide",
+    "stars": "4",
+    "text": "nasa/content-guide",
+    "title": "nasa/content-guide",
+    "url": "https://github.com/nasa/content-guide"
+   }
+  },
+  {
+   "key": "nasa/kepler-robovetter",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2019-03-12T02:23:03Z",
+    "stars": "32",
+    "text": "nasa/kepler-robovetter",
+    "title": "nasa/kepler-robovetter",
+    "url": "https://github.com/nasa/kepler-robovetter"
+   }
+  },
+  {
+   "key": "nasa/KeplerPORTs",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2017-07-25T13:54:53Z",
+    "stars": "18",
+    "text": "nasa/KeplerPORTs",
+    "title": "nasa/KeplerPORTs",
+    "url": "https://github.com/nasa/KeplerPORTs"
+   }
+  },
+  {
+   "key": "nasa/Kepler-FLTI",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2020-03-30T19:47:07Z",
+    "stars": "7",
+    "text": "nasa/Kepler-FLTI",
+    "title": "nasa/Kepler-FLTI",
+    "url": "https://github.com/nasa/Kepler-FLTI"
    }
   },
   {
@@ -4118,7 +6361,7 @@
    "key": "ngageoint/hootenanny",
    "source": "oss-ngageoint",
    "fields": {
-    "date": "2026-06-10T13:42:06Z",
+    "date": "2026-06-11T12:58:59Z",
     "description": "Hootenanny conflates multiple maps into a single seamless map.",
     "stars": "383",
     "text": "ngageoint/hootenanny",
@@ -6043,7 +8286,7 @@
    "key": "nsacyber/paccor",
    "source": "oss-nsacyber",
    "fields": {
-    "date": "2026-06-02T12:31:01Z",
+    "date": "2026-06-11T13:58:21Z",
     "description": "The Platform Attribute Certificate Creator can gather component details, create, sign, and validate the TCG-defined Platform Credential. #nsacyber",
     "stars": "76",
     "text": "nsacyber/paccor",
@@ -6272,7 +8515,7 @@
    "fields": {
     "date": "2024-09-09T16:47:02Z",
     "description": "Portals is a low-level network API for high-performance networking on high-performance computing systems developed by Sandia National Laboratories, Intel Corporation, and the University of New Mexico.  The Portals 4 Reference Implementation is a complete implementation of Portals 4, with transport over InfiniBand VERBS and UDP. Shared memory transport is available as an optimization, including Linux KNEM support. The Portals 4 reference implementation is supported on both modern 64 bit Linux and 64 bit Mac OS X. The reference implementation has been developed by Sandia National Laboratories, Intel Corporation, and System Fabric Works.  For more information on the Portals 4 standard, please see the Portals 4 page. ",
-    "stars": "40",
+    "stars": "39",
     "text": "sandialabs/portals4",
     "title": "sandialabs/portals4",
     "url": "https://github.com/sandialabs/portals4"
@@ -6306,7 +8549,7 @@
    "key": "sandialabs/pyGSTi",
    "source": "oss-sandialabs",
    "fields": {
-    "date": "2026-06-11T02:32:58Z",
+    "date": "2026-06-11T05:35:34Z",
     "description": "A python implementation of Gate Set Tomography",
     "stars": "182",
     "text": "sandialabs/pyGSTi",
@@ -6463,7 +8706,7 @@
    "fields": {
     "date": "2026-04-10T19:30:46Z",
     "description": "Python package for sensor placement optimization",
-    "stars": "77",
+    "stars": "78",
     "text": "sandialabs/chama",
     "title": "sandialabs/chama",
     "url": "https://github.com/sandialabs/chama"
@@ -7540,7 +9783,7 @@
    "fields": {
     "date": "2025-08-15T14:27:06Z",
     "description": "The CHiMaD Phase Field Community Website",
-    "stars": "66",
+    "stars": "67",
     "text": "usnistgov/pfhub",
     "title": "usnistgov/pfhub",
     "url": "https://github.com/usnistgov/pfhub"

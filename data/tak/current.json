@@ -1,7 +1,7 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-06-11T04:50:47Z",
+ "fetched_at": "2026-06-11T13:59:55Z",
  "schema_version": 1,
  "records": [
   {
@@ -32,7 +32,7 @@
    "key": "engindearing-projects/OmniTAK-iOS",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-06-11T00:26:03Z",
+    "date": "2026-06-11T06:28:13Z",
     "description": "Open-source TAK (Team Awareness Kit) client for iPhone and iPad. Swift + SwiftUI. Apache 2.0.",
     "stars": "5",
     "text": "engindearing-projects/OmniTAK-iOS",
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-06-10T19:41:57Z",
+    "date": "2026-06-11T13:52:43Z",
     "description": "full port of Reticulum and LXMF to Rust with added SDK",
     "stars": "18",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -754,6 +754,18 @@
    }
   },
   {
+   "key": "kd2var/aprsdroid-atak-plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-06-11T05:34:02Z",
+    "description": "ATAK Plugin that pulls position data from APRSdroid into ATAK",
+    "stars": "0",
+    "text": "kd2var/aprsdroid-atak-plugin",
+    "title": "kd2var/aprsdroid-atak-plugin",
+    "url": "https://github.com/kd2var/aprsdroid-atak-plugin"
+   }
+  },
+  {
    "key": "engindearing-projects/tak-live-traffic-guide",
    "source": "tak-github",
    "fields": {
@@ -778,18 +790,6 @@
    }
   },
   {
-   "key": "kd2var/aprsdroid-atak-plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-06-10T05:19:17Z",
-    "description": "ATAK Plugin that pulls position data from APRSdroid into ATAK",
-    "stars": "0",
-    "text": "kd2var/aprsdroid-atak-plugin",
-    "title": "kd2var/aprsdroid-atak-plugin",
-    "url": "https://github.com/kd2var/aprsdroid-atak-plugin"
-   }
-  },
-  {
    "key": "jpat-12/ATAK-Plugin_EFJohnson",
    "source": "tak-github",
    "fields": {
@@ -806,7 +806,7 @@
    "fields": {
     "date": "2026-06-09T16:44:09Z",
     "description": "ATAK Plugin to grab RSSI values from local Access Points and try to guess where they are.",
-    "stars": "24",
+    "stars": "27",
     "text": "niccellular/wifi2cot",
     "title": "niccellular/wifi2cot",
     "url": "https://github.com/niccellular/wifi2cot"

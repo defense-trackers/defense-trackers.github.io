@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tracker — Defense Trackers</title>
+<meta name="color-scheme" content="dark light">
+<meta property="og:title" content="Defense Trackers">
+<meta property="og:description" content="Open, verifiable defense-ecosystem trackers — append-only, hash-chained, honest freshness.">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3Ccircle%20cx='16'%20cy='16'%20r='13'%20fill='none'%20stroke='%235eb1ff'%20stroke-width='2'/%3E%3Ccircle%20cx='16'%20cy='16'%20r='4'%20fill='%2335d07f'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="/assets/style.css">
+</head>
+<body class="t-page">
+<header class="masthead">
+  <div class="wrap">
+    <div class="sysbar">
+      <a class="brand" href="/" aria-label="Defense Trackers home">
+        <svg class="mark" viewBox="0 0 32 32" width="26" height="26" aria-hidden="true">
+          <circle cx="16" cy="16" r="13" fill="none" stroke="currentColor" stroke-width="1.3" opacity=".45"/>
+          <circle cx="16" cy="16" r="7.5" fill="none" stroke="currentColor" stroke-width="1.3" opacity=".75"/>
+          <line class="sweep" x1="16" y1="16" x2="16" y2="3.5" stroke="currentColor" stroke-width="1.3"/>
+          <circle cx="16" cy="16" r="2.3" fill="currentColor"/>
+          <path d="M16 1V5 M16 27V31 M1 16H5 M27 16H31" stroke="currentColor" stroke-width="1.3"/>
+        </svg>
+        <span class="wordmark">Defense Trackers</span>
+      </a>
+      <nav class="nav">
+        <a href="/methodology.html">Methodology</a>
+        <a href="https://github.com/defense-trackers">Source</a>
+        <span class="clock" id="clock" title="current UTC">—</span>
+      </nav>
+    </div>
+
+    <p class="crumb"><a href="/">← all trackers</a></p>
+    <div class="detail-head">
+      <h1 id="t-name">—</h1>
+      <span id="t-badge"></span>
+    </div>
+    <p class="t-desc" id="t-desc"></p>
+    <p class="detail-msg" id="t-message"></p>
+    <div class="chips">
+      <a class="chip" id="t-rss" href="#">RSS feed</a>
+      <a class="chip" id="t-json" href="#">current.json</a>
+      <a class="chip" href="/methodology.html">Methodology</a>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <section>
+    <h2>Current data <span class="mono dim" id="rec-count"></span></h2>
+    <input id="filter" class="filter-box" type="search" placeholder="Filter rows across all sources…" aria-label="Filter rows">
+    <div id="records"></div>
+  </section>
+
+  <section>
+    <details class="changelog">
+      <summary>
+        <span class="cl-title">Changelog</span>
+        <span class="cl-hint mono dim">append-only · hash-chained · tamper-evident</span>
+      </summary>
+      <ol id="events" class="events"></ol>
+    </details>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <p>Sample size, sources, cadence, and what this tracker deliberately does <em>not</em> cover are described in the <a href="/methodology.html">methodology</a>. <span class="mono">data/&lt;tracker&gt;/current.json</span> and <span class="mono">events/*.jsonl</span> are the API.</p>
+  </div>
+</footer>
+
+<script type="module">
+import { renderTracker } from '/assets/app.js';
+// slug from ?t= (legacy) or the clean path /<slug>/
+const q = new URLSearchParams(location.search).get('t');
+const seg = location.pathname.split('/').filter(Boolean).pop() || '';
+const slug = q || (seg && seg !== 'tracker.html' ? seg.replace(/\.html$/, '') : '');
+renderTracker(slug);
+</script>
+</body>
+</html>

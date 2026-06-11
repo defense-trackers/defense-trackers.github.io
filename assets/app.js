@@ -253,6 +253,7 @@ const TRACKER_DESC = {
   transition: 'The largest recent DoD contract awards — the production-dollar signal (rolling 1-year window).',
   deadlines: 'Defense innovation deadlines and events, as a calendar (with iCal feed).',
   'research-funding': 'Federal AI research funding — NSF and NIH grant awards advancing artificial intelligence.',
+  'ai-spending': 'Who is winning DoD AI dollars — top recipients and recent AI contract awards.',
 };
 
 function pretty(k) { return k.replace(/_/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase()); }

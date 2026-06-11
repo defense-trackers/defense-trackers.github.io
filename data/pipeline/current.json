@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-06-11T04:50:29Z",
+ "fetched_at": "2026-06-11T13:59:29Z",
  "schema_version": 1,
  "records": [
   {
@@ -1547,6 +1547,18 @@
     "posted": "06/01/2026",
     "text": "EnglishxSTEM",
     "title": "EnglishxSTEM"
+   }
+  },
+  {
+   "key": "362758",
+   "source": "pipeline-grants",
+   "fields": {
+    "agency": "U.S. Mission to the Dominican Republic",
+    "closes": "07/10/2026",
+    "number": "S-DR860-26-NOFO-0003",
+    "posted": "06/11/2026",
+    "text": "U.S.-D.R. Technology and Science Fair",
+    "title": "U.S.-D.R. Technology and Science Fair"
    }
   },
   {
@@ -3477,18 +3489,6 @@
     "posted": "06/03/2026",
     "text": "State Border Security Reinforcement Fund",
     "title": "State Border Security Reinforcement Fund"
-   }
-  },
-  {
-   "key": "362122",
-   "source": "pipeline-grants",
-   "fields": {
-    "agency": "Bureau Of Educational and Cultural Affairs",
-    "closes": "06/29/2026",
-    "number": "DFOP0018215",
-    "posted": "04/29/2026",
-    "text": "FY 2027 Fulbright Specialist Program",
-    "title": "FY 2027 Fulbright Specialist Program"
    }
   }
  ]
