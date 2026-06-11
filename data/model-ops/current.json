@@ -1,7 +1,7 @@
 {
  "source": "model-ops",
  "tracker": "model-ops",
- "fetched_at": "2026-06-11T14:01:08Z",
+ "fetched_at": "2026-06-11T14:46:24Z",
  "schema_version": 1,
  "records": [
   {
@@ -140,7 +140,7 @@
    "fields": {
     "date": "2025-08-04T22:33:06.000Z",
     "downloads": "3924278",
-    "likes": "4872",
+    "likes": "4873",
     "tags": "transformers, safetensors, gpt_oss, text-generation, vllm, conversational, arxiv:2508.10925, license:apache-2.0, eval-results, endpoints_compatible, 8-bit, mxfp4, deploy:azure, region:us",
     "text": "openai/gpt-oss-120b",
     "title": "openai/gpt-oss-120b"
@@ -659,6 +659,16 @@
    }
   },
   {
+   "key": "v0.1.dev0",
+   "source": "model-ops-mlc",
+   "fields": {
+    "date": "2023-04-29T03:31:41Z",
+    "text": "v0.1.dev0",
+    "title": "v0.1.dev0",
+    "url": "https://github.com/mlc-ai/mlc-llm/releases/tag/v0.1.dev0"
+   }
+  },
+  {
    "key": "v0.30.7",
    "source": "model-ops-ollama",
    "fields": {
@@ -816,6 +826,166 @@
     "text": "v0.5.8",
     "title": "v0.5.8",
     "url": "https://github.com/sgl-project/sglang/releases/tag/v0.5.8"
+   }
+  },
+  {
+   "key": "v1.3.0rc18",
+   "source": "model-ops-tensorrt",
+   "fields": {
+    "date": "2026-06-10T00:10:37Z",
+    "text": "v1.3.0rc18",
+    "title": "v1.3.0rc18",
+    "url": "https://github.com/NVIDIA/TensorRT-LLM/releases/tag/v1.3.0rc18"
+   }
+  },
+  {
+   "key": "v1.3.0rc17",
+   "source": "model-ops-tensorrt",
+   "fields": {
+    "date": "2026-06-02T18:50:51Z",
+    "text": "v1.3.0rc17",
+    "title": "v1.3.0rc17",
+    "url": "https://github.com/NVIDIA/TensorRT-LLM/releases/tag/v1.3.0rc17"
+   }
+  },
+  {
+   "key": "v1.3.0rc16",
+   "source": "model-ops-tensorrt",
+   "fields": {
+    "date": "2026-05-26T08:08:12Z",
+    "text": "v1.3.0rc16",
+    "title": "v1.3.0rc16",
+    "url": "https://github.com/NVIDIA/TensorRT-LLM/releases/tag/v1.3.0rc16"
+   }
+  },
+  {
+   "key": "v1.3.0rc15",
+   "source": "model-ops-tensorrt",
+   "fields": {
+    "date": "2026-05-21T14:27:58Z",
+    "text": "v1.3.0rc15",
+    "title": "v1.3.0rc15",
+    "url": "https://github.com/NVIDIA/TensorRT-LLM/releases/tag/v1.3.0rc15"
+   }
+  },
+  {
+   "key": "v1.3.0rc14",
+   "source": "model-ops-tensorrt",
+   "fields": {
+    "date": "2026-05-07T05:55:19Z",
+    "text": "v1.3.0rc14",
+    "title": "v1.3.0rc14",
+    "url": "https://github.com/NVIDIA/TensorRT-LLM/releases/tag/v1.3.0rc14"
+   }
+  },
+  {
+   "key": "v1.3.0rc13",
+   "source": "model-ops-tensorrt",
+   "fields": {
+    "date": "2026-04-29T05:47:54Z",
+    "text": "v1.3.0rc13",
+    "title": "v1.3.0rc13",
+    "url": "https://github.com/NVIDIA/TensorRT-LLM/releases/tag/v1.3.0rc13"
+   }
+  },
+  {
+   "key": "v1.3.0rc12",
+   "source": "model-ops-tensorrt",
+   "fields": {
+    "date": "2026-04-17T15:49:42Z",
+    "text": "v1.3.0rc12",
+    "title": "v1.3.0rc12",
+    "url": "https://github.com/NVIDIA/TensorRT-LLM/releases/tag/v1.3.0rc12"
+   }
+  },
+  {
+   "key": "v1.2.1",
+   "source": "model-ops-tensorrt",
+   "fields": {
+    "date": "2026-04-20T11:51:33Z",
+    "text": "v1.2.1",
+    "title": "v1.2.1",
+    "url": "https://github.com/NVIDIA/TensorRT-LLM/releases/tag/v1.2.1"
+   }
+  },
+  {
+   "key": "v3.3.7",
+   "source": "model-ops-tgi",
+   "fields": {
+    "date": "2025-12-19T14:35:25Z",
+    "text": "v3.3.7",
+    "title": "v3.3.7",
+    "url": "https://github.com/huggingface/text-generation-inference/releases/tag/v3.3.7"
+   }
+  },
+  {
+   "key": "v3.3.6",
+   "source": "model-ops-tgi",
+   "fields": {
+    "date": "2025-09-17T00:48:54Z",
+    "text": "v3.3.6",
+    "title": "v3.3.6",
+    "url": "https://github.com/huggingface/text-generation-inference/releases/tag/v3.3.6"
+   }
+  },
+  {
+   "key": "v3.3.5",
+   "source": "model-ops-tgi",
+   "fields": {
+    "date": "2025-09-02T15:02:33Z",
+    "text": "v3.3.5",
+    "title": "v3.3.5",
+    "url": "https://github.com/huggingface/text-generation-inference/releases/tag/v3.3.5"
+   }
+  },
+  {
+   "key": "v3.3.4",
+   "source": "model-ops-tgi",
+   "fields": {
+    "date": "2025-06-19T10:00:28Z",
+    "text": "v3.3.4",
+    "title": "v3.3.4",
+    "url": "https://github.com/huggingface/text-generation-inference/releases/tag/v3.3.4"
+   }
+  },
+  {
+   "key": "v3.3.3",
+   "source": "model-ops-tgi",
+   "fields": {
+    "date": "2025-06-18T13:11:39Z",
+    "text": "v3.3.3",
+    "title": "v3.3.3",
+    "url": "https://github.com/huggingface/text-generation-inference/releases/tag/v3.3.3"
+   }
+  },
+  {
+   "key": "v3.3.2",
+   "source": "model-ops-tgi",
+   "fields": {
+    "date": "2025-05-30T14:20:39Z",
+    "text": "v3.3.2",
+    "title": "v3.3.2",
+    "url": "https://github.com/huggingface/text-generation-inference/releases/tag/v3.3.2"
+   }
+  },
+  {
+   "key": "v3.3.1",
+   "source": "model-ops-tgi",
+   "fields": {
+    "date": "2025-05-22T07:49:07Z",
+    "text": "v3.3.1",
+    "title": "v3.3.1",
+    "url": "https://github.com/huggingface/text-generation-inference/releases/tag/v3.3.1"
+   }
+  },
+  {
+   "key": "v3.3.0",
+   "source": "model-ops-tgi",
+   "fields": {
+    "date": "2025-05-09T13:57:39Z",
+    "text": "v3.3.0",
+    "title": "v3.3.0",
+    "url": "https://github.com/huggingface/text-generation-inference/releases/tag/v3.3.0"
    }
   },
   {

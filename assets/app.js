@@ -266,6 +266,34 @@ function fmtVal(k, v) {
   return v;
 }
 
+function abbrNum(n) {
+  if (n >= 1e12) return (n / 1e12).toFixed(1) + 'T';
+  if (n >= 1e9) return (n / 1e9).toFixed(1) + 'B';
+  if (n >= 1e6) return (n / 1e6).toFixed(1) + 'M';
+  if (n >= 1e3) return (n / 1e3).toFixed(0) + 'K';
+  return String(Math.round(n));
+}
+
+function downloadCSV(table, filename) {
+  const lines = [];
+  table.querySelectorAll('tr').forEach((tr) => {
+    const cells = [...tr.children].map((td) => {
+      let s = td.textContent.replace(/\s+/g, ' ').trim();
+      if (/[",\n]/.test(s)) s = '"' + s.replace(/"/g, '""') + '"';
+      return s;
+    });
+    lines.push(cells.join(','));
+  });
+  const blob = new Blob([lines.join('\n')], { type: 'text/csv' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = filename;
+  document.body.appendChild(a);
+  a.click();
+  a.remove();
+  URL.revokeObjectURL(a.href);
+}
+
 function renderReports(t, recs) {
   const box = $('records');
   box.textContent = '';
@@ -287,20 +315,39 @@ function renderReports(t, recs) {
     const card = document.createElement('section');
     card.className = 'report';
 
+    const table = buildTable(rows.slice(0, ROW_CAP));
+
     const h = document.createElement('h3');
     h.className = 'report-head';
     const label = src.startsWith(t + '-') ? src.slice(t.length + 1) : src;
     const name = document.createElement('span');
     name.className = 'report-src';
     name.textContent = label;
+    h.append(name);
+
+    const amtKey = Object.keys((rows[0] || {}).fields || {}).find((k) => /amount/i.test(k));
+    if (amtKey) {
+      let sum = 0;
+      for (const r of rows) { const v = parseFloat(String(r.fields[amtKey] || '').replace(/[^0-9.-]/g, '')); if (!isNaN(v)) sum += v; }
+      if (sum > 0) { const tot = document.createElement('span'); tot.className = 'report-total'; tot.textContent = 'Σ $' + abbrNum(sum); h.append(tot); }
+    }
+
     const cnt = document.createElement('span');
     cnt.className = 'mono dim report-count';
     cnt.textContent = rows.length + (rows.length === 1 ? ' record' : ' records');
-    h.append(name, cnt);
+    h.append(cnt);
+
+    const csv = document.createElement('button');
+    csv.type = 'button';
+    csv.className = 'csv-btn';
+    csv.textContent = 'CSV';
+    csv.title = 'Download this table as CSV';
+    csv.addEventListener('click', () => downloadCSV(table, `${t}-${label}.csv`));
+    h.append(csv);
 
     const scroll = document.createElement('div');
     scroll.className = 'table-scroll';
-    scroll.append(buildTable(rows.slice(0, ROW_CAP)));
+    scroll.append(table);
 
     card.append(h, scroll);
     if (rows.length > ROW_CAP) {
@@ -327,6 +374,18 @@ function buildTable(rows) {
   const labelOf = (r) => { const f = r.fields || {}; return f.title || f.name || f.text || r.key; };
   // drop any column that just repeats the name (e.g. a curated key field)
   const cols = sorted.filter((c) => !rows.every((r) => ((r.fields || {})[c] || '') === labelOf(r)));
+
+  // per-column max for the inline magnitude bars on numeric columns
+  const maxByCol = {};
+  for (const c of cols) {
+    if (!NUM_RE.test(c)) continue;
+    let m = 0;
+    for (const r of rows) {
+      const v = parseFloat(String((r.fields || {})[c] || '').replace(/[^0-9.-]/g, ''));
+      if (!isNaN(v) && v > m) m = v;
+    }
+    maxByCol[c] = m;
+  }
 
   const table = document.createElement('table');
   table.className = 'report-table';
@@ -369,7 +428,15 @@ function buildTable(rows) {
       let out = (v !== undefined && v !== '') ? fmtVal(c, v) : '—';
       if (out.length > 160) out = out.slice(0, 158) + '…';
       td.textContent = out;
-      if (NUM_RE.test(c)) td.className = 'num';
+      if (NUM_RE.test(c)) {
+        td.className = 'num';
+        const v = parseFloat(out.replace(/[^0-9.-]/g, ''));
+        const m = maxByCol[c];
+        if (m > 0 && !isNaN(v) && v > 0) {
+          const pct = Math.max(3, Math.round((v / m) * 100));
+          td.style.background = `linear-gradient(to left, color-mix(in oklab, var(--brand) 20%, transparent) ${pct}%, transparent ${pct}%)`;
+        }
+      }
       tr.append(td);
     }
     tbody.append(tr);
@@ -414,7 +481,7 @@ function makeSortable(table) {
 function wireFilter() {
   const box = document.getElementById('filter');
   if (!box) return;
-  box.addEventListener('input', () => {
+  const apply = () => {
     const q = box.value.trim().toLowerCase();
     document.querySelectorAll('#records .report').forEach((card) => {
       let shown = 0;
@@ -425,7 +492,13 @@ function wireFilter() {
       });
       card.style.display = (q && shown === 0) ? 'none' : '';
     });
-  });
+    const u = new URL(location.href);
+    if (q) u.searchParams.set('q', box.value.trim()); else u.searchParams.delete('q');
+    history.replaceState(null, '', u);
+  };
+  box.addEventListener('input', apply);
+  const initial = new URLSearchParams(location.search).get('q'); // shareable filtered views
+  if (initial) { box.value = initial; apply(); }
 }
 
 // Live UTC clock in the system bar — cosmetic, reinforces the "honest about

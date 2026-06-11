@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-06-11T14:00:52Z",
+ "fetched_at": "2026-06-11T14:45:58Z",
  "schema_version": 1,
  "records": [
   {
@@ -1002,6 +1002,123 @@
     "amount": "2630333",
     "text": "PARSONS GOVERNMENT SERVICES INC.",
     "title": "PARSONS GOVERNMENT SERVICES INC."
+   }
+  },
+  {
+   "key": "Department of the Air Force",
+   "source": "ai-spending-subagency",
+   "fields": {
+    "amount": "2.8146630199e+08",
+    "text": "Department of the Air Force",
+    "title": "Department of the Air Force"
+   }
+  },
+  {
+   "key": "Department of the Army",
+   "source": "ai-spending-subagency",
+   "fields": {
+    "amount": "2.2284292399e+08",
+    "text": "Department of the Army",
+    "title": "Department of the Army"
+   }
+  },
+  {
+   "key": "Washington Headquarters Services",
+   "source": "ai-spending-subagency",
+   "fields": {
+    "amount": "5.554734516e+07",
+    "text": "Washington Headquarters Services",
+    "title": "Washington Headquarters Services"
+   }
+  },
+  {
+   "key": "Defense Advanced Research Projects Agency",
+   "source": "ai-spending-subagency",
+   "fields": {
+    "amount": "2.753220688e+07",
+    "text": "Defense Advanced Research Projects Agency",
+    "title": "Defense Advanced Research Projects Agency"
+   }
+  },
+  {
+   "key": "Defense Logistics Agency",
+   "source": "ai-spending-subagency",
+   "fields": {
+    "amount": "1.951432668e+07",
+    "text": "Defense Logistics Agency",
+    "title": "Defense Logistics Agency"
+   }
+  },
+  {
+   "key": "Missile Defense Agency",
+   "source": "ai-spending-subagency",
+   "fields": {
+    "amount": "1.88396465e+07",
+    "text": "Missile Defense Agency",
+    "title": "Missile Defense Agency"
+   }
+  },
+  {
+   "key": "Department of the Navy",
+   "source": "ai-spending-subagency",
+   "fields": {
+    "amount": "1.507518559e+07",
+    "text": "Department of the Navy",
+    "title": "Department of the Navy"
+   }
+  },
+  {
+   "key": "Defense Health Agency",
+   "source": "ai-spending-subagency",
+   "fields": {
+    "amount": "8.54130451e+06",
+    "text": "Defense Health Agency",
+    "title": "Defense Health Agency"
+   }
+  },
+  {
+   "key": "Defense Threat Reduction Agency",
+   "source": "ai-spending-subagency",
+   "fields": {
+    "amount": "2.58899883e+06",
+    "text": "Defense Threat Reduction Agency",
+    "title": "Defense Threat Reduction Agency"
+   }
+  },
+  {
+   "key": "Defense Information Systems Agency",
+   "source": "ai-spending-subagency",
+   "fields": {
+    "amount": "552178.59",
+    "text": "Defense Information Systems Agency",
+    "title": "Defense Information Systems Agency"
+   }
+  },
+  {
+   "key": "U.S. Special Operations Command",
+   "source": "ai-spending-subagency",
+   "fields": {
+    "amount": "369159.76",
+    "text": "U.S. Special Operations Command",
+    "title": "U.S. Special Operations Command"
+   }
+  },
+  {
+   "key": "Department of Defense Education Activity",
+   "source": "ai-spending-subagency",
+   "fields": {
+    "amount": "12543.98",
+    "text": "Department of Defense Education Activity",
+    "title": "Department of Defense Education Activity"
+   }
+  },
+  {
+   "key": "Defense Contract Management Agency",
+   "source": "ai-spending-subagency",
+   "fields": {
+    "amount": "-11847.22",
+    "text": "Defense Contract Management Agency",
+    "title": "Defense Contract Management Agency"
    }
   }
  ]
