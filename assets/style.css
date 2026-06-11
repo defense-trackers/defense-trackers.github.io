@@ -244,6 +244,22 @@ section + section { margin-top: 2.6rem; }
 .csv-btn { margin-left: .6rem; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: .68rem; padding: .2rem .55rem; border: 1px solid var(--line-2); border-radius: 6px; background: transparent; color: var(--ink-2); cursor: pointer; }
 .csv-btn:hover { border-color: var(--brand); color: var(--brand); }
 .report-more { margin: .65rem 0 0; font-size: .76rem; }
+
+/* tabbed source switcher */
+.report.hidden { display: none; }
+.tabbar { display: flex; flex-wrap: wrap; gap: .4rem; margin: 0 0 1rem; }
+.tab { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: .78rem; padding: .4rem .8rem; border: 1px solid var(--line-2); border-radius: 8px; background: var(--panel); color: var(--ink-2); cursor: pointer; }
+.tab:hover { color: var(--ink); }
+.tab.active { border-color: var(--brand); color: var(--brand); background: color-mix(in oklab, var(--brand) 12%, transparent); }
+
+/* summary bar chart */
+.barchart { margin: .2rem 0 1.1rem; display: flex; flex-direction: column; gap: .4rem; }
+.bc-row { display: flex; align-items: center; gap: .7rem; }
+.bc-label { flex: 0 0 24ch; max-width: 24ch; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-size: .82rem; }
+.bc-track { flex: 1; height: 16px; background: var(--panel-2); border-radius: 4px; overflow: hidden; }
+.bc-bar { display: block; height: 100%; background: color-mix(in oklab, var(--brand) 55%, transparent); border-radius: 4px; }
+.bc-val { flex: 0 0 auto; font-size: .8rem; color: var(--ink-2); white-space: nowrap; }
+@media (max-width: 640px) { .bc-label { flex-basis: 13ch; max-width: 13ch; } }
 .table-scroll { overflow-x: auto; }
 .report-table { border-collapse: collapse; width: 100%; font-size: .86rem; }
 .report-table th { text-align: left; font-weight: 600; font-size: .66rem; text-transform: uppercase; letter-spacing: .06em; color: var(--dim); border-bottom: 1px solid var(--line-2); padding: .45rem 1.1rem .45rem 0; white-space: nowrap; }

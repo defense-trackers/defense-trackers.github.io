@@ -492,20 +492,23 @@ function renderReports(t, recs) {
     box.append(p);
     return;
   }
-  for (const src of order) {
+  // Multi-source trackers get a tab switcher so the page shows one clean table
+  // at a time instead of a wall of stacked cards.
+  const tabbar = order.length > 1 ? document.createElement('div') : null;
+  if (tabbar) tabbar.className = 'tabbar';
+  const cards = [];
+
+  order.forEach((src, idx) => {
     const rows = groups[src];
     const card = document.createElement('section');
-    card.className = 'report';
+    card.className = 'report' + (tabbar && idx > 0 ? ' hidden' : '');
+    const label = src.startsWith(t + '-') ? src.slice(t.length + 1) : src;
 
     const table = buildTable(rows.slice(0, ROW_CAP));
 
     const h = document.createElement('h3');
     h.className = 'report-head';
-    const label = src.startsWith(t + '-') ? src.slice(t.length + 1) : src;
-    const name = document.createElement('span');
-    name.className = 'report-src';
-    name.textContent = label;
-    h.append(name);
+    const name = document.createElement('span'); name.className = 'report-src'; name.textContent = label; h.append(name);
 
     const amtKey = Object.keys((rows[0] || {}).fields || {}).find((k) => /amount/i.test(k));
     if (amtKey) {
@@ -513,33 +516,56 @@ function renderReports(t, recs) {
       for (const r of rows) { const v = parseFloat(String(r.fields[amtKey] || '').replace(/[^0-9.-]/g, '')); if (!isNaN(v)) sum += v; }
       if (sum > 0) { const tot = document.createElement('span'); tot.className = 'report-total'; tot.textContent = 'Σ $' + abbrNum(sum); h.append(tot); }
     }
+    const cnt = document.createElement('span'); cnt.className = 'mono dim report-count'; cnt.textContent = rows.length + (rows.length === 1 ? ' record' : ' records'); h.append(cnt);
+    const csv = document.createElement('button'); csv.type = 'button'; csv.className = 'csv-btn'; csv.textContent = 'CSV'; csv.title = 'Download this table as CSV'; csv.addEventListener('click', () => downloadCSV(table, `${t}-${label}.csv`)); h.append(csv);
 
-    const cnt = document.createElement('span');
-    cnt.className = 'mono dim report-count';
-    cnt.textContent = rows.length + (rows.length === 1 ? ' record' : ' records');
-    h.append(cnt);
-
-    const csv = document.createElement('button');
-    csv.type = 'button';
-    csv.className = 'csv-btn';
-    csv.textContent = 'CSV';
-    csv.title = 'Download this table as CSV';
-    csv.addEventListener('click', () => downloadCSV(table, `${t}-${label}.csv`));
-    h.append(csv);
-
-    const scroll = document.createElement('div');
-    scroll.className = 'table-scroll';
-    scroll.append(table);
-
-    card.append(h, scroll);
+    card.append(h);
+    if (amtKey) { const chart = buildChart(rows, amtKey); if (chart) card.append(chart); } // summary chart, then detail table
+    const scroll = document.createElement('div'); scroll.className = 'table-scroll'; scroll.append(table); card.append(scroll);
     if (rows.length > ROW_CAP) {
-      const more = document.createElement('p');
-      more.className = 'mono dim report-more';
-      more.textContent = `showing ${ROW_CAP} of ${rows.length} — full set in current.json`;
-      card.append(more);
+      const more = document.createElement('p'); more.className = 'mono dim report-more';
+      more.textContent = `showing ${ROW_CAP} of ${rows.length} — full set in current.json`; card.append(more);
     }
-    box.append(card);
+    cards.push(card);
+
+    if (tabbar) {
+      const b = document.createElement('button'); b.type = 'button'; b.className = 'tab' + (idx === 0 ? ' active' : '');
+      b.textContent = `${label} · ${rows.length}`;
+      b.addEventListener('click', () => {
+        tabbar.querySelectorAll('.tab').forEach((x) => x.classList.remove('active'));
+        b.classList.add('active');
+        cards.forEach((c, i) => c.classList.toggle('hidden', i !== idx));
+      });
+      tabbar.append(b);
+    }
+  });
+
+  if (tabbar) box.append(tabbar);
+  cards.forEach((c) => box.append(c));
+}
+
+// horizontal bar chart of the top values in an amount column (summary view)
+function buildChart(rows, amtKey) {
+  const data = rows
+    .map((r) => ({ label: r.fields.title || r.fields.text || '', v: parseFloat(String(r.fields[amtKey] || '').replace(/[^0-9.-]/g, '')) || 0, url: r.fields.url }))
+    .filter((x) => x.v > 0)
+    .sort((a, b) => b.v - a.v)
+    .slice(0, 10);
+  if (data.length < 2) return null;
+  const max = data[0].v;
+  const wrap = document.createElement('div');
+  wrap.className = 'barchart';
+  for (const d of data) {
+    const row = document.createElement('div'); row.className = 'bc-row';
+    const lab = document.createElement('span'); lab.className = 'bc-label'; lab.title = d.label;
+    if (d.url) { const a = document.createElement('a'); a.href = d.url; a.target = '_blank'; a.rel = 'noopener'; a.textContent = d.label; lab.append(a); } else lab.textContent = d.label;
+    const track = document.createElement('span'); track.className = 'bc-track';
+    const bar = document.createElement('span'); bar.className = 'bc-bar'; bar.style.width = Math.max(2, (d.v / max) * 100) + '%'; track.append(bar);
+    const val = document.createElement('span'); val.className = 'bc-val mono'; val.textContent = '$' + abbrNum(d.v);
+    row.append(lab, track, val);
+    wrap.append(row);
   }
+  return wrap;
 }
 
 function buildTable(rows) {
