@@ -1,7 +1,7 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-06-11T21:23:09Z",
+ "fetched_at": "2026-06-11T22:25:16Z",
  "schema_version": 1,
  "records": [
   {
@@ -859,7 +859,7 @@
    "fields": {
     "date": "2026-06-11T18:41:02Z",
     "description": "Cybersecurity Evaluation Tool",
-    "stars": "1835",
+    "stars": "1836",
     "text": "cisagov/cset",
     "title": "cisagov/cset",
     "url": "https://github.com/cisagov/cset"
@@ -1276,7 +1276,7 @@
    "key": "cisagov/kali-packer",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-06-11T20:23:02Z",
+    "date": "2026-06-11T22:06:57Z",
     "description": "This project can be used to create AMIs based on Kali Linux, a penetration testing distribution.",
     "stars": "21",
     "text": "cisagov/kali-packer",
@@ -1756,7 +1756,7 @@
    "key": "cisagov/teamserver-packer",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-06-11T20:21:12Z",
+    "date": "2026-06-11T21:25:52Z",
     "description": "Create an AMI with CobaltStrike and related tools.",
     "stars": "12",
     "text": "cisagov/teamserver-packer",
@@ -3164,7 +3164,7 @@
    "key": "idaholab/EMRALD",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-06-10T16:15:04Z",
+    "date": "2026-06-11T21:45:26Z",
     "description": "Event Modeling Risk Assessment using Linked Diagrams (EMRALD) is a software tool developed at INL for researching the capabilities of dynamic PRA (Probabilistic Risk Assessment). In order to promote the effective use of dynamic PRA by the general community, EMRALD focuses on the following key aspects: Simplifying the modeling process by providing a structure that corresponds to traditional PRA modeling methods Providing a user interface (UI) that makes it easy for the user to model and visualize complex interactions Allowing the user to couple with other analysis applications such as physics based simulations. This includes one-way communication for most applications and two-way loose coupling for customizable applications Providing the sequence and timing of events that lead to the specified outcomes when calculating results Traditional aspects of components with basic events, fault trees, and event trees are all captured in a dynamic framework of state diagrams, which are displayed ",
     "stars": "29",
     "text": "idaholab/EMRALD",
@@ -5771,7 +5771,7 @@
    "fields": {
     "date": "2026-06-08T16:57:32Z",
     "description": "Compressed numerical arrays that support high-speed random access",
-    "stars": "868",
+    "stars": "869",
     "text": "llnl/zfp",
     "title": "llnl/zfp",
     "url": "https://github.com/llnl/zfp"
@@ -6837,7 +6837,7 @@
    "key": "mitre/vulcan",
    "source": "oss-mitre",
    "fields": {
-    "date": "2026-06-11T21:20:23Z",
+    "date": "2026-06-11T22:18:44Z",
     "description": "A web application to streamline the development of STIGs from SRGs",
     "stars": "85",
     "text": "mitre/vulcan",
@@ -7443,7 +7443,7 @@
    "key": "nasa/trick",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-06-11T21:08:48Z",
+    "date": "2026-06-11T22:24:36Z",
     "description": "Trick Simulation Environment.  Trick provides a common set of simulation capabilities and utilities to build simulations automatically.",
     "stars": "149",
     "text": "nasa/trick",
@@ -11262,7 +11262,7 @@
    "key": "ORNL/flowcept",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-06-11T20:32:37Z",
+    "date": "2026-06-11T22:15:36Z",
     "description": "Runtime provenance for AI and scientific workflows—capture, enrich, and query workflow data via observability adapters and code annotation across edge, cloud, and HPC.",
     "stars": "27",
     "text": "ORNL/flowcept",
@@ -11943,7 +11943,7 @@
    "key": "sandialabs/Fenix",
    "source": "oss-sandialabs",
    "fields": {
-    "date": "2026-05-21T21:10:33Z",
+    "date": "2026-06-11T22:24:51Z",
     "description": "Fenix: A Portable, Flexible Fault Tolerance Programming Framework for MPI Applications",
     "stars": "15",
     "text": "sandialabs/Fenix",

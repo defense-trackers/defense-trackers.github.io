@@ -1,7 +1,7 @@
 {
  "source": "model-ops",
  "tracker": "model-ops",
- "fetched_at": "2026-06-11T21:22:26Z",
+ "fetched_at": "2026-06-11T22:24:28Z",
  "schema_version": 1,
  "records": [
   {
@@ -86,7 +86,7 @@
    "fields": {
     "date": "2024-07-18T08:56:00.000Z",
     "downloads": "9891622",
-    "likes": "6055",
+    "likes": "6056",
     "tags": "transformers, safetensors, llama, text-generation, facebook, meta, pytorch, llama-3, conversational, en, de, fr, it, pt, hi, es, th, arxiv:2204.05149, base_model:meta-llama/Llama-3.1-8B, base_model:finetune:meta-llama/Llama-3.1-8B, license:llama3.1, eval-results, text-generation-inference, endpoints_compatible, region:us",
     "text": "meta-llama/Llama-3.1-8B-Instruct",
     "title": "meta-llama/Llama-3.1-8B-Instruct",
@@ -125,7 +125,7 @@
    "fields": {
     "date": "2025-08-04T22:33:29.000Z",
     "downloads": "6652683",
-    "likes": "4700",
+    "likes": "4702",
     "tags": "transformers, safetensors, gpt_oss, text-generation, vllm, conversational, arxiv:2508.10925, license:apache-2.0, eval-results, endpoints_compatible, 8-bit, mxfp4, deploy:azure, region:us",
     "text": "openai/gpt-oss-20b",
     "title": "openai/gpt-oss-20b",
@@ -359,7 +359,7 @@
    "fields": {
     "date": "2024-10-31T13:41:10.000Z",
     "downloads": "1579470",
-    "likes": "343",
+    "likes": "344",
     "tags": "transformers, tensorboard, onnx, safetensors, llama, text-generation, transformers.js, conversational, en, arxiv:2502.02737, base_model:HuggingFaceTB/SmolLM2-135M, base_model:quantized:HuggingFaceTB/SmolLM2-135M, license:apache-2.0, text-generation-inference, endpoints_compatible, region:us",
     "text": "HuggingFaceTB/SmolLM2-135M-Instruct",
     "title": "HuggingFaceTB/SmolLM2-135M-Instruct",
@@ -528,7 +528,7 @@
    "fields": {
     "date": "2025-02-19T01:00:58.000Z",
     "downloads": "1194286",
-    "likes": "763",
+    "likes": "764",
     "tags": "transformers, safetensors, phi3, text-generation, nlp, code, conversational, custom_code, multilingual, ar, zh, cs, da, nl, en, fi, fr, de, he, hu, it, ja, ko, no, pl, pt, ru, es, sv, th, tr, uk, arxiv:2503.01743, license:mit, eval-results, text-generation-inference, endpoints_compatible, region:us",
     "text": "microsoft/Phi-4-mini-instruct",
     "title": "microsoft/Phi-4-mini-instruct",
