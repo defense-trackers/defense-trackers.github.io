@@ -1,7 +1,7 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-06-12T06:51:09Z",
+ "fetched_at": "2026-06-12T10:43:21Z",
  "schema_version": 1,
  "records": [
   {
@@ -675,7 +675,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-06-12T03:26:22Z",
+    "date": "2026-06-12T10:39:00Z",
     "description": "full port of Reticulum and LXMF to Rust with added SDK",
     "stars": "18",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -730,6 +730,18 @@
    }
   },
   {
+   "key": "atakmaps/TAK-MESHCORE",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-06-12T08:45:58Z",
+    "description": "ATAK MeshCore plugin",
+    "stars": "13",
+    "text": "atakmaps/TAK-MESHCORE",
+    "title": "atakmaps/TAK-MESHCORE",
+    "url": "https://github.com/atakmaps/TAK-MESHCORE"
+   }
+  },
+  {
    "key": "newtypeind/atak-plugin-kotlin-starter",
    "source": "tak-github",
    "fields": {
@@ -739,18 +751,6 @@
     "text": "newtypeind/atak-plugin-kotlin-starter",
     "title": "newtypeind/atak-plugin-kotlin-starter",
     "url": "https://github.com/newtypeind/atak-plugin-kotlin-starter"
-   }
-  },
-  {
-   "key": "atakmaps/TAK-MESHCORE",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-06-12T03:45:03Z",
-    "description": "ATAK MeshCore plugin",
-    "stars": "13",
-    "text": "atakmaps/TAK-MESHCORE",
-    "title": "atakmaps/TAK-MESHCORE",
-    "url": "https://github.com/atakmaps/TAK-MESHCORE"
    }
   },
   {
