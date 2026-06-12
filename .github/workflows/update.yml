@@ -45,6 +45,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ github.token }}        # api crawlers (GitHub, etc.)
           SAM_API_KEY: ${{ secrets.SAM_API_KEY }}  # optional; SAM source stays off without it
+          TSA_URL: https://freetsa.org/tsr         # RFC 3161 trusted timestamp on each chain head (public, no account)
+          SIGNET_CMD: ${{ secrets.SIGNET_CMD }}    # optional detached signature of the head (set when a signet key exists)
         run: |
           set +e
           .engine/bin/engine fetch --out . \
