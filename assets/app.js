@@ -253,7 +253,7 @@ const ROW_CAP = 1000;
 
 // One line per tracker so a visitor knows what they're looking at instantly.
 const TRACKER_DESC = {
-  pipeline: 'Bid-able DoD / defense-tech R&D opportunities (Army, Air Force, DARPA, DOE, DHS, NIST). DoD contracts & SBIR flow via SAM.gov / DSIP — add a SAM key to unlock those.',
+  pipeline: 'Bid-able DoD / defense-tech opportunities tuned to on-prem AI, mesh assurance, edge autonomy & contested logistics. Live SAM.gov contract solicitations (AI, autonomous, unmanned, mesh — DoD-filtered) plus grants.gov R&D awards. Each row links to its SAM/grants source.',
   policy: 'DoD AI policy issuances and the deadlines they create.',
   authorizations: 'Which AI platforms hold which DoD / FedRAMP authorizations — and what just changed.',
   'nipr-matrix': 'Which AI tools each service can actually use on NIPR, and at what data ceiling.',
