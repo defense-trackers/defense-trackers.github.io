@@ -83,10 +83,10 @@
  "deadlines-solicitations": {
   "tracker": "deadlines",
   "state": "ok",
-  "last_attempt": "2026-06-12T00:10:08Z",
-  "last_success": "2026-06-12T00:10:08Z",
+  "last_attempt": "2026-06-12T00:26:32Z",
+  "last_success": "2026-06-12T00:26:32Z",
   "cadence_hours": 24,
-  "count": 46,
+  "count": 64,
   "message": "+0 -0 ~0"
  },
  "model-ops-gov": {
@@ -349,6 +349,42 @@
   "cadence_hours": 24,
   "count": 8,
   "message": "+0 -0 ~0"
+ },
+ "pipeline-sam-ai": {
+  "tracker": "pipeline",
+  "state": "ok",
+  "last_attempt": "2026-06-12T00:26:23Z",
+  "last_success": "2026-06-12T00:26:23Z",
+  "cadence_hours": 24,
+  "count": 5,
+  "message": "+5 -0 ~0"
+ },
+ "pipeline-sam-autonomy": {
+  "tracker": "pipeline",
+  "state": "ok",
+  "last_attempt": "2026-06-12T00:26:26Z",
+  "last_success": "2026-06-12T00:26:26Z",
+  "cadence_hours": 24,
+  "count": 15,
+  "message": "+15 -0 ~0"
+ },
+ "pipeline-sam-mesh": {
+  "tracker": "pipeline",
+  "state": "ok",
+  "last_attempt": "2026-06-12T00:26:32Z",
+  "last_success": "2026-06-12T00:26:32Z",
+  "cadence_hours": 24,
+  "count": 1,
+  "message": "+1 -0 ~0"
+ },
+ "pipeline-sam-unmanned": {
+  "tracker": "pipeline",
+  "state": "ok",
+  "last_attempt": "2026-06-12T00:26:29Z",
+  "last_success": "2026-06-12T00:26:29Z",
+  "cadence_hours": 24,
+  "count": 19,
+  "message": "+19 -0 ~0"
  },
  "pipeline-unmanned": {
   "tracker": "pipeline",
