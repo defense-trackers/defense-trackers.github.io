@@ -24,15 +24,15 @@ jobs:
       url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - name: Checkout site (self)
-        uses: actions/checkout@v4
+        uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
 
       - name: Checkout engine (public)
-        uses: actions/checkout@v4
+        uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
         with:
           repository: defense-trackers/engine
           path: .engine
 
-      - uses: actions/setup-go@v5
+      - uses: actions/setup-go@40f1582b2485089dde7abd97c1529aa768e1baff # v5
         with:
           go-version: "1.22"
 
@@ -55,10 +55,18 @@ jobs:
           echo "code=$?" >> "$GITHUB_OUTPUT"
 
       - name: Sentinel (flip stale, honest freshness)
-        run: .engine/bin/engine sentinel --out . || true
+        id: sentinel
+        run: |
+          set +e
+          .engine/bin/engine sentinel --out .
+          echo "code=$?" >> "$GITHUB_OUTPUT"
 
       - name: Verify chain
-        run: .engine/bin/engine verify --out . || true
+        id: verify
+        run: |
+          set +e
+          .engine/bin/engine verify --out .
+          echo "code=$?" >> "$GITHUB_OUTPUT"
 
       - name: Commit & push data
         run: |
@@ -83,15 +91,44 @@ jobs:
             --body "One or more sources degraded or quarantined in run ${{ github.run_id }}. Last-good data was left live." \
             || true
 
+      - name: Open issue on stale sources
+        if: steps.sentinel.outputs.code == '3'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create --repo "${{ github.repository }}" --label stale \
+            --title "sources stale $(date -u +%F)" \
+            --body "The sentinel flagged sources past 1.5x their cadence in run ${{ github.run_id }}. A source has stopped updating — investigate before the data ages further." \
+            || true
+
+      - name: Open issue on chain verification failure
+        if: steps.verify.outputs.code != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create --repo "${{ github.repository }}" --label integrity \
+            --title "CHAIN VERIFY FAILED $(date -u +%F)" \
+            --body "engine verify returned ${{ steps.verify.outputs.code }} in run ${{ github.run_id }}. The hash chain or its RFC 3161 timestamp does not validate — history may have been altered. Do not trust the data until resolved." \
+            || true
+
       # Deploy to Pages from this same run — a token-pushed data commit would not
       # trigger the standalone pages workflow, so publish here directly.
-      - uses: actions/configure-pages@v5
+      - uses: actions/configure-pages@983d7736d9b0ae728b81ab479565c72886d7745b # v5
       - name: Stage site
         run: |
           mkdir -p _site
           rsync -a --exclude='.git' --exclude='_site' --exclude='.github' --exclude='.engine' ./ _site/
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa # v3
         with:
           path: _site
       - id: deploy
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e # v4
+
+      # Dead-man heartbeat: ping a monitor (e.g. healthchecks.io) ONLY on a fully
+      # successful run. If the pipeline stops or starts failing, the ping stops and
+      # the monitor pages a human — the one alert that catches total silence.
+      - name: Heartbeat
+        if: success() && env.HEARTBEAT_URL != ''
+        env:
+          HEARTBEAT_URL: ${{ secrets.HEARTBEAT_URL }}
+        run: curl -fsS -m 10 --retry 3 "$HEARTBEAT_URL" || true
