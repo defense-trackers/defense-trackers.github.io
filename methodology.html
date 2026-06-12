@@ -41,7 +41,7 @@
 <main class="wrap prose">
   <section>
     <h2>What these are</h2>
-    <p>Each tracker is a public dataset that consolidates information already scattered across government portals, registries, and announcements. The value is consolidation and a tamper-evident change history — not access to anything non-public.</p>
+    <p>Each tracker is a public dataset that consolidates information already scattered across government portals, registries, and announcements. The value is consolidation and a verifiable, hash-chained change history — not access to anything non-public.</p>
   </section>
 
   <section>
@@ -67,7 +67,7 @@
 
   <section>
     <h2>Verifiability</h2>
-    <p>The changelog is append-only and hash-chained: each event records the SHA-256 of the previous event, so any edit to history is detectable. Anyone can re-derive the chain from the public data with the engine: <code>engine verify --out .</code></p>
+    <p>The changelog is append-only and hash-chained: each event records the SHA-256 of the previous event, so the history is internally consistent and anyone can re-derive the chain from the public data with the engine: <code>engine verify --out .</code>. On its own a hash chain detects accidental corruption and partial edits — it does not, by itself, stop a maintainer who controls the repository from rewriting both the history and the chain head. To close that gap the engine signs the chain head and anchors it with an RFC&nbsp;3161 trusted timestamp, so the head can be verified against an independent witness; <code>engine verify</code> checks the signature and timestamp when present.</p>
   </section>
 
   <section>

@@ -14,7 +14,7 @@ Public datasets that say exactly how fresh they are — append-only, hash-chaine
 
 ## What this is
 
-A growing set of trackers that consolidate scattered, rarely-aggregated information across the defense innovation ecosystem — solicitations, policy taskings, authorizations, cleared lists, and more — into clean datasets with a **tamper-evident change history**.
+A growing set of trackers that consolidate scattered, rarely-aggregated information across the defense innovation ecosystem — solicitations, policy taskings, authorizations, cleared lists, and more — into clean datasets with a **verifiable, hash-chained change history** (signed and RFC 3161-timestamped at the head).
 
 Nothing here is non-public. The value is consolidation, honesty about freshness, and a changelog you can cryptographically verify.
 
@@ -60,7 +60,7 @@ A failed fetch never overwrites good data with garbage — a validation gate qua
 
 ## Verify it yourself
 
-The changelog is append-only and hash-chained: each event records the SHA-256 of the previous one, so any edit to history is detectable. Re-derive the chain from the public data with the engine:
+The changelog is append-only and hash-chained: each event records the SHA-256 of the previous one, so the history is internally consistent and re-derivable by anyone. A hash chain alone detects accidental corruption and partial edits, but not a maintainer who rewrites both history and head — so the engine also signs the head and anchors it with an RFC 3161 trusted timestamp, and `engine verify` checks both. Re-derive and verify the chain from the public data:
 
 ```
 engine verify --out .

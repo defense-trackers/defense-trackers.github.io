@@ -162,13 +162,17 @@ export function renderIndex(status) {
 
 async function fetchEvents(tracker) {
   const year = new Date().getUTCFullYear();
-  const lines = [];
-  for (const y of [year - 1, year]) {
+  const get = async (y) => {
     try {
       const r = await fetch(`/data/${tracker}/events/${y}.jsonl`, { cache: 'no-store' });
-      if (r.ok) lines.push(...(await r.text()).trim().split('\n').filter(Boolean));
-    } catch { /* a year file may not exist; fine */ }
-  }
+      if (r.ok) return (await r.text()).trim().split('\n').filter(Boolean);
+    } catch { /* ignore */ }
+    return [];
+  };
+  // Fetch the current year; only reach back to last year when this year is
+  // empty, so a brand-new year doesn't 404 on every page load.
+  let lines = await get(year);
+  if (lines.length === 0) lines = await get(year - 1);
   return lines.map((l) => { try { return JSON.parse(l); } catch { return null; } }).filter(Boolean);
 }
 
@@ -185,9 +189,11 @@ export async function renderTracker(t) {
     const mine = Object.values(status).filter((s) => s.tracker === t);
     if (mine.length) {
       $('t-badge').replaceWith(aggBadgeEl(aggregate(mine)));
+      const freshest = mine.map((s) => Date.parse(s.last_success || 0) || 0)
+        .reduce((a, b) => Math.max(a, b), 0);
       $('t-message').textContent =
         mine.length + (mine.length === 1 ? ' source' : ' sources') +
-        ' · ' + mine.map((s) => s.message).filter(Boolean).join('   ·   ');
+        (freshest ? ' · updated ' + relTime(new Date(freshest).toISOString()) : '');
     }
     renderAbout(t, status);
   } catch { /* badge optional if status missing */ }
@@ -328,8 +334,8 @@ function renderStatStrip(recs) {
     s.append(b, l); el.append(s);
   };
   const sources = new Set(recs.map((r) => r.source)).size;
-  chip('records', recs.length.toLocaleString('en-US'));
-  chip('sources', String(sources));
+  chip(recs.length === 1 ? 'record' : 'records', recs.length.toLocaleString('en-US'));
+  chip(sources === 1 ? 'source' : 'sources', String(sources));
   let sum = 0, hasAmt = false;
   for (const r of recs) {
     const f = r.fields || {};
@@ -390,16 +396,22 @@ function wireGlobalSearch(status) {
   const gs = document.getElementById('gsearch');
   const gr = document.getElementById('gresults');
   const board = document.getElementById('board-section');
+  const soon = document.getElementById('closing-soon');
   if (!gs || !gr) return;
+  const setContext = (visible) => {
+    if (board) board.style.display = visible ? '' : 'none';
+    // only restore the closing-soon panel if it actually had content
+    if (soon) soon.style.display = (visible && soon.dataset.populated === '1') ? '' : 'none';
+  };
   gs.addEventListener('input', async () => {
     const q = gs.value.trim().toLowerCase();
-    if (q.length < 2) { gr.style.display = 'none'; gr.textContent = ''; if (board) board.style.display = ''; return; }
+    if (q.length < 2) { gr.style.display = 'none'; gr.textContent = ''; setContext(true); return; }
     const all = await loadAllRecords(status);
     const hits = all.filter((x) =>
       (x.key || '').toLowerCase().includes(q) ||
       Object.values(x.f).some((v) => String(v).toLowerCase().includes(q))
     ).slice(0, 120);
-    if (board) board.style.display = 'none';
+    setContext(false);
     gr.style.display = '';
     renderGlobalResults(gr, hits, gs.value.trim());
   });
@@ -417,7 +429,8 @@ async function renderClosingSoon() {
     .filter((x) => !isNaN(x.t) && x.t >= now && x.t <= now + 30 * 864e5)
     .sort((a, b) => a.t - b.t)
     .slice(0, 12);
-  if (!soon.length) return;
+  if (!soon.length) { el.dataset.populated = '0'; return; }
+  el.dataset.populated = '1';
   el.style.display = '';
   el.textContent = '';
   const h = document.createElement('h2'); h.textContent = 'Closing in the next 30 days'; el.append(h);
@@ -602,11 +615,14 @@ function buildTable(rows) {
   const htr = document.createElement('tr');
   const th0 = document.createElement('th');
   th0.textContent = 'name';
+  th0.tabIndex = 0; th0.setAttribute('role', 'button'); th0.setAttribute('aria-sort', 'none');
   htr.append(th0);
   for (const c of cols) {
     const th = document.createElement('th');
     th.textContent = pretty(c);
     if (NUM_RE.test(c)) th.className = 'num';
+    if (/^(date|posted|closes|deadline|updated|as_of)$/i.test(c)) th.dataset.type = 'date';
+    th.tabIndex = 0; th.setAttribute('role', 'button'); th.setAttribute('aria-sort', 'none');
     htr.append(th);
   }
   thead.append(htr);
@@ -630,8 +646,11 @@ function buildTable(rows) {
     } else {
       td0.textContent = label;
     }
-    // closing-soon / past highlighting from a "closes" field
-    const tms = pd(f.closes);
+    // closing-soon / past highlighting from a "closes" field, falling back to a
+    // date embedded in a status string (curated trackers like programs put the
+    // deadline in text, e.g. "OPEN — closes 2026-06-15").
+    let tms = pd(f.closes);
+    if (isNaN(tms) && f.status) { const m = String(f.status).match(/\d{4}-\d{2}-\d{2}/); if (m) tms = pd(m[0]); }
     if (!isNaN(tms)) {
       const days = Math.ceil((tms - Date.now()) / 864e5);
       if (days >= 0 && days <= 30) {
@@ -674,29 +693,42 @@ function buildTable(rows) {
 // numerically). Toggles asc/desc.
 function makeSortable(table) {
   const ths = [...table.querySelectorAll('thead th')];
+  const sortBy = (th, idx) => {
+    const numeric = th.classList.contains('num');
+    const isDate = th.dataset.type === 'date';
+    const dir = th.dataset.dir === 'asc' ? 'desc' : 'asc';
+    ths.forEach((h) => { delete h.dataset.dir; h.setAttribute('aria-sort', 'none'); const a = h.querySelector('.sort-arrow'); if (a) a.remove(); });
+    th.dataset.dir = dir;
+    th.setAttribute('aria-sort', dir === 'asc' ? 'ascending' : 'descending');
+    const tbody = table.querySelector('tbody');
+    const rows = [...tbody.querySelectorAll('tr')];
+    rows.sort((a, b) => {
+      let av = a.children[idx] ? a.children[idx].textContent : '';
+      let bv = b.children[idx] ? b.children[idx].textContent : '';
+      if (isDate) {
+        // real chronological order via the shared date parser; undated rows last
+        const at = pd(av), bt = pd(bv);
+        const an = isNaN(at) ? Infinity : at;
+        const bn = isNaN(bt) ? Infinity : bt;
+        return dir === 'asc' ? an - bn : bn - an;
+      }
+      if (numeric) {
+        av = parseFloat(av.replace(/[^0-9.-]/g, '')) || 0;
+        bv = parseFloat(bv.replace(/[^0-9.-]/g, '')) || 0;
+        return dir === 'asc' ? av - bv : bv - av;
+      }
+      return dir === 'asc' ? av.localeCompare(bv) : bv.localeCompare(av);
+    });
+    rows.forEach((r) => tbody.appendChild(r));
+    const arrow = document.createElement('span');
+    arrow.className = 'sort-arrow';
+    arrow.textContent = dir === 'asc' ? ' ▲' : ' ▼';
+    th.appendChild(arrow);
+  };
   ths.forEach((th, idx) => {
-    th.addEventListener('click', () => {
-      const numeric = th.classList.contains('num');
-      const dir = th.dataset.dir === 'asc' ? 'desc' : 'asc';
-      ths.forEach((h) => { delete h.dataset.dir; const a = h.querySelector('.sort-arrow'); if (a) a.remove(); });
-      th.dataset.dir = dir;
-      const tbody = table.querySelector('tbody');
-      const rows = [...tbody.querySelectorAll('tr')];
-      rows.sort((a, b) => {
-        let av = a.children[idx] ? a.children[idx].textContent : '';
-        let bv = b.children[idx] ? b.children[idx].textContent : '';
-        if (numeric) {
-          av = parseFloat(av.replace(/[^0-9.-]/g, '')) || 0;
-          bv = parseFloat(bv.replace(/[^0-9.-]/g, '')) || 0;
-          return dir === 'asc' ? av - bv : bv - av;
-        }
-        return dir === 'asc' ? av.localeCompare(bv) : bv.localeCompare(av);
-      });
-      rows.forEach((r) => tbody.appendChild(r));
-      const arrow = document.createElement('span');
-      arrow.className = 'sort-arrow';
-      arrow.textContent = dir === 'asc' ? ' ▲' : ' ▼';
-      th.appendChild(arrow);
+    th.addEventListener('click', () => sortBy(th, idx));
+    th.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); sortBy(th, idx); }
     });
   });
 }
@@ -714,7 +746,12 @@ function wireFilter() {
         tr.style.display = match ? '' : 'none';
         if (match) shown++;
       });
-      card.style.display = (q && shown === 0) ? 'none' : '';
+      // While filtering, span every source: force matching cards visible with an
+      // explicit `block` that overrides the tab system's `.hidden` class (the two
+      // used to fight, blanking the screen when matches were in an inactive tab).
+      // Clearing the filter restores inline display so tab visibility takes over.
+      if (q) card.style.display = shown > 0 ? 'block' : 'none';
+      else card.style.display = '';
     });
     const u = new URL(location.href);
     if (q) u.searchParams.set('q', box.value.trim()); else u.searchParams.delete('q');
