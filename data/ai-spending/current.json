@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-06-11T23:09:21Z",
+ "fetched_at": "2026-06-12T00:05:53Z",
  "schema_version": 1,
  "records": [
   {
@@ -765,22 +765,22 @@
    }
   },
   {
-   "key": "040549461",
-   "source": "ai-spending-recipients",
-   "fields": {
-    "amount": "9.30322554e+06",
-    "text": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC",
-    "title": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC",
-    "url": "https://www.usaspending.gov/search"
-   }
-  },
-  {
    "key": "004300810",
    "source": "ai-spending-recipients",
    "fields": {
     "amount": "9081400",
     "text": "BUTT CONSTRUCTION COMPANY, INCORPORATED",
     "title": "BUTT CONSTRUCTION COMPANY, INCORPORATED",
+    "url": "https://www.usaspending.gov/search"
+   }
+  },
+  {
+   "key": "040549461",
+   "source": "ai-spending-recipients",
+   "fields": {
+    "amount": "8.19834954e+06",
+    "text": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC",
+    "title": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC",
     "url": "https://www.usaspending.gov/search"
    }
   },
@@ -1128,7 +1128,7 @@
    "key": "Washington Headquarters Services",
    "source": "ai-spending-subagency",
    "fields": {
-    "amount": "5.554734516e+07",
+    "amount": "5.444246916e+07",
     "text": "Washington Headquarters Services",
     "title": "Washington Headquarters Services",
     "url": "https://www.usaspending.gov/search"

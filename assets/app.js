@@ -265,6 +265,7 @@ const TRACKER_DESC = {
   deadlines: 'Defense innovation deadlines and events, as a calendar (with iCal feed).',
   'research-funding': 'Federal AI research funding — NSF and NIH grant awards advancing artificial intelligence.',
   'ai-spending': 'Who is winning DoD AI dollars — top recipients and recent AI contract awards.',
+  programs: 'Your bid map — funding vehicles, program offices, OTAs & compliance enablers for on-prem AI, mesh assurance, edge autonomy & contested logistics.',
 };
 
 function pretty(k) { return k.replace(/_/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase()); }

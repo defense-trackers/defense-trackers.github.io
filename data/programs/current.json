@@ -1,0 +1,248 @@
+{
+ "source": "programs",
+ "tracker": "programs",
+ "fetched_at": "2026-06-12T00:07:24Z",
+ "schema_version": 1,
+ "records": [
+  {
+   "key": "DIU Hydra CSO (USSF Tactical C2)",
+   "source": "programs",
+   "fields": {
+    "agency": "DIU + USSF",
+    "domain": "On-prem AI, assurance",
+    "eligibility": "small biz / nontraditional (10 USC 4022(d))",
+    "name": "DIU Hydra CSO (USSF Tactical C2)",
+    "notes": "AI-informed C2, federated data mesh, MCP agents, zero-trust, IL4-6/SECRET-TS",
+    "status": "OPEN — closes 2026-06-15",
+    "text": "DIU Hydra CSO (USSF Tactical C2)",
+    "type": "CSO / OT prototype",
+    "url": "https://www.diu.mil/work-with-us/open-solicitations"
+   }
+  },
+  {
+   "key": "DIU ARV CSO (Autonomous Resupply Vessel)",
+   "source": "programs",
+   "fields": {
+    "agency": "DIU + Navy",
+    "domain": "Autonomy, contested logistics",
+    "eligibility": "small biz / nontraditional (10 USC 4022(d))",
+    "name": "DIU ARV CSO (Autonomous Resupply Vessel)",
+    "notes": "Autonomous maritime resupply, Indo-Pacific; demo on water within 12 months",
+    "status": "OPEN — closes 2026-06-12",
+    "text": "DIU ARV CSO (Autonomous Resupply Vessel)",
+    "type": "CSO / OT prototype",
+    "url": "https://www.diu.mil/work-with-us/open-solicitations"
+   }
+  },
+  {
+   "key": "DIU Commercial Solutions Openings (rolling)",
+   "source": "programs",
+   "fields": {
+    "agency": "DIU",
+    "domain": "all four",
+    "eligibility": "small biz / nontraditional",
+    "name": "DIU Commercial Solutions Openings (rolling)",
+    "notes": "60-90 day target (GAO found ~172d actual). 7 portfolios incl. AI, Autonomy, Cyber \u0026 Telecom",
+    "status": "rolling — poll continuously",
+    "text": "DIU Commercial Solutions Openings (rolling)",
+    "type": "CSO / OT prototype",
+    "url": "https://www.diu.mil/work-with-us/open-solicitations"
+   }
+  },
+  {
+   "key": "AFWERX Open Topic SBIR/STTR",
+   "source": "programs",
+   "fields": {
+    "agency": "AFWERX / Dept of the Air Force",
+    "domain": "all four (dual-use)",
+    "eligibility": "small business",
+    "name": "AFWERX Open Topic SBIR/STTR",
+    "notes": "Phase I $75K-$180K; Phase II $1.25M-$1.8M; bridges TACFI $375K-$2M, STRATFI $3M-$15M; D2P2 needs Customer Memo",
+    "status": "recurring — watch '26.BZ RELEASE 2/3'",
+    "text": "AFWERX Open Topic SBIR/STTR",
+    "type": "SBIR/STTR",
+    "url": "https://afwerx.com/get-funded/"
+   }
+  },
+  {
+   "key": "SpaceWERX SBIR/STTR",
+   "source": "programs",
+   "fields": {
+    "agency": "SpaceWERX / USSF",
+    "domain": "On-prem AI, autonomy, space",
+    "eligibility": "small business",
+    "name": "SpaceWERX SBIR/STTR",
+    "notes": "Space Force open/specific topics; same TACFI/STRATFI bridge model",
+    "status": "recurring",
+    "text": "SpaceWERX SBIR/STTR",
+    "type": "SBIR/STTR",
+    "url": "https://spacewerx.us/"
+   }
+  },
+  {
+   "key": "Army Contested Logistics \u0026 Sustainment SBIR",
+   "source": "programs",
+   "fields": {
+    "agency": "Army Futures Command",
+    "domain": "Contested logistics (+ comms, IoT, predictive maint)",
+    "eligibility": "small business",
+    "name": "Army Contested Logistics \u0026 Sustainment SBIR",
+    "notes": "9 focus areas: Demand Reduction, Assured Resupply, Logistics System Defense, Information Advantage, IoT \u0026 Sensing, Supply Chain, Communications, Predictive Logistics \u0026 Maintenance, Soldier Training",
+    "status": "3 solicitation periods/yr + monthly + out-of-cycle BAAs",
+    "text": "Army Contested Logistics \u0026 Sustainment SBIR",
+    "type": "SBIR/STTR",
+    "url": "https://armysbir.army.mil/technologies-home/contested-logistics-sustainment/"
+   }
+  },
+  {
+   "key": "DARPA I2O office-wide BAA",
+   "source": "programs",
+   "fields": {
+    "agency": "DARPA Information Innovation Office",
+    "domain": "On-prem / edge AI",
+    "eligibility": "open (incl. small biz)",
+    "name": "DARPA I2O office-wide BAA",
+    "notes": "Monitor SAM.gov solicitation NUMBER (durable). SAM ID b5a6c44ae7184a369f54ba0054250f96",
+    "status": "annual (e.g. HR001126S0001)",
+    "text": "DARPA I2O office-wide BAA",
+    "type": "BAA",
+    "url": "https://www.darpa.mil/research/opportunities/baa"
+   }
+  },
+  {
+   "key": "DARPA STO office-wide BAA",
+   "source": "programs",
+   "fields": {
+    "agency": "DARPA Strategic Technology Office",
+    "domain": "Mesh / resilient comms",
+    "eligibility": "open (incl. small biz)",
+    "name": "DARPA STO office-wide BAA",
+    "notes": "SAM ID 4fec19a30ac44fcda1362c7c63be95a3",
+    "status": "annual",
+    "text": "DARPA STO office-wide BAA",
+    "type": "BAA",
+    "url": "https://www.darpa.mil/research/opportunities/baa"
+   }
+  },
+  {
+   "key": "DARPA TTO office-wide BAA",
+   "source": "programs",
+   "fields": {
+    "agency": "DARPA Tactical Technology Office",
+    "domain": "Autonomy / edge",
+    "eligibility": "open (incl. small biz)",
+    "name": "DARPA TTO office-wide BAA",
+    "notes": "SAM ID 109aceb76198452b91f8ecce72b4890b",
+    "status": "annual",
+    "text": "DARPA TTO office-wide BAA",
+    "type": "BAA",
+    "url": "https://www.darpa.mil/research/opportunities/baa"
+   }
+  },
+  {
+   "key": "DoD SBIR/STTR portal (DSIP)",
+   "source": "programs",
+   "fields": {
+    "agency": "DoD (all components)",
+    "domain": "all four",
+    "eligibility": "small business",
+    "name": "DoD SBIR/STTR portal (DSIP)",
+    "notes": "Topic documents are public/keyless; blocks cloud IPs for scraping — check manually",
+    "status": "topic docs public; proposal submission registered",
+    "text": "DoD SBIR/STTR portal (DSIP)",
+    "type": "Portal",
+    "url": "https://www.dodsbirsttr.mil/topics-app/"
+   }
+  },
+  {
+   "key": "NSTXL membership (S2MARTS + SpEC + 1)",
+   "source": "programs",
+   "fields": {
+    "agency": "NSTXL",
+    "domain": "Mesh/spectrum, space",
+    "eligibility": "members",
+    "name": "NSTXL membership (S2MARTS + SpEC + 1)",
+    "notes": "1 membership, 3 vehicles. Tiers: \u003c$10M $250, $10-50M $1K, $50-100M $5K, $100M+ $10K",
+    "status": "paid — $250/yr for firms \u003c$10M",
+    "text": "NSTXL membership (S2MARTS + SpEC + 1)",
+    "type": "OTA consortium access",
+    "url": "https://nstxl.org/membership/"
+   }
+  },
+  {
+   "key": "S2MARTS OTA",
+   "source": "programs",
+   "fields": {
+    "agency": "NSWC Crane / NSTXL",
+    "domain": "Mesh, spectrum, trusted systems",
+    "eligibility": "NSTXL members",
+    "name": "S2MARTS OTA",
+    "notes": "Spectrum, missions, resilient trusted systems",
+    "status": "calls via NSTXL",
+    "text": "S2MARTS OTA",
+    "type": "OTA consortium",
+    "url": "https://www.s2marts.org/"
+   }
+  },
+  {
+   "key": "Space Enterprise Consortium (SpEC)",
+   "source": "programs",
+   "fields": {
+    "agency": "SpRCO / NSTXL",
+    "domain": "Space, autonomy, AI",
+    "eligibility": "NSTXL members",
+    "name": "Space Enterprise Consortium (SpEC)",
+    "notes": "Space prototyping OTs",
+    "status": "calls via NSTXL",
+    "text": "Space Enterprise Consortium (SpEC)",
+    "type": "OTA consortium",
+    "url": "https://space-enterprise.org/"
+   }
+  },
+  {
+   "key": "Blue UAS / DCMA Blue List",
+   "source": "programs",
+   "fields": {
+    "agency": "DIU -\u003e DCMA",
+    "domain": "Autonomy hardware",
+    "eligibility": "vendors w/ NDAA-compliant sUAS",
+    "name": "Blue UAS / DCMA Blue List",
+    "notes": "NDAA FY20 s848, FY23 s817, American Security Drone Act. Clears procurement blockers for sUAS/components",
+    "status": "clearance pathway (transitioned to DCMA)",
+    "text": "Blue UAS / DCMA Blue List",
+    "type": "Compliance enabler",
+    "url": "https://bluelist.dcma.mil"
+   }
+  },
+  {
+   "key": "MOSA (Modular Open Systems Approach)",
+   "source": "programs",
+   "fields": {
+    "agency": "OSD CTO",
+    "domain": "all software",
+    "eligibility": "all DoD programs",
+    "name": "MOSA (Modular Open Systems Approach)",
+    "notes": "Required for ALL programs. Architect open/consensus interfaces + sufficient data rights to be procurable",
+    "status": "statutory (10 USC 4401-4403)",
+    "text": "MOSA (Modular Open Systems Approach)",
+    "type": "Architecture mandate",
+    "url": "https://www.cto.mil/wp-content/uploads/2025/03/MOSA-Implementation-Guidebook-27Feb2025-Cleared.pdf"
+   }
+  },
+  {
+   "key": "TAK SDK / ATAK-CIV (open source)",
+   "source": "programs",
+   "fields": {
+    "agency": "DoD TAK CSB",
+    "domain": "Mesh / TAK ecosystem",
+    "eligibility": "anyone (IRAD)",
+    "name": "TAK SDK / ATAK-CIV (open source)",
+    "notes": "Build TAK plugins / mesh-assurance integrations. Repo: github.com/deptofdefense/AndroidTacticalAssaultKit-CIV",
+    "status": "open-source, keyless",
+    "text": "TAK SDK / ATAK-CIV (open source)",
+    "type": "Dev on-ramp",
+    "url": "https://tak.gov/pages/sdks"
+   }
+  }
+ ]
+}
