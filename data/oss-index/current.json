@@ -1,93 +1,9 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-06-12T06:44:33Z",
+ "fetched_at": "2026-06-12T06:50:38Z",
  "schema_version": 1,
  "records": [
-  {
-   "key": "18F/api.data.gov",
-   "source": "oss-18f",
-   "fields": {
-    "date": "2026-05-13T19:20:14Z",
-    "description": "A hosted, shared-service that provides an API key, analytics, and proxy solution for government web services.",
-    "stars": "111",
-    "text": "18F/api.data.gov",
-    "title": "18F/api.data.gov",
-    "url": "https://github.com/18F/api.data.gov"
-   }
-  },
-  {
-   "key": "18F/API-Usability-Testing",
-   "source": "oss-18f",
-   "fields": {
-    "date": "2025-07-18T21:53:50Z",
-    "description": "The unofficial website for the API Usability Testing project, which can help agencies collect real customer feedback to reduce errors, simplify work flow, and increase adoption of their APIs.",
-    "stars": "13",
-    "text": "18F/API-Usability-Testing",
-    "title": "18F/API-Usability-Testing",
-    "url": "https://github.com/18F/API-Usability-Testing"
-   }
-  },
-  {
-   "key": "18F/18f.gsa.gov",
-   "source": "oss-18f",
-   "fields": {
-    "date": "2026-02-17T03:18:24Z",
-    "description": "The 18F website",
-    "stars": "334",
-    "text": "18F/18f.gsa.gov",
-    "title": "18F/18f.gsa.gov",
-    "url": "https://github.com/18F/18f.gsa.gov"
-   }
-  },
-  {
-   "key": "18F/API-All-the-X",
-   "source": "oss-18f",
-   "fields": {
-    "date": "2026-05-08T12:49:25Z",
-    "description": "Resources and Materials for the /Developer Program",
-    "stars": "186",
-    "text": "18F/API-All-the-X",
-    "title": "18F/API-All-the-X",
-    "url": "https://github.com/18F/API-All-the-X"
-   }
-  },
-  {
-   "key": "18F/open-source-policy",
-   "source": "oss-18f",
-   "fields": {
-    "date": "2024-05-14T02:56:10Z",
-    "description": "This repository contains the official Open Source Policy of 18F",
-    "stars": "334",
-    "text": "18F/open-source-policy",
-    "title": "18F/open-source-policy",
-    "url": "https://github.com/18F/open-source-policy"
-   }
-  },
-  {
-   "key": "18F/charlie",
-   "source": "oss-18f",
-   "fields": {
-    "date": "2026-05-23T12:23:18Z",
-    "description": "18F's Slack bot, Charlie. Built on Bolt",
-    "stars": "45",
-    "text": "18F/charlie",
-    "title": "18F/charlie",
-    "url": "https://github.com/18F/charlie"
-   }
-  },
-  {
-   "key": "18F/analytics-reporter",
-   "source": "oss-18f",
-   "fields": {
-    "date": "2026-06-11T14:17:38Z",
-    "description": "Lightweight analytics reporting and publishing tool for Digital Analytics Program's Google Analytics 360 data.",
-    "stars": "664",
-    "text": "18F/analytics-reporter",
-    "title": "18F/analytics-reporter",
-    "url": "https://github.com/18F/analytics-reporter"
-   }
-  },
   {
    "key": "cisagov/pshtt",
    "source": "oss-cisagov",
@@ -626,30 +542,6 @@
     "text": "cisagov/ansible-role-devops-user",
     "title": "cisagov/ansible-role-devops-user",
     "url": "https://github.com/cisagov/ansible-role-devops-user"
-   }
-  },
-  {
-   "key": "GSA/govt-urls",
-   "source": "oss-gsa",
-   "fields": {
-    "date": "2026-01-23T19:21:31Z",
-    "description": "Most government websites end in .gov or .mil, but many do not. This repo contains a list of public government domains and URLs that don't end in .gov or .mil.",
-    "stars": "233",
-    "text": "GSA/govt-urls",
-    "title": "GSA/govt-urls",
-    "url": "https://github.com/GSA/govt-urls"
-   }
-  },
-  {
-   "key": "GSA/ckanext-spatial",
-   "source": "oss-gsa",
-   "fields": {
-    "date": "2025-07-18T23:11:17Z",
-    "description": "Geospatial extension for CKAN",
-    "stars": "2",
-    "text": "GSA/ckanext-spatial",
-    "title": "GSA/ckanext-spatial",
-    "url": "https://github.com/GSA/ckanext-spatial"
    }
   },
   {
