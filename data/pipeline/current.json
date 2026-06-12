@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-06-12T00:26:32Z",
+ "fetched_at": "2026-06-12T00:29:38Z",
  "schema_version": 1,
  "records": [
   {
@@ -865,44 +865,6 @@
    }
   },
   {
-   "key": "325932",
-   "source": "pipeline-unmanned",
-   "fields": {
-    "agency": "Dept of the Army -- Materiel Command",
-    "closes": "03/31/2027",
-    "number": "W911NF-20-S-0008",
-    "posted": "04/01/2020",
-    "text": "UNITED STATES MILITARY ACADEMY Broad Agency Announcement",
-    "title": "UNITED STATES MILITARY ACADEMY Broad Agency Announcement",
-    "url": "https://www.grants.gov/search-results-detail/325932"
-   }
-  },
-  {
-   "key": "339728",
-   "source": "pipeline-unmanned",
-   "fields": {
-    "agency": "Dept of the Army -- Materiel Command",
-    "number": "W911NF-22-S-0011",
-    "posted": "04/22/2022",
-    "text": "Tactical Behaviors for Autonomous Maneuver",
-    "title": "Tactical Behaviors for Autonomous Maneuver",
-    "url": "https://www.grants.gov/search-results-detail/339728"
-   }
-  },
-  {
-   "key": "318351",
-   "source": "pipeline-unmanned",
-   "fields": {
-    "agency": "Air Force -- Research Lab",
-    "closes": "07/12/2026",
-    "number": "FA8650-19-S-5010",
-    "posted": "07/12/2019",
-    "text": "Defense Production Act Title III Expansion of Domestic Production Capability and Capacity",
-    "title": "Defense Production Act Title III Expansion of Domestic Production Capability and Capacity",
-    "url": "https://www.grants.gov/search-results-detail/318351"
-   }
-  },
-  {
    "key": "0800655bb5714d68957ce0d5ee922938",
    "source": "pipeline-sam-ai",
    "fields": {
@@ -1190,6 +1152,21 @@
    }
   },
   {
+   "key": "0342cd8c0ab447d6b40baa05dd731a7d",
+   "source": "pipeline-sam-mesh",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.MISSION INSTALLATION CONTRACTING COMMAND.419TH CSB.W6QM MICC-FT DRUM",
+    "closes": "2026-03-03T17:00:00-08:00",
+    "number": "W911S226U2663",
+    "posted": "2026-02-24",
+    "setaside": "Total Small Business Set-Aside (FAR 19.5)",
+    "text": "Mesh Network Radio and Server",
+    "title": "Mesh Network Radio and Server",
+    "type": "Combined Synopsis/Solicitation",
+    "url": "https://sam.gov/workspace/contract/opp/0342cd8c0ab447d6b40baa05dd731a7d/view"
+   }
+  },
+  {
    "key": "92757ddd971f417d9336aafaec12afd1",
    "source": "pipeline-sam-unmanned",
    "fields": {
@@ -1467,18 +1444,41 @@
    }
   },
   {
-   "key": "0342cd8c0ab447d6b40baa05dd731a7d",
-   "source": "pipeline-sam-mesh",
+   "key": "325932",
+   "source": "pipeline-unmanned",
    "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.MISSION INSTALLATION CONTRACTING COMMAND.419TH CSB.W6QM MICC-FT DRUM",
-    "closes": "2026-03-03T17:00:00-08:00",
-    "number": "W911S226U2663",
-    "posted": "2026-02-24",
-    "setaside": "Total Small Business Set-Aside (FAR 19.5)",
-    "text": "Mesh Network Radio and Server",
-    "title": "Mesh Network Radio and Server",
-    "type": "Combined Synopsis/Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/0342cd8c0ab447d6b40baa05dd731a7d/view"
+    "agency": "Dept of the Army -- Materiel Command",
+    "closes": "03/31/2027",
+    "number": "W911NF-20-S-0008",
+    "posted": "04/01/2020",
+    "text": "UNITED STATES MILITARY ACADEMY Broad Agency Announcement",
+    "title": "UNITED STATES MILITARY ACADEMY Broad Agency Announcement",
+    "url": "https://www.grants.gov/search-results-detail/325932"
+   }
+  },
+  {
+   "key": "339728",
+   "source": "pipeline-unmanned",
+   "fields": {
+    "agency": "Dept of the Army -- Materiel Command",
+    "number": "W911NF-22-S-0011",
+    "posted": "04/22/2022",
+    "text": "Tactical Behaviors for Autonomous Maneuver",
+    "title": "Tactical Behaviors for Autonomous Maneuver",
+    "url": "https://www.grants.gov/search-results-detail/339728"
+   }
+  },
+  {
+   "key": "318351",
+   "source": "pipeline-unmanned",
+   "fields": {
+    "agency": "Air Force -- Research Lab",
+    "closes": "07/12/2026",
+    "number": "FA8650-19-S-5010",
+    "posted": "07/12/2019",
+    "text": "Defense Production Act Title III Expansion of Domestic Production Capability and Capacity",
+    "title": "Defense Production Act Title III Expansion of Domestic Production Capability and Capacity",
+    "url": "https://www.grants.gov/search-results-detail/318351"
    }
   }
  ]

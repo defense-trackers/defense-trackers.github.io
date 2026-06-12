@@ -1,7 +1,7 @@
 {
  "source": "research-funding",
  "tracker": "research-funding",
- "fetched_at": "2026-06-12T00:09:57Z",
+ "fetched_at": "2026-06-12T00:29:46Z",
  "schema_version": 1,
  "records": [
   {
@@ -103,20 +103,6 @@
    }
   },
   {
-   "key": "2609004",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "880650",
-    "awardee": "University of Minnesota-Twin Cities",
-    "date": "10/01/2026",
-    "program": "NAIRR-Nat AI Research Resource, Software Institutes, PHYSICS AT THE INFO FRONTIER",
-    "text": "Collaborative Research: Frameworks: ML4GW, a machine learning ecosystem for gravitational wave data analysis",
-    "title": "Collaborative Research: Frameworks: ML4GW, a machine learning ecosystem for gravitational wave data analysis",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2609004"
-   }
-  },
-  {
    "key": "2548161",
    "source": "research-nsf",
    "fields": {
@@ -159,17 +145,17 @@
    }
   },
   {
-   "key": "2540822",
+   "key": "2609004",
    "source": "research-nsf",
    "fields": {
     "agency": "NSF",
-    "amount": "499831",
-    "awardee": "West Virginia University Research Corporation",
+    "amount": "880650",
+    "awardee": "University of Minnesota-Twin Cities",
     "date": "10/01/2026",
-    "program": "HCC-Human-Centered Computing",
-    "text": "CAREER: Calibrating Human Trust in Artificial Intelligence through Real-Time Behavioral and Physiological Feedback in Healthcare Decision Making",
-    "title": "CAREER: Calibrating Human Trust in Artificial Intelligence through Real-Time Behavioral and Physiological Feedback in Healthcare Decision Making",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2540822"
+    "program": "NAIRR-Nat AI Research Resource, Software Institutes, PHYSICS AT THE INFO FRONTIER",
+    "text": "Collaborative Research: Frameworks: ML4GW, a machine learning ecosystem for gravitational wave data analysis",
+    "title": "Collaborative Research: Frameworks: ML4GW, a machine learning ecosystem for gravitational wave data analysis",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2609004"
    }
   },
   {
@@ -184,6 +170,20 @@
     "text": "CAREER: OPENALIGN: Towards Open-World Preference Alignment for Large Language Models",
     "title": "CAREER: OPENALIGN: Towards Open-World Preference Alignment for Large Language Models",
     "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2544599"
+   }
+  },
+  {
+   "key": "2540822",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "499831",
+    "awardee": "West Virginia University Research Corporation",
+    "date": "10/01/2026",
+    "program": "HCC-Human-Centered Computing",
+    "text": "CAREER: Calibrating Human Trust in Artificial Intelligence through Real-Time Behavioral and Physiological Feedback in Healthcare Decision Making",
+    "title": "CAREER: Calibrating Human Trust in Artificial Intelligence through Real-Time Behavioral and Physiological Feedback in Healthcare Decision Making",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2540822"
    }
   }
  ]

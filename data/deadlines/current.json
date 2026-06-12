@@ -1,7 +1,7 @@
 {
  "source": "deadlines",
  "tracker": "deadlines",
- "fetched_at": "2026-06-12T00:26:32Z",
+ "fetched_at": "2026-06-12T00:29:57Z",
  "schema_version": 1,
  "records": [
   {
@@ -681,32 +681,6 @@
    }
   },
   {
-   "key": "close-325932",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "Dept of the Army -- Materiel Command",
-    "closes": "2027-03-31",
-    "date": "2027-03-31",
-    "from": "pipeline",
-    "text": "UNITED STATES MILITARY ACADEMY Broad Agency Announcement",
-    "title": "UNITED STATES MILITARY ACADEMY Broad Agency Announcement",
-    "url": "https://www.grants.gov/search-results-detail/325932"
-   }
-  },
-  {
-   "key": "close-318351",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "Air Force -- Research Lab",
-    "closes": "2026-07-12",
-    "date": "2026-07-12",
-    "from": "pipeline",
-    "text": "Defense Production Act Title III Expansion of Domestic Production Capability and Capacity",
-    "title": "Defense Production Act Title III Expansion of Domestic Production Capability and Capacity",
-    "url": "https://www.grants.gov/search-results-detail/318351"
-   }
-  },
-  {
    "key": "close-0800655bb5714d68957ce0d5ee922938",
    "source": "deadlines-solicitations",
    "fields": {
@@ -938,6 +912,32 @@
     "text": "USAREUR-AF Small Unmanned Aircraft Systems (sUAS) Blanket Purchase Agreement",
     "title": "USAREUR-AF Small Unmanned Aircraft Systems (sUAS) Blanket Purchase Agreement",
     "url": "https://sam.gov/workspace/contract/opp/2b32fcbd97224f68bbd4d2649bf6c28f/view"
+   }
+  },
+  {
+   "key": "close-325932",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "Dept of the Army -- Materiel Command",
+    "closes": "2027-03-31",
+    "date": "2027-03-31",
+    "from": "pipeline",
+    "text": "UNITED STATES MILITARY ACADEMY Broad Agency Announcement",
+    "title": "UNITED STATES MILITARY ACADEMY Broad Agency Announcement",
+    "url": "https://www.grants.gov/search-results-detail/325932"
+   }
+  },
+  {
+   "key": "close-318351",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "Air Force -- Research Lab",
+    "closes": "2026-07-12",
+    "date": "2026-07-12",
+    "from": "pipeline",
+    "text": "Defense Production Act Title III Expansion of Domestic Production Capability and Capacity",
+    "title": "Defense Production Act Title III Expansion of Domestic Production Capability and Capacity",
+    "url": "https://www.grants.gov/search-results-detail/318351"
    }
   }
  ]
