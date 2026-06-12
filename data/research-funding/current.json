@@ -1,7 +1,7 @@
 {
  "source": "research-funding",
  "tracker": "research-funding",
- "fetched_at": "2026-06-12T01:35:18Z",
+ "fetched_at": "2026-06-12T01:46:31Z",
  "schema_version": 1,
  "records": [
   {
@@ -33,34 +33,6 @@
    }
   },
   {
-   "key": "2601437",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "599943",
-    "awardee": "Mississippi State University",
-    "date": "10/01/2026",
-    "program": "RES EXP FOR TEACHERS(RET)-SITE",
-    "text": "RET Site: Research Experiences for Teachers in Cybersecurity and Artificial Intelligence",
-    "title": "RET Site: Research Experiences for Teachers in Cybersecurity and Artificial Intelligence",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2601437"
-   }
-  },
-  {
-   "key": "2601585",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "600000",
-    "awardee": "Auburn University",
-    "date": "10/01/2026",
-    "program": "RES EXP FOR TEACHERS(RET)-SITE",
-    "text": "RET Site: Project-Based Learning for Rural Alabama STEM Middle School Teachers in Artificial Intelligence, Machine Learning, and Robotics",
-    "title": "RET Site: Project-Based Learning for Rural Alabama STEM Middle School Teachers in Artificial Intelligence, Machine Learning, and Robotics",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2601585"
-   }
-  },
-  {
    "key": "2606034",
    "source": "research-nsf",
    "fields": {
@@ -89,62 +61,6 @@
    }
   },
   {
-   "key": "2541822",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "596521",
-    "awardee": "Washington University",
-    "date": "10/01/2026",
-    "program": "Info Integration \u0026 Informatics",
-    "text": "CAREER: Adaptive Knowledge Synthesis for Language Model Reasoning",
-    "title": "CAREER: Adaptive Knowledge Synthesis for Language Model Reasoning",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2541822"
-   }
-  },
-  {
-   "key": "2609004",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "880650",
-    "awardee": "University of Minnesota-Twin Cities",
-    "date": "10/01/2026",
-    "program": "NAIRR-Nat AI Research Resource, Software Institutes, PHYSICS AT THE INFO FRONTIER",
-    "text": "Collaborative Research: Frameworks: ML4GW, a machine learning ecosystem for gravitational wave data analysis",
-    "title": "Collaborative Research: Frameworks: ML4GW, a machine learning ecosystem for gravitational wave data analysis",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2609004"
-   }
-  },
-  {
-   "key": "2548161",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "489183",
-    "awardee": "Missouri State University",
-    "date": "10/01/2026",
-    "program": "RSCH EXPER FOR UNDERGRAD SITES",
-    "text": "REU Site: Applied Research in Deep Learning",
-    "title": "REU Site: Applied Research in Deep Learning",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2548161"
-   }
-  },
-  {
-   "key": "2526621",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "410000",
-    "awardee": "Purdue University",
-    "date": "10/01/2026",
-    "program": "Secure \u0026Trustworthy Cyberspace",
-    "text": "Collaborative Research: SaTC 2.0: RES: AIGIS: Securing the Deep Learning Model Supply Chain",
-    "title": "Collaborative Research: SaTC 2.0: RES: AIGIS: Securing the Deep Learning Model Supply Chain",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2526621"
-   }
-  },
-  {
    "key": "2526622",
    "source": "research-nsf",
    "fields": {
@@ -159,31 +75,17 @@
    }
   },
   {
-   "key": "2540822",
+   "key": "2526621",
    "source": "research-nsf",
    "fields": {
     "agency": "NSF",
-    "amount": "499831",
-    "awardee": "West Virginia University Research Corporation",
+    "amount": "410000",
+    "awardee": "Purdue University",
     "date": "10/01/2026",
-    "program": "HCC-Human-Centered Computing",
-    "text": "CAREER: Calibrating Human Trust in Artificial Intelligence through Real-Time Behavioral and Physiological Feedback in Healthcare Decision Making",
-    "title": "CAREER: Calibrating Human Trust in Artificial Intelligence through Real-Time Behavioral and Physiological Feedback in Healthcare Decision Making",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2540822"
-   }
-  },
-  {
-   "key": "2544599",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "599999",
-    "awardee": "Northwestern University at Chicago",
-    "date": "10/01/2026",
-    "program": "Info Integration \u0026 Informatics",
-    "text": "CAREER: OPENALIGN: Towards Open-World Preference Alignment for Large Language Models",
-    "title": "CAREER: OPENALIGN: Towards Open-World Preference Alignment for Large Language Models",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2544599"
+    "program": "Secure \u0026Trustworthy Cyberspace",
+    "text": "Collaborative Research: SaTC 2.0: RES: AIGIS: Securing the Deep Learning Model Supply Chain",
+    "title": "Collaborative Research: SaTC 2.0: RES: AIGIS: Securing the Deep Learning Model Supply Chain",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2526621"
    }
   }
  ]

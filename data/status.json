@@ -38,11 +38,11 @@
  "authorizations-fedramp-ai": {
   "tracker": "authorizations",
   "state": "ok",
-  "last_attempt": "2026-06-12T01:33:52Z",
-  "last_success": "2026-06-12T01:33:52Z",
+  "last_attempt": "2026-06-12T01:46:27Z",
+  "last_success": "2026-06-12T01:46:27Z",
   "cadence_hours": 24,
-  "count": 252,
-  "message": "+0 -0 ~0"
+  "count": 170,
+  "message": "+0 -82 ~0"
  },
  "authorizations-news": {
   "tracker": "authorizations",
@@ -83,10 +83,10 @@
  "deadlines-solicitations": {
   "tracker": "deadlines",
   "state": "ok",
-  "last_attempt": "2026-06-12T01:35:30Z",
-  "last_success": "2026-06-12T01:35:30Z",
+  "last_attempt": "2026-06-12T01:46:34Z",
+  "last_success": "2026-06-12T01:46:34Z",
   "cadence_hours": 24,
-  "count": 64,
+  "count": 49,
   "message": "+0 -0 ~0"
  },
  "model-ops-gov": {
@@ -263,11 +263,11 @@
  "oss-nsacyber": {
   "tracker": "oss-index",
   "state": "ok",
-  "last_attempt": "2026-06-12T01:34:47Z",
-  "last_success": "2026-06-12T01:34:47Z",
+  "last_attempt": "2026-06-12T01:46:24Z",
+  "last_success": "2026-06-12T01:46:24Z",
   "cadence_hours": 24,
-  "count": 11,
-  "message": "+0 -0 ~0"
+  "count": 4,
+  "message": "+0 -7 ~0"
  },
  "oss-ornl": {
   "tracker": "oss-index",
@@ -353,11 +353,11 @@
  "pipeline-sam-ai": {
   "tracker": "pipeline",
   "state": "ok",
-  "last_attempt": "2026-06-12T01:35:07Z",
-  "last_success": "2026-06-12T01:35:07Z",
+  "last_attempt": "2026-06-12T01:46:34Z",
+  "last_success": "2026-06-12T01:46:34Z",
   "cadence_hours": 24,
-  "count": 5,
-  "message": "+0 -0 ~0"
+  "count": 4,
+  "message": "+0 -1 ~0"
  },
  "pipeline-sam-autonomy": {
   "tracker": "pipeline",
@@ -425,11 +425,11 @@
  "research-nsf": {
   "tracker": "research-funding",
   "state": "ok",
-  "last_attempt": "2026-06-12T01:35:18Z",
-  "last_success": "2026-06-12T01:35:18Z",
+  "last_attempt": "2026-06-12T01:46:31Z",
+  "last_success": "2026-06-12T01:46:31Z",
   "cadence_hours": 168,
-  "count": 13,
-  "message": "+0 -0 ~0"
+  "count": 6,
+  "message": "+0 -7 ~0"
  },
  "tak-cot": {
   "tracker": "tak",

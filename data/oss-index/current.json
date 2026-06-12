@@ -1,7 +1,7 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-06-12T01:34:56Z",
+ "fetched_at": "2026-06-12T01:46:24Z",
  "schema_version": 1,
  "records": [
   {
@@ -10265,138 +10265,6 @@
    }
   },
   {
-   "key": "nsacyber/Event-Forwarding-Guidance",
-   "source": "oss-nsacyber",
-   "fields": {
-    "date": "2020-11-17T17:25:51Z",
-    "description": "Configuration guidance for implementing collection of security relevant Windows Event Log events by using Windows Event Forwarding. #nsacyber",
-    "stars": "886",
-    "text": "nsacyber/Event-Forwarding-Guidance",
-    "title": "nsacyber/Event-Forwarding-Guidance",
-    "url": "https://github.com/nsacyber/Event-Forwarding-Guidance"
-   }
-  },
-  {
-   "key": "nsacyber/AppLocker-Guidance",
-   "source": "oss-nsacyber",
-   "fields": {
-    "date": "2025-10-31T14:38:01Z",
-    "description": "Configuration guidance for implementing application whitelisting with AppLocker. #nsacyber",
-    "stars": "240",
-    "text": "nsacyber/AppLocker-Guidance",
-    "title": "nsacyber/AppLocker-Guidance",
-    "url": "https://github.com/nsacyber/AppLocker-Guidance"
-   }
-  },
-  {
-   "key": "nsacyber/nsacyber.github.io",
-   "source": "oss-nsacyber",
-   "fields": {
-    "date": "2024-08-17T01:49:22Z",
-    "description": "NSA Cybersecurity. Formerly known as NSA Information Assurance and the Information Assurance Directorate",
-    "stars": "295",
-    "text": "nsacyber/nsacyber.github.io",
-    "title": "nsacyber/nsacyber.github.io",
-    "url": "https://github.com/nsacyber/nsacyber.github.io"
-   }
-  },
-  {
-   "key": "nsacyber/Hardware-and-Firmware-Security-Guidance",
-   "source": "oss-nsacyber",
-   "fields": {
-    "date": "2024-12-23T21:28:31Z",
-    "description": "Guidance for the Spectre, Meltdown, Speculative Store Bypass, Rogue System Register Read, Lazy FP State Restore, Bounds Check Bypass Store, TLBleed, and L1TF/Foreshadow vulnerabilities as well as general hardware and firmware security guidance. #nsacyber",
-    "stars": "869",
-    "text": "nsacyber/Hardware-and-Firmware-Security-Guidance",
-    "title": "nsacyber/Hardware-and-Firmware-Security-Guidance",
-    "url": "https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance"
-   }
-  },
-  {
-   "key": "nsacyber/HIRS",
-   "source": "oss-nsacyber",
-   "fields": {
-    "date": "2026-06-11T20:46:18Z",
-    "description": "Trusted Computing based services supporting TPM provisioning and supply chain validation concepts. #nsacyber",
-    "stars": "211",
-    "text": "nsacyber/HIRS",
-    "title": "nsacyber/HIRS",
-    "url": "https://github.com/nsacyber/HIRS"
-   }
-  },
-  {
-   "key": "nsacyber/paccor",
-   "source": "oss-nsacyber",
-   "fields": {
-    "date": "2026-06-11T18:53:26Z",
-    "description": "The Platform Attribute Certificate Creator can gather component details, create, sign, and validate the TCG-defined Platform Credential. #nsacyber",
-    "stars": "76",
-    "text": "nsacyber/paccor",
-    "title": "nsacyber/paccor",
-    "url": "https://github.com/nsacyber/paccor"
-   }
-  },
-  {
-   "key": "nsacyber/BAM",
-   "source": "oss-nsacyber",
-   "fields": {
-    "date": "2024-05-02T21:40:04Z",
-    "description": "The Binary Analysis Metadata tool gathers information about Windows binaries to aid in their analysis. #nsacyber",
-    "stars": "167",
-    "text": "nsacyber/BAM",
-    "title": "nsacyber/BAM",
-    "url": "https://github.com/nsacyber/BAM"
-   }
-  },
-  {
-   "key": "nsacyber/RandPassGenerator",
-   "source": "oss-nsacyber",
-   "fields": {
-    "date": "2023-12-22T13:59:05Z",
-    "description": "A command-line utility  for generating random passwords, passphrases, and raw keys. #nsacyber",
-    "stars": "151",
-    "text": "nsacyber/RandPassGenerator",
-    "title": "nsacyber/RandPassGenerator",
-    "url": "https://github.com/nsacyber/RandPassGenerator"
-   }
-  },
-  {
-   "key": "nsacyber/Mitigating-Web-Shells",
-   "source": "oss-nsacyber",
-   "fields": {
-    "date": "2023-06-18T07:48:07Z",
-    "description": "Guidance for mitigation web shells. #nsacyber",
-    "stars": "979",
-    "text": "nsacyber/Mitigating-Web-Shells",
-    "title": "nsacyber/Mitigating-Web-Shells",
-    "url": "https://github.com/nsacyber/Mitigating-Web-Shells"
-   }
-  },
-  {
-   "key": "nsacyber/ELITEWOLF",
-   "source": "oss-nsacyber",
-   "fields": {
-    "date": "2024-01-07T18:44:45Z",
-    "description": "OT security monitoring #nsacyber",
-    "stars": "637",
-    "text": "nsacyber/ELITEWOLF",
-    "title": "nsacyber/ELITEWOLF",
-    "url": "https://github.com/nsacyber/ELITEWOLF"
-   }
-  },
-  {
-   "key": "nsacyber/RIM-Tool",
-   "source": "oss-nsacyber",
-   "fields": {
-    "date": "2026-06-04T18:39:49Z",
-    "description": "A tool to create TCG Reference Integrity Manifest (RIM) files for use with attestation verifiers like HIRS.",
-    "stars": "7",
-    "text": "nsacyber/RIM-Tool",
-    "title": "nsacyber/RIM-Tool",
-    "url": "https://github.com/nsacyber/RIM-Tool"
-   }
-  },
-  {
    "key": "ORNL/RSBench",
    "source": "oss-ornl",
    "fields": {
@@ -13759,6 +13627,54 @@
     "text": "usnistgov/tcamt",
     "title": "usnistgov/tcamt",
     "url": "https://github.com/usnistgov/tcamt"
+   }
+  },
+  {
+   "key": "nsacyber/AppLocker-Guidance",
+   "source": "oss-nsacyber",
+   "fields": {
+    "date": "2025-10-31T14:38:01Z",
+    "description": "Configuration guidance for implementing application whitelisting with AppLocker. #nsacyber",
+    "stars": "240",
+    "text": "nsacyber/AppLocker-Guidance",
+    "title": "nsacyber/AppLocker-Guidance",
+    "url": "https://github.com/nsacyber/AppLocker-Guidance"
+   }
+  },
+  {
+   "key": "nsacyber/HIRS",
+   "source": "oss-nsacyber",
+   "fields": {
+    "date": "2026-06-11T20:46:18Z",
+    "description": "Trusted Computing based services supporting TPM provisioning and supply chain validation concepts. #nsacyber",
+    "stars": "211",
+    "text": "nsacyber/HIRS",
+    "title": "nsacyber/HIRS",
+    "url": "https://github.com/nsacyber/HIRS"
+   }
+  },
+  {
+   "key": "nsacyber/paccor",
+   "source": "oss-nsacyber",
+   "fields": {
+    "date": "2026-06-11T18:53:26Z",
+    "description": "The Platform Attribute Certificate Creator can gather component details, create, sign, and validate the TCG-defined Platform Credential. #nsacyber",
+    "stars": "76",
+    "text": "nsacyber/paccor",
+    "title": "nsacyber/paccor",
+    "url": "https://github.com/nsacyber/paccor"
+   }
+  },
+  {
+   "key": "nsacyber/RIM-Tool",
+   "source": "oss-nsacyber",
+   "fields": {
+    "date": "2026-06-04T18:39:49Z",
+    "description": "A tool to create TCG Reference Integrity Manifest (RIM) files for use with attestation verifiers like HIRS.",
+    "stars": "7",
+    "text": "nsacyber/RIM-Tool",
+    "title": "nsacyber/RIM-Tool",
+    "url": "https://github.com/nsacyber/RIM-Tool"
    }
   }
  ]
