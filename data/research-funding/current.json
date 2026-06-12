@@ -1,7 +1,7 @@
 {
  "source": "research-funding",
  "tracker": "research-funding",
- "fetched_at": "2026-06-12T00:29:46Z",
+ "fetched_at": "2026-06-12T00:34:02Z",
  "schema_version": 1,
  "records": [
   {
@@ -33,6 +33,48 @@
    }
   },
   {
+   "key": "2601437",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "599943",
+    "awardee": "Mississippi State University",
+    "date": "10/01/2026",
+    "program": "RES EXP FOR TEACHERS(RET)-SITE",
+    "text": "RET Site: Research Experiences for Teachers in Cybersecurity and Artificial Intelligence",
+    "title": "RET Site: Research Experiences for Teachers in Cybersecurity and Artificial Intelligence",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2601437"
+   }
+  },
+  {
+   "key": "2601585",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "600000",
+    "awardee": "Auburn University",
+    "date": "10/01/2026",
+    "program": "RES EXP FOR TEACHERS(RET)-SITE",
+    "text": "RET Site: Project-Based Learning for Rural Alabama STEM Middle School Teachers in Artificial Intelligence, Machine Learning, and Robotics",
+    "title": "RET Site: Project-Based Learning for Rural Alabama STEM Middle School Teachers in Artificial Intelligence, Machine Learning, and Robotics",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2601585"
+   }
+  },
+  {
+   "key": "2606034",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "214876",
+    "awardee": "University of California-Los Angeles",
+    "date": "10/01/2026",
+    "program": "APPLIED MATHEMATICS",
+    "text": "Generalization Capabilities of Machine Learning for Solving Multiple Partial Differential Equations",
+    "title": "Generalization Capabilities of Machine Learning for Solving Multiple Partial Differential Equations",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2606034"
+   }
+  },
+  {
    "key": "2526620",
    "source": "research-nsf",
    "fields": {
@@ -58,48 +100,6 @@
     "text": "CAREER: Adaptive Knowledge Synthesis for Language Model Reasoning",
     "title": "CAREER: Adaptive Knowledge Synthesis for Language Model Reasoning",
     "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2541822"
-   }
-  },
-  {
-   "key": "2606034",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "214876",
-    "awardee": "University of California-Los Angeles",
-    "date": "10/01/2026",
-    "program": "APPLIED MATHEMATICS",
-    "text": "Generalization Capabilities of Machine Learning for Solving Multiple Partial Differential Equations",
-    "title": "Generalization Capabilities of Machine Learning for Solving Multiple Partial Differential Equations",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2606034"
-   }
-  },
-  {
-   "key": "2601585",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "600000",
-    "awardee": "Auburn University",
-    "date": "10/01/2026",
-    "program": "RES EXP FOR TEACHERS(RET)-SITE",
-    "text": "RET Site: Project-Based Learning for Rural Alabama STEM Middle School Teachers in Artificial Intelligence, Machine Learning, and Robotics",
-    "title": "RET Site: Project-Based Learning for Rural Alabama STEM Middle School Teachers in Artificial Intelligence, Machine Learning, and Robotics",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2601585"
-   }
-  },
-  {
-   "key": "2601437",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "599943",
-    "awardee": "Mississippi State University",
-    "date": "10/01/2026",
-    "program": "RES EXP FOR TEACHERS(RET)-SITE",
-    "text": "RET Site: Research Experiences for Teachers in Cybersecurity and Artificial Intelligence",
-    "title": "RET Site: Research Experiences for Teachers in Cybersecurity and Artificial Intelligence",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2601437"
    }
   },
   {
