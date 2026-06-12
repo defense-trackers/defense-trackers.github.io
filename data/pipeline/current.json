@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-06-12T10:43:03Z",
+ "fetched_at": "2026-06-12T20:57:07Z",
  "schema_version": 1,
  "records": [
   {
@@ -402,7 +402,7 @@
   },
   {
    "key": "347858",
-   "source": "pipeline-grants",
+   "source": "pipeline-logistics",
    "fields": {
     "agency": "Dept of the Army -- Materiel Command",
     "closes": "04/30/2028",
@@ -584,6 +584,20 @@
    }
   },
   {
+   "key": "075fa9551f454aba8b0738430a802a05",
+   "source": "pipeline-sam-autonomy",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-DTA.W6QK ACC- DTA",
+    "closes": "2026-06-16T23:59:00-05:00",
+    "number": "W912CH26R0022",
+    "posted": "2026-06-12",
+    "text": "Autonomous Transport Vehicle System (ATV-S)",
+    "title": "Autonomous Transport Vehicle System (ATV-S)",
+    "type": "Solicitation",
+    "url": "https://sam.gov/workspace/contract/opp/075fa9551f454aba8b0738430a802a05/view"
+   }
+  },
+  {
    "key": "583abe432ccb4cddb523c8c3e672ded5",
    "source": "pipeline-sam-autonomy",
    "fields": {
@@ -639,20 +653,6 @@
     "title": "MTEC Pre-Announcement: Autonomous Closed Loop Control Mechanical Ventilation (ACLCMV)",
     "type": "Presolicitation",
     "url": "https://sam.gov/workspace/contract/opp/eb67b4e97ed049c9acc1bf7b7b1b8ddf/view"
-   }
-  },
-  {
-   "key": "f035e9a4725741ffa2947f8ce8f78d07",
-   "source": "pipeline-sam-autonomy",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-DTA.W6QK ACC- DTA",
-    "closes": "2026-06-12T15:00:00-04:00",
-    "number": "W912CH26R0022",
-    "posted": "2026-06-03",
-    "text": "Autonomous Transport Vehicle System (ATV-S)",
-    "title": "Autonomous Transport Vehicle System (ATV-S)",
-    "type": "Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/f035e9a4725741ffa2947f8ce8f78d07/view"
    }
   },
   {
@@ -727,6 +727,20 @@
    }
   },
   {
+   "key": "21bee4f25244474e9769d6c4f37d2f95",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION SOUTH PACIFIC.ENDIST LOS ANGELES.W075 ENDIST LOS ANGELES",
+    "closes": "2026-06-26T14:00:00-08:00",
+    "number": "W912PL26S0031",
+    "posted": "2026-06-12",
+    "text": "Sources Sought - Design-Build to Budget (DB2B) Construction of Tactical Unmanned Aerial Vehicle Hangar",
+    "title": "Sources Sought - Design-Build to Budget (DB2B) Construction of Tactical Unmanned Aerial Vehicle Hangar",
+    "type": "Sources Sought",
+    "url": "https://sam.gov/workspace/contract/opp/21bee4f25244474e9769d6c4f37d2f95/view"
+   }
+  },
+  {
    "key": "92757ddd971f417d9336aafaec12afd1",
    "source": "pipeline-sam-unmanned",
    "fields": {
@@ -782,20 +796,6 @@
     "title": "Multi-Domain Force Applications and Traffic Management for Unmanned Aircraft Systems (M-FAT)",
     "type": "Presolicitation",
     "url": "https://sam.gov/workspace/contract/opp/b36be2c41929484491aa870a2bcf1e68/view"
-   }
-  },
-  {
-   "key": "94694bdd989b457db253895cb66f3540",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION SOUTH PACIFIC.ENDIST LOS ANGELES.W075 ENDIST LOS ANGELES",
-    "closes": "2026-06-26T14:00:00-08:00",
-    "number": "W912PL26S0031",
-    "posted": "2026-05-21",
-    "text": "Sources Sought - Design-Build to Budget (DB2B) Construction of Tactical Unmanned Aerial Vehicle Hangar",
-    "title": "Sources Sought - Design-Build to Budget (DB2B) Construction of Tactical Unmanned Aerial Vehicle Hangar",
-    "type": "Sources Sought",
-    "url": "https://sam.gov/workspace/contract/opp/94694bdd989b457db253895cb66f3540/view"
    }
   },
   {

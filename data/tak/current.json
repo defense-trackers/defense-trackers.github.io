@@ -1,7 +1,7 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-06-12T10:43:21Z",
+ "fetched_at": "2026-06-12T20:57:26Z",
  "schema_version": 1,
  "records": [
   {
@@ -511,7 +511,7 @@
    "key": "FreeTAKTeam/DigitalPy",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-06-12T00:03:05Z",
+    "date": "2026-06-12T14:49:22Z",
     "description": "A framework to support digital engineering in the python language",
     "stars": "11",
     "text": "FreeTAKTeam/DigitalPy",
@@ -592,7 +592,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-05-30T22:20:31Z",
+    "date": "2026-06-12T14:54:08Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "81",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -675,7 +675,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-06-12T10:39:00Z",
+    "date": "2026-06-12T20:53:00Z",
     "description": "full port of Reticulum and LXMF to Rust with added SDK",
     "stars": "18",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -730,10 +730,22 @@
    }
   },
   {
+   "key": "Cloud-RF/SOOTHSAYER-ATAK-plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-06-12T12:22:10Z",
+    "description": "ATAK plugin for SOOTHSAYER",
+    "stars": "10",
+    "text": "Cloud-RF/SOOTHSAYER-ATAK-plugin",
+    "title": "Cloud-RF/SOOTHSAYER-ATAK-plugin",
+    "url": "https://github.com/Cloud-RF/SOOTHSAYER-ATAK-plugin"
+   }
+  },
+  {
    "key": "atakmaps/TAK-MESHCORE",
    "source": "tak-github",
    "fields": {
-    "date": "2026-06-12T08:45:58Z",
+    "date": "2026-06-12T19:57:56Z",
     "description": "ATAK MeshCore plugin",
     "stars": "13",
     "text": "atakmaps/TAK-MESHCORE",
@@ -904,18 +916,6 @@
     "text": "meshtastic/pluginmeshtastic",
     "title": "meshtastic/pluginmeshtastic",
     "url": "https://github.com/meshtastic/pluginmeshtastic"
-   }
-  },
-  {
-   "key": "Cloud-RF/SOOTHSAYER-ATAK-plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-06-11T22:18:13Z",
-    "description": "ATAK plugin for SOOTHSAYER",
-    "stars": "10",
-    "text": "Cloud-RF/SOOTHSAYER-ATAK-plugin",
-    "title": "Cloud-RF/SOOTHSAYER-ATAK-plugin",
-    "url": "https://github.com/Cloud-RF/SOOTHSAYER-ATAK-plugin"
    }
   },
   {
