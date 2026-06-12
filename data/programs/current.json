@@ -1,7 +1,7 @@
 {
  "source": "programs",
  "tracker": "programs",
- "fetched_at": "2026-06-12T01:35:17Z",
+ "fetched_at": "2026-06-12T01:49:26Z",
  "schema_version": 1,
  "records": [
   {
@@ -15,36 +15,6 @@
     "notes": "AI-informed C2, federated data mesh, MCP agents, zero-trust, IL4-6/SECRET-TS",
     "status": "OPEN — closes 2026-06-15",
     "text": "DIU Hydra CSO (USSF Tactical C2)",
-    "type": "CSO / OT prototype",
-    "url": "https://www.diu.mil/work-with-us/open-solicitations"
-   }
-  },
-  {
-   "key": "DIU ARV CSO (Autonomous Resupply Vessel)",
-   "source": "programs",
-   "fields": {
-    "agency": "DIU + Navy",
-    "domain": "Autonomy, contested logistics",
-    "eligibility": "small biz / nontraditional (10 USC 4022(d))",
-    "name": "DIU ARV CSO (Autonomous Resupply Vessel)",
-    "notes": "Autonomous maritime resupply, Indo-Pacific; demo on water within 12 months",
-    "status": "OPEN — closes 2026-06-12",
-    "text": "DIU ARV CSO (Autonomous Resupply Vessel)",
-    "type": "CSO / OT prototype",
-    "url": "https://www.diu.mil/work-with-us/open-solicitations"
-   }
-  },
-  {
-   "key": "DIU Commercial Solutions Openings (rolling)",
-   "source": "programs",
-   "fields": {
-    "agency": "DIU",
-    "domain": "all four",
-    "eligibility": "small biz / nontraditional",
-    "name": "DIU Commercial Solutions Openings (rolling)",
-    "notes": "60-90 day target (GAO found ~172d actual). 7 portfolios incl. AI, Autonomy, Cyber \u0026 Telecom",
-    "status": "rolling — poll continuously",
-    "text": "DIU Commercial Solutions Openings (rolling)",
     "type": "CSO / OT prototype",
     "url": "https://www.diu.mil/work-with-us/open-solicitations"
    }
@@ -105,36 +75,6 @@
     "notes": "Monitor SAM.gov solicitation NUMBER (durable). SAM ID b5a6c44ae7184a369f54ba0054250f96",
     "status": "annual (e.g. HR001126S0001)",
     "text": "DARPA I2O office-wide BAA",
-    "type": "BAA",
-    "url": "https://www.darpa.mil/research/opportunities/baa"
-   }
-  },
-  {
-   "key": "DARPA STO office-wide BAA",
-   "source": "programs",
-   "fields": {
-    "agency": "DARPA Strategic Technology Office",
-    "domain": "Mesh / resilient comms",
-    "eligibility": "open (incl. small biz)",
-    "name": "DARPA STO office-wide BAA",
-    "notes": "SAM ID 4fec19a30ac44fcda1362c7c63be95a3",
-    "status": "annual",
-    "text": "DARPA STO office-wide BAA",
-    "type": "BAA",
-    "url": "https://www.darpa.mil/research/opportunities/baa"
-   }
-  },
-  {
-   "key": "DARPA TTO office-wide BAA",
-   "source": "programs",
-   "fields": {
-    "agency": "DARPA Tactical Technology Office",
-    "domain": "Autonomy / edge",
-    "eligibility": "open (incl. small biz)",
-    "name": "DARPA TTO office-wide BAA",
-    "notes": "SAM ID 109aceb76198452b91f8ecce72b4890b",
-    "status": "annual",
-    "text": "DARPA TTO office-wide BAA",
     "type": "BAA",
     "url": "https://www.darpa.mil/research/opportunities/baa"
    }

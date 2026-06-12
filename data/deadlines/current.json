@@ -1,7 +1,7 @@
 {
  "source": "deadlines",
  "tracker": "deadlines",
- "fetched_at": "2026-06-12T01:46:34Z",
+ "fetched_at": "2026-06-12T01:49:42Z",
  "schema_version": 1,
  "records": [
   {
@@ -15,32 +15,6 @@
     "title": "AFCEA WEST 2027",
     "type": "conference",
     "url": "https://www.westconference.org/"
-   }
-  },
-  {
-   "key": "ausa-global-2026",
-   "source": "deadlines-events",
-   "fields": {
-    "date": "2026-03-31",
-    "id": "ausa-global-2026",
-    "note": "verify dates",
-    "text": "AUSA Global Force Symposium 2026",
-    "title": "AUSA Global Force Symposium 2026",
-    "type": "conference",
-    "url": "https://meetings.ausa.org/global/"
-   }
-  },
-  {
-   "key": "sea-air-space-2026",
-   "source": "deadlines-events",
-   "fields": {
-    "date": "2026-04-06",
-    "id": "sea-air-space-2026",
-    "note": "verify dates",
-    "text": "Sea-Air-Space 2026",
-    "title": "Sea-Air-Space 2026",
-    "type": "conference",
-    "url": "https://seaairspace.org/"
    }
   },
   {
@@ -106,6 +80,58 @@
     "title": "Modern Day Marine 2027",
     "type": "exposition",
     "url": "https://marinemilitaryexpos.com/"
+   }
+  },
+  {
+   "key": "close-343653",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "Dept. of the Army -- USAMRAA",
+    "closes": "2027-09-18",
+    "date": "2027-09-18",
+    "from": "pipeline",
+    "text": "Department of Defense HIV/AIDS Prevention Program",
+    "title": "Department of Defense HIV/AIDS Prevention Program",
+    "url": "https://www.grants.gov/search-results-detail/343653"
+   }
+  },
+  {
+   "key": "close-362671",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "Department of Homeland Security - FEMA",
+    "closes": "2026-07-06",
+    "date": "2026-07-06",
+    "from": "pipeline",
+    "text": "State Border Security Reinforcement Fund",
+    "title": "State Border Security Reinforcement Fund",
+    "url": "https://www.grants.gov/search-results-detail/362671"
+   }
+  },
+  {
+   "key": "close-345241",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "Dept of the Army -- Materiel Command",
+    "closes": "2028-01-04",
+    "date": "2028-01-04",
+    "from": "pipeline",
+    "text": "DEVCOM ANALYSIS CENTER BROAD AGENCY ANNOUNCEMENT FOR APPLIED RESEARCH",
+    "title": "DEVCOM ANALYSIS CENTER BROAD AGENCY ANNOUNCEMENT FOR APPLIED RESEARCH",
+    "url": "https://www.grants.gov/search-results-detail/345241"
+   }
+  },
+  {
+   "key": "close-349554",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "Air Force -- Research Lab",
+    "closes": "2043-05-10",
+    "date": "2043-05-10",
+    "from": "pipeline",
+    "text": "Pioneering Aerospace Capabilities, Engineering and Research (PACER)",
+    "title": "Pioneering Aerospace Capabilities, Engineering and Research (PACER)",
+    "url": "https://www.grants.gov/search-results-detail/349554"
    }
   },
   {
@@ -434,58 +460,6 @@
    }
   },
   {
-   "key": "close-343653",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "Dept. of the Army -- USAMRAA",
-    "closes": "2027-09-18",
-    "date": "2027-09-18",
-    "from": "pipeline",
-    "text": "Department of Defense HIV/AIDS Prevention Program",
-    "title": "Department of Defense HIV/AIDS Prevention Program",
-    "url": "https://www.grants.gov/search-results-detail/343653"
-   }
-  },
-  {
-   "key": "close-362671",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "Department of Homeland Security - FEMA",
-    "closes": "2026-07-06",
-    "date": "2026-07-06",
-    "from": "pipeline",
-    "text": "State Border Security Reinforcement Fund",
-    "title": "State Border Security Reinforcement Fund",
-    "url": "https://www.grants.gov/search-results-detail/362671"
-   }
-  },
-  {
-   "key": "close-345241",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "Dept of the Army -- Materiel Command",
-    "closes": "2028-01-04",
-    "date": "2028-01-04",
-    "from": "pipeline",
-    "text": "DEVCOM ANALYSIS CENTER BROAD AGENCY ANNOUNCEMENT FOR APPLIED RESEARCH",
-    "title": "DEVCOM ANALYSIS CENTER BROAD AGENCY ANNOUNCEMENT FOR APPLIED RESEARCH",
-    "url": "https://www.grants.gov/search-results-detail/345241"
-   }
-  },
-  {
-   "key": "close-349554",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "Air Force -- Research Lab",
-    "closes": "2043-05-10",
-    "date": "2043-05-10",
-    "from": "pipeline",
-    "text": "Pioneering Aerospace Capabilities, Engineering and Research (PACER)",
-    "title": "Pioneering Aerospace Capabilities, Engineering and Research (PACER)",
-    "url": "https://www.grants.gov/search-results-detail/349554"
-   }
-  },
-  {
    "key": "close-356623",
    "source": "deadlines-solicitations",
    "fields": {
@@ -509,6 +483,45 @@
     "text": "Standards Coordination Office Curricula Development Cooperative Agreement Program",
     "title": "Standards Coordination Office Curricula Development Cooperative Agreement Program",
     "url": "https://www.grants.gov/search-results-detail/362381"
+   }
+  },
+  {
+   "key": "close-0800655bb5714d68957ce0d5ee922938",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
+    "closes": "2026-08-25",
+    "date": "2026-08-25",
+    "from": "pipeline",
+    "text": "Decentralized Artificial Intelligence through Controlled Emergence (DICE)",
+    "title": "Decentralized Artificial Intelligence through Controlled Emergence (DICE)",
+    "url": "https://sam.gov/workspace/contract/opp/0800655bb5714d68957ce0d5ee922938/view"
+   }
+  },
+  {
+   "key": "close-48447d3383784571a5a37119d19e5751",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AF INSTALLATION \u0026 MISSION SUPPORT CENTER.FA8903  772 ESS PK",
+    "closes": "2026-06-29",
+    "date": "2026-06-29",
+    "from": "pipeline",
+    "text": "RFLP Artificial Intelligence (AI) Data Center Development at Joint Base Elmendorf Richardson, Eielson Air Force Base, and Clear Space Force Station",
+    "title": "RFLP Artificial Intelligence (AI) Data Center Development at Joint Base Elmendorf Richardson, Eielson Air Force Base, and Clear Space Force Station",
+    "url": "https://sam.gov/workspace/contract/opp/48447d3383784571a5a37119d19e5751/view"
+   }
+  },
+  {
+   "key": "close-a077021d13f843a5aa5f0baee00b1097",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
+    "closes": "2026-06-22",
+    "date": "2026-06-22",
+    "from": "pipeline",
+    "text": "AI Forge Program: University Research Capabilities for Artificial Intelligence (AI) Strategic Thrusts Request for Information (RFI)",
+    "title": "AI Forge Program: University Research Capabilities for Artificial Intelligence (AI) Strategic Thrusts Request for Information (RFI)",
+    "url": "https://sam.gov/workspace/contract/opp/a077021d13f843a5aa5f0baee00b1097/view"
    }
   },
   {
@@ -704,45 +717,6 @@
     "text": "USAREUR-AF Small Unmanned Aircraft Systems (sUAS) Blanket Purchase Agreement",
     "title": "USAREUR-AF Small Unmanned Aircraft Systems (sUAS) Blanket Purchase Agreement",
     "url": "https://sam.gov/workspace/contract/opp/2b32fcbd97224f68bbd4d2649bf6c28f/view"
-   }
-  },
-  {
-   "key": "close-0800655bb5714d68957ce0d5ee922938",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
-    "closes": "2026-08-25",
-    "date": "2026-08-25",
-    "from": "pipeline",
-    "text": "Decentralized Artificial Intelligence through Controlled Emergence (DICE)",
-    "title": "Decentralized Artificial Intelligence through Controlled Emergence (DICE)",
-    "url": "https://sam.gov/workspace/contract/opp/0800655bb5714d68957ce0d5ee922938/view"
-   }
-  },
-  {
-   "key": "close-48447d3383784571a5a37119d19e5751",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AF INSTALLATION \u0026 MISSION SUPPORT CENTER.FA8903  772 ESS PK",
-    "closes": "2026-06-29",
-    "date": "2026-06-29",
-    "from": "pipeline",
-    "text": "RFLP Artificial Intelligence (AI) Data Center Development at Joint Base Elmendorf Richardson, Eielson Air Force Base, and Clear Space Force Station",
-    "title": "RFLP Artificial Intelligence (AI) Data Center Development at Joint Base Elmendorf Richardson, Eielson Air Force Base, and Clear Space Force Station",
-    "url": "https://sam.gov/workspace/contract/opp/48447d3383784571a5a37119d19e5751/view"
-   }
-  },
-  {
-   "key": "close-a077021d13f843a5aa5f0baee00b1097",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
-    "closes": "2026-06-22",
-    "date": "2026-06-22",
-    "from": "pipeline",
-    "text": "AI Forge Program: University Research Capabilities for Artificial Intelligence (AI) Strategic Thrusts Request for Information (RFI)",
-    "title": "AI Forge Program: University Research Capabilities for Artificial Intelligence (AI) Strategic Thrusts Request for Information (RFI)",
-    "url": "https://sam.gov/workspace/contract/opp/a077021d13f843a5aa5f0baee00b1097/view"
    }
   }
  ]

@@ -1,7 +1,7 @@
 {
  "source": "research-funding",
  "tracker": "research-funding",
- "fetched_at": "2026-06-12T01:46:31Z",
+ "fetched_at": "2026-06-12T01:49:29Z",
  "schema_version": 1,
  "records": [
   {
@@ -61,17 +61,17 @@
    }
   },
   {
-   "key": "2526622",
+   "key": "2609004",
    "source": "research-nsf",
    "fields": {
     "agency": "NSF",
-    "amount": "400000",
-    "awardee": "Brown University",
+    "amount": "880650",
+    "awardee": "University of Minnesota-Twin Cities",
     "date": "10/01/2026",
-    "program": "Secure \u0026Trustworthy Cyberspace",
-    "text": "Collaborative Research: SaTC 2.0: RES: AIGIS: Securing the Deep Learning Model Supply Chain",
-    "title": "Collaborative Research: SaTC 2.0: RES: AIGIS: Securing the Deep Learning Model Supply Chain",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2526622"
+    "program": "NAIRR-Nat AI Research Resource, Software Institutes, PHYSICS AT THE INFO FRONTIER",
+    "text": "Collaborative Research: Frameworks: ML4GW, a machine learning ecosystem for gravitational wave data analysis",
+    "title": "Collaborative Research: Frameworks: ML4GW, a machine learning ecosystem for gravitational wave data analysis",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2609004"
    }
   },
   {
@@ -86,6 +86,20 @@
     "text": "Collaborative Research: SaTC 2.0: RES: AIGIS: Securing the Deep Learning Model Supply Chain",
     "title": "Collaborative Research: SaTC 2.0: RES: AIGIS: Securing the Deep Learning Model Supply Chain",
     "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2526621"
+   }
+  },
+  {
+   "key": "2526622",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "400000",
+    "awardee": "Brown University",
+    "date": "10/01/2026",
+    "program": "Secure \u0026Trustworthy Cyberspace",
+    "text": "Collaborative Research: SaTC 2.0: RES: AIGIS: Securing the Deep Learning Model Supply Chain",
+    "title": "Collaborative Research: SaTC 2.0: RES: AIGIS: Securing the Deep Learning Model Supply Chain",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2526622"
    }
   }
  ]

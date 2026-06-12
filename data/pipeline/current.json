@@ -1,9 +1,88 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-06-12T01:46:34Z",
+ "fetched_at": "2026-06-12T01:49:20Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "343653",
+   "source": "pipeline-logistics",
+   "fields": {
+    "agency": "Dept. of the Army -- USAMRAA",
+    "closes": "09/18/2027",
+    "number": "W81XWH-22-DHAPP",
+    "posted": "09/19/2022",
+    "text": "Department of Defense HIV/AIDS Prevention Program",
+    "title": "Department of Defense HIV/AIDS Prevention Program",
+    "url": "https://www.grants.gov/search-results-detail/343653"
+   }
+  },
+  {
+   "key": "356837",
+   "source": "pipeline-logistics",
+   "fields": {
+    "agency": "Dept of the Army -- Materiel Command",
+    "number": "DEVCOM-ARL-RFI-25-01",
+    "posted": "10/24/2024",
+    "text": "Request for Information – University Partnership Models",
+    "title": "Request for Information – University Partnership Models",
+    "url": "https://www.grants.gov/search-results-detail/356837"
+   }
+  },
+  {
+   "key": "362671",
+   "source": "pipeline-logistics",
+   "fields": {
+    "agency": "Department of Homeland Security - FEMA",
+    "closes": "07/06/2026",
+    "number": "DHS-26-GPD-159-00-99",
+    "posted": "06/03/2026",
+    "text": "State Border Security Reinforcement Fund",
+    "title": "State Border Security Reinforcement Fund",
+    "url": "https://www.grants.gov/search-results-detail/362671"
+   }
+  },
+  {
+   "key": "345241",
+   "source": "pipeline-logistics",
+   "fields": {
+    "agency": "Dept of the Army -- Materiel Command",
+    "closes": "01/04/2028",
+    "number": "W911NF-23-S-0003",
+    "posted": "01/05/2023",
+    "text": "DEVCOM ANALYSIS CENTER BROAD AGENCY ANNOUNCEMENT FOR APPLIED RESEARCH",
+    "title": "DEVCOM ANALYSIS CENTER BROAD AGENCY ANNOUNCEMENT FOR APPLIED RESEARCH",
+    "url": "https://www.grants.gov/search-results-detail/345241"
+   }
+  },
+  {
+   "key": "349554",
+   "source": "pipeline-logistics",
+   "fields": {
+    "agency": "Air Force -- Research Lab",
+    "closes": "05/10/2043",
+    "number": "FA2391-23-S-2403",
+    "posted": "07/26/2023",
+    "text": "Pioneering Aerospace Capabilities, Engineering and Research (PACER)",
+    "title": "Pioneering Aerospace Capabilities, Engineering and Research (PACER)",
+    "url": "https://www.grants.gov/search-results-detail/349554"
+   }
+  },
+  {
+   "key": "0342cd8c0ab447d6b40baa05dd731a7d",
+   "source": "pipeline-sam-mesh",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.MISSION INSTALLATION CONTRACTING COMMAND.419TH CSB.W6QM MICC-FT DRUM",
+    "closes": "2026-03-03T17:00:00-08:00",
+    "number": "W911S226U2663",
+    "posted": "2026-02-24",
+    "setaside": "Total Small Business Set-Aside (FAR 19.5)",
+    "text": "Mesh Network Radio and Server",
+    "title": "Mesh Network Radio and Server",
+    "type": "Combined Synopsis/Solicitation",
+    "url": "https://sam.gov/workspace/contract/opp/0342cd8c0ab447d6b40baa05dd731a7d/view"
+   }
+  },
   {
    "key": "339728",
    "source": "pipeline-autonomy",
@@ -414,70 +493,6 @@
    }
   },
   {
-   "key": "343653",
-   "source": "pipeline-logistics",
-   "fields": {
-    "agency": "Dept. of the Army -- USAMRAA",
-    "closes": "09/18/2027",
-    "number": "W81XWH-22-DHAPP",
-    "posted": "09/19/2022",
-    "text": "Department of Defense HIV/AIDS Prevention Program",
-    "title": "Department of Defense HIV/AIDS Prevention Program",
-    "url": "https://www.grants.gov/search-results-detail/343653"
-   }
-  },
-  {
-   "key": "356837",
-   "source": "pipeline-logistics",
-   "fields": {
-    "agency": "Dept of the Army -- Materiel Command",
-    "number": "DEVCOM-ARL-RFI-25-01",
-    "posted": "10/24/2024",
-    "text": "Request for Information – University Partnership Models",
-    "title": "Request for Information – University Partnership Models",
-    "url": "https://www.grants.gov/search-results-detail/356837"
-   }
-  },
-  {
-   "key": "362671",
-   "source": "pipeline-logistics",
-   "fields": {
-    "agency": "Department of Homeland Security - FEMA",
-    "closes": "07/06/2026",
-    "number": "DHS-26-GPD-159-00-99",
-    "posted": "06/03/2026",
-    "text": "State Border Security Reinforcement Fund",
-    "title": "State Border Security Reinforcement Fund",
-    "url": "https://www.grants.gov/search-results-detail/362671"
-   }
-  },
-  {
-   "key": "345241",
-   "source": "pipeline-logistics",
-   "fields": {
-    "agency": "Dept of the Army -- Materiel Command",
-    "closes": "01/04/2028",
-    "number": "W911NF-23-S-0003",
-    "posted": "01/05/2023",
-    "text": "DEVCOM ANALYSIS CENTER BROAD AGENCY ANNOUNCEMENT FOR APPLIED RESEARCH",
-    "title": "DEVCOM ANALYSIS CENTER BROAD AGENCY ANNOUNCEMENT FOR APPLIED RESEARCH",
-    "url": "https://www.grants.gov/search-results-detail/345241"
-   }
-  },
-  {
-   "key": "349554",
-   "source": "pipeline-logistics",
-   "fields": {
-    "agency": "Air Force -- Research Lab",
-    "closes": "05/10/2043",
-    "number": "FA2391-23-S-2403",
-    "posted": "07/26/2023",
-    "text": "Pioneering Aerospace Capabilities, Engineering and Research (PACER)",
-    "title": "Pioneering Aerospace Capabilities, Engineering and Research (PACER)",
-    "url": "https://www.grants.gov/search-results-detail/349554"
-   }
-  },
-  {
    "key": "356623",
    "source": "pipeline-ml",
    "fields": {
@@ -525,6 +540,62 @@
     "text": "Standards Coordination Office Curricula Development Cooperative Agreement Program",
     "title": "Standards Coordination Office Curricula Development Cooperative Agreement Program",
     "url": "https://www.grants.gov/search-results-detail/362381"
+   }
+  },
+  {
+   "key": "0800655bb5714d68957ce0d5ee922938",
+   "source": "pipeline-sam-ai",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
+    "closes": "2026-08-25T14:00:00",
+    "number": "HR001126S0010",
+    "posted": "2026-06-10",
+    "text": "Decentralized Artificial Intelligence through Controlled Emergence (DICE)",
+    "title": "Decentralized Artificial Intelligence through Controlled Emergence (DICE)",
+    "type": "Solicitation",
+    "url": "https://sam.gov/workspace/contract/opp/0800655bb5714d68957ce0d5ee922938/view"
+   }
+  },
+  {
+   "key": "48447d3383784571a5a37119d19e5751",
+   "source": "pipeline-sam-ai",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AF INSTALLATION \u0026 MISSION SUPPORT CENTER.FA8903  772 ESS PK",
+    "closes": "2026-06-29T17:00:00-04:00",
+    "number": "AFCEC-26-R-0006",
+    "posted": "2026-06-05",
+    "setaside": "No Set aside used",
+    "text": "RFLP Artificial Intelligence (AI) Data Center Development at Joint Base Elmendorf Richardson, Eielson Air Force Base, and Clear Space Force Station",
+    "title": "RFLP Artificial Intelligence (AI) Data Center Development at Joint Base Elmendorf Richardson, Eielson Air Force Base, and Clear Space Force Station",
+    "type": "Solicitation",
+    "url": "https://sam.gov/workspace/contract/opp/48447d3383784571a5a37119d19e5751/view"
+   }
+  },
+  {
+   "key": "a077021d13f843a5aa5f0baee00b1097",
+   "source": "pipeline-sam-ai",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
+    "closes": "2026-06-22T17:00:00",
+    "number": "DARPA-SN-26-80",
+    "posted": "2026-06-01",
+    "text": "AI Forge Program: University Research Capabilities for Artificial Intelligence (AI) Strategic Thrusts Request for Information (RFI)",
+    "title": "AI Forge Program: University Research Capabilities for Artificial Intelligence (AI) Strategic Thrusts Request for Information (RFI)",
+    "type": "Special Notice",
+    "url": "https://sam.gov/workspace/contract/opp/a077021d13f843a5aa5f0baee00b1097/view"
+   }
+  },
+  {
+   "key": "029de16a1f234bd0b4f55889f5fa52f0",
+   "source": "pipeline-sam-ai",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA8750  AFRL RIK",
+    "number": "FA875023S7006",
+    "posted": "2026-05-28",
+    "text": "ARTIFICIAL INTELLIGENCE AND NEXT GENERATION DISTRIBUTED COMMAND AND CONTROL",
+    "title": "ARTIFICIAL INTELLIGENCE AND NEXT GENERATION DISTRIBUTED COMMAND AND CONTROL",
+    "type": "Presolicitation",
+    "url": "https://sam.gov/workspace/contract/opp/029de16a1f234bd0b4f55889f5fa52f0/view"
    }
   },
   {
@@ -615,21 +686,6 @@
    }
   },
   {
-   "key": "d44ea5123ff647d19da5c1255eb4d2f8",
-   "source": "pipeline-sam-autonomy",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NSWC CRANE",
-    "closes": "2026-06-05T17:00:00-04:00",
-    "number": "N0016426Q0146Amendment",
-    "posted": "2026-05-28",
-    "setaside": "Total Small Business Set-Aside (FAR 19.5)",
-    "text": "Autonomous Drone and Systems Training",
-    "title": "Autonomous Drone and Systems Training",
-    "type": "Combined Synopsis/Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/d44ea5123ff647d19da5c1255eb4d2f8/view"
-   }
-  },
-  {
    "key": "cb9bdc8fcee14c6b9e43a9658fe5b5fe",
    "source": "pipeline-sam-autonomy",
    "fields": {
@@ -672,35 +728,6 @@
    }
   },
   {
-   "key": "5a5b3b20ce7447a0b3d7014a5c857992",
-   "source": "pipeline-sam-autonomy",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-DTA.W6QK ACC- DTA",
-    "closes": "2026-06-01T17:00:00-04:00",
-    "number": "W912CH26SC003AoI002",
-    "posted": "2026-05-18",
-    "text": "Capability Program Executive (CPE) Mission Autonomy Commercial Solution Opening (CSO) Area of Interest 002 Bridge Erection Boat (BEB) Autonomous Operations",
-    "title": "Capability Program Executive (CPE) Mission Autonomy Commercial Solution Opening (CSO) Area of Interest 002 Bridge Erection Boat (BEB) Autonomous Operations",
-    "type": "Special Notice",
-    "url": "https://sam.gov/workspace/contract/opp/5a5b3b20ce7447a0b3d7014a5c857992/view"
-   }
-  },
-  {
-   "key": "f5e7d97188ba4272b704ec9305dd883c",
-   "source": "pipeline-sam-autonomy",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NSWC CRANE",
-    "closes": "2026-05-27T20:00:00-04:00",
-    "number": "N0016426Q0146",
-    "posted": "2026-05-14",
-    "setaside": "Total Small Business Set-Aside (FAR 19.5)",
-    "text": "Autonomous Drone and Systems Training",
-    "title": "Autonomous Drone and Systems Training",
-    "type": "Combined Synopsis/Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/f5e7d97188ba4272b704ec9305dd883c/view"
-   }
-  },
-  {
    "key": "3e66d960c0a14d51b236bbcf712d34cf",
    "source": "pipeline-sam-autonomy",
    "fields": {
@@ -712,51 +739,6 @@
     "title": "Virtual-Integrated Twin for Autonomous Lifesaving (VITAL)",
     "type": "Solicitation",
     "url": "https://sam.gov/workspace/contract/opp/3e66d960c0a14d51b236bbcf712d34cf/view"
-   }
-  },
-  {
-   "key": "ed055b8571564af399dbb2174c87b736",
-   "source": "pipeline-sam-autonomy",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.MISSION INSTALLATION CONTRACTING COMMAND.419TH CSB.W6QM MICC-FT DRUM",
-    "closes": "2026-01-22T12:00:00-05:00",
-    "number": "W911S226U2474",
-    "posted": "2026-01-20",
-    "setaside": "Total Small Business Set-Aside (FAR 19.5)",
-    "text": "autonomous portable blood refrigeration unit",
-    "title": "autonomous portable blood refrigeration unit",
-    "type": "Combined Synopsis/Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/ed055b8571564af399dbb2174c87b736/view"
-   }
-  },
-  {
-   "key": "1b92954826b4488cb011cb429108c8a1",
-   "source": "pipeline-sam-autonomy",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.MISSION INSTALLATION CONTRACTING COMMAND.419TH CSB.W6QM MICC-FT DRUM",
-    "closes": "2026-01-14T13:35:00-05:00",
-    "number": "W911S226U2391",
-    "posted": "2026-01-07",
-    "setaside": "Total Small Business Set-Aside (FAR 19.5)",
-    "text": "6l capacity Autonomous Portable blood Refrigeration Unit",
-    "title": "6l capacity Autonomous Portable blood Refrigeration Unit",
-    "type": "Combined Synopsis/Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/1b92954826b4488cb011cb429108c8a1/view"
-   }
-  },
-  {
-   "key": "0342cd8c0ab447d6b40baa05dd731a7d",
-   "source": "pipeline-sam-mesh",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.MISSION INSTALLATION CONTRACTING COMMAND.419TH CSB.W6QM MICC-FT DRUM",
-    "closes": "2026-03-03T17:00:00-08:00",
-    "number": "W911S226U2663",
-    "posted": "2026-02-24",
-    "setaside": "Total Small Business Set-Aside (FAR 19.5)",
-    "text": "Mesh Network Radio and Server",
-    "title": "Mesh Network Radio and Server",
-    "type": "Combined Synopsis/Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/0342cd8c0ab447d6b40baa05dd731a7d/view"
    }
   },
   {
@@ -787,35 +769,6 @@
     "title": "OCEAN FLOOR MAPPING WITH LONG-ENDURANCE UNMANNED SYSTEMS",
     "type": "Solicitation",
     "url": "https://sam.gov/workspace/contract/opp/0530ce59a5084be0b0f720a7ef4daaff/view"
-   }
-  },
-  {
-   "key": "e7ea8337807f42ffaf88ee7318848044",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSUP.NAVSUP GLOBAL LOGISTICS SUPPORT.NAVSUP FLC NORFOLK.NAVSUP FLT LOG CTR NORFOLK",
-    "closes": "2026-06-03T12:00:00-04:00",
-    "number": "N0018926QL154",
-    "posted": "2026-06-01",
-    "setaside": "Total Small Business Set-Aside (FAR 19.5)",
-    "text": "Emerging Threats in Small Unmanned Aircraft Systems (sUAS) Warfare",
-    "title": "Emerging Threats in Small Unmanned Aircraft Systems (sUAS) Warfare",
-    "type": "Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/e7ea8337807f42ffaf88ee7318848044/view"
-   }
-  },
-  {
-   "key": "c9a5ea2425964b6a8c66d8fe9c7fc65c",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NAVAL SURFACE WARFARE CENTER",
-    "closes": "2026-06-04T11:00:00-05:00",
-    "number": "N61331-26-Q-KS34",
-    "posted": "2026-06-01",
-    "text": "Sole Source to Woods Hole Oceanographic Institute for Unmanned Underwater Vehicle Resilience In-Water Test Support  per attachments",
-    "title": "Sole Source to Woods Hole Oceanographic Institute for Unmanned Underwater Vehicle Resilience In-Water Test Support  per attachments",
-    "type": "Combined Synopsis/Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/c9a5ea2425964b6a8c66d8fe9c7fc65c/view"
    }
   },
   {
@@ -861,123 +814,6 @@
    }
   },
   {
-   "key": "15edc823c51141e7bac8c62921dd272f",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVAIR.NAVAIR HQS.NAVAL AIR SYSTEMS COMMAND",
-    "closes": "2026-05-29T16:30:00-04:00",
-    "number": "N00019-26-RFPREQ-TPM231-0370",
-    "posted": "2026-05-14",
-    "text": "Manned/Unmanned Teaming (MUM-T) Plus Experimentation Effort",
-    "title": "Manned/Unmanned Teaming (MUM-T) Plus Experimentation Effort",
-    "type": "Presolicitation",
-    "url": "https://sam.gov/workspace/contract/opp/15edc823c51141e7bac8c62921dd272f/view"
-   }
-  },
-  {
-   "key": "42aee566e9c74f5ea089d2b6e567ca68",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR HQ.NAVAL INFORMATION WARFARE SYSTEMS",
-    "closes": "2026-05-14T14:00:00-07:00",
-    "number": "N0003926RA005",
-    "posted": "2026-05-06",
-    "text": "Area of Interest (AOI): Information and Communications Technology (ICT) for Unmanned Surface Vessels (USV)",
-    "title": "Area of Interest (AOI): Information and Communications Technology (ICT) for Unmanned Surface Vessels (USV)",
-    "type": "Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/42aee566e9c74f5ea089d2b6e567ca68/view"
-   }
-  },
-  {
-   "key": "a61c4ee1e5204c3ea03dec6d7e1dde47",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION GREAT LAKES AND OHIO.ENDIST LOUISVILLE.W072 ENDIST LOUISVILLE",
-    "closes": "2026-04-21T10:00:00-04:00",
-    "number": "W912QR26BA010",
-    "posted": "2026-04-17",
-    "setaside": "Total Small Business Set-Aside (FAR 19.5)",
-    "text": "Unmanned Fusion Warfare Laboratory (UFWL) at NSWC Crane IN",
-    "title": "Unmanned Fusion Warfare Laboratory (UFWL) at NSWC Crane IN",
-    "type": "Presolicitation",
-    "url": "https://sam.gov/workspace/contract/opp/a61c4ee1e5204c3ea03dec6d7e1dde47/view"
-   }
-  },
-  {
-   "key": "876ad75cb1054125981b73c5e085a383",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.MISSION INSTALLATION CONTRACTING COMMAND.419TH CSB.W6QM MICC-FT DRUM",
-    "closes": "2026-04-21T11:00:00-06:00",
-    "number": "W911S226U3022",
-    "posted": "2026-04-14",
-    "setaside": "Total Small Business Set-Aside (FAR 19.5)",
-    "text": "Unmanned aerial surveillance drone ",
-    "title": "Unmanned aerial surveillance drone ",
-    "type": "Combined Synopsis/Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/876ad75cb1054125981b73c5e085a383/view"
-   }
-  },
-  {
-   "key": "8fc07bff4f6745b59168bd6cf65ad4ae",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVAIR.NAVAIR HQS.NAVAL AIR SYSTEMS COMMAND",
-    "closes": "2026-04-01T10:00:00-04:00",
-    "number": "N0042126R1006",
-    "posted": "2026-03-26",
-    "setaside": "Total Small Business Set-Aside (FAR 19.5)",
-    "text": "NAWCAD (WOLF) Ship and Air Integrated Warfare Division Small Unmanned Aircraft Systems (SUAS) Reusable Architecture (SRA)",
-    "title": "NAWCAD (WOLF) Ship and Air Integrated Warfare Division Small Unmanned Aircraft Systems (SUAS) Reusable Architecture (SRA)",
-    "type": "Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/8fc07bff4f6745b59168bd6cf65ad4ae/view"
-   }
-  },
-  {
-   "key": "dd0c44c75b90428ab037c4780d5e6013",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVAIR.NAVAIR HQS.NAVAL AIR SYSTEMS COMMAND",
-    "closes": "2026-03-23T23:59:00-04:00",
-    "number": "243-26-012",
-    "posted": "2026-03-20",
-    "setaside": "No Set aside used",
-    "text": "Unmanned Common Controller (UCC) for the United States Marine Corps",
-    "title": "Unmanned Common Controller (UCC) for the United States Marine Corps",
-    "type": "Sources Sought",
-    "url": "https://sam.gov/workspace/contract/opp/dd0c44c75b90428ab037c4780d5e6013/view"
-   }
-  },
-  {
-   "key": "d71555a5a6704e5abb1393c9eafdcc99",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVAIR.NAVAIR NAWC WD.NAVAL AIR WARFARE CENTER",
-    "closes": "2026-04-03T15:00:00-07:00",
-    "number": "N6893626RFPREQD0AH3000002",
-    "posted": "2026-03-19",
-    "text": "Reuseable, Unmanned Developmental Test and Evaluation (DT\u0026E) Platform",
-    "title": "Reuseable, Unmanned Developmental Test and Evaluation (DT\u0026E) Platform",
-    "type": "Sources Sought",
-    "url": "https://sam.gov/workspace/contract/opp/d71555a5a6704e5abb1393c9eafdcc99/view"
-   }
-  },
-  {
-   "key": "fb896cd1262144d19e47389cfb9207ba",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.MISSION INSTALLATION CONTRACTING COMMAND.419TH CSB.W6QM MICC-FT DRUM",
-    "closes": "2026-03-16T12:00:00-08:00",
-    "number": "W911S226U2754",
-    "posted": "2026-03-09",
-    "setaside": "Total Small Business Set-Aside (FAR 19.5)",
-    "text": "Unmanned Aircraft System Kinetic Strike Payload",
-    "title": "Unmanned Aircraft System Kinetic Strike Payload",
-    "type": "Combined Synopsis/Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/fb896cd1262144d19e47389cfb9207ba/view"
-   }
-  },
-  {
    "key": "2b32fcbd97224f68bbd4d2649bf6c28f",
    "source": "pipeline-sam-unmanned",
    "fields": {
@@ -990,106 +826,6 @@
     "title": "USAREUR-AF Small Unmanned Aircraft Systems (sUAS) Blanket Purchase Agreement",
     "type": "Sources Sought",
     "url": "https://sam.gov/workspace/contract/opp/2b32fcbd97224f68bbd4d2649bf6c28f/view"
-   }
-  },
-  {
-   "key": "80d8e8a150c24850a3bda34c0eb87013",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.MISSION INSTALLATION CONTRACTING COMMAND.419TH CSB.W6QM MICC-FT DRUM",
-    "closes": "2026-02-11T12:00:00-05:00",
-    "number": "W911S226QSDRN",
-    "posted": "2026-02-03",
-    "setaside": "Total Small Business Set-Aside (FAR 19.5)",
-    "text": "small unmanned aircraft systems (sUAS)",
-    "title": "small unmanned aircraft systems (sUAS)",
-    "type": "Sources Sought",
-    "url": "https://sam.gov/workspace/contract/opp/80d8e8a150c24850a3bda34c0eb87013/view"
-   }
-  },
-  {
-   "key": "b7c30b38c0c146959eda43eb198f7cd4",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-OO.411TH CSB.0411 AQ HQ     CONTRACT AUG",
-    "closes": "2026-03-09T09:00:00+09:00",
-    "number": "PAN411-26-P-0000027192",
-    "posted": "2026-01-29",
-    "text": "Request for Information (RFI) for Unmanned Aircraft Systems (UAS), Counter-UAS Systems, and Related Supplies ",
-    "title": "Request for Information (RFI) for Unmanned Aircraft Systems (UAS), Counter-UAS Systems, and Related Supplies ",
-    "type": "Sources Sought",
-    "url": "https://sam.gov/workspace/contract/opp/b7c30b38c0c146959eda43eb198f7cd4/view"
-   }
-  },
-  {
-   "key": "930b288442584843b94ec1d27d2279fe",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NAVAL SURFACE WARFARE CENTER",
-    "closes": "2026-01-16T16:00:00-06:00",
-    "number": "N6133126R3102",
-    "posted": "2026-01-08",
-    "setaside": "Service-Disabled Veteran-Owned Small Business Set Aside",
-    "text": "Unmanned Maritime Systems (UMS) Support",
-    "title": "Unmanned Maritime Systems (UMS) Support",
-    "type": "Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/930b288442584843b94ec1d27d2279fe/view"
-   }
-  },
-  {
-   "key": "0800655bb5714d68957ce0d5ee922938",
-   "source": "pipeline-sam-ai",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
-    "closes": "2026-08-25T14:00:00",
-    "number": "HR001126S0010",
-    "posted": "2026-06-10",
-    "text": "Decentralized Artificial Intelligence through Controlled Emergence (DICE)",
-    "title": "Decentralized Artificial Intelligence through Controlled Emergence (DICE)",
-    "type": "Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/0800655bb5714d68957ce0d5ee922938/view"
-   }
-  },
-  {
-   "key": "48447d3383784571a5a37119d19e5751",
-   "source": "pipeline-sam-ai",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AF INSTALLATION \u0026 MISSION SUPPORT CENTER.FA8903  772 ESS PK",
-    "closes": "2026-06-29T17:00:00-04:00",
-    "number": "AFCEC-26-R-0006",
-    "posted": "2026-06-05",
-    "setaside": "No Set aside used",
-    "text": "RFLP Artificial Intelligence (AI) Data Center Development at Joint Base Elmendorf Richardson, Eielson Air Force Base, and Clear Space Force Station",
-    "title": "RFLP Artificial Intelligence (AI) Data Center Development at Joint Base Elmendorf Richardson, Eielson Air Force Base, and Clear Space Force Station",
-    "type": "Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/48447d3383784571a5a37119d19e5751/view"
-   }
-  },
-  {
-   "key": "a077021d13f843a5aa5f0baee00b1097",
-   "source": "pipeline-sam-ai",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
-    "closes": "2026-06-22T17:00:00",
-    "number": "DARPA-SN-26-80",
-    "posted": "2026-06-01",
-    "text": "AI Forge Program: University Research Capabilities for Artificial Intelligence (AI) Strategic Thrusts Request for Information (RFI)",
-    "title": "AI Forge Program: University Research Capabilities for Artificial Intelligence (AI) Strategic Thrusts Request for Information (RFI)",
-    "type": "Special Notice",
-    "url": "https://sam.gov/workspace/contract/opp/a077021d13f843a5aa5f0baee00b1097/view"
-   }
-  },
-  {
-   "key": "029de16a1f234bd0b4f55889f5fa52f0",
-   "source": "pipeline-sam-ai",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA8750  AFRL RIK",
-    "number": "FA875023S7006",
-    "posted": "2026-05-28",
-    "text": "ARTIFICIAL INTELLIGENCE AND NEXT GENERATION DISTRIBUTED COMMAND AND CONTROL",
-    "title": "ARTIFICIAL INTELLIGENCE AND NEXT GENERATION DISTRIBUTED COMMAND AND CONTROL",
-    "type": "Presolicitation",
-    "url": "https://sam.gov/workspace/contract/opp/029de16a1f234bd0b4f55889f5fa52f0/view"
    }
   }
  ]

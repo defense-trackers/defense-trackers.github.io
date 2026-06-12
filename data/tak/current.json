@@ -1,9 +1,21 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-06-12T01:35:27Z",
+ "fetched_at": "2026-06-12T01:49:38Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "ATAK-CIV",
+   "source": "tak-sdk-compat",
+   "fields": {
+    "plugin": "ATAK-CIV",
+    "repo": "deptofdefense/AndroidTacticalAssaultKit-CIV",
+    "sdk": "5.x",
+    "status": "active",
+    "text": "ATAK-CIV",
+    "url": "https://github.com/deptofdefense/AndroidTacticalAssaultKit-CIV"
+   }
+  },
   {
    "key": "engindearing-projects/OmniTAK-Android",
    "source": "tak-cot",
@@ -50,18 +62,6 @@
     "text": "snstac/dronecot",
     "title": "snstac/dronecot",
     "url": "https://github.com/snstac/dronecot"
-   }
-  },
-  {
-   "key": "newtypeind/atak-mcp",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-06-09T04:57:12Z",
-    "description": "Drive ATAK (Android Team Awareness Kit) and its plugins over adb without blind taps: CLI + MCP server (uvx-installable).",
-    "stars": "1",
-    "text": "newtypeind/atak-mcp",
-    "title": "newtypeind/atak-mcp",
-    "url": "https://github.com/newtypeind/atak-mcp"
    }
   },
   {
@@ -134,18 +134,6 @@
     "text": "emfoursolutions/trakbridge",
     "title": "emfoursolutions/trakbridge",
     "url": "https://github.com/emfoursolutions/trakbridge"
-   }
-  },
-  {
-   "key": "rixau/atak-reactive",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-04-09T16:53:39Z",
-    "description": "Build ATAK (Android Team Awareness Kit) plugin UIs with React and TypeScript. Typed WebView bridge, hot reload, incremental adoption.",
-    "stars": "2",
-    "text": "rixau/atak-reactive",
-    "title": "rixau/atak-reactive",
-    "url": "https://github.com/rixau/atak-reactive"
    }
   },
   {
@@ -895,18 +883,6 @@
    }
   },
   {
-   "key": "FreeTAKTeam/FreeTAKMumla_Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-05-21T19:32:24Z",
-    "description": "A project that host a ATAK plugin that display a PPT button for Mumla Android ",
-    "stars": "27",
-    "text": "FreeTAKTeam/FreeTAKMumla_Plugin",
-    "title": "FreeTAKTeam/FreeTAKMumla_Plugin",
-    "url": "https://github.com/FreeTAKTeam/FreeTAKMumla_Plugin"
-   }
-  },
-  {
    "key": "njaalsb/Meshtastic-ATAK-plugin",
    "source": "tak-github",
    "fields": {
@@ -1107,42 +1083,6 @@
     "text": "VCWG/VC-HUD",
     "title": "VCWG/VC-HUD",
     "url": "https://github.com/VCWG/VC-HUD"
-   }
-  },
-  {
-   "key": "ATAK-CIV",
-   "source": "tak-sdk-compat",
-   "fields": {
-    "plugin": "ATAK-CIV",
-    "repo": "deptofdefense/AndroidTacticalAssaultKit-CIV",
-    "sdk": "5.x",
-    "status": "active",
-    "text": "ATAK-CIV",
-    "url": "https://github.com/deptofdefense/AndroidTacticalAssaultKit-CIV"
-   }
-  },
-  {
-   "key": "FreeTAKServer",
-   "source": "tak-sdk-compat",
-   "fields": {
-    "plugin": "FreeTAKServer",
-    "repo": "FreeTAKTeam/FreeTakServer",
-    "sdk": "server (n/a)",
-    "status": "active",
-    "text": "FreeTAKServer",
-    "url": "https://github.com/FreeTAKTeam/FreeTakServer"
-   }
-  },
-  {
-   "key": "openTAKpickList",
-   "source": "tak-sdk-compat",
-   "fields": {
-    "plugin": "openTAKpickList",
-    "repo": "FreeTAKTeam/openTAKpickList",
-    "sdk": "5.x",
-    "status": "community",
-    "text": "openTAKpickList",
-    "url": "https://github.com/FreeTAKTeam/openTAKpickList"
    }
   }
  ]

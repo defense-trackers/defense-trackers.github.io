@@ -9,18 +9,6 @@ SUMMARY:AFCEA WEST 2027
 URL:https://www.westconference.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:ausa-global-2026@defense-trackers
-DTSTART;VALUE=DATE:20260331
-SUMMARY:AUSA Global Force Symposium 2026
-URL:https://meetings.ausa.org/global/
-END:VEVENT
-BEGIN:VEVENT
-UID:sea-air-space-2026@defense-trackers
-DTSTART;VALUE=DATE:20260406
-SUMMARY:Sea-Air-Space 2026
-URL:https://seaairspace.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:xtechsearch-2026@defense-trackers
 DTSTART;VALUE=DATE:20260701
 SUMMARY:Army xTechSearch (rolling competition window)
@@ -49,6 +37,30 @@ UID:modern-day-marine-2027@defense-trackers
 DTSTART;VALUE=DATE:20270427
 SUMMARY:Modern Day Marine 2027
 URL:https://marinemilitaryexpos.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:close-343653@defense-trackers
+DTSTART;VALUE=DATE:20270918
+SUMMARY:Department of Defense HIV/AIDS Prevention Program
+URL:https://www.grants.gov/search-results-detail/343653
+END:VEVENT
+BEGIN:VEVENT
+UID:close-362671@defense-trackers
+DTSTART;VALUE=DATE:20260706
+SUMMARY:State Border Security Reinforcement Fund
+URL:https://www.grants.gov/search-results-detail/362671
+END:VEVENT
+BEGIN:VEVENT
+UID:close-345241@defense-trackers
+DTSTART;VALUE=DATE:20280104
+SUMMARY:DEVCOM ANALYSIS CENTER BROAD AGENCY ANNOUNCEMENT FOR APPLIED RESEARCH
+URL:https://www.grants.gov/search-results-detail/345241
+END:VEVENT
+BEGIN:VEVENT
+UID:close-349554@defense-trackers
+DTSTART;VALUE=DATE:20430510
+SUMMARY:Pioneering Aerospace Capabilities\, Engineering and Research (PACER)
+URL:https://www.grants.gov/search-results-detail/349554
 END:VEVENT
 BEGIN:VEVENT
 UID:close-325932@defense-trackers
@@ -201,30 +213,6 @@ SUMMARY:UNITED STATES ARMY RESEARCH INSTITUTE FOR THE BEHAVIORAL AND SOCIAL SCIE
 URL:https://www.grants.gov/search-results-detail/347858
 END:VEVENT
 BEGIN:VEVENT
-UID:close-343653@defense-trackers
-DTSTART;VALUE=DATE:20270918
-SUMMARY:Department of Defense HIV/AIDS Prevention Program
-URL:https://www.grants.gov/search-results-detail/343653
-END:VEVENT
-BEGIN:VEVENT
-UID:close-362671@defense-trackers
-DTSTART;VALUE=DATE:20260706
-SUMMARY:State Border Security Reinforcement Fund
-URL:https://www.grants.gov/search-results-detail/362671
-END:VEVENT
-BEGIN:VEVENT
-UID:close-345241@defense-trackers
-DTSTART;VALUE=DATE:20280104
-SUMMARY:DEVCOM ANALYSIS CENTER BROAD AGENCY ANNOUNCEMENT FOR APPLIED RESEARCH
-URL:https://www.grants.gov/search-results-detail/345241
-END:VEVENT
-BEGIN:VEVENT
-UID:close-349554@defense-trackers
-DTSTART;VALUE=DATE:20430510
-SUMMARY:Pioneering Aerospace Capabilities\, Engineering and Research (PACER)
-URL:https://www.grants.gov/search-results-detail/349554
-END:VEVENT
-BEGIN:VEVENT
 UID:close-356623@defense-trackers
 DTSTART;VALUE=DATE:20290929
 SUMMARY:SEEDING CRITICAL ADVANCES FOR LEADING ENERGY TECHNOLOGIES WITH UNTAPPED POTENTIAL (SCALEUP) READY
@@ -235,6 +223,24 @@ UID:close-362381@defense-trackers
 DTSTART;VALUE=DATE:20260713
 SUMMARY:Standards Coordination Office Curricula Development Cooperative Agreement Program
 URL:https://www.grants.gov/search-results-detail/362381
+END:VEVENT
+BEGIN:VEVENT
+UID:close-0800655bb5714d68957ce0d5ee922938@defense-trackers
+DTSTART;VALUE=DATE:20260825
+SUMMARY:Decentralized Artificial Intelligence through Controlled Emergence (DICE)
+URL:https://sam.gov/workspace/contract/opp/0800655bb5714d68957ce0d5ee922938/view
+END:VEVENT
+BEGIN:VEVENT
+UID:close-48447d3383784571a5a37119d19e5751@defense-trackers
+DTSTART;VALUE=DATE:20260629
+SUMMARY:RFLP Artificial Intelligence (AI) Data Center Development at Joint Base Elmendorf Richardson\, Eielson Air Force Base\, and Clear Space Force Station
+URL:https://sam.gov/workspace/contract/opp/48447d3383784571a5a37119d19e5751/view
+END:VEVENT
+BEGIN:VEVENT
+UID:close-a077021d13f843a5aa5f0baee00b1097@defense-trackers
+DTSTART;VALUE=DATE:20260622
+SUMMARY:AI Forge Program: University Research Capabilities for Artificial Intelligence (AI) Strategic Thrusts Request for Information (RFI)
+URL:https://sam.gov/workspace/contract/opp/a077021d13f843a5aa5f0baee00b1097/view
 END:VEVENT
 BEGIN:VEVENT
 UID:close-583abe432ccb4cddb523c8c3e672ded5@defense-trackers
@@ -325,23 +331,5 @@ UID:close-2b32fcbd97224f68bbd4d2649bf6c28f@defense-trackers
 DTSTART;VALUE=DATE:20281231
 SUMMARY:USAREUR-AF Small Unmanned Aircraft Systems (sUAS) Blanket Purchase Agreement
 URL:https://sam.gov/workspace/contract/opp/2b32fcbd97224f68bbd4d2649bf6c28f/view
-END:VEVENT
-BEGIN:VEVENT
-UID:close-0800655bb5714d68957ce0d5ee922938@defense-trackers
-DTSTART;VALUE=DATE:20260825
-SUMMARY:Decentralized Artificial Intelligence through Controlled Emergence (DICE)
-URL:https://sam.gov/workspace/contract/opp/0800655bb5714d68957ce0d5ee922938/view
-END:VEVENT
-BEGIN:VEVENT
-UID:close-48447d3383784571a5a37119d19e5751@defense-trackers
-DTSTART;VALUE=DATE:20260629
-SUMMARY:RFLP Artificial Intelligence (AI) Data Center Development at Joint Base Elmendorf Richardson\, Eielson Air Force Base\, and Clear Space Force Station
-URL:https://sam.gov/workspace/contract/opp/48447d3383784571a5a37119d19e5751/view
-END:VEVENT
-BEGIN:VEVENT
-UID:close-a077021d13f843a5aa5f0baee00b1097@defense-trackers
-DTSTART;VALUE=DATE:20260622
-SUMMARY:AI Forge Program: University Research Capabilities for Artificial Intelligence (AI) Strategic Thrusts Request for Information (RFI)
-URL:https://sam.gov/workspace/contract/opp/a077021d13f843a5aa5f0baee00b1097/view
 END:VEVENT
 END:VCALENDAR

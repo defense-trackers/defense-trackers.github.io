@@ -1,7 +1,7 @@
 {
  "source": "model-ops",
  "tracker": "model-ops",
- "fetched_at": "2026-06-12T01:34:13Z",
+ "fetched_at": "2026-06-12T01:48:18Z",
  "schema_version": 1,
  "records": [
   {
@@ -14,43 +14,6 @@
     "note": "review military-use AUP carve-out before fielding",
     "provenance": "Meta",
     "text": "Llama 4 (Scout / Maverick)",
-    "url": "https://huggingface.co/models"
-   }
-  },
-  {
-   "key": "Gemma (open weights)",
-   "source": "model-ops-gov",
-   "fields": {
-    "air_gap": "yes",
-    "license": "Gemma Terms of Use",
-    "model": "Gemma (open weights)",
-    "provenance": "Google",
-    "text": "Gemma (open weights)",
-    "url": "https://huggingface.co/models"
-   }
-  },
-  {
-   "key": "Mistral (open-weight releases)",
-   "source": "model-ops-gov",
-   "fields": {
-    "air_gap": "yes",
-    "license": "Apache-2.0 (varies by model)",
-    "model": "Mistral (open-weight releases)",
-    "provenance": "Mistral AI",
-    "text": "Mistral (open-weight releases)",
-    "url": "https://huggingface.co/models"
-   }
-  },
-  {
-   "key": "Nomic Embed",
-   "source": "model-ops-gov",
-   "fields": {
-    "air_gap": "yes",
-    "license": "Apache-2.0",
-    "model": "Nomic Embed",
-    "note": "US-origin embedding model",
-    "provenance": "Nomic AI",
-    "text": "Nomic Embed",
     "url": "https://huggingface.co/models"
    }
   },
