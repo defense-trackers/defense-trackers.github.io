@@ -2,25 +2,26 @@
  "ai-spending-contracts": {
   "tracker": "ai-spending",
   "state": "ok",
-  "last_attempt": "2026-06-12T01:59:44Z",
-  "last_success": "2026-06-12T01:59:44Z",
+  "last_attempt": "2026-06-12T06:42:50Z",
+  "last_success": "2026-06-12T06:42:50Z",
   "cadence_hours": 168,
   "count": 50,
   "message": "+0 -0 ~0"
  },
  "ai-spending-recipients": {
   "tracker": "ai-spending",
-  "state": "quarantined",
-  "last_attempt": "2026-06-12T01:59:45Z",
-  "last_success": "2026-06-12T01:33:49Z",
+  "state": "ok",
+  "last_attempt": "2026-06-12T06:42:51Z",
+  "last_success": "2026-06-12T06:42:51Z",
   "cadence_hours": 168,
-  "message": "invariant: 4900% churn exceeds max 100% (+49 -0) — review quarantine before trusting"
+  "count": 50,
+  "message": "+49 -0 ~0"
  },
  "ai-spending-subagency": {
   "tracker": "ai-spending",
   "state": "ok",
-  "last_attempt": "2026-06-12T01:59:46Z",
-  "last_success": "2026-06-12T01:59:46Z",
+  "last_attempt": "2026-06-12T06:42:53Z",
+  "last_success": "2026-06-12T06:42:53Z",
   "cadence_hours": 168,
   "count": 13,
   "message": "+13 -0 ~0"
@@ -28,8 +29,8 @@
  "authorizations-fedramp": {
   "tracker": "authorizations",
   "state": "ok",
-  "last_attempt": "2026-06-12T01:59:48Z",
-  "last_success": "2026-06-12T01:59:48Z",
+  "last_attempt": "2026-06-12T06:42:54Z",
+  "last_success": "2026-06-12T06:42:54Z",
   "cadence_hours": 24,
   "count": 3,
   "message": "+0 -0 ~0"
@@ -37,42 +38,43 @@
  "authorizations-fedramp-ai": {
   "tracker": "authorizations",
   "state": "ok",
-  "last_attempt": "2026-06-12T01:59:49Z",
-  "last_success": "2026-06-12T01:59:49Z",
+  "last_attempt": "2026-06-12T06:42:55Z",
+  "last_success": "2026-06-12T06:42:55Z",
   "cadence_hours": 24,
   "count": 170,
-  "message": "+8 -0 ~0"
+  "message": "+8 -0 ~162"
  },
  "authorizations-news": {
   "tracker": "authorizations",
-  "state": "ok",
-  "last_attempt": "2026-06-12T01:59:50Z",
+  "state": "degraded",
+  "last_attempt": "2026-06-12T06:43:23Z",
   "last_success": "2026-06-12T01:59:50Z",
   "cadence_hours": 12,
-  "count": 13,
-  "message": "+0 -0 ~0"
+  "message": "fetch https://news.google.com/rss/search?q=%22Impact+Level+5%22+OR+%22IL5%22+DISA+authorization\u0026hl=en-US\u0026gl=US\u0026ceid=US:en: http 503 from https://news.google.com/rss/search?q=%22Impact+Level+5%22+OR+%22IL5%22+DISA+authorization\u0026hl=en-US\u0026gl=US\u0026ceid=US:en"
  },
  "blue-uas-cleared": {
   "tracker": "blue-uas",
-  "state": "quarantined",
-  "last_attempt": "2026-06-12T01:59:50Z",
-  "last_success": "2026-06-12T01:47:59Z",
+  "state": "ok",
+  "last_attempt": "2026-06-12T06:43:23Z",
+  "last_success": "2026-06-12T06:43:23Z",
   "cadence_hours": 168,
-  "message": "invariant: 900% churn exceeds max 100% (+9 -0) — review quarantine before trusting"
+  "count": 10,
+  "message": "+9 -0 ~0"
  },
  "blue-uas-parts": {
   "tracker": "blue-uas",
-  "state": "quarantined",
-  "last_attempt": "2026-06-12T01:59:50Z",
-  "last_success": "2026-06-12T01:33:54Z",
+  "state": "ok",
+  "last_attempt": "2026-06-12T06:43:23Z",
+  "last_success": "2026-06-12T06:43:23Z",
   "cadence_hours": 168,
-  "message": "invariant: 1500% churn exceeds max 100% (+15 -0) — review quarantine before trusting"
+  "count": 16,
+  "message": "+15 -0 ~0"
  },
  "deadlines-events": {
   "tracker": "deadlines",
   "state": "ok",
-  "last_attempt": "2026-06-12T01:59:50Z",
-  "last_success": "2026-06-12T01:59:50Z",
+  "last_attempt": "2026-06-12T06:43:23Z",
+  "last_success": "2026-06-12T06:43:23Z",
   "cadence_hours": 168,
   "count": 6,
   "message": "+0 -0 ~0"
@@ -80,43 +82,44 @@
  "deadlines-solicitations": {
   "tracker": "deadlines",
   "state": "ok",
-  "last_attempt": "2026-06-12T02:01:36Z",
-  "last_success": "2026-06-12T02:01:36Z",
+  "last_attempt": "2026-06-12T06:45:10Z",
+  "last_success": "2026-06-12T06:45:10Z",
   "cadence_hours": 24,
   "count": 49,
   "message": "+0 -0 ~0"
  },
  "model-ops-gov": {
   "tracker": "model-ops",
-  "state": "quarantined",
-  "last_attempt": "2026-06-12T01:59:50Z",
-  "last_success": "2026-06-12T01:47:59Z",
+  "state": "ok",
+  "last_attempt": "2026-06-12T06:43:23Z",
+  "last_success": "2026-06-12T06:43:23Z",
   "cadence_hours": 168,
-  "message": "invariant: 300% churn exceeds max 100% (+3 -0) — review quarantine before trusting"
+  "count": 4,
+  "message": "+3 -0 ~0"
  },
  "model-ops-hf": {
   "tracker": "model-ops",
   "state": "ok",
-  "last_attempt": "2026-06-12T01:59:51Z",
-  "last_success": "2026-06-12T01:59:51Z",
+  "last_attempt": "2026-06-12T06:43:25Z",
+  "last_success": "2026-06-12T06:43:25Z",
   "cadence_hours": 24,
   "count": 44,
-  "message": "+0 -0 ~0"
+  "message": "+0 -0 ~3"
  },
  "model-ops-llamacpp": {
   "tracker": "model-ops",
   "state": "ok",
-  "last_attempt": "2026-06-12T01:59:54Z",
-  "last_success": "2026-06-12T01:59:54Z",
+  "last_attempt": "2026-06-12T06:43:27Z",
+  "last_success": "2026-06-12T06:43:27Z",
   "cadence_hours": 24,
   "count": 8,
-  "message": "+0 -0 ~0"
+  "message": "+1 -1 ~0"
  },
  "model-ops-mlc": {
   "tracker": "model-ops",
   "state": "ok",
-  "last_attempt": "2026-06-12T01:59:56Z",
-  "last_success": "2026-06-12T01:59:56Z",
+  "last_attempt": "2026-06-12T06:43:30Z",
+  "last_success": "2026-06-12T06:43:30Z",
   "cadence_hours": 24,
   "count": 1,
   "message": "+0 -0 ~0"
@@ -124,8 +127,8 @@
  "model-ops-ollama": {
   "tracker": "model-ops",
   "state": "ok",
-  "last_attempt": "2026-06-12T01:59:59Z",
-  "last_success": "2026-06-12T01:59:59Z",
+  "last_attempt": "2026-06-12T06:43:32Z",
+  "last_success": "2026-06-12T06:43:32Z",
   "cadence_hours": 24,
   "count": 8,
   "message": "+0 -0 ~0"
@@ -133,8 +136,8 @@
  "model-ops-sglang": {
   "tracker": "model-ops",
   "state": "ok",
-  "last_attempt": "2026-06-12T02:00:02Z",
-  "last_success": "2026-06-12T02:00:02Z",
+  "last_attempt": "2026-06-12T06:43:35Z",
+  "last_success": "2026-06-12T06:43:35Z",
   "cadence_hours": 24,
   "count": 8,
   "message": "+0 -0 ~0"
@@ -142,8 +145,8 @@
  "model-ops-tensorrt": {
   "tracker": "model-ops",
   "state": "ok",
-  "last_attempt": "2026-06-12T02:00:05Z",
-  "last_success": "2026-06-12T02:00:05Z",
+  "last_attempt": "2026-06-12T06:43:37Z",
+  "last_success": "2026-06-12T06:43:37Z",
   "cadence_hours": 24,
   "count": 8,
   "message": "+0 -0 ~0"
@@ -151,8 +154,8 @@
  "model-ops-tgi": {
   "tracker": "model-ops",
   "state": "ok",
-  "last_attempt": "2026-06-12T02:00:07Z",
-  "last_success": "2026-06-12T02:00:07Z",
+  "last_attempt": "2026-06-12T06:43:40Z",
+  "last_success": "2026-06-12T06:43:40Z",
   "cadence_hours": 24,
   "count": 8,
   "message": "+0 -0 ~0"
@@ -160,24 +163,25 @@
  "model-ops-vllm": {
   "tracker": "model-ops",
   "state": "ok",
-  "last_attempt": "2026-06-12T02:00:10Z",
-  "last_success": "2026-06-12T02:00:10Z",
+  "last_attempt": "2026-06-12T06:43:42Z",
+  "last_success": "2026-06-12T06:43:42Z",
   "cadence_hours": 24,
   "count": 8,
   "message": "+0 -0 ~0"
  },
  "nipr-matrix": {
   "tracker": "nipr-matrix",
-  "state": "quarantined",
-  "last_attempt": "2026-06-12T02:00:10Z",
-  "last_success": "2026-06-12T01:48:18Z",
+  "state": "ok",
+  "last_attempt": "2026-06-12T06:43:42Z",
+  "last_success": "2026-06-12T06:43:42Z",
   "cadence_hours": 168,
-  "message": "invariant: 550% churn exceeds max 100% (+11 -0) — review quarantine before trusting"
+  "count": 13,
+  "message": "+11 -0 ~0"
  },
  "oss-18f": {
   "tracker": "oss-index",
   "state": "quarantined",
-  "last_attempt": "2026-06-12T02:00:14Z",
+  "last_attempt": "2026-06-12T06:43:46Z",
   "last_success": "2026-06-12T01:34:16Z",
   "cadence_hours": 24,
   "message": "invariant: 0 records below minimum 1"
@@ -185,8 +189,8 @@
  "oss-cisagov": {
   "tracker": "oss-index",
   "state": "ok",
-  "last_attempt": "2026-06-12T02:00:18Z",
-  "last_success": "2026-06-12T02:00:18Z",
+  "last_attempt": "2026-06-12T06:43:52Z",
+  "last_success": "2026-06-12T06:43:52Z",
   "cadence_hours": 24,
   "count": 45,
   "message": "+0 -0 ~0"
@@ -194,8 +198,8 @@
  "oss-gsa": {
   "tracker": "oss-index",
   "state": "ok",
-  "last_attempt": "2026-06-12T02:00:22Z",
-  "last_success": "2026-06-12T02:00:22Z",
+  "last_attempt": "2026-06-12T06:43:55Z",
+  "last_success": "2026-06-12T06:43:55Z",
   "cadence_hours": 24,
   "count": 2,
   "message": "+0 -0 ~0"
@@ -203,17 +207,17 @@
  "oss-idaholab": {
   "tracker": "oss-index",
   "state": "ok",
-  "last_attempt": "2026-06-12T02:00:25Z",
-  "last_success": "2026-06-12T02:00:25Z",
+  "last_attempt": "2026-06-12T06:43:59Z",
+  "last_success": "2026-06-12T06:43:59Z",
   "cadence_hours": 24,
   "count": 14,
-  "message": "+0 -0 ~0"
+  "message": "+0 -0 ~2"
  },
  "oss-lanl": {
   "tracker": "oss-index",
   "state": "ok",
-  "last_attempt": "2026-06-12T02:00:29Z",
-  "last_success": "2026-06-12T02:00:29Z",
+  "last_attempt": "2026-06-12T06:44:03Z",
+  "last_success": "2026-06-12T06:44:03Z",
   "cadence_hours": 24,
   "count": 5,
   "message": "+0 -0 ~0"
@@ -221,8 +225,8 @@
  "oss-llnl": {
   "tracker": "oss-index",
   "state": "ok",
-  "last_attempt": "2026-06-12T02:00:32Z",
-  "last_success": "2026-06-12T02:00:32Z",
+  "last_attempt": "2026-06-12T06:44:06Z",
+  "last_success": "2026-06-12T06:44:06Z",
   "cadence_hours": 24,
   "count": 11,
   "message": "+0 -0 ~0"
@@ -230,17 +234,17 @@
  "oss-mitre": {
   "tracker": "oss-index",
   "state": "ok",
-  "last_attempt": "2026-06-12T02:00:35Z",
-  "last_success": "2026-06-12T02:00:35Z",
+  "last_attempt": "2026-06-12T06:44:10Z",
+  "last_success": "2026-06-12T06:44:10Z",
   "cadence_hours": 24,
   "count": 10,
-  "message": "+0 -0 ~0"
+  "message": "+0 -0 ~2"
  },
  "oss-nasa": {
   "tracker": "oss-index",
   "state": "ok",
-  "last_attempt": "2026-06-12T02:00:39Z",
-  "last_success": "2026-06-12T02:00:39Z",
+  "last_attempt": "2026-06-12T06:44:13Z",
+  "last_success": "2026-06-12T06:44:13Z",
   "cadence_hours": 24,
   "count": 8,
   "message": "+0 -0 ~0"
@@ -248,8 +252,8 @@
  "oss-ngageoint": {
   "tracker": "oss-index",
   "state": "ok",
-  "last_attempt": "2026-06-12T02:00:43Z",
-  "last_success": "2026-06-12T02:00:43Z",
+  "last_attempt": "2026-06-12T06:44:19Z",
+  "last_success": "2026-06-12T06:44:19Z",
   "cadence_hours": 24,
   "count": 8,
   "message": "+0 -0 ~0"
@@ -257,35 +261,35 @@
  "oss-nsacyber": {
   "tracker": "oss-index",
   "state": "ok",
-  "last_attempt": "2026-06-12T02:00:46Z",
-  "last_success": "2026-06-12T02:00:46Z",
+  "last_attempt": "2026-06-12T06:44:22Z",
+  "last_success": "2026-06-12T06:44:22Z",
   "cadence_hours": 24,
   "count": 4,
-  "message": "+0 -0 ~0"
+  "message": "+0 -0 ~2"
  },
  "oss-ornl": {
   "tracker": "oss-index",
   "state": "ok",
-  "last_attempt": "2026-06-12T02:00:50Z",
-  "last_success": "2026-06-12T02:00:50Z",
+  "last_attempt": "2026-06-12T06:44:26Z",
+  "last_success": "2026-06-12T06:44:26Z",
   "cadence_hours": 24,
   "count": 11,
-  "message": "+0 -0 ~0"
+  "message": "+0 -0 ~1"
  },
  "oss-sandialabs": {
   "tracker": "oss-index",
   "state": "ok",
-  "last_attempt": "2026-06-12T02:00:53Z",
-  "last_success": "2026-06-12T02:00:53Z",
+  "last_attempt": "2026-06-12T06:44:29Z",
+  "last_success": "2026-06-12T06:44:29Z",
   "cadence_hours": 24,
   "count": 8,
-  "message": "+0 -0 ~0"
+  "message": "+0 -0 ~1"
  },
  "oss-usnistgov": {
   "tracker": "oss-index",
   "state": "ok",
-  "last_attempt": "2026-06-12T02:00:56Z",
-  "last_success": "2026-06-12T02:00:56Z",
+  "last_attempt": "2026-06-12T06:44:33Z",
+  "last_success": "2026-06-12T06:44:33Z",
   "cadence_hours": 24,
   "count": 3,
   "message": "+0 -0 ~0"
@@ -293,8 +297,8 @@
  "pipeline-autonomy": {
   "tracker": "pipeline",
   "state": "ok",
-  "last_attempt": "2026-06-12T02:00:58Z",
-  "last_success": "2026-06-12T02:00:58Z",
+  "last_attempt": "2026-06-12T06:44:35Z",
+  "last_success": "2026-06-12T06:44:35Z",
   "cadence_hours": 24,
   "count": 6,
   "message": "+0 -0 ~0"
@@ -302,8 +306,8 @@
  "pipeline-comms": {
   "tracker": "pipeline",
   "state": "ok",
-  "last_attempt": "2026-06-12T02:00:59Z",
-  "last_success": "2026-06-12T02:00:59Z",
+  "last_attempt": "2026-06-12T06:44:36Z",
+  "last_success": "2026-06-12T06:44:36Z",
   "cadence_hours": 24,
   "count": 5,
   "message": "+2 -0 ~0"
@@ -311,8 +315,8 @@
  "pipeline-cyber": {
   "tracker": "pipeline",
   "state": "ok",
-  "last_attempt": "2026-06-12T02:01:00Z",
-  "last_success": "2026-06-12T02:01:00Z",
+  "last_attempt": "2026-06-12T06:44:37Z",
+  "last_success": "2026-06-12T06:44:37Z",
   "cadence_hours": 24,
   "count": 3,
   "message": "+1 -0 ~0"
@@ -320,25 +324,26 @@
  "pipeline-grants": {
   "tracker": "pipeline",
   "state": "ok",
-  "last_attempt": "2026-06-12T02:01:01Z",
-  "last_success": "2026-06-12T02:01:01Z",
+  "last_attempt": "2026-06-12T06:44:38Z",
+  "last_success": "2026-06-12T06:44:38Z",
   "cadence_hours": 24,
   "count": 28,
   "message": "+7 -0 ~0"
  },
  "pipeline-logistics": {
   "tracker": "pipeline",
-  "state": "quarantined",
-  "last_attempt": "2026-06-12T02:01:03Z",
-  "last_success": "2026-06-12T01:35:02Z",
+  "state": "ok",
+  "last_attempt": "2026-06-12T06:44:39Z",
+  "last_success": "2026-06-12T06:44:39Z",
   "cadence_hours": 24,
-  "message": "invariant: 260% churn exceeds max 100% (+13 -0) — review quarantine before trusting"
+  "count": 18,
+  "message": "+13 -0 ~0"
  },
  "pipeline-ml": {
   "tracker": "pipeline",
   "state": "ok",
-  "last_attempt": "2026-06-12T02:01:04Z",
-  "last_success": "2026-06-12T02:01:04Z",
+  "last_attempt": "2026-06-12T06:44:41Z",
+  "last_success": "2026-06-12T06:44:41Z",
   "cadence_hours": 24,
   "count": 8,
   "message": "+4 -0 ~0"
@@ -346,8 +351,8 @@
  "pipeline-sam-ai": {
   "tracker": "pipeline",
   "state": "ok",
-  "last_attempt": "2026-06-12T02:01:07Z",
-  "last_success": "2026-06-12T02:01:07Z",
+  "last_attempt": "2026-06-12T06:44:43Z",
+  "last_success": "2026-06-12T06:44:43Z",
   "cadence_hours": 24,
   "count": 4,
   "message": "+0 -0 ~0"
@@ -355,25 +360,25 @@
  "pipeline-sam-autonomy": {
   "tracker": "pipeline",
   "state": "ok",
-  "last_attempt": "2026-06-12T02:01:09Z",
-  "last_success": "2026-06-12T02:01:09Z",
+  "last_attempt": "2026-06-12T06:44:45Z",
+  "last_success": "2026-06-12T06:44:45Z",
   "cadence_hours": 24,
   "count": 10,
   "message": "+0 -0 ~0"
  },
  "pipeline-sam-mesh": {
   "tracker": "pipeline",
-  "state": "quarantined",
-  "last_attempt": "2026-06-12T02:01:11Z",
-  "last_success": "2026-06-12T01:35:11Z",
+  "state": "ok",
+  "last_attempt": "2026-06-12T06:44:47Z",
+  "last_success": "2026-06-12T06:44:47Z",
   "cadence_hours": 24,
-  "message": "invariant: 0 records below minimum 1"
+  "message": "+0 -1 ~0"
  },
  "pipeline-sam-unmanned": {
   "tracker": "pipeline",
   "state": "ok",
-  "last_attempt": "2026-06-12T02:01:14Z",
-  "last_success": "2026-06-12T02:01:14Z",
+  "last_attempt": "2026-06-12T06:44:49Z",
+  "last_success": "2026-06-12T06:44:49Z",
   "cadence_hours": 24,
   "count": 6,
   "message": "+0 -0 ~0"
@@ -381,34 +386,35 @@
  "pipeline-unmanned": {
   "tracker": "pipeline",
   "state": "ok",
-  "last_attempt": "2026-06-12T02:01:16Z",
-  "last_success": "2026-06-12T02:01:16Z",
+  "last_attempt": "2026-06-12T06:44:50Z",
+  "last_success": "2026-06-12T06:44:50Z",
   "cadence_hours": 24,
   "count": 3,
   "message": "+3 -0 ~0"
  },
  "policy-eo": {
   "tracker": "policy",
-  "state": "quarantined",
-  "last_attempt": "2026-06-12T02:01:17Z",
-  "last_success": "2026-06-12T01:49:21Z",
+  "state": "ok",
+  "last_attempt": "2026-06-12T06:44:51Z",
+  "last_success": "2026-06-12T06:44:51Z",
   "cadence_hours": 24,
-  "message": "invariant: 600% churn exceeds max 100% (+6 -0) — review quarantine before trusting"
+  "count": 7,
+  "message": "+6 -0 ~0"
  },
  "policy-fedreg": {
   "tracker": "policy",
   "state": "ok",
-  "last_attempt": "2026-06-12T02:01:22Z",
-  "last_success": "2026-06-12T02:01:22Z",
+  "last_attempt": "2026-06-12T06:44:56Z",
+  "last_success": "2026-06-12T06:44:56Z",
   "cadence_hours": 24,
-  "count": 77,
-  "message": "+0 -0 ~0"
+  "count": 75,
+  "message": "+0 -2 ~0"
  },
  "programs": {
   "tracker": "programs",
   "state": "ok",
-  "last_attempt": "2026-06-12T02:01:22Z",
-  "last_success": "2026-06-12T02:01:22Z",
+  "last_attempt": "2026-06-12T06:44:57Z",
+  "last_success": "2026-06-12T06:44:57Z",
   "cadence_hours": 168,
   "count": 16,
   "message": "+4 -0 ~0"
@@ -416,8 +422,8 @@
  "research-nsf": {
   "tracker": "research-funding",
   "state": "ok",
-  "last_attempt": "2026-06-12T02:01:24Z",
-  "last_success": "2026-06-12T02:01:24Z",
+  "last_attempt": "2026-06-12T06:44:58Z",
+  "last_success": "2026-06-12T06:44:58Z",
   "cadence_hours": 168,
   "count": 6,
   "message": "+0 -0 ~0"
@@ -425,43 +431,44 @@
  "tak-cot": {
   "tracker": "tak",
   "state": "ok",
-  "last_attempt": "2026-06-12T02:01:27Z",
-  "last_success": "2026-06-12T02:01:27Z",
+  "last_attempt": "2026-06-12T06:45:01Z",
+  "last_success": "2026-06-12T06:45:01Z",
   "cadence_hours": 24,
   "count": 28,
-  "message": "+2 -0 ~0"
+  "message": "+2 -0 ~5"
  },
  "tak-freetak": {
   "tracker": "tak",
   "state": "ok",
-  "last_attempt": "2026-06-12T02:01:30Z",
-  "last_success": "2026-06-12T02:01:30Z",
+  "last_attempt": "2026-06-12T06:45:04Z",
+  "last_success": "2026-06-12T06:45:04Z",
   "cadence_hours": 24,
   "count": 35,
-  "message": "+0 -0 ~0"
+  "message": "+0 -0 ~1"
  },
  "tak-github": {
   "tracker": "tak",
   "state": "ok",
-  "last_attempt": "2026-06-12T02:01:33Z",
-  "last_success": "2026-06-12T02:01:33Z",
+  "last_attempt": "2026-06-12T06:45:07Z",
+  "last_success": "2026-06-12T06:45:07Z",
   "cadence_hours": 24,
   "count": 30,
-  "message": "+1 -0 ~0"
+  "message": "+2 -1 ~1"
  },
  "tak-sdk-compat": {
   "tracker": "tak",
-  "state": "quarantined",
-  "last_attempt": "2026-06-12T02:01:33Z",
-  "last_success": "2026-06-12T01:35:27Z",
+  "state": "ok",
+  "last_attempt": "2026-06-12T06:45:07Z",
+  "last_success": "2026-06-12T06:45:07Z",
   "cadence_hours": 168,
-  "message": "invariant: 200% churn exceeds max 100% (+2 -0) — review quarantine before trusting"
+  "count": 3,
+  "message": "+2 -0 ~0"
  },
  "transition-prototype": {
   "tracker": "transition",
   "state": "ok",
-  "last_attempt": "2026-06-12T02:01:35Z",
-  "last_success": "2026-06-12T02:01:35Z",
+  "last_attempt": "2026-06-12T06:45:09Z",
+  "last_success": "2026-06-12T06:45:09Z",
   "cadence_hours": 168,
   "count": 50,
   "message": "+0 -0 ~0"
@@ -469,10 +476,10 @@
  "transition-usaspending": {
   "tracker": "transition",
   "state": "ok",
-  "last_attempt": "2026-06-12T02:01:36Z",
-  "last_success": "2026-06-12T02:01:36Z",
+  "last_attempt": "2026-06-12T06:45:10Z",
+  "last_success": "2026-06-12T06:45:10Z",
   "cadence_hours": 168,
   "count": 50,
-  "message": "+0 -0 ~0"
+  "message": "+0 -0 ~1"
  }
 }

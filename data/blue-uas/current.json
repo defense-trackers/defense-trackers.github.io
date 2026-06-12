@@ -1,22 +1,9 @@
 {
  "source": "blue-uas",
  "tracker": "blue-uas",
- "fetched_at": "2026-06-12T01:47:59Z",
+ "fetched_at": "2026-06-12T06:43:23Z",
  "schema_version": 1,
  "records": [
-  {
-   "key": "CubePilot Cube Orange+",
-   "source": "blue-uas-parts",
-   "fields": {
-    "category": "Flight controller",
-    "component": "CubePilot Cube Orange+",
-    "country": "AUS / US",
-    "framework_status": "verify",
-    "manufacturer": "CubePilot",
-    "text": "CubePilot Cube Orange+",
-    "url": "https://www.diu.mil/blue-uas/framework"
-   }
-  },
   {
    "key": "Skydio X10D",
    "source": "blue-uas-cleared",
@@ -29,6 +16,19 @@
     "text": "Skydio X10D",
     "type": "sUAS quadcopter",
     "url": "https://www.diu.mil/blue-uas-cleared-list"
+   }
+  },
+  {
+   "key": "CubePilot Cube Orange+",
+   "source": "blue-uas-parts",
+   "fields": {
+    "category": "Flight controller",
+    "component": "CubePilot Cube Orange+",
+    "country": "AUS / US",
+    "framework_status": "verify",
+    "manufacturer": "CubePilot",
+    "text": "CubePilot Cube Orange+",
+    "url": "https://www.diu.mil/blue-uas/framework"
    }
   }
  ]

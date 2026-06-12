@@ -1,2145 +1,9 @@
 {
  "source": "authorizations",
  "tracker": "authorizations",
- "fetched_at": "2026-06-12T01:59:50Z",
+ "fetched_at": "2026-06-12T06:42:55Z",
  "schema_version": 1,
  "records": [
-  {
-   "key": "FR2623840126",
-   "source": "authorizations-fedramp",
-   "fields": {
-    "date": "2026-06-10T20:00:00.000Z",
-    "status": "Now in Agency Review",
-    "text": "Saviynt High Security Identity Platform",
-    "title": "Saviynt High Security Identity Platform"
-   }
-  },
-  {
-   "key": "FR2619254906",
-   "source": "authorizations-fedramp",
-   "fields": {
-    "date": "2026-06-09T20:00:00.000Z",
-    "status": "Now FedRAMP Ready",
-    "text": "VulcanGov",
-    "title": "VulcanGov"
-   }
-  },
-  {
-   "key": "FR2617664138",
-   "source": "authorizations-fedramp",
-   "fields": {
-    "date": "2026-06-09T20:00:00.000Z",
-    "status": "Now FedRAMP Ready",
-    "text": "Minuet",
-    "title": "Minuet"
-   }
-  },
-  {
-   "key": "FR2425960757",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2025-04-11T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Abnormal AI for Government",
-    "title": "Abnormal AI for Government",
-    "url": "https://abnormal.ai/"
-   }
-  },
-  {
-   "key": "FR2616782844",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "status": "Agency In Process",
-    "text": "CLEAR1 Gov",
-    "title": "CLEAR1 Gov",
-    "url": "http://identity.clearme.com/"
-   }
-  },
-  {
-   "key": "FR2413241182",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2026-02-05T20:00:00.000Z",
-    "impact": "High",
-    "status": "FedRAMP Authorized",
-    "text": "Altana Product Network",
-    "title": "Altana Product Network",
-    "url": "www.altana.ai"
-   }
-  },
-  {
-   "key": "FR2520950455",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2026-02-26T20:00:00.000Z",
-    "impact": "High",
-    "status": "FedRAMP Authorized",
-    "text": "Andesite Azimuth for Government AAG",
-    "title": "Andesite Azimuth for Government AAG",
-    "url": "https://andesite.ai/"
-   }
-  },
-  {
-   "key": "FR2527234065",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "status": "Agency In Process",
-    "text": "Security Analytics",
-    "title": "Security Analytics",
-    "url": "https://anomali.com"
-   }
-  },
-  {
-   "key": "FR2431264500",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2025-07-02T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "AppOmni SaaS Security for Government",
-    "title": "AppOmni SaaS Security for Government",
-    "url": "https://appomni.com/industry-solutions/public-sector/"
-   }
-  },
-  {
-   "key": "FR2326654692",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2025-06-09T20:00:00.000Z",
-    "impact": "LI-SaaS",
-    "status": "FedRAMP Authorized",
-    "text": "Aprimo",
-    "title": "Aprimo",
-    "url": "www.aprimo.com"
-   }
-  },
-  {
-   "key": "FR2330939028",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2025-03-31T20:00:00.000Z",
-    "impact": "High",
-    "status": "FedRAMP Authorized",
-    "text": "Aqua Platform for Government",
-    "title": "Aqua Platform for Government",
-    "url": "https://www.aquasec.com/solutions/federal/"
-   }
-  },
-  {
-   "key": "FR2031936863",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2023-01-09T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Armis FedRAMP Edition (AFE)",
-    "title": "Armis FedRAMP Edition (AFE)",
-    "url": "https://www.armis.com/"
-   }
-  },
-  {
-   "key": "FR2503350987",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2026-05-19T20:00:00.000Z",
-    "impact": "High",
-    "status": "FedRAMP Authorized",
-    "text": "Artera Harmony Federal Edition",
-    "title": "Artera Harmony Federal Edition",
-    "url": "https://artera.io/"
-   }
-  },
-  {
-   "key": "FR2317139564",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2023-03-31T20:00:00.000Z",
-    "impact": "LI-SaaS",
-    "status": "FedRAMP Authorized",
-    "text": "Articulate 360",
-    "title": "Articulate 360",
-    "url": "https://articulate.com/360"
-   }
-  },
-  {
-   "key": "FR2527132001",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "status": "FedRAMP In Process",
-    "text": "Asana",
-    "title": "Asana",
-    "url": "www.asana.com"
-   }
-  },
-  {
-   "key": "FR2401839361",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Kratos",
-    "date": "2025-01-24T20:00:00.000Z",
-    "impact": "High",
-    "status": "FedRAMP Authorized",
-    "text": "Ask Sage",
-    "title": "Ask Sage",
-    "url": "https://www.asksage.ai"
-   }
-  },
-  {
-   "key": "FR2412062433",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2025-03-14T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Atlassian Government Cloud",
-    "title": "Atlassian Government Cloud",
-    "url": "https://www.atlassian.com/government"
-   }
-  },
-  {
-   "key": "FR2427142353",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2025-11-24T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "AutoRABIT for Public Sector - CodeScan, Guard, \u0026 ARMOR",
-    "title": "AutoRABIT for Public Sector - CodeScan, Guard, \u0026 ARMOR",
-    "url": "https://www.autorabit.com/solutions/public-sector/"
-   }
-  },
-  {
-   "key": "FR2333756970",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2025-07-17T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Axiad Conductor",
-    "title": "Axiad Conductor",
-    "url": "https://www.axiad.com/axiad-cloud/"
-   }
-  },
-  {
-   "key": "FR2507664687",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "status": "Agency In Process",
-    "text": "BlackLine Government Solution",
-    "title": "BlackLine Government Solution",
-    "url": "https://www.blackline.com/products/financial-close/"
-   }
-  },
-  {
-   "key": "FR2035056105",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2022-12-13T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Bluescape with n8n for Government",
-    "title": "Bluescape with n8n for Government",
-    "url": "https://www.bluescape.com/"
-   }
-  },
-  {
-   "key": "F1212191840A",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2025-03-25T20:00:00.000Z",
-    "impact": "High",
-    "status": "FedRAMP Authorized",
-    "text": "Box Enterprise Cloud Content Collaboration Platform",
-    "title": "Box Enterprise Cloud Content Collaboration Platform",
-    "url": "https://www.box.com/"
-   }
-  },
-  {
-   "key": "FR2510550050",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2026-02-19T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Bugcrowd for Government (BCGOV)",
-    "title": "Bugcrowd for Government (BCGOV)",
-    "url": "https://www.bugcrowd.com/solutions/government/"
-   }
-  },
-  {
-   "key": "FR2009476860A",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2025-04-01T20:00:00.000Z",
-    "impact": "High",
-    "status": "FedRAMP Authorized",
-    "text": "Casepoint Government",
-    "title": "Casepoint Government",
-    "url": "https://platform.casepointgov.com/"
-   }
-  },
-  {
-   "key": "FR2421035110",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2026-04-29T20:00:00.000Z",
-    "impact": "High",
-    "status": "FedRAMP Authorized",
-    "text": "Cellebrite Government Cloud (CGC)",
-    "title": "Cellebrite Government Cloud (CGC)",
-    "url": "https://www.cellebritefsi.com/"
-   }
-  },
-  {
-   "key": "FR2317262742",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2025-04-21T20:00:00.000Z",
-    "impact": "High",
-    "status": "FedRAMP Authorized",
-    "text": "Ceribell EEG",
-    "title": "Ceribell EEG",
-    "url": "https://ceribell.com/"
-   }
-  },
-  {
-   "key": "FR2511048038",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2025-09-24T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Check Point Infinity Platform for Government",
-    "title": "Check Point Infinity Platform for Government",
-    "url": "www.checkpoint.com"
-   }
-  },
-  {
-   "key": "FR2514624801",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "status": "FedRAMP In Process",
-    "text": "Checkmarx One for Government (CXG)",
-    "title": "Checkmarx One for Government (CXG)",
-    "url": "https://checkmarx.com/product/application-security-platform/"
-   }
-  },
-  {
-   "key": "FR2518163100",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2025-11-25T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Spaces for Government",
-    "title": "Spaces for Government",
-    "url": "https://www.cisco.com/c/en/us/solutions/enterprise-networks/dna-spaces/index.html"
-   }
-  },
-  {
-   "key": "FR2304757473",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Coalfire Systems, Inc.",
-    "date": "2024-08-01T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Cisco Security Cloud for Government",
-    "title": "Cisco Security Cloud for Government",
-    "url": "http://www.cisco.com/go/secure-access-gov"
-   }
-  },
-  {
-   "key": "FR2315535023",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2025-02-18T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Cisco Meraki for Government",
-    "title": "Cisco Meraki for Government",
-    "url": "https://meraki.cisco.com/"
-   }
-  },
-  {
-   "key": "FR2523656707",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2026-03-05T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Cisco ThousandEyes for Government",
-    "title": "Cisco ThousandEyes for Government",
-    "url": "https://www.thousandeyes.com/"
-   }
-  },
-  {
-   "key": "FR2012534927",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2024-03-14T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Cisco Catalyst SD-WAN for Government (SDWAN-G)",
-    "title": "Cisco Catalyst SD-WAN for Government (SDWAN-G)",
-    "url": "https://www.cisco.com/go/sdwan"
-   }
-  },
-  {
-   "key": "FR1819254092A",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "High",
-    "status": "Agency In Process",
-    "text": "Citrix for Government - High",
-    "title": "Citrix for Government - High",
-    "url": "https://www.citrix.com/"
-   }
-  },
-  {
-   "key": "FR2014656304",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2025-02-05T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Civis Platform",
-    "title": "Civis Platform",
-    "url": "https://www.civisanalytics.com/"
-   }
-  },
-  {
-   "key": "FR2309544938",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-    "date": "2025-05-07T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Cloudera for Government",
-    "title": "Cloudera for Government",
-    "url": "www.cloudera.com"
-   }
-  },
-  {
-   "key": "FR2000863987",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2022-12-12T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Cloudflare for Government",
-    "title": "Cloudflare for Government",
-    "url": "https://www.cloudflare.com/cloudflare-for-government/"
-   }
-  },
-  {
-   "key": "FR2533236012",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "status": "FedRAMP Ready",
-    "text": "Contract Insight",
-    "title": "Contract Insight",
-    "url": "https://www.cobblestonesoftware.com/"
-   }
-  },
-  {
-   "key": "FR2306445868",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2024-05-06T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Cohesity Cloud Services for Government",
-    "title": "Cohesity Cloud Services for Government",
-    "url": "https://helios.gov-cohesity.com/"
-   }
-  },
-  {
-   "key": "FR2600044765",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2026-06-03T20:00:00.000Z",
-    "impact": "High",
-    "status": "FedRAMP Authorized",
-    "text": "CoLab AI Inc",
-    "title": "CoLab AI Inc",
-    "url": "www.colabsoftware.com"
-   }
-  },
-  {
-   "key": "FR2234550858",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2024-01-17T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Concur Cloud for Public Sector",
-    "title": "Concur Cloud for Public Sector",
-    "url": "https://www.concur.com/"
-   }
-  },
-  {
-   "key": "FR2621650811",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Ignyte Platform Inc.",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "status": "FedRAMP Ready",
-    "text": "Consus Gateway",
-    "title": "Consus Gateway",
-    "url": "https://consus.io"
-   }
-  },
-  {
-   "key": "FR2621342703",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Fortreum, LLC",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "status": "Agency In Process",
-    "text": "Corelight Open NDR Platform",
-    "title": "Corelight Open NDR Platform",
-    "url": "https://corelight.com/ "
-   }
-  },
-  {
-   "key": "FR2602662279",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Ignyte Platform Inc.",
-    "date": "Not Active",
-    "impact": "High",
-    "status": "Agency In Process",
-    "text": "Coretsu Government Suite",
-    "title": "Coretsu Government Suite",
-    "url": "coretsu.us"
-   }
-  },
-  {
-   "key": "FR2416856649",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Lunarline, Inc.",
-    "date": "2025-06-27T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Federal Immersive Learning Management System (FED-ILMS)",
-    "title": "Federal Immersive Learning Management System (FED-ILMS)",
-    "url": "https://www.creativevet.com/"
-   }
-  },
-  {
-   "key": "FR2519759620",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2026-01-28T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Cribl.Cloud Government",
-    "title": "Cribl.Cloud Government",
-    "url": "www.cribl.io"
-   }
-  },
-  {
-   "key": "FR1807853629A",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2025-03-12T20:00:00.000Z",
-    "impact": "High",
-    "status": "FedRAMP Authorized",
-    "text": "CrowdStrike Falcon Platform for Government",
-    "title": "CrowdStrike Falcon Platform for Government",
-    "url": "https://www.crowdstrike.com/solutions/falcon-on-govcloud/"
-   }
-  },
-  {
-   "key": "FR2135180018",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "First Information Technology Services, Inc.",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "status": "Agency In Process",
-    "text": "Composite Apps/ CuraPatient",
-    "title": "Composite Apps/ CuraPatient",
-    "url": "https://curapatient.com/"
-   }
-  },
-  {
-   "key": "FR2618046015",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "High",
-    "status": "Agency In Process",
-    "text": "Cyera for Government",
-    "title": "Cyera for Government",
-    "url": "cyera.io"
-   }
-  },
-  {
-   "key": "FR2623848170",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "status": "FedRAMP Ready",
-    "text": "DailyPay for Government",
-    "title": "DailyPay for Government",
-    "url": "https://www.dailypay.com/industries/public-sector/#public-sector-tabs"
-   }
-  },
-  {
-   "key": "FR2324740262",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Fortreum, LLC",
-    "date": "2025-02-26T20:00:00.000Z",
-    "impact": "High",
-    "status": "FedRAMP Authorized",
-    "text": "Databricks on AWS GovCloud",
-    "title": "Databricks on AWS GovCloud",
-    "url": "https://www.databricks.com/solutions/industries/federal-government"
-   }
-  },
-  {
-   "key": "FR2525247858",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Fortreum, LLC",
-    "date": "2026-01-16T20:00:00.000Z",
-    "impact": "High",
-    "status": "FedRAMP Authorized",
-    "text": "Databricks on Azure Commercial",
-    "title": "Databricks on Azure Commercial",
-    "url": "https://azure.microsoft.com/en-us/products/databricks"
-   }
-  },
-  {
-   "key": "FR2023864279A",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2026-05-05T20:00:00.000Z",
-    "impact": "High",
-    "status": "FedRAMP Authorized",
-    "text": "Datadog for Government",
-    "title": "Datadog for Government",
-    "url": "https://www.datadoghq.com/"
-   }
-  },
-  {
-   "key": "FR2618648262",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Coalfire Systems, Inc.",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "status": "FedRAMP Ready",
-    "text": "Midwatch",
-    "title": "Midwatch",
-    "url": "cybersecgru.com"
-   }
-  },
-  {
-   "key": "F1606087903A",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2026-02-11T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Replicon Cloud Platform (Enterprise Time Tracking Platform)",
-    "title": "Replicon Cloud Platform (Enterprise Time Tracking Platform)",
-    "url": "https://www.deltek.com/en/time-tracking/replicon"
-   }
-  },
-  {
-   "key": "FR2405880485",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "status": "FedRAMP Ready",
-    "text": "Costpoint GovCon Cloud Moderate (CP GCCM)",
-    "title": "Costpoint GovCon Cloud Moderate (CP GCCM)",
-    "url": "https://www.deltek.com/en/government-contracting/costpoint/cloud"
-   }
-  },
-  {
-   "key": "FR2508262726",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "status": "Agency In Process",
-    "text": "Dexcom Clarity for Government",
-    "title": "Dexcom Clarity for Government",
-    "url": "https://clarity.dexcom.us/professional/"
-   }
-  },
-  {
-   "key": "FR2424945160",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "ControlCase",
-    "date": "2025-09-24T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Minsky No-code ML/NLP Knowledge Graphing Platform",
-    "title": "Minsky No-code ML/NLP Knowledge Graphing Platform",
-    "url": "https://dmetrics.com"
-   }
-  },
-  {
-   "key": "FR2600167032",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2025-12-05T20:00:00.000Z",
-    "impact": "20x Low",
-    "status": "FedRAMP Authorized",
-    "text": "Drata Trust Management Platform",
-    "title": "Drata Trust Management Platform",
-    "url": "https://drata.com/"
-   }
-  },
-  {
-   "key": "F1603307884",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2023-08-30T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Trimble Unity Construct Government Edition",
-    "title": "Trimble Unity Construct Government Edition",
-    "url": "https://e-builder.net/"
-   }
-  },
-  {
-   "key": "FR2523939103",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Kratos",
-    "date": "2026-03-23T20:00:00.000Z",
-    "impact": "High",
-    "status": "FedRAMP Authorized",
-    "text": "Elastic Cloud Hosted - High",
-    "title": "Elastic Cloud Hosted - High",
-    "url": "elastic.co"
-   }
-  },
-  {
-   "key": "FR2330135650",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2025-04-17T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Archibus",
-    "title": "Archibus",
-    "url": "https://eptura.com/industries/government/archibus-for-government/"
-   }
-  },
-  {
-   "key": "FR2311952621",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2025-07-25T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "EY Grants Accelerator",
-    "title": "EY Grants Accelerator",
-    "url": "https://www.ey.com/en_us/alliances/ey-grants-accelerator"
-   }
-  },
-  {
-   "key": "FR2207359708",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Emagine IT",
-    "date": "2022-08-23T20:00:00.000Z",
-    "impact": "LI-SaaS",
-    "status": "FedRAMP Authorized",
-    "text": "Laser AI",
-    "title": "Laser AI",
-    "url": "https://laser.ai/"
-   }
-  },
-  {
-   "key": "FR2518756614",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "status": "FedRAMP Ready",
-    "text": "Managed Access Gateway with Managed Microsoft 365",
-    "title": "Managed Access Gateway with Managed Microsoft 365",
-    "url": "https://www.exostar.com/"
-   }
-  },
-  {
-   "key": "FR2510664395",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2025-09-15T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "ExtraHop RevealX Federal",
-    "title": "ExtraHop RevealX Federal",
-    "url": "https://www.extrahop.com/solutions/industry/public-sector"
-   }
-  },
-  {
-   "key": "FR2531062517",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "status": "Agency In Process",
-    "text": "F5 Distributed Cloud",
-    "title": "F5 Distributed Cloud",
-    "url": "https://www.f5.com/"
-   }
-  },
-  {
-   "key": "FR2427818523",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Lunarline, Inc.",
-    "date": "2025-05-08T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "RMA iQ™",
-    "title": "RMA iQ™",
-    "url": "https://www.feith.com/"
-   }
-  },
-  {
-   "key": "FR2311345531",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2025-02-28T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Figma for Government",
-    "title": "Figma for Government",
-    "url": "www.figma.com"
-   }
-  },
-  {
-   "key": "FR2131766015",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Coalfire Systems, Inc.",
-    "date": "2023-06-26T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Genesys Cloud CX",
-    "title": "Genesys Cloud CX",
-    "url": "https://www.genesys.com/fedramp/genesys-cloud-cx"
-   }
-  },
-  {
-   "key": "FR2234334891",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Linford \u0026 Company",
-    "date": "2025-05-23T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Glassbeam Clinsights",
-    "title": "Glassbeam Clinsights",
-    "url": "https://www.glassbeam.com/solutions/"
-   }
-  },
-  {
-   "key": "FR2604952026",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Federal Risk and Authorization Management Program",
-    "date": "2026-01-21T20:00:00.000Z",
-    "impact": "20x Low",
-    "status": "FedRAMP Authorized",
-    "text": "Gemini for Government",
-    "title": "Gemini for Government",
-    "url": "https://cloud.google.com/blog/topics/public-sector/introducing-gemini-for-government-supporting-the-us-governments-transformation-with-ai/ "
-   }
-  },
-  {
-   "key": "FR2620251735",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Ignyte Platform Inc.",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "status": "FedRAMP Ready",
-    "text": "GroundControl",
-    "title": "GroundControl",
-    "url": "https://gndctl.com"
-   }
-  },
-  {
-   "key": "FR2521554684",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Lunarline, Inc.",
-    "date": "2026-04-16T20:00:00.000Z",
-    "impact": "High",
-    "status": "FedRAMP Authorized",
-    "text": "H2O.AI",
-    "title": "H2O.AI",
-    "url": "https://h2o.ai/"
-   }
-  },
-  {
-   "key": "FR2502963317",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2025-09-29T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "HP Managed Services for Government",
-    "title": "HP Managed Services for Government",
-    "url": "https://reinvent.hp.com/us_gov-sales-specialist"
-   }
-  },
-  {
-   "key": "FR2524349489",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Fortreum, LLC",
-    "date": "2026-02-10T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "IBM Data Services for Government",
-    "title": "IBM Data Services for Government",
-    "url": "ibm.com"
-   }
-  },
-  {
-   "key": "FR2504062150",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Coalfire Systems, Inc.",
-    "date": "2025-11-13T20:00:00.000Z",
-    "impact": "High",
-    "status": "FedRAMP Authorized",
-    "text": "IBM Federal ATOM",
-    "title": "IBM Federal ATOM",
-    "url": "https://ibm-atom.com/"
-   }
-  },
-  {
-   "key": "FR2230244107",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2024-08-21T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Illumio Government Cloud",
-    "title": "Illumio Government Cloud",
-    "url": "https://www.illumio.com/solutions/government"
-   }
-  },
-  {
-   "key": "FR2531865690",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "status": "FedRAMP Ready",
-    "text": "NetSfere Enterprise",
-    "title": "NetSfere Enterprise",
-    "url": "https://netsfere.com/fedramp"
-   }
-  },
-  {
-   "key": "FR2321143030",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "First Information Technology Services, Inc.",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "status": "FedRAMP Ready",
-    "text": "Content Manager Records Management Application (RMA) Cloud Service Offering (CSO)",
-    "title": "Content Manager Records Management Application (RMA) Cloud Service Offering (CSO)",
-    "url": "https://www.info-first.com/content-manager-msaas.html"
-   }
-  },
-  {
-   "key": "FR2535459236",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Coalfire Systems, Inc.",
-    "date": "2026-04-15T20:00:00.000Z",
-    "impact": "High",
-    "status": "FedRAMP Authorized",
-    "text": "Iron Mountain InSight for Government",
-    "title": "Iron Mountain InSight for Government",
-    "url": "https://www.ironmountain.com/services/insight-digital-experience-platform"
-   }
-  },
-  {
-   "key": "FR2102758152",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-    "date": "2025-03-28T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Juniper Mist",
-    "title": "Juniper Mist",
-    "url": "https://www.juniper.net/us/en/products/mist-ai.html"
-   }
-  },
-  {
-   "key": "FR2128462521",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2023-05-05T20:00:00.000Z",
-    "impact": "High",
-    "status": "FedRAMP Authorized",
-    "text": "Juvare Federal Cloud",
-    "title": "Juvare Federal Cloud",
-    "url": "https://www.juvare.com/"
-   }
-  },
-  {
-   "key": "FR2528033654",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Coalfire Systems, Inc.",
-    "date": "2026-03-30T20:00:00.000Z",
-    "impact": "High",
-    "status": "FedRAMP Authorized",
-    "text": "Knox Systems FedRAMP High Managed Platform",
-    "title": "Knox Systems FedRAMP High Managed Platform",
-    "url": "https://www.knoxsystems.com"
-   }
-  },
-  {
-   "key": "FR2406453618",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2025-04-22T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "LabArchives for Government (LG)",
-    "title": "LabArchives for Government (LG)",
-    "url": "https://www.labarchives.com/"
-   }
-  },
-  {
-   "key": "FR2120962552",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2023-01-06T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "LaunchDarkly",
-    "title": "LaunchDarkly",
-    "url": "https://launchdarkly.com/solutions/federal-government-solutions/"
-   }
-  },
-  {
-   "key": "FR2510634052",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "status": "FedRAMP In Process",
-    "text": "Lexis+® for Government",
-    "title": "Lexis+® for Government",
-    "url": "https://www.lexisnexis.com/lexisplusgov"
-   }
-  },
-  {
-   "key": "FR2428168490",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2025-07-24T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "LM for Gov",
-    "title": "LM for Gov",
-    "url": "www.logicmonitor.com"
-   }
-  },
-  {
-   "key": "FR2229642430",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2025-04-30T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Cloud Contact Center",
-    "title": "Cloud Contact Center",
-    "url": "https://www.lumen.com/en-us/communications/contact-center.html"
-   }
-  },
-  {
-   "key": "FR2616545789",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "High",
-    "status": "Agency In Process",
-    "text": "Magnet One",
-    "title": "Magnet One",
-    "url": "https://www.magnetforensics.com/"
-   }
-  },
-  {
-   "key": "FR2129953050",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Fortreum, LLC",
-    "date": "2023-02-17T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Manhattan Government Cloud",
-    "title": "Manhattan Government Cloud",
-    "url": "https://www.manh.com/"
-   }
-  },
-  {
-   "key": "FR2226144516",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-    "date": "2025-04-03T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "MARi",
-    "title": "MARi",
-    "url": "https://mari.com/"
-   }
-  },
-  {
-   "key": "FR2210666939",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2023-09-14T20:00:00.000Z",
-    "impact": "LI-SaaS",
-    "status": "FedRAMP Authorized",
-    "text": "Melissa GovCloud Address Suite",
-    "title": "Melissa GovCloud Address Suite",
-    "url": "https://www.melissa.com/govcloud-address-suite"
-   }
-  },
-  {
-   "key": "FR2032665434",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2023-01-09T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Cloud Security Platform powered by Isolation Core",
-    "title": "Cloud Security Platform powered by Isolation Core",
-    "url": "https://www.menlosecurity.com/"
-   }
-  },
-  {
-   "key": "FR2206159758",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Fortreum, LLC",
-    "date": "2026-02-17T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Constellation GovCloud (CGC)",
-    "title": "Constellation GovCloud (CGC)",
-    "url": "https://cgc.cloud/"
-   }
-  },
-  {
-   "key": "FR2215946050",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2024-08-21T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "ITMX Platform featuring Service \u0026 Asset Management, Universal Discovery, CMDB and Project \u0026 Portfolio Management",
-    "title": "ITMX Platform featuring Service \u0026 Asset Management, Universal Discovery, CMDB and Project \u0026 Portfolio Management",
-    "url": "https://www.microfocus.com/en-us/solutions/it-operations"
-   }
-  },
-  {
-   "key": "FR1824057433",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Kratos",
-    "date": "2024-12-26T20:00:00.000Z",
-    "impact": "High",
-    "status": "FedRAMP Authorized",
-    "text": "Microsoft 365 Government Community Cloud-High ",
-    "title": "Microsoft 365 Government Community Cloud-High ",
-    "url": "https://www.microsoft.com/microsoft-365/government"
-   }
-  },
-  {
-   "key": "FR2122150307",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2023-01-18T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "MongoDB Atlas for Government",
-    "title": "MongoDB Atlas for Government",
-    "url": "https://www.mongodb.com/products/platform/atlas-for-government"
-   }
-  },
-  {
-   "key": "FR2234963115",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2025-03-03T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "NCR VOYIX GOVERNMENT CLOUD",
-    "title": "NCR VOYIX GOVERNMENT CLOUD",
-    "url": "https://www.ncrvoyix.com/company/public-sector"
-   }
-  },
-  {
-   "key": "FR2105946715",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Coalfire Systems, Inc.",
-    "date": "2023-12-19T20:00:00.000Z",
-    "impact": "High",
-    "status": "FedRAMP Authorized",
-    "text": "Netskope NewEdge Government.",
-    "title": "Netskope NewEdge Government.",
-    "url": "https://www.netskope.com/solutions/public-sector/govcloud"
-   }
-  },
-  {
-   "key": "FR2525662082",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "status": "Agency In Process",
-    "text": "Infinity for Government (NXT-G)",
-    "title": "Infinity for Government (NXT-G)",
-    "url": "https://nexthink.com/platform/government"
-   }
-  },
-  {
-   "key": "FR2430847803",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2025-09-10T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "NinjaOne for Government",
-    "title": "NinjaOne for Government",
-    "url": "https://www.ninjaone.com/government/federal/"
-   }
-  },
-  {
-   "key": "FR2533155773",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2026-01-09T20:00:00.000Z",
-    "impact": "20x Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "ChatGPT Enterprise and API Platform",
-    "title": "ChatGPT Enterprise and API Platform",
-    "url": "https://openai.com"
-   }
-  },
-  {
-   "key": "FR2203732438",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2024-04-15T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "OpenText Cloud for Government",
-    "title": "OpenText Cloud for Government",
-    "url": "https://www.opentext.com/products/saas/core-application-security"
-   }
-  },
-  {
-   "key": "FR2315464863",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2024-11-19T20:00:00.000Z",
-    "impact": "High",
-    "status": "FedRAMP Authorized",
-    "text": "Palantir Federal Cloud Service – Supporting Services (PFCS-SS)",
-    "title": "Palantir Federal Cloud Service – Supporting Services (PFCS-SS)",
-    "url": "https://www.palantir.com/offerings/fedstart/"
-   }
-  },
-  {
-   "key": "FR2434554673",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2024-11-19T20:00:00.000Z",
-    "impact": "High",
-    "status": "FedRAMP Authorized",
-    "text": "Palantir Federal Cloud Service",
-    "title": "Palantir Federal Cloud Service",
-    "url": "https://www.palantir.com/"
-   }
-  },
-  {
-   "key": "FR2001619337",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2024-03-14T20:00:00.000Z",
-    "impact": "High",
-    "status": "FedRAMP Authorized",
-    "text": "Idira Identity Security Government Services Platform",
-    "title": "Idira Identity Security Government Services Platform",
-    "url": "https://www.cyberark.com/products/access-management/"
-   }
-  },
-  {
-   "key": "FR2001619708",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2024-03-14T20:00:00.000Z",
-    "impact": "High",
-    "status": "FedRAMP Authorized",
-    "text": "Idira Endpoint Privilege Manager for Government",
-    "title": "Idira Endpoint Privilege Manager for Government",
-    "url": "https://www.cyberark.com/products/endpoint-privilege-manager/"
-   }
-  },
-  {
-   "key": "FR2317253567",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Fortreum, LLC",
-    "date": "2024-12-09T20:00:00.000Z",
-    "impact": "High",
-    "status": "FedRAMP Authorized",
-    "text": "GCS-HIGH",
-    "title": "GCS-HIGH",
-    "url": "http://www.paloaltonetworks.com/"
-   }
-  },
-  {
-   "key": "FR2428769635",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "High",
-    "status": "FedRAMP Ready",
-    "text": "Paramify Cloud",
-    "title": "Paramify Cloud",
-    "url": "https://www.paramify.com"
-   }
-  },
-  {
-   "key": "FR2620043771",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Emagine IT",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "status": "Agency In Process",
-    "text": "Patlytics AI Platform",
-    "title": "Patlytics AI Platform",
-    "url": "patlytics.ai"
-   }
-  },
-  {
-   "key": "FR2326160742",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "status": "Agency In Process",
-    "text": "Palladium",
-    "title": "Palladium",
-    "url": "https://pdri.com/platform/"
-   }
-  },
-  {
-   "key": "FR2135637226",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2025-04-23T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Pearson Federal Cloud System",
-    "title": "Pearson Federal Cloud System",
-    "url": "https://home.pearsonvue.com/"
-   }
-  },
-  {
-   "key": "F1306282198A",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Kratos",
-    "date": "2025-03-18T20:00:00.000Z",
-    "impact": "High",
-    "status": "FedRAMP Authorized",
-    "text": "Pega Cloud for Government",
-    "title": "Pega Cloud for Government",
-    "url": "https://www.pega.com/industries/government"
-   }
-  },
-  {
-   "key": "FR2609449664",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "ControlCase",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "status": "Agency In Process",
-    "text": "Pepelwerk Government",
-    "title": "Pepelwerk Government",
-    "url": "www.pepelwerk.com"
-   }
-  },
-  {
-   "key": "FR2202555908",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2023-04-19T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Pexip Government Cloud (PGC)",
-    "title": "Pexip Government Cloud (PGC)",
-    "url": "https://www.pexip.com/"
-   }
-  },
-  {
-   "key": "FR2406651384",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-    "date": "2025-12-18T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Data Integrity Suite for Government",
-    "title": "Data Integrity Suite for Government",
-    "url": "https://www.precisely.com/solution/data-integrity-suite-for-government"
-   }
-  },
-  {
-   "key": "FR2516365096",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2026-01-23T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Procore for Government",
-    "title": "Procore for Government",
-    "url": "https://www.procore.com/"
-   }
-  },
-  {
-   "key": "FR2607643783",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "status": "FedRAMP Ready",
-    "text": "Gov Secure Cloud",
-    "title": "Gov Secure Cloud",
-    "url": "https://www.psiexams.com/certification/government/"
-   }
-  },
-  {
-   "key": "F1606097904A",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2025-07-08T20:00:00.000Z",
-    "impact": "High",
-    "status": "FedRAMP Authorized",
-    "text": "Qualtrics XM Platform - High",
-    "title": "Qualtrics XM Platform - High",
-    "url": "https://www.qualtrics.com/"
-   }
-  },
-  {
-   "key": "FR2214150164",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2025-11-20T20:00:00.000Z",
-    "impact": "High",
-    "status": "FedRAMP Authorized",
-    "text": "Quzara Cybertorch (SOC-as-a-Service)",
-    "title": "Quzara Cybertorch (SOC-as-a-Service)",
-    "url": "https://quzara.com/solutions/cybertorch/mxdr"
-   }
-  },
-  {
-   "key": "FR2422240916",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2025-07-11T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "InsightGovCloud",
-    "title": "InsightGovCloud",
-    "url": "https://www.rapid7.com/"
-   }
-  },
-  {
-   "key": "FR2612446381",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Emagine IT",
-    "date": "Not Active",
-    "impact": "High",
-    "status": "Agency In Process",
-    "text": "Canopy",
-    "title": "Canopy",
-    "url": "https://www.ripcord.com/platform"
-   }
-  },
-  {
-   "key": "FR2234256499",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Fortreum, LLC",
-    "date": "2024-12-10T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Rubrik Security Cloud - Government (RSC-G)",
-    "title": "Rubrik Security Cloud - Government (RSC-G)",
-    "url": "https://www.rubrik.com"
-   }
-  },
-  {
-   "key": "FR260215856",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "status": "FedRAMP Ready",
-    "text": "AQtive Guard",
-    "title": "AQtive Guard",
-    "url": "https://aqtiveguard.com/"
-   }
-  },
-  {
-   "key": "FR2210352243",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-    "date": "2025-01-14T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "SAS AI and Analytics for Government on FedRAMP",
-    "title": "SAS AI and Analytics for Government on FedRAMP",
-    "url": "https://www.sas.com/en_us/home.html"
-   }
-  },
-  {
-   "key": "FR2623840126",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "High",
-    "status": "Agency In Process",
-    "text": "Saviynt High Security Identity Platform",
-    "title": "Saviynt High Security Identity Platform",
-    "url": "https://saviynt.com/"
-   }
-  },
-  {
-   "key": "FR2023666173",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2024-09-09T20:00:00.000Z",
-    "impact": "High",
-    "status": "FedRAMP Authorized",
-    "text": "Scale AI Data Platform",
-    "title": "Scale AI Data Platform",
-    "url": "https://scale.com/federal"
-   }
-  },
-  {
-   "key": "FR2418039495",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2025-05-23T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "ScienceLogic Government Cloud",
-    "title": "ScienceLogic Government Cloud",
-    "url": "https://sciencelogic.com"
-   }
-  },
-  {
-   "key": "FR2410866384",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2025-08-12T20:00:00.000Z",
-    "impact": "High",
-    "status": "FedRAMP Authorized",
-    "text": "2F Game Warden",
-    "title": "2F Game Warden",
-    "url": "http://www.secondfront.com/products/game-warden/"
-   }
-  },
-  {
-   "key": "FR2214346691",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2022-08-01T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Gobo Framework (Gobo)",
-    "title": "Gobo Framework (Gobo)",
-    "url": "https://www.secunetics.com/gobo"
-   }
-  },
-  {
-   "key": "FR2221161553",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "status": "FedRAMP Ready",
-    "text": "SecurityScorecard Security Ratings",
-    "title": "SecurityScorecard Security Ratings",
-    "url": "https://www.securityscorecard.com"
-   }
-  },
-  {
-   "key": "FR1919071020A",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2024-09-10T20:00:00.000Z",
-    "impact": "High",
-    "status": "FedRAMP Authorized",
-    "text": "SentinelOne Singularity Platform High",
-    "title": "SentinelOne Singularity Platform High",
-    "url": "https://www.sentinelone.com/"
-   }
-  },
-  {
-   "key": "FR2231561929",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2025-01-08T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Mendix Cloud for Government",
-    "title": "Mendix Cloud for Government",
-    "url": "https://www.siemensgovt.com/solutions/mendix-cloud"
-   }
-  },
-  {
-   "key": "FR2230252267",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2024-01-25T20:00:00.000Z",
-    "impact": "High",
-    "status": "FedRAMP Authorized",
-    "text": "GovSlack",
-    "title": "GovSlack",
-    "url": "https://slack.com/solutions/govslack"
-   }
-  },
-  {
-   "key": "FR2334936522",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Kratos",
-    "date": "2025-03-19T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Socure for Government (SocureGov)",
-    "title": "Socure for Government (SocureGov)",
-    "url": "https://www.socure.com/"
-   }
-  },
-  {
-   "key": "FR2531434700",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "status": "Agency In Process",
-    "text": "Palette VerteX",
-    "title": "Palette VerteX",
-    "url": "https://www.spectrocloud.com/"
-   }
-  },
-  {
-   "key": "FR2314156865",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2024-09-13T20:00:00.000Z",
-    "impact": "High",
-    "status": "FedRAMP Authorized",
-    "text": "Splunk Cloud Platform for FedRAMP High",
-    "title": "Splunk Cloud Platform for FedRAMP High",
-    "url": "https://www.splunk.com/"
-   }
-  },
-  {
-   "key": "FR2500938675",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "status": "FedRAMP Ready",
-    "text": "Federal ZenGRC",
-    "title": "Federal ZenGRC",
-    "url": "https://www.federalzengrc.com"
-   }
-  },
-  {
-   "key": "FR2134635186",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2023-12-19T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "On-Demand Security Testing Platform",
-    "title": "On-Demand Security Testing Platform",
-    "url": "https://www.synack.com/platform/fedramp/"
-   }
-  },
-  {
-   "key": "FR2533435144",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Kompleye",
-    "date": "2025-09-30T20:00:00.000Z",
-    "impact": "20x Low",
-    "status": "FedRAMP Authorized",
-    "text": "Configurable Case Management Application Platform (CMAP)",
-    "title": "Configurable Case Management Application Platform (CMAP)",
-    "url": "syneren.com"
-   }
-  },
-  {
-   "key": "FR2213647361",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2025-06-03T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Talkdesk CX Cloud™ Government Edition",
-    "title": "Talkdesk CX Cloud™ Government Edition",
-    "url": "https://www.talkdesk.com/call-center-solutions/government-education/government/"
-   }
-  },
-  {
-   "key": "FR2403936773",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "SecureIT",
-    "date": "2025-07-14T20:00:00.000Z",
-    "impact": "High",
-    "status": "FedRAMP Authorized",
-    "text": "Xacta SaaS",
-    "title": "Xacta SaaS",
-    "url": "https://www.telos.com/offerings/xacta/"
-   }
-  },
-  {
-   "key": "FR2333543855",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "status": "Agency In Process",
-    "text": "Thomson Reuters Risk \u0026 Fraud (TR R\u0026F)",
-    "title": "Thomson Reuters Risk \u0026 Fraud (TR R\u0026F)",
-    "url": "https://legal.thomsonreuters.com/en/products/clear"
-   }
-  },
-  {
-   "key": "FR2502148523",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "status": "Agency In Process",
-    "text": "Thomson Reuters Legal Research (TR LR)",
-    "title": "Thomson Reuters Legal Research (TR LR)",
-    "url": "https://legal.thomsonreuters.com/en/westlaw"
-   }
-  },
-  {
-   "key": "FR2334748657",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2025-05-01T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "ThreatConnect For Government",
-    "title": "ThreatConnect For Government",
-    "url": "https://threatconnect.com"
-   }
-  },
-  {
-   "key": "FR2524434194",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "status": "FedRAMP Ready",
-    "text": "ThreatLocker Zero Trust Platform for Government",
-    "title": "ThreatLocker Zero Trust Platform for Government",
-    "url": "www.threatlocker.com"
-   }
-  },
-  {
-   "key": "FR2619646960",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "status": "FedRAMP Ready",
-    "text": "TrackVia Government",
-    "title": "TrackVia Government",
-    "url": "trackvia.com"
-   }
-  },
-  {
-   "key": "FR1935245314A",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Kratos",
-    "date": "2024-11-05T20:00:00.000Z",
-    "impact": "High",
-    "status": "FedRAMP Authorized",
-    "text": "Trellix GovCloud Security Platform",
-    "title": "Trellix GovCloud Security Platform",
-    "url": "https://www.trellix.com/products/"
-   }
-  },
-  {
-   "key": "FR2226231529",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Fortreum, LLC",
-    "date": "2024-11-22T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Trend Vision One for Government",
-    "title": "Trend Vision One for Government",
-    "url": "https://www.trendmicro.com/en_us/business/capabilities/solutions-for/federal-government/security-operations.html"
-   }
-  },
-  {
-   "key": "FR2226228379",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Fortreum, LLC",
-    "date": "2024-11-22T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Trend Cloud One for Government",
-    "title": "Trend Cloud One for Government",
-    "url": "https://www.trendmicro.com/en_us/business/capabilities/solutions-for/federal-government/cloud-security.html"
-   }
-  },
-  {
-   "key": "FR2132958724",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2024-03-20T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Automation Cloud Public Sector",
-    "title": "Automation Cloud Public Sector",
-    "url": "https://www.uipath.com/"
-   }
-  },
-  {
-   "key": "FR2421943168",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "status": "Agency In Process",
-    "text": "UKG Government Cloud",
-    "title": "UKG Government Cloud",
-    "url": "UKG.com"
-   }
-  },
-  {
-   "key": "FR2125561001",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2023-04-20T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Unqork for Government",
-    "title": "Unqork for Government",
-    "url": "https://www.unqork.com/government/"
-   }
-  },
-  {
-   "key": "FR2411443563",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "DataLock Consulting Group",
-    "date": "2025-03-07T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Kernos",
-    "title": "Kernos",
-    "url": "https://valleyit.com/"
-   }
-  },
-  {
-   "key": "FR2525556241",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2025-07-25T20:00:00.000Z",
-    "impact": "20x Low",
-    "status": "FedRAMP Authorized",
-    "text": "Vanta Trust Management Platform",
-    "title": "Vanta Trust Management Platform",
-    "url": "https://www.vanta.com/"
-   }
-  },
-  {
-   "key": "FR2421252644",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2025-06-16T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Varonis DatAdvantage Cloud",
-    "title": "Varonis DatAdvantage Cloud",
-    "url": "https://www.varonis.com"
-   }
-  },
-  {
-   "key": "F1509237360",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2022-07-18T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Veracode Online Security Platform for Government",
-    "title": "Veracode Online Security Platform for Government",
-    "url": "https://www.veracode.com/"
-   }
-  },
-  {
-   "key": "F1605037894",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2023-05-10T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Virtru Data Security Platform",
-    "title": "Virtru Data Security Platform",
-    "url": "https://virtru.com/fedramp"
-   }
-  },
-  {
-   "key": "FR2619254906",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Ignyte Platform Inc.",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "status": "FedRAMP Ready",
-    "text": "VulcanGov",
-    "title": "VulcanGov",
-    "url": "https://vulcan.ai/FedRAMP"
-   }
-  },
-  {
-   "key": "FR1825232355A",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2026-02-04T20:00:00.000Z",
-    "impact": "High",
-    "status": "FedRAMP Authorized",
-    "text": "WellHive",
-    "title": "WellHive",
-    "url": "https://www.wellhive.com/"
-   }
-  },
-  {
-   "key": "FR2103344623",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Coalfire Systems, Inc.",
-    "date": "2022-07-11T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Workday Government Cloud (WGC)",
-    "title": "Workday Government Cloud (WGC)",
-    "url": "https://www.workday.com/"
-   }
-  },
-  {
-   "key": "FR2618542150",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "High",
-    "status": "Agency In Process",
-    "text": "Grok for Government",
-    "title": "Grok for Government",
-    "url": "https://x.ai/grok/government"
-   }
-  },
-  {
-   "key": "FR1825941347A",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2023-07-28T20:00:00.000Z",
-    "impact": "Moderate",
-    "status": "FedRAMP Authorized",
-    "text": "Zoom for Government",
-    "title": "Zoom for Government",
-    "url": "https://www.zoomgov.com/"
-   }
-  },
-  {
-   "key": "FR2227062482",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2022-07-02T20:00:00.000Z",
-    "impact": "High",
-    "status": "FedRAMP Authorized",
-    "text": "Zscaler Internet Access - Government (Secure Web Gateway - vTIC) - High",
-    "title": "Zscaler Internet Access - Government (Secure Web Gateway - vTIC) - High",
-    "url": "https://www.zscaler.com/"
-   }
-  },
   {
    "key": "CBMihgJBVV95cUxQV0pTd2JWcDVvTERyZUNJTy1GbWdlSlh2Qk83dzZwTWdSaEp1amVEcktFbU1zVmtUT1RFUWZNbVc2T0VwaEJkMkdWZTExZklJY2ZCWWpITXFKU2JYYnhzWkxWUGs2SzM0NjR3RG5aMFNCOWNyWlJDVDdoVi1vM1UwR1p0WnRDcmlfU2tOYXBDaTJvcFQ3OGpsdDJGbHNqMm5mbll1WlBLN3lscjUzRHF0eEh3ZTc5bERyTXVlYmtGZWR4cGlHY19TWUFONVM0cjdHR05BZ194dU5hSVlHMlRNaUtyT3BhYXhDenFjV1M3ODQ5djJSblVRVnR0c0tIaTZNdDJvQU1n",
    "source": "authorizations-news",
@@ -2268,6 +132,2304 @@
     "text": "Salesforce Offers As-a-Service Platform With DISA BCAP Connection, IL5 Authorization - ExecutiveBiz",
     "title": "Salesforce Offers As-a-Service Platform With DISA BCAP Connection, IL5 Authorization - ExecutiveBiz",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQN2s4WUI0b1N2RVA1MV9NZGxQLWRJdWQyVHlING5EU1hrV1BLWFhjcEZXbWlleDhlNTJVTGpOY0YxbmpvSFZYQm85MVZheXdLRjJUZG1MRjB4cUJzWGRZQUNMTTZEMnc5dWFUQXBtQUZuNkJ0TTZYWGhEWWwyQm0xNVgtaFdDMk95RS1DV3JJdThRLVJVQXdsX0cweVM5SHpCcmVNV3daWkJuZllxQVl5THlWQkJoQVU1SjE1enpB?oc=5"
+   }
+  },
+  {
+   "key": "FR2623840126",
+   "source": "authorizations-fedramp",
+   "fields": {
+    "date": "2026-06-10T20:00:00.000Z",
+    "status": "Now in Agency Review",
+    "text": "Saviynt High Security Identity Platform",
+    "title": "Saviynt High Security Identity Platform"
+   }
+  },
+  {
+   "key": "FR2619254906",
+   "source": "authorizations-fedramp",
+   "fields": {
+    "date": "2026-06-09T20:00:00.000Z",
+    "status": "Now FedRAMP Ready",
+    "text": "VulcanGov",
+    "title": "VulcanGov"
+   }
+  },
+  {
+   "key": "FR2617664138",
+   "source": "authorizations-fedramp",
+   "fields": {
+    "date": "2026-06-09T20:00:00.000Z",
+    "status": "Now FedRAMP Ready",
+    "text": "Minuet",
+    "title": "Minuet"
+   }
+  },
+  {
+   "key": "FR2425960757",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2025-04-11T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Abnormal AI for Government",
+    "title": "Abnormal AI for Government",
+    "url": "https://abnormal.ai/"
+   }
+  },
+  {
+   "key": "FR2616782844",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "Agency In Process",
+    "text": "CLEAR1 Gov",
+    "title": "CLEAR1 Gov",
+    "url": "http://identity.clearme.com/"
+   }
+  },
+  {
+   "key": "FR2413241182",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2026-02-05T20:00:00.000Z",
+    "impact": "High",
+    "model": "IaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Altana Product Network",
+    "title": "Altana Product Network",
+    "url": "www.altana.ai"
+   }
+  },
+  {
+   "key": "FR2520950455",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2026-02-26T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Andesite Azimuth for Government AAG",
+    "title": "Andesite Azimuth for Government AAG",
+    "url": "https://andesite.ai/"
+   }
+  },
+  {
+   "key": "FR2527234065",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "Agency In Process",
+    "text": "Security Analytics",
+    "title": "Security Analytics",
+    "url": "https://anomali.com"
+   }
+  },
+  {
+   "key": "FR2431264500",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2025-07-02T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "IaaS",
+    "status": "FedRAMP Authorized",
+    "text": "AppOmni SaaS Security for Government",
+    "title": "AppOmni SaaS Security for Government",
+    "url": "https://appomni.com/industry-solutions/public-sector/"
+   }
+  },
+  {
+   "key": "FR2326654692",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2025-06-09T20:00:00.000Z",
+    "impact": "LI-SaaS",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Aprimo",
+    "title": "Aprimo",
+    "url": "www.aprimo.com"
+   }
+  },
+  {
+   "key": "FR2330939028",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2025-03-31T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Aqua Platform for Government",
+    "title": "Aqua Platform for Government",
+    "url": "https://www.aquasec.com/solutions/federal/"
+   }
+  },
+  {
+   "key": "FR2031936863",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2023-01-09T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Armis FedRAMP Edition (AFE)",
+    "title": "Armis FedRAMP Edition (AFE)",
+    "url": "https://www.armis.com/"
+   }
+  },
+  {
+   "key": "FR2503350987",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2026-05-19T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Artera Harmony Federal Edition",
+    "title": "Artera Harmony Federal Edition",
+    "url": "https://artera.io/"
+   }
+  },
+  {
+   "key": "FR2317139564",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2023-03-31T20:00:00.000Z",
+    "impact": "LI-SaaS",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Articulate 360",
+    "title": "Articulate 360",
+    "url": "https://articulate.com/360"
+   }
+  },
+  {
+   "key": "FR2527132001",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP In Process",
+    "text": "Asana",
+    "title": "Asana",
+    "url": "www.asana.com"
+   }
+  },
+  {
+   "key": "FR2401839361",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Kratos",
+    "date": "2025-01-24T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Ask Sage",
+    "title": "Ask Sage",
+    "url": "https://www.asksage.ai"
+   }
+  },
+  {
+   "key": "FR2412062433",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2025-03-14T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Atlassian Government Cloud",
+    "title": "Atlassian Government Cloud",
+    "url": "https://www.atlassian.com/government"
+   }
+  },
+  {
+   "key": "FR2427142353",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2025-11-24T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "AutoRABIT for Public Sector - CodeScan, Guard, \u0026 ARMOR",
+    "title": "AutoRABIT for Public Sector - CodeScan, Guard, \u0026 ARMOR",
+    "url": "https://www.autorabit.com/solutions/public-sector/"
+   }
+  },
+  {
+   "key": "FR2333756970",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2025-07-17T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Axiad Conductor",
+    "title": "Axiad Conductor",
+    "url": "https://www.axiad.com/axiad-cloud/"
+   }
+  },
+  {
+   "key": "FR2507664687",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "PaaS, SaaS",
+    "status": "Agency In Process",
+    "text": "BlackLine Government Solution",
+    "title": "BlackLine Government Solution",
+    "url": "https://www.blackline.com/products/financial-close/"
+   }
+  },
+  {
+   "key": "FR2035056105",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2022-12-13T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Bluescape with n8n for Government",
+    "title": "Bluescape with n8n for Government",
+    "url": "https://www.bluescape.com/"
+   }
+  },
+  {
+   "key": "F1212191840A",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2025-03-25T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Box Enterprise Cloud Content Collaboration Platform",
+    "title": "Box Enterprise Cloud Content Collaboration Platform",
+    "url": "https://www.box.com/"
+   }
+  },
+  {
+   "key": "FR2510550050",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2026-02-19T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Bugcrowd for Government (BCGOV)",
+    "title": "Bugcrowd for Government (BCGOV)",
+    "url": "https://www.bugcrowd.com/solutions/government/"
+   }
+  },
+  {
+   "key": "FR2009476860A",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2025-04-01T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Casepoint Government",
+    "title": "Casepoint Government",
+    "url": "https://platform.casepointgov.com/"
+   }
+  },
+  {
+   "key": "FR2421035110",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2026-04-29T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Cellebrite Government Cloud (CGC)",
+    "title": "Cellebrite Government Cloud (CGC)",
+    "url": "https://www.cellebritefsi.com/"
+   }
+  },
+  {
+   "key": "FR2317262742",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2025-04-21T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Ceribell EEG",
+    "title": "Ceribell EEG",
+    "url": "https://ceribell.com/"
+   }
+  },
+  {
+   "key": "FR2511048038",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2025-09-24T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Check Point Infinity Platform for Government",
+    "title": "Check Point Infinity Platform for Government",
+    "url": "www.checkpoint.com"
+   }
+  },
+  {
+   "key": "FR2514624801",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP In Process",
+    "text": "Checkmarx One for Government (CXG)",
+    "title": "Checkmarx One for Government (CXG)",
+    "url": "https://checkmarx.com/product/application-security-platform/"
+   }
+  },
+  {
+   "key": "FR2518163100",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2025-11-25T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Spaces for Government",
+    "title": "Spaces for Government",
+    "url": "https://www.cisco.com/c/en/us/solutions/enterprise-networks/dna-spaces/index.html"
+   }
+  },
+  {
+   "key": "FR2304757473",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Coalfire Systems, Inc.",
+    "date": "2024-08-01T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Cisco Security Cloud for Government",
+    "title": "Cisco Security Cloud for Government",
+    "url": "http://www.cisco.com/go/secure-access-gov"
+   }
+  },
+  {
+   "key": "FR2315535023",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2025-02-18T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Cisco Meraki for Government",
+    "title": "Cisco Meraki for Government",
+    "url": "https://meraki.cisco.com/"
+   }
+  },
+  {
+   "key": "FR2523656707",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2026-03-05T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Cisco ThousandEyes for Government",
+    "title": "Cisco ThousandEyes for Government",
+    "url": "https://www.thousandeyes.com/"
+   }
+  },
+  {
+   "key": "FR2012534927",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2024-03-14T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Cisco Catalyst SD-WAN for Government (SDWAN-G)",
+    "title": "Cisco Catalyst SD-WAN for Government (SDWAN-G)",
+    "url": "https://www.cisco.com/go/sdwan"
+   }
+  },
+  {
+   "key": "FR1819254092A",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "Not Active",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "Agency In Process",
+    "text": "Citrix for Government - High",
+    "title": "Citrix for Government - High",
+    "url": "https://www.citrix.com/"
+   }
+  },
+  {
+   "key": "FR2014656304",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2025-02-05T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Civis Platform",
+    "title": "Civis Platform",
+    "url": "https://www.civisanalytics.com/"
+   }
+  },
+  {
+   "key": "FR2309544938",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+    "date": "2025-05-07T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Cloudera for Government",
+    "title": "Cloudera for Government",
+    "url": "www.cloudera.com"
+   }
+  },
+  {
+   "key": "FR2000863987",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2022-12-12T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Cloudflare for Government",
+    "title": "Cloudflare for Government",
+    "url": "https://www.cloudflare.com/cloudflare-for-government/"
+   }
+  },
+  {
+   "key": "FR2533236012",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Ready",
+    "text": "Contract Insight",
+    "title": "Contract Insight",
+    "url": "https://www.cobblestonesoftware.com/"
+   }
+  },
+  {
+   "key": "FR2306445868",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2024-05-06T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Cohesity Cloud Services for Government",
+    "title": "Cohesity Cloud Services for Government",
+    "url": "https://helios.gov-cohesity.com/"
+   }
+  },
+  {
+   "key": "FR2600044765",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2026-06-03T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "CoLab AI Inc",
+    "title": "CoLab AI Inc",
+    "url": "www.colabsoftware.com"
+   }
+  },
+  {
+   "key": "FR2234550858",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2024-01-17T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Concur Cloud for Public Sector",
+    "title": "Concur Cloud for Public Sector",
+    "url": "https://www.concur.com/"
+   }
+  },
+  {
+   "key": "FR2621650811",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Ignyte Platform Inc.",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Ready",
+    "text": "Consus Gateway",
+    "title": "Consus Gateway",
+    "url": "https://consus.io"
+   }
+  },
+  {
+   "key": "FR2621342703",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Fortreum, LLC",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "Agency In Process",
+    "text": "Corelight Open NDR Platform",
+    "title": "Corelight Open NDR Platform",
+    "url": "https://corelight.com/ "
+   }
+  },
+  {
+   "key": "FR2602662279",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Ignyte Platform Inc.",
+    "date": "Not Active",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "Agency In Process",
+    "text": "Coretsu Government Suite",
+    "title": "Coretsu Government Suite",
+    "url": "coretsu.us"
+   }
+  },
+  {
+   "key": "FR2416856649",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Lunarline, Inc.",
+    "date": "2025-06-27T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Federal Immersive Learning Management System (FED-ILMS)",
+    "title": "Federal Immersive Learning Management System (FED-ILMS)",
+    "url": "https://www.creativevet.com/"
+   }
+  },
+  {
+   "key": "FR2519759620",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2026-01-28T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Cribl.Cloud Government",
+    "title": "Cribl.Cloud Government",
+    "url": "www.cribl.io"
+   }
+  },
+  {
+   "key": "FR1807853629A",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2025-03-12T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "CrowdStrike Falcon Platform for Government",
+    "title": "CrowdStrike Falcon Platform for Government",
+    "url": "https://www.crowdstrike.com/solutions/falcon-on-govcloud/"
+   }
+  },
+  {
+   "key": "FR2135180018",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "First Information Technology Services, Inc.",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "Agency In Process",
+    "text": "Composite Apps/ CuraPatient",
+    "title": "Composite Apps/ CuraPatient",
+    "url": "https://curapatient.com/"
+   }
+  },
+  {
+   "key": "FR2618046015",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "Not Active",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "Agency In Process",
+    "text": "Cyera for Government",
+    "title": "Cyera for Government",
+    "url": "cyera.io"
+   }
+  },
+  {
+   "key": "FR2623848170",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Ready",
+    "text": "DailyPay for Government",
+    "title": "DailyPay for Government",
+    "url": "https://www.dailypay.com/industries/public-sector/#public-sector-tabs"
+   }
+  },
+  {
+   "key": "FR2324740262",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Fortreum, LLC",
+    "date": "2025-02-26T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Databricks on AWS GovCloud",
+    "title": "Databricks on AWS GovCloud",
+    "url": "https://www.databricks.com/solutions/industries/federal-government"
+   }
+  },
+  {
+   "key": "FR2525247858",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Fortreum, LLC",
+    "date": "2026-01-16T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Databricks on Azure Commercial",
+    "title": "Databricks on Azure Commercial",
+    "url": "https://azure.microsoft.com/en-us/products/databricks"
+   }
+  },
+  {
+   "key": "FR2023864279A",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2026-05-05T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Datadog for Government",
+    "title": "Datadog for Government",
+    "url": "https://www.datadoghq.com/"
+   }
+  },
+  {
+   "key": "FR2618648262",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Coalfire Systems, Inc.",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "IaaS, SaaS",
+    "status": "FedRAMP Ready",
+    "text": "Midwatch",
+    "title": "Midwatch",
+    "url": "cybersecgru.com"
+   }
+  },
+  {
+   "key": "F1606087903A",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2026-02-11T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Replicon Cloud Platform (Enterprise Time Tracking Platform)",
+    "title": "Replicon Cloud Platform (Enterprise Time Tracking Platform)",
+    "url": "https://www.deltek.com/en/time-tracking/replicon"
+   }
+  },
+  {
+   "key": "FR2405880485",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "PaaS, SaaS",
+    "status": "FedRAMP Ready",
+    "text": "Costpoint GovCon Cloud Moderate (CP GCCM)",
+    "title": "Costpoint GovCon Cloud Moderate (CP GCCM)",
+    "url": "https://www.deltek.com/en/government-contracting/costpoint/cloud"
+   }
+  },
+  {
+   "key": "FR2508262726",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "Agency In Process",
+    "text": "Dexcom Clarity for Government",
+    "title": "Dexcom Clarity for Government",
+    "url": "https://clarity.dexcom.us/professional/"
+   }
+  },
+  {
+   "key": "FR2424945160",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "ControlCase",
+    "date": "2025-09-24T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Minsky No-code ML/NLP Knowledge Graphing Platform",
+    "title": "Minsky No-code ML/NLP Knowledge Graphing Platform",
+    "url": "https://dmetrics.com"
+   }
+  },
+  {
+   "key": "FR2600167032",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2025-12-05T20:00:00.000Z",
+    "impact": "20x Low",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Drata Trust Management Platform",
+    "title": "Drata Trust Management Platform",
+    "url": "https://drata.com/"
+   }
+  },
+  {
+   "key": "F1603307884",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2023-08-30T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Trimble Unity Construct Government Edition",
+    "title": "Trimble Unity Construct Government Edition",
+    "url": "https://e-builder.net/"
+   }
+  },
+  {
+   "key": "FR2523939103",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Kratos",
+    "date": "2026-03-23T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Elastic Cloud Hosted - High",
+    "title": "Elastic Cloud Hosted - High",
+    "url": "elastic.co"
+   }
+  },
+  {
+   "key": "FR2330135650",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2025-04-17T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Archibus",
+    "title": "Archibus",
+    "url": "https://eptura.com/industries/government/archibus-for-government/"
+   }
+  },
+  {
+   "key": "FR2311952621",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2025-07-25T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "PaaS, SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "EY Grants Accelerator",
+    "title": "EY Grants Accelerator",
+    "url": "https://www.ey.com/en_us/alliances/ey-grants-accelerator"
+   }
+  },
+  {
+   "key": "FR2207359708",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Emagine IT",
+    "date": "2022-08-23T20:00:00.000Z",
+    "impact": "LI-SaaS",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Laser AI",
+    "title": "Laser AI",
+    "url": "https://laser.ai/"
+   }
+  },
+  {
+   "key": "FR2518756614",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Ready",
+    "text": "Managed Access Gateway with Managed Microsoft 365",
+    "title": "Managed Access Gateway with Managed Microsoft 365",
+    "url": "https://www.exostar.com/"
+   }
+  },
+  {
+   "key": "FR2510664395",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2025-09-15T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "ExtraHop RevealX Federal",
+    "title": "ExtraHop RevealX Federal",
+    "url": "https://www.extrahop.com/solutions/industry/public-sector"
+   }
+  },
+  {
+   "key": "FR2531062517",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "Agency In Process",
+    "text": "F5 Distributed Cloud",
+    "title": "F5 Distributed Cloud",
+    "url": "https://www.f5.com/"
+   }
+  },
+  {
+   "key": "FR2427818523",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Lunarline, Inc.",
+    "date": "2025-05-08T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "RMA iQ™",
+    "title": "RMA iQ™",
+    "url": "https://www.feith.com/"
+   }
+  },
+  {
+   "key": "FR2311345531",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2025-02-28T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Figma for Government",
+    "title": "Figma for Government",
+    "url": "www.figma.com"
+   }
+  },
+  {
+   "key": "FR2131766015",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Coalfire Systems, Inc.",
+    "date": "2023-06-26T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Genesys Cloud CX",
+    "title": "Genesys Cloud CX",
+    "url": "https://www.genesys.com/fedramp/genesys-cloud-cx"
+   }
+  },
+  {
+   "key": "FR2234334891",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Linford \u0026 Company",
+    "date": "2025-05-23T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Glassbeam Clinsights",
+    "title": "Glassbeam Clinsights",
+    "url": "https://www.glassbeam.com/solutions/"
+   }
+  },
+  {
+   "key": "FR2604952026",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Federal Risk and Authorization Management Program",
+    "date": "2026-01-21T20:00:00.000Z",
+    "impact": "20x Low",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Gemini for Government",
+    "title": "Gemini for Government",
+    "url": "https://cloud.google.com/blog/topics/public-sector/introducing-gemini-for-government-supporting-the-us-governments-transformation-with-ai/ "
+   }
+  },
+  {
+   "key": "FR2620251735",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Ignyte Platform Inc.",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Ready",
+    "text": "GroundControl",
+    "title": "GroundControl",
+    "url": "https://gndctl.com"
+   }
+  },
+  {
+   "key": "FR2521554684",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Lunarline, Inc.",
+    "date": "2026-04-16T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "H2O.AI",
+    "title": "H2O.AI",
+    "url": "https://h2o.ai/"
+   }
+  },
+  {
+   "key": "FR2502963317",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2025-09-29T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "IaaS",
+    "status": "FedRAMP Authorized",
+    "text": "HP Managed Services for Government",
+    "title": "HP Managed Services for Government",
+    "url": "https://reinvent.hp.com/us_gov-sales-specialist"
+   }
+  },
+  {
+   "key": "FR2524349489",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Fortreum, LLC",
+    "date": "2026-02-10T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "IBM Data Services for Government",
+    "title": "IBM Data Services for Government",
+    "url": "ibm.com"
+   }
+  },
+  {
+   "key": "FR2504062150",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Coalfire Systems, Inc.",
+    "date": "2025-11-13T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "IBM Federal ATOM",
+    "title": "IBM Federal ATOM",
+    "url": "https://ibm-atom.com/"
+   }
+  },
+  {
+   "key": "FR2230244107",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2024-08-21T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Illumio Government Cloud",
+    "title": "Illumio Government Cloud",
+    "url": "https://www.illumio.com/solutions/government"
+   }
+  },
+  {
+   "key": "FR2531865690",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Ready",
+    "text": "NetSfere Enterprise",
+    "title": "NetSfere Enterprise",
+    "url": "https://netsfere.com/fedramp"
+   }
+  },
+  {
+   "key": "FR2321143030",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "First Information Technology Services, Inc.",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Ready",
+    "text": "Content Manager Records Management Application (RMA) Cloud Service Offering (CSO)",
+    "title": "Content Manager Records Management Application (RMA) Cloud Service Offering (CSO)",
+    "url": "https://www.info-first.com/content-manager-msaas.html"
+   }
+  },
+  {
+   "key": "FR2535459236",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Coalfire Systems, Inc.",
+    "date": "2026-04-15T20:00:00.000Z",
+    "impact": "High",
+    "model": "PaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Iron Mountain InSight for Government",
+    "title": "Iron Mountain InSight for Government",
+    "url": "https://www.ironmountain.com/services/insight-digital-experience-platform"
+   }
+  },
+  {
+   "key": "FR2102758152",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+    "date": "2025-03-28T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Juniper Mist",
+    "title": "Juniper Mist",
+    "url": "https://www.juniper.net/us/en/products/mist-ai.html"
+   }
+  },
+  {
+   "key": "FR2128462521",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2023-05-05T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Juvare Federal Cloud",
+    "title": "Juvare Federal Cloud",
+    "url": "https://www.juvare.com/"
+   }
+  },
+  {
+   "key": "FR2528033654",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Coalfire Systems, Inc.",
+    "date": "2026-03-30T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Knox Systems FedRAMP High Managed Platform",
+    "title": "Knox Systems FedRAMP High Managed Platform",
+    "url": "https://www.knoxsystems.com"
+   }
+  },
+  {
+   "key": "FR2406453618",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2025-04-22T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "LabArchives for Government (LG)",
+    "title": "LabArchives for Government (LG)",
+    "url": "https://www.labarchives.com/"
+   }
+  },
+  {
+   "key": "FR2120962552",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2023-01-06T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "LaunchDarkly",
+    "title": "LaunchDarkly",
+    "url": "https://launchdarkly.com/solutions/federal-government-solutions/"
+   }
+  },
+  {
+   "key": "FR2510634052",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "PaaS, SaaS",
+    "status": "FedRAMP In Process",
+    "text": "Lexis+® for Government",
+    "title": "Lexis+® for Government",
+    "url": "https://www.lexisnexis.com/lexisplusgov"
+   }
+  },
+  {
+   "key": "FR2428168490",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2025-07-24T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "LM for Gov",
+    "title": "LM for Gov",
+    "url": "www.logicmonitor.com"
+   }
+  },
+  {
+   "key": "FR2229642430",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2025-04-30T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Cloud Contact Center",
+    "title": "Cloud Contact Center",
+    "url": "https://www.lumen.com/en-us/communications/contact-center.html"
+   }
+  },
+  {
+   "key": "FR2616545789",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "Not Active",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "Agency In Process",
+    "text": "Magnet One",
+    "title": "Magnet One",
+    "url": "https://www.magnetforensics.com/"
+   }
+  },
+  {
+   "key": "FR2129953050",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Fortreum, LLC",
+    "date": "2023-02-17T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "PaaS, SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Manhattan Government Cloud",
+    "title": "Manhattan Government Cloud",
+    "url": "https://www.manh.com/"
+   }
+  },
+  {
+   "key": "FR2226144516",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+    "date": "2025-04-03T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "MARi",
+    "title": "MARi",
+    "url": "https://mari.com/"
+   }
+  },
+  {
+   "key": "FR2210666939",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2023-09-14T20:00:00.000Z",
+    "impact": "LI-SaaS",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Melissa GovCloud Address Suite",
+    "title": "Melissa GovCloud Address Suite",
+    "url": "https://www.melissa.com/govcloud-address-suite"
+   }
+  },
+  {
+   "key": "FR2032665434",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2023-01-09T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Cloud Security Platform powered by Isolation Core",
+    "title": "Cloud Security Platform powered by Isolation Core",
+    "url": "https://www.menlosecurity.com/"
+   }
+  },
+  {
+   "key": "FR2206159758",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Fortreum, LLC",
+    "date": "2026-02-17T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "PaaS, SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Constellation GovCloud (CGC)",
+    "title": "Constellation GovCloud (CGC)",
+    "url": "https://cgc.cloud/"
+   }
+  },
+  {
+   "key": "FR2215946050",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2024-08-21T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "ITMX Platform featuring Service \u0026 Asset Management, Universal Discovery, CMDB and Project \u0026 Portfolio Management",
+    "title": "ITMX Platform featuring Service \u0026 Asset Management, Universal Discovery, CMDB and Project \u0026 Portfolio Management",
+    "url": "https://www.microfocus.com/en-us/solutions/it-operations"
+   }
+  },
+  {
+   "key": "FR1824057433",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Kratos",
+    "date": "2024-12-26T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Microsoft 365 Government Community Cloud-High ",
+    "title": "Microsoft 365 Government Community Cloud-High ",
+    "url": "https://www.microsoft.com/microsoft-365/government"
+   }
+  },
+  {
+   "key": "FR2122150307",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2023-01-18T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "MongoDB Atlas for Government",
+    "title": "MongoDB Atlas for Government",
+    "url": "https://www.mongodb.com/products/platform/atlas-for-government"
+   }
+  },
+  {
+   "key": "FR2234963115",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2025-03-03T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "NCR VOYIX GOVERNMENT CLOUD",
+    "title": "NCR VOYIX GOVERNMENT CLOUD",
+    "url": "https://www.ncrvoyix.com/company/public-sector"
+   }
+  },
+  {
+   "key": "FR2105946715",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Coalfire Systems, Inc.",
+    "date": "2023-12-19T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Netskope NewEdge Government.",
+    "title": "Netskope NewEdge Government.",
+    "url": "https://www.netskope.com/solutions/public-sector/govcloud"
+   }
+  },
+  {
+   "key": "FR2525662082",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "Agency In Process",
+    "text": "Infinity for Government (NXT-G)",
+    "title": "Infinity for Government (NXT-G)",
+    "url": "https://nexthink.com/platform/government"
+   }
+  },
+  {
+   "key": "FR2430847803",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2025-09-10T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "NinjaOne for Government",
+    "title": "NinjaOne for Government",
+    "url": "https://www.ninjaone.com/government/federal/"
+   }
+  },
+  {
+   "key": "FR2533155773",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2026-01-09T20:00:00.000Z",
+    "impact": "20x Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "ChatGPT Enterprise and API Platform",
+    "title": "ChatGPT Enterprise and API Platform",
+    "url": "https://openai.com"
+   }
+  },
+  {
+   "key": "FR2203732438",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2024-04-15T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "OpenText Cloud for Government",
+    "title": "OpenText Cloud for Government",
+    "url": "https://www.opentext.com/products/saas/core-application-security"
+   }
+  },
+  {
+   "key": "FR2315464863",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2024-11-19T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Palantir Federal Cloud Service – Supporting Services (PFCS-SS)",
+    "title": "Palantir Federal Cloud Service – Supporting Services (PFCS-SS)",
+    "url": "https://www.palantir.com/offerings/fedstart/"
+   }
+  },
+  {
+   "key": "FR2434554673",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2024-11-19T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Palantir Federal Cloud Service",
+    "title": "Palantir Federal Cloud Service",
+    "url": "https://www.palantir.com/"
+   }
+  },
+  {
+   "key": "FR2001619708",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2024-03-14T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Idira Endpoint Privilege Manager for Government",
+    "title": "Idira Endpoint Privilege Manager for Government",
+    "url": "https://www.cyberark.com/products/endpoint-privilege-manager/"
+   }
+  },
+  {
+   "key": "FR2317253567",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Fortreum, LLC",
+    "date": "2024-12-09T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "GCS-HIGH",
+    "title": "GCS-HIGH",
+    "url": "http://www.paloaltonetworks.com/"
+   }
+  },
+  {
+   "key": "FR2001619337",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2024-03-14T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Idira Identity Security Government Services Platform",
+    "title": "Idira Identity Security Government Services Platform",
+    "url": "https://www.cyberark.com/products/access-management/"
+   }
+  },
+  {
+   "key": "FR2428769635",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "Not Active",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Ready",
+    "text": "Paramify Cloud",
+    "title": "Paramify Cloud",
+    "url": "https://www.paramify.com"
+   }
+  },
+  {
+   "key": "FR2620043771",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Emagine IT",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "Agency In Process",
+    "text": "Patlytics AI Platform",
+    "title": "Patlytics AI Platform",
+    "url": "patlytics.ai"
+   }
+  },
+  {
+   "key": "FR2326160742",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "Agency In Process",
+    "text": "Palladium",
+    "title": "Palladium",
+    "url": "https://pdri.com/platform/"
+   }
+  },
+  {
+   "key": "FR2135637226",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2025-04-23T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Pearson Federal Cloud System",
+    "title": "Pearson Federal Cloud System",
+    "url": "https://home.pearsonvue.com/"
+   }
+  },
+  {
+   "key": "F1306282198A",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Kratos",
+    "date": "2025-03-18T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Pega Cloud for Government",
+    "title": "Pega Cloud for Government",
+    "url": "https://www.pega.com/industries/government"
+   }
+  },
+  {
+   "key": "FR2609449664",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "ControlCase",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "Agency In Process",
+    "text": "Pepelwerk Government",
+    "title": "Pepelwerk Government",
+    "url": "www.pepelwerk.com"
+   }
+  },
+  {
+   "key": "FR2202555908",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2023-04-19T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Pexip Government Cloud (PGC)",
+    "title": "Pexip Government Cloud (PGC)",
+    "url": "https://www.pexip.com/"
+   }
+  },
+  {
+   "key": "FR2406651384",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+    "date": "2025-12-18T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Data Integrity Suite for Government",
+    "title": "Data Integrity Suite for Government",
+    "url": "https://www.precisely.com/solution/data-integrity-suite-for-government"
+   }
+  },
+  {
+   "key": "FR2516365096",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2026-01-23T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Procore for Government",
+    "title": "Procore for Government",
+    "url": "https://www.procore.com/"
+   }
+  },
+  {
+   "key": "FR2607643783",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Ready",
+    "text": "Gov Secure Cloud",
+    "title": "Gov Secure Cloud",
+    "url": "https://www.psiexams.com/certification/government/"
+   }
+  },
+  {
+   "key": "F1606097904A",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2025-07-08T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Qualtrics XM Platform - High",
+    "title": "Qualtrics XM Platform - High",
+    "url": "https://www.qualtrics.com/"
+   }
+  },
+  {
+   "key": "FR2214150164",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2025-11-20T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Quzara Cybertorch (SOC-as-a-Service)",
+    "title": "Quzara Cybertorch (SOC-as-a-Service)",
+    "url": "https://quzara.com/solutions/cybertorch/mxdr"
+   }
+  },
+  {
+   "key": "FR2422240916",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2025-07-11T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "PaaS, SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "InsightGovCloud",
+    "title": "InsightGovCloud",
+    "url": "https://www.rapid7.com/"
+   }
+  },
+  {
+   "key": "FR2612446381",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Emagine IT",
+    "date": "Not Active",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "Agency In Process",
+    "text": "Canopy",
+    "title": "Canopy",
+    "url": "https://www.ripcord.com/platform"
+   }
+  },
+  {
+   "key": "FR2234256499",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Fortreum, LLC",
+    "date": "2024-12-10T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "PaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Rubrik Security Cloud - Government (RSC-G)",
+    "title": "Rubrik Security Cloud - Government (RSC-G)",
+    "url": "https://www.rubrik.com"
+   }
+  },
+  {
+   "key": "FR260215856",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "PaaS, SaaS",
+    "status": "FedRAMP Ready",
+    "text": "AQtive Guard",
+    "title": "AQtive Guard",
+    "url": "https://aqtiveguard.com/"
+   }
+  },
+  {
+   "key": "FR2210352243",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+    "date": "2025-01-14T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "SAS AI and Analytics for Government on FedRAMP",
+    "title": "SAS AI and Analytics for Government on FedRAMP",
+    "url": "https://www.sas.com/en_us/home.html"
+   }
+  },
+  {
+   "key": "FR2623840126",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "Not Active",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "Agency In Process",
+    "text": "Saviynt High Security Identity Platform",
+    "title": "Saviynt High Security Identity Platform",
+    "url": "https://saviynt.com/"
+   }
+  },
+  {
+   "key": "FR2023666173",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2024-09-09T20:00:00.000Z",
+    "impact": "High",
+    "model": "IaaS, SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Scale AI Data Platform",
+    "title": "Scale AI Data Platform",
+    "url": "https://scale.com/federal"
+   }
+  },
+  {
+   "key": "FR2418039495",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2025-05-23T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "ScienceLogic Government Cloud",
+    "title": "ScienceLogic Government Cloud",
+    "url": "https://sciencelogic.com"
+   }
+  },
+  {
+   "key": "FR2410866384",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2025-08-12T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "2F Game Warden",
+    "title": "2F Game Warden",
+    "url": "http://www.secondfront.com/products/game-warden/"
+   }
+  },
+  {
+   "key": "FR2214346691",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2022-08-01T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Gobo Framework (Gobo)",
+    "title": "Gobo Framework (Gobo)",
+    "url": "https://www.secunetics.com/gobo"
+   }
+  },
+  {
+   "key": "FR2221161553",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "PaaS, SaaS",
+    "status": "FedRAMP Ready",
+    "text": "SecurityScorecard Security Ratings",
+    "title": "SecurityScorecard Security Ratings",
+    "url": "https://www.securityscorecard.com"
+   }
+  },
+  {
+   "key": "FR1919071020A",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2024-09-10T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "SentinelOne Singularity Platform High",
+    "title": "SentinelOne Singularity Platform High",
+    "url": "https://www.sentinelone.com/"
+   }
+  },
+  {
+   "key": "FR2231561929",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2025-01-08T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Mendix Cloud for Government",
+    "title": "Mendix Cloud for Government",
+    "url": "https://www.siemensgovt.com/solutions/mendix-cloud"
+   }
+  },
+  {
+   "key": "FR2230252267",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2024-01-25T20:00:00.000Z",
+    "impact": "High",
+    "model": "PaaS",
+    "status": "FedRAMP Authorized",
+    "text": "GovSlack",
+    "title": "GovSlack",
+    "url": "https://slack.com/solutions/govslack"
+   }
+  },
+  {
+   "key": "FR2334936522",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Kratos",
+    "date": "2025-03-19T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Socure for Government (SocureGov)",
+    "title": "Socure for Government (SocureGov)",
+    "url": "https://www.socure.com/"
+   }
+  },
+  {
+   "key": "FR2531434700",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "IaaS, SaaS",
+    "status": "Agency In Process",
+    "text": "Palette VerteX",
+    "title": "Palette VerteX",
+    "url": "https://www.spectrocloud.com/"
+   }
+  },
+  {
+   "key": "FR2314156865",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2024-09-13T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Splunk Cloud Platform for FedRAMP High",
+    "title": "Splunk Cloud Platform for FedRAMP High",
+    "url": "https://www.splunk.com/"
+   }
+  },
+  {
+   "key": "FR2500938675",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Ready",
+    "text": "Federal ZenGRC",
+    "title": "Federal ZenGRC",
+    "url": "https://www.federalzengrc.com"
+   }
+  },
+  {
+   "key": "FR2134635186",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2023-12-19T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "On-Demand Security Testing Platform",
+    "title": "On-Demand Security Testing Platform",
+    "url": "https://www.synack.com/platform/fedramp/"
+   }
+  },
+  {
+   "key": "FR2533435144",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Kompleye",
+    "date": "2025-09-30T20:00:00.000Z",
+    "impact": "20x Low",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Configurable Case Management Application Platform (CMAP)",
+    "title": "Configurable Case Management Application Platform (CMAP)",
+    "url": "syneren.com"
+   }
+  },
+  {
+   "key": "FR2213647361",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2025-06-03T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Talkdesk CX Cloud™ Government Edition",
+    "title": "Talkdesk CX Cloud™ Government Edition",
+    "url": "https://www.talkdesk.com/call-center-solutions/government-education/government/"
+   }
+  },
+  {
+   "key": "FR2403936773",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "SecureIT",
+    "date": "2025-07-14T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Xacta SaaS",
+    "title": "Xacta SaaS",
+    "url": "https://www.telos.com/offerings/xacta/"
+   }
+  },
+  {
+   "key": "FR2333543855",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "Agency In Process",
+    "text": "Thomson Reuters Risk \u0026 Fraud (TR R\u0026F)",
+    "title": "Thomson Reuters Risk \u0026 Fraud (TR R\u0026F)",
+    "url": "https://legal.thomsonreuters.com/en/products/clear"
+   }
+  },
+  {
+   "key": "FR2502148523",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "Agency In Process",
+    "text": "Thomson Reuters Legal Research (TR LR)",
+    "title": "Thomson Reuters Legal Research (TR LR)",
+    "url": "https://legal.thomsonreuters.com/en/westlaw"
+   }
+  },
+  {
+   "key": "FR2334748657",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2025-05-01T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "ThreatConnect For Government",
+    "title": "ThreatConnect For Government",
+    "url": "https://threatconnect.com"
+   }
+  },
+  {
+   "key": "FR2524434194",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Ready",
+    "text": "ThreatLocker Zero Trust Platform for Government",
+    "title": "ThreatLocker Zero Trust Platform for Government",
+    "url": "www.threatlocker.com"
+   }
+  },
+  {
+   "key": "FR2619646960",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Ready",
+    "text": "TrackVia Government",
+    "title": "TrackVia Government",
+    "url": "trackvia.com"
+   }
+  },
+  {
+   "key": "FR1935245314A",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Kratos",
+    "date": "2024-11-05T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Trellix GovCloud Security Platform",
+    "title": "Trellix GovCloud Security Platform",
+    "url": "https://www.trellix.com/products/"
+   }
+  },
+  {
+   "key": "FR2226228379",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Fortreum, LLC",
+    "date": "2024-11-22T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Trend Cloud One for Government",
+    "title": "Trend Cloud One for Government",
+    "url": "https://www.trendmicro.com/en_us/business/capabilities/solutions-for/federal-government/cloud-security.html"
+   }
+  },
+  {
+   "key": "FR2226231529",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Fortreum, LLC",
+    "date": "2024-11-22T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Trend Vision One for Government",
+    "title": "Trend Vision One for Government",
+    "url": "https://www.trendmicro.com/en_us/business/capabilities/solutions-for/federal-government/security-operations.html"
+   }
+  },
+  {
+   "key": "FR2132958724",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2024-03-20T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Automation Cloud Public Sector",
+    "title": "Automation Cloud Public Sector",
+    "url": "https://www.uipath.com/"
+   }
+  },
+  {
+   "key": "FR2421943168",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "Agency In Process",
+    "text": "UKG Government Cloud",
+    "title": "UKG Government Cloud",
+    "url": "UKG.com"
+   }
+  },
+  {
+   "key": "FR2125561001",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2023-04-20T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Unqork for Government",
+    "title": "Unqork for Government",
+    "url": "https://www.unqork.com/government/"
+   }
+  },
+  {
+   "key": "FR2411443563",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "DataLock Consulting Group",
+    "date": "2025-03-07T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Kernos",
+    "title": "Kernos",
+    "url": "https://valleyit.com/"
+   }
+  },
+  {
+   "key": "FR2525556241XM",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2026-04-24T20:00:00.000Z",
+    "impact": "20x Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Vanta Government Cloud",
+    "title": "Vanta Government Cloud",
+    "url": "https://www.vanta.com/"
+   }
+  },
+  {
+   "key": "FR2421252636",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2025-05-14T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Varonis Data Security Platform",
+    "title": "Varonis Data Security Platform",
+    "url": "https://www.varonis.com"
+   }
+  },
+  {
+   "key": "F1509237360",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2022-07-18T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Veracode Online Security Platform for Government",
+    "title": "Veracode Online Security Platform for Government",
+    "url": "https://www.veracode.com/"
+   }
+  },
+  {
+   "key": "F1605037894",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2023-05-10T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Virtru Data Security Platform",
+    "title": "Virtru Data Security Platform",
+    "url": "https://virtru.com/fedramp"
+   }
+  },
+  {
+   "key": "FR2619254906",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Ignyte Platform Inc.",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Ready",
+    "text": "VulcanGov",
+    "title": "VulcanGov",
+    "url": "https://vulcan.ai/FedRAMP"
+   }
+  },
+  {
+   "key": "FR1825232355A",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2026-02-04T20:00:00.000Z",
+    "impact": "High",
+    "model": "IaaS",
+    "status": "FedRAMP Authorized",
+    "text": "WellHive",
+    "title": "WellHive",
+    "url": "https://www.wellhive.com/"
+   }
+  },
+  {
+   "key": "FR2103344623",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Coalfire Systems, Inc.",
+    "date": "2022-07-11T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Workday Government Cloud (WGC)",
+    "title": "Workday Government Cloud (WGC)",
+    "url": "https://www.workday.com/"
+   }
+  },
+  {
+   "key": "FR2618542150",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "Not Active",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "Agency In Process",
+    "text": "Grok for Government",
+    "title": "Grok for Government",
+    "url": "https://x.ai/grok/government"
+   }
+  },
+  {
+   "key": "FR1825941347A",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2023-07-28T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "PaaS, SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Zoom for Government",
+    "title": "Zoom for Government",
+    "url": "https://www.zoomgov.com/"
+   }
+  },
+  {
+   "key": "FR2219763604",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2022-11-07T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Zscaler Private Access - Government (Zero Trust Exchange - VPN Replacement)",
+    "title": "Zscaler Private Access - Government (Zero Trust Exchange - VPN Replacement)",
+    "url": "https://www.zscaler.com/"
    }
   }
  ]

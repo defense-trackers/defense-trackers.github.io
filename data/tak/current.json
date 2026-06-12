@@ -1,38 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-06-12T02:01:33Z",
+ "fetched_at": "2026-06-12T06:45:07Z",
  "schema_version": 1,
  "records": [
-  {
-   "key": "ATAK-CIV",
-   "source": "tak-sdk-compat",
-   "fields": {
-    "plugin": "ATAK-CIV",
-    "repo": "deptofdefense/AndroidTacticalAssaultKit-CIV",
-    "sdk": "5.x",
-    "status": "active",
-    "text": "ATAK-CIV",
-    "url": "https://github.com/deptofdefense/AndroidTacticalAssaultKit-CIV"
-   }
-  },
-  {
-   "key": "engindearing-projects/OmniTAK-Android",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-06-11T23:13:54Z",
-    "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
-    "stars": "10",
-    "text": "engindearing-projects/OmniTAK-Android",
-    "title": "engindearing-projects/OmniTAK-Android",
-    "url": "https://github.com/engindearing-projects/OmniTAK-Android"
-   }
-  },
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-06-11T22:44:00Z",
+    "date": "2026-06-12T06:41:37Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "42",
     "text": "takwerx/infra-TAK",
@@ -41,27 +17,39 @@
    }
   },
   {
-   "key": "engindearing-projects/OmniTAK-iOS",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-06-11T19:48:20Z",
-    "description": "Open-source TAK (Team Awareness Kit) client for iPhone and iPad. Swift + SwiftUI. Apache 2.0.",
-    "stars": "5",
-    "text": "engindearing-projects/OmniTAK-iOS",
-    "title": "engindearing-projects/OmniTAK-iOS",
-    "url": "https://github.com/engindearing-projects/OmniTAK-iOS"
-   }
-  },
-  {
    "key": "snstac/dronecot",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-06-11T01:33:02Z",
+    "date": "2026-06-12T06:19:55Z",
     "description": "DroneCOT is software for monitoring and analyzing Direct Remote Identification (DRI), Remote ID (RID) or Open Drone ID (ODID) broadcasts from Uncrewed Aircraft (UA) via the Team Awareness Kit (TAK) ecosystem of products.",
     "stars": "31",
     "text": "snstac/dronecot",
     "title": "snstac/dronecot",
     "url": "https://github.com/snstac/dronecot"
+   }
+  },
+  {
+   "key": "engindearing-projects/OmniTAK-Android",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-06-12T06:02:39Z",
+    "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
+    "stars": "10",
+    "text": "engindearing-projects/OmniTAK-Android",
+    "title": "engindearing-projects/OmniTAK-Android",
+    "url": "https://github.com/engindearing-projects/OmniTAK-Android"
+   }
+  },
+  {
+   "key": "engindearing-projects/OmniTAK-iOS",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-06-12T05:54:56Z",
+    "description": "Open-source TAK (Team Awareness Kit) client for iPhone and iPad. Swift + SwiftUI. Apache 2.0.",
+    "stars": "5",
+    "text": "engindearing-projects/OmniTAK-iOS",
+    "title": "engindearing-projects/OmniTAK-iOS",
+    "url": "https://github.com/engindearing-projects/OmniTAK-iOS"
    }
   },
   {
@@ -106,7 +94,7 @@
    "fields": {
     "date": "2026-04-29T06:19:09Z",
     "description": "High-performance Rust kernel for the TAK (Team Awareness Kit) ecosystem — drop-in replacement for the messaging core of the Java TAK Server. Cursor-on-Target (CoT) over mTLS, single-node firehose at 10k+ concurrent clients. Compatible with ATAK, iTAK, WinTAK.",
-    "stars": "1",
+    "stars": "2",
     "text": "copyleftdev/tak-rs",
     "title": "copyleftdev/tak-rs",
     "url": "https://github.com/copyleftdev/tak-rs"
@@ -687,7 +675,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-06-12T01:54:16Z",
+    "date": "2026-06-12T03:26:22Z",
     "description": "full port of Reticulum and LXMF to Rust with added SDK",
     "stars": "18",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -742,6 +730,30 @@
    }
   },
   {
+   "key": "newtypeind/atak-plugin-kotlin-starter",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-06-12T06:14:11Z",
+    "description": "Starter for building ATAK plugins with Kotlin and Jetpack Compose (Material 3) instead of Java and Android XML.",
+    "stars": "0",
+    "text": "newtypeind/atak-plugin-kotlin-starter",
+    "title": "newtypeind/atak-plugin-kotlin-starter",
+    "url": "https://github.com/newtypeind/atak-plugin-kotlin-starter"
+   }
+  },
+  {
+   "key": "atakmaps/TAK-MESHCORE",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-06-12T03:45:03Z",
+    "description": "ATAK MeshCore plugin",
+    "stars": "13",
+    "text": "atakmaps/TAK-MESHCORE",
+    "title": "atakmaps/TAK-MESHCORE",
+    "url": "https://github.com/atakmaps/TAK-MESHCORE"
+   }
+  },
+  {
    "key": "kd2var/aprsdroid-atak-plugin",
    "source": "tak-github",
    "fields": {
@@ -763,18 +775,6 @@
     "text": "engindearing-projects/tak-live-traffic-guide",
     "title": "engindearing-projects/tak-live-traffic-guide",
     "url": "https://github.com/engindearing-projects/tak-live-traffic-guide"
-   }
-  },
-  {
-   "key": "atakmaps/TAK-MESHCORE",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-06-11T01:24:34Z",
-    "description": "ATAK MeshCore plugin",
-    "stars": "13",
-    "text": "atakmaps/TAK-MESHCORE",
-    "title": "atakmaps/TAK-MESHCORE",
-    "url": "https://github.com/atakmaps/TAK-MESHCORE"
    }
   },
   {
@@ -1074,15 +1074,15 @@
    }
   },
   {
-   "key": "VCWG/VC-HUD",
-   "source": "tak-github",
+   "key": "ATAK-CIV",
+   "source": "tak-sdk-compat",
    "fields": {
-    "date": "2026-04-04T21:41:08Z",
-    "description": "HUD plugin for ATAK, compatible with ECOTI over USB",
-    "stars": "12",
-    "text": "VCWG/VC-HUD",
-    "title": "VCWG/VC-HUD",
-    "url": "https://github.com/VCWG/VC-HUD"
+    "plugin": "ATAK-CIV",
+    "repo": "deptofdefense/AndroidTacticalAssaultKit-CIV",
+    "sdk": "5.x",
+    "status": "active",
+    "text": "ATAK-CIV",
+    "url": "https://github.com/deptofdefense/AndroidTacticalAssaultKit-CIV"
    }
   }
  ]

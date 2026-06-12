@@ -1,7 +1,7 @@
 {
  "source": "model-ops",
  "tracker": "model-ops",
- "fetched_at": "2026-06-12T02:00:10Z",
+ "fetched_at": "2026-06-12T06:43:42Z",
  "schema_version": 1,
  "records": [
   {
@@ -49,7 +49,7 @@
    "fields": {
     "date": "2024-07-18T08:56:00.000Z",
     "downloads": "9891622",
-    "likes": "6056",
+    "likes": "6057",
     "tags": "transformers, safetensors, llama, text-generation, facebook, meta, pytorch, llama-3, conversational, en, de, fr, it, pt, hi, es, th, arxiv:2204.05149, base_model:meta-llama/Llama-3.1-8B, base_model:finetune:meta-llama/Llama-3.1-8B, license:llama3.1, eval-results, text-generation-inference, endpoints_compatible, region:us",
     "text": "meta-llama/Llama-3.1-8B-Instruct",
     "title": "meta-llama/Llama-3.1-8B-Instruct",
@@ -153,7 +153,7 @@
    "fields": {
     "date": "2026-04-09T03:37:12.000Z",
     "downloads": "2516447",
-    "likes": "1205",
+    "likes": "1207",
     "tags": "transformers, safetensors, minimax_m2, text-generation, conversational, custom_code, license:other, eval-results, endpoints_compatible, fp8, region:us",
     "text": "MiniMaxAI/MiniMax-M2.7",
     "title": "MiniMaxAI/MiniMax-M2.7",
@@ -218,7 +218,7 @@
    "fields": {
     "date": "2024-03-04T18:03:06.000Z",
     "downloads": "2006557",
-    "likes": "1418",
+    "likes": "1419",
     "tags": "transformers, safetensors, moondream1, text-generation, image-text-to-text, custom_code, doi:10.57967/hf/6762, license:apache-2.0, eval-results, endpoints_compatible, region:us",
     "text": "vikhyatk/moondream2",
     "title": "vikhyatk/moondream2",
@@ -590,6 +590,16 @@
    }
   },
   {
+   "key": "b9603",
+   "source": "model-ops-llamacpp",
+   "fields": {
+    "date": "2026-06-12T05:16:00Z",
+    "text": "b9603",
+    "title": "b9603",
+    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9603"
+   }
+  },
+  {
    "key": "b9601",
    "source": "model-ops-llamacpp",
    "fields": {
@@ -657,16 +667,6 @@
     "text": "b9589",
     "title": "b9589",
     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9589"
-   }
-  },
-  {
-   "key": "b9587",
-   "source": "model-ops-llamacpp",
-   "fields": {
-    "date": "2026-06-10T08:12:19Z",
-    "text": "b9587",
-    "title": "b9587",
-    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9587"
    }
   },
   {

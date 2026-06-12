@@ -1,88 +1,9 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-06-12T02:01:16Z",
+ "fetched_at": "2026-06-12T06:44:50Z",
  "schema_version": 1,
  "records": [
-  {
-   "key": "343653",
-   "source": "pipeline-logistics",
-   "fields": {
-    "agency": "Dept. of the Army -- USAMRAA",
-    "closes": "09/18/2027",
-    "number": "W81XWH-22-DHAPP",
-    "posted": "09/19/2022",
-    "text": "Department of Defense HIV/AIDS Prevention Program",
-    "title": "Department of Defense HIV/AIDS Prevention Program",
-    "url": "https://www.grants.gov/search-results-detail/343653"
-   }
-  },
-  {
-   "key": "356837",
-   "source": "pipeline-logistics",
-   "fields": {
-    "agency": "Dept of the Army -- Materiel Command",
-    "number": "DEVCOM-ARL-RFI-25-01",
-    "posted": "10/24/2024",
-    "text": "Request for Information – University Partnership Models",
-    "title": "Request for Information – University Partnership Models",
-    "url": "https://www.grants.gov/search-results-detail/356837"
-   }
-  },
-  {
-   "key": "362671",
-   "source": "pipeline-logistics",
-   "fields": {
-    "agency": "Department of Homeland Security - FEMA",
-    "closes": "07/06/2026",
-    "number": "DHS-26-GPD-159-00-99",
-    "posted": "06/03/2026",
-    "text": "State Border Security Reinforcement Fund",
-    "title": "State Border Security Reinforcement Fund",
-    "url": "https://www.grants.gov/search-results-detail/362671"
-   }
-  },
-  {
-   "key": "345241",
-   "source": "pipeline-logistics",
-   "fields": {
-    "agency": "Dept of the Army -- Materiel Command",
-    "closes": "01/04/2028",
-    "number": "W911NF-23-S-0003",
-    "posted": "01/05/2023",
-    "text": "DEVCOM ANALYSIS CENTER BROAD AGENCY ANNOUNCEMENT FOR APPLIED RESEARCH",
-    "title": "DEVCOM ANALYSIS CENTER BROAD AGENCY ANNOUNCEMENT FOR APPLIED RESEARCH",
-    "url": "https://www.grants.gov/search-results-detail/345241"
-   }
-  },
-  {
-   "key": "349554",
-   "source": "pipeline-logistics",
-   "fields": {
-    "agency": "Air Force -- Research Lab",
-    "closes": "05/10/2043",
-    "number": "FA2391-23-S-2403",
-    "posted": "07/26/2023",
-    "text": "Pioneering Aerospace Capabilities, Engineering and Research (PACER)",
-    "title": "Pioneering Aerospace Capabilities, Engineering and Research (PACER)",
-    "url": "https://www.grants.gov/search-results-detail/349554"
-   }
-  },
-  {
-   "key": "0342cd8c0ab447d6b40baa05dd731a7d",
-   "source": "pipeline-sam-mesh",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.MISSION INSTALLATION CONTRACTING COMMAND.419TH CSB.W6QM MICC-FT DRUM",
-    "closes": "2026-03-03T17:00:00-08:00",
-    "number": "W911S226U2663",
-    "posted": "2026-02-24",
-    "setaside": "Total Small Business Set-Aside (FAR 19.5)",
-    "text": "Mesh Network Radio and Server",
-    "title": "Mesh Network Radio and Server",
-    "type": "Combined Synopsis/Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/0342cd8c0ab447d6b40baa05dd731a7d/view"
-   }
-  },
   {
    "key": "339728",
    "source": "pipeline-autonomy",
@@ -490,6 +411,70 @@
     "text": "UNITED STATES ARMY RESEARCH INSTITUTE FOR THE BEHAVIORAL AND SOCIAL SCIENCES (ARI) BROAD AGENCY ANNOUNCEMENT FOR BASIC, APPLIED, AND ADVANCED SCIENTIFIC RESEARCH",
     "title": "UNITED STATES ARMY RESEARCH INSTITUTE FOR THE BEHAVIORAL AND SOCIAL SCIENCES (ARI) BROAD AGENCY ANNOUNCEMENT FOR BASIC, APPLIED, AND ADVANCED SCIENTIFIC RESEARCH",
     "url": "https://www.grants.gov/search-results-detail/347858"
+   }
+  },
+  {
+   "key": "343653",
+   "source": "pipeline-logistics",
+   "fields": {
+    "agency": "Dept. of the Army -- USAMRAA",
+    "closes": "09/18/2027",
+    "number": "W81XWH-22-DHAPP",
+    "posted": "09/19/2022",
+    "text": "Department of Defense HIV/AIDS Prevention Program",
+    "title": "Department of Defense HIV/AIDS Prevention Program",
+    "url": "https://www.grants.gov/search-results-detail/343653"
+   }
+  },
+  {
+   "key": "356837",
+   "source": "pipeline-logistics",
+   "fields": {
+    "agency": "Dept of the Army -- Materiel Command",
+    "number": "DEVCOM-ARL-RFI-25-01",
+    "posted": "10/24/2024",
+    "text": "Request for Information – University Partnership Models",
+    "title": "Request for Information – University Partnership Models",
+    "url": "https://www.grants.gov/search-results-detail/356837"
+   }
+  },
+  {
+   "key": "362671",
+   "source": "pipeline-logistics",
+   "fields": {
+    "agency": "Department of Homeland Security - FEMA",
+    "closes": "07/06/2026",
+    "number": "DHS-26-GPD-159-00-99",
+    "posted": "06/03/2026",
+    "text": "State Border Security Reinforcement Fund",
+    "title": "State Border Security Reinforcement Fund",
+    "url": "https://www.grants.gov/search-results-detail/362671"
+   }
+  },
+  {
+   "key": "345241",
+   "source": "pipeline-logistics",
+   "fields": {
+    "agency": "Dept of the Army -- Materiel Command",
+    "closes": "01/04/2028",
+    "number": "W911NF-23-S-0003",
+    "posted": "01/05/2023",
+    "text": "DEVCOM ANALYSIS CENTER BROAD AGENCY ANNOUNCEMENT FOR APPLIED RESEARCH",
+    "title": "DEVCOM ANALYSIS CENTER BROAD AGENCY ANNOUNCEMENT FOR APPLIED RESEARCH",
+    "url": "https://www.grants.gov/search-results-detail/345241"
+   }
+  },
+  {
+   "key": "349554",
+   "source": "pipeline-logistics",
+   "fields": {
+    "agency": "Air Force -- Research Lab",
+    "closes": "05/10/2043",
+    "number": "FA2391-23-S-2403",
+    "posted": "07/26/2023",
+    "text": "Pioneering Aerospace Capabilities, Engineering and Research (PACER)",
+    "title": "Pioneering Aerospace Capabilities, Engineering and Research (PACER)",
+    "url": "https://www.grants.gov/search-results-detail/349554"
    }
   },
   {

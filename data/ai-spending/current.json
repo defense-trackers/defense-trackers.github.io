@@ -1,19 +1,9 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-06-12T01:59:46Z",
+ "fetched_at": "2026-06-12T06:42:53Z",
  "schema_version": 1,
  "records": [
-  {
-   "key": "806026852",
-   "source": "ai-spending-recipients",
-   "fields": {
-    "amount": "6.357711669e+07",
-    "text": "ECS FEDERAL, LLC",
-    "title": "ECS FEDERAL, LLC",
-    "url": "https://www.usaspending.gov/search"
-   }
-  },
   {
    "key": "CONT_AWD_W911QX20C0023_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
@@ -612,6 +602,16 @@
     "text": "R-DEX SYSTEMS, INC.",
     "title": "R-DEX SYSTEMS, INC.",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W5170125CA290_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "806026852",
+   "source": "ai-spending-recipients",
+   "fields": {
+    "amount": "6.357711669e+07",
+    "text": "ECS FEDERAL, LLC",
+    "title": "ECS FEDERAL, LLC",
+    "url": "https://www.usaspending.gov/search"
    }
   }
  ]
