@@ -36,9 +36,11 @@ This system is **low-touch, not zero-touch.** The following require a human:
    one failure mode with no automatic alert.*
 3. **Second owner.** The org is currently a single-owner free org (bus factor of one).
    Add a second org owner / team so the project survives loss of one account.
-4. **Legal sign-off.** Confirm with JAG/ethics that neutral-org aggregation of public
-   information is clean for the maintainer's status, and keep an IP-provenance note
-   (built on personal time/equipment).
+
+> Note: this is a personal project, built on personal equipment and time, aggregating
+> only public information. No special legal step is required to run it. *If* it is ever
+> commercialized (sold, licensed, or folded into a company), confirm ownership and
+> outside-activity posture at that point — not before.
 
 ## Continuation
 
