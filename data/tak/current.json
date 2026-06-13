@@ -1,9 +1,21 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-06-13T09:38:46Z",
+ "fetched_at": "2026-06-13T20:08:41Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-06-13T19:36:25Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "42",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
   {
    "key": "engindearing-projects/OmniTAK-iOS",
    "source": "tak-cot",
@@ -26,18 +38,6 @@
     "text": "engindearing-projects/OmniTAK-Android",
     "title": "engindearing-projects/OmniTAK-Android",
     "url": "https://github.com/engindearing-projects/OmniTAK-Android"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-06-13T05:26:58Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "42",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -675,7 +675,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-06-13T08:41:32Z",
+    "date": "2026-06-13T20:07:30Z",
     "description": "full port of Reticulum and LXMF to Rust with added SDK",
     "stars": "18",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -730,10 +730,22 @@
    }
   },
   {
+   "key": "kd2var/aprsdroid-atak-plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-06-13T17:17:18Z",
+    "description": "ATAK Plugin that pulls position data from APRSdroid into ATAK",
+    "stars": "0",
+    "text": "kd2var/aprsdroid-atak-plugin",
+    "title": "kd2var/aprsdroid-atak-plugin",
+    "url": "https://github.com/kd2var/aprsdroid-atak-plugin"
+   }
+  },
+  {
    "key": "atakmaps/TAK-MESHCORE",
    "source": "tak-github",
    "fields": {
-    "date": "2026-06-13T00:22:26Z",
+    "date": "2026-06-13T18:43:16Z",
     "description": "ATAK MeshCore plugin",
     "stars": "13",
     "text": "atakmaps/TAK-MESHCORE",
@@ -763,18 +775,6 @@
     "text": "newtypeind/atak-plugin-kotlin-starter",
     "title": "newtypeind/atak-plugin-kotlin-starter",
     "url": "https://github.com/newtypeind/atak-plugin-kotlin-starter"
-   }
-  },
-  {
-   "key": "kd2var/aprsdroid-atak-plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-06-11T05:34:02Z",
-    "description": "ATAK Plugin that pulls position data from APRSdroid into ATAK",
-    "stars": "0",
-    "text": "kd2var/aprsdroid-atak-plugin",
-    "title": "kd2var/aprsdroid-atak-plugin",
-    "url": "https://github.com/kd2var/aprsdroid-atak-plugin"
    }
   },
   {
