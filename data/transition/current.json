@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-06-12T20:57:28Z",
+ "fetched_at": "2026-06-13T09:38:49Z",
  "schema_version": 1,
  "records": [
   {
@@ -661,7 +661,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "26699845470",
+    "amount": "26761586543",
     "award_id": "N0002417C2117",
     "description": "COLUMBIA CLASS DESIGN COMPLETION",
     "text": "ELECTRIC BOAT CORPORATION",
@@ -739,7 +739,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "1.812974982179e+10",
+    "amount": "1.811183852978e+10",
     "award_id": "N0001914C0067",
     "description": "USN P-8A FRP II LONG LEAD MATERIAL",
     "text": "THE BOEING COMPANY",
@@ -1059,6 +1059,19 @@
    }
   },
   {
+   "key": "CONT_AWD_HT940223C0001_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "7.43589169663e+09",
+    "award_id": "HT940223C0001",
+    "description": "TRICARE MANAGED CARE SUPPORT SERVICES CONTRACT, 5TH GENERATION EAST REGION",
+    "text": "HUMANA GOVERNMENT BUSINESS INC",
+    "title": "HUMANA GOVERNMENT BUSINESS INC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_HT940223C0001_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_0004_9700_W52P1J07D0007_9700",
    "source": "transition-usaspending",
    "fields": {
@@ -1069,19 +1082,6 @@
     "text": "AMENTUM SERVICES, INC.",
     "title": "AMENTUM SERVICES, INC.",
     "url": "https://www.usaspending.gov/award/CONT_AWD_0004_9700_W52P1J07D0007_9700/"
-   }
-  },
-  {
-   "key": "CONT_AWD_HT940223C0001_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "7.34588976863e+09",
-    "award_id": "HT940223C0001",
-    "description": "TRICARE MANAGED CARE SUPPORT SERVICES CONTRACT, 5TH GENERATION EAST REGION",
-    "text": "HUMANA GOVERNMENT BUSINESS INC",
-    "title": "HUMANA GOVERNMENT BUSINESS INC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_HT940223C0001_9700_-NONE-_-NONE-/"
    }
   },
   {
