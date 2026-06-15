@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-06-14T20:11:24Z",
+ "fetched_at": "2026-06-15T12:46:39Z",
  "schema_version": 1,
  "records": [
   {
@@ -427,6 +427,19 @@
    }
   },
   {
+   "key": "362796",
+   "source": "pipeline-logistics",
+   "fields": {
+    "agency": "Department of Homeland Security - FEMA",
+    "closes": "07/15/2026",
+    "number": "DHS-26-GPD-042-01-99",
+    "posted": "06/15/2026",
+    "text": "Fiscal Year 2026 Emergency Management Performance Grant Program",
+    "title": "Fiscal Year 2026 Emergency Management Performance Grant Program",
+    "url": "https://www.grants.gov/search-results-detail/362796"
+   }
+  },
+  {
    "key": "356837",
    "source": "pipeline-logistics",
    "fields": {
@@ -528,6 +541,21 @@
    }
   },
   {
+   "key": "2af5563ad8da4581ba47634eb65c9d94",
+   "source": "pipeline-sam-ai",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AF INSTALLATION \u0026 MISSION SUPPORT CENTER.FA8903  772 ESS PK",
+    "closes": "2026-06-29T17:00:00-04:00",
+    "number": "AFCEC-26-R-0006",
+    "posted": "2026-06-15",
+    "setaside": "No Set aside used",
+    "text": "RFLP Artificial Intelligence (AI) Data Center Development at Joint Base Elmendorf Richardson, Eielson Air Force Base, and Clear Space Force Station",
+    "title": "RFLP Artificial Intelligence (AI) Data Center Development at Joint Base Elmendorf Richardson, Eielson Air Force Base, and Clear Space Force Station",
+    "type": "Solicitation",
+    "url": "https://sam.gov/workspace/contract/opp/2af5563ad8da4581ba47634eb65c9d94/view"
+   }
+  },
+  {
    "key": "0800655bb5714d68957ce0d5ee922938",
    "source": "pipeline-sam-ai",
    "fields": {
@@ -539,21 +567,6 @@
     "title": "Decentralized Artificial Intelligence through Controlled Emergence (DICE)",
     "type": "Solicitation",
     "url": "https://sam.gov/workspace/contract/opp/0800655bb5714d68957ce0d5ee922938/view"
-   }
-  },
-  {
-   "key": "48447d3383784571a5a37119d19e5751",
-   "source": "pipeline-sam-ai",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AF INSTALLATION \u0026 MISSION SUPPORT CENTER.FA8903  772 ESS PK",
-    "closes": "2026-06-29T17:00:00-04:00",
-    "number": "AFCEC-26-R-0006",
-    "posted": "2026-06-05",
-    "setaside": "No Set aside used",
-    "text": "RFLP Artificial Intelligence (AI) Data Center Development at Joint Base Elmendorf Richardson, Eielson Air Force Base, and Clear Space Force Station",
-    "title": "RFLP Artificial Intelligence (AI) Data Center Development at Joint Base Elmendorf Richardson, Eielson Air Force Base, and Clear Space Force Station",
-    "type": "Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/48447d3383784571a5a37119d19e5751/view"
    }
   },
   {
@@ -584,46 +597,32 @@
    }
   },
   {
-   "key": "075fa9551f454aba8b0738430a802a05",
+   "key": "697f458df0a645ada5424a7fae958f6d",
    "source": "pipeline-sam-autonomy",
    "fields": {
     "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-DTA.W6QK ACC- DTA",
     "closes": "2026-06-16T23:59:00-05:00",
     "number": "W912CH26R0022",
-    "posted": "2026-06-12",
+    "posted": "2026-06-15",
     "text": "Autonomous Transport Vehicle System (ATV-S)",
     "title": "Autonomous Transport Vehicle System (ATV-S)",
     "type": "Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/075fa9551f454aba8b0738430a802a05/view"
+    "url": "https://sam.gov/workspace/contract/opp/697f458df0a645ada5424a7fae958f6d/view"
    }
   },
   {
-   "key": "583abe432ccb4cddb523c8c3e672ded5",
+   "key": "3c32c5031b6a4d3ea2788098fd44ec29",
    "source": "pipeline-sam-autonomy",
    "fields": {
     "agency": "DEPT OF DEFENSE.US TRANSPORTATION COMMAND (USTRANSCOM)",
     "closes": "2026-07-06T11:00:00-05:00",
     "number": "USTC2026001",
-    "posted": "2026-06-11",
+    "posted": "2026-06-15",
     "setaside": "No Set aside used",
-    "text": "Federal Business Opportunities posting Request for Information Assured Access to Maritime Autonomous Surface Ships",
-    "title": "Federal Business Opportunities posting Request for Information Assured Access to Maritime Autonomous Surface Ships",
+    "text": "Assured Access to Maritime Autonomous Surface Ships",
+    "title": "Assured Access to Maritime Autonomous Surface Ships",
     "type": "Special Notice",
-    "url": "https://sam.gov/workspace/contract/opp/583abe432ccb4cddb523c8c3e672ded5/view"
-   }
-  },
-  {
-   "key": "0ba4990fa76747cfb3d57ea49991bf5b",
-   "source": "pipeline-sam-autonomy",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NAVAL UNDERSEA WARFARE CENTER",
-    "closes": "2026-06-14T16:00:00-07:00",
-    "number": "N00253-ID-SSW-RAS-06152026",
-    "posted": "2026-06-11",
-    "text": "Subsea and Seabed Warfare and Robotic Autonomous Systems Industry Day",
-    "title": "Subsea and Seabed Warfare and Robotic Autonomous Systems Industry Day",
-    "type": "Special Notice",
-    "url": "https://sam.gov/workspace/contract/opp/0ba4990fa76747cfb3d57ea49991bf5b/view"
+    "url": "https://sam.gov/workspace/contract/opp/3c32c5031b6a4d3ea2788098fd44ec29/view"
    }
   },
   {
@@ -811,6 +810,19 @@
     "title": "USAREUR-AF Small Unmanned Aircraft Systems (sUAS) Blanket Purchase Agreement",
     "type": "Sources Sought",
     "url": "https://sam.gov/workspace/contract/opp/2b32fcbd97224f68bbd4d2649bf6c28f/view"
+   }
+  },
+  {
+   "key": "362793",
+   "source": "pipeline-unmanned",
+   "fields": {
+    "agency": "Department of Homeland Security - FEMA",
+    "closes": "07/15/2026",
+    "number": "DHS-26-GPD-052-01-99",
+    "posted": "06/15/2026",
+    "text": "Fiscal Year 2026 Emergency Operations Center Grant Program",
+    "title": "Fiscal Year 2026 Emergency Operations Center Grant Program",
+    "url": "https://www.grants.gov/search-results-detail/362793"
    }
   }
  ]

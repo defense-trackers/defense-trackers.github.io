@@ -1,7 +1,7 @@
 {
  "source": "research-funding",
  "tracker": "research-funding",
- "fetched_at": "2026-06-14T20:11:33Z",
+ "fetched_at": "2026-06-15T12:46:51Z",
  "schema_version": 1,
  "records": [
   {
@@ -61,20 +61,6 @@
    }
   },
   {
-   "key": "2526621",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "410000",
-    "awardee": "Purdue University",
-    "date": "10/01/2026",
-    "program": "Secure \u0026Trustworthy Cyberspace",
-    "text": "Collaborative Research: SaTC 2.0: RES: AIGIS: Securing the Deep Learning Model Supply Chain",
-    "title": "Collaborative Research: SaTC 2.0: RES: AIGIS: Securing the Deep Learning Model Supply Chain",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2526621"
-   }
-  },
-  {
    "key": "2526622",
    "source": "research-nsf",
    "fields": {
@@ -89,17 +75,17 @@
    }
   },
   {
-   "key": "2609004",
+   "key": "2526621",
    "source": "research-nsf",
    "fields": {
     "agency": "NSF",
-    "amount": "880650",
-    "awardee": "University of Minnesota-Twin Cities",
+    "amount": "410000",
+    "awardee": "Purdue University",
     "date": "10/01/2026",
-    "program": "NAIRR-Nat AI Research Resource, Software Institutes, PHYSICS AT THE INFO FRONTIER",
-    "text": "Collaborative Research: Frameworks: ML4GW, a machine learning ecosystem for gravitational wave data analysis",
-    "title": "Collaborative Research: Frameworks: ML4GW, a machine learning ecosystem for gravitational wave data analysis",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2609004"
+    "program": "Secure \u0026Trustworthy Cyberspace",
+    "text": "Collaborative Research: SaTC 2.0: RES: AIGIS: Securing the Deep Learning Model Supply Chain",
+    "title": "Collaborative Research: SaTC 2.0: RES: AIGIS: Securing the Deep Learning Model Supply Chain",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2526621"
    }
   }
  ]
