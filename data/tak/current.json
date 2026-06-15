@@ -1,43 +1,43 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-06-15T12:47:00Z",
+ "fetched_at": "2026-06-15T21:37:48Z",
  "schema_version": 1,
  "records": [
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-06-15T07:21:33Z",
+    "date": "2026-06-15T20:25:24Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "42",
+    "stars": "43",
     "text": "takwerx/infra-TAK",
     "title": "takwerx/infra-TAK",
     "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
+   "key": "engindearing-projects/OmniTAK-Android",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-06-15T19:20:53Z",
+    "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
+    "stars": "11",
+    "text": "engindearing-projects/OmniTAK-Android",
+    "title": "engindearing-projects/OmniTAK-Android",
+    "url": "https://github.com/engindearing-projects/OmniTAK-Android"
+   }
+  },
+  {
    "key": "engindearing-projects/OmniTAK-iOS",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-06-15T06:22:15Z",
+    "date": "2026-06-15T19:09:47Z",
     "description": "Open-source TAK (Team Awareness Kit) client for iPhone and iPad. Swift + SwiftUI. Apache 2.0.",
     "stars": "5",
     "text": "engindearing-projects/OmniTAK-iOS",
     "title": "engindearing-projects/OmniTAK-iOS",
     "url": "https://github.com/engindearing-projects/OmniTAK-iOS"
-   }
-  },
-  {
-   "key": "engindearing-projects/OmniTAK-Android",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-06-15T05:59:27Z",
-    "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
-    "stars": "10",
-    "text": "engindearing-projects/OmniTAK-Android",
-    "title": "engindearing-projects/OmniTAK-Android",
-    "url": "https://github.com/engindearing-projects/OmniTAK-Android"
    }
   },
   {
@@ -322,7 +322,7 @@
    "fields": {
     "date": "2024-10-29T11:52:00Z",
     "description": "Situational Awareness Server compatible with TAK clients",
-    "stars": "924",
+    "stars": "925",
     "text": "FreeTAKTeam/FreeTakServer",
     "title": "FreeTAKTeam/FreeTakServer",
     "url": "https://github.com/FreeTAKTeam/FreeTakServer"
@@ -710,7 +710,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-06-10T16:06:09Z",
+    "date": "2026-06-15T19:29:20Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "15",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -795,7 +795,7 @@
    "fields": {
     "date": "2026-06-11T02:18:03Z",
     "description": "Live Google traffic overlay in ATAK (no plugin, custom map source XML) and OmniTAK — verified guide with screenshots and source-level receipts",
-    "stars": "2",
+    "stars": "3",
     "text": "engindearing-projects/tak-live-traffic-guide",
     "title": "engindearing-projects/tak-live-traffic-guide",
     "url": "https://github.com/engindearing-projects/tak-live-traffic-guide"
