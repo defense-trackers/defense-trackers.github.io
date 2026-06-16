@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-06-15T21:37:28Z",
+ "fetched_at": "2026-06-16T11:38:54Z",
  "schema_version": 1,
  "records": [
   {
@@ -72,6 +72,7 @@
    "source": "pipeline-autonomy",
    "fields": {
     "agency": "National Institute of Standards and Technology",
+    "closes": "09/15/2026",
     "number": "2025-NIST-MSE-01",
     "posted": "05/14/2025",
     "text": "Measurement Science and Engineering (MSE) Research Grant Programs",
@@ -388,6 +389,19 @@
    }
   },
   {
+   "key": "349586",
+   "source": "pipeline-grants",
+   "fields": {
+    "agency": "Dept. of the Army -- USAMRAA",
+    "closes": "07/31/2028",
+    "number": "HT9425-23-S-SOC1",
+    "posted": "07/27/2023",
+    "text": "BROAD AGENCY ANNOUNCEMENT (BAA) for Extramural Biomedical and Human Performance Research and Development Department of Defense",
+    "title": "BROAD AGENCY ANNOUNCEMENT (BAA) for Extramural Biomedical and Human Performance Research and Development Department of Defense",
+    "url": "https://www.grants.gov/search-results-detail/349586"
+   }
+  },
+  {
    "key": "347858",
    "source": "pipeline-logistics",
    "fields": {
@@ -528,7 +542,7 @@
    }
   },
   {
-   "key": "a1dc64798daa4c9ea8cdcc6e1c5d0ae4",
+   "key": "3a9b6ba7ed424dbc96bd43a02e5c6a7a",
    "source": "pipeline-sam-ai",
    "fields": {
     "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AF INSTALLATION \u0026 MISSION SUPPORT CENTER.FA8903  772 ESS PK",
@@ -539,7 +553,7 @@
     "text": "RFLP Artificial Intelligence (AI) Data Center Development at Joint Base Elmendorf Richardson, Eielson Air Force Base, and Clear Space Force Station",
     "title": "RFLP Artificial Intelligence (AI) Data Center Development at Joint Base Elmendorf Richardson, Eielson Air Force Base, and Clear Space Force Station",
     "type": "Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/a1dc64798daa4c9ea8cdcc6e1c5d0ae4/view"
+    "url": "https://sam.gov/workspace/contract/opp/3a9b6ba7ed424dbc96bd43a02e5c6a7a/view"
    }
   },
   {
@@ -628,21 +642,6 @@
    }
   },
   {
-   "key": "c55c5f9d39aa432f8990b60267949724",
-   "source": "pipeline-sam-autonomy",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.MISSION INSTALLATION CONTRACTING COMMAND.419TH CSB.W6QM MICC-FT DRUM",
-    "closes": "2026-06-15T12:00:00-06:00",
-    "number": "W911S226U3341",
-    "posted": "2026-06-01",
-    "setaside": "Total Small Business Set-Aside (FAR 19.5)",
-    "text": "FLOOR SCRUBBER AND AUTONOMOUS DOCKING STATION ",
-    "title": "FLOOR SCRUBBER AND AUTONOMOUS DOCKING STATION ",
-    "type": "Combined Synopsis/Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/c55c5f9d39aa432f8990b60267949724/view"
-   }
-  },
-  {
    "key": "cb9bdc8fcee14c6b9e43a9658fe5b5fe",
    "source": "pipeline-sam-autonomy",
    "fields": {
@@ -725,21 +724,6 @@
     "title": "Sources Sought - Design-Build to Budget (DB2B) Construction of Tactical Unmanned Aerial Vehicle Hangar",
     "type": "Sources Sought",
     "url": "https://sam.gov/workspace/contract/opp/21bee4f25244474e9769d6c4f37d2f95/view"
-   }
-  },
-  {
-   "key": "0530ce59a5084be0b0f720a7ef4daaff",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSUP.NAVSUP GLOBAL LOGISTICS SUPPORT.NAVSUP FLC NORFOLK.NAVSUP FLT LOG CTR NORFOLK",
-    "closes": "2026-06-15T10:00:00-04:00",
-    "number": "N0018926RL021",
-    "posted": "2026-06-08",
-    "setaside": "Total Small Business Set-Aside (FAR 19.5)",
-    "text": "OCEAN FLOOR MAPPING WITH LONG-ENDURANCE UNMANNED SYSTEMS",
-    "title": "OCEAN FLOOR MAPPING WITH LONG-ENDURANCE UNMANNED SYSTEMS",
-    "type": "Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/0530ce59a5084be0b0f720a7ef4daaff/view"
    }
   },
   {

@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-06-15T21:37:51Z",
+ "fetched_at": "2026-06-16T11:39:15Z",
  "schema_version": 1,
  "records": [
   {
@@ -521,6 +521,18 @@
    }
   },
   {
+   "key": "CONT_AWD_HR001122C0027_9700_-NONE-_-NONE-",
+   "source": "transition-prototype",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "2.65088702e+07",
+    "description": "SBIR PHASE III - BLACKJACK PROTOTYPE GROUND OPERATIONS CENTER",
+    "text": "PARSONS GOVERNMENT SERVICES INC.",
+    "title": "PARSONS GOVERNMENT SERVICES INC.",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_HR001122C0027_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_MU62_9700_N0017804D4149_9700",
    "source": "transition-prototype",
    "fields": {
@@ -593,18 +605,6 @@
    }
   },
   {
-   "key": "CONT_AWD_W56HZV24C0029_9700_-NONE-_-NONE-",
-   "source": "transition-prototype",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "2.258335352e+07",
-    "description": "ARV-30 PROTOTYPE VEHICLE PROCUREMENT.",
-    "text": "TEXTRON SYSTEMS CORPORATION",
-    "title": "TEXTRON SYSTEMS CORPORATION",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W56HZV24C0029_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
    "key": "CONT_AWD_HT940216C0001_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -622,7 +622,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "34664168826",
+    "amount": "34664220619",
     "award_id": "N0002417C2100",
     "description": "SSN 802 AND 803 LONG LEAD TIME MATERIAL",
     "text": "ELECTRIC BOAT CORPORATION",
@@ -661,7 +661,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "26761586543",
+    "amount": "29979710803",
     "award_id": "N0002417C2117",
     "description": "COLUMBIA CLASS DESIGN COMPLETION",
     "text": "ELECTRIC BOAT CORPORATION",
@@ -908,7 +908,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "9.08060892683e+09",
+    "amount": "9.08051698262e+09",
     "award_id": "HQ014717C0032",
     "description": "HQ0147-17-C-0032 UNDEFINITIZED CONTRACT ACTION (UCA) FOR THAAD INTERCEPTOR LOT 9 PRODUCTION - QTY OF 23",
     "text": "LOCKHEED MARTIN CORPORATION",
