@@ -1,7 +1,7 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-06-16T21:36:40Z",
+ "fetched_at": "2026-06-17T11:20:30Z",
  "schema_version": 1,
  "records": [
   {
@@ -44,7 +44,7 @@
    "key": "cisagov/gatherer",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-05-20T19:06:54Z",
+    "date": "2026-06-16T21:42:15Z",
     "description": "Gather domains as a precursor to scanning",
     "stars": "21",
     "text": "cisagov/gatherer",
@@ -560,7 +560,7 @@
    "key": "idaholab/moose",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-06-16T20:17:02Z",
+    "date": "2026-06-17T09:42:54Z",
     "description": "Multiphysics Object Oriented Simulation Environment",
     "stars": "2269",
     "text": "idaholab/moose",
@@ -620,7 +620,7 @@
    "key": "idaholab/EMRALD",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-06-16T13:21:42Z",
+    "date": "2026-06-16T22:46:05Z",
     "description": "Event Modeling Risk Assessment using Linked Diagrams (EMRALD) is a software tool developed at INL for researching the capabilities of dynamic PRA (Probabilistic Risk Assessment). In order to promote the effective use of dynamic PRA by the general community, EMRALD focuses on the following key aspects: Simplifying the modeling process by providing a structure that corresponds to traditional PRA modeling methods Providing a user interface (UI) that makes it easy for the user to model and visualize complex interactions Allowing the user to couple with other analysis applications such as physics based simulations. This includes one-way communication for most applications and two-way loose coupling for customizable applications Providing the sequence and timing of events that lead to the specified outcomes when calculating results Traditional aspects of components with basic events, fault trees, and event trees are all captured in a dynamic framework of state diagrams, which are displayed ",
     "stars": "29",
     "text": "idaholab/EMRALD",
@@ -835,7 +835,7 @@
    "key": "llnl/conduit",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-06-16T18:25:47Z",
+    "date": "2026-06-17T00:22:13Z",
     "description": "Simplified Data Exchange for HPC Simulations",
     "stars": "243",
     "text": "llnl/conduit",
@@ -906,7 +906,7 @@
    "key": "llnl/GridDyn",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-06-15T14:07:07Z",
+    "date": "2026-06-17T00:52:23Z",
     "description": "GridDyn is an open-source power transmission simulation software package",
     "stars": "58",
     "text": "llnl/GridDyn",
@@ -932,7 +932,7 @@
    "fields": {
     "date": "2026-06-08T14:09:39Z",
     "description": "Cyber Threat Intelligence Repository expressed in STIX 2.0",
-    "stars": "2085",
+    "stars": "2084",
     "text": "mitre/cti",
     "title": "mitre/cti",
     "url": "https://github.com/mitre/cti"
@@ -978,7 +978,7 @@
    "key": "mitre/vulcan",
    "source": "oss-mitre",
    "fields": {
-    "date": "2026-06-16T20:33:08Z",
+    "date": "2026-06-16T21:50:19Z",
     "description": "A web application to streamline the development of STIGs from SRGs",
     "stars": "86",
     "text": "mitre/vulcan",
@@ -1074,9 +1074,9 @@
    "key": "nasa/openmct",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-06-16T21:06:36Z",
+    "date": "2026-06-17T00:09:32Z",
     "description": "A web based mission control framework. ",
-    "stars": "13004",
+    "stars": "13007",
     "text": "nasa/openmct",
     "title": "nasa/openmct",
     "url": "https://github.com/nasa/openmct"
@@ -1301,7 +1301,7 @@
    "key": "ORNL/HeCBench",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-06-16T15:28:39Z",
+    "date": "2026-06-17T02:44:08Z",
     "stars": "296",
     "text": "ORNL/HeCBench",
     "title": "ORNL/HeCBench",
@@ -1396,7 +1396,7 @@
    "key": "ORNL/GridKit",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-06-16T20:00:38Z",
+    "date": "2026-06-17T10:12:49Z",
     "description": "Modeling framework for power systems simulations and analysis.",
     "stars": "18",
     "text": "ORNL/GridKit",
@@ -1468,7 +1468,7 @@
    "key": "sandialabs/snl-quest",
    "source": "oss-sandialabs",
    "fields": {
-    "date": "2026-06-16T01:13:11Z",
+    "date": "2026-06-17T06:14:19Z",
     "description": "An open source, Python-based software platform for energy storage simulation and analysis developed by Sandia National Laboratories.",
     "stars": "156",
     "text": "sandialabs/snl-quest",

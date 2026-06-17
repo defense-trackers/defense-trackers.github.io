@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-06-16T21:35:33Z",
+ "fetched_at": "2026-06-17T11:19:22Z",
  "schema_version": 1,
  "records": [
   {
@@ -425,18 +425,6 @@
    }
   },
   {
-   "key": "CONT_AWD_HR001124C0353_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "3409688",
-    "description": "ARTIFICIAL INTELLIGENCE REINFORCEMENTS (AIR)",
-    "text": "BAE SYSTEMS INFORMATION \u0026 ELECTRONIC SYSTEMS INTEGRATION INC",
-    "title": "BAE SYSTEMS INFORMATION \u0026 ELECTRONIC SYSTEMS INTEGRATION INC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_HR001124C0353_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
    "key": "CONT_AWD_FA864923P1066_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
@@ -602,6 +590,18 @@
     "text": "R-DEX SYSTEMS, INC.",
     "title": "R-DEX SYSTEMS, INC.",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W5170125CA290_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_HQ086026CE012_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1958007",
+    "description": "ACTIVE PHYSICS-INFORMED GENERATIVE ARTIFICIAL INTELLIGENCE HYPERSONIC",
+    "text": "CORNERSTONE RESEARCH GROUP INC",
+    "title": "CORNERSTONE RESEARCH GROUP INC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_HQ086026CE012_9700_-NONE-_-NONE-/"
    }
   },
   {
