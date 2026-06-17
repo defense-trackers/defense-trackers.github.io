@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-06-17T11:20:45Z",
+ "fetched_at": "2026-06-17T20:57:23Z",
  "schema_version": 1,
  "records": [
   {
@@ -542,6 +542,21 @@
    }
   },
   {
+   "key": "ef2af4530adc4132a96c2b1c6faff80f",
+   "source": "pipeline-sam-ai",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEFENSE INTELLIGENCE AGENCY (DIA).VIRGINIA CONTRACTING ACTIVITY",
+    "closes": "2026-07-02T12:00:00-04:00",
+    "number": "CFOAC2-OTA-RFI-FY26-01",
+    "posted": "2026-06-17",
+    "setaside": "No Set aside used",
+    "text": "(U) Request for Information: Next-Generation Procurement Artificial Intelligence (AI) Powered Acquisition Platform",
+    "title": "(U) Request for Information: Next-Generation Procurement Artificial Intelligence (AI) Powered Acquisition Platform",
+    "type": "Sources Sought",
+    "url": "https://sam.gov/workspace/contract/opp/ef2af4530adc4132a96c2b1c6faff80f/view"
+   }
+  },
+  {
    "key": "3a9b6ba7ed424dbc96bd43a02e5c6a7a",
    "source": "pipeline-sam-ai",
    "fields": {
@@ -713,18 +728,18 @@
    }
   },
   {
-   "key": "6feb6dcacd7543b2aa871f221e2c1550",
+   "key": "1048c32ff3d8446a9eb44c2cc6d58469",
    "source": "pipeline-sam-unmanned",
    "fields": {
     "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION GREAT LAKES AND OHIO.ENDIST LOUISVILLE.W072 ENDIST LOUISVILLE",
     "closes": "2026-06-29T13:00:00-04:00",
     "number": "W912QR26BA017",
-    "posted": "2026-06-15",
+    "posted": "2026-06-17",
     "setaside": "Total Small Business Set-Aside (FAR 19.5)",
     "text": "Unmanned Fusion Warfare Laboratory at NSWC Crane IN",
     "title": "Unmanned Fusion Warfare Laboratory at NSWC Crane IN",
     "type": "Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/6feb6dcacd7543b2aa871f221e2c1550/view"
+    "url": "https://sam.gov/workspace/contract/opp/1048c32ff3d8446a9eb44c2cc6d58469/view"
    }
   },
   {

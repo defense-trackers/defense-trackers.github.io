@@ -1,14 +1,14 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-06-17T11:20:30Z",
+ "fetched_at": "2026-06-17T20:57:08Z",
  "schema_version": 1,
  "records": [
   {
    "key": "cisagov/pshtt",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-05-12T18:54:13Z",
+    "date": "2026-06-17T18:26:33Z",
     "description": "Scan domains and return data based on HTTPS best practices",
     "stars": "693",
     "text": "cisagov/pshtt",
@@ -44,7 +44,7 @@
    "key": "cisagov/gatherer",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-06-16T21:42:15Z",
+    "date": "2026-06-17T12:59:33Z",
     "description": "Gather domains as a precursor to scanning",
     "stars": "21",
     "text": "cisagov/gatherer",
@@ -128,7 +128,7 @@
    "key": "cisagov/ncats-webui",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-06-15T15:06:30Z",
+    "date": "2026-06-17T13:31:26Z",
     "description": "A web application for displaying CyHy Vulnerability Scanning data",
     "stars": "5",
     "text": "cisagov/ncats-webui",
@@ -272,7 +272,7 @@
    "key": "cisagov/cset",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-06-16T20:11:35Z",
+    "date": "2026-06-17T11:45:26Z",
     "description": "Cybersecurity Evaluation Tool",
     "stars": "1839",
     "text": "cisagov/cset",
@@ -560,9 +560,9 @@
    "key": "idaholab/moose",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-06-17T09:42:54Z",
+    "date": "2026-06-17T20:12:05Z",
     "description": "Multiphysics Object Oriented Simulation Environment",
-    "stars": "2269",
+    "stars": "2270",
     "text": "idaholab/moose",
     "title": "idaholab/moose",
     "url": "https://github.com/idaholab/moose"
@@ -656,7 +656,7 @@
    "key": "idaholab/isopod",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-06-16T10:36:04Z",
+    "date": "2026-06-17T18:11:54Z",
     "description": "isopod, a MOOSE based app for multiphysics PDE constrained optimization",
     "stars": "9",
     "text": "idaholab/isopod",
@@ -680,7 +680,7 @@
    "key": "idaholab/malamute",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-06-16T11:01:06Z",
+    "date": "2026-06-17T18:35:37Z",
     "description": "Advanced manufacturing modeling and simulation",
     "stars": "20",
     "text": "idaholab/malamute",
@@ -704,7 +704,7 @@
    "key": "idaholab/air",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-06-16T11:40:07Z",
+    "date": "2026-06-17T19:20:11Z",
     "stars": "0",
     "text": "idaholab/air",
     "title": "idaholab/air",
@@ -837,7 +837,7 @@
    "fields": {
     "date": "2026-06-17T00:22:13Z",
     "description": "Simplified Data Exchange for HPC Simulations",
-    "stars": "243",
+    "stars": "244",
     "text": "llnl/conduit",
     "title": "llnl/conduit",
     "url": "https://github.com/llnl/conduit"
@@ -906,7 +906,7 @@
    "key": "llnl/GridDyn",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-06-17T00:52:23Z",
+    "date": "2026-06-17T16:00:59Z",
     "description": "GridDyn is an open-source power transmission simulation software package",
     "stars": "58",
     "text": "llnl/GridDyn",
@@ -932,7 +932,7 @@
    "fields": {
     "date": "2026-06-08T14:09:39Z",
     "description": "Cyber Threat Intelligence Repository expressed in STIX 2.0",
-    "stars": "2084",
+    "stars": "2085",
     "text": "mitre/cti",
     "title": "mitre/cti",
     "url": "https://github.com/mitre/cti"
@@ -1064,7 +1064,7 @@
    "fields": {
     "date": "2026-06-16T17:18:09Z",
     "description": "Trick Simulation Environment.  Trick provides a common set of simulation capabilities and utilities to build simulations automatically.",
-    "stars": "149",
+    "stars": "150",
     "text": "nasa/trick",
     "title": "nasa/trick",
     "url": "https://github.com/nasa/trick"
@@ -1074,9 +1074,9 @@
    "key": "nasa/openmct",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-06-17T00:09:32Z",
+    "date": "2026-06-17T17:17:45Z",
     "description": "A web based mission control framework. ",
-    "stars": "13007",
+    "stars": "13008",
     "text": "nasa/openmct",
     "title": "nasa/openmct",
     "url": "https://github.com/nasa/openmct"
@@ -1241,7 +1241,7 @@
    "key": "nsacyber/HIRS",
    "source": "oss-nsacyber",
    "fields": {
-    "date": "2026-06-16T18:50:47Z",
+    "date": "2026-06-17T20:29:14Z",
     "description": "Trusted Computing based services supporting TPM provisioning and supply chain validation concepts. #nsacyber",
     "stars": "212",
     "text": "nsacyber/HIRS",
@@ -1253,7 +1253,7 @@
    "key": "nsacyber/paccor",
    "source": "oss-nsacyber",
    "fields": {
-    "date": "2026-06-12T13:42:44Z",
+    "date": "2026-06-17T19:49:46Z",
     "description": "The Platform Attribute Certificate Creator can gather component details, create, sign, and validate the TCG-defined Platform Credential. #nsacyber",
     "stars": "76",
     "text": "nsacyber/paccor",
@@ -1301,7 +1301,7 @@
    "key": "ORNL/HeCBench",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-06-17T02:44:08Z",
+    "date": "2026-06-17T14:45:43Z",
     "stars": "296",
     "text": "ORNL/HeCBench",
     "title": "ORNL/HeCBench",
@@ -1312,7 +1312,7 @@
    "key": "ORNL/HydraGNN",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-05-27T17:07:58Z",
+    "date": "2026-06-17T16:14:19Z",
     "description": "Distributed PyTorch implementation of multi-headed graph convolutional neural networks",
     "stars": "123",
     "text": "ORNL/HydraGNN",
@@ -1468,7 +1468,7 @@
    "key": "sandialabs/snl-quest",
    "source": "oss-sandialabs",
    "fields": {
-    "date": "2026-06-17T06:14:19Z",
+    "date": "2026-06-17T13:38:23Z",
     "description": "An open source, Python-based software platform for energy storage simulation and analysis developed by Sandia National Laboratories.",
     "stars": "156",
     "text": "sandialabs/snl-quest",
@@ -1516,7 +1516,7 @@
    "key": "usnistgov/fipy",
    "source": "oss-usnistgov",
    "fields": {
-    "date": "2026-06-16T20:32:20Z",
+    "date": "2026-06-17T20:54:55Z",
     "description": "FiPy is a Finite Volume PDE solver written in Python",
     "stars": "629",
     "text": "usnistgov/fipy",
