@@ -1,7 +1,7 @@
 {
  "source": "research-funding",
  "tracker": "research-funding",
- "fetched_at": "2026-06-17T20:57:33Z",
+ "fetched_at": "2026-06-18T10:51:34Z",
  "schema_version": 1,
  "records": [
   {
@@ -33,20 +33,6 @@
    }
   },
   {
-   "key": "2526620",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "410000",
-    "awardee": "Columbia University",
-    "date": "10/01/2026",
-    "program": "Secure \u0026Trustworthy Cyberspace",
-    "text": "Collaborative Research: SaTC 2.0: RES: AIGIS: Securing the Deep Learning Model Supply Chain",
-    "title": "Collaborative Research: SaTC 2.0: RES: AIGIS: Securing the Deep Learning Model Supply Chain",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2526620"
-   }
-  },
-  {
    "key": "2606034",
    "source": "research-nsf",
    "fields": {
@@ -58,6 +44,20 @@
     "text": "Generalization Capabilities of Machine Learning for Solving Multiple Partial Differential Equations",
     "title": "Generalization Capabilities of Machine Learning for Solving Multiple Partial Differential Equations",
     "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2606034"
+   }
+  },
+  {
+   "key": "2526620",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "410000",
+    "awardee": "Columbia University",
+    "date": "10/01/2026",
+    "program": "Secure \u0026Trustworthy Cyberspace",
+    "text": "Collaborative Research: SaTC 2.0: RES: AIGIS: Securing the Deep Learning Model Supply Chain",
+    "title": "Collaborative Research: SaTC 2.0: RES: AIGIS: Securing the Deep Learning Model Supply Chain",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2526620"
    }
   },
   {

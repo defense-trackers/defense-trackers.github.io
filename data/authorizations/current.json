@@ -1,9 +1,29 @@
 {
  "source": "authorizations",
  "tracker": "authorizations",
- "fetched_at": "2026-06-17T20:56:04Z",
+ "fetched_at": "2026-06-18T10:50:01Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "FR2428740308",
+   "source": "authorizations-fedramp",
+   "fields": {
+    "date": "2026-06-17T20:00:00.000Z",
+    "status": "Now in PMO Review",
+    "text": "GreyMatter for Government",
+    "title": "GreyMatter for Government"
+   }
+  },
+  {
+   "key": "FR2526240411",
+   "source": "authorizations-fedramp",
+   "fields": {
+    "date": "2026-06-17T20:00:00.000Z",
+    "status": "Now Authorized",
+    "text": "Koniag Government Services Electronic Health Record System (KGS EHRS)",
+    "title": "Koniag Government Services Electronic Health Record System (KGS EHRS)"
+   }
+  },
   {
    "key": "FR2528336463",
    "source": "authorizations-fedramp",
@@ -12,26 +32,6 @@
     "status": "Now in PMO Review",
     "text": "DSS Health Cloud (DSSHC)",
     "title": "DSS Health Cloud (DSSHC)"
-   }
-  },
-  {
-   "key": "FR2304757473A",
-   "source": "authorizations-fedramp",
-   "fields": {
-    "date": "2026-06-12T20:00:00.000Z",
-    "status": "Now in PMO Review",
-    "text": "Cisco Security Cloud for Government",
-    "title": "Cisco Security Cloud for Government"
-   }
-  },
-  {
-   "key": "FR2514624801",
-   "source": "authorizations-fedramp",
-   "fields": {
-    "date": "2026-06-12T20:00:00.000Z",
-    "status": "Now Authorized",
-    "text": "Checkmarx One for Government (CXG)",
-    "title": "Checkmarx One for Government (CXG)"
    }
   },
   {
@@ -1600,6 +1600,20 @@
     "text": "Pepelwerk Government",
     "title": "Pepelwerk Government",
     "url": "www.pepelwerk.com"
+   }
+  },
+  {
+   "key": "FR2604643715",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Federal Risk and Authorization Management Program",
+    "date": "2026-02-01T20:00:00.000Z",
+    "impact": "20x Low",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Perplexity Enterprise and API Platform",
+    "title": "Perplexity Enterprise and API Platform",
+    "url": "https://www.perplexity.ai/enterprise"
    }
   },
   {

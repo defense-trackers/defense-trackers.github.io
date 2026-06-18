@@ -1,31 +1,31 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-06-17T20:57:42Z",
+ "fetched_at": "2026-06-18T10:51:44Z",
  "schema_version": 1,
  "records": [
-  {
-   "key": "engindearing-projects/OmniTAK-Android",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-06-17T20:43:33Z",
-    "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
-    "stars": "11",
-    "text": "engindearing-projects/OmniTAK-Android",
-    "title": "engindearing-projects/OmniTAK-Android",
-    "url": "https://github.com/engindearing-projects/OmniTAK-Android"
-   }
-  },
   {
    "key": "engindearing-projects/OmniTAK-iOS",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-06-16T21:48:50Z",
+    "date": "2026-06-18T00:34:20Z",
     "description": "Open-source TAK (Team Awareness Kit) client for iPhone and iPad. Swift + SwiftUI. Apache 2.0.",
     "stars": "5",
     "text": "engindearing-projects/OmniTAK-iOS",
     "title": "engindearing-projects/OmniTAK-iOS",
     "url": "https://github.com/engindearing-projects/OmniTAK-iOS"
+   }
+  },
+  {
+   "key": "engindearing-projects/OmniTAK-Android",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-06-18T00:48:34Z",
+    "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
+    "stars": "12",
+    "text": "engindearing-projects/OmniTAK-Android",
+    "title": "engindearing-projects/OmniTAK-Android",
+    "url": "https://github.com/engindearing-projects/OmniTAK-Android"
    }
   },
   {
@@ -675,7 +675,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-06-17T16:35:56Z",
+    "date": "2026-06-18T01:41:44Z",
     "description": "full port of Reticulum and LXMF to Rust with added SDK",
     "stars": "18",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -733,9 +733,9 @@
    "key": "atakmaps/TAK-MESHCORE",
    "source": "tak-github",
    "fields": {
-    "date": "2026-06-17T04:42:41Z",
+    "date": "2026-06-18T04:39:57Z",
     "description": "ATAK MeshCore plugin",
-    "stars": "15",
+    "stars": "16",
     "text": "atakmaps/TAK-MESHCORE",
     "title": "atakmaps/TAK-MESHCORE",
     "url": "https://github.com/atakmaps/TAK-MESHCORE"
@@ -747,7 +747,7 @@
    "fields": {
     "date": "2026-06-17T00:41:07Z",
     "description": "ATAK Plugin that pulls position data from APRSdroid into ATAK",
-    "stars": "0",
+    "stars": "1",
     "text": "kd2var/aprsdroid-atak-plugin",
     "title": "kd2var/aprsdroid-atak-plugin",
     "url": "https://github.com/kd2var/aprsdroid-atak-plugin"
@@ -842,7 +842,7 @@
    "fields": {
     "date": "2026-06-08T00:20:56Z",
     "description": "One Plugin to do all the COT things I want to do in ATAK",
-    "stars": "17",
+    "stars": "18",
     "text": "engindearing-projects/omni-COT",
     "title": "engindearing-projects/omni-COT",
     "url": "https://github.com/engindearing-projects/omni-COT"
@@ -865,7 +865,7 @@
    "fields": {
     "date": "2026-06-04T21:30:53Z",
     "description": "ATAK Plugin for sending CoT to IMeshService",
-    "stars": "495",
+    "stars": "496",
     "text": "meshtastic/ATAK-Plugin",
     "title": "meshtastic/ATAK-Plugin",
     "url": "https://github.com/meshtastic/ATAK-Plugin"

@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-06-17T20:56:01Z",
+ "fetched_at": "2026-06-18T10:49:58Z",
  "schema_version": 1,
  "records": [
   {
@@ -257,6 +257,18 @@
    }
   },
   {
+   "key": "CONT_AWD_HQ086026FE001_9700_HQ086024D0001_9700",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "7.20488389e+06",
+    "description": "DIGITAL ENGINEERING DRIVING ARTIFICIAL INTELLIGENCE-ENHANCED MODELING AND SIMULATION (DEDAIM)",
+    "text": "MODERN TECHNOLOGY SOLUTIONS, INC.",
+    "title": "MODERN TECHNOLOGY SOLUTIONS, INC.",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_HQ086026FE001_9700_HQ086024D0001_9700/"
+   }
+  },
+  {
    "key": "CONT_AWD_W56KGU24C0026_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
@@ -434,18 +446,6 @@
     "text": "REDACTABLE INC.",
     "title": "REDACTABLE INC.",
     "url": "https://www.usaspending.gov/award/CONT_AWD_FA864923P1066_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_HQ086026FE001_9700_HQ086024D0001_9700",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "2969971",
-    "description": "DIGITAL ENGINEERING DRIVING ARTIFICIAL INTELLIGENCE-ENHANCED MODELING AND SIMULATION (DEDAIM)",
-    "text": "MODERN TECHNOLOGY SOLUTIONS, INC.",
-    "title": "MODERN TECHNOLOGY SOLUTIONS, INC.",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_HQ086026FE001_9700_HQ086024D0001_9700/"
    }
   },
   {

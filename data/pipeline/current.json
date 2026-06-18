@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-06-17T20:57:23Z",
+ "fetched_at": "2026-06-18T10:51:24Z",
  "schema_version": 1,
  "records": [
   {
@@ -131,16 +131,16 @@
    }
   },
   {
-   "key": "350338",
+   "key": "362859",
    "source": "pipeline-cyber",
    "fields": {
-    "agency": "National Institute of Standards and Technology",
-    "closes": "11/01/2026",
-    "number": "2023-NIST-CHIPS-SMME-01",
-    "posted": "09/29/2023",
-    "text": "CHIPS Incentives Program – Facilities for Semiconductor Materials and Manufacturing Equipment",
-    "title": "CHIPS Incentives Program – Facilities for Semiconductor Materials and Manufacturing Equipment",
-    "url": "https://www.grants.gov/search-results-detail/350338"
+    "agency": "DARPA - Defense Sciences Office",
+    "closes": "08/26/2026",
+    "number": "HR001126S0013",
+    "posted": "06/17/2026",
+    "text": "Multi Modal Materials Analysis (MMoMA)",
+    "title": "Multi Modal Materials Analysis (MMoMA)",
+    "url": "https://www.grants.gov/search-results-detail/362859"
    }
   },
   {
@@ -710,6 +710,20 @@
     "title": "Virtual-Integrated Twin for Autonomous Lifesaving (VITAL)",
     "type": "Solicitation",
     "url": "https://sam.gov/workspace/contract/opp/3e66d960c0a14d51b236bbcf712d34cf/view"
+   }
+  },
+  {
+   "key": "cb5d64eee89d40f48a3fab599f16d290",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-APG.W6QK ACC-APG DURHAM",
+    "closes": "2026-07-31T11:59:00-05:00",
+    "number": "Unmanned_Ground_Recovery_AAL",
+    "posted": "2026-06-17",
+    "text": "RFI: Unmanned Ground Recovery",
+    "title": "RFI: Unmanned Ground Recovery",
+    "type": "Sources Sought",
+    "url": "https://sam.gov/workspace/contract/opp/cb5d64eee89d40f48a3fab599f16d290/view"
    }
   },
   {
