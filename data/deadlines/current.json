@@ -1,7 +1,7 @@
 {
  "source": "deadlines",
  "tracker": "deadlines",
- "fetched_at": "2026-06-18T10:51:46Z",
+ "fetched_at": "2026-06-18T21:13:32Z",
  "schema_version": 1,
  "records": [
   {
@@ -112,7 +112,7 @@
    "key": "close-343725",
    "source": "deadlines-solicitations",
    "fields": {
-    "agency": "Dept. of the Army -- USAMRAA",
+    "agency": "Defense Health Agency Contracting Activity - DHACA",
     "closes": "2027-09-30",
     "date": "2027-09-30",
     "from": "pipeline",
@@ -304,23 +304,10 @@
    }
   },
   {
-   "key": "close-362517",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "Dept. of the Army -- USAMRAA",
-    "closes": "2026-08-17",
-    "date": "2026-08-17",
-    "from": "pipeline",
-    "text": "DoW Epilepsy Idea Development Award",
-    "title": "DoW Epilepsy Idea Development Award",
-    "url": "https://www.grants.gov/search-results-detail/362517"
-   }
-  },
-  {
    "key": "close-362519",
    "source": "deadlines-solicitations",
    "fields": {
-    "agency": "Dept. of the Army -- USAMRAA",
+    "agency": "Defense Health Agency Contracting Activity - DHACA",
     "closes": "2026-08-17",
     "date": "2026-08-17",
     "from": "pipeline",
@@ -330,10 +317,23 @@
    }
   },
   {
+   "key": "close-362517",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "Defense Health Agency Contracting Activity - DHACA",
+    "closes": "2026-08-17",
+    "date": "2026-08-17",
+    "from": "pipeline",
+    "text": "DoW Epilepsy Idea Development Award",
+    "title": "DoW Epilepsy Idea Development Award",
+    "url": "https://www.grants.gov/search-results-detail/362517"
+   }
+  },
+  {
    "key": "close-362523",
    "source": "deadlines-solicitations",
    "fields": {
-    "agency": "Dept. of the Army -- USAMRAA",
+    "agency": "Defense Health Agency Contracting Activity - DHACA",
     "closes": "2026-08-17",
     "date": "2026-08-17",
     "from": "pipeline",
@@ -346,7 +346,7 @@
    "key": "close-362521",
    "source": "deadlines-solicitations",
    "fields": {
-    "agency": "Dept. of the Army -- USAMRAA",
+    "agency": "Defense Health Agency Contracting Activity - DHACA",
     "closes": "2026-08-17",
     "date": "2026-08-17",
     "from": "pipeline",
@@ -372,7 +372,7 @@
    "key": "close-362242",
    "source": "deadlines-solicitations",
    "fields": {
-    "agency": "Dept. of the Army -- USAMRAA",
+    "agency": "Defense Health Agency Contracting Activity - DHACA",
     "closes": "2026-10-14",
     "date": "2026-10-14",
     "from": "pipeline",
@@ -392,19 +392,6 @@
     "text": "Staff Research Program",
     "title": "Staff Research Program",
     "url": "https://www.grants.gov/search-results-detail/359236"
-   }
-  },
-  {
-   "key": "close-349586",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "Dept. of the Army -- USAMRAA",
-    "closes": "2028-07-31",
-    "date": "2028-07-31",
-    "from": "pipeline",
-    "text": "BROAD AGENCY ANNOUNCEMENT (BAA) for Extramural Biomedical and Human Performance Research and Development Department of Defense",
-    "title": "BROAD AGENCY ANNOUNCEMENT (BAA) for Extramural Biomedical and Human Performance Research and Development Department of Defense",
-    "url": "https://www.grants.gov/search-results-detail/349586"
    }
   },
   {
@@ -437,7 +424,7 @@
    "key": "close-343653",
    "source": "deadlines-solicitations",
    "fields": {
-    "agency": "Dept. of the Army -- USAMRAA",
+    "agency": "Defense Health Agency Contracting Activity - DHACA",
     "closes": "2027-09-18",
     "date": "2027-09-18",
     "from": "pipeline",
@@ -564,6 +551,19 @@
    }
   },
   {
+   "key": "close-441edd53d7314a34951b7e7c77575513",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NAVAL SURFACE WARFARE CENTER",
+    "closes": "2026-08-03",
+    "date": "2026-08-03",
+    "from": "pipeline",
+    "text": "Other Transaction Authority (OTA) Consortium Request for Proposals (RFP) Seabed-Subsea, Littoral, Asymmetric-Autonomous, Mining and Mine Hunting, Expeditionary, Robotic (SLAM2ER) Consortium",
+    "title": "Other Transaction Authority (OTA) Consortium Request for Proposals (RFP) Seabed-Subsea, Littoral, Asymmetric-Autonomous, Mining and Mine Hunting, Expeditionary, Robotic (SLAM2ER) Consortium",
+    "url": "https://sam.gov/workspace/contract/opp/441edd53d7314a34951b7e7c77575513/view"
+   }
+  },
+  {
    "key": "close-3c32c5031b6a4d3ea2788098fd44ec29",
    "source": "deadlines-solicitations",
    "fields": {
@@ -652,6 +652,32 @@
     "text": "Virtual-Integrated Twin for Autonomous Lifesaving (VITAL)",
     "title": "Virtual-Integrated Twin for Autonomous Lifesaving (VITAL)",
     "url": "https://sam.gov/workspace/contract/opp/3e66d960c0a14d51b236bbcf712d34cf/view"
+   }
+  },
+  {
+   "key": "close-e4476c627cbb4de3add4f68c50ca3ab8",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION NORTH ATLANTIC.ENDIST BALTIMORE.W2SD ENDIST BALTIMORE",
+    "closes": "2026-07-17",
+    "date": "2026-07-17",
+    "from": "pipeline",
+    "text": "Multidiscipline Indefinite Delivery Contracts for Topographic, Boundary, Hydrographic, Geospatial Database Development, and Unmanned Systems Surveying and Mapping for Projects under the Jurisdiction of the Baltimore District and North Atlantic Division",
+    "title": "Multidiscipline Indefinite Delivery Contracts for Topographic, Boundary, Hydrographic, Geospatial Database Development, and Unmanned Systems Surveying and Mapping for Projects under the Jurisdiction of the Baltimore District and North Atlantic Division",
+    "url": "https://sam.gov/workspace/contract/opp/e4476c627cbb4de3add4f68c50ca3ab8/view"
+   }
+  },
+  {
+   "key": "close-c90baa57c09640138a526eafa6fe07ed",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR EDUCATION AND TRAINING COMMAND.FA3300  42 CONS CC",
+    "closes": "2026-06-26",
+    "date": "2026-06-26",
+    "from": "pipeline",
+    "text": "FY26 Small Unmanned Aerial Systems (sUAS) Detection, Identification and Tracking Equipment",
+    "title": "FY26 Small Unmanned Aerial Systems (sUAS) Detection, Identification and Tracking Equipment",
+    "url": "https://sam.gov/workspace/contract/opp/c90baa57c09640138a526eafa6fe07ed/view"
    }
   },
   {

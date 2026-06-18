@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-06-18T10:51:24Z",
+ "fetched_at": "2026-06-18T21:13:12Z",
  "schema_version": 1,
  "records": [
   {
@@ -58,7 +58,7 @@
    "key": "343725",
    "source": "pipeline-autonomy",
    "fields": {
-    "agency": "Dept. of the Army -- USAMRAA",
+    "agency": "Defense Health Agency Contracting Activity - DHACA",
     "closes": "09/30/2027",
     "number": "HT942523SBAA1",
     "posted": "09/22/2022",
@@ -103,18 +103,6 @@
     "text": "Low-Cost Chip-Scale Atomic Clock (LC CSAC)",
     "title": "Low-Cost Chip-Scale Atomic Clock (LC CSAC)",
     "url": "https://www.grants.gov/search-results-detail/326841"
-   }
-  },
-  {
-   "key": "327763",
-   "source": "pipeline-comms",
-   "fields": {
-    "agency": "Dept. of the Army -- USAMRAA",
-    "number": "W81XWH-21-NFRP-OUTREACH",
-    "posted": "06/18/2020",
-    "text": "NFRP Outreach and Invitation for Response",
-    "title": "NFRP Outreach and Invitation for Response",
-    "url": "https://www.grants.gov/search-results-detail/327763"
    }
   },
   {
@@ -298,23 +286,10 @@
    }
   },
   {
-   "key": "362517",
-   "source": "pipeline-grants",
-   "fields": {
-    "agency": "Dept. of the Army -- USAMRAA",
-    "closes": "08/17/2026",
-    "number": "HT942526ERPIDA",
-    "posted": "05/21/2026",
-    "text": "DoW Epilepsy Idea Development Award",
-    "title": "DoW Epilepsy Idea Development Award",
-    "url": "https://www.grants.gov/search-results-detail/362517"
-   }
-  },
-  {
    "key": "362519",
    "source": "pipeline-grants",
    "fields": {
-    "agency": "Dept. of the Army -- USAMRAA",
+    "agency": "Defense Health Agency Contracting Activity - DHACA",
     "closes": "08/17/2026",
     "number": "HT942526ERPLRA",
     "posted": "05/21/2026",
@@ -324,10 +299,23 @@
    }
   },
   {
+   "key": "362517",
+   "source": "pipeline-grants",
+   "fields": {
+    "agency": "Defense Health Agency Contracting Activity - DHACA",
+    "closes": "08/17/2026",
+    "number": "HT942526ERPIDA",
+    "posted": "05/21/2026",
+    "text": "DoW Epilepsy Idea Development Award",
+    "title": "DoW Epilepsy Idea Development Award",
+    "url": "https://www.grants.gov/search-results-detail/362517"
+   }
+  },
+  {
    "key": "362523",
    "source": "pipeline-grants",
    "fields": {
-    "agency": "Dept. of the Army -- USAMRAA",
+    "agency": "Defense Health Agency Contracting Activity - DHACA",
     "closes": "08/17/2026",
     "number": "HT942526ERPVPTERCF",
     "posted": "05/21/2026",
@@ -340,7 +328,7 @@
    "key": "362521",
    "source": "pipeline-grants",
    "fields": {
-    "agency": "Dept. of the Army -- USAMRAA",
+    "agency": "Defense Health Agency Contracting Activity - DHACA",
     "closes": "08/17/2026",
     "number": "HT942526ERPRPA",
     "posted": "05/21/2026",
@@ -366,7 +354,7 @@
    "key": "362242",
    "source": "pipeline-grants",
    "fields": {
-    "agency": "Dept. of the Army -- USAMRAA",
+    "agency": "Defense Health Agency Contracting Activity - DHACA",
     "closes": "10/14/2026",
     "number": "HT942526MRPTSA",
     "posted": "05/21/2026",
@@ -386,19 +374,6 @@
     "text": "Staff Research Program",
     "title": "Staff Research Program",
     "url": "https://www.grants.gov/search-results-detail/359236"
-   }
-  },
-  {
-   "key": "349586",
-   "source": "pipeline-grants",
-   "fields": {
-    "agency": "Dept. of the Army -- USAMRAA",
-    "closes": "07/31/2028",
-    "number": "HT9425-23-S-SOC1",
-    "posted": "07/27/2023",
-    "text": "BROAD AGENCY ANNOUNCEMENT (BAA) for Extramural Biomedical and Human Performance Research and Development Department of Defense",
-    "title": "BROAD AGENCY ANNOUNCEMENT (BAA) for Extramural Biomedical and Human Performance Research and Development Department of Defense",
-    "url": "https://www.grants.gov/search-results-detail/349586"
    }
   },
   {
@@ -431,7 +406,7 @@
    "key": "343653",
    "source": "pipeline-logistics",
    "fields": {
-    "agency": "Dept. of the Army -- USAMRAA",
+    "agency": "Defense Health Agency Contracting Activity - DHACA",
     "closes": "09/18/2027",
     "number": "W81XWH-22-DHAPP",
     "posted": "09/19/2022",
@@ -613,6 +588,21 @@
    }
   },
   {
+   "key": "441edd53d7314a34951b7e7c77575513",
+   "source": "pipeline-sam-autonomy",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NAVAL SURFACE WARFARE CENTER",
+    "closes": "2026-08-03T14:00:00-05:00",
+    "number": "N61331-26-SN9-0001",
+    "posted": "2026-06-18",
+    "setaside": "No Set aside used",
+    "text": "Other Transaction Authority (OTA) Consortium Request for Proposals (RFP) Seabed-Subsea, Littoral, Asymmetric-Autonomous, Mining and Mine Hunting, Expeditionary, Robotic (SLAM2ER) Consortium",
+    "title": "Other Transaction Authority (OTA) Consortium Request for Proposals (RFP) Seabed-Subsea, Littoral, Asymmetric-Autonomous, Mining and Mine Hunting, Expeditionary, Robotic (SLAM2ER) Consortium",
+    "type": "Solicitation",
+    "url": "https://sam.gov/workspace/contract/opp/441edd53d7314a34951b7e7c77575513/view"
+   }
+  },
+  {
    "key": "3c32c5031b6a4d3ea2788098fd44ec29",
    "source": "pipeline-sam-autonomy",
    "fields": {
@@ -710,6 +700,34 @@
     "title": "Virtual-Integrated Twin for Autonomous Lifesaving (VITAL)",
     "type": "Solicitation",
     "url": "https://sam.gov/workspace/contract/opp/3e66d960c0a14d51b236bbcf712d34cf/view"
+   }
+  },
+  {
+   "key": "e4476c627cbb4de3add4f68c50ca3ab8",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION NORTH ATLANTIC.ENDIST BALTIMORE.W2SD ENDIST BALTIMORE",
+    "closes": "2026-07-17T11:00:00-05:00",
+    "number": "W912DR26R1AUM",
+    "posted": "2026-06-18",
+    "text": "Multidiscipline Indefinite Delivery Contracts for Topographic, Boundary, Hydrographic, Geospatial Database Development, and Unmanned Systems Surveying and Mapping for Projects under the Jurisdiction of the Baltimore District and North Atlantic Division",
+    "title": "Multidiscipline Indefinite Delivery Contracts for Topographic, Boundary, Hydrographic, Geospatial Database Development, and Unmanned Systems Surveying and Mapping for Projects under the Jurisdiction of the Baltimore District and North Atlantic Division",
+    "type": "Combined Synopsis/Solicitation",
+    "url": "https://sam.gov/workspace/contract/opp/e4476c627cbb4de3add4f68c50ca3ab8/view"
+   }
+  },
+  {
+   "key": "c90baa57c09640138a526eafa6fe07ed",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR EDUCATION AND TRAINING COMMAND.FA3300  42 CONS CC",
+    "closes": "2026-06-26T12:00:00-05:00",
+    "number": "F2X3B26120A001",
+    "posted": "2026-06-18",
+    "text": "FY26 Small Unmanned Aerial Systems (sUAS) Detection, Identification and Tracking Equipment",
+    "title": "FY26 Small Unmanned Aerial Systems (sUAS) Detection, Identification and Tracking Equipment",
+    "type": "Sources Sought",
+    "url": "https://sam.gov/workspace/contract/opp/c90baa57c09640138a526eafa6fe07ed/view"
    }
   },
   {
