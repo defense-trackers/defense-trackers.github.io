@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-06-18T21:13:32Z",
+ "fetched_at": "2026-06-19T11:00:48Z",
  "schema_version": 1,
  "records": [
   {
@@ -98,18 +98,6 @@
     "text": "BOOZ ALLEN HAMILTON INC",
     "title": "BOOZ ALLEN HAMILTON INC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W31P4Q21FB004_9700_GS00F008DA_4732/"
-   }
-  },
-  {
-   "key": "CONT_AWD_HQ072718F1641_9700_HQ072716D0006_9700",
-   "source": "transition-prototype",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "1.9779821734e+08",
-    "description": "ENGINEERING SERVICES, CET 18-896, FORWARD EXPEDITIONARY ADVANCED VEHICLE RADAR PROGRAM (FEAVR). THE PURPOSE OF THIS TASK IS TO BUILD PROTOTYPE EXPEDITIONARY KU BAND SYSTEMS FOR MINE RESISTANT AMBUSH PROTECTED (MRAP) ALL-TERRAIN VEHICLE (M-ATV) PLATFORMS.",
-    "text": "RAYTHEON COMPANY",
-    "title": "RAYTHEON COMPANY",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_HQ072718F1641_9700_HQ072716D0006_9700/"
    }
   },
   {
@@ -605,6 +593,18 @@
    }
   },
   {
+   "key": "CONT_AWD_W56HZV24C0029_9700_-NONE-_-NONE-",
+   "source": "transition-prototype",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "2.258335352e+07",
+    "description": "ARV-30 PROTOTYPE VEHICLE PROCUREMENT.",
+    "text": "TEXTRON SYSTEMS CORPORATION",
+    "title": "TEXTRON SYSTEMS CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W56HZV24C0029_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_HT940216C0001_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -674,7 +674,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "24499786640",
+    "amount": "24499972568",
     "award_id": "N0001923C0003",
     "description": "THE PURPOSE OF THIS CONTRACT IS TO AWARD LONG LEAD FUNDING FOR F-35A, F-35B, AND F-35C AIRCRAFT FOR U.S. SERVICES, NON-DOD PARTNERS, AND FMS CUSTOMERS",
     "text": "LOCKHEED MARTIN CORPORATION",
@@ -713,7 +713,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "19950336257",
+    "amount": "20179213257",
     "award_id": "N0002412C2115",
     "description": "SSN 792 LONG LEAD TIME MATERIAL",
     "text": "ELECTRIC BOAT CORPORATION",
@@ -1063,7 +1063,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "7.43589526063e+09",
+    "amount": "7.43593056063e+09",
     "award_id": "HT940223C0001",
     "description": "TRICARE MANAGED CARE SUPPORT SERVICES CONTRACT, 5TH GENERATION EAST REGION",
     "text": "HUMANA GOVERNMENT BUSINESS INC",

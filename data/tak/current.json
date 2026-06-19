@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-06-18T21:13:30Z",
+ "fetched_at": "2026-06-19T11:00:45Z",
  "schema_version": 1,
  "records": [
   {
    "key": "snstac/dronecot",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-06-18T19:25:58Z",
+    "date": "2026-06-19T07:27:47Z",
     "description": "DroneCOT is software for monitoring and analyzing Direct Remote Identification (DRI), Remote ID (RID) or Open Drone ID (ODID) broadcasts from Uncrewed Aircraft (UA) via the Team Awareness Kit (TAK) ecosystem of products.",
     "stars": "31",
     "text": "snstac/dronecot",
@@ -17,15 +17,39 @@
    }
   },
   {
+   "key": "Audrey-cn/universal-agent-embedding-kit",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-06-19T07:12:15Z",
+    "description": "Model-agnostic, embeddable agent kit — verification, adaptive context, effort routing, cache-aware cost model, cross-platform graded benchmarks. Evidence-first: every metric is red-teamed and tagged on an evidence-strength ladder with honest caveats.",
+    "stars": "0",
+    "text": "Audrey-cn/universal-agent-embedding-kit",
+    "title": "Audrey-cn/universal-agent-embedding-kit",
+    "url": "https://github.com/Audrey-cn/universal-agent-embedding-kit"
+   }
+  },
+  {
    "key": "snstac/pytak",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-06-18T19:23:17Z",
+    "date": "2026-06-19T06:25:00Z",
     "description": "PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.",
     "stars": "240",
     "text": "snstac/pytak",
     "title": "snstac/pytak",
     "url": "https://github.com/snstac/pytak"
+   }
+  },
+  {
+   "key": "engindearing-projects/OmniTAK-Android",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-06-19T08:27:18Z",
+    "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
+    "stars": "12",
+    "text": "engindearing-projects/OmniTAK-Android",
+    "title": "engindearing-projects/OmniTAK-Android",
+    "url": "https://github.com/engindearing-projects/OmniTAK-Android"
    }
   },
   {
@@ -41,22 +65,10 @@
    }
   },
   {
-   "key": "engindearing-projects/OmniTAK-Android",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-06-18T00:48:34Z",
-    "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
-    "stars": "12",
-    "text": "engindearing-projects/OmniTAK-Android",
-    "title": "engindearing-projects/OmniTAK-Android",
-    "url": "https://github.com/engindearing-projects/OmniTAK-Android"
-   }
-  },
-  {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-06-18T18:52:34Z",
+    "date": "2026-06-19T00:44:50Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "44",
     "text": "takwerx/infra-TAK",
@@ -675,7 +687,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-06-18T21:06:29Z",
+    "date": "2026-06-19T10:55:52Z",
     "description": "full port of Reticulum and LXMF to Rust with added SDK",
     "stars": "18",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -733,7 +745,7 @@
    "key": "247-Group/ATAK-sensor-effector-plugin",
    "source": "tak-github",
    "fields": {
-    "date": "2026-06-18T19:08:03Z",
+    "date": "2026-06-18T22:59:50Z",
     "description": "ATAK Sensor/Effector plugin for RACK project",
     "stars": "0",
     "text": "247-Group/ATAK-sensor-effector-plugin",

@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-06-18T21:11:50Z",
+ "fetched_at": "2026-06-19T10:59:02Z",
  "schema_version": 1,
  "records": [
   {
@@ -317,18 +317,6 @@
    }
   },
   {
-   "key": "CONT_AWD_HR001120C0055_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "4.91401709e+06",
-    "description": "SCIENCE OF ARTIFICIAL INTELLIGENCE AND LEARNING FOR OPEN-WORLD NOVELTY (SAIL-ON)",
-    "text": "KITWARE INC",
-    "title": "KITWARE INC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_HR001120C0055_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
    "key": "CONT_AWD_N0001420C1099_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
@@ -602,6 +590,18 @@
     "text": "CORNERSTONE RESEARCH GROUP INC",
     "title": "CORNERSTONE RESEARCH GROUP INC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_HQ086026CE012_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_FA865124FB014_9700_FA865121D0062_9700",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1932900",
+    "description": "ARTIFICIAL INTELLIGENCE, DEEP LEARNING, AND MACHINE LEARNING FOR MUNITIONS AUTONOMOUS TARGET ACQUISITION",
+    "text": "DYNETICS, INC.",
+    "title": "DYNETICS, INC.",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA865124FB014_9700_FA865121D0062_9700/"
    }
   },
   {
