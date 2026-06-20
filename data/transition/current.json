@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-06-19T20:23:10Z",
+ "fetched_at": "2026-06-20T09:46:29Z",
  "schema_version": 1,
  "records": [
   {
@@ -377,6 +377,18 @@
    }
   },
   {
+   "key": "CONT_AWD_FA880625CB001_9700_-NONE-_-NONE-",
+   "source": "transition-prototype",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "3.627407812e+07",
+    "description": "TO PROTOTYPE AND DELIVER PROCESSES FOR THE SPACE COMMAND AND CONTROL MISSION AREA WITHIN BATTLE MANAGEMENT COMMAND, CONTROL, AND COMMUNICATIONS EXECUTIVE PORTFOLIO.",
+    "text": "MODERN TECHNOLOGY SOLUTIONS, INC.",
+    "title": "MODERN TECHNOLOGY SOLUTIONS, INC.",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA880625CB001_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_FA205724CB001_9700_-NONE-_-NONE-",
    "source": "transition-prototype",
    "fields": {
@@ -386,18 +398,6 @@
     "text": "SIERRA NEVADA COMPANY, LLC",
     "title": "SIERRA NEVADA COMPANY, LLC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_FA205724CB001_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_FA880625CB001_9700_-NONE-_-NONE-",
-   "source": "transition-prototype",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "3.577407812e+07",
-    "description": "TO PROTOTYPE AND DELIVER PROCESSES FOR THE SPACE COMMAND AND CONTROL MISSION AREA WITHIN BATTLE MANAGEMENT COMMAND, CONTROL, AND COMMUNICATIONS EXECUTIVE PORTFOLIO.",
-    "text": "MODERN TECHNOLOGY SOLUTIONS, INC.",
-    "title": "MODERN TECHNOLOGY SOLUTIONS, INC.",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_FA880625CB001_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -573,7 +573,7 @@
    "source": "transition-prototype",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "2.302255358e+07",
+    "amount": "2.29386219e+07",
     "description": "PROVIDE ANALYSES, IN-SERVICE ENGINEERING, PROTOTYPE DEVELOPMENT, TEST AND EVALUATION, AND SYSTEM ENGINEERING SERVICES IN SUPPORT OF TOWED, HULL AND SENSOR SYSTEM PROGRAMS.",
     "text": "MCLAUGHLIN RESEARCH CORPORATION",
     "title": "MCLAUGHLIN RESEARCH CORPORATION",
@@ -1163,6 +1163,19 @@
    }
   },
   {
+   "key": "CONT_AWD_FA868224CB001_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "6.94896802322e+09",
+    "award_id": "FA868224CB001",
+    "description": "LONG RANGE ANTI-SHIP MISSILE/JOINT AIR-TO-SURFACE STANDOFF MISSILE LARGE LOT PROCUREMENT",
+    "text": "LOCKHEED MARTIN CORPORATION",
+    "title": "LOCKHEED MARTIN CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA868224CB001_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_N0002423C2307_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -1238,19 +1251,6 @@
     "text": "THE BOEING COMPANY",
     "title": "THE BOEING COMPANY",
     "url": "https://www.usaspending.gov/award/CONT_AWD_HQ014712C0004_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_W56HZV15C0095_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "6.10425919282e+09",
-    "award_id": "W56HZV15C0095",
-    "description": "THE CONTRACT INCLUDES FIRM FIXED PRICE (FFP) CONTACT LINE ITEM NUMBERS (CLIN) FOR VEHICLES, TRAILERS, KITS (PACKAGED AND INSTALLED), TEST HARDWARE AND SUPPORT, VEHICLE REFURBISHMENT, SYSTEMS ENGINEERING/ PROGRAM MANAGEMENT (SEPM), STORAGE AND MAINTENANCE OF VEHICLES, VEHICLE REFURBISHMENT, INTEGRATED PRODUCT SUPPORT (IPS), AND A TECHNICAL DATA PACKAGE (TDP).  THE CONTRACT ALSO INCLUDES COST PLUS FIXED FEE (CPFF) CLINS FOR SYSTEM TECHNICAL SUPPORT (STS), TOTAL PACKAGE FIELDING (TPF), AND INTERIM CONTRACTOR SUPPORT (ICS).  THE CONTRACT CONTAINS PROVISIONS FOR AN ECONOMIC PRICE ADJUSTMENT (EPA) FOR MATERIAL FLUCTUATIONS FOR THE VEHICLES PROCURED IN OPTION PERIODS SIX, SEVEN, AND EIGHT.",
-    "text": "OSHKOSH DEFENSE LLC",
-    "title": "OSHKOSH DEFENSE LLC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W56HZV15C0095_9700_-NONE-_-NONE-/"
    }
   }
  ]
