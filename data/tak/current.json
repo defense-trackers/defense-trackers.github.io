@@ -1,7 +1,7 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-06-21T10:08:46Z",
+ "fetched_at": "2026-06-21T20:18:18Z",
  "schema_version": 1,
  "records": [
   {
@@ -92,7 +92,7 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-06-21T02:00:30Z",
+    "date": "2026-06-21T20:11:09Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "44",
     "text": "takwerx/infra-TAK",
@@ -604,7 +604,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-06-20T21:31:12Z",
+    "date": "2026-06-21T18:50:52Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "83",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -865,7 +865,7 @@
    "fields": {
     "date": "2026-06-09T04:57:12Z",
     "description": "Drive ATAK (Android Team Awareness Kit) and its plugins over adb without blind taps: CLI + MCP server (uvx-installable).",
-    "stars": "1",
+    "stars": "2",
     "text": "newtypeind/atak-mcp",
     "title": "newtypeind/atak-mcp",
     "url": "https://github.com/newtypeind/atak-mcp"
@@ -900,7 +900,7 @@
    "fields": {
     "date": "2026-06-04T21:30:53Z",
     "description": "ATAK Plugin for sending CoT to IMeshService",
-    "stars": "496",
+    "stars": "495",
     "text": "meshtastic/ATAK-Plugin",
     "title": "meshtastic/ATAK-Plugin",
     "url": "https://github.com/meshtastic/ATAK-Plugin"
