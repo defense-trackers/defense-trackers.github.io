@@ -1,9 +1,21 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-06-20T20:08:43Z",
+ "fetched_at": "2026-06-21T10:08:46Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "SauceTaster/TAK-ATK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-06-20T23:51:04Z",
+    "description": "AI Generated: Defensive, detection-first research catalog of post-compromise TAK (Team Awareness Kit) misuse — civilian-scope, assume-breach, with conceptual detections.",
+    "stars": "0",
+    "text": "SauceTaster/TAK-ATK",
+    "title": "SauceTaster/TAK-ATK",
+    "url": "https://github.com/SauceTaster/TAK-ATK"
+   }
+  },
   {
    "key": "joshuafuller/SRTM2TAK",
    "source": "tak-cot",
@@ -58,7 +70,7 @@
    "fields": {
     "date": "2026-06-19T06:25:00Z",
     "description": "PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.",
-    "stars": "240",
+    "stars": "241",
     "text": "snstac/pytak",
     "title": "snstac/pytak",
     "url": "https://github.com/snstac/pytak"
@@ -80,7 +92,7 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-06-20T20:01:16Z",
+    "date": "2026-06-21T02:00:30Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "44",
     "text": "takwerx/infra-TAK",
@@ -314,18 +326,6 @@
     "text": "westpoint-robotics/moos-tak",
     "title": "westpoint-robotics/moos-tak",
     "url": "https://github.com/westpoint-robotics/moos-tak"
-   }
-  },
-  {
-   "key": "raytheonbbn/tak-cad",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2023-10-03T12:28:02Z",
-    "description": "TAK-CAD is an Android Team Awareness Kit (ATAK) plugin that provides Computer Aided Dispatch capabilities to security force and public safety personnel executing dispatch operations.",
-    "stars": "35",
-    "text": "raytheonbbn/tak-cad",
-    "title": "raytheonbbn/tak-cad",
-    "url": "https://github.com/raytheonbbn/tak-cad"
    }
   },
   {
@@ -604,7 +604,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-06-20T19:55:16Z",
+    "date": "2026-06-20T21:31:12Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "83",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -687,7 +687,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-06-20T20:07:52Z",
+    "date": "2026-06-20T20:53:00Z",
     "description": "full port of Reticulum and LXMF to Rust with added SDK",
     "stars": "18",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -745,7 +745,7 @@
    "key": "kd2var/aprsdroid-atak-plugin",
    "source": "tak-github",
    "fields": {
-    "date": "2026-06-20T06:13:15Z",
+    "date": "2026-06-21T06:52:58Z",
     "description": "ATAK Plugin that pulls position data from APRSdroid into ATAK",
     "stars": "1",
     "text": "kd2var/aprsdroid-atak-plugin",
@@ -830,7 +830,7 @@
    "fields": {
     "date": "2026-06-11T02:18:03Z",
     "description": "Live Google traffic overlay in ATAK (no plugin, custom map source XML) and OmniTAK — verified guide with screenshots and source-level receipts",
-    "stars": "5",
+    "stars": "6",
     "text": "engindearing-projects/tak-live-traffic-guide",
     "title": "engindearing-projects/tak-live-traffic-guide",
     "url": "https://github.com/engindearing-projects/tak-live-traffic-guide"

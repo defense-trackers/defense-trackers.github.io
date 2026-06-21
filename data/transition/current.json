@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-06-20T20:08:45Z",
+ "fetched_at": "2026-06-21T10:08:51Z",
  "schema_version": 1,
  "records": [
   {
@@ -891,19 +891,6 @@
    }
   },
   {
-   "key": "CONT_AWD_FA881113C0003_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "9.49933875087e+09",
-    "award_id": "FA881113C0003",
-    "description": "IGF::CT::IGF EELV FY13 + PHASE I BUY",
-    "text": "UNITED LAUNCH SERVICES, LLC",
-    "title": "UNITED LAUNCH SERVICES, LLC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_FA881113C0003_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
    "key": "CONT_AWD_HQ014717C0032_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -1251,6 +1238,19 @@
     "text": "THE BOEING COMPANY",
     "title": "THE BOEING COMPANY",
     "url": "https://www.usaspending.gov/award/CONT_AWD_HQ014712C0004_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_W56HZV15C0095_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "6.10420403829e+09",
+    "award_id": "W56HZV15C0095",
+    "description": "THE CONTRACT INCLUDES FIRM FIXED PRICE (FFP) CONTACT LINE ITEM NUMBERS (CLIN) FOR VEHICLES, TRAILERS, KITS (PACKAGED AND INSTALLED), TEST HARDWARE AND SUPPORT, VEHICLE REFURBISHMENT, SYSTEMS ENGINEERING/ PROGRAM MANAGEMENT (SEPM), STORAGE AND MAINTENANCE OF VEHICLES, VEHICLE REFURBISHMENT, INTEGRATED PRODUCT SUPPORT (IPS), AND A TECHNICAL DATA PACKAGE (TDP).  THE CONTRACT ALSO INCLUDES COST PLUS FIXED FEE (CPFF) CLINS FOR SYSTEM TECHNICAL SUPPORT (STS), TOTAL PACKAGE FIELDING (TPF), AND INTERIM CONTRACTOR SUPPORT (ICS).  THE CONTRACT CONTAINS PROVISIONS FOR AN ECONOMIC PRICE ADJUSTMENT (EPA) FOR MATERIAL FLUCTUATIONS FOR THE VEHICLES PROCURED IN OPTION PERIODS SIX, SEVEN, AND EIGHT.",
+    "text": "OSHKOSH DEFENSE LLC",
+    "title": "OSHKOSH DEFENSE LLC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W56HZV15C0095_9700_-NONE-_-NONE-/"
    }
   }
  ]
