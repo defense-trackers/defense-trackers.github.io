@@ -1,9 +1,19 @@
 {
  "source": "authorizations",
  "tracker": "authorizations",
- "fetched_at": "2026-06-22T21:24:19Z",
+ "fetched_at": "2026-06-23T10:05:06Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "FR2527132001",
+   "source": "authorizations-fedramp",
+   "fields": {
+    "date": "2026-06-22T20:00:00.000Z",
+    "status": "Now Authorized",
+    "text": "Asana",
+    "title": "Asana"
+   }
+  },
   {
    "key": "FR2428740308",
    "source": "authorizations-fedramp",
@@ -22,16 +32,6 @@
     "status": "Now Authorized",
     "text": "Koniag Government Services Electronic Health Record System (KGS EHRS)",
     "title": "Koniag Government Services Electronic Health Record System (KGS EHRS)"
-   }
-  },
-  {
-   "key": "FR2528336463",
-   "source": "authorizations-fedramp",
-   "fields": {
-    "date": "2026-06-15T20:00:00.000Z",
-    "status": "Now in PMO Review",
-    "text": "DSS Health Cloud (DSSHC)",
-    "title": "DSS Health Cloud (DSSHC)"
    }
   },
   {
@@ -193,10 +193,10 @@
    "source": "authorizations-fedramp-ai",
    "fields": {
     "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
+    "date": "2026-06-22T20:00:00.000Z",
     "impact": "Moderate",
     "model": "SaaS",
-    "status": "FedRAMP In Process",
+    "status": "FedRAMP Authorized",
     "text": "Asana",
     "title": "Asana",
     "url": "www.asana.com"
@@ -1393,20 +1393,6 @@
    }
   },
   {
-   "key": "FR2525662082",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "model": "SaaS",
-    "status": "Agency In Process",
-    "text": "Infinity for Government (NXT-G)",
-    "title": "Infinity for Government (NXT-G)",
-    "url": "https://nexthink.com/platform/government"
-   }
-  },
-  {
    "key": "FR2620841940",
    "source": "authorizations-fedramp-ai",
    "fields": {
@@ -1477,20 +1463,6 @@
    }
   },
   {
-   "key": "FR2317253567",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Fortreum, LLC",
-    "date": "2024-12-09T20:00:00.000Z",
-    "impact": "High",
-    "model": "SaaS",
-    "status": "FedRAMP Authorized",
-    "text": "GCS-HIGH",
-    "title": "GCS-HIGH",
-    "url": "http://www.paloaltonetworks.com/"
-   }
-  },
-  {
    "key": "FR2001619337",
    "source": "authorizations-fedramp-ai",
    "fields": {
@@ -1516,6 +1488,20 @@
     "text": "Idira Endpoint Privilege Manager for Government",
     "title": "Idira Endpoint Privilege Manager for Government",
     "url": "https://www.cyberark.com/products/endpoint-privilege-manager/"
+   }
+  },
+  {
+   "key": "FR2317253567",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Fortreum, LLC",
+    "date": "2024-12-09T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "GCS-HIGH",
+    "title": "GCS-HIGH",
+    "url": "http://www.paloaltonetworks.com/"
    }
   },
   {
@@ -2093,20 +2079,6 @@
    }
   },
   {
-   "key": "FR2226231529",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Fortreum, LLC",
-    "date": "2024-11-22T20:00:00.000Z",
-    "impact": "Moderate",
-    "model": "SaaS",
-    "status": "FedRAMP Authorized",
-    "text": "Trend Vision One for Government",
-    "title": "Trend Vision One for Government",
-    "url": "https://www.trendmicro.com/en_us/business/capabilities/solutions-for/federal-government/security-operations.html"
-   }
-  },
-  {
    "key": "FR2226228379",
    "source": "authorizations-fedramp-ai",
    "fields": {
@@ -2118,6 +2090,20 @@
     "text": "Trend Cloud One for Government",
     "title": "Trend Cloud One for Government",
     "url": "https://www.trendmicro.com/en_us/business/capabilities/solutions-for/federal-government/cloud-security.html"
+   }
+  },
+  {
+   "key": "FR2226231529",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Fortreum, LLC",
+    "date": "2024-11-22T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Trend Vision One for Government",
+    "title": "Trend Vision One for Government",
+    "url": "https://www.trendmicro.com/en_us/business/capabilities/solutions-for/federal-government/security-operations.html"
    }
   },
   {
@@ -2177,16 +2163,16 @@
    }
   },
   {
-   "key": "FR2525556241",
+   "key": "FR2525556241XM",
    "source": "authorizations-fedramp-ai",
    "fields": {
     "assessor": "Schellman Compliance, LLC",
-    "date": "2025-07-25T20:00:00.000Z",
-    "impact": "20x Low",
+    "date": "2026-04-24T20:00:00.000Z",
+    "impact": "20x Moderate",
     "model": "SaaS",
     "status": "FedRAMP Authorized",
-    "text": "Vanta Trust Management Platform",
-    "title": "Vanta Trust Management Platform",
+    "text": "Vanta Government Cloud",
+    "title": "Vanta Government Cloud",
     "url": "https://www.vanta.com/"
    }
   },
@@ -2303,16 +2289,16 @@
    }
   },
   {
-   "key": "FR2219763604",
+   "key": "FR2227062482",
    "source": "authorizations-fedramp-ai",
    "fields": {
     "assessor": "Schellman Compliance, LLC",
-    "date": "2022-11-07T20:00:00.000Z",
-    "impact": "Moderate",
+    "date": "2022-07-02T20:00:00.000Z",
+    "impact": "High",
     "model": "SaaS",
     "status": "FedRAMP Authorized",
-    "text": "Zscaler Private Access - Government (Zero Trust Exchange - VPN Replacement)",
-    "title": "Zscaler Private Access - Government (Zero Trust Exchange - VPN Replacement)",
+    "text": "Zscaler Internet Access - Government (Secure Web Gateway - vTIC) - High",
+    "title": "Zscaler Internet Access - Government (Secure Web Gateway - vTIC) - High",
     "url": "https://www.zscaler.com/"
    }
   }

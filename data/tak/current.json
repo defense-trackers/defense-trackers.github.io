@@ -1,9 +1,21 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-06-22T21:25:59Z",
+ "fetched_at": "2026-06-23T10:06:45Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-06-22T23:35:10Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "44",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
   {
    "key": "snstac/dronecot",
    "source": "tak-cot",
@@ -14,18 +26,6 @@
     "text": "snstac/dronecot",
     "title": "snstac/dronecot",
     "url": "https://github.com/snstac/dronecot"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-06-22T21:04:15Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "44",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -82,7 +82,7 @@
    "fields": {
     "date": "2026-06-19T06:25:00Z",
     "description": "PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.",
-    "stars": "241",
+    "stars": "242",
     "text": "snstac/pytak",
     "title": "snstac/pytak",
     "url": "https://github.com/snstac/pytak"
@@ -604,7 +604,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-06-22T21:22:33Z",
+    "date": "2026-06-23T09:45:23Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "84",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -734,7 +734,7 @@
    "key": "FreeTAKTeam/R3AKTClient",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-06-14T10:38:12Z",
+    "date": "2026-06-22T22:31:13Z",
     "stars": "1",
     "text": "FreeTAKTeam/R3AKTClient",
     "title": "FreeTAKTeam/R3AKTClient",
@@ -742,10 +742,34 @@
    }
   },
   {
+   "key": "newtypeind/atak-mcp",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-06-23T08:24:02Z",
+    "description": "Drive ATAK (Android Team Awareness Kit) and its plugins over adb without blind taps: CLI + MCP server (uvx-installable).",
+    "stars": "2",
+    "text": "newtypeind/atak-mcp",
+    "title": "newtypeind/atak-mcp",
+    "url": "https://github.com/newtypeind/atak-mcp"
+   }
+  },
+  {
+   "key": "robertsima/ATAK-map-sync",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-06-23T04:28:34Z",
+    "description": "ATAK Plugin with edge native integration",
+    "stars": "0",
+    "text": "robertsima/ATAK-map-sync",
+    "title": "robertsima/ATAK-map-sync",
+    "url": "https://github.com/robertsima/ATAK-map-sync"
+   }
+  },
+  {
    "key": "kd2var/aprsdroid-atak-plugin",
    "source": "tak-github",
    "fields": {
-    "date": "2026-06-22T09:05:25Z",
+    "date": "2026-06-23T01:35:02Z",
     "description": "ATAK Plugin that pulls position data from APRSdroid into ATAK",
     "stars": "1",
     "text": "kd2var/aprsdroid-atak-plugin",
@@ -857,18 +881,6 @@
     "text": "niccellular/wifi2cot",
     "title": "niccellular/wifi2cot",
     "url": "https://github.com/niccellular/wifi2cot"
-   }
-  },
-  {
-   "key": "newtypeind/atak-mcp",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-06-09T04:57:12Z",
-    "description": "Drive ATAK (Android Team Awareness Kit) and its plugins over adb without blind taps: CLI + MCP server (uvx-installable).",
-    "stars": "2",
-    "text": "newtypeind/atak-mcp",
-    "title": "newtypeind/atak-mcp",
-    "url": "https://github.com/newtypeind/atak-mcp"
    }
   },
   {
@@ -1070,18 +1082,6 @@
     "text": "lhermosilloz/uas_plugin_tak",
     "title": "lhermosilloz/uas_plugin_tak",
     "url": "https://github.com/lhermosilloz/uas_plugin_tak"
-   }
-  },
-  {
-   "key": "rixau/atak-reactive",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-04-09T16:53:39Z",
-    "description": "Build ATAK (Android Team Awareness Kit) plugin UIs with React and TypeScript. Typed WebView bridge, hot reload, incremental adoption.",
-    "stars": "2",
-    "text": "rixau/atak-reactive",
-    "title": "rixau/atak-reactive",
-    "url": "https://github.com/rixau/atak-reactive"
    }
   },
   {

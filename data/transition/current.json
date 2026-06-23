@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-06-22T21:26:02Z",
+ "fetched_at": "2026-06-23T10:06:48Z",
  "schema_version": 1,
  "records": [
   {
@@ -242,6 +242,18 @@
     "text": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
     "title": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
     "url": "https://www.usaspending.gov/award/CONT_AWD_FC54_9700_N0017804D4119_9700/"
+   }
+  },
+  {
+   "key": "CONT_AWD_HY023326C0002_9700_-NONE-_-NONE-",
+   "source": "transition-prototype",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "60843183",
+    "description": "COMPLETE DESIGN, BUILD AND DELIVERY OF A SPECIFIED NUMBER OF PROTOTYPES THAT INTEGRATE INTO EXISTING SYSTEMS AND COMPONENTS AS WELL AS NEW INNOVATIONS IN ACCORDANCE WITH THE STATEMENT OF WORK.",
+    "text": "RAYTHEON COMPANY",
+    "title": "RAYTHEON COMPANY",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_HY023326C0002_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -593,18 +605,6 @@
    }
   },
   {
-   "key": "CONT_AWD_W56HZV24C0029_9700_-NONE-_-NONE-",
-   "source": "transition-prototype",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "2.258335352e+07",
-    "description": "ARV-30 PROTOTYPE VEHICLE PROCUREMENT.",
-    "text": "TEXTRON SYSTEMS CORPORATION",
-    "title": "TEXTRON SYSTEMS CORPORATION",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W56HZV24C0029_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
    "key": "CONT_AWD_HT940216C0001_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -713,7 +713,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "20179213257",
+    "amount": "20180072575",
     "award_id": "N0002412C2115",
     "description": "SSN 792 LONG LEAD TIME MATERIAL",
     "text": "ELECTRIC BOAT CORPORATION",
@@ -765,7 +765,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "1.438948082357e+10",
+    "amount": "1.442609080357e+10",
     "award_id": "N0002418C2130",
     "description": "NAVAL NUCLEAR LABORATORY",
     "text": "FLUOR MARINE PROPULSION, LLC",
@@ -960,7 +960,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "8.47301998767e+09",
+    "amount": "8.47801998767e+09",
     "award_id": "N0001918C1037",
     "description": "E-2D ADVANCED HAWKEYE AIRCRAFT (FRP-7)",
     "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
@@ -1046,6 +1046,19 @@
    }
   },
   {
+   "key": "CONT_AWD_FA881018C0005_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "7.43774347472e+09",
+    "award_id": "FA881018C0005",
+    "description": "NEXT GENERATION OVERHEAD PERSISTENT INFRARED GEOSYNCHRONOUS EARTH ORBIT SPACE VEHICLE 1-3 PHASE 1",
+    "text": "LOCKHEED MARTIN CORP",
+    "title": "LOCKHEED MARTIN CORP",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA881018C0005_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_HT940223C0001_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -1082,19 +1095,6 @@
     "text": "BELL BOEING JOINT PROJECT OFFICE",
     "title": "BELL BOEING JOINT PROJECT OFFICE",
     "url": "https://www.usaspending.gov/award/CONT_AWD_N0001912C2001_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_FA881018C0005_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "7.28714387099e+09",
-    "award_id": "FA881018C0005",
-    "description": "NEXT GENERATION OVERHEAD PERSISTENT INFRARED GEOSYNCHRONOUS EARTH ORBIT SPACE VEHICLE 1-3 PHASE 1",
-    "text": "LOCKHEED MARTIN CORP",
-    "title": "LOCKHEED MARTIN CORP",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_FA881018C0005_9700_-NONE-_-NONE-/"
    }
   },
   {
