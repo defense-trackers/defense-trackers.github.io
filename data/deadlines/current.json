@@ -1,7 +1,7 @@
 {
  "source": "deadlines",
  "tracker": "deadlines",
- "fetched_at": "2026-06-23T10:06:48Z",
+ "fetched_at": "2026-06-23T20:57:24Z",
  "schema_version": 1,
  "records": [
   {
@@ -165,8 +165,8 @@
    "source": "deadlines-solicitations",
    "fields": {
     "agency": "DARPA - Information Innovation Office",
-    "closes": "2026-11-30",
-    "date": "2026-11-30",
+    "closes": "2026-06-24",
+    "date": "2026-06-24",
     "from": "pipeline",
     "text": "Information Innovation Office (I2O) Office-Wide",
     "title": "Information Innovation Office (I2O) Office-Wide",
@@ -451,8 +451,8 @@
    "source": "deadlines-solicitations",
    "fields": {
     "agency": "Department of Homeland Security - FEMA",
-    "closes": "2026-07-06",
-    "date": "2026-07-06",
+    "closes": "2026-08-03",
+    "date": "2026-08-03",
     "from": "pipeline",
     "text": "State Border Security Reinforcement Fund",
     "title": "State Border Security Reinforcement Fund",
@@ -551,6 +551,19 @@
    }
   },
   {
+   "key": "close-f95b52cedf5848bda4817b663f2926f7",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
+    "closes": "2026-07-22",
+    "date": "2026-07-22",
+    "from": "pipeline",
+    "text": "Advancing Autonomous Science for Biological Applications RFI",
+    "title": "Advancing Autonomous Science for Biological Applications RFI",
+    "url": "https://sam.gov/workspace/contract/opp/f95b52cedf5848bda4817b663f2926f7/view"
+   }
+  },
+  {
    "key": "close-441edd53d7314a34951b7e7c77575513",
    "source": "deadlines-solicitations",
    "fields": {
@@ -626,6 +639,19 @@
     "text": "Virtual-Integrated Twin for Autonomous Lifesaving (VITAL)",
     "title": "Virtual-Integrated Twin for Autonomous Lifesaving (VITAL)",
     "url": "https://sam.gov/workspace/contract/opp/3e66d960c0a14d51b236bbcf712d34cf/view"
+   }
+  },
+  {
+   "key": "close-94b02ca324074818825ed7c16bf6278d",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.WEAPONS.FA8520  AFLCMC EBUK",
+    "closes": "2026-07-31",
+    "date": "2026-07-31",
+    "from": "pipeline",
+    "text": "Man-portable, Handheld, Counter-Unmanned System (MPHC)",
+    "title": "Man-portable, Handheld, Counter-Unmanned System (MPHC)",
+    "url": "https://sam.gov/workspace/contract/opp/94b02ca324074818825ed7c16bf6278d/view"
    }
   },
   {
