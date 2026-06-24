@@ -1,14 +1,14 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-06-24T09:53:31Z",
+ "fetched_at": "2026-06-24T20:24:14Z",
  "schema_version": 1,
  "records": [
   {
    "key": "cisagov/pshtt",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-06-24T00:59:11Z",
+    "date": "2026-06-24T18:16:13Z",
     "description": "Scan domains and return data based on HTTPS best practices",
     "stars": "693",
     "text": "cisagov/pshtt",
@@ -44,7 +44,7 @@
    "key": "cisagov/gatherer",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-06-23T21:42:29Z",
+    "date": "2026-06-24T15:12:49Z",
     "description": "Gather domains as a precursor to scanning",
     "stars": "21",
     "text": "cisagov/gatherer",
@@ -164,7 +164,7 @@
    "key": "cisagov/skeleton-ansible-role",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-05-29T14:43:13Z",
+    "date": "2026-06-24T15:55:10Z",
     "description": "A skeleton project for quickly getting a new cisagov Ansible role started.",
     "stars": "13",
     "text": "cisagov/skeleton-ansible-role",
@@ -274,7 +274,7 @@
    "fields": {
     "date": "2026-06-23T17:10:29Z",
     "description": "Cybersecurity Evaluation Tool",
-    "stars": "1841",
+    "stars": "1842",
     "text": "cisagov/cset",
     "title": "cisagov/cset",
     "url": "https://github.com/cisagov/cset"
@@ -560,9 +560,9 @@
    "key": "idaholab/moose",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-06-24T05:36:28Z",
+    "date": "2026-06-24T20:07:14Z",
     "description": "Multiphysics Object Oriented Simulation Environment",
-    "stars": "2278",
+    "stars": "2279",
     "text": "idaholab/moose",
     "title": "idaholab/moose",
     "url": "https://github.com/idaholab/moose"
@@ -596,7 +596,7 @@
    "key": "idaholab/EMRALD",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-06-23T17:54:03Z",
+    "date": "2026-06-24T20:20:51Z",
     "description": "Event Modeling Risk Assessment using Linked Diagrams (EMRALD) is a software tool developed at INL for researching the capabilities of dynamic PRA (Probabilistic Risk Assessment). In order to promote the effective use of dynamic PRA by the general community, EMRALD focuses on the following key aspects: Simplifying the modeling process by providing a structure that corresponds to traditional PRA modeling methods Providing a user interface (UI) that makes it easy for the user to model and visualize complex interactions Allowing the user to couple with other analysis applications such as physics based simulations. This includes one-way communication for most applications and two-way loose coupling for customizable applications Providing the sequence and timing of events that lead to the specified outcomes when calculating results Traditional aspects of components with basic events, fault trees, and event trees are all captured in a dynamic framework of state diagrams, which are displayed ",
     "stars": "29",
     "text": "idaholab/EMRALD",
@@ -741,7 +741,7 @@
    "fields": {
     "date": "2026-06-14T20:13:45Z",
     "description": "Scalable dynamic library and python loading in HPC environments",
-    "stars": "108",
+    "stars": "109",
     "text": "llnl/Spindle",
     "title": "llnl/Spindle",
     "url": "https://github.com/llnl/Spindle"
@@ -775,7 +775,7 @@
    "key": "llnl/Caliper",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-06-22T21:09:50Z",
+    "date": "2026-06-24T17:59:44Z",
     "description": "Caliper is an instrumentation and performance profiling library",
     "stars": "415",
     "text": "llnl/Caliper",
@@ -811,7 +811,7 @@
    "key": "llnl/RAJA",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-06-24T08:39:14Z",
+    "date": "2026-06-24T18:47:15Z",
     "description": "RAJA Performance Portability Layer (C++)",
     "stars": "585",
     "text": "llnl/RAJA",
@@ -846,7 +846,7 @@
    "key": "mitre/FMACM",
    "source": "oss-mitre",
    "fields": {
-    "date": "2026-06-08T20:13:17Z",
+    "date": "2026-06-24T16:55:33Z",
     "description": "An aircraft dynamics and control model for closed-loop RTCA requirements testing.",
     "stars": "15",
     "text": "mitre/FMACM",
@@ -1014,7 +1014,7 @@
    "key": "nasa/earthdata-search",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-06-23T19:41:29Z",
+    "date": "2026-06-24T20:13:31Z",
     "description": "Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.",
     "stars": "818",
     "text": "nasa/earthdata-search",
@@ -1169,7 +1169,7 @@
    "key": "nsacyber/HIRS",
    "source": "oss-nsacyber",
    "fields": {
-    "date": "2026-06-23T15:32:56Z",
+    "date": "2026-06-24T15:33:42Z",
     "description": "Trusted Computing based services supporting TPM provisioning and supply chain validation concepts. #nsacyber",
     "stars": "212",
     "text": "nsacyber/HIRS",
@@ -1229,7 +1229,7 @@
    "key": "ORNL/HeCBench",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-06-22T16:10:32Z",
+    "date": "2026-06-24T15:02:45Z",
     "stars": "297",
     "text": "ORNL/HeCBench",
     "title": "ORNL/HeCBench",
@@ -1252,7 +1252,7 @@
    "key": "ORNL/carla",
    "source": "oss-ornl",
    "fields": {
-    "date": "2025-12-01T15:25:39Z",
+    "date": "2026-06-24T16:31:36Z",
     "description": "Open-source simulator for autonomous driving research.",
     "stars": "3",
     "text": "ORNL/carla",
@@ -1288,7 +1288,7 @@
    "key": "ORNL/flowcept",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-06-23T21:42:11Z",
+    "date": "2026-06-24T20:00:17Z",
     "description": "Runtime provenance for AI and scientific workflows—capture, enrich, and query workflow data via observability adapters and code annotation across edge, cloud, and HPC.",
     "stars": "27",
     "text": "ORNL/flowcept",
@@ -1324,7 +1324,7 @@
    "key": "ORNL/GridKit",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-06-23T22:18:33Z",
+    "date": "2026-06-24T20:16:50Z",
     "description": "Modeling framework for power systems simulations and analysis.",
     "stars": "18",
     "text": "ORNL/GridKit",
