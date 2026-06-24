@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-06-23T20:55:33Z",
+ "fetched_at": "2026-06-24T09:52:18Z",
  "schema_version": 1,
  "records": [
   {
@@ -449,18 +449,6 @@
    }
   },
   {
-   "key": "CONT_AWD_FA864923P1095_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "2.92304876e+06",
-    "description": "ARTIFICIAL INTELLIGENCE (AI) ASSISTANCE FOR DERIVATIVE CLASSIFICATION AND REDACTION",
-    "text": "CONDUCTORAI CORPORATION",
-    "title": "CONDUCTORAI CORPORATION",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_FA864923P1095_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
    "key": "CONT_AWD_FA875024CB037_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
@@ -470,6 +458,18 @@
     "text": "CACI, INC. - FEDERAL",
     "title": "CACI, INC. - FEDERAL",
     "url": "https://www.usaspending.gov/award/CONT_AWD_FA875024CB037_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_FA865023F6535_9700_FA865020D6207_9700",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "2605588",
+    "description": "CALIBRATED RELIANCE IN ARTIFICIAL INTELLIGENCE MACHINE LEARNING",
+    "text": "DCS CORPORATION",
+    "title": "DCS CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA865023F6535_9700_FA865020D6207_9700/"
    }
   },
   {
@@ -506,18 +506,6 @@
     "text": "SCALE AI, INC.",
     "title": "SCALE AI, INC.",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W911QX25FA054_9700_W911QX25DA011_9700/"
-   }
-  },
-  {
-   "key": "CONT_AWD_FA865023F6535_9700_FA865020D6207_9700",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "2290588",
-    "description": "CALIBRATED RELIANCE IN ARTIFICIAL INTELLIGENCE MACHINE LEARNING",
-    "text": "DCS CORPORATION",
-    "title": "DCS CORPORATION",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_FA865023F6535_9700_FA865020D6207_9700/"
    }
   },
   {
@@ -602,6 +590,18 @@
     "text": "DYNETICS, INC.",
     "title": "DYNETICS, INC.",
     "url": "https://www.usaspending.gov/award/CONT_AWD_FA865124FB014_9700_FA865121D0062_9700/"
+   }
+  },
+  {
+   "key": "CONT_AWD_FA237724CB048_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1900000",
+    "description": "OFFLINE LEARNING AND COUNTER ARTIFICIAL INTELLIGENCE FOR AUTONOMOUS AIRCRAFT COMBAT OPERATIONS (AACO)  TACTICAL FUNDING INCREASE (TACFI)",
+    "text": "TOYON RESEARCH CORPORATION",
+    "title": "TOYON RESEARCH CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA237724CB048_9700_-NONE-_-NONE-/"
    }
   },
   {

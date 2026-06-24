@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-06-23T20:57:01Z",
+ "fetched_at": "2026-06-24T09:53:46Z",
  "schema_version": 1,
  "records": [
   {
@@ -390,6 +390,19 @@
    }
   },
   {
+   "key": "349586",
+   "source": "pipeline-grants",
+   "fields": {
+    "agency": "Defense Health Agency Contracting Activity - DHACA",
+    "closes": "07/31/2028",
+    "number": "HT9425-23-S-SOC1",
+    "posted": "07/27/2023",
+    "text": "BROAD AGENCY ANNOUNCEMENT (BAA) for Extramural Biomedical and Human Performance Research and Development Department of Defense",
+    "title": "BROAD AGENCY ANNOUNCEMENT (BAA) for Extramural Biomedical and Human Performance Research and Development Department of Defense",
+    "url": "https://www.grants.gov/search-results-detail/349586"
+   }
+  },
+  {
    "key": "347858",
    "source": "pipeline-logistics",
    "fields": {
@@ -642,20 +655,6 @@
     "title": "Robotic and Autonomous Construction Equipment (RA-CE)",
     "type": "Sources Sought",
     "url": "https://sam.gov/workspace/contract/opp/484a30fde304499a8a86ff4d98702959/view"
-   }
-  },
-  {
-   "key": "5decfc1c438246c48f7870b36a77a9b2",
-   "source": "pipeline-sam-autonomy",
-   "fields": {
-    "agency": "DEPT OF DEFENSE",
-    "closes": "2026-06-22T23:59:00-04:00",
-    "number": "J2_ISP_AE",
-    "posted": "2026-05-26",
-    "text": "J2 Integrated Survey Program (ISP) Autonomous Solutions Assessment Event (AE)",
-    "title": "J2 Integrated Survey Program (ISP) Autonomous Solutions Assessment Event (AE)",
-    "type": "Special Notice",
-    "url": "https://sam.gov/workspace/contract/opp/5decfc1c438246c48f7870b36a77a9b2/view"
    }
   },
   {
