@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-06-24T20:23:04Z",
+ "fetched_at": "2026-06-25T09:46:37Z",
  "schema_version": 1,
  "records": [
   {
@@ -53,6 +53,18 @@
    }
   },
   {
+   "key": "CONT_AWD_W519TC25F0241_9700_W52P1J22G0174_9700",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1.760147532e+07",
+    "description": "12MONTH BASE PERIOD 12MONTH OP. EST ACCELERATING DATA AND ARTIFICIAL INTELLIGENCE(ADA)INCIDENT RESPONSE(IR)TEAMS SUPPORT DATA DRIVEN DECISION MAKING TO SCALE DATA, ANALYTICS, AND AI AT THE CHIEF DIGITAL AND ARTIFICIAL INTELLIGENCE (AI) OFFICE (CDAO)",
+    "text": "BYTECUBED, LLC",
+    "title": "BYTECUBED, LLC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W519TC25F0241_9700_W52P1J22G0174_9700/"
+   }
+  },
+  {
    "key": "CONT_AWD_HR001124C0310_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
@@ -77,18 +89,6 @@
    }
   },
   {
-   "key": "CONT_AWD_W519TC25F0241_9700_W52P1J22G0174_9700",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "1.388812558e+07",
-    "description": "12MONTH BASE PERIOD 12MONTH OP. EST ACCELERATING DATA AND ARTIFICIAL INTELLIGENCE(ADA)INCIDENT RESPONSE(IR)TEAMS SUPPORT DATA DRIVEN DECISION MAKING TO SCALE DATA, ANALYTICS, AND AI AT THE CHIEF DIGITAL AND ARTIFICIAL INTELLIGENCE (AI) OFFICE (CDAO)",
-    "text": "BYTECUBED, LLC",
-    "title": "BYTECUBED, LLC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W519TC25F0241_9700_W52P1J22G0174_9700/"
-   }
-  },
-  {
    "key": "CONT_AWD_W911QX24C0009_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
@@ -110,6 +110,18 @@
     "text": "KONIAG IT SYSTEMS, LLC",
     "title": "KONIAG IT SYSTEMS, LLC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_HQ003425CE012_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_FA239125CB010_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1.126748719e+07",
+    "description": "HYBRID ARTIFICIAL INTELLIGENCE AND AUTONOMY RESEARCH AND DEVELOPMENT CONSIDERED OPERATIONALLY RELEVANT AND EXPLAINABLE (HAARDCORE)",
+    "text": "UNIVERSITY OF DAYTON",
+    "title": "UNIVERSITY OF DAYTON",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA239125CB010_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -146,18 +158,6 @@
     "text": "SYSTEMS \u0026 TECHNOLOGY RESEARCH LLC",
     "title": "SYSTEMS \u0026 TECHNOLOGY RESEARCH LLC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_HR001124C0309_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_FA239125CB010_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "9.76713119e+06",
-    "description": "HYBRID ARTIFICIAL INTELLIGENCE AND AUTONOMY RESEARCH AND DEVELOPMENT CONSIDERED OPERATIONALLY RELEVANT AND EXPLAINABLE (HAARDCORE)",
-    "text": "UNIVERSITY OF DAYTON",
-    "title": "UNIVERSITY OF DAYTON",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_FA239125CB010_9700_-NONE-_-NONE-/"
    }
   },
   {

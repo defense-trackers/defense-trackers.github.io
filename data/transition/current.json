@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-06-24T20:24:52Z",
+ "fetched_at": "2026-06-25T09:48:27Z",
  "schema_version": 1,
  "records": [
   {
@@ -509,6 +509,18 @@
    }
   },
   {
+   "key": "CONT_AWD_N6660423F3003_9700_N0017819D8623_9700",
+   "source": "transition-prototype",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "2.736236426e+07",
+    "description": "THIS IS A REQUIREMENT FOR SERVICES TO OPERATE AND MAINTAIN ALL TRAINERS UNDER THE NAVAL UNDERSEA WARFARE CENTER DIVISION, NEWPORT CODE 25 TECHNICAL COGNIZANCE, INCLUDING DEVELOPMENTAL AND PROTOTYPE TRAINING SYSTEMS.",
+    "text": "SEACORP, LLC",
+    "title": "SEACORP, LLC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_N6660423F3003_9700_N0017819D8623_9700/"
+   }
+  },
+  {
    "key": "CONT_AWD_N0017319F3001_9700_N0017814D7965_9700",
    "source": "transition-prototype",
    "fields": {
@@ -554,18 +566,6 @@
     "text": "AMENTUM SERVICES, INC.",
     "title": "AMENTUM SERVICES, INC.",
     "url": "https://www.usaspending.gov/award/CONT_AWD_FA807523F0012_9700_FA807518D0014_9700/"
-   }
-  },
-  {
-   "key": "CONT_AWD_N6660423F3003_9700_N0017819D8623_9700",
-   "source": "transition-prototype",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "2.461987226e+07",
-    "description": "THIS IS A REQUIREMENT FOR SERVICES TO OPERATE AND MAINTAIN ALL TRAINERS UNDER THE NAVAL UNDERSEA WARFARE CENTER DIVISION, NEWPORT CODE 25 TECHNICAL COGNIZANCE, INCLUDING DEVELOPMENTAL AND PROTOTYPE TRAINING SYSTEMS.",
-    "text": "SEACORP, LLC",
-    "title": "SEACORP, LLC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_N6660423F3003_9700_N0017819D8623_9700/"
    }
   },
   {
@@ -817,7 +817,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "1.189516103085e+10",
+    "amount": "1.189765513085e+10",
     "award_id": "N0002416C2116",
     "description": "CVN 80 ENGINEERING EFFORTS AND STEEL",
     "text": "HUNTINGTON INGALLS INC",
@@ -830,7 +830,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "1.171955992319e+10",
+    "amount": "1.172040392319e+10",
     "award_id": "FA821920C0006",
     "description": "GROUND-BASED STRATEGIC DETERRENT (GBSD) ENGINEERING AND MANUFACTURING DEVELOPMENT (EMD) AND EARLY PRODUCTION AND DEPLOYMENT (P\u0026D)",
     "text": "NORTHROP GRUMMAN SYSTEMS CORP",
@@ -973,12 +973,25 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "8.19203964311e+09",
+    "amount": "8.33612701092e+09",
     "award_id": "FA880219C0001",
     "description": "FY19 ENGINEERING SERVICES",
     "text": "THE AEROSPACE CORPORATION",
     "title": "THE AEROSPACE CORPORATION",
     "url": "https://www.usaspending.gov/award/CONT_AWD_FA880219C0001_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_HT940223C0002_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "8.3046084152e+09",
+    "award_id": "HT940223C0002",
+    "description": "TRICARE MANAGED CARE SUPPORT SERVICES CONTRACT, 5TH GENERATION WEST REGION",
+    "text": "TRIWEST HEALTHCARE ALLIANCE CORP",
+    "title": "TRIWEST HEALTHCARE ALLIANCE CORP",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_HT940223C0002_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -1111,19 +1124,6 @@
    }
   },
   {
-   "key": "CONT_AWD_HT940223C0002_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "7.1287340571e+09",
-    "award_id": "HT940223C0002",
-    "description": "TRICARE MANAGED CARE SUPPORT SERVICES CONTRACT, 5TH GENERATION WEST REGION",
-    "text": "TRIWEST HEALTHCARE ALLIANCE CORP",
-    "title": "TRIWEST HEALTHCARE ALLIANCE CORP",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_HT940223C0002_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
    "key": "CONT_AWD_N0001914C0002_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -1167,7 +1167,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "6.94819026783e+09",
+    "amount": "6.94808855083e+09",
     "award_id": "N0002423C2307",
     "description": "CONSTRUCTION OF DDG 51 SHIPS FY23-27",
     "text": "HUNTINGTON INGALLS INCORPORATED",
@@ -1180,7 +1180,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "6.82668031274e+09",
+    "amount": "6.82670111274e+09",
     "award_id": "N0002418C2307",
     "description": "FY18-FY22 DDG 51 CLASS SHIP CONSTRUCTION",
     "text": "HUNTINGTON INGALLS INCORPORATED",

@@ -1,9 +1,21 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-06-24T20:24:50Z",
+ "fetched_at": "2026-06-25T09:48:24Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-06-25T05:57:05Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "44",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
   {
    "key": "Audrey-cn/universal-agent-embedding-kit",
    "source": "tak-cot",
@@ -14,18 +26,6 @@
     "text": "Audrey-cn/universal-agent-embedding-kit",
     "title": "Audrey-cn/universal-agent-embedding-kit",
     "url": "https://github.com/Audrey-cn/universal-agent-embedding-kit"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-06-24T20:20:21Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "44",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-06-22T17:27:58Z",
+    "date": "2026-06-24T22:38:03Z",
     "description": "full port of Reticulum and LXMF to Rust with added SDK",
     "stars": "18",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -734,7 +734,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-06-24T20:14:35Z",
+    "date": "2026-06-24T22:54:00Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "18",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -754,15 +754,38 @@
    }
   },
   {
+   "key": "atakmaps/TAK-MESHCORE",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-06-25T08:38:22Z",
+    "description": "ATAK MeshCore plugin",
+    "stars": "18",
+    "text": "atakmaps/TAK-MESHCORE",
+    "title": "atakmaps/TAK-MESHCORE",
+    "url": "https://github.com/atakmaps/TAK-MESHCORE"
+   }
+  },
+  {
    "key": "robertsima/atak-fieldsync",
    "source": "tak-github",
    "fields": {
-    "date": "2026-06-24T18:56:37Z",
+    "date": "2026-06-25T06:16:08Z",
     "description": "ATAK Plugin with edge native integration",
     "stars": "0",
     "text": "robertsima/atak-fieldsync",
     "title": "robertsima/atak-fieldsync",
     "url": "https://github.com/robertsima/atak-fieldsync"
+   }
+  },
+  {
+   "key": "shigeki7299/ATAK_Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-06-25T04:59:15Z",
+    "stars": "0",
+    "text": "shigeki7299/ATAK_Plugin",
+    "title": "shigeki7299/ATAK_Plugin",
+    "url": "https://github.com/shigeki7299/ATAK_Plugin"
    }
   },
   {
@@ -804,24 +827,12 @@
    "key": "247-Group/ATAK-sensor-effector-plugin",
    "source": "tak-github",
    "fields": {
-    "date": "2026-06-23T19:19:04Z",
+    "date": "2026-06-25T07:10:55Z",
     "description": "ATAK Sensor/Effector plugin for RACK project",
     "stars": "0",
     "text": "247-Group/ATAK-sensor-effector-plugin",
     "title": "247-Group/ATAK-sensor-effector-plugin",
     "url": "https://github.com/247-Group/ATAK-sensor-effector-plugin"
-   }
-  },
-  {
-   "key": "atakmaps/TAK-MESHCORE",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-06-18T04:39:57Z",
-    "description": "ATAK MeshCore plugin",
-    "stars": "18",
-    "text": "atakmaps/TAK-MESHCORE",
-    "title": "atakmaps/TAK-MESHCORE",
-    "url": "https://github.com/atakmaps/TAK-MESHCORE"
    }
   },
   {
@@ -1082,18 +1093,6 @@
     "text": "c5bravo/atak-airguardian-practice-tool",
     "title": "c5bravo/atak-airguardian-practice-tool",
     "url": "https://github.com/c5bravo/atak-airguardian-practice-tool"
-   }
-  },
-  {
-   "key": "lhermosilloz/uas_plugin_tak",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-04-11T00:54:50Z",
-    "description": "Various ATAK UAS Plugin Tool scripts for development",
-    "stars": "0",
-    "text": "lhermosilloz/uas_plugin_tak",
-    "title": "lhermosilloz/uas_plugin_tak",
-    "url": "https://github.com/lhermosilloz/uas_plugin_tak"
    }
   },
   {
