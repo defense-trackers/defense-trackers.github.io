@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-06-25T09:48:06Z",
+ "fetched_at": "2026-06-25T20:36:26Z",
  "schema_version": 1,
  "records": [
   {
@@ -377,19 +377,6 @@
    }
   },
   {
-   "key": "362519",
-   "source": "pipeline-grants",
-   "fields": {
-    "agency": "Defense Health Agency Contracting Activity - DHACA",
-    "closes": "08/17/2026",
-    "number": "HT942526ERPLRA",
-    "posted": "05/21/2026",
-    "text": "DoW Epilepsy Leveraging Research Award",
-    "title": "DoW Epilepsy Leveraging Research Award",
-    "url": "https://www.grants.gov/search-results-detail/362519"
-   }
-  },
-  {
    "key": "362517",
    "source": "pipeline-grants",
    "fields": {
@@ -400,6 +387,19 @@
     "text": "DoW Epilepsy Idea Development Award",
     "title": "DoW Epilepsy Idea Development Award",
     "url": "https://www.grants.gov/search-results-detail/362517"
+   }
+  },
+  {
+   "key": "362519",
+   "source": "pipeline-grants",
+   "fields": {
+    "agency": "Defense Health Agency Contracting Activity - DHACA",
+    "closes": "08/17/2026",
+    "number": "HT942526ERPLRA",
+    "posted": "05/21/2026",
+    "text": "DoW Epilepsy Leveraging Research Award",
+    "title": "DoW Epilepsy Leveraging Research Award",
+    "url": "https://www.grants.gov/search-results-detail/362519"
    }
   },
   {
@@ -652,6 +652,21 @@
    }
   },
   {
+   "key": "fe160646349f4fe5be0b5de848707080",
+   "source": "pipeline-sam-autonomy",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.US TRANSPORTATION COMMAND (USTRANSCOM)",
+    "closes": "2026-07-06T11:00:00-05:00",
+    "number": "USTC2026001",
+    "posted": "2026-06-25",
+    "setaside": "No Set aside used",
+    "text": "Assured Access to Maritime Autonomous Surface Ships RFI with additional keywords: Improving Military Supply Chain Sealift Transportation Via Assured Access to Dual-Use Maritime Autonomous Surface Ships",
+    "title": "Assured Access to Maritime Autonomous Surface Ships RFI with additional keywords: Improving Military Supply Chain Sealift Transportation Via Assured Access to Dual-Use Maritime Autonomous Surface Ships",
+    "type": "Special Notice",
+    "url": "https://sam.gov/workspace/contract/opp/fe160646349f4fe5be0b5de848707080/view"
+   }
+  },
+  {
    "key": "ce4e88b51cb3419bbc5ad3458875cd7d",
    "source": "pipeline-sam-autonomy",
    "fields": {
@@ -693,21 +708,6 @@
     "title": "Other Transaction Authority (OTA) Consortium Request for Proposals (RFP) Seabed-Subsea, Littoral, Asymmetric-Autonomous, Mining and Mine Hunting, Expeditionary, Robotic (SLAM2ER) Consortium",
     "type": "Solicitation",
     "url": "https://sam.gov/workspace/contract/opp/441edd53d7314a34951b7e7c77575513/view"
-   }
-  },
-  {
-   "key": "3c32c5031b6a4d3ea2788098fd44ec29",
-   "source": "pipeline-sam-autonomy",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.US TRANSPORTATION COMMAND (USTRANSCOM)",
-    "closes": "2026-07-06T11:00:00-05:00",
-    "number": "USTC2026001",
-    "posted": "2026-06-15",
-    "setaside": "No Set aside used",
-    "text": "Assured Access to Maritime Autonomous Surface Ships",
-    "title": "Assured Access to Maritime Autonomous Surface Ships",
-    "type": "Special Notice",
-    "url": "https://sam.gov/workspace/contract/opp/3c32c5031b6a4d3ea2788098fd44ec29/view"
    }
   },
   {
