@@ -1,7 +1,7 @@
 {
  "source": "authorizations",
  "tracker": "authorizations",
- "fetched_at": "2026-06-25T20:35:10Z",
+ "fetched_at": "2026-06-26T09:53:16Z",
  "schema_version": 1,
  "records": [
   {
@@ -1477,6 +1477,20 @@
    }
   },
   {
+   "key": "FR2001619337",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2024-03-14T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Idira Identity Security Government Services Platform",
+    "title": "Idira Identity Security Government Services Platform",
+    "url": "https://www.cyberark.com/products/access-management/"
+   }
+  },
+  {
    "key": "FR2317253567",
    "source": "authorizations-fedramp-ai",
    "fields": {
@@ -1502,20 +1516,6 @@
     "text": "Idira Endpoint Privilege Manager for Government",
     "title": "Idira Endpoint Privilege Manager for Government",
     "url": "https://www.cyberark.com/products/endpoint-privilege-manager/"
-   }
-  },
-  {
-   "key": "FR2001619337",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2024-03-14T20:00:00.000Z",
-    "impact": "High",
-    "model": "SaaS",
-    "status": "FedRAMP Authorized",
-    "text": "Idira Identity Security Government Services Platform",
-    "title": "Idira Identity Security Government Services Platform",
-    "url": "https://www.cyberark.com/products/access-management/"
    }
   },
   {
@@ -1911,14 +1911,14 @@
    }
   },
   {
-   "key": "FR2531434700XL",
+   "key": "FR2531434700",
    "source": "authorizations-fedramp-ai",
    "fields": {
     "assessor": "Schellman Compliance, LLC",
-    "date": "2025-09-17T20:00:00.000Z",
-    "impact": "20x Low",
+    "date": "Not Active",
+    "impact": "Moderate",
     "model": "SaaS",
-    "status": "FedRAMP Authorized",
+    "status": "Agency In Process",
     "text": "Palette VerteX",
     "title": "Palette VerteX",
     "url": "https://www.spectrocloud.com/"
@@ -2009,20 +2009,6 @@
    }
   },
   {
-   "key": "FR2333543855",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "model": "SaaS",
-    "status": "Agency In Process",
-    "text": "Thomson Reuters Risk \u0026 Fraud (TR R\u0026F)",
-    "title": "Thomson Reuters Risk \u0026 Fraud (TR R\u0026F)",
-    "url": "https://legal.thomsonreuters.com/en/products/clear"
-   }
-  },
-  {
    "key": "FR2502148523",
    "source": "authorizations-fedramp-ai",
    "fields": {
@@ -2034,6 +2020,20 @@
     "text": "Thomson Reuters Legal Research (TR LR)",
     "title": "Thomson Reuters Legal Research (TR LR)",
     "url": "https://legal.thomsonreuters.com/en/westlaw"
+   }
+  },
+  {
+   "key": "FR2333543855",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "Agency In Process",
+    "text": "Thomson Reuters Risk \u0026 Fraud (TR R\u0026F)",
+    "title": "Thomson Reuters Risk \u0026 Fraud (TR R\u0026F)",
+    "url": "https://legal.thomsonreuters.com/en/products/clear"
    }
   },
   {
@@ -2177,16 +2177,16 @@
    }
   },
   {
-   "key": "FR2525556241",
+   "key": "FR2525556241XM",
    "source": "authorizations-fedramp-ai",
    "fields": {
     "assessor": "Schellman Compliance, LLC",
-    "date": "2025-07-25T20:00:00.000Z",
-    "impact": "20x Low",
+    "date": "2026-04-24T20:00:00.000Z",
+    "impact": "20x Moderate",
     "model": "SaaS",
     "status": "FedRAMP Authorized",
-    "text": "Vanta Trust Management Platform",
-    "title": "Vanta Trust Management Platform",
+    "text": "Vanta Government Cloud",
+    "title": "Vanta Government Cloud",
     "url": "https://www.vanta.com/"
    }
   },

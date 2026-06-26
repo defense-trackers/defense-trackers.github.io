@@ -1,9 +1,33 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-06-25T20:36:44Z",
+ "fetched_at": "2026-06-26T09:54:59Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "engindearing-projects/OmniTAK-Android",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-06-26T03:50:50Z",
+    "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
+    "stars": "12",
+    "text": "engindearing-projects/OmniTAK-Android",
+    "title": "engindearing-projects/OmniTAK-Android",
+    "url": "https://github.com/engindearing-projects/OmniTAK-Android"
+   }
+  },
+  {
+   "key": "engindearing-projects/OmniTAK-iOS",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-06-26T03:50:48Z",
+    "description": "Open-source TAK (Team Awareness Kit) client for iPhone and iPad. Swift + SwiftUI. Apache 2.0.",
+    "stars": "5",
+    "text": "engindearing-projects/OmniTAK-iOS",
+    "title": "engindearing-projects/OmniTAK-iOS",
+    "url": "https://github.com/engindearing-projects/OmniTAK-iOS"
+   }
+  },
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
@@ -65,18 +89,6 @@
    }
   },
   {
-   "key": "engindearing-projects/OmniTAK-Android",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-06-20T19:59:41Z",
-    "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
-    "stars": "12",
-    "text": "engindearing-projects/OmniTAK-Android",
-    "title": "engindearing-projects/OmniTAK-Android",
-    "url": "https://github.com/engindearing-projects/OmniTAK-Android"
-   }
-  },
-  {
    "key": "snstac/pytak",
    "source": "tak-cot",
    "fields": {
@@ -86,18 +98,6 @@
     "text": "snstac/pytak",
     "title": "snstac/pytak",
     "url": "https://github.com/snstac/pytak"
-   }
-  },
-  {
-   "key": "engindearing-projects/OmniTAK-iOS",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-06-20T19:58:03Z",
-    "description": "Open-source TAK (Team Awareness Kit) client for iPhone and iPad. Swift + SwiftUI. Apache 2.0.",
-    "stars": "5",
-    "text": "engindearing-projects/OmniTAK-iOS",
-    "title": "engindearing-projects/OmniTAK-iOS",
-    "url": "https://github.com/engindearing-projects/OmniTAK-iOS"
    }
   },
   {
@@ -616,7 +616,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-06-25T20:17:50Z",
+    "date": "2026-06-26T00:23:19Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "84",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -757,7 +757,7 @@
    "key": "robertsima/atak-fieldsync",
    "source": "tak-github",
    "fields": {
-    "date": "2026-06-25T20:36:19Z",
+    "date": "2026-06-25T21:49:54Z",
     "description": "ATAK Plugin with edge native integration",
     "stars": "0",
     "text": "robertsima/atak-fieldsync",
@@ -769,7 +769,7 @@
    "key": "247-Group/ATAK-sensor-effector-plugin",
    "source": "tak-github",
    "fields": {
-    "date": "2026-06-25T20:36:26Z",
+    "date": "2026-06-25T20:37:57Z",
     "description": "ATAK Sensor/Effector plugin for RACK project",
     "stars": "0",
     "text": "247-Group/ATAK-sensor-effector-plugin",

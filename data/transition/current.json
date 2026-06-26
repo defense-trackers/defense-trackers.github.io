@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-06-25T20:36:47Z",
+ "fetched_at": "2026-06-26T09:55:02Z",
  "schema_version": 1,
  "records": [
   {
@@ -9,7 +9,7 @@
    "source": "transition-prototype",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "6.9718668225e+08",
+    "amount": "6.9772421837e+08",
     "description": "PHASE 3 AND 4 DEVELOPMENT WITH 7 PROTOTYPE DELIVERABLES OF THE OPTIONALLY MANNED FIGHTING VEHICLE.",
     "text": "AMERICAN RHEINMETALL VEHICLES, LLC",
     "title": "AMERICAN RHEINMETALL VEHICLES, LLC",
@@ -713,7 +713,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "20180072575",
+    "amount": "20183699820",
     "award_id": "N0002412C2115",
     "description": "SSN 792 LONG LEAD TIME MATERIAL",
     "text": "ELECTRIC BOAT CORPORATION",
@@ -995,6 +995,19 @@
    }
   },
   {
+   "key": "CONT_AWD_HT940223C0001_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "8.30241891871e+09",
+    "award_id": "HT940223C0001",
+    "description": "TRICARE MANAGED CARE SUPPORT SERVICES CONTRACT, 5TH GENERATION EAST REGION",
+    "text": "HUMANA GOVERNMENT BUSINESS INC",
+    "title": "HUMANA GOVERNMENT BUSINESS INC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_HT940223C0001_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_N0001921C0020_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -1069,19 +1082,6 @@
     "text": "LOCKHEED MARTIN CORP",
     "title": "LOCKHEED MARTIN CORP",
     "url": "https://www.usaspending.gov/award/CONT_AWD_FA881018C0005_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_HT940223C0001_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "7.43593056063e+09",
-    "award_id": "HT940223C0001",
-    "description": "TRICARE MANAGED CARE SUPPORT SERVICES CONTRACT, 5TH GENERATION EAST REGION",
-    "text": "HUMANA GOVERNMENT BUSINESS INC",
-    "title": "HUMANA GOVERNMENT BUSINESS INC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_HT940223C0001_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -1167,7 +1167,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "6.94808855083e+09",
+    "amount": "6.94811259183e+09",
     "award_id": "N0002423C2307",
     "description": "CONSTRUCTION OF DDG 51 SHIPS FY23-27",
     "text": "HUNTINGTON INGALLS INCORPORATED",
