@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-06-26T09:54:59Z",
+ "fetched_at": "2026-06-26T20:24:35Z",
  "schema_version": 1,
  "records": [
   {
    "key": "engindearing-projects/OmniTAK-Android",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-06-26T03:50:50Z",
+    "date": "2026-06-26T19:31:18Z",
     "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
     "stars": "12",
     "text": "engindearing-projects/OmniTAK-Android",
@@ -32,7 +32,7 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-06-25T19:35:28Z",
+    "date": "2026-06-26T20:21:06Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "45",
     "text": "takwerx/infra-TAK",
@@ -370,7 +370,7 @@
    "fields": {
     "date": "2025-09-22T00:48:17Z",
     "description": "FreeTAKServer documentation for end users",
-    "stars": "74",
+    "stars": "75",
     "text": "FreeTAKTeam/FreeTAKServer-User-Docs",
     "title": "FreeTAKTeam/FreeTAKServer-User-Docs",
     "url": "https://github.com/FreeTAKTeam/FreeTAKServer-User-Docs"
@@ -616,9 +616,9 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-06-26T00:23:19Z",
+    "date": "2026-06-26T19:27:56Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
-    "stars": "84",
+    "stars": "85",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
     "title": "FreeTAKTeam/Reticulum-Community-Hub",
     "url": "https://github.com/FreeTAKTeam/Reticulum-Community-Hub"
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-06-25T11:50:53Z",
+    "date": "2026-06-26T20:13:00Z",
     "description": "full port of Reticulum and LXMF to Rust with added SDK",
     "stars": "18",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -734,7 +734,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-06-25T20:01:15Z",
+    "date": "2026-06-26T20:23:23Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "18",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",

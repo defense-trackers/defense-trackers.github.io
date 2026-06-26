@@ -1,7 +1,7 @@
 {
  "source": "deadlines",
  "tracker": "deadlines",
- "fetched_at": "2026-06-26T09:55:02Z",
+ "fetched_at": "2026-06-26T20:24:38Z",
  "schema_version": 1,
  "records": [
   {
@@ -668,6 +668,32 @@
    }
   },
   {
+   "key": "close-fc481cc48afe44e68bc09b4483a104c2",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.ONR.ONR NRL.NAVAL RESEARCH LABORATORY",
+    "closes": "2026-06-30",
+    "date": "2026-06-30",
+    "from": "pipeline",
+    "text": "N0017326Q5318 - HII UNMANNED SYSTEMS",
+    "title": "N0017326Q5318 - HII UNMANNED SYSTEMS",
+    "url": "https://sam.gov/workspace/contract/opp/fc481cc48afe44e68bc09b4483a104c2/view"
+   }
+  },
+  {
+   "key": "close-3752a65feabc46978379104ff2c2738f",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION GREAT LAKES AND OHIO.ENDIST LOUISVILLE.W072 ENDIST LOUISVILLE",
+    "closes": "2026-07-20",
+    "date": "2026-07-20",
+    "from": "pipeline",
+    "text": "Unmanned Fusion Warfare Laboratory at NSWC Crane IN",
+    "title": "Unmanned Fusion Warfare Laboratory at NSWC Crane IN",
+    "url": "https://sam.gov/workspace/contract/opp/3752a65feabc46978379104ff2c2738f/view"
+   }
+  },
+  {
    "key": "close-94b02ca324074818825ed7c16bf6278d",
    "source": "deadlines-solicitations",
    "fields": {
@@ -756,19 +782,6 @@
     "text": "Group 1 Unmanned Aerial System (UAS) – Blue UAS Cleared",
     "title": "Group 1 Unmanned Aerial System (UAS) – Blue UAS Cleared",
     "url": "https://sam.gov/workspace/contract/opp/90c29a0d88b742a8b2bfc6a3f1d1f1dd/view"
-   }
-  },
-  {
-   "key": "close-1048c32ff3d8446a9eb44c2cc6d58469",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION GREAT LAKES AND OHIO.ENDIST LOUISVILLE.W072 ENDIST LOUISVILLE",
-    "closes": "2026-06-29",
-    "date": "2026-06-29",
-    "from": "pipeline",
-    "text": "Unmanned Fusion Warfare Laboratory at NSWC Crane IN",
-    "title": "Unmanned Fusion Warfare Laboratory at NSWC Crane IN",
-    "url": "https://sam.gov/workspace/contract/opp/1048c32ff3d8446a9eb44c2cc6d58469/view"
    }
   },
   {

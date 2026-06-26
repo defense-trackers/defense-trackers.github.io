@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-06-26T09:54:39Z",
+ "fetched_at": "2026-06-26T20:24:14Z",
  "schema_version": 1,
  "records": [
   {
@@ -712,6 +712,35 @@
    }
   },
   {
+   "key": "fc481cc48afe44e68bc09b4483a104c2",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.ONR.ONR NRL.NAVAL RESEARCH LABORATORY",
+    "closes": "2026-06-30T08:00:00-04:00",
+    "number": "N0017326Q5318",
+    "posted": "2026-06-26",
+    "text": "N0017326Q5318 - HII UNMANNED SYSTEMS",
+    "title": "N0017326Q5318 - HII UNMANNED SYSTEMS",
+    "type": "Special Notice",
+    "url": "https://sam.gov/workspace/contract/opp/fc481cc48afe44e68bc09b4483a104c2/view"
+   }
+  },
+  {
+   "key": "3752a65feabc46978379104ff2c2738f",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION GREAT LAKES AND OHIO.ENDIST LOUISVILLE.W072 ENDIST LOUISVILLE",
+    "closes": "2026-07-20T13:00:00-04:00",
+    "number": "W912QR26BA017",
+    "posted": "2026-06-26",
+    "setaside": "Total Small Business Set-Aside (FAR 19.5)",
+    "text": "Unmanned Fusion Warfare Laboratory at NSWC Crane IN",
+    "title": "Unmanned Fusion Warfare Laboratory at NSWC Crane IN",
+    "type": "Solicitation",
+    "url": "https://sam.gov/workspace/contract/opp/3752a65feabc46978379104ff2c2738f/view"
+   }
+  },
+  {
    "key": "94b02ca324074818825ed7c16bf6278d",
    "source": "pipeline-sam-unmanned",
    "fields": {
@@ -808,21 +837,6 @@
     "title": "Group 1 Unmanned Aerial System (UAS) – Blue UAS Cleared",
     "type": "Sources Sought",
     "url": "https://sam.gov/workspace/contract/opp/90c29a0d88b742a8b2bfc6a3f1d1f1dd/view"
-   }
-  },
-  {
-   "key": "1048c32ff3d8446a9eb44c2cc6d58469",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION GREAT LAKES AND OHIO.ENDIST LOUISVILLE.W072 ENDIST LOUISVILLE",
-    "closes": "2026-06-29T13:00:00-04:00",
-    "number": "W912QR26BA017",
-    "posted": "2026-06-17",
-    "setaside": "Total Small Business Set-Aside (FAR 19.5)",
-    "text": "Unmanned Fusion Warfare Laboratory at NSWC Crane IN",
-    "title": "Unmanned Fusion Warfare Laboratory at NSWC Crane IN",
-    "type": "Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/1048c32ff3d8446a9eb44c2cc6d58469/view"
    }
   },
   {
