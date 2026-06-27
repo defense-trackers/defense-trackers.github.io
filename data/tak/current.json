@@ -1,7 +1,7 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-06-27T09:08:36Z",
+ "fetched_at": "2026-06-27T19:58:57Z",
  "schema_version": 1,
  "records": [
   {
@@ -32,7 +32,7 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-06-27T03:25:59Z",
+    "date": "2026-06-27T14:04:26Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "45",
     "text": "takwerx/infra-TAK",
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-06-27T09:04:54Z",
+    "date": "2026-06-27T17:55:04Z",
     "description": "full port of Reticulum and LXMF to Rust with added SDK",
     "stars": "18",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -734,7 +734,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-06-26T22:52:54Z",
+    "date": "2026-06-27T18:49:16Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "18",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -754,15 +754,38 @@
    }
   },
   {
+   "key": "atakmaps/TAK-MESHCORE",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-06-27T19:34:30Z",
+    "description": "ATAK MeshCore plugin",
+    "stars": "18",
+    "text": "atakmaps/TAK-MESHCORE",
+    "title": "atakmaps/TAK-MESHCORE",
+    "url": "https://github.com/atakmaps/TAK-MESHCORE"
+   }
+  },
+  {
    "key": "libre-7/atak-callout",
    "source": "tak-github",
    "fields": {
-    "date": "2026-06-27T04:10:53Z",
+    "date": "2026-06-27T19:13:53Z",
     "description": "Callout — paging/alerting system for ATAK. Plugin + standalone app with multi-transport sync (TAK server, UDP mesh, offline).",
     "stars": "0",
     "text": "libre-7/atak-callout",
     "title": "libre-7/atak-callout",
     "url": "https://github.com/libre-7/atak-callout"
+   }
+  },
+  {
+   "key": "shigeki7299/ATAK_Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-06-27T12:52:38Z",
+    "stars": "0",
+    "text": "shigeki7299/ATAK_Plugin",
+    "title": "shigeki7299/ATAK_Plugin",
+    "url": "https://github.com/shigeki7299/ATAK_Plugin"
    }
   },
   {
@@ -774,18 +797,6 @@
     "text": "clodzeischi/fakeDRON-ATAK-Plugin",
     "title": "clodzeischi/fakeDRON-ATAK-Plugin",
     "url": "https://github.com/clodzeischi/fakeDRON-ATAK-Plugin"
-   }
-  },
-  {
-   "key": "atakmaps/TAK-MESHCORE",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-06-27T02:17:59Z",
-    "description": "ATAK MeshCore plugin",
-    "stars": "18",
-    "text": "atakmaps/TAK-MESHCORE",
-    "title": "atakmaps/TAK-MESHCORE",
-    "url": "https://github.com/atakmaps/TAK-MESHCORE"
    }
   },
   {
@@ -810,17 +821,6 @@
     "text": "247-Group/ATAK-sensor-effector-plugin",
     "title": "247-Group/ATAK-sensor-effector-plugin",
     "url": "https://github.com/247-Group/ATAK-sensor-effector-plugin"
-   }
-  },
-  {
-   "key": "shigeki7299/ATAK_Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-06-25T04:59:15Z",
-    "stars": "0",
-    "text": "shigeki7299/ATAK_Plugin",
-    "title": "shigeki7299/ATAK_Plugin",
-    "url": "https://github.com/shigeki7299/ATAK_Plugin"
    }
   },
   {

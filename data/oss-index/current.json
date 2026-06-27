@@ -1,7 +1,7 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-06-27T09:08:00Z",
+ "fetched_at": "2026-06-27T19:58:21Z",
  "schema_version": 1,
  "records": [
   {
@@ -560,7 +560,7 @@
    "key": "idaholab/moose",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-06-27T09:02:37Z",
+    "date": "2026-06-27T15:39:48Z",
     "description": "Multiphysics Object Oriented Simulation Environment",
     "stars": "2280",
     "text": "idaholab/moose",
@@ -574,7 +574,7 @@
    "fields": {
     "date": "2026-06-04T16:46:38Z",
     "description": "RAVEN is a flexible and multi-purpose probabilistic risk analysis, validation and uncertainty quantification, parameter optimization, model reduction and data knowledge-discovering framework.",
-    "stars": "261",
+    "stars": "260",
     "text": "idaholab/raven",
     "title": "idaholab/raven",
     "url": "https://github.com/idaholab/raven"
@@ -644,7 +644,7 @@
    "key": "idaholab/air",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-06-26T09:40:09Z",
+    "date": "2026-06-27T09:20:09Z",
     "stars": "0",
     "text": "idaholab/air",
     "title": "idaholab/air",
@@ -655,7 +655,7 @@
    "key": "idaholab/salamander",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-06-27T08:46:48Z",
+    "date": "2026-06-27T09:21:49Z",
     "description": "SALAMANDER is an application for performing system-level, engineering scale (i.e., at the scale of centimeters and meters), and microstructure-scale (i.e., at the scale of microns) multiphysics calculations related to magnetic confinement fusion energy systems.",
     "stars": "24",
     "text": "idaholab/salamander",
@@ -697,18 +697,6 @@
     "text": "lanl/LaGriT",
     "title": "lanl/LaGriT",
     "url": "https://github.com/lanl/LaGriT"
-   }
-  },
-  {
-   "key": "lanl/CosmicEmu",
-   "source": "oss-lanl",
-   "fields": {
-    "date": "2025-06-27T17:00:44Z",
-    "description": "Fast predictions for the matter power spectrum.",
-    "stars": "12",
-    "text": "lanl/CosmicEmu",
-    "title": "lanl/CosmicEmu",
-    "url": "https://github.com/lanl/CosmicEmu"
    }
   },
   {
@@ -765,7 +753,7 @@
    "fields": {
     "date": "2026-06-27T07:25:04Z",
     "description": "Simplified Data Exchange for HPC Simulations",
-    "stars": "244",
+    "stars": "245",
     "text": "llnl/conduit",
     "title": "llnl/conduit",
     "url": "https://github.com/llnl/conduit"
@@ -811,7 +799,7 @@
    "key": "llnl/RAJA",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-06-27T00:44:07Z",
+    "date": "2026-06-27T17:45:09Z",
     "description": "RAJA Performance Portability Layer (C++)",
     "stars": "585",
     "text": "llnl/RAJA",
@@ -1159,7 +1147,7 @@
    "fields": {
     "date": "2025-10-31T14:38:01Z",
     "description": "Configuration guidance for implementing application whitelisting with AppLocker. #nsacyber",
-    "stars": "241",
+    "stars": "242",
     "text": "nsacyber/AppLocker-Guidance",
     "title": "nsacyber/AppLocker-Guidance",
     "url": "https://github.com/nsacyber/AppLocker-Guidance"
@@ -1410,7 +1398,7 @@
    "fields": {
     "date": "2026-05-21T18:01:22Z",
     "description": "Suncal - Sandia PSL Uncertainty Calculator",
-    "stars": "21",
+    "stars": "22",
     "text": "sandialabs/suncal",
     "title": "sandialabs/suncal",
     "url": "https://github.com/sandialabs/suncal"
