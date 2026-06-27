@@ -1,9 +1,29 @@
 {
  "source": "authorizations",
  "tracker": "authorizations",
- "fetched_at": "2026-06-26T20:22:57Z",
+ "fetched_at": "2026-06-27T09:06:55Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "FR2220654178",
+   "source": "authorizations-fedramp",
+   "fields": {
+    "date": "2026-06-26T20:00:00.000Z",
+    "status": "Now in Agency Review",
+    "text": "Tyler Federal Cloud Platform (TFCP)",
+    "title": "Tyler Federal Cloud Platform (TFCP)"
+   }
+  },
+  {
+   "key": "FR2024952734",
+   "source": "authorizations-fedramp",
+   "fields": {
+    "date": "2026-06-26T20:00:00.000Z",
+    "status": "Now FedRAMP Ready",
+    "text": "EgnyteGov",
+    "title": "EgnyteGov"
+   }
+  },
   {
    "key": "FR2620235600",
    "source": "authorizations-fedramp",
@@ -12,26 +32,6 @@
     "status": "Now Authorized",
     "text": "Anecdotes",
     "title": "Anecdotes"
-   }
-  },
-  {
-   "key": "FR2529360449",
-   "source": "authorizations-fedramp",
-   "fields": {
-    "date": "2026-06-23T20:00:00.000Z",
-    "status": "Now Authorized",
-    "text": "Secureframe Platform",
-    "title": "Secureframe Platform"
-   }
-  },
-  {
-   "key": "FR2527132001",
-   "source": "authorizations-fedramp",
-   "fields": {
-    "date": "2026-06-22T20:00:00.000Z",
-    "status": "Now Authorized",
-    "text": "Asana",
-    "title": "Asana"
    }
   },
   {
@@ -1057,20 +1057,6 @@
    }
   },
   {
-   "key": "FR2504062150",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Coalfire Systems, Inc.",
-    "date": "2025-11-13T20:00:00.000Z",
-    "impact": "High",
-    "model": "SaaS",
-    "status": "FedRAMP Authorized",
-    "text": "IBM Federal ATOM",
-    "title": "IBM Federal ATOM",
-    "url": "https://ibm-atom.com/"
-   }
-  },
-  {
    "key": "FR2524349489",
    "source": "authorizations-fedramp-ai",
    "fields": {
@@ -1082,6 +1068,20 @@
     "text": "IBM Data Services for Government",
     "title": "IBM Data Services for Government",
     "url": "ibm.com"
+   }
+  },
+  {
+   "key": "FR2504062150",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Coalfire Systems, Inc.",
+    "date": "2025-11-13T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "IBM Federal ATOM",
+    "title": "IBM Federal ATOM",
+    "url": "https://ibm-atom.com/"
    }
   },
   {
@@ -1127,16 +1127,16 @@
    }
   },
   {
-   "key": "FR2535459236",
+   "key": "FR2031155471",
    "source": "authorizations-fedramp-ai",
    "fields": {
-    "assessor": "Coalfire Systems, Inc.",
-    "date": "2026-04-15T20:00:00.000Z",
-    "impact": "High",
+    "assessor": "Lazarus Alliance, Inc.",
+    "date": "2025-03-26T20:00:00.000Z",
+    "impact": "Moderate",
     "model": "SaaS",
     "status": "FedRAMP Authorized",
-    "text": "Iron Mountain InSight for Government",
-    "title": "Iron Mountain InSight for Government",
+    "text": "Iron Mountain InSight",
+    "title": "Iron Mountain InSight",
     "url": "https://www.ironmountain.com/services/insight-digital-experience-platform"
    }
   },
@@ -2009,20 +2009,6 @@
    }
   },
   {
-   "key": "FR2502148523",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "model": "SaaS",
-    "status": "Agency In Process",
-    "text": "Thomson Reuters Legal Research (TR LR)",
-    "title": "Thomson Reuters Legal Research (TR LR)",
-    "url": "https://legal.thomsonreuters.com/en/westlaw"
-   }
-  },
-  {
    "key": "FR2333543855",
    "source": "authorizations-fedramp-ai",
    "fields": {
@@ -2034,6 +2020,20 @@
     "text": "Thomson Reuters Risk \u0026 Fraud (TR R\u0026F)",
     "title": "Thomson Reuters Risk \u0026 Fraud (TR R\u0026F)",
     "url": "https://legal.thomsonreuters.com/en/products/clear"
+   }
+  },
+  {
+   "key": "FR2502148523",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "Agency In Process",
+    "text": "Thomson Reuters Legal Research (TR LR)",
+    "title": "Thomson Reuters Legal Research (TR LR)",
+    "url": "https://legal.thomsonreuters.com/en/westlaw"
    }
   },
   {
@@ -2191,16 +2191,16 @@
    }
   },
   {
-   "key": "FR2421252636",
+   "key": "FR2421252644",
    "source": "authorizations-fedramp-ai",
    "fields": {
     "assessor": "Schellman Compliance, LLC",
-    "date": "2025-05-14T20:00:00.000Z",
+    "date": "2025-06-16T20:00:00.000Z",
     "impact": "Moderate",
     "model": "SaaS",
     "status": "FedRAMP Authorized",
-    "text": "Varonis Data Security Platform",
-    "title": "Varonis Data Security Platform",
+    "text": "Varonis DatAdvantage Cloud",
+    "title": "Varonis DatAdvantage Cloud",
     "url": "https://www.varonis.com"
    }
   },
@@ -2303,16 +2303,16 @@
    }
   },
   {
-   "key": "FR2219763604",
+   "key": "FR2227062482",
    "source": "authorizations-fedramp-ai",
    "fields": {
     "assessor": "Schellman Compliance, LLC",
-    "date": "2022-11-07T20:00:00.000Z",
-    "impact": "Moderate",
+    "date": "2022-07-02T20:00:00.000Z",
+    "impact": "High",
     "model": "SaaS",
     "status": "FedRAMP Authorized",
-    "text": "Zscaler Private Access - Government (Zero Trust Exchange - VPN Replacement)",
-    "title": "Zscaler Private Access - Government (Zero Trust Exchange - VPN Replacement)",
+    "text": "Zscaler Internet Access - Government (Secure Web Gateway - vTIC) - High",
+    "title": "Zscaler Internet Access - Government (Secure Web Gateway - vTIC) - High",
     "url": "https://www.zscaler.com/"
    }
   }

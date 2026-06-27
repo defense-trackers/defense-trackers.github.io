@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-06-26T20:24:38Z",
+ "fetched_at": "2026-06-27T09:08:38Z",
  "schema_version": 1,
  "records": [
   {
@@ -93,7 +93,7 @@
    "source": "transition-prototype",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "2.003221819e+08",
+    "amount": "2.0739176741e+08",
     "description": "TECHNICAL SUPPORT FOR PROTOTYPE INTEGRATION FACILITY (PIF)",
     "text": "BOOZ ALLEN HAMILTON INC",
     "title": "BOOZ ALLEN HAMILTON INC",
@@ -105,7 +105,7 @@
    "source": "transition-prototype",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "167832626",
+    "amount": "167885264",
     "description": "OPERATIONAL, TECHNICAL, ENGINEERING, AND TRANSITION ANALYSIS FOR DEVELOPMENT AND DEPLOYMENT OF EMERGING CAPABILITIES AND PROTOTYPES FOR COUNTERING - UNMANNED SYSTEMS THREATS",
     "text": "AMENTUM SERVICES, INC.",
     "title": "AMENTUM SERVICES, INC.",
@@ -999,7 +999,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "8.30241891871e+09",
+    "amount": "8.30238086143e+09",
     "award_id": "HT940223C0001",
     "description": "TRICARE MANAGED CARE SUPPORT SERVICES CONTRACT, 5TH GENERATION EAST REGION",
     "text": "HUMANA GOVERNMENT BUSINESS INC",
@@ -1180,7 +1180,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "6.82670111274e+09",
+    "amount": "6.82873710474e+09",
     "award_id": "N0002418C2307",
     "description": "FY18-FY22 DDG 51 CLASS SHIP CONSTRUCTION",
     "text": "HUNTINGTON INGALLS INCORPORATED",
@@ -1199,19 +1199,6 @@
     "text": "LOCKHEED MARTIN CORPORATION",
     "title": "LOCKHEED MARTIN CORPORATION",
     "url": "https://www.usaspending.gov/award/CONT_AWD_N0001924C0039_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_N0002408C2110_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "6.64571096011e+09",
-    "award_id": "N0002408C2110",
-    "description": "TAS::17 1611::TAS CVN 78 SHIP CONSTRUCTION",
-    "text": "HUNTINGTON INGALLS INC",
-    "title": "HUNTINGTON INGALLS INC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_N0002408C2110_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -1251,6 +1238,18 @@
     "text": "OSHKOSH DEFENSE LLC",
     "title": "OSHKOSH DEFENSE LLC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W56HZV15C0095_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_N0001906C0081_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "6.10328553196e+09",
+    "award_id": "N0001906C0081",
+    "text": "SIKORSKY AIRCRAFT CORPORATION",
+    "title": "SIKORSKY AIRCRAFT CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_N0001906C0081_9700_-NONE-_-NONE-/"
    }
   }
  ]
