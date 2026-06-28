@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-06-27T19:59:00Z",
+ "fetched_at": "2026-06-28T09:35:47Z",
  "schema_version": 1,
  "records": [
   {
@@ -545,18 +545,6 @@
    }
   },
   {
-   "key": "CONT_AWD_MU62_9700_N0017804D4149_9700",
-   "source": "transition-prototype",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "2.599210008e+07",
-    "description": "IGF::OT::IGF THE PROGRAM MANAGER, ADVANCED AMPHIBIOUS ASSAULT (PM AAA) HAS A SUPPORT REQUIREMENT TO MAINTAIN MASTER VEHICLE CONFIGURATION ASSAULT AMPHIBIOUS VEHICLES (AAVS) WITHIN LOCAL TRAVEL DISTANCE OF MARINE CORPS BASE QUANTICO, VA.  THESE VEHICLES ARE USED FOR TEST AND EVALUATION PURPOSES TO SUPPORT OBSOLESCENCE AND FACT-OF-LIFE CHANGES.  THIS EFFORT INCLUDES: PROGRAM/PROJECT MANAGEMENT, MAINTENANCE SERVICES, PROTOTYPE FABRICATION AND INSTALLATION AS WELL AS TEST AND EVALUATION CAPABILITIES.",
-    "text": "VSE CORPORATION",
-    "title": "VSE CORPORATION",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_MU62_9700_N0017804D4149_9700/"
-   }
-  },
-  {
    "key": "CONT_AWD_FA807523F0012_9700_FA807518D0014_9700",
    "source": "transition-prototype",
    "fields": {
@@ -602,6 +590,18 @@
     "text": "YULISTA SUPPORT SERVICES LLC",
     "title": "YULISTA SUPPORT SERVICES LLC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W56KGU21F0004_9700_W56KGU19D0002_9700/"
+   }
+  },
+  {
+   "key": "CONT_AWD_W56HZV24C0029_9700_-NONE-_-NONE-",
+   "source": "transition-prototype",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "2.258335352e+07",
+    "description": "ARV-30 PROTOTYPE VEHICLE PROCUREMENT.",
+    "text": "TEXTRON SYSTEMS CORPORATION",
+    "title": "TEXTRON SYSTEMS CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W56HZV24C0029_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -973,7 +973,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "8.33612701092e+09",
+    "amount": "8.43532033307e+09",
     "award_id": "FA880219C0001",
     "description": "FY19 ENGINEERING SERVICES",
     "text": "THE AEROSPACE CORPORATION",
