@@ -1,7 +1,7 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-06-28T20:00:36Z",
+ "fetched_at": "2026-06-29T11:27:08Z",
  "schema_version": 1,
  "records": [
   {
@@ -32,7 +32,7 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-06-28T19:57:18Z",
+    "date": "2026-06-29T06:35:12Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "45",
     "text": "takwerx/infra-TAK",
@@ -140,7 +140,7 @@
    "key": "emfoursolutions/trakbridge",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-06-28T17:25:15Z",
+    "date": "2026-06-28T23:56:58Z",
     "description": "A comprehensive web application for bridging tracking devices and services to TAK (Team Awareness Kit) servers.",
     "stars": "37",
     "text": "emfoursolutions/trakbridge",
@@ -616,9 +616,9 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-06-26T22:52:29Z",
+    "date": "2026-06-28T20:10:49Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
-    "stars": "86",
+    "stars": "88",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
     "title": "FreeTAKTeam/Reticulum-Community-Hub",
     "url": "https://github.com/FreeTAKTeam/Reticulum-Community-Hub"
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-06-28T16:49:04Z",
+    "date": "2026-06-29T10:25:18Z",
     "description": "full port of Reticulum and LXMF to Rust with added SDK",
     "stars": "18",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -734,7 +734,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-06-28T18:37:18Z",
+    "date": "2026-06-29T00:27:00Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "18",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -754,6 +754,30 @@
    }
   },
   {
+   "key": "kd2var/aprsdroid-atak-plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-06-29T06:59:26Z",
+    "description": "ATAK Plugin that pulls position data from APRSdroid into ATAK",
+    "stars": "1",
+    "text": "kd2var/aprsdroid-atak-plugin",
+    "title": "kd2var/aprsdroid-atak-plugin",
+    "url": "https://github.com/kd2var/aprsdroid-atak-plugin"
+   }
+  },
+  {
+   "key": "libre-7/atak-callout",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-06-29T04:42:48Z",
+    "description": "Callout — paging/alerting system for ATAK. Plugin + standalone app with multi-transport sync (TAK server, UDP mesh, offline).",
+    "stars": "0",
+    "text": "libre-7/atak-callout",
+    "title": "libre-7/atak-callout",
+    "url": "https://github.com/libre-7/atak-callout"
+   }
+  },
+  {
    "key": "shigeki7299/ATAK_Plugin",
    "source": "tak-github",
    "fields": {
@@ -770,22 +794,10 @@
    "fields": {
     "date": "2026-06-28T06:47:01Z",
     "description": "ATAK MeshCore plugin",
-    "stars": "18",
+    "stars": "19",
     "text": "atakmaps/TAK-MESHCORE",
     "title": "atakmaps/TAK-MESHCORE",
     "url": "https://github.com/atakmaps/TAK-MESHCORE"
-   }
-  },
-  {
-   "key": "libre-7/atak-callout",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-06-28T00:10:21Z",
-    "description": "Callout — paging/alerting system for ATAK. Plugin + standalone app with multi-transport sync (TAK server, UDP mesh, offline).",
-    "stars": "0",
-    "text": "libre-7/atak-callout",
-    "title": "libre-7/atak-callout",
-    "url": "https://github.com/libre-7/atak-callout"
    }
   },
   {
@@ -833,18 +845,6 @@
     "text": "newtypeind/atak-mcp",
     "title": "newtypeind/atak-mcp",
     "url": "https://github.com/newtypeind/atak-mcp"
-   }
-  },
-  {
-   "key": "kd2var/aprsdroid-atak-plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-06-24T03:24:27Z",
-    "description": "ATAK Plugin that pulls position data from APRSdroid into ATAK",
-    "stars": "1",
-    "text": "kd2var/aprsdroid-atak-plugin",
-    "title": "kd2var/aprsdroid-atak-plugin",
-    "url": "https://github.com/kd2var/aprsdroid-atak-plugin"
    }
   },
   {
