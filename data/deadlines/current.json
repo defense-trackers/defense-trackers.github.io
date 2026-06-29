@@ -1,7 +1,7 @@
 {
  "source": "deadlines",
  "tracker": "deadlines",
- "fetched_at": "2026-06-29T11:27:10Z",
+ "fetched_at": "2026-06-29T20:33:07Z",
  "schema_version": 1,
  "records": [
   {
@@ -603,6 +603,19 @@
    }
   },
   {
+   "key": "close-7068ea19a03f4fdc9557635224ccdb54",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-DTA.W6QK ACC- DTA",
+    "closes": "2026-07-22",
+    "date": "2026-07-22",
+    "from": "pipeline",
+    "text": "Robotic and Autonomous Construction Equipment (RA-CE)",
+    "title": "Robotic and Autonomous Construction Equipment (RA-CE)",
+    "url": "https://sam.gov/workspace/contract/opp/7068ea19a03f4fdc9557635224ccdb54/view"
+   }
+  },
+  {
    "key": "close-fe160646349f4fe5be0b5de848707080",
    "source": "deadlines-solicitations",
    "fields": {
@@ -655,16 +668,42 @@
    }
   },
   {
-   "key": "close-484a30fde304499a8a86ff4d98702959",
+   "key": "close-7397bf62dffb4c6690f4cbaa7d3b0c77",
    "source": "deadlines-solicitations",
    "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-DTA.W6QK ACC- DTA",
-    "closes": "2026-07-08",
-    "date": "2026-07-08",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.WEAPONS.FA8520  AFLCMC EBUK",
+    "closes": "2026-07-31",
+    "date": "2026-07-31",
     "from": "pipeline",
-    "text": "Robotic and Autonomous Construction Equipment (RA-CE)",
-    "title": "Robotic and Autonomous Construction Equipment (RA-CE)",
-    "url": "https://sam.gov/workspace/contract/opp/484a30fde304499a8a86ff4d98702959/view"
+    "text": "Man-portable, Handheld, Counter-Unmanned System (MPHC)",
+    "title": "Man-portable, Handheld, Counter-Unmanned System (MPHC)",
+    "url": "https://sam.gov/workspace/contract/opp/7397bf62dffb4c6690f4cbaa7d3b0c77/view"
+   }
+  },
+  {
+   "key": "close-72ca53ca70214f139a9c8fecb0c1d75b",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.USMC.MARCOR SYSCOM.COMMANDER",
+    "closes": "2026-07-23",
+    "date": "2026-07-23",
+    "from": "pipeline",
+    "text": "Request for White Papers - Organic Counter Small Unmanned Aircraft System (O-CsUAS) Dismounted Sensors",
+    "title": "Request for White Papers - Organic Counter Small Unmanned Aircraft System (O-CsUAS) Dismounted Sensors",
+    "url": "https://sam.gov/workspace/contract/opp/72ca53ca70214f139a9c8fecb0c1d75b/view"
+   }
+  },
+  {
+   "key": "close-72715edb45fe47de9ebd8179cbfc2d33",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.USMC.MARCOR SYSCOM.COMMANDER",
+    "closes": "2026-07-23",
+    "date": "2026-07-23",
+    "from": "pipeline",
+    "text": "Request for White Papers - Organic Counter Small Unmanned Aircraft System Dismounted Effectors",
+    "title": "Request for White Papers - Organic Counter Small Unmanned Aircraft System Dismounted Effectors",
+    "url": "https://sam.gov/workspace/contract/opp/72715edb45fe47de9ebd8179cbfc2d33/view"
    }
   },
   {
@@ -691,45 +730,6 @@
     "text": "Unmanned Fusion Warfare Laboratory at NSWC Crane IN",
     "title": "Unmanned Fusion Warfare Laboratory at NSWC Crane IN",
     "url": "https://sam.gov/workspace/contract/opp/3752a65feabc46978379104ff2c2738f/view"
-   }
-  },
-  {
-   "key": "close-94b02ca324074818825ed7c16bf6278d",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.WEAPONS.FA8520  AFLCMC EBUK",
-    "closes": "2026-07-31",
-    "date": "2026-07-31",
-    "from": "pipeline",
-    "text": "Man-portable, Handheld, Counter-Unmanned System (MPHC)",
-    "title": "Man-portable, Handheld, Counter-Unmanned System (MPHC)",
-    "url": "https://sam.gov/workspace/contract/opp/94b02ca324074818825ed7c16bf6278d/view"
-   }
-  },
-  {
-   "key": "close-419b5b4538c6462c8c0704522542b2f1",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.USMC.MARCOR SYSCOM.COMMANDER",
-    "closes": "2026-07-23",
-    "date": "2026-07-23",
-    "from": "pipeline",
-    "text": "Request for White Papers - Organic Counter Small Unmanned Aircraft System (O-CsUAS) Dismounted Sensors",
-    "title": "Request for White Papers - Organic Counter Small Unmanned Aircraft System (O-CsUAS) Dismounted Sensors",
-    "url": "https://sam.gov/workspace/contract/opp/419b5b4538c6462c8c0704522542b2f1/view"
-   }
-  },
-  {
-   "key": "close-00f0c762edaa476b9c446ed81bfe9249",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.USMC.MARCOR SYSCOM.COMMANDER",
-    "closes": "2026-07-23",
-    "date": "2026-07-23",
-    "from": "pipeline",
-    "text": "Request for White Papers - Organic Counter Small Unmanned Aircraft System Dismounted Effectors",
-    "title": "Request for White Papers - Organic Counter Small Unmanned Aircraft System Dismounted Effectors",
-    "url": "https://sam.gov/workspace/contract/opp/00f0c762edaa476b9c446ed81bfe9249/view"
    }
   },
   {

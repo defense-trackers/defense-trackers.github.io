@@ -1,7 +1,7 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-06-29T11:27:08Z",
+ "fetched_at": "2026-06-29T20:33:05Z",
  "schema_version": 1,
  "records": [
   {
@@ -32,7 +32,7 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-06-29T06:35:12Z",
+    "date": "2026-06-29T20:06:12Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "45",
     "text": "takwerx/infra-TAK",
@@ -140,7 +140,7 @@
    "key": "emfoursolutions/trakbridge",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-06-28T23:56:58Z",
+    "date": "2026-06-29T17:05:20Z",
     "description": "A comprehensive web application for bridging tracking devices and services to TAK (Team Awareness Kit) servers.",
     "stars": "37",
     "text": "emfoursolutions/trakbridge",
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-06-29T10:25:18Z",
+    "date": "2026-06-29T20:15:22Z",
     "description": "full port of Reticulum and LXMF to Rust with added SDK",
     "stars": "18",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -734,7 +734,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-06-29T00:27:00Z",
+    "date": "2026-06-29T20:26:05Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "18",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -754,6 +754,30 @@
    }
   },
   {
+   "key": "libre-7/atak-callout",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-06-29T20:12:45Z",
+    "description": "Callout — paging/alerting system for ATAK. Plugin + standalone app with multi-transport sync (TAK server, UDP mesh, offline).",
+    "stars": "0",
+    "text": "libre-7/atak-callout",
+    "title": "libre-7/atak-callout",
+    "url": "https://github.com/libre-7/atak-callout"
+   }
+  },
+  {
+   "key": "clodzeischi/eagle-6-ATAK",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-06-29T19:10:33Z",
+    "description": "This plugin is a split from the original Talon by SWF. The purpose of this plugin is to separate the UAS planning and reporting into a separate product to maximize configurable granularity.",
+    "stars": "0",
+    "text": "clodzeischi/eagle-6-ATAK",
+    "title": "clodzeischi/eagle-6-ATAK",
+    "url": "https://github.com/clodzeischi/eagle-6-ATAK"
+   }
+  },
+  {
    "key": "kd2var/aprsdroid-atak-plugin",
    "source": "tak-github",
    "fields": {
@@ -763,18 +787,6 @@
     "text": "kd2var/aprsdroid-atak-plugin",
     "title": "kd2var/aprsdroid-atak-plugin",
     "url": "https://github.com/kd2var/aprsdroid-atak-plugin"
-   }
-  },
-  {
-   "key": "libre-7/atak-callout",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-06-29T04:42:48Z",
-    "description": "Callout — paging/alerting system for ATAK. Plugin + standalone app with multi-transport sync (TAK server, UDP mesh, offline).",
-    "stars": "0",
-    "text": "libre-7/atak-callout",
-    "title": "libre-7/atak-callout",
-    "url": "https://github.com/libre-7/atak-callout"
    }
   },
   {
@@ -1081,18 +1093,6 @@
     "text": "niccellular/gadget",
     "title": "niccellular/gadget",
     "url": "https://github.com/niccellular/gadget"
-   }
-  },
-  {
-   "key": "TacticalSensorIntegration/atak-vns-routing-bundles",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-04-20T06:46:06Z",
-    "description": "Pre-built offline routing bundles for the ATAK VNS plugin — Australia and other regions, ready to drop onto the device.",
-    "stars": "1",
-    "text": "TacticalSensorIntegration/atak-vns-routing-bundles",
-    "title": "TacticalSensorIntegration/atak-vns-routing-bundles",
-    "url": "https://github.com/TacticalSensorIntegration/atak-vns-routing-bundles"
    }
   },
   {
