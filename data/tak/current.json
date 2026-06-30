@@ -1,9 +1,21 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-06-30T10:05:03Z",
+ "fetched_at": "2026-06-30T20:34:55Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "emfoursolutions/trakbridge",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-06-30T17:15:23Z",
+    "description": "A comprehensive web application for bridging tracking devices and services to TAK (Team Awareness Kit) servers.",
+    "stars": "36",
+    "text": "emfoursolutions/trakbridge",
+    "title": "emfoursolutions/trakbridge",
+    "url": "https://github.com/emfoursolutions/trakbridge"
+   }
+  },
   {
    "key": "engindearing-projects/OmniTAK-iOS",
    "source": "tak-cot",
@@ -32,7 +44,7 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-06-30T03:58:27Z",
+    "date": "2026-06-30T19:38:44Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "45",
     "text": "takwerx/infra-TAK",
@@ -134,18 +146,6 @@
     "text": "coreywagehoft/go-tak",
     "title": "coreywagehoft/go-tak",
     "url": "https://github.com/coreywagehoft/go-tak"
-   }
-  },
-  {
-   "key": "emfoursolutions/trakbridge",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-06-29T23:51:21Z",
-    "description": "A comprehensive web application for bridging tracking devices and services to TAK (Team Awareness Kit) servers.",
-    "stars": "37",
-    "text": "emfoursolutions/trakbridge",
-    "title": "emfoursolutions/trakbridge",
-    "url": "https://github.com/emfoursolutions/trakbridge"
    }
   },
   {
@@ -616,7 +616,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-06-28T20:10:49Z",
+    "date": "2026-06-30T13:03:17Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "88",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -699,9 +699,9 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-06-30T09:51:30Z",
+    "date": "2026-06-30T19:21:41Z",
     "description": "full port of Reticulum and LXMF to Rust with added SDK",
-    "stars": "18",
+    "stars": "19",
     "text": "FreeTAKTeam/LXMF-rs",
     "title": "FreeTAKTeam/LXMF-rs",
     "url": "https://github.com/FreeTAKTeam/LXMF-rs"
@@ -734,7 +734,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-06-29T20:48:19Z",
+    "date": "2026-06-30T13:04:59Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "18",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -751,6 +751,18 @@
     "text": "FreeTAKTeam/R3AKTClient",
     "title": "FreeTAKTeam/R3AKTClient",
     "url": "https://github.com/FreeTAKTeam/R3AKTClient"
+   }
+  },
+  {
+   "key": "libre-7/atak-callout",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-06-30T13:30:34Z",
+    "description": "Callout — paging/alerting system for ATAK. Plugin + standalone app with multi-transport sync (TAK server, UDP mesh, offline).",
+    "stars": "0",
+    "text": "libre-7/atak-callout",
+    "title": "libre-7/atak-callout",
+    "url": "https://github.com/libre-7/atak-callout"
    }
   },
   {
@@ -775,18 +787,6 @@
     "text": "kd2var/aprsdroid-atak-plugin",
     "title": "kd2var/aprsdroid-atak-plugin",
     "url": "https://github.com/kd2var/aprsdroid-atak-plugin"
-   }
-  },
-  {
-   "key": "libre-7/atak-callout",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-06-29T20:12:45Z",
-    "description": "Callout — paging/alerting system for ATAK. Plugin + standalone app with multi-transport sync (TAK server, UDP mesh, offline).",
-    "stars": "0",
-    "text": "libre-7/atak-callout",
-    "title": "libre-7/atak-callout",
-    "url": "https://github.com/libre-7/atak-callout"
    }
   },
   {
