@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-06-29T20:33:07Z",
+ "fetched_at": "2026-06-30T10:05:10Z",
  "schema_version": 1,
  "records": [
   {
@@ -113,6 +113,18 @@
    }
   },
   {
+   "key": "CONT_AWD_HQ014719F0023_9700_HQ014718D0004_9700",
+   "source": "transition-prototype",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1.6289351734e+08",
+    "description": "PROVIDE ANALYSIS TO INCLUDE DESIGN, DEVELOP, INTEGRATE, AND TEST AN AEGIS BMD MISSION PLANNER MODEL PROTOTYPE WHICH INCLUDES THE CERBERUS PROJECT IN ACCORDANCE WITH THE SOW, SECTION J, AND EXECUTING THE COMBAT SYSTEMS TASK ORDER TASKS. PSC AC23 EXPENDITURE TYPE 255.0 R\u0026D",
+    "text": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC",
+    "title": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_HQ014719F0023_9700_HQ014718D0004_9700/"
+   }
+  },
+  {
    "key": "CONT_AWD_HQ072723F1614_9700_HQ072716D0006_9700",
    "source": "transition-prototype",
    "fields": {
@@ -122,18 +134,6 @@
     "text": "RAYTHEON COMPANY",
     "title": "RAYTHEON COMPANY",
     "url": "https://www.usaspending.gov/award/CONT_AWD_HQ072723F1614_9700_HQ072716D0006_9700/"
-   }
-  },
-  {
-   "key": "CONT_AWD_HQ014719F0023_9700_HQ014718D0004_9700",
-   "source": "transition-prototype",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "1.5894888434e+08",
-    "description": "PROVIDE ANALYSIS TO INCLUDE DESIGN, DEVELOP, INTEGRATE, AND TEST AN AEGIS BMD MISSION PLANNER MODEL PROTOTYPE WHICH INCLUDES THE CERBERUS PROJECT IN ACCORDANCE WITH THE SOW, SECTION J, AND EXECUTING THE COMBAT SYSTEMS TASK ORDER TASKS. PSC AC23 EXPENDITURE TYPE 255.0 R\u0026D",
-    "text": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC",
-    "title": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_HQ014719F0023_9700_HQ014718D0004_9700/"
    }
   },
   {
@@ -774,6 +774,19 @@
    }
   },
   {
+   "key": "CONT_AWD_FA821920C0006_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1.339647892319e+10",
+    "award_id": "FA821920C0006",
+    "description": "GROUND-BASED STRATEGIC DETERRENT (GBSD) ENGINEERING AND MANUFACTURING DEVELOPMENT (EMD) AND EARLY PRODUCTION AND DEPLOYMENT (P\u0026D)",
+    "text": "NORTHROP GRUMMAN SYSTEMS CORP",
+    "title": "NORTHROP GRUMMAN SYSTEMS CORP",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA821920C0006_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_HT940212C0001_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -784,6 +797,19 @@
     "text": "UNITEDHEALTH MILITARY \u0026 VETERANS SERVICES, LLC",
     "title": "UNITEDHEALTH MILITARY \u0026 VETERANS SERVICES, LLC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_HT940212C0001_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_N0002416C2116_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1.256961252486e+10",
+    "award_id": "N0002416C2116",
+    "description": "CVN 80 ENGINEERING EFFORTS AND STEEL",
+    "text": "HUNTINGTON INGALLS INC",
+    "title": "HUNTINGTON INGALLS INC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_N0002416C2116_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -810,32 +836,6 @@
     "text": "LOCKHEED MARTIN CORPORATION",
     "title": "LOCKHEED MARTIN CORPORATION",
     "url": "https://www.usaspending.gov/award/CONT_AWD_N0001916C0033_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_N0002416C2116_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "1.189765513085e+10",
-    "award_id": "N0002416C2116",
-    "description": "CVN 80 ENGINEERING EFFORTS AND STEEL",
-    "text": "HUNTINGTON INGALLS INC",
-    "title": "HUNTINGTON INGALLS INC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_N0002416C2116_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_FA821920C0006_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "1.172040392319e+10",
-    "award_id": "FA821920C0006",
-    "description": "GROUND-BASED STRATEGIC DETERRENT (GBSD) ENGINEERING AND MANUFACTURING DEVELOPMENT (EMD) AND EARLY PRODUCTION AND DEPLOYMENT (P\u0026D)",
-    "text": "NORTHROP GRUMMAN SYSTEMS CORP",
-    "title": "NORTHROP GRUMMAN SYSTEMS CORP",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_FA821920C0006_9700_-NONE-_-NONE-/"
    }
   },
   {

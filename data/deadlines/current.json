@@ -1,7 +1,7 @@
 {
  "source": "deadlines",
  "tracker": "deadlines",
- "fetched_at": "2026-06-29T20:33:07Z",
+ "fetched_at": "2026-06-30T10:05:10Z",
  "schema_version": 1,
  "records": [
   {
@@ -460,6 +460,19 @@
    }
   },
   {
+   "key": "close-359236",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "Dept of the Army -- Materiel Command",
+    "closes": "2030-06-02",
+    "date": "2030-06-02",
+    "from": "pipeline",
+    "text": "Staff Research Program",
+    "title": "Staff Research Program",
+    "url": "https://www.grants.gov/search-results-detail/359236"
+   }
+  },
+  {
    "key": "close-347858",
    "source": "deadlines-solicitations",
    "fields": {
@@ -574,19 +587,6 @@
     "text": "(U) Request for Information: Next-Generation Procurement Artificial Intelligence (AI) Powered Acquisition Platform",
     "title": "(U) Request for Information: Next-Generation Procurement Artificial Intelligence (AI) Powered Acquisition Platform",
     "url": "https://sam.gov/workspace/contract/opp/ef2af4530adc4132a96c2b1c6faff80f/view"
-   }
-  },
-  {
-   "key": "close-3a9b6ba7ed424dbc96bd43a02e5c6a7a",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AF INSTALLATION \u0026 MISSION SUPPORT CENTER.FA8903  772 ESS PK",
-    "closes": "2026-06-29",
-    "date": "2026-06-29",
-    "from": "pipeline",
-    "text": "RFLP Artificial Intelligence (AI) Data Center Development at Joint Base Elmendorf Richardson, Eielson Air Force Base, and Clear Space Force Station",
-    "title": "RFLP Artificial Intelligence (AI) Data Center Development at Joint Base Elmendorf Richardson, Eielson Air Force Base, and Clear Space Force Station",
-    "url": "https://sam.gov/workspace/contract/opp/3a9b6ba7ed424dbc96bd43a02e5c6a7a/view"
    }
   },
   {

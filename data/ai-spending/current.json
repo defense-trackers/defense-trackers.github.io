@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-06-29T20:31:18Z",
+ "fetched_at": "2026-06-30T10:03:14Z",
  "schema_version": 1,
  "records": [
   {
@@ -21,7 +21,7 @@
    "source": "ai-spending-contracts",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "5.785006913e+07",
+    "amount": "6.78783572e+07",
     "description": "CONTRACT TO RESEARCH, DEVELOP, MODIFY, DEPLOY, OPERATE, AND MAINTAIN ARTIFICIAL INTELLIGENCE/MACHINE LEARNING (AI/ML) ALGORITHMS AND MODELS.",
     "text": "ECS FEDERAL, LLC",
     "title": "ECS FEDERAL, LLC",
@@ -521,6 +521,18 @@
    }
   },
   {
+   "key": "CONT_AWD_HR001126CE029_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "2278726",
+    "description": "SECURING ARTIFICIAL INTELLIGENCE FOR BATTLEFIELD EFFECTIVE ROBUSTNESS (SABER)",
+    "text": "LOCKHEED MARTIN CORPORATION",
+    "title": "LOCKHEED MARTIN CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_HR001126CE029_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_HQ003423F0294_9700_HQ003418D0005_9700",
    "source": "ai-spending-contracts",
    "fields": {
@@ -581,34 +593,22 @@
    }
   },
   {
-   "key": "CONT_AWD_HQ086026CE012_9700_-NONE-_-NONE-",
+   "key": "CONT_AWD_W5170126CA115_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "1958007",
-    "description": "ACTIVE PHYSICS-INFORMED GENERATIVE ARTIFICIAL INTELLIGENCE HYPERSONIC",
-    "text": "CORNERSTONE RESEARCH GROUP INC",
-    "title": "CORNERSTONE RESEARCH GROUP INC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_HQ086026CE012_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_FA865124FB014_9700_FA865121D0062_9700",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "1932900",
-    "description": "ARTIFICIAL INTELLIGENCE, DEEP LEARNING, AND MACHINE LEARNING FOR MUNITIONS AUTONOMOUS TARGET ACQUISITION",
-    "text": "DYNETICS, INC.",
-    "title": "DYNETICS, INC.",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_FA865124FB014_9700_FA865121D0062_9700/"
+    "amount": "1.9991269e+06",
+    "description": "THE DEVELOPMENT OF A CLOUD NATIVE, ARTIFICIAL INTELLIGENCE ENABLED DIGITAL STEWARDSHIP AS A SERVICE PLATFORM THAT AUTOMATES THE DETECTION, TRIAGE, AND CORRECTION OF DATA QUALITY ISSUES WITHIN THE ARMY INTEGRATED PERSONNEL AND PAY SYSTEM.",
+    "text": "XPERNO LP LLP",
+    "title": "XPERNO LP LLP",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W5170126CA115_9700_-NONE-_-NONE-/"
    }
   },
   {
    "key": "806026852",
    "source": "ai-spending-recipients",
    "fields": {
-    "amount": "6.357711669e+07",
+    "amount": "7.360540476e+07",
     "text": "ECS FEDERAL, LLC",
     "title": "ECS FEDERAL, LLC",
     "url": "https://www.usaspending.gov/search"
