@@ -1,16 +1,16 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-06-30T20:34:55Z",
+ "fetched_at": "2026-07-01T10:19:30Z",
  "schema_version": 1,
  "records": [
   {
    "key": "emfoursolutions/trakbridge",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-06-30T17:15:23Z",
+    "date": "2026-06-30T23:51:38Z",
     "description": "A comprehensive web application for bridging tracking devices and services to TAK (Team Awareness Kit) servers.",
-    "stars": "36",
+    "stars": "37",
     "text": "emfoursolutions/trakbridge",
     "title": "emfoursolutions/trakbridge",
     "url": "https://github.com/emfoursolutions/trakbridge"
@@ -44,7 +44,7 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-06-30T19:38:44Z",
+    "date": "2026-07-01T00:38:49Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "45",
     "text": "takwerx/infra-TAK",
@@ -130,7 +130,7 @@
    "fields": {
     "date": "2026-04-29T06:19:09Z",
     "description": "High-performance Rust kernel for the TAK (Team Awareness Kit) ecosystem — drop-in replacement for the messaging core of the Java TAK Server. Cursor-on-Target (CoT) over mTLS, single-node firehose at 10k+ concurrent clients. Compatible with ATAK, iTAK, WinTAK.",
-    "stars": "2",
+    "stars": "3",
     "text": "copyleftdev/tak-rs",
     "title": "copyleftdev/tak-rs",
     "url": "https://github.com/copyleftdev/tak-rs"
@@ -214,7 +214,7 @@
    "fields": {
     "date": "2026-02-23T00:45:51Z",
     "description": "Reticulum mesh networking integration with ATAK (Android Team Awareness Kit) and Project Tango devices — hardware compatibility, CoT bridging, plugin architecture, and 3D sensor fusion for off-grid situational awareness.",
-    "stars": "1",
+    "stars": "2",
     "text": "5hay196/reticulum-atak-tango",
     "title": "5hay196/reticulum-atak-tango",
     "url": "https://github.com/5hay196/reticulum-atak-tango"
@@ -298,7 +298,7 @@
    "fields": {
     "date": "2025-04-02T19:43:50Z",
     "description": "A comprehensive TAK Server management solution providing a modern web interface for managing and monitoring TAK (Team Awareness Kit) servers.",
-    "stars": "21",
+    "stars": "22",
     "text": "JShadowNull/TAK-Manager",
     "title": "JShadowNull/TAK-Manager",
     "url": "https://github.com/JShadowNull/TAK-Manager"
@@ -618,7 +618,7 @@
    "fields": {
     "date": "2026-06-30T13:03:17Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
-    "stars": "88",
+    "stars": "89",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
     "title": "FreeTAKTeam/Reticulum-Community-Hub",
     "url": "https://github.com/FreeTAKTeam/Reticulum-Community-Hub"
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-06-30T19:21:41Z",
+    "date": "2026-06-30T22:45:05Z",
     "description": "full port of Reticulum and LXMF to Rust with added SDK",
     "stars": "19",
     "text": "FreeTAKTeam/LXMF-rs",

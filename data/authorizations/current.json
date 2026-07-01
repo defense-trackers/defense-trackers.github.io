@@ -1,9 +1,29 @@
 {
  "source": "authorizations",
  "tracker": "authorizations",
- "fetched_at": "2026-06-30T20:33:08Z",
+ "fetched_at": "2026-07-01T10:17:21Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "FR2625525331",
+   "source": "authorizations-fedramp",
+   "fields": {
+    "date": "2026-06-29T20:00:00.000Z",
+    "status": "Now in Agency Review",
+    "text": "Clearview GovCloud",
+    "title": "Clearview GovCloud"
+   }
+  },
+  {
+   "key": "FR2624455459",
+   "source": "authorizations-fedramp",
+   "fields": {
+    "date": "2026-06-29T20:00:00.000Z",
+    "status": "Now in Agency Review",
+    "text": "Valid8 Federal",
+    "title": "Valid8 Federal"
+   }
+  },
   {
    "key": "FR2220654178",
    "source": "authorizations-fedramp",
@@ -12,26 +32,6 @@
     "status": "Now in Agency Review",
     "text": "Tyler Federal Cloud Platform (TFCP)",
     "title": "Tyler Federal Cloud Platform (TFCP)"
-   }
-  },
-  {
-   "key": "FR2024952734",
-   "source": "authorizations-fedramp",
-   "fields": {
-    "date": "2026-06-26T20:00:00.000Z",
-    "status": "Now FedRAMP Ready",
-    "text": "EgnyteGov",
-    "title": "EgnyteGov"
-   }
-  },
-  {
-   "key": "FR2620235600",
-   "source": "authorizations-fedramp",
-   "fields": {
-    "date": "2026-06-23T20:00:00.000Z",
-    "status": "Now Authorized",
-    "text": "Anecdotes",
-    "title": "Anecdotes"
    }
   },
   {
@@ -455,20 +455,6 @@
    }
   },
   {
-   "key": "FR2523656707",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2026-03-05T20:00:00.000Z",
-    "impact": "Moderate",
-    "model": "SaaS",
-    "status": "FedRAMP Authorized",
-    "text": "Cisco ThousandEyes for Government",
-    "title": "Cisco ThousandEyes for Government",
-    "url": "https://www.thousandeyes.com/"
-   }
-  },
-  {
    "key": "FR2012534927",
    "source": "authorizations-fedramp-ai",
    "fields": {
@@ -480,6 +466,20 @@
     "text": "Cisco Catalyst SD-WAN for Government (SDWAN-G)",
     "title": "Cisco Catalyst SD-WAN for Government (SDWAN-G)",
     "url": "https://www.cisco.com/go/sdwan"
+   }
+  },
+  {
+   "key": "FR2523656707",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2026-03-05T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Cisco ThousandEyes for Government",
+    "title": "Cisco ThousandEyes for Government",
+    "url": "https://www.thousandeyes.com/"
    }
   },
   {
@@ -511,6 +511,20 @@
    }
   },
   {
+   "key": "FR2625525331",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "Not Active",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "Agency In Process",
+    "text": "Clearview GovCloud",
+    "title": "Clearview GovCloud",
+    "url": "https://www.clearview.ai/gov"
+   }
+  },
+  {
    "key": "FR2309544938",
    "source": "authorizations-fedramp-ai",
    "fields": {
@@ -525,16 +539,16 @@
    }
   },
   {
-   "key": "FR2000863987",
+   "key": "FR2000863987A",
    "source": "authorizations-fedramp-ai",
    "fields": {
     "assessor": "Schellman Compliance, LLC",
-    "date": "2022-12-12T20:00:00.000Z",
-    "impact": "Moderate",
+    "date": "Not Active",
+    "impact": "High",
     "model": "SaaS",
-    "status": "FedRAMP Authorized",
-    "text": "Cloudflare for Government",
-    "title": "Cloudflare for Government",
+    "status": "Agency In Process",
+    "text": "Cloudflare for Government - High",
+    "title": "Cloudflare for Government - High",
     "url": "https://www.cloudflare.com/cloudflare-for-government/"
    }
   },
@@ -1141,16 +1155,16 @@
    }
   },
   {
-   "key": "FR2031155471",
+   "key": "FR2535459236",
    "source": "authorizations-fedramp-ai",
    "fields": {
-    "assessor": "Lazarus Alliance, Inc.",
-    "date": "2025-03-26T20:00:00.000Z",
-    "impact": "Moderate",
+    "assessor": "Coalfire Systems, Inc.",
+    "date": "2026-04-15T20:00:00.000Z",
+    "impact": "High",
     "model": "SaaS",
     "status": "FedRAMP Authorized",
-    "text": "Iron Mountain InSight",
-    "title": "Iron Mountain InSight",
+    "text": "Iron Mountain InSight for Government",
+    "title": "Iron Mountain InSight for Government",
     "url": "https://www.ironmountain.com/services/insight-digital-experience-platform"
    }
   },
@@ -1407,6 +1421,20 @@
    }
   },
   {
+   "key": "FR2607654741",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Coalfire Systems, Inc.",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Ready",
+    "text": "Net-Inspect Enterprise Quality Management (EQM)",
+    "title": "Net-Inspect Enterprise Quality Management (EQM)",
+    "url": "net-inspect.com"
+   }
+  },
+  {
    "key": "FR2105946715",
    "source": "authorizations-fedramp-ai",
    "fields": {
@@ -1491,6 +1519,20 @@
    }
   },
   {
+   "key": "FR2001619708",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2024-03-14T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Idira Endpoint Privilege Manager for Government",
+    "title": "Idira Endpoint Privilege Manager for Government",
+    "url": "https://www.cyberark.com/products/endpoint-privilege-manager/"
+   }
+  },
+  {
    "key": "FR2001619337",
    "source": "authorizations-fedramp-ai",
    "fields": {
@@ -1516,20 +1558,6 @@
     "text": "GCS-HIGH",
     "title": "GCS-HIGH",
     "url": "http://www.paloaltonetworks.com/"
-   }
-  },
-  {
-   "key": "FR2001619708",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2024-03-14T20:00:00.000Z",
-    "impact": "High",
-    "model": "SaaS",
-    "status": "FedRAMP Authorized",
-    "text": "Idira Endpoint Privilege Manager for Government",
-    "title": "Idira Endpoint Privilege Manager for Government",
-    "url": "https://www.cyberark.com/products/endpoint-privilege-manager/"
    }
   },
   {
@@ -1925,14 +1953,14 @@
    }
   },
   {
-   "key": "FR2531434700",
+   "key": "FR2531434700XL",
    "source": "authorizations-fedramp-ai",
    "fields": {
     "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "Moderate",
+    "date": "2025-09-17T20:00:00.000Z",
+    "impact": "20x Low",
     "model": "SaaS",
-    "status": "Agency In Process",
+    "status": "FedRAMP Authorized",
     "text": "Palette VerteX",
     "title": "Palette VerteX",
     "url": "https://www.spectrocloud.com/"
@@ -2177,6 +2205,20 @@
    }
   },
   {
+   "key": "FR2624455459",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "Agency In Process",
+    "text": "Valid8 Federal",
+    "title": "Valid8 Federal",
+    "url": "valid8financial.com"
+   }
+  },
+  {
    "key": "FR2411443563",
    "source": "authorizations-fedramp-ai",
    "fields": {
@@ -2191,16 +2233,16 @@
    }
   },
   {
-   "key": "FR2525556241XM",
+   "key": "FR2525556241",
    "source": "authorizations-fedramp-ai",
    "fields": {
     "assessor": "Schellman Compliance, LLC",
-    "date": "2026-04-24T20:00:00.000Z",
-    "impact": "20x Moderate",
+    "date": "2025-07-25T20:00:00.000Z",
+    "impact": "20x Low",
     "model": "SaaS",
     "status": "FedRAMP Authorized",
-    "text": "Vanta Government Cloud",
-    "title": "Vanta Government Cloud",
+    "text": "Vanta Trust Management Platform",
+    "title": "Vanta Trust Management Platform",
     "url": "https://www.vanta.com/"
    }
   },

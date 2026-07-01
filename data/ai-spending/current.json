@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-06-30T20:33:06Z",
+ "fetched_at": "2026-07-01T10:17:18Z",
  "schema_version": 1,
  "records": [
   {
@@ -266,6 +266,30 @@
     "text": "STAMPEDE VENTURES, INC.",
     "title": "STAMPEDE VENTURES, INC.",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W911QX20F0088_9700_W911QX18D0003_9700/"
+   }
+  },
+  {
+   "key": "CONT_AWD_W909MY26F0009_9700_W909MY26D0002_9700",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "7.1893864e+06",
+    "description": "CYBER ANALYTICS AND DETECTION (CAD) OMNIBUS PROCUREMENT FOR MAINTENANCE, DEVELOPMENT, AND ARTIFICIAL INTELLIGENCE/MACHINE LEARNING (AI/ML) INTEGRATION.",
+    "text": "ENLIGHTEN IT CONSULTING LLC",
+    "title": "ENLIGHTEN IT CONSULTING LLC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W909MY26F0009_9700_W909MY26D0002_9700/"
+   }
+  },
+  {
+   "key": "CONT_AWD_N0002420F8032_9700_N0002413D6400_9700",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "5.94108932e+06",
+    "description": "MAVEN FOLLOW ON AND JOINT ARTIFICIAL INTELLIGENCE CENTER",
+    "text": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC",
+    "title": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_N0002420F8032_9700_N0002413D6400_9700/"
    }
   },
   {
@@ -578,30 +602,6 @@
     "text": "WALLAROO LABS INC",
     "title": "WALLAROO LABS INC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_FA864922P1090_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_W5170125CA290_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "1.99997164e+06",
-    "description": "TOPIC A224-016 - ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING (AI/ML) POWERED PLATFORM FOR ARMY ASSET TRACEABILITY, PREDICTIVE MAINTENANCE, AND QUALITY TRACKING",
-    "text": "R-DEX SYSTEMS, INC.",
-    "title": "R-DEX SYSTEMS, INC.",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W5170125CA290_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_W5170126CA115_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "1.9991269e+06",
-    "description": "THE DEVELOPMENT OF A CLOUD NATIVE, ARTIFICIAL INTELLIGENCE ENABLED DIGITAL STEWARDSHIP AS A SERVICE PLATFORM THAT AUTOMATES THE DETECTION, TRIAGE, AND CORRECTION OF DATA QUALITY ISSUES WITHIN THE ARMY INTEGRATED PERSONNEL AND PAY SYSTEM.",
-    "text": "XPERNO LP LLP",
-    "title": "XPERNO LP LLP",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W5170126CA115_9700_-NONE-_-NONE-/"
    }
   },
   {

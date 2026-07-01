@@ -1,9 +1,251 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-06-30T20:34:35Z",
+ "fetched_at": "2026-07-01T10:19:10Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "ef2af4530adc4132a96c2b1c6faff80f",
+   "source": "pipeline-sam-ai",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEFENSE INTELLIGENCE AGENCY (DIA).VIRGINIA CONTRACTING ACTIVITY",
+    "closes": "2026-07-02T12:00:00-04:00",
+    "number": "CFOAC2-OTA-RFI-FY26-01",
+    "posted": "2026-06-17",
+    "setaside": "No Set aside used",
+    "text": "(U) Request for Information: Next-Generation Procurement Artificial Intelligence (AI) Powered Acquisition Platform",
+    "title": "(U) Request for Information: Next-Generation Procurement Artificial Intelligence (AI) Powered Acquisition Platform",
+    "type": "Sources Sought",
+    "url": "https://sam.gov/workspace/contract/opp/ef2af4530adc4132a96c2b1c6faff80f/view"
+   }
+  },
+  {
+   "key": "0800655bb5714d68957ce0d5ee922938",
+   "source": "pipeline-sam-ai",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
+    "closes": "2026-08-25T14:00:00",
+    "number": "HR001126S0010",
+    "posted": "2026-06-10",
+    "text": "Decentralized Artificial Intelligence through Controlled Emergence (DICE)",
+    "title": "Decentralized Artificial Intelligence through Controlled Emergence (DICE)",
+    "type": "Solicitation",
+    "url": "https://sam.gov/workspace/contract/opp/0800655bb5714d68957ce0d5ee922938/view"
+   }
+  },
+  {
+   "key": "029de16a1f234bd0b4f55889f5fa52f0",
+   "source": "pipeline-sam-ai",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA8750  AFRL RIK",
+    "number": "FA875023S7006",
+    "posted": "2026-05-28",
+    "text": "ARTIFICIAL INTELLIGENCE AND NEXT GENERATION DISTRIBUTED COMMAND AND CONTROL",
+    "title": "ARTIFICIAL INTELLIGENCE AND NEXT GENERATION DISTRIBUTED COMMAND AND CONTROL",
+    "type": "Presolicitation",
+    "url": "https://sam.gov/workspace/contract/opp/029de16a1f234bd0b4f55889f5fa52f0/view"
+   }
+  },
+  {
+   "key": "7068ea19a03f4fdc9557635224ccdb54",
+   "source": "pipeline-sam-autonomy",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-DTA.W6QK ACC- DTA",
+    "closes": "2026-07-22T17:00:00-04:00",
+    "number": "PANDTA-26-P-0000RA-CE",
+    "posted": "2026-06-29",
+    "text": "Robotic and Autonomous Construction Equipment (RA-CE)",
+    "title": "Robotic and Autonomous Construction Equipment (RA-CE)",
+    "type": "Sources Sought",
+    "url": "https://sam.gov/workspace/contract/opp/7068ea19a03f4fdc9557635224ccdb54/view"
+   }
+  },
+  {
+   "key": "fe160646349f4fe5be0b5de848707080",
+   "source": "pipeline-sam-autonomy",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.US TRANSPORTATION COMMAND (USTRANSCOM)",
+    "closes": "2026-07-06T11:00:00-05:00",
+    "number": "USTC2026001",
+    "posted": "2026-06-25",
+    "setaside": "No Set aside used",
+    "text": "Assured Access to Maritime Autonomous Surface Ships RFI with additional keywords: Improving Military Supply Chain Sealift Transportation Via Assured Access to Dual-Use Maritime Autonomous Surface Ships",
+    "title": "Assured Access to Maritime Autonomous Surface Ships RFI with additional keywords: Improving Military Supply Chain Sealift Transportation Via Assured Access to Dual-Use Maritime Autonomous Surface Ships",
+    "type": "Special Notice",
+    "url": "https://sam.gov/workspace/contract/opp/fe160646349f4fe5be0b5de848707080/view"
+   }
+  },
+  {
+   "key": "ce4e88b51cb3419bbc5ad3458875cd7d",
+   "source": "pipeline-sam-autonomy",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEFENSE HEALTH AGENCY (DHA).DEFENSE HEALTH AGENCY",
+    "closes": "2026-07-15T12:00:00-04:00",
+    "number": "MTEC-26-02-Ventilator",
+    "posted": "2026-06-24",
+    "setaside": "No Set aside used",
+    "text": "MTEC Solicitation Summary: Autonomous Closed Loop Control Mechanical Ventilation (ACLCMV)",
+    "title": "MTEC Solicitation Summary: Autonomous Closed Loop Control Mechanical Ventilation (ACLCMV)",
+    "type": "Special Notice",
+    "url": "https://sam.gov/workspace/contract/opp/ce4e88b51cb3419bbc5ad3458875cd7d/view"
+   }
+  },
+  {
+   "key": "f95b52cedf5848bda4817b663f2926f7",
+   "source": "pipeline-sam-autonomy",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
+    "closes": "2026-07-22T17:00:00",
+    "number": "DARPA-SN-26-96",
+    "posted": "2026-06-23",
+    "text": "Advancing Autonomous Science for Biological Applications RFI",
+    "title": "Advancing Autonomous Science for Biological Applications RFI",
+    "type": "Special Notice",
+    "url": "https://sam.gov/workspace/contract/opp/f95b52cedf5848bda4817b663f2926f7/view"
+   }
+  },
+  {
+   "key": "441edd53d7314a34951b7e7c77575513",
+   "source": "pipeline-sam-autonomy",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NAVAL SURFACE WARFARE CENTER",
+    "closes": "2026-08-03T14:00:00-05:00",
+    "number": "N61331-26-SN9-0001",
+    "posted": "2026-06-18",
+    "setaside": "No Set aside used",
+    "text": "Other Transaction Authority (OTA) Consortium Request for Proposals (RFP) Seabed-Subsea, Littoral, Asymmetric-Autonomous, Mining and Mine Hunting, Expeditionary, Robotic (SLAM2ER) Consortium",
+    "title": "Other Transaction Authority (OTA) Consortium Request for Proposals (RFP) Seabed-Subsea, Littoral, Asymmetric-Autonomous, Mining and Mine Hunting, Expeditionary, Robotic (SLAM2ER) Consortium",
+    "type": "Solicitation",
+    "url": "https://sam.gov/workspace/contract/opp/441edd53d7314a34951b7e7c77575513/view"
+   }
+  },
+  {
+   "key": "7397bf62dffb4c6690f4cbaa7d3b0c77",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.WEAPONS.FA8520  AFLCMC EBUK",
+    "closes": "2026-07-31T17:00:00-04:00",
+    "number": "FA852026MPHC",
+    "posted": "2026-06-29",
+    "text": "Man-portable, Handheld, Counter-Unmanned System (MPHC)",
+    "title": "Man-portable, Handheld, Counter-Unmanned System (MPHC)",
+    "type": "Sources Sought",
+    "url": "https://sam.gov/workspace/contract/opp/7397bf62dffb4c6690f4cbaa7d3b0c77/view"
+   }
+  },
+  {
+   "key": "72ca53ca70214f139a9c8fecb0c1d75b",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.USMC.MARCOR SYSCOM.COMMANDER",
+    "closes": "2026-07-23T15:00:00-05:00",
+    "number": "M67854-26-R-0131",
+    "posted": "2026-06-29",
+    "text": "Request for White Papers - Organic Counter Small Unmanned Aircraft System (O-CsUAS) Dismounted Sensors",
+    "title": "Request for White Papers - Organic Counter Small Unmanned Aircraft System (O-CsUAS) Dismounted Sensors",
+    "type": "Sources Sought",
+    "url": "https://sam.gov/workspace/contract/opp/72ca53ca70214f139a9c8fecb0c1d75b/view"
+   }
+  },
+  {
+   "key": "72715edb45fe47de9ebd8179cbfc2d33",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.USMC.MARCOR SYSCOM.COMMANDER",
+    "closes": "2026-07-23T15:00:00-05:00",
+    "number": "M67854-26-R-0129",
+    "posted": "2026-06-29",
+    "text": "Request for White Papers - Organic Counter Small Unmanned Aircraft System Dismounted Effectors",
+    "title": "Request for White Papers - Organic Counter Small Unmanned Aircraft System Dismounted Effectors",
+    "type": "Sources Sought",
+    "url": "https://sam.gov/workspace/contract/opp/72715edb45fe47de9ebd8179cbfc2d33/view"
+   }
+  },
+  {
+   "key": "fc481cc48afe44e68bc09b4483a104c2",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.ONR.ONR NRL.NAVAL RESEARCH LABORATORY",
+    "closes": "2026-06-30T08:00:00-04:00",
+    "number": "N0017326Q5318",
+    "posted": "2026-06-26",
+    "text": "N0017326Q5318 - HII UNMANNED SYSTEMS",
+    "title": "N0017326Q5318 - HII UNMANNED SYSTEMS",
+    "type": "Special Notice",
+    "url": "https://sam.gov/workspace/contract/opp/fc481cc48afe44e68bc09b4483a104c2/view"
+   }
+  },
+  {
+   "key": "3752a65feabc46978379104ff2c2738f",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION GREAT LAKES AND OHIO.ENDIST LOUISVILLE.W072 ENDIST LOUISVILLE",
+    "closes": "2026-07-20T13:00:00-04:00",
+    "number": "W912QR26BA017",
+    "posted": "2026-06-26",
+    "setaside": "Total Small Business Set-Aside (FAR 19.5)",
+    "text": "Unmanned Fusion Warfare Laboratory at NSWC Crane IN",
+    "title": "Unmanned Fusion Warfare Laboratory at NSWC Crane IN",
+    "type": "Solicitation",
+    "url": "https://sam.gov/workspace/contract/opp/3752a65feabc46978379104ff2c2738f/view"
+   }
+  },
+  {
+   "key": "e4476c627cbb4de3add4f68c50ca3ab8",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION NORTH ATLANTIC.ENDIST BALTIMORE.W2SD ENDIST BALTIMORE",
+    "closes": "2026-07-17T11:00:00-05:00",
+    "number": "W912DR26R1AUM",
+    "posted": "2026-06-18",
+    "text": "Multidiscipline Indefinite Delivery Contracts for Topographic, Boundary, Hydrographic, Geospatial Database Development, and Unmanned Systems Surveying and Mapping for Projects under the Jurisdiction of the Baltimore District and North Atlantic Division",
+    "title": "Multidiscipline Indefinite Delivery Contracts for Topographic, Boundary, Hydrographic, Geospatial Database Development, and Unmanned Systems Surveying and Mapping for Projects under the Jurisdiction of the Baltimore District and North Atlantic Division",
+    "type": "Combined Synopsis/Solicitation",
+    "url": "https://sam.gov/workspace/contract/opp/e4476c627cbb4de3add4f68c50ca3ab8/view"
+   }
+  },
+  {
+   "key": "cb5d64eee89d40f48a3fab599f16d290",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-APG.W6QK ACC-APG DURHAM",
+    "closes": "2026-07-31T11:59:00-05:00",
+    "number": "Unmanned_Ground_Recovery_AAL",
+    "posted": "2026-06-17",
+    "text": "RFI: Unmanned Ground Recovery",
+    "title": "RFI: Unmanned Ground Recovery",
+    "type": "Sources Sought",
+    "url": "https://sam.gov/workspace/contract/opp/cb5d64eee89d40f48a3fab599f16d290/view"
+   }
+  },
+  {
+   "key": "b36be2c41929484491aa870a2bcf1e68",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA8750  AFRL RIK",
+    "number": "FA8750-25-S-7004",
+    "posted": "2026-05-28",
+    "text": "Multi-Domain Force Applications and Traffic Management for Unmanned Aircraft Systems (M-FAT)",
+    "title": "Multi-Domain Force Applications and Traffic Management for Unmanned Aircraft Systems (M-FAT)",
+    "type": "Presolicitation",
+    "url": "https://sam.gov/workspace/contract/opp/b36be2c41929484491aa870a2bcf1e68/view"
+   }
+  },
+  {
+   "key": "2b32fcbd97224f68bbd4d2649bf6c28f",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-OO.409TH CSB.0409 AQ HQ     CONTRACT",
+    "closes": "2028-12-31T23:59:00+01:00",
+    "number": "W912PB26RA008",
+    "posted": "2026-02-20",
+    "setaside": "No Set aside used",
+    "text": "USAREUR-AF Small Unmanned Aircraft Systems (sUAS) Blanket Purchase Agreement",
+    "title": "USAREUR-AF Small Unmanned Aircraft Systems (sUAS) Blanket Purchase Agreement",
+    "type": "Sources Sought",
+    "url": "https://sam.gov/workspace/contract/opp/2b32fcbd97224f68bbd4d2649bf6c28f/view"
+   }
+  },
   {
    "key": "339728",
    "source": "pipeline-autonomy",
@@ -604,248 +846,6 @@
     "text": "Standards Coordination Office Curricula Development Cooperative Agreement Program",
     "title": "Standards Coordination Office Curricula Development Cooperative Agreement Program",
     "url": "https://www.grants.gov/search-results-detail/362381"
-   }
-  },
-  {
-   "key": "ef2af4530adc4132a96c2b1c6faff80f",
-   "source": "pipeline-sam-ai",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEFENSE INTELLIGENCE AGENCY (DIA).VIRGINIA CONTRACTING ACTIVITY",
-    "closes": "2026-07-02T12:00:00-04:00",
-    "number": "CFOAC2-OTA-RFI-FY26-01",
-    "posted": "2026-06-17",
-    "setaside": "No Set aside used",
-    "text": "(U) Request for Information: Next-Generation Procurement Artificial Intelligence (AI) Powered Acquisition Platform",
-    "title": "(U) Request for Information: Next-Generation Procurement Artificial Intelligence (AI) Powered Acquisition Platform",
-    "type": "Sources Sought",
-    "url": "https://sam.gov/workspace/contract/opp/ef2af4530adc4132a96c2b1c6faff80f/view"
-   }
-  },
-  {
-   "key": "0800655bb5714d68957ce0d5ee922938",
-   "source": "pipeline-sam-ai",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
-    "closes": "2026-08-25T14:00:00",
-    "number": "HR001126S0010",
-    "posted": "2026-06-10",
-    "text": "Decentralized Artificial Intelligence through Controlled Emergence (DICE)",
-    "title": "Decentralized Artificial Intelligence through Controlled Emergence (DICE)",
-    "type": "Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/0800655bb5714d68957ce0d5ee922938/view"
-   }
-  },
-  {
-   "key": "029de16a1f234bd0b4f55889f5fa52f0",
-   "source": "pipeline-sam-ai",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA8750  AFRL RIK",
-    "number": "FA875023S7006",
-    "posted": "2026-05-28",
-    "text": "ARTIFICIAL INTELLIGENCE AND NEXT GENERATION DISTRIBUTED COMMAND AND CONTROL",
-    "title": "ARTIFICIAL INTELLIGENCE AND NEXT GENERATION DISTRIBUTED COMMAND AND CONTROL",
-    "type": "Presolicitation",
-    "url": "https://sam.gov/workspace/contract/opp/029de16a1f234bd0b4f55889f5fa52f0/view"
-   }
-  },
-  {
-   "key": "7068ea19a03f4fdc9557635224ccdb54",
-   "source": "pipeline-sam-autonomy",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-DTA.W6QK ACC- DTA",
-    "closes": "2026-07-22T17:00:00-04:00",
-    "number": "PANDTA-26-P-0000RA-CE",
-    "posted": "2026-06-29",
-    "text": "Robotic and Autonomous Construction Equipment (RA-CE)",
-    "title": "Robotic and Autonomous Construction Equipment (RA-CE)",
-    "type": "Sources Sought",
-    "url": "https://sam.gov/workspace/contract/opp/7068ea19a03f4fdc9557635224ccdb54/view"
-   }
-  },
-  {
-   "key": "fe160646349f4fe5be0b5de848707080",
-   "source": "pipeline-sam-autonomy",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.US TRANSPORTATION COMMAND (USTRANSCOM)",
-    "closes": "2026-07-06T11:00:00-05:00",
-    "number": "USTC2026001",
-    "posted": "2026-06-25",
-    "setaside": "No Set aside used",
-    "text": "Assured Access to Maritime Autonomous Surface Ships RFI with additional keywords: Improving Military Supply Chain Sealift Transportation Via Assured Access to Dual-Use Maritime Autonomous Surface Ships",
-    "title": "Assured Access to Maritime Autonomous Surface Ships RFI with additional keywords: Improving Military Supply Chain Sealift Transportation Via Assured Access to Dual-Use Maritime Autonomous Surface Ships",
-    "type": "Special Notice",
-    "url": "https://sam.gov/workspace/contract/opp/fe160646349f4fe5be0b5de848707080/view"
-   }
-  },
-  {
-   "key": "ce4e88b51cb3419bbc5ad3458875cd7d",
-   "source": "pipeline-sam-autonomy",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEFENSE HEALTH AGENCY (DHA).DEFENSE HEALTH AGENCY",
-    "closes": "2026-07-15T12:00:00-04:00",
-    "number": "MTEC-26-02-Ventilator",
-    "posted": "2026-06-24",
-    "setaside": "No Set aside used",
-    "text": "MTEC Solicitation Summary: Autonomous Closed Loop Control Mechanical Ventilation (ACLCMV)",
-    "title": "MTEC Solicitation Summary: Autonomous Closed Loop Control Mechanical Ventilation (ACLCMV)",
-    "type": "Special Notice",
-    "url": "https://sam.gov/workspace/contract/opp/ce4e88b51cb3419bbc5ad3458875cd7d/view"
-   }
-  },
-  {
-   "key": "f95b52cedf5848bda4817b663f2926f7",
-   "source": "pipeline-sam-autonomy",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
-    "closes": "2026-07-22T17:00:00",
-    "number": "DARPA-SN-26-96",
-    "posted": "2026-06-23",
-    "text": "Advancing Autonomous Science for Biological Applications RFI",
-    "title": "Advancing Autonomous Science for Biological Applications RFI",
-    "type": "Special Notice",
-    "url": "https://sam.gov/workspace/contract/opp/f95b52cedf5848bda4817b663f2926f7/view"
-   }
-  },
-  {
-   "key": "441edd53d7314a34951b7e7c77575513",
-   "source": "pipeline-sam-autonomy",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NAVAL SURFACE WARFARE CENTER",
-    "closes": "2026-08-03T14:00:00-05:00",
-    "number": "N61331-26-SN9-0001",
-    "posted": "2026-06-18",
-    "setaside": "No Set aside used",
-    "text": "Other Transaction Authority (OTA) Consortium Request for Proposals (RFP) Seabed-Subsea, Littoral, Asymmetric-Autonomous, Mining and Mine Hunting, Expeditionary, Robotic (SLAM2ER) Consortium",
-    "title": "Other Transaction Authority (OTA) Consortium Request for Proposals (RFP) Seabed-Subsea, Littoral, Asymmetric-Autonomous, Mining and Mine Hunting, Expeditionary, Robotic (SLAM2ER) Consortium",
-    "type": "Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/441edd53d7314a34951b7e7c77575513/view"
-   }
-  },
-  {
-   "key": "7397bf62dffb4c6690f4cbaa7d3b0c77",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.WEAPONS.FA8520  AFLCMC EBUK",
-    "closes": "2026-07-31T17:00:00-04:00",
-    "number": "FA852026MPHC",
-    "posted": "2026-06-29",
-    "text": "Man-portable, Handheld, Counter-Unmanned System (MPHC)",
-    "title": "Man-portable, Handheld, Counter-Unmanned System (MPHC)",
-    "type": "Sources Sought",
-    "url": "https://sam.gov/workspace/contract/opp/7397bf62dffb4c6690f4cbaa7d3b0c77/view"
-   }
-  },
-  {
-   "key": "72ca53ca70214f139a9c8fecb0c1d75b",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.USMC.MARCOR SYSCOM.COMMANDER",
-    "closes": "2026-07-23T15:00:00-05:00",
-    "number": "M67854-26-R-0131",
-    "posted": "2026-06-29",
-    "text": "Request for White Papers - Organic Counter Small Unmanned Aircraft System (O-CsUAS) Dismounted Sensors",
-    "title": "Request for White Papers - Organic Counter Small Unmanned Aircraft System (O-CsUAS) Dismounted Sensors",
-    "type": "Sources Sought",
-    "url": "https://sam.gov/workspace/contract/opp/72ca53ca70214f139a9c8fecb0c1d75b/view"
-   }
-  },
-  {
-   "key": "72715edb45fe47de9ebd8179cbfc2d33",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.USMC.MARCOR SYSCOM.COMMANDER",
-    "closes": "2026-07-23T15:00:00-05:00",
-    "number": "M67854-26-R-0129",
-    "posted": "2026-06-29",
-    "text": "Request for White Papers - Organic Counter Small Unmanned Aircraft System Dismounted Effectors",
-    "title": "Request for White Papers - Organic Counter Small Unmanned Aircraft System Dismounted Effectors",
-    "type": "Sources Sought",
-    "url": "https://sam.gov/workspace/contract/opp/72715edb45fe47de9ebd8179cbfc2d33/view"
-   }
-  },
-  {
-   "key": "fc481cc48afe44e68bc09b4483a104c2",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.ONR.ONR NRL.NAVAL RESEARCH LABORATORY",
-    "closes": "2026-06-30T08:00:00-04:00",
-    "number": "N0017326Q5318",
-    "posted": "2026-06-26",
-    "text": "N0017326Q5318 - HII UNMANNED SYSTEMS",
-    "title": "N0017326Q5318 - HII UNMANNED SYSTEMS",
-    "type": "Special Notice",
-    "url": "https://sam.gov/workspace/contract/opp/fc481cc48afe44e68bc09b4483a104c2/view"
-   }
-  },
-  {
-   "key": "3752a65feabc46978379104ff2c2738f",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION GREAT LAKES AND OHIO.ENDIST LOUISVILLE.W072 ENDIST LOUISVILLE",
-    "closes": "2026-07-20T13:00:00-04:00",
-    "number": "W912QR26BA017",
-    "posted": "2026-06-26",
-    "setaside": "Total Small Business Set-Aside (FAR 19.5)",
-    "text": "Unmanned Fusion Warfare Laboratory at NSWC Crane IN",
-    "title": "Unmanned Fusion Warfare Laboratory at NSWC Crane IN",
-    "type": "Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/3752a65feabc46978379104ff2c2738f/view"
-   }
-  },
-  {
-   "key": "e4476c627cbb4de3add4f68c50ca3ab8",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION NORTH ATLANTIC.ENDIST BALTIMORE.W2SD ENDIST BALTIMORE",
-    "closes": "2026-07-17T11:00:00-05:00",
-    "number": "W912DR26R1AUM",
-    "posted": "2026-06-18",
-    "text": "Multidiscipline Indefinite Delivery Contracts for Topographic, Boundary, Hydrographic, Geospatial Database Development, and Unmanned Systems Surveying and Mapping for Projects under the Jurisdiction of the Baltimore District and North Atlantic Division",
-    "title": "Multidiscipline Indefinite Delivery Contracts for Topographic, Boundary, Hydrographic, Geospatial Database Development, and Unmanned Systems Surveying and Mapping for Projects under the Jurisdiction of the Baltimore District and North Atlantic Division",
-    "type": "Combined Synopsis/Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/e4476c627cbb4de3add4f68c50ca3ab8/view"
-   }
-  },
-  {
-   "key": "cb5d64eee89d40f48a3fab599f16d290",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-APG.W6QK ACC-APG DURHAM",
-    "closes": "2026-07-31T11:59:00-05:00",
-    "number": "Unmanned_Ground_Recovery_AAL",
-    "posted": "2026-06-17",
-    "text": "RFI: Unmanned Ground Recovery",
-    "title": "RFI: Unmanned Ground Recovery",
-    "type": "Sources Sought",
-    "url": "https://sam.gov/workspace/contract/opp/cb5d64eee89d40f48a3fab599f16d290/view"
-   }
-  },
-  {
-   "key": "b36be2c41929484491aa870a2bcf1e68",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA8750  AFRL RIK",
-    "number": "FA8750-25-S-7004",
-    "posted": "2026-05-28",
-    "text": "Multi-Domain Force Applications and Traffic Management for Unmanned Aircraft Systems (M-FAT)",
-    "title": "Multi-Domain Force Applications and Traffic Management for Unmanned Aircraft Systems (M-FAT)",
-    "type": "Presolicitation",
-    "url": "https://sam.gov/workspace/contract/opp/b36be2c41929484491aa870a2bcf1e68/view"
-   }
-  },
-  {
-   "key": "2b32fcbd97224f68bbd4d2649bf6c28f",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-OO.409TH CSB.0409 AQ HQ     CONTRACT",
-    "closes": "2028-12-31T23:59:00+01:00",
-    "number": "W912PB26RA008",
-    "posted": "2026-02-20",
-    "setaside": "No Set aside used",
-    "text": "USAREUR-AF Small Unmanned Aircraft Systems (sUAS) Blanket Purchase Agreement",
-    "title": "USAREUR-AF Small Unmanned Aircraft Systems (sUAS) Blanket Purchase Agreement",
-    "type": "Sources Sought",
-    "url": "https://sam.gov/workspace/contract/opp/2b32fcbd97224f68bbd4d2649bf6c28f/view"
    }
   },
   {

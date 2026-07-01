@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-06-30T20:34:58Z",
+ "fetched_at": "2026-07-01T10:19:38Z",
  "schema_version": 1,
  "records": [
   {
@@ -53,6 +53,18 @@
    }
   },
   {
+   "key": "CONT_AWD_HQ072721F1610_9700_HQ072716D0006_9700",
+   "source": "transition-prototype",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "297150546",
+    "description": "CONTRACTUAL ENGINEERING TASK (CET) 21-108 FOR ENGINEERING SERVICES TO STUDY, DESIGN, PROTOTYPE, INTEGRATE, FABRICATE AND TEST EXTREMELY HIGH FREQUENCY (EHF) TERMINALS.",
+    "text": "RAYTHEON COMPANY",
+    "title": "RAYTHEON COMPANY",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_HQ072721F1610_9700_HQ072716D0006_9700/"
+   }
+  },
+  {
    "key": "CONT_AWD_W911QX24F0053_9700_W911QX24D0012_9700",
    "source": "transition-prototype",
    "fields": {
@@ -62,18 +74,6 @@
     "text": "PALANTIR USG INC",
     "title": "PALANTIR USG INC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W911QX24F0053_9700_W911QX24D0012_9700/"
-   }
-  },
-  {
-   "key": "CONT_AWD_HQ072721F1610_9700_HQ072716D0006_9700",
-   "source": "transition-prototype",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "2.8597295593e+08",
-    "description": "CONTRACTUAL ENGINEERING TASK (CET) 21-108 FOR ENGINEERING SERVICES TO STUDY, DESIGN, PROTOTYPE, INTEGRATE, FABRICATE AND TEST EXTREMELY HIGH FREQUENCY (EHF) TERMINALS.",
-    "text": "RAYTHEON COMPANY",
-    "title": "RAYTHEON COMPANY",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_HQ072721F1610_9700_HQ072716D0006_9700/"
    }
   },
   {
@@ -648,7 +648,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "30825591803",
+    "amount": "30979375853",
     "award_id": "N0002417C2117",
     "description": "COLUMBIA CLASS DESIGN COMPLETION",
     "text": "ELECTRIC BOAT CORPORATION",
@@ -674,7 +674,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "24499972568",
+    "amount": "24500661983",
     "award_id": "N0001923C0003",
     "description": "THE PURPOSE OF THIS CONTRACT IS TO AWARD LONG LEAD FUNDING FOR F-35A, F-35B, AND F-35C AIRCRAFT FOR U.S. SERVICES, NON-DOD PARTNERS, AND FMS CUSTOMERS",
     "text": "LOCKHEED MARTIN CORPORATION",
@@ -1085,6 +1085,19 @@
    }
   },
   {
+   "key": "CONT_AWD_N0001924C0039_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "7379699098",
+    "award_id": "N0001924C0039",
+    "description": "CY24 AVSC SUPPLY SUPPORT",
+    "text": "LOCKHEED MARTIN CORPORATION",
+    "title": "LOCKHEED MARTIN CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_N0001924C0039_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_0004_9700_W52P1J07D0007_9700",
    "source": "transition-usaspending",
    "fields": {
@@ -1108,6 +1121,19 @@
     "text": "BELL BOEING JOINT PROJECT OFFICE",
     "title": "BELL BOEING JOINT PROJECT OFFICE",
     "url": "https://www.usaspending.gov/award/CONT_AWD_N0001912C2001_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_FA868224CB001_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "7.20248802322e+09",
+    "award_id": "FA868224CB001",
+    "description": "LONG RANGE ANTI-SHIP MISSILE/JOINT AIR-TO-SURFACE STANDOFF MISSILE LARGE LOT PROCUREMENT",
+    "text": "LOCKHEED MARTIN CORPORATION",
+    "title": "LOCKHEED MARTIN CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA868224CB001_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -1137,6 +1163,19 @@
    }
   },
   {
+   "key": "CONT_AWD_N0002423C2307_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "6.98808014183e+09",
+    "award_id": "N0002423C2307",
+    "description": "CONSTRUCTION OF DDG 51 SHIPS FY23-27",
+    "text": "HUNTINGTON INGALLS INCORPORATED",
+    "title": "HUNTINGTON INGALLS INCORPORATED",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_N0002423C2307_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_FA863418C2701_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -1150,55 +1189,16 @@
    }
   },
   {
-   "key": "CONT_AWD_FA868224CB001_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "6.94896802322e+09",
-    "award_id": "FA868224CB001",
-    "description": "LONG RANGE ANTI-SHIP MISSILE/JOINT AIR-TO-SURFACE STANDOFF MISSILE LARGE LOT PROCUREMENT",
-    "text": "LOCKHEED MARTIN CORPORATION",
-    "title": "LOCKHEED MARTIN CORPORATION",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_FA868224CB001_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_N0002423C2307_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "6.94811259183e+09",
-    "award_id": "N0002423C2307",
-    "description": "CONSTRUCTION OF DDG 51 SHIPS FY23-27",
-    "text": "HUNTINGTON INGALLS INCORPORATED",
-    "title": "HUNTINGTON INGALLS INCORPORATED",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_N0002423C2307_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
    "key": "CONT_AWD_N0002418C2307_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "6.82873710474e+09",
+    "amount": "6.88876955474e+09",
     "award_id": "N0002418C2307",
     "description": "FY18-FY22 DDG 51 CLASS SHIP CONSTRUCTION",
     "text": "HUNTINGTON INGALLS INCORPORATED",
     "title": "HUNTINGTON INGALLS INCORPORATED",
     "url": "https://www.usaspending.gov/award/CONT_AWD_N0002418C2307_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_N0001924C0039_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "6818606177",
-    "award_id": "N0001924C0039",
-    "description": "CY24 AVSC SUPPLY SUPPORT",
-    "text": "LOCKHEED MARTIN CORPORATION",
-    "title": "LOCKHEED MARTIN CORPORATION",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_N0001924C0039_9700_-NONE-_-NONE-/"
    }
   },
   {
