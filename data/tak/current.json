@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-07-01T10:19:30Z",
+ "fetched_at": "2026-07-01T20:30:38Z",
  "schema_version": 1,
  "records": [
   {
    "key": "emfoursolutions/trakbridge",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-06-30T23:51:38Z",
+    "date": "2026-07-01T16:35:43Z",
     "description": "A comprehensive web application for bridging tracking devices and services to TAK (Team Awareness Kit) servers.",
     "stars": "37",
     "text": "emfoursolutions/trakbridge",
@@ -44,7 +44,7 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-01T00:38:49Z",
+    "date": "2026-07-01T20:30:22Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "45",
     "text": "takwerx/infra-TAK",
@@ -754,6 +754,18 @@
    }
   },
   {
+   "key": "clodzeischi/eagle-6-ATAK",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-07-01T20:23:18Z",
+    "description": "This plugin is a split from the original Talon by SWF. The purpose of this plugin is to separate the UAS planning and reporting into a separate product to maximize configurable granularity.",
+    "stars": "0",
+    "text": "clodzeischi/eagle-6-ATAK",
+    "title": "clodzeischi/eagle-6-ATAK",
+    "url": "https://github.com/clodzeischi/eagle-6-ATAK"
+   }
+  },
+  {
    "key": "libre-7/atak-callout",
    "source": "tak-github",
    "fields": {
@@ -763,18 +775,6 @@
     "text": "libre-7/atak-callout",
     "title": "libre-7/atak-callout",
     "url": "https://github.com/libre-7/atak-callout"
-   }
-  },
-  {
-   "key": "clodzeischi/eagle-6-ATAK",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-06-30T04:41:37Z",
-    "description": "This plugin is a split from the original Talon by SWF. The purpose of this plugin is to separate the UAS planning and reporting into a separate product to maximize configurable granularity.",
-    "stars": "0",
-    "text": "clodzeischi/eagle-6-ATAK",
-    "title": "clodzeischi/eagle-6-ATAK",
-    "url": "https://github.com/clodzeischi/eagle-6-ATAK"
    }
   },
   {
@@ -959,7 +959,7 @@
    "fields": {
     "date": "2026-06-04T21:30:53Z",
     "description": "ATAK Plugin for sending CoT to IMeshService",
-    "stars": "498",
+    "stars": "499",
     "text": "meshtastic/ATAK-Plugin",
     "title": "meshtastic/ATAK-Plugin",
     "url": "https://github.com/meshtastic/ATAK-Plugin"
