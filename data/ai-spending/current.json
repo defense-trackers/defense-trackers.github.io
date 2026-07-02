@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-07-01T20:28:52Z",
+ "fetched_at": "2026-07-02T09:34:56Z",
  "schema_version": 1,
  "records": [
   {
@@ -485,6 +485,18 @@
    }
   },
   {
+   "key": "CONT_AWD_FA864126CB001_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "2999411",
+    "description": "TOPIC AF221-DCSO1, PROPOSAL F2S-19474, SEQUENTIAL PHASE II SMALL BUSINESS INNOVATION RESEARCH (SBIR) - ODIN ARTIFICIAL INTELLIGENCE (AI) AI AUTOMATION AND INSIGHT GENERATOR",
+    "text": "ILLUMINATION WORKS, LLC",
+    "title": "ILLUMINATION WORKS, LLC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA864126CB001_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_FA875024CB037_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
@@ -590,18 +602,6 @@
     "text": "UNIVERSITY OF FLORIDA",
     "title": "UNIVERSITY OF FLORIDA",
     "url": "https://www.usaspending.gov/award/CONT_AWD_FA865825CB001_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_FA864922P1090_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "2009989",
-    "description": "ARTIFICIAL INTELLIGENCE (AI) AND MACHINE LEARNING (ML) MODEL DEPLOYMENT",
-    "text": "WALLAROO LABS INC",
-    "title": "WALLAROO LABS INC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_FA864922P1090_9700_-NONE-_-NONE-/"
    }
   },
   {

@@ -1,7 +1,7 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-07-01T20:30:38Z",
+ "fetched_at": "2026-07-02T09:36:44Z",
  "schema_version": 1,
  "records": [
   {
@@ -44,7 +44,7 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-01T20:30:22Z",
+    "date": "2026-07-02T08:12:13Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "45",
     "text": "takwerx/infra-TAK",
@@ -70,7 +70,7 @@
    "fields": {
     "date": "2026-06-22T01:47:23Z",
     "description": "DroneCOT is software for monitoring and analyzing Direct Remote Identification (DRI), Remote ID (RID) or Open Drone ID (ODID) broadcasts from Uncrewed Aircraft (UA) via the Team Awareness Kit (TAK) ecosystem of products.",
-    "stars": "31",
+    "stars": "32",
     "text": "snstac/dronecot",
     "title": "snstac/dronecot",
     "url": "https://github.com/snstac/dronecot"
@@ -757,12 +757,36 @@
    "key": "clodzeischi/eagle-6-ATAK",
    "source": "tak-github",
    "fields": {
-    "date": "2026-07-01T20:23:18Z",
+    "date": "2026-07-02T02:25:01Z",
     "description": "This plugin is a split from the original Talon by SWF. The purpose of this plugin is to separate the UAS planning and reporting into a separate product to maximize configurable granularity.",
     "stars": "0",
     "text": "clodzeischi/eagle-6-ATAK",
     "title": "clodzeischi/eagle-6-ATAK",
     "url": "https://github.com/clodzeischi/eagle-6-ATAK"
+   }
+  },
+  {
+   "key": "atakmaps/TAK-MESHCORE",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-07-02T00:56:07Z",
+    "description": "ATAK MeshCore plugin",
+    "stars": "19",
+    "text": "atakmaps/TAK-MESHCORE",
+    "title": "atakmaps/TAK-MESHCORE",
+    "url": "https://github.com/atakmaps/TAK-MESHCORE"
+   }
+  },
+  {
+   "key": "The-Epimetheus/Abstract-A-TAK",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-07-01T23:47:13Z",
+    "description": "One branch builds an ATAK plugin for every ATAK version (4.10–5.8) x distro — replacing per-version maintenance branches. A restructure of TAK's helloworld example.",
+    "stars": "0",
+    "text": "The-Epimetheus/Abstract-A-TAK",
+    "title": "The-Epimetheus/Abstract-A-TAK",
+    "url": "https://github.com/The-Epimetheus/Abstract-A-TAK"
    }
   },
   {
@@ -798,18 +822,6 @@
     "text": "shigeki7299/ATAK_Plugin",
     "title": "shigeki7299/ATAK_Plugin",
     "url": "https://github.com/shigeki7299/ATAK_Plugin"
-   }
-  },
-  {
-   "key": "atakmaps/TAK-MESHCORE",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-06-28T06:47:01Z",
-    "description": "ATAK MeshCore plugin",
-    "stars": "19",
-    "text": "atakmaps/TAK-MESHCORE",
-    "title": "atakmaps/TAK-MESHCORE",
-    "url": "https://github.com/atakmaps/TAK-MESHCORE"
    }
   },
   {
@@ -1082,18 +1094,6 @@
     "text": "niccellular/gadget",
     "title": "niccellular/gadget",
     "url": "https://github.com/niccellular/gadget"
-   }
-  },
-  {
-   "key": "TacticalSensorIntegration/atak-vns-routing-bundles",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-04-20T06:46:06Z",
-    "description": "Pre-built offline routing bundles for the ATAK VNS plugin — Australia and other regions, ready to drop onto the device.",
-    "stars": "1",
-    "text": "TacticalSensorIntegration/atak-vns-routing-bundles",
-    "title": "TacticalSensorIntegration/atak-vns-routing-bundles",
-    "url": "https://github.com/TacticalSensorIntegration/atak-vns-routing-bundles"
    }
   },
   {
