@@ -1,14 +1,26 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-07-02T09:36:44Z",
+ "fetched_at": "2026-07-02T20:08:41Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-07-02T19:47:01Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "45",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
   {
    "key": "emfoursolutions/trakbridge",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-01T16:35:43Z",
+    "date": "2026-07-02T17:08:01Z",
     "description": "A comprehensive web application for bridging tracking devices and services to TAK (Team Awareness Kit) servers.",
     "stars": "37",
     "text": "emfoursolutions/trakbridge",
@@ -38,18 +50,6 @@
     "text": "engindearing-projects/OmniTAK-Android",
     "title": "engindearing-projects/OmniTAK-Android",
     "url": "https://github.com/engindearing-projects/OmniTAK-Android"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-07-02T08:12:13Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "45",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -616,7 +616,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-06-30T13:03:17Z",
+    "date": "2026-07-02T18:51:05Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "89",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-06-30T22:45:05Z",
+    "date": "2026-07-02T12:47:29Z",
     "description": "full port of Reticulum and LXMF to Rust with added SDK",
     "stars": "19",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -734,7 +734,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-06-30T13:04:59Z",
+    "date": "2026-07-02T19:46:52Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "18",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -751,6 +751,18 @@
     "text": "FreeTAKTeam/R3AKTClient",
     "title": "FreeTAKTeam/R3AKTClient",
     "url": "https://github.com/FreeTAKTeam/R3AKTClient"
+   }
+  },
+  {
+   "key": "The-Epimetheus/Abstract-A-TAK",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-07-02T19:21:41Z",
+    "description": "One branch builds an ATAK plugin for every ATAK version (4.10–5.8) x distro — replacing per-version maintenance branches. A restructure of TAK's helloworld example.",
+    "stars": "0",
+    "text": "The-Epimetheus/Abstract-A-TAK",
+    "title": "The-Epimetheus/Abstract-A-TAK",
+    "url": "https://github.com/The-Epimetheus/Abstract-A-TAK"
    }
   },
   {
@@ -775,18 +787,6 @@
     "text": "atakmaps/TAK-MESHCORE",
     "title": "atakmaps/TAK-MESHCORE",
     "url": "https://github.com/atakmaps/TAK-MESHCORE"
-   }
-  },
-  {
-   "key": "The-Epimetheus/Abstract-A-TAK",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-07-01T23:47:13Z",
-    "description": "One branch builds an ATAK plugin for every ATAK version (4.10–5.8) x distro — replacing per-version maintenance branches. A restructure of TAK's helloworld example.",
-    "stars": "0",
-    "text": "The-Epimetheus/Abstract-A-TAK",
-    "title": "The-Epimetheus/Abstract-A-TAK",
-    "url": "https://github.com/The-Epimetheus/Abstract-A-TAK"
    }
   },
   {
@@ -971,7 +971,7 @@
    "fields": {
     "date": "2026-06-04T21:30:53Z",
     "description": "ATAK Plugin for sending CoT to IMeshService",
-    "stars": "499",
+    "stars": "500",
     "text": "meshtastic/ATAK-Plugin",
     "title": "meshtastic/ATAK-Plugin",
     "url": "https://github.com/meshtastic/ATAK-Plugin"
