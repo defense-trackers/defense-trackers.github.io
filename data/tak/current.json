@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-07-02T20:08:41Z",
+ "fetched_at": "2026-07-03T09:39:22Z",
  "schema_version": 1,
  "records": [
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-02T19:47:01Z",
+    "date": "2026-07-03T05:07:53Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "45",
     "text": "takwerx/infra-TAK",
@@ -20,7 +20,7 @@
    "key": "emfoursolutions/trakbridge",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-02T17:08:01Z",
+    "date": "2026-07-03T09:02:26Z",
     "description": "A comprehensive web application for bridging tracking devices and services to TAK (Team Awareness Kit) servers.",
     "stars": "37",
     "text": "emfoursolutions/trakbridge",
@@ -757,8 +757,8 @@
    "key": "The-Epimetheus/Abstract-A-TAK",
    "source": "tak-github",
    "fields": {
-    "date": "2026-07-02T19:21:41Z",
-    "description": "One branch builds an ATAK plugin for every ATAK version (4.10–5.8) x distro — replacing per-version maintenance branches. A restructure of TAK's helloworld example.",
+    "date": "2026-07-03T05:01:51Z",
+    "description": "One branch builds an ATAK plugin for every ATAK version (4.10–5.8) x distro",
     "stars": "0",
     "text": "The-Epimetheus/Abstract-A-TAK",
     "title": "The-Epimetheus/Abstract-A-TAK",
@@ -971,7 +971,7 @@
    "fields": {
     "date": "2026-06-04T21:30:53Z",
     "description": "ATAK Plugin for sending CoT to IMeshService",
-    "stars": "500",
+    "stars": "501",
     "text": "meshtastic/ATAK-Plugin",
     "title": "meshtastic/ATAK-Plugin",
     "url": "https://github.com/meshtastic/ATAK-Plugin"

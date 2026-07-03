@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-07-02T20:08:44Z",
+ "fetched_at": "2026-07-03T09:40:22Z",
  "schema_version": 1,
  "records": [
   {
@@ -117,7 +117,7 @@
    "source": "transition-prototype",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "1.6315351734e+08",
+    "amount": "1.6377981734e+08",
     "description": "PROVIDE ANALYSIS TO INCLUDE DESIGN, DEVELOP, INTEGRATE, AND TEST AN AEGIS BMD MISSION PLANNER MODEL PROTOTYPE WHICH INCLUDES THE CERBERUS PROJECT IN ACCORDANCE WITH THE SOW, SECTION J, AND EXECUTING THE COMBAT SYSTEMS TASK ORDER TASKS. PSC AC23 EXPENDITURE TYPE 255.0 R\u0026D",
     "text": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC",
     "title": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC",
@@ -425,6 +425,18 @@
    }
   },
   {
+   "key": "CONT_AWD_W58RGZ23F0423_9700_W58RGZ18D0001_9700",
+   "source": "transition-prototype",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "33067387",
+    "description": "THE UNITED STATES AIR FORCE HAS A REQUIREMENT TO PROVIDE FIRST ARTICLE PROTOTYPES TO SUPPORT THE COMMON MUNITIONS BUILT-IN-TEST REPROGRAMMING EQUIPMENT CYBER ENHANCED EFFORT. KIT AND MISSION PROGRAMMER TO TEST AND REPROGRAM CAPABILITY OF MUNITIONS.",
+    "text": "DEFENSE SYSTEMS AND SOLUTIONS",
+    "title": "DEFENSE SYSTEMS AND SOLUTIONS",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ23F0423_9700_W58RGZ18D0001_9700/"
+   }
+  },
+  {
    "key": "CONT_AWD_N0017819F3014_9700_N0017814D7204_9700",
    "source": "transition-prototype",
    "fields": {
@@ -482,18 +494,6 @@
     "text": "RAYTHEON/LOCKHEED MARTIN JAVELIN JV",
     "title": "RAYTHEON/LOCKHEED MARTIN JAVELIN JV",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W31P4Q25F0257_9700_W31P4Q24D0001_9700/"
-   }
-  },
-  {
-   "key": "CONT_AWD_W58RGZ23F0423_9700_W58RGZ18D0001_9700",
-   "source": "transition-prototype",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "28520002",
-    "description": "THE UNITED STATES AIR FORCE HAS A REQUIREMENT TO PROVIDE FIRST ARTICLE PROTOTYPES TO SUPPORT THE COMMON MUNITIONS BUILT-IN-TEST REPROGRAMMING EQUIPMENT CYBER ENHANCED EFFORT. KIT AND MISSION PROGRAMMER TO TEST AND REPROGRAM CAPABILITY OF MUNITIONS.",
-    "text": "DEFENSE SYSTEMS AND SOLUTIONS",
-    "title": "DEFENSE SYSTEMS AND SOLUTIONS",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ23F0423_9700_W58RGZ18D0001_9700/"
    }
   },
   {
@@ -557,6 +557,18 @@
    }
   },
   {
+   "key": "CONT_AWD_N6660422F3009_9700_N0017819D8089_9700",
+   "source": "transition-prototype",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "2.394578713e+07",
+    "description": "PROVIDE ANALYSES, IN-SERVICE ENGINEERING, PROTOTYPE DEVELOPMENT, TEST AND EVALUATION, AND SYSTEM ENGINEERING SERVICES IN SUPPORT OF TOWED, HULL AND SENSOR SYSTEM PROGRAMS.",
+    "text": "MCLAUGHLIN RESEARCH CORPORATION",
+    "title": "MCLAUGHLIN RESEARCH CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_N6660422F3009_9700_N0017819D8089_9700/"
+   }
+  },
+  {
    "key": "CONT_AWD_N6133122F3008_9700_N0017819D7246_9700",
    "source": "transition-prototype",
    "fields": {
@@ -566,18 +578,6 @@
     "text": "BEVILACQUA RESEARCH CORPORATION",
     "title": "BEVILACQUA RESEARCH CORPORATION",
     "url": "https://www.usaspending.gov/award/CONT_AWD_N6133122F3008_9700_N0017819D7246_9700/"
-   }
-  },
-  {
-   "key": "CONT_AWD_N6660422F3009_9700_N0017819D8089_9700",
-   "source": "transition-prototype",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "2.29386219e+07",
-    "description": "PROVIDE ANALYSES, IN-SERVICE ENGINEERING, PROTOTYPE DEVELOPMENT, TEST AND EVALUATION, AND SYSTEM ENGINEERING SERVICES IN SUPPORT OF TOWED, HULL AND SENSOR SYSTEM PROGRAMS.",
-    "text": "MCLAUGHLIN RESEARCH CORPORATION",
-    "title": "MCLAUGHLIN RESEARCH CORPORATION",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_N6660422F3009_9700_N0017819D8089_9700/"
    }
   },
   {
@@ -635,7 +635,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "3.196091824903e+10",
+    "amount": "3.197291824903e+10",
     "award_id": "FA862511C6600",
     "description": "KC-X MODERNIZATION PROGRAM",
     "text": "THE BOEING COMPANY",

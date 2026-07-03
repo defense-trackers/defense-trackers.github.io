@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-07-02T20:07:04Z",
+ "fetched_at": "2026-07-03T09:37:35Z",
  "schema_version": 1,
  "records": [
   {
@@ -41,6 +41,18 @@
    }
   },
   {
+   "key": "CONT_AWD_W519TC25F0241_9700_W52P1J22G0174_9700",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "3.457137528e+07",
+    "description": "12MONTH BASE PERIOD 12MONTH OP. EST ACCELERATING DATA AND ARTIFICIAL INTELLIGENCE(ADA)INCIDENT RESPONSE(IR)TEAMS SUPPORT DATA DRIVEN DECISION MAKING TO SCALE DATA, ANALYTICS, AND AI AT THE CHIEF DIGITAL AND ARTIFICIAL INTELLIGENCE (AI) OFFICE (CDAO)",
+    "text": "BYTECUBED, LLC",
+    "title": "BYTECUBED, LLC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W519TC25F0241_9700_W52P1J22G0174_9700/"
+   }
+  },
+  {
    "key": "CONT_AWD_W56KGU25C0004_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
@@ -50,18 +62,6 @@
     "text": "CAMGIAN CORPORATION",
     "title": "CAMGIAN CORPORATION",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W56KGU25C0004_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_W519TC25F0241_9700_W52P1J22G0174_9700",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "1.760147532e+07",
-    "description": "12MONTH BASE PERIOD 12MONTH OP. EST ACCELERATING DATA AND ARTIFICIAL INTELLIGENCE(ADA)INCIDENT RESPONSE(IR)TEAMS SUPPORT DATA DRIVEN DECISION MAKING TO SCALE DATA, ANALYTICS, AND AI AT THE CHIEF DIGITAL AND ARTIFICIAL INTELLIGENCE (AI) OFFICE (CDAO)",
-    "text": "BYTECUBED, LLC",
-    "title": "BYTECUBED, LLC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W519TC25F0241_9700_W52P1J22G0174_9700/"
    }
   },
   {
@@ -533,6 +533,18 @@
    }
   },
   {
+   "key": "CONT_AWD_W911QX25FA054_9700_W911QX25DA011_9700",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "2416184",
+    "description": "ARTIFICIAL INTELLIGENCE SUPPORT FOR BASIC AND APPLIED RESEARCH OF THE ARMY RESEARCH LABORATORY",
+    "text": "SCALE AI, INC.",
+    "title": "SCALE AI, INC.",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W911QX25FA054_9700_W911QX25DA011_9700/"
+   }
+  },
+  {
    "key": "CONT_AWD_W9128Z25C5002_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
@@ -542,18 +554,6 @@
     "text": "TRENCHANT ANALYTICS LLC",
     "title": "TRENCHANT ANALYTICS LLC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W9128Z25C5002_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_W911QX25FA054_9700_W911QX25DA011_9700",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "2316184",
-    "description": "ARTIFICIAL INTELLIGENCE SUPPORT FOR BASIC AND APPLIED RESEARCH OF THE ARMY RESEARCH LABORATORY",
-    "text": "SCALE AI, INC.",
-    "title": "SCALE AI, INC.",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W911QX25FA054_9700_W911QX25DA011_9700/"
    }
   },
   {
