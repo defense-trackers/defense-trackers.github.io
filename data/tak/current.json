@@ -1,14 +1,26 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-07-03T09:39:22Z",
+ "fetched_at": "2026-07-03T20:04:38Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "rixau/atak-reactive",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-07-03T16:33:39Z",
+    "description": "Build ATAK (Android Team Awareness Kit) plugin UIs with React and TypeScript. Typed WebView bridge, hot reload, incremental adoption.",
+    "stars": "2",
+    "text": "rixau/atak-reactive",
+    "title": "rixau/atak-reactive",
+    "url": "https://github.com/rixau/atak-reactive"
+   }
+  },
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-03T05:07:53Z",
+    "date": "2026-07-03T19:34:33Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "45",
     "text": "takwerx/infra-TAK",
@@ -20,7 +32,7 @@
    "key": "emfoursolutions/trakbridge",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-03T09:02:26Z",
+    "date": "2026-07-03T18:04:44Z",
     "description": "A comprehensive web application for bridging tracking devices and services to TAK (Team Awareness Kit) servers.",
     "stars": "37",
     "text": "emfoursolutions/trakbridge",
@@ -146,18 +158,6 @@
     "text": "coreywagehoft/go-tak",
     "title": "coreywagehoft/go-tak",
     "url": "https://github.com/coreywagehoft/go-tak"
-   }
-  },
-  {
-   "key": "rixau/atak-reactive",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-04-09T16:53:39Z",
-    "description": "Build ATAK (Android Team Awareness Kit) plugin UIs with React and TypeScript. Typed WebView bridge, hot reload, incremental adoption.",
-    "stars": "2",
-    "text": "rixau/atak-reactive",
-    "title": "rixau/atak-reactive",
-    "url": "https://github.com/rixau/atak-reactive"
    }
   },
   {
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-07-02T12:47:29Z",
+    "date": "2026-07-03T18:20:38Z",
     "description": "full port of Reticulum and LXMF to Rust with added SDK",
     "stars": "19",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -1082,18 +1082,6 @@
     "text": "mtepenner/swarmbotics-operator-frontend",
     "title": "mtepenner/swarmbotics-operator-frontend",
     "url": "https://github.com/mtepenner/swarmbotics-operator-frontend"
-   }
-  },
-  {
-   "key": "niccellular/gadget",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-04-26T01:41:59Z",
-    "description": "ATAK plugin that loads unsigned/signature-rejected plugins by bypassing AtakPluginRegistry verification",
-    "stars": "10",
-    "text": "niccellular/gadget",
-    "title": "niccellular/gadget",
-    "url": "https://github.com/niccellular/gadget"
    }
   },
   {
