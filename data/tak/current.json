@@ -1,9 +1,21 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-07-04T09:09:02Z",
+ "fetched_at": "2026-07-04T19:54:49Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "emfoursolutions/trakbridge",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-07-04T18:25:56Z",
+    "description": "A comprehensive web application for bridging tracking devices and services to TAK (Team Awareness Kit) servers.",
+    "stars": "37",
+    "text": "emfoursolutions/trakbridge",
+    "title": "emfoursolutions/trakbridge",
+    "url": "https://github.com/emfoursolutions/trakbridge"
+   }
+  },
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
@@ -26,18 +38,6 @@
     "text": "rixau/atak-reactive",
     "title": "rixau/atak-reactive",
     "url": "https://github.com/rixau/atak-reactive"
-   }
-  },
-  {
-   "key": "emfoursolutions/trakbridge",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-07-04T08:24:48Z",
-    "description": "A comprehensive web application for bridging tracking devices and services to TAK (Team Awareness Kit) servers.",
-    "stars": "37",
-    "text": "emfoursolutions/trakbridge",
-    "title": "emfoursolutions/trakbridge",
-    "url": "https://github.com/emfoursolutions/trakbridge"
    }
   },
   {
@@ -190,7 +190,7 @@
    "fields": {
     "date": "2026-03-26T22:29:34Z",
     "description": "RTAK V2 brings the decentralized versatility of the Reticulum Network Stack to the Android Team Awareness Kit by serving as a bridge between it and RNS' secure heterogenous mesh networking stack.",
-    "stars": "3",
+    "stars": "4",
     "text": "C2A2-at-Florida-Atlantic-University/RTAK-V2",
     "title": "C2A2-at-Florida-Atlantic-University/RTAK-V2",
     "url": "https://github.com/C2A2-at-Florida-Atlantic-University/RTAK-V2"
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-07-03T18:20:38Z",
+    "date": "2026-07-04T18:06:15Z",
     "description": "full port of Reticulum and LXMF to Rust with added SDK",
     "stars": "19",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -734,7 +734,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-07-02T19:46:52Z",
+    "date": "2026-07-04T18:28:18Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "18",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -936,7 +936,7 @@
    "fields": {
     "date": "2026-06-09T16:44:09Z",
     "description": "ATAK Plugin to grab RSSI values from local Access Points and try to guess where they are.",
-    "stars": "29",
+    "stars": "30",
     "text": "niccellular/wifi2cot",
     "title": "niccellular/wifi2cot",
     "url": "https://github.com/niccellular/wifi2cot"

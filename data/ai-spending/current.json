@@ -1,19 +1,9 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-07-04T09:02:33Z",
+ "fetched_at": "2026-07-04T19:53:13Z",
  "schema_version": 1,
  "records": [
-  {
-   "key": "806026852",
-   "source": "ai-spending-recipients",
-   "fields": {
-    "amount": "7.360540476e+07",
-    "text": "ECS FEDERAL, LLC",
-    "title": "ECS FEDERAL, LLC",
-    "url": "https://www.usaspending.gov/search"
-   }
-  },
   {
    "key": "CONT_AWD_W911QX20C0023_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
@@ -612,6 +602,16 @@
     "text": "UNIVERSITY OF FLORIDA",
     "title": "UNIVERSITY OF FLORIDA",
     "url": "https://www.usaspending.gov/award/CONT_AWD_FA865825CB001_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "806026852",
+   "source": "ai-spending-recipients",
+   "fields": {
+    "amount": "7.360540476e+07",
+    "text": "ECS FEDERAL, LLC",
+    "title": "ECS FEDERAL, LLC",
+    "url": "https://www.usaspending.gov/search"
    }
   }
  ]

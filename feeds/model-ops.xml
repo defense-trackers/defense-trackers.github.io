@@ -3,6 +3,22 @@
 <title>model-ops changelog</title>
 <link>https://defense-trackers.github.io/tracker.html?t=model-ops</link>
 <description>Change events for model-ops. Append-only, hash-chained.</description>
+<item><title>[removed] b9859</title><guid isPermaLink="false">model-ops-b9859-2026-07-04T19:53:19Z</guid><pubDate>Sat, 04 Jul 2026 19:53:19 +0000</pubDate></item>
+<item><title>[added] b9871</title><guid isPermaLink="false">model-ops-b9871-2026-07-04T19:53:19Z</guid><pubDate>Sat, 04 Jul 2026 19:53:19 +0000</pubDate></item>
+<item><title>[changed] meta-llama/Meta-Llama-3-8B-Instruct</title><guid isPermaLink="false">model-ops-meta-llama/Meta-Llama-3-8B-Instruct-2026-07-04T19:53:17Z</guid><pubDate>Sat, 04 Jul 2026 19:53:17 +0000</pubDate></item>
+<item><title>[changed] moonshotai/Kimi-K2-Instruct-0905</title><guid isPermaLink="false">model-ops-moonshotai/Kimi-K2-Instruct-0905-2026-07-04T19:53:17Z</guid><pubDate>Sat, 04 Jul 2026 19:53:17 +0000</pubDate></item>
+<item><title>[changed] nvidia/Gemma-4-31B-IT-NVFP4</title><guid isPermaLink="false">model-ops-nvidia/Gemma-4-31B-IT-NVFP4-2026-07-04T19:53:17Z</guid><pubDate>Sat, 04 Jul 2026 19:53:17 +0000</pubDate></item>
+<item><title>[changed] meta-llama/Llama-3.1-8B</title><guid isPermaLink="false">model-ops-meta-llama/Llama-3.1-8B-2026-07-04T19:53:17Z</guid><pubDate>Sat, 04 Jul 2026 19:53:17 +0000</pubDate></item>
+<item><title>[changed] meta-llama/Llama-3.2-3B-Instruct</title><guid isPermaLink="false">model-ops-meta-llama/Llama-3.2-3B-Instruct-2026-07-04T19:53:17Z</guid><pubDate>Sat, 04 Jul 2026 19:53:17 +0000</pubDate></item>
+<item><title>[changed] google/gemma-3-1b-it</title><guid isPermaLink="false">model-ops-google/gemma-3-1b-it-2026-07-04T19:53:17Z</guid><pubDate>Sat, 04 Jul 2026 19:53:17 +0000</pubDate></item>
+<item><title>[changed] google/gemma-3-270m</title><guid isPermaLink="false">model-ops-google/gemma-3-270m-2026-07-04T19:53:17Z</guid><pubDate>Sat, 04 Jul 2026 19:53:17 +0000</pubDate></item>
+<item><title>[changed] openai/gpt-oss-20b</title><guid isPermaLink="false">model-ops-openai/gpt-oss-20b-2026-07-04T19:53:17Z</guid><pubDate>Sat, 04 Jul 2026 19:53:17 +0000</pubDate></item>
+<item><title>[changed] meta-llama/Llama-3.1-8B-Instruct</title><guid isPermaLink="false">model-ops-meta-llama/Llama-3.1-8B-Instruct-2026-07-04T19:53:17Z</guid><pubDate>Sat, 04 Jul 2026 19:53:17 +0000</pubDate></item>
+<item><title>[changed] openai-community/gpt2</title><guid isPermaLink="false">model-ops-openai-community/gpt2-2026-07-04T19:53:17Z</guid><pubDate>Sat, 04 Jul 2026 19:53:17 +0000</pubDate></item>
+<item><title>[changed] facebook/opt-125m</title><guid isPermaLink="false">model-ops-facebook/opt-125m-2026-07-04T19:53:17Z</guid><pubDate>Sat, 04 Jul 2026 19:53:17 +0000</pubDate></item>
+<item><title>[added] Nomic Embed</title><guid isPermaLink="false">model-ops-Nomic Embed-2026-07-04T19:53:15Z</guid><pubDate>Sat, 04 Jul 2026 19:53:15 +0000</pubDate></item>
+<item><title>[added] Mistral (open-weight releases)</title><guid isPermaLink="false">model-ops-Mistral (open-weight releases)-2026-07-04T19:53:15Z</guid><pubDate>Sat, 04 Jul 2026 19:53:15 +0000</pubDate></item>
+<item><title>[added] Gemma (open weights)</title><guid isPermaLink="false">model-ops-Gemma (open weights)-2026-07-04T19:53:15Z</guid><pubDate>Sat, 04 Jul 2026 19:53:15 +0000</pubDate></item>
 <item><title>[removed] b9858</title><guid isPermaLink="false">model-ops-b9858-2026-07-04T09:07:26Z</guid><pubDate>Sat, 04 Jul 2026 09:07:26 +0000</pubDate></item>
 <item><title>[added] b9870</title><guid isPermaLink="false">model-ops-b9870-2026-07-04T09:07:26Z</guid><pubDate>Sat, 04 Jul 2026 09:07:26 +0000</pubDate></item>
 <item><title>[removed] nm-testing/SmolLM-1.7B-Instruct-quantized.w4a16</title><guid isPermaLink="false">model-ops-nm-testing/SmolLM-1.7B-Instruct-quantized.w4a16-2026-07-04T09:07:23Z</guid><pubDate>Sat, 04 Jul 2026 09:07:23 +0000</pubDate></item>
@@ -37,20 +53,4 @@
 <item><title>[changed] meta-llama/Llama-3.2-1B</title><guid isPermaLink="false">model-ops-meta-llama/Llama-3.2-1B-2026-07-04T09:07:23Z</guid><pubDate>Sat, 04 Jul 2026 09:07:23 +0000</pubDate></item>
 <item><title>[changed] farbodtavakkoli/OTel-LLM-E4B-IT</title><guid isPermaLink="false">model-ops-farbodtavakkoli/OTel-LLM-E4B-IT-2026-07-04T09:07:23Z</guid><pubDate>Sat, 04 Jul 2026 09:07:23 +0000</pubDate></item>
 <item><title>[changed] nvidia/NVIDIA-Nemotron-3-Nano-4B-BF16</title><guid isPermaLink="false">model-ops-nvidia/NVIDIA-Nemotron-3-Nano-4B-BF16-2026-07-04T09:07:23Z</guid><pubDate>Sat, 04 Jul 2026 09:07:23 +0000</pubDate></item>
-<item><title>[changed] zai-org/GLM-5-FP8</title><guid isPermaLink="false">model-ops-zai-org/GLM-5-FP8-2026-07-04T09:07:23Z</guid><pubDate>Sat, 04 Jul 2026 09:07:23 +0000</pubDate></item>
-<item><title>[changed] nvidia/Gemma-4-26B-A4B-NVFP4</title><guid isPermaLink="false">model-ops-nvidia/Gemma-4-26B-A4B-NVFP4-2026-07-04T09:07:23Z</guid><pubDate>Sat, 04 Jul 2026 09:07:23 +0000</pubDate></item>
-<item><title>[changed] TinyLlama/TinyLlama-1.1B-Chat-v1.0</title><guid isPermaLink="false">model-ops-TinyLlama/TinyLlama-1.1B-Chat-v1.0-2026-07-04T09:07:23Z</guid><pubDate>Sat, 04 Jul 2026 09:07:23 +0000</pubDate></item>
-<item><title>[changed] meta-llama/Llama-3.2-3B-Instruct</title><guid isPermaLink="false">model-ops-meta-llama/Llama-3.2-3B-Instruct-2026-07-04T09:07:23Z</guid><pubDate>Sat, 04 Jul 2026 09:07:23 +0000</pubDate></item>
-<item><title>[changed] HuggingFaceTB/SmolLM2-135M-Instruct</title><guid isPermaLink="false">model-ops-HuggingFaceTB/SmolLM2-135M-Instruct-2026-07-04T09:07:23Z</guid><pubDate>Sat, 04 Jul 2026 09:07:23 +0000</pubDate></item>
-<item><title>[changed] EleutherAI/pythia-160m</title><guid isPermaLink="false">model-ops-EleutherAI/pythia-160m-2026-07-04T09:07:23Z</guid><pubDate>Sat, 04 Jul 2026 09:07:23 +0000</pubDate></item>
-<item><title>[changed] distilbert/distilgpt2</title><guid isPermaLink="false">model-ops-distilbert/distilgpt2-2026-07-04T09:07:23Z</guid><pubDate>Sat, 04 Jul 2026 09:07:23 +0000</pubDate></item>
-<item><title>[changed] google/gemma-3-1b-it</title><guid isPermaLink="false">model-ops-google/gemma-3-1b-it-2026-07-04T09:07:23Z</guid><pubDate>Sat, 04 Jul 2026 09:07:23 +0000</pubDate></item>
-<item><title>[changed] openai/gpt-oss-120b</title><guid isPermaLink="false">model-ops-openai/gpt-oss-120b-2026-07-04T09:07:23Z</guid><pubDate>Sat, 04 Jul 2026 09:07:23 +0000</pubDate></item>
-<item><title>[changed] google/gemma-3-270m</title><guid isPermaLink="false">model-ops-google/gemma-3-270m-2026-07-04T09:07:23Z</guid><pubDate>Sat, 04 Jul 2026 09:07:23 +0000</pubDate></item>
-<item><title>[changed] hmellor/tiny-random-LlamaForCausalLM</title><guid isPermaLink="false">model-ops-hmellor/tiny-random-LlamaForCausalLM-2026-07-04T09:07:23Z</guid><pubDate>Sat, 04 Jul 2026 09:07:23 +0000</pubDate></item>
-<item><title>[changed] openai/gpt-oss-20b</title><guid isPermaLink="false">model-ops-openai/gpt-oss-20b-2026-07-04T09:07:23Z</guid><pubDate>Sat, 04 Jul 2026 09:07:23 +0000</pubDate></item>
-<item><title>[changed] meta-llama/Llama-3.2-1B-Instruct</title><guid isPermaLink="false">model-ops-meta-llama/Llama-3.2-1B-Instruct-2026-07-04T09:07:23Z</guid><pubDate>Sat, 04 Jul 2026 09:07:23 +0000</pubDate></item>
-<item><title>[changed] meta-llama/Llama-3.1-8B-Instruct</title><guid isPermaLink="false">model-ops-meta-llama/Llama-3.1-8B-Instruct-2026-07-04T09:07:23Z</guid><pubDate>Sat, 04 Jul 2026 09:07:23 +0000</pubDate></item>
-<item><title>[changed] openai-community/gpt2</title><guid isPermaLink="false">model-ops-openai-community/gpt2-2026-07-04T09:07:23Z</guid><pubDate>Sat, 04 Jul 2026 09:07:23 +0000</pubDate></item>
-<item><title>[changed] facebook/opt-125m</title><guid isPermaLink="false">model-ops-facebook/opt-125m-2026-07-04T09:07:23Z</guid><pubDate>Sat, 04 Jul 2026 09:07:23 +0000</pubDate></item>
 </channel></rss>
