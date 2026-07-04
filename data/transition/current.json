@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-07-03T20:04:41Z",
+ "fetched_at": "2026-07-04T09:09:56Z",
  "schema_version": 1,
  "records": [
   {
@@ -839,19 +839,6 @@
    }
   },
   {
-   "key": "CONT_AWD_N0001915C0003_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "1.055092766407e+10",
-    "award_id": "N0001915C0003",
-    "description": "LRIP 10 AAC",
-    "text": "LOCKHEED MARTIN CORPORATION",
-    "title": "LOCKHEED MARTIN CORPORATION",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_N0001915C0003_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
    "key": "CONT_AWD_W31P4Q20C0023_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -1076,7 +1063,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "7.43774347472e+09",
+    "amount": "7.44242158672e+09",
     "award_id": "FA881018C0005",
     "description": "NEXT GENERATION OVERHEAD PERSISTENT INFRARED GEOSYNCHRONOUS EARTH ORBIT SPACE VEHICLE 1-3 PHASE 1",
     "text": "LOCKHEED MARTIN CORP",
@@ -1193,7 +1180,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "6.88876955474e+09",
+    "amount": "6.88941374174e+09",
     "award_id": "N0002418C2307",
     "description": "FY18-FY22 DDG 51 CLASS SHIP CONSTRUCTION",
     "text": "HUNTINGTON INGALLS INCORPORATED",
@@ -1232,7 +1219,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "6.10420403829e+09",
+    "amount": "6.1042088709e+09",
     "award_id": "W56HZV15C0095",
     "description": "THE CONTRACT INCLUDES FIRM FIXED PRICE (FFP) CONTACT LINE ITEM NUMBERS (CLIN) FOR VEHICLES, TRAILERS, KITS (PACKAGED AND INSTALLED), TEST HARDWARE AND SUPPORT, VEHICLE REFURBISHMENT, SYSTEMS ENGINEERING/ PROGRAM MANAGEMENT (SEPM), STORAGE AND MAINTENANCE OF VEHICLES, VEHICLE REFURBISHMENT, INTEGRATED PRODUCT SUPPORT (IPS), AND A TECHNICAL DATA PACKAGE (TDP).  THE CONTRACT ALSO INCLUDES COST PLUS FIXED FEE (CPFF) CLINS FOR SYSTEM TECHNICAL SUPPORT (STS), TOTAL PACKAGE FIELDING (TPF), AND INTERIM CONTRACTOR SUPPORT (ICS).  THE CONTRACT CONTAINS PROVISIONS FOR AN ECONOMIC PRICE ADJUSTMENT (EPA) FOR MATERIAL FLUCTUATIONS FOR THE VEHICLES PROCURED IN OPTION PERIODS SIX, SEVEN, AND EIGHT.",
     "text": "OSHKOSH DEFENSE LLC",
@@ -1250,6 +1237,18 @@
     "text": "SIKORSKY AIRCRAFT CORPORATION",
     "title": "SIKORSKY AIRCRAFT CORPORATION",
     "url": "https://www.usaspending.gov/award/CONT_AWD_N0001906C0081_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_0059_9700_DAAA0902D0007_9700",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "6.06289726253e+09",
+    "award_id": "0059",
+    "text": "KBR SERVICES, LLC",
+    "title": "KBR SERVICES, LLC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_0059_9700_DAAA0902D0007_9700/"
    }
   }
  ]

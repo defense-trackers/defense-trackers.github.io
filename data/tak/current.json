@@ -1,9 +1,21 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-07-03T20:04:38Z",
+ "fetched_at": "2026-07-04T09:09:02Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-07-03T21:53:16Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "45",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
   {
    "key": "rixau/atak-reactive",
    "source": "tak-cot",
@@ -17,22 +29,10 @@
    }
   },
   {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-07-03T19:34:33Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "45",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
-   }
-  },
-  {
    "key": "emfoursolutions/trakbridge",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-03T18:04:44Z",
+    "date": "2026-07-04T08:24:48Z",
     "description": "A comprehensive web application for bridging tracking devices and services to TAK (Team Awareness Kit) servers.",
     "stars": "37",
     "text": "emfoursolutions/trakbridge",
@@ -793,7 +793,7 @@
    "key": "libre-7/atak-callout",
    "source": "tak-github",
    "fields": {
-    "date": "2026-06-30T13:30:34Z",
+    "date": "2026-07-04T01:18:26Z",
     "description": "Callout — paging/alerting system for ATAK. Plugin + standalone app with multi-transport sync (TAK server, UDP mesh, offline).",
     "stars": "0",
     "text": "libre-7/atak-callout",
