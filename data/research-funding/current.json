@@ -1,21 +1,21 @@
 {
  "source": "research-funding",
  "tracker": "research-funding",
- "fetched_at": "2026-07-04T19:54:40Z",
+ "fetched_at": "2026-07-05T09:25:33Z",
  "schema_version": 1,
  "records": [
   {
-   "key": "2609003",
+   "key": "2526620",
    "source": "research-nsf",
    "fields": {
     "agency": "NSF",
-    "amount": "973138",
-    "awardee": "Massachusetts Institute of Technology",
+    "amount": "410000",
+    "awardee": "Columbia University",
     "date": "10/01/2026",
-    "program": "Software Institutes, NAIRR-Nat AI Research Resource, PHYSICS AT THE INFO FRONTIER",
-    "text": "Collaborative Research: Frameworks: ML4GW, a machine learning ecosystem for gravitational wave data analysis",
-    "title": "Collaborative Research: Frameworks: ML4GW, a machine learning ecosystem for gravitational wave data analysis",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2609003"
+    "program": "Secure \u0026Trustworthy Cyberspace",
+    "text": "Collaborative Research: SaTC 2.0: RES: AIGIS: Securing the Deep Learning Model Supply Chain",
+    "title": "Collaborative Research: SaTC 2.0: RES: AIGIS: Securing the Deep Learning Model Supply Chain",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2526620"
    }
   },
   {
@@ -33,20 +33,6 @@
    }
   },
   {
-   "key": "2526620",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "410000",
-    "awardee": "Columbia University",
-    "date": "10/01/2026",
-    "program": "Secure \u0026Trustworthy Cyberspace",
-    "text": "Collaborative Research: SaTC 2.0: RES: AIGIS: Securing the Deep Learning Model Supply Chain",
-    "title": "Collaborative Research: SaTC 2.0: RES: AIGIS: Securing the Deep Learning Model Supply Chain",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2526620"
-   }
-  },
-  {
    "key": "2537281",
    "source": "research-nsf",
    "fields": {
@@ -58,6 +44,20 @@
     "text": "CER: Assessing relationships between high school teacher professional development and student outcomes in computer science and artificial intelligence",
     "title": "CER: Assessing relationships between high school teacher professional development and student outcomes in computer science and artificial intelligence",
     "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2537281"
+   }
+  },
+  {
+   "key": "2609003",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "973138",
+    "awardee": "Massachusetts Institute of Technology",
+    "date": "10/01/2026",
+    "program": "Software Institutes, NAIRR-Nat AI Research Resource, PHYSICS AT THE INFO FRONTIER",
+    "text": "Collaborative Research: Frameworks: ML4GW, a machine learning ecosystem for gravitational wave data analysis",
+    "title": "Collaborative Research: Frameworks: ML4GW, a machine learning ecosystem for gravitational wave data analysis",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2609003"
    }
   }
  ]

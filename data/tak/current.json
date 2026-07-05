@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-07-04T19:54:49Z",
+ "fetched_at": "2026-07-05T09:25:42Z",
  "schema_version": 1,
  "records": [
   {
    "key": "emfoursolutions/trakbridge",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-04T18:25:56Z",
+    "date": "2026-07-05T08:52:44Z",
     "description": "A comprehensive web application for bridging tracking devices and services to TAK (Team Awareness Kit) servers.",
     "stars": "37",
     "text": "emfoursolutions/trakbridge",
@@ -734,7 +734,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-07-04T18:28:18Z",
+    "date": "2026-07-04T20:04:41Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "18",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -751,6 +751,18 @@
     "text": "FreeTAKTeam/R3AKTClient",
     "title": "FreeTAKTeam/R3AKTClient",
     "url": "https://github.com/FreeTAKTeam/R3AKTClient"
+   }
+  },
+  {
+   "key": "toygar/MeshGrid-ATAK-Distribution",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-07-04T21:17:19Z",
+    "description": "Deployment scripts, configurations, and tools for running ATAK over MeshGrid communication protocols.",
+    "stars": "0",
+    "text": "toygar/MeshGrid-ATAK-Distribution",
+    "title": "toygar/MeshGrid-ATAK-Distribution",
+    "url": "https://github.com/toygar/MeshGrid-ATAK-Distribution"
    }
   },
   {
@@ -1070,18 +1082,6 @@
     "text": "PoggyBobby/EMCON-Sentinel",
     "title": "PoggyBobby/EMCON-Sentinel",
     "url": "https://github.com/PoggyBobby/EMCON-Sentinel"
-   }
-  },
-  {
-   "key": "mtepenner/swarmbotics-operator-frontend",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-04-28T00:08:06Z",
-    "description": "A multi-platform operator frontend for massive robotic swarms, featuring an ATAK plugin, a React-based C2 dashboard, and low-latency WebRTC teleoperation.",
-    "stars": "0",
-    "text": "mtepenner/swarmbotics-operator-frontend",
-    "title": "mtepenner/swarmbotics-operator-frontend",
-    "url": "https://github.com/mtepenner/swarmbotics-operator-frontend"
    }
   },
   {
