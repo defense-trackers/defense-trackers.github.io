@@ -1,7 +1,7 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-07-06T11:07:12Z",
+ "fetched_at": "2026-07-06T20:34:46Z",
  "schema_version": 1,
  "records": [
   {
@@ -80,7 +80,7 @@
    "key": "cisagov/cyhy_amis",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-06-22T20:34:03Z",
+    "date": "2026-07-06T13:48:59Z",
     "description": "AWS infrastructure for Cyber Hygiene and BOD 18-01 scanning",
     "stars": "24",
     "text": "cisagov/cyhy_amis",
@@ -140,7 +140,7 @@
    "key": "cisagov/ansible-role-cyhy-logrotate",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-05-20T19:01:06Z",
+    "date": "2026-07-06T17:02:56Z",
     "description": "Ansible role for installing and configuring logrotate for Cyber Hygiene hosts",
     "stars": "4",
     "text": "cisagov/ansible-role-cyhy-logrotate",
@@ -152,7 +152,7 @@
    "key": "cisagov/ansible-role-logrotate",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-05-19T03:44:24Z",
+    "date": "2026-07-06T18:23:02Z",
     "description": "Ansible role for installing and configuring logrotate",
     "stars": "6",
     "text": "cisagov/ansible-role-logrotate",
@@ -176,7 +176,7 @@
    "key": "cisagov/scan-target-data",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-04-27T20:16:17Z",
+    "date": "2026-07-06T15:52:51Z",
     "description": "Contains data used to identify targets for scanning",
     "stars": "10",
     "text": "cisagov/scan-target-data",
@@ -200,7 +200,7 @@
    "key": "cisagov/bod-18-01-cloudwatch-users",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-04-28T00:08:56Z",
+    "date": "2026-07-06T20:27:48Z",
     "description": "Create AWS users that only have permission to view CloudWatch logs related to BOD 18-01 scanning",
     "stars": "2",
     "text": "cisagov/bod-18-01-cloudwatch-users",
@@ -260,7 +260,7 @@
    "key": "cisagov/ansible-role-nessus",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-07-02T19:24:25Z",
+    "date": "2026-07-06T19:36:08Z",
     "description": "An Ansible role for installing Nessus.",
     "stars": "6",
     "text": "cisagov/ansible-role-nessus",
@@ -356,7 +356,7 @@
    "key": "cisagov/skeleton-docker",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-05-28T20:31:53Z",
+    "date": "2026-07-06T18:33:29Z",
     "description": "A skeleton project for quickly getting a new cisagov Docker container started.",
     "stars": "22",
     "text": "cisagov/skeleton-docker",
@@ -452,7 +452,7 @@
    "key": "cisagov/findings-data-s3-users",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-04-27T21:07:33Z",
+    "date": "2026-07-06T16:52:37Z",
     "description": "Create AWS users that have permission to modify the findings-data bucket.",
     "stars": "2",
     "text": "cisagov/findings-data-s3-users",
@@ -476,7 +476,7 @@
    "key": "cisagov/cool-dns-cyber.dhs.gov",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-06-25T12:46:15Z",
+    "date": "2026-07-06T17:22:38Z",
     "description": "Terraform configuration to create and populate the cyber.dhs.gov zone.",
     "stars": "4",
     "text": "cisagov/cool-dns-cyber.dhs.gov",
@@ -500,7 +500,7 @@
    "key": "cisagov/nessus-packer",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-07-03T17:04:27Z",
+    "date": "2026-07-06T18:24:38Z",
     "description": "Create machine images containing the Nessus vulnerability scanner",
     "stars": "13",
     "text": "cisagov/nessus-packer",
@@ -548,7 +548,7 @@
    "key": "cisagov/ansible-role-devops-user",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-06-02T17:51:24Z",
+    "date": "2026-07-06T14:02:52Z",
     "description": "An Ansible role for creating a devops user that developers can use to ssh into an instance before it is joined to the domain.",
     "stars": "4",
     "text": "cisagov/ansible-role-devops-user",
@@ -596,7 +596,7 @@
    "key": "idaholab/EMRALD",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-07-03T22:01:01Z",
+    "date": "2026-07-06T18:27:19Z",
     "description": "Event Modeling Risk Assessment using Linked Diagrams (EMRALD) is a software tool developed at INL for researching the capabilities of dynamic PRA (Probabilistic Risk Assessment). In order to promote the effective use of dynamic PRA by the general community, EMRALD focuses on the following key aspects: Simplifying the modeling process by providing a structure that corresponds to traditional PRA modeling methods Providing a user interface (UI) that makes it easy for the user to model and visualize complex interactions Allowing the user to couple with other analysis applications such as physics based simulations. This includes one-way communication for most applications and two-way loose coupling for customizable applications Providing the sequence and timing of events that lead to the specified outcomes when calculating results Traditional aspects of components with basic events, fault trees, and event trees are all captured in a dynamic framework of state diagrams, which are displayed ",
     "stars": "29",
     "text": "idaholab/EMRALD",
@@ -751,7 +751,7 @@
    "key": "llnl/conduit",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-07-02T01:07:32Z",
+    "date": "2026-07-06T18:24:56Z",
     "description": "Simplified Data Exchange for HPC Simulations",
     "stars": "245",
     "text": "llnl/conduit",
@@ -799,9 +799,9 @@
    "key": "llnl/RAJA",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-07-05T14:10:13Z",
+    "date": "2026-07-06T20:23:55Z",
     "description": "RAJA Performance Portability Layer (C++)",
-    "stars": "586",
+    "stars": "587",
     "text": "llnl/RAJA",
     "title": "llnl/RAJA",
     "url": "https://github.com/llnl/RAJA"
@@ -978,7 +978,7 @@
    "key": "nasa/trick",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-07-02T22:17:59Z",
+    "date": "2026-07-06T16:19:46Z",
     "description": "Trick Simulation Environment.  Trick provides a common set of simulation capabilities and utilities to build simulations automatically.",
     "stars": "151",
     "text": "nasa/trick",
@@ -1002,7 +1002,7 @@
    "key": "nasa/earthdata-search",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-07-02T19:02:21Z",
+    "date": "2026-07-06T16:31:51Z",
     "description": "Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.",
     "stars": "819",
     "text": "nasa/earthdata-search",
@@ -1026,7 +1026,7 @@
    "key": "nasa/apod-api",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-06-29T14:18:16Z",
+    "date": "2026-07-06T16:19:44Z",
     "description": "Astronomy Picture of the Day API service",
     "stars": "1055",
     "text": "nasa/apod-api",
@@ -1050,7 +1050,7 @@
    "key": "nasa/Common-Metadata-Repository",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-07-02T18:50:52Z",
+    "date": "2026-07-06T20:25:44Z",
     "description": "The Common Metadata Repository (CMR) is a high-performance, high-quality, continuously evolving metadata system that catalogs Earth Science data and associated service metadata records. These metadata records are registered, modified, discovered, and accessed through programmatic interfaces leveraging standard protocols and APIs.",
     "stars": "388",
     "text": "nasa/Common-Metadata-Repository",
@@ -1169,7 +1169,7 @@
    "key": "nsacyber/HIRS",
    "source": "oss-nsacyber",
    "fields": {
-    "date": "2026-07-02T18:47:24Z",
+    "date": "2026-07-06T19:52:50Z",
     "description": "Trusted Computing based services supporting TPM provisioning and supply chain validation concepts. #nsacyber",
     "stars": "212",
     "text": "nsacyber/HIRS",
@@ -1229,7 +1229,7 @@
    "key": "ORNL/HeCBench",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-07-05T21:08:08Z",
+    "date": "2026-07-06T14:57:27Z",
     "stars": "299",
     "text": "ORNL/HeCBench",
     "title": "ORNL/HeCBench",
@@ -1300,7 +1300,7 @@
    "key": "ORNL/superneuroabm",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-06-29T16:14:12Z",
+    "date": "2026-07-06T16:22:15Z",
     "description": "A GPU-based multi-agent simulation framework for neuromorphic computing",
     "stars": "6",
     "text": "ORNL/superneuroabm",
@@ -1312,7 +1312,7 @@
    "key": "ORNL/AdditiveFOAM",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-07-01T18:58:26Z",
+    "date": "2026-07-06T19:57:49Z",
     "description": "A continuum physics code for additive manufacturing built on OpenFOAM",
     "stars": "66",
     "text": "ORNL/AdditiveFOAM",
@@ -1324,7 +1324,7 @@
    "key": "ORNL/GridKit",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-07-04T19:46:12Z",
+    "date": "2026-07-06T20:29:54Z",
     "description": "Modeling framework for power systems simulations and analysis.",
     "stars": "18",
     "text": "ORNL/GridKit",
