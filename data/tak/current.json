@@ -1,7 +1,7 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-07-05T19:58:08Z",
+ "fetched_at": "2026-07-06T11:07:45Z",
  "schema_version": 1,
  "records": [
   {
@@ -406,7 +406,7 @@
    "fields": {
     "date": "2022-08-06T13:17:21Z",
     "description": "a list of hardware and software to be used in conjunction with ATAK platform",
-    "stars": "293",
+    "stars": "294",
     "text": "FreeTAKTeam/openTAKpickList",
     "title": "FreeTAKTeam/openTAKpickList",
     "url": "https://github.com/FreeTAKTeam/openTAKpickList"
@@ -701,7 +701,7 @@
    "fields": {
     "date": "2026-07-05T18:53:31Z",
     "description": "full port of Reticulum and LXMF to Rust with added SDK",
-    "stars": "19",
+    "stars": "20",
     "text": "FreeTAKTeam/LXMF-rs",
     "title": "FreeTAKTeam/LXMF-rs",
     "url": "https://github.com/FreeTAKTeam/LXMF-rs"
@@ -754,6 +754,18 @@
    }
   },
   {
+   "key": "The-Epimetheus/Abstract-A-TAK",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-07-05T23:27:27Z",
+    "description": "One branch builds an ATAK plugin for every ATAK version (4.10–5.8) x distro",
+    "stars": "0",
+    "text": "The-Epimetheus/Abstract-A-TAK",
+    "title": "The-Epimetheus/Abstract-A-TAK",
+    "url": "https://github.com/The-Epimetheus/Abstract-A-TAK"
+   }
+  },
+  {
    "key": "toygar/MeshGrid-ATAK-Distribution",
    "source": "tak-github",
    "fields": {
@@ -763,18 +775,6 @@
     "text": "toygar/MeshGrid-ATAK-Distribution",
     "title": "toygar/MeshGrid-ATAK-Distribution",
     "url": "https://github.com/toygar/MeshGrid-ATAK-Distribution"
-   }
-  },
-  {
-   "key": "The-Epimetheus/Abstract-A-TAK",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-07-03T05:01:51Z",
-    "description": "One branch builds an ATAK plugin for every ATAK version (4.10–5.8) x distro",
-    "stars": "0",
-    "text": "The-Epimetheus/Abstract-A-TAK",
-    "title": "The-Epimetheus/Abstract-A-TAK",
-    "url": "https://github.com/The-Epimetheus/Abstract-A-TAK"
    }
   },
   {
