@@ -81,16 +81,16 @@ SUMMARY:National Cybersecurity Preparedness Consortium
 URL:https://www.grants.gov/search-results-detail/363010
 END:VEVENT
 BEGIN:VEVENT
-UID:close-362926@defense-trackers
-DTSTART;VALUE=DATE:20260724
-SUMMARY:Fiscal Year 2026 Transit Security Grant Program (TSGP)
-URL:https://www.grants.gov/search-results-detail/362926
-END:VEVENT
-BEGIN:VEVENT
 UID:close-362923@defense-trackers
 DTSTART;VALUE=DATE:20260724
 SUMMARY:Fiscal Year 2026 Intercity Bus Security Grant Program
 URL:https://www.grants.gov/search-results-detail/362923
+END:VEVENT
+BEGIN:VEVENT
+UID:close-362926@defense-trackers
+DTSTART;VALUE=DATE:20260724
+SUMMARY:Fiscal Year 2026 Transit Security Grant Program (TSGP)
+URL:https://www.grants.gov/search-results-detail/362926
 END:VEVENT
 BEGIN:VEVENT
 UID:close-362931@defense-trackers
@@ -177,6 +177,12 @@ SUMMARY:Improved Oil and Gas Recovery and Produced Water Management Technologies
 URL:https://www.grants.gov/search-results-detail/363065
 END:VEVENT
 BEGIN:VEVENT
+UID:close-362035@defense-trackers
+DTSTART;VALUE=DATE:20260806
+SUMMARY:High-performance Optimized Recycled Nuclear Isotopes for Gen IV reactors (HORNIG)
+URL:https://www.grants.gov/search-results-detail/362035
+END:VEVENT
+BEGIN:VEVENT
 UID:close-360258@defense-trackers
 DTSTART;VALUE=DATE:20440822
 SUMMARY:Continuing Human Enabling Enhancing Restoring and Sustaining
@@ -223,12 +229,6 @@ UID:close-362242@defense-trackers
 DTSTART;VALUE=DATE:20261014
 SUMMARY:DoW Melanoma Research Program Team Science Award
 URL:https://www.grants.gov/search-results-detail/362242
-END:VEVENT
-BEGIN:VEVENT
-UID:close-359236@defense-trackers
-DTSTART;VALUE=DATE:20300602
-SUMMARY:Staff Research Program
-URL:https://www.grants.gov/search-results-detail/359236
 END:VEVENT
 BEGIN:VEVENT
 UID:close-363018@defense-trackers
@@ -291,6 +291,12 @@ SUMMARY:Decentralized Artificial Intelligence through Controlled Emergence (DICE
 URL:https://sam.gov/workspace/contract/opp/0800655bb5714d68957ce0d5ee922938/view
 END:VEVENT
 BEGIN:VEVENT
+UID:close-4232971a8f3448f79d3691dd3a264adb@defense-trackers
+DTSTART;VALUE=DATE:20260803
+SUMMARY:Other Transaction Authority (OTA) Consortium Request for Proposals (RFP) Seabed-Subsea\, Littoral\, Asymmetric-Autonomous\, Mining and Mine Hunting\, Expeditionary\, Robotic (SLAM2ER) Consortium
+URL:https://sam.gov/workspace/contract/opp/4232971a8f3448f79d3691dd3a264adb/view
+END:VEVENT
+BEGIN:VEVENT
 UID:close-7068ea19a03f4fdc9557635224ccdb54@defense-trackers
 DTSTART;VALUE=DATE:20260722
 SUMMARY:Robotic and Autonomous Construction Equipment (RA-CE)
@@ -307,12 +313,6 @@ UID:close-f95b52cedf5848bda4817b663f2926f7@defense-trackers
 DTSTART;VALUE=DATE:20260722
 SUMMARY:Advancing Autonomous Science for Biological Applications RFI
 URL:https://sam.gov/workspace/contract/opp/f95b52cedf5848bda4817b663f2926f7/view
-END:VEVENT
-BEGIN:VEVENT
-UID:close-441edd53d7314a34951b7e7c77575513@defense-trackers
-DTSTART;VALUE=DATE:20260803
-SUMMARY:Other Transaction Authority (OTA) Consortium Request for Proposals (RFP) Seabed-Subsea\, Littoral\, Asymmetric-Autonomous\, Mining and Mine Hunting\, Expeditionary\, Robotic (SLAM2ER) Consortium
-URL:https://sam.gov/workspace/contract/opp/441edd53d7314a34951b7e7c77575513/view
 END:VEVENT
 BEGIN:VEVENT
 UID:close-7397bf62dffb4c6690f4cbaa7d3b0c77@defense-trackers
@@ -363,15 +363,15 @@ SUMMARY:Fiscal Year 2026 State Fire Training Systems Grants
 URL:https://www.grants.gov/search-results-detail/362992
 END:VEVENT
 BEGIN:VEVENT
-UID:close-363021@defense-trackers
-DTSTART;VALUE=DATE:20260731
-SUMMARY:Fiscal Year 2026 Homeland Security National Training Program
-URL:https://www.grants.gov/search-results-detail/363021
-END:VEVENT
-BEGIN:VEVENT
 UID:close-362793@defense-trackers
 DTSTART;VALUE=DATE:20260715
 SUMMARY:Fiscal Year 2026 Emergency Operations Center Grant Program
 URL:https://www.grants.gov/search-results-detail/362793
+END:VEVENT
+BEGIN:VEVENT
+UID:close-363021@defense-trackers
+DTSTART;VALUE=DATE:20260731
+SUMMARY:Fiscal Year 2026 Homeland Security National Training Program
+URL:https://www.grants.gov/search-results-detail/363021
 END:VEVENT
 END:VCALENDAR

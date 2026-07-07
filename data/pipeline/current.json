@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-07-07T10:03:43Z",
+ "fetched_at": "2026-07-07T20:32:32Z",
  "schema_version": 1,
  "records": [
   {
@@ -157,19 +157,6 @@
    }
   },
   {
-   "key": "362926",
-   "source": "pipeline-cyber",
-   "fields": {
-    "agency": "Department of Homeland Security - FEMA",
-    "closes": "07/24/2026",
-    "number": "DHS-26-GPD-075-00-99",
-    "posted": "06/24/2026",
-    "text": "Fiscal Year 2026 Transit Security Grant Program (TSGP)",
-    "title": "Fiscal Year 2026 Transit Security Grant Program (TSGP)",
-    "url": "https://www.grants.gov/search-results-detail/362926"
-   }
-  },
-  {
    "key": "362923",
    "source": "pipeline-cyber",
    "fields": {
@@ -180,6 +167,19 @@
     "text": "Fiscal Year 2026 Intercity Bus Security Grant Program",
     "title": "Fiscal Year 2026 Intercity Bus Security Grant Program",
     "url": "https://www.grants.gov/search-results-detail/362923"
+   }
+  },
+  {
+   "key": "362926",
+   "source": "pipeline-cyber",
+   "fields": {
+    "agency": "Department of Homeland Security - FEMA",
+    "closes": "07/24/2026",
+    "number": "DHS-26-GPD-075-00-99",
+    "posted": "06/24/2026",
+    "text": "Fiscal Year 2026 Transit Security Grant Program (TSGP)",
+    "title": "Fiscal Year 2026 Transit Security Grant Program (TSGP)",
+    "url": "https://www.grants.gov/search-results-detail/362926"
    }
   },
   {
@@ -365,6 +365,19 @@
    }
   },
   {
+   "key": "362035",
+   "source": "pipeline-grants",
+   "fields": {
+    "agency": "Advanced Research Projects Agency Energy ",
+    "closes": "08/06/2026",
+    "number": "DE-FOA-0003623",
+    "posted": "04/23/2026",
+    "text": "High-performance Optimized Recycled Nuclear Isotopes for Gen IV reactors (HORNIG)",
+    "title": "High-performance Optimized Recycled Nuclear Isotopes for Gen IV reactors (HORNIG)",
+    "url": "https://www.grants.gov/search-results-detail/362035"
+   }
+  },
+  {
    "key": "362681",
    "source": "pipeline-grants",
    "fields": {
@@ -490,19 +503,6 @@
     "text": "DoW Melanoma Research Program Team Science Award",
     "title": "DoW Melanoma Research Program Team Science Award",
     "url": "https://www.grants.gov/search-results-detail/362242"
-   }
-  },
-  {
-   "key": "359236",
-   "source": "pipeline-grants",
-   "fields": {
-    "agency": "Dept of the Army -- Materiel Command",
-    "closes": "06/02/2030",
-    "number": "W911NF25S0007",
-    "posted": "06/03/2025",
-    "text": "Staff Research Program",
-    "title": "Staff Research Program",
-    "url": "https://www.grants.gov/search-results-detail/359236"
    }
   },
   {
@@ -686,6 +686,21 @@
    }
   },
   {
+   "key": "4232971a8f3448f79d3691dd3a264adb",
+   "source": "pipeline-sam-autonomy",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NAVAL SURFACE WARFARE CENTER",
+    "closes": "2026-08-03T14:00:00-05:00",
+    "number": "N61331-26-SN9-0001",
+    "posted": "2026-07-07",
+    "setaside": "No Set aside used",
+    "text": "Other Transaction Authority (OTA) Consortium Request for Proposals (RFP) Seabed-Subsea, Littoral, Asymmetric-Autonomous, Mining and Mine Hunting, Expeditionary, Robotic (SLAM2ER) Consortium",
+    "title": "Other Transaction Authority (OTA) Consortium Request for Proposals (RFP) Seabed-Subsea, Littoral, Asymmetric-Autonomous, Mining and Mine Hunting, Expeditionary, Robotic (SLAM2ER) Consortium",
+    "type": "Solicitation",
+    "url": "https://sam.gov/workspace/contract/opp/4232971a8f3448f79d3691dd3a264adb/view"
+   }
+  },
+  {
    "key": "7068ea19a03f4fdc9557635224ccdb54",
    "source": "pipeline-sam-autonomy",
    "fields": {
@@ -729,18 +744,16 @@
    }
   },
   {
-   "key": "441edd53d7314a34951b7e7c77575513",
-   "source": "pipeline-sam-autonomy",
+   "key": "89571fe157704a8d8aa246245a743828",
+   "source": "pipeline-sam-unmanned",
    "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NAVAL SURFACE WARFARE CENTER",
-    "closes": "2026-08-03T14:00:00-05:00",
-    "number": "N61331-26-SN9-0001",
-    "posted": "2026-06-18",
-    "setaside": "No Set aside used",
-    "text": "Other Transaction Authority (OTA) Consortium Request for Proposals (RFP) Seabed-Subsea, Littoral, Asymmetric-Autonomous, Mining and Mine Hunting, Expeditionary, Robotic (SLAM2ER) Consortium",
-    "title": "Other Transaction Authority (OTA) Consortium Request for Proposals (RFP) Seabed-Subsea, Littoral, Asymmetric-Autonomous, Mining and Mine Hunting, Expeditionary, Robotic (SLAM2ER) Consortium",
-    "type": "Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/441edd53d7314a34951b7e7c77575513/view"
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR HQ.NAVAL INFORMATION WARFARE SYSTEMS",
+    "number": "N0003926RR001",
+    "posted": "2026-07-07",
+    "text": "Medium Unmanned Surface Vessel (MUSV) High-Capacity",
+    "title": "Medium Unmanned Surface Vessel (MUSV) High-Capacity",
+    "type": "Presolicitation",
+    "url": "https://sam.gov/workspace/contract/opp/89571fe157704a8d8aa246245a743828/view"
    }
   },
   {
@@ -870,19 +883,6 @@
    }
   },
   {
-   "key": "363021",
-   "source": "pipeline-unmanned",
-   "fields": {
-    "agency": "Department of Homeland Security - FEMA",
-    "closes": "07/31/2026",
-    "number": "DHS-26-NPD-005-00-96",
-    "posted": "07/01/2026",
-    "text": "Fiscal Year 2026 Homeland Security National Training Program",
-    "title": "Fiscal Year 2026 Homeland Security National Training Program",
-    "url": "https://www.grants.gov/search-results-detail/363021"
-   }
-  },
-  {
    "key": "362793",
    "source": "pipeline-unmanned",
    "fields": {
@@ -893,6 +893,19 @@
     "text": "Fiscal Year 2026 Emergency Operations Center Grant Program",
     "title": "Fiscal Year 2026 Emergency Operations Center Grant Program",
     "url": "https://www.grants.gov/search-results-detail/362793"
+   }
+  },
+  {
+   "key": "363021",
+   "source": "pipeline-unmanned",
+   "fields": {
+    "agency": "Department of Homeland Security - FEMA",
+    "closes": "07/31/2026",
+    "number": "DHS-26-NPD-005-00-96",
+    "posted": "07/01/2026",
+    "text": "Fiscal Year 2026 Homeland Security National Training Program",
+    "title": "Fiscal Year 2026 Homeland Security National Training Program",
+    "url": "https://www.grants.gov/search-results-detail/363021"
    }
   }
  ]

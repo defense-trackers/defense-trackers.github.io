@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-07-07T10:04:03Z",
+ "fetched_at": "2026-07-07T20:32:50Z",
  "schema_version": 1,
  "records": [
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-07T02:51:49Z",
+    "date": "2026-07-07T20:31:42Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "46",
     "text": "takwerx/infra-TAK",
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-07-06T20:51:36Z",
+    "date": "2026-07-07T19:25:01Z",
     "description": "full port of Reticulum and LXMF to Rust with added SDK",
     "stars": "22",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -734,9 +734,9 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-07-06T22:07:21Z",
+    "date": "2026-07-07T18:35:15Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
-    "stars": "19",
+    "stars": "20",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
     "title": "FreeTAKTeam/reticulum_mobile_emergency_management",
     "url": "https://github.com/FreeTAKTeam/reticulum_mobile_emergency_management"
@@ -751,6 +751,30 @@
     "text": "FreeTAKTeam/R3AKTClient",
     "title": "FreeTAKTeam/R3AKTClient",
     "url": "https://github.com/FreeTAKTeam/R3AKTClient"
+   }
+  },
+  {
+   "key": "niccellular/forcedelete",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-07-07T17:18:30Z",
+    "description": "ATAK Plugin to remotely delete map items",
+    "stars": "9",
+    "text": "niccellular/forcedelete",
+    "title": "niccellular/forcedelete",
+    "url": "https://github.com/niccellular/forcedelete"
+   }
+  },
+  {
+   "key": "TX-RX/TAK-XVoice",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-07-07T19:33:12Z",
+    "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
+    "stars": "1",
+    "text": "TX-RX/TAK-XVoice",
+    "title": "TX-RX/TAK-XVoice",
+    "url": "https://github.com/TX-RX/TAK-XVoice"
    }
   },
   {
@@ -1058,30 +1082,6 @@
     "text": "mighkel/ATAK-Plugin-KestrelWx",
     "title": "mighkel/ATAK-Plugin-KestrelWx",
     "url": "https://github.com/mighkel/ATAK-Plugin-KestrelWx"
-   }
-  },
-  {
-   "key": "3rdEyeOperation/ATAK-helloworld",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-05-04T04:56:03Z",
-    "description": "ATAK plugin build with guide",
-    "stars": "0",
-    "text": "3rdEyeOperation/ATAK-helloworld",
-    "title": "3rdEyeOperation/ATAK-helloworld",
-    "url": "https://github.com/3rdEyeOperation/ATAK-helloworld"
-   }
-  },
-  {
-   "key": "PoggyBobby/EMCON-Sentinel",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-05-03T21:09:51Z",
-    "description": "EMCON Sentinel — ATAK-CIV plugin that warns drone operators when adversary RF direction-finding assets are about to fix their position. Three-tier sensing (phone, MAVLink C2, RTL-SDR) + Friis path-loss + dwell-time composite risk + directional displacement candidates. Army xTech 2026.",
-    "stars": "0",
-    "text": "PoggyBobby/EMCON-Sentinel",
-    "title": "PoggyBobby/EMCON-Sentinel",
-    "url": "https://github.com/PoggyBobby/EMCON-Sentinel"
    }
   },
   {
