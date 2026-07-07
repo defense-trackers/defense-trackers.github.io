@@ -1,9 +1,21 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-07-06T20:35:23Z",
+ "fetched_at": "2026-07-07T10:04:03Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-07-07T02:51:49Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "46",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
   {
    "key": "emfoursolutions/trakbridge",
    "source": "tak-cot",
@@ -14,18 +26,6 @@
     "text": "emfoursolutions/trakbridge",
     "title": "emfoursolutions/trakbridge",
     "url": "https://github.com/emfoursolutions/trakbridge"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-07-06T20:34:16Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "46",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -158,18 +158,6 @@
     "text": "coreywagehoft/go-tak",
     "title": "coreywagehoft/go-tak",
     "url": "https://github.com/coreywagehoft/go-tak"
-   }
-  },
-  {
-   "key": "ksoodevelopper/Civ-ATACK-ITAK-JTACK-Syst-me",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-03-30T23:25:40Z",
-    "description": "Team Awareness Kit - Civil (ATAK-Civ)",
-    "stars": "0",
-    "text": "ksoodevelopper/Civ-ATACK-ITAK-JTACK-Syst-me",
-    "title": "ksoodevelopper/Civ-ATACK-ITAK-JTACK-Syst-me",
-    "url": "https://github.com/ksoodevelopper/Civ-ATACK-ITAK-JTACK-Syst-me"
    }
   },
   {
@@ -338,6 +326,18 @@
     "text": "westpoint-robotics/moos-tak",
     "title": "westpoint-robotics/moos-tak",
     "url": "https://github.com/westpoint-robotics/moos-tak"
+   }
+  },
+  {
+   "key": "raytheonbbn/tak-cad",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2023-10-03T12:28:02Z",
+    "description": "TAK-CAD is an Android Team Awareness Kit (ATAK) plugin that provides Computer Aided Dispatch capabilities to security force and public safety personnel executing dispatch operations.",
+    "stars": "35",
+    "text": "raytheonbbn/tak-cad",
+    "title": "raytheonbbn/tak-cad",
+    "url": "https://github.com/raytheonbbn/tak-cad"
    }
   },
   {
@@ -618,7 +618,7 @@
    "fields": {
     "date": "2026-07-02T18:51:05Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
-    "stars": "89",
+    "stars": "90",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
     "title": "FreeTAKTeam/Reticulum-Community-Hub",
     "url": "https://github.com/FreeTAKTeam/Reticulum-Community-Hub"
@@ -699,9 +699,9 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-07-06T20:20:58Z",
+    "date": "2026-07-06T20:51:36Z",
     "description": "full port of Reticulum and LXMF to Rust with added SDK",
-    "stars": "21",
+    "stars": "22",
     "text": "FreeTAKTeam/LXMF-rs",
     "title": "FreeTAKTeam/LXMF-rs",
     "url": "https://github.com/FreeTAKTeam/LXMF-rs"
@@ -724,7 +724,7 @@
    "fields": {
     "date": "2026-02-16T17:47:11Z",
     "description": "AsyncAPI-first Reticulum/LXMF framework in Rust",
-    "stars": "0",
+    "stars": "1",
     "text": "FreeTAKTeam/Reticulum_AsyncAPI_rs",
     "title": "FreeTAKTeam/Reticulum_AsyncAPI_rs",
     "url": "https://github.com/FreeTAKTeam/Reticulum_AsyncAPI_rs"
@@ -734,9 +734,9 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-07-04T20:04:41Z",
+    "date": "2026-07-06T22:07:21Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
-    "stars": "18",
+    "stars": "19",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
     "title": "FreeTAKTeam/reticulum_mobile_emergency_management",
     "url": "https://github.com/FreeTAKTeam/reticulum_mobile_emergency_management"
@@ -759,7 +759,7 @@
    "fields": {
     "date": "2026-07-05T23:27:27Z",
     "description": "One branch builds an ATAK plugin for every ATAK version (4.10–5.8) x distro",
-    "stars": "0",
+    "stars": "1",
     "text": "The-Epimetheus/Abstract-A-TAK",
     "title": "The-Epimetheus/Abstract-A-TAK",
     "url": "https://github.com/The-Epimetheus/Abstract-A-TAK"
@@ -889,7 +889,7 @@
    "fields": {
     "date": "2026-06-14T20:36:34Z",
     "description": "ATAK plugin that scans nearby Bluetooth (BLE + Classic) devices while you move and plots their estimated positions on the map",
-    "stars": "3",
+    "stars": "4",
     "text": "niccellular/bt2cot",
     "title": "niccellular/bt2cot",
     "url": "https://github.com/niccellular/bt2cot"
