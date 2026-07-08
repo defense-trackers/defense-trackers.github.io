@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-07-07T20:31:09Z",
+ "fetched_at": "2026-07-08T08:45:41Z",
  "schema_version": 1,
  "records": [
   {
@@ -65,6 +65,18 @@
    }
   },
   {
+   "key": "CONT_AWD_HQ003425CE092_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1.638060245e+07",
+    "description": "THIS IS A NON-PERSONAL SERVICES CONTRACT TO PROVIDE INFORMATION TECHNOLOGY, ARTIFICIAL INTELLIGENCE, AND MACHINE LEARNING PROGRAM SUPPORT SERVICES.",
+    "text": "LEISNOI PROFESSIONAL SERVICES, LLC",
+    "title": "LEISNOI PROFESSIONAL SERVICES, LLC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_HQ003425CE092_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_HR001124C0310_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
@@ -74,18 +86,6 @@
     "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
     "title": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
     "url": "https://www.usaspending.gov/award/CONT_AWD_HR001124C0310_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_HQ003425CE092_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "1.43586328e+07",
-    "description": "THIS IS A NON-PERSONAL SERVICES CONTRACT TO PROVIDE INFORMATION TECHNOLOGY, ARTIFICIAL INTELLIGENCE, AND MACHINE LEARNING PROGRAM SUPPORT SERVICES.",
-    "text": "LEISNOI PROFESSIONAL SERVICES, LLC",
-    "title": "LEISNOI PROFESSIONAL SERVICES, LLC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_HQ003425CE092_9700_-NONE-_-NONE-/"
    }
   },
   {
