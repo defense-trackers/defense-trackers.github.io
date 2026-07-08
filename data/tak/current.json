@@ -1,14 +1,26 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-07-08T08:47:32Z",
+ "fetched_at": "2026-07-08T20:09:56Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "9M2PJU/9M2PJU-Open-TAK-Server-Docker",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-07-08T19:32:22Z",
+    "description": "Production-ready Docker deployment of OpenTAKServer (OTS) — an open-source TAK (Team Awareness Kit) server compatible with ATAK, WinTAK, and iTAK clients.",
+    "stars": "0",
+    "text": "9M2PJU/9M2PJU-Open-TAK-Server-Docker",
+    "title": "9M2PJU/9M2PJU-Open-TAK-Server-Docker",
+    "url": "https://github.com/9M2PJU/9M2PJU-Open-TAK-Server-Docker"
+   }
+  },
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-08T05:35:34Z",
+    "date": "2026-07-08T18:52:04Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "46",
     "text": "takwerx/infra-TAK",
@@ -326,18 +338,6 @@
     "text": "westpoint-robotics/moos-tak",
     "title": "westpoint-robotics/moos-tak",
     "url": "https://github.com/westpoint-robotics/moos-tak"
-   }
-  },
-  {
-   "key": "raytheonbbn/tak-cad",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2023-10-03T12:28:02Z",
-    "description": "TAK-CAD is an Android Team Awareness Kit (ATAK) plugin that provides Computer Aided Dispatch capabilities to security force and public safety personnel executing dispatch operations.",
-    "stars": "35",
-    "text": "raytheonbbn/tak-cad",
-    "title": "raytheonbbn/tak-cad",
-    "url": "https://github.com/raytheonbbn/tak-cad"
    }
   },
   {
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-07-07T21:36:28Z",
+    "date": "2026-07-08T20:06:45Z",
     "description": "full port of Reticulum and LXMF to Rust with added SDK",
     "stars": "22",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -757,12 +757,24 @@
    "key": "TX-RX/TAK-XVoice",
    "source": "tak-github",
    "fields": {
-    "date": "2026-07-08T01:19:15Z",
+    "date": "2026-07-08T20:08:45Z",
     "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
     "stars": "1",
     "text": "TX-RX/TAK-XVoice",
     "title": "TX-RX/TAK-XVoice",
     "url": "https://github.com/TX-RX/TAK-XVoice"
+   }
+  },
+  {
+   "key": "newtypeind/atak-plugin-kotlin-starter",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-07-08T11:22:44Z",
+    "description": "Starter for building ATAK plugins with Kotlin and Jetpack Compose (Material 3) instead of Java and Android XML.",
+    "stars": "0",
+    "text": "newtypeind/atak-plugin-kotlin-starter",
+    "title": "newtypeind/atak-plugin-kotlin-starter",
+    "url": "https://github.com/newtypeind/atak-plugin-kotlin-starter"
    }
   },
   {
@@ -819,7 +831,7 @@
    "fields": {
     "date": "2026-07-02T00:56:07Z",
     "description": "ATAK MeshCore plugin",
-    "stars": "19",
+    "stars": "20",
     "text": "atakmaps/TAK-MESHCORE",
     "title": "atakmaps/TAK-MESHCORE",
     "url": "https://github.com/atakmaps/TAK-MESHCORE"
@@ -929,18 +941,6 @@
     "text": "Cloud-RF/SOOTHSAYER-ATAK-plugin",
     "title": "Cloud-RF/SOOTHSAYER-ATAK-plugin",
     "url": "https://github.com/Cloud-RF/SOOTHSAYER-ATAK-plugin"
-   }
-  },
-  {
-   "key": "newtypeind/atak-plugin-kotlin-starter",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-06-12T06:14:11Z",
-    "description": "Starter for building ATAK plugins with Kotlin and Jetpack Compose (Material 3) instead of Java and Android XML.",
-    "stars": "0",
-    "text": "newtypeind/atak-plugin-kotlin-starter",
-    "title": "newtypeind/atak-plugin-kotlin-starter",
-    "url": "https://github.com/newtypeind/atak-plugin-kotlin-starter"
    }
   },
   {
