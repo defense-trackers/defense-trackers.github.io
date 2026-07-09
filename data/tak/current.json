@@ -1,19 +1,31 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-07-09T10:01:09Z",
+ "fetched_at": "2026-07-09T20:33:38Z",
  "schema_version": 1,
  "records": [
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-09T07:39:37Z",
+    "date": "2026-07-09T19:39:59Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "47",
+    "stars": "48",
     "text": "takwerx/infra-TAK",
     "title": "takwerx/infra-TAK",
     "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
+  {
+   "key": "joshuafuller/SRTM2TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-07-09T14:33:41Z",
+    "description": "Progressive Web App to download and package SRTM elevation data for ATAK (Android Team Awareness Kit). Features offline caching, concurrent downloads, and automatic ZIP packaging for direct import into ATAK.",
+    "stars": "8",
+    "text": "joshuafuller/SRTM2TAK",
+    "title": "joshuafuller/SRTM2TAK",
+    "url": "https://github.com/joshuafuller/SRTM2TAK"
    }
   },
   {
@@ -110,18 +122,6 @@
     "text": "SauceTaster/TAK-ATK",
     "title": "SauceTaster/TAK-ATK",
     "url": "https://github.com/SauceTaster/TAK-ATK"
-   }
-  },
-  {
-   "key": "joshuafuller/SRTM2TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-06-20T09:36:12Z",
-    "description": "Progressive Web App to download and package SRTM elevation data for ATAK (Android Team Awareness Kit). Features offline caching, concurrent downloads, and automatic ZIP packaging for direct import into ATAK.",
-    "stars": "8",
-    "text": "joshuafuller/SRTM2TAK",
-    "title": "joshuafuller/SRTM2TAK",
-    "url": "https://github.com/joshuafuller/SRTM2TAK"
    }
   },
   {
@@ -734,7 +734,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-07-07T21:11:13Z",
+    "date": "2026-07-09T19:49:44Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "20",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -751,6 +751,17 @@
     "text": "FreeTAKTeam/R3AKTClient",
     "title": "FreeTAKTeam/R3AKTClient",
     "url": "https://github.com/FreeTAKTeam/R3AKTClient"
+   }
+  },
+  {
+   "key": "shigeki7299/ATAK_Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-07-09T16:23:54Z",
+    "stars": "0",
+    "text": "shigeki7299/ATAK_Plugin",
+    "title": "shigeki7299/ATAK_Plugin",
+    "url": "https://github.com/shigeki7299/ATAK_Plugin"
    }
   },
   {
@@ -859,17 +870,6 @@
     "text": "kd2var/aprsdroid-atak-plugin",
     "title": "kd2var/aprsdroid-atak-plugin",
     "url": "https://github.com/kd2var/aprsdroid-atak-plugin"
-   }
-  },
-  {
-   "key": "shigeki7299/ATAK_Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-06-28T14:36:23Z",
-    "stars": "0",
-    "text": "shigeki7299/ATAK_Plugin",
-    "title": "shigeki7299/ATAK_Plugin",
-    "url": "https://github.com/shigeki7299/ATAK_Plugin"
    }
   },
   {
