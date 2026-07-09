@@ -1,31 +1,31 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-07-08T20:09:56Z",
+ "fetched_at": "2026-07-09T10:01:09Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-07-09T07:39:37Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "47",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
   {
    "key": "9M2PJU/9M2PJU-Open-TAK-Server-Docker",
    "source": "tak-cot",
    "fields": {
     "date": "2026-07-08T19:32:22Z",
     "description": "Production-ready Docker deployment of OpenTAKServer (OTS) — an open-source TAK (Team Awareness Kit) server compatible with ATAK, WinTAK, and iTAK clients.",
-    "stars": "0",
+    "stars": "1",
     "text": "9M2PJU/9M2PJU-Open-TAK-Server-Docker",
     "title": "9M2PJU/9M2PJU-Open-TAK-Server-Docker",
     "url": "https://github.com/9M2PJU/9M2PJU-Open-TAK-Server-Docker"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-07-08T18:52:04Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "46",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -128,7 +128,7 @@
    "key": "snstac/pytak",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-06-19T06:25:00Z",
+    "date": "2026-07-09T07:18:02Z",
     "description": "PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.",
     "stars": "242",
     "text": "snstac/pytak",
@@ -346,7 +346,7 @@
    "fields": {
     "date": "2024-10-29T11:52:00Z",
     "description": "Situational Awareness Server compatible with TAK clients",
-    "stars": "928",
+    "stars": "929",
     "text": "FreeTAKTeam/FreeTakServer",
     "title": "FreeTAKTeam/FreeTakServer",
     "url": "https://github.com/FreeTAKTeam/FreeTakServer"
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-07-08T20:06:45Z",
+    "date": "2026-07-08T23:40:52Z",
     "description": "full port of Reticulum and LXMF to Rust with added SDK",
     "stars": "22",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -757,7 +757,7 @@
    "key": "TX-RX/TAK-XVoice",
    "source": "tak-github",
    "fields": {
-    "date": "2026-07-08T20:08:45Z",
+    "date": "2026-07-08T22:53:22Z",
     "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
     "stars": "1",
     "text": "TX-RX/TAK-XVoice",
@@ -949,7 +949,7 @@
    "fields": {
     "date": "2026-06-11T02:18:03Z",
     "description": "Live Google traffic overlay in ATAK (no plugin, custom map source XML) and OmniTAK — verified guide with screenshots and source-level receipts",
-    "stars": "6",
+    "stars": "7",
     "text": "engindearing-projects/tak-live-traffic-guide",
     "title": "engindearing-projects/tak-live-traffic-guide",
     "url": "https://github.com/engindearing-projects/tak-live-traffic-guide"
