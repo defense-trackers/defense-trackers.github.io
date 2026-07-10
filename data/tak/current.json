@@ -1,14 +1,26 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-07-10T09:56:23Z",
+ "fetched_at": "2026-07-10T20:07:58Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "parkerjason1998/claude-ai-coding-kit-v2026",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-07-10T20:02:34Z",
+    "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation for version 2026.",
+    "stars": "0",
+    "text": "parkerjason1998/claude-ai-coding-kit-v2026",
+    "title": "parkerjason1998/claude-ai-coding-kit-v2026",
+    "url": "https://github.com/parkerjason1998/claude-ai-coding-kit-v2026"
+   }
+  },
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-09T22:53:04Z",
+    "date": "2026-07-10T14:00:28Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "48",
     "text": "takwerx/infra-TAK",
@@ -329,18 +341,6 @@
    }
   },
   {
-   "key": "westpoint-robotics/moos-tak",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2024-01-29T17:08:10Z",
-    "description": "Ability to send Team Awareness Kit (TAK) cursor on target (COT) messages from the MOOS robot middleware.",
-    "stars": "1",
-    "text": "westpoint-robotics/moos-tak",
-    "title": "westpoint-robotics/moos-tak",
-    "url": "https://github.com/westpoint-robotics/moos-tak"
-   }
-  },
-  {
    "key": "FreeTAKTeam/FreeTakServer",
    "source": "tak-freetak",
    "fields": {
@@ -406,7 +406,7 @@
    "fields": {
     "date": "2022-08-06T13:17:21Z",
     "description": "a list of hardware and software to be used in conjunction with ATAK platform",
-    "stars": "294",
+    "stars": "293",
     "text": "FreeTAKTeam/openTAKpickList",
     "title": "FreeTAKTeam/openTAKpickList",
     "url": "https://github.com/FreeTAKTeam/openTAKpickList"
@@ -699,9 +699,9 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-07-10T01:08:52Z",
+    "date": "2026-07-10T12:35:19Z",
     "description": "full port of Reticulum and LXMF to Rust with added SDK",
-    "stars": "22",
+    "stars": "21",
     "text": "FreeTAKTeam/LXMF-rs",
     "title": "FreeTAKTeam/LXMF-rs",
     "url": "https://github.com/FreeTAKTeam/LXMF-rs"
@@ -757,7 +757,7 @@
    "key": "shigeki7299/ATAK_Plugin",
    "source": "tak-github",
    "fields": {
-    "date": "2026-07-09T16:23:54Z",
+    "date": "2026-07-10T17:21:48Z",
     "stars": "0",
     "text": "shigeki7299/ATAK_Plugin",
     "title": "shigeki7299/ATAK_Plugin",
@@ -1007,7 +1007,7 @@
    "fields": {
     "date": "2026-06-04T21:30:53Z",
     "description": "ATAK Plugin for sending CoT to IMeshService",
-    "stars": "501",
+    "stars": "498",
     "text": "meshtastic/ATAK-Plugin",
     "title": "meshtastic/ATAK-Plugin",
     "url": "https://github.com/meshtastic/ATAK-Plugin"
