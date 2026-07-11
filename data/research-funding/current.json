@@ -1,23 +1,9 @@
 {
  "source": "research-funding",
  "tracker": "research-funding",
- "fetched_at": "2026-07-10T20:07:49Z",
+ "fetched_at": "2026-07-11T08:17:23Z",
  "schema_version": 1,
  "records": [
-  {
-   "key": "2537281",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "899983",
-    "awardee": "University Enterprises, Incorporated",
-    "date": "10/01/2026",
-    "program": "CER-ComputingEducationResearch",
-    "text": "CER: Assessing relationships between high school teacher professional development and student outcomes in computer science and artificial intelligence",
-    "title": "CER: Assessing relationships between high school teacher professional development and student outcomes in computer science and artificial intelligence",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2537281"
-   }
-  },
   {
    "key": "2609003",
    "source": "research-nsf",
@@ -58,6 +44,20 @@
     "text": "Collaborative Research: SaTC 2.0: RES: AIGIS: Securing the Deep Learning Model Supply Chain",
     "title": "Collaborative Research: SaTC 2.0: RES: AIGIS: Securing the Deep Learning Model Supply Chain",
     "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2526620"
+   }
+  },
+  {
+   "key": "2537281",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "899983",
+    "awardee": "University Enterprises, Incorporated",
+    "date": "10/01/2026",
+    "program": "CER-ComputingEducationResearch",
+    "text": "CER: Assessing relationships between high school teacher professional development and student outcomes in computer science and artificial intelligence",
+    "title": "CER: Assessing relationships between high school teacher professional development and student outcomes in computer science and artificial intelligence",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2537281"
    }
   }
  ]
