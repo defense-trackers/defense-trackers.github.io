@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-07-11T08:17:32Z",
+ "fetched_at": "2026-07-11T19:52:54Z",
  "schema_version": 1,
  "records": [
   {
    "key": "parkerjason1998/claude-ai-coding-kit-v2026",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-11T07:49:50Z",
+    "date": "2026-07-11T19:30:25Z",
     "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation for version 2026.",
     "stars": "0",
     "text": "parkerjason1998/claude-ai-coding-kit-v2026",
@@ -17,10 +17,22 @@
    }
   },
   {
+   "key": "9M2PJU/9M2PJU-Open-TAK-Server-Docker",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-07-11T17:31:21Z",
+    "description": "Production-ready Docker deployment of OpenTAKServer (OTS) — an open-source TAK (Team Awareness Kit) server compatible with ATAK, WinTAK, and iTAK clients.",
+    "stars": "1",
+    "text": "9M2PJU/9M2PJU-Open-TAK-Server-Docker",
+    "title": "9M2PJU/9M2PJU-Open-TAK-Server-Docker",
+    "url": "https://github.com/9M2PJU/9M2PJU-Open-TAK-Server-Docker"
+   }
+  },
+  {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-11T04:39:42Z",
+    "date": "2026-07-11T16:31:43Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "48",
     "text": "takwerx/infra-TAK",
@@ -38,18 +50,6 @@
     "text": "joshuafuller/SRTM2TAK",
     "title": "joshuafuller/SRTM2TAK",
     "url": "https://github.com/joshuafuller/SRTM2TAK"
-   }
-  },
-  {
-   "key": "9M2PJU/9M2PJU-Open-TAK-Server-Docker",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-07-08T19:32:22Z",
-    "description": "Production-ready Docker deployment of OpenTAKServer (OTS) — an open-source TAK (Team Awareness Kit) server compatible with ATAK, WinTAK, and iTAK clients.",
-    "stars": "1",
-    "text": "9M2PJU/9M2PJU-Open-TAK-Server-Docker",
-    "title": "9M2PJU/9M2PJU-Open-TAK-Server-Docker",
-    "url": "https://github.com/9M2PJU/9M2PJU-Open-TAK-Server-Docker"
    }
   },
   {
@@ -94,7 +94,7 @@
    "fields": {
     "date": "2026-06-26T23:49:09Z",
     "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
-    "stars": "14",
+    "stars": "15",
     "text": "engindearing-projects/OmniTAK-Android",
     "title": "engindearing-projects/OmniTAK-Android",
     "url": "https://github.com/engindearing-projects/OmniTAK-Android"
@@ -734,7 +734,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-07-10T01:32:46Z",
+    "date": "2026-07-11T17:44:51Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "20",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -754,26 +754,38 @@
    }
   },
   {
-   "key": "shigeki7299/ATAK_Plugin",
+   "key": "clodzeischi/eagle-6-ATAK",
    "source": "tak-github",
    "fields": {
-    "date": "2026-07-11T07:46:49Z",
+    "date": "2026-07-11T19:17:14Z",
+    "description": "This plugin is a split from the original Talon by SWF. The purpose of this plugin is to separate the UAS planning and reporting into a separate product to maximize configurable granularity.",
     "stars": "0",
-    "text": "shigeki7299/ATAK_Plugin",
-    "title": "shigeki7299/ATAK_Plugin",
-    "url": "https://github.com/shigeki7299/ATAK_Plugin"
+    "text": "clodzeischi/eagle-6-ATAK",
+    "title": "clodzeischi/eagle-6-ATAK",
+    "url": "https://github.com/clodzeischi/eagle-6-ATAK"
    }
   },
   {
    "key": "TX-RX/TAK-XVoice",
    "source": "tak-github",
    "fields": {
-    "date": "2026-07-11T04:55:12Z",
+    "date": "2026-07-11T18:42:23Z",
     "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
     "stars": "1",
     "text": "TX-RX/TAK-XVoice",
     "title": "TX-RX/TAK-XVoice",
     "url": "https://github.com/TX-RX/TAK-XVoice"
+   }
+  },
+  {
+   "key": "shigeki7299/ATAK_Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-07-11T18:00:45Z",
+    "stars": "0",
+    "text": "shigeki7299/ATAK_Plugin",
+    "title": "shigeki7299/ATAK_Plugin",
+    "url": "https://github.com/shigeki7299/ATAK_Plugin"
    }
   },
   {
@@ -822,18 +834,6 @@
     "text": "toygar/MeshGrid-ATAK-Distribution",
     "title": "toygar/MeshGrid-ATAK-Distribution",
     "url": "https://github.com/toygar/MeshGrid-ATAK-Distribution"
-   }
-  },
-  {
-   "key": "clodzeischi/eagle-6-ATAK",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-07-11T04:19:10Z",
-    "description": "This plugin is a split from the original Talon by SWF. The purpose of this plugin is to separate the UAS planning and reporting into a separate product to maximize configurable granularity.",
-    "stars": "0",
-    "text": "clodzeischi/eagle-6-ATAK",
-    "title": "clodzeischi/eagle-6-ATAK",
-    "url": "https://github.com/clodzeischi/eagle-6-ATAK"
    }
   },
   {
