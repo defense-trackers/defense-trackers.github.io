@@ -1,19 +1,31 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-07-11T19:52:54Z",
+ "fetched_at": "2026-07-12T08:34:17Z",
  "schema_version": 1,
  "records": [
   {
    "key": "parkerjason1998/claude-ai-coding-kit-v2026",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-11T19:30:25Z",
+    "date": "2026-07-12T08:17:09Z",
     "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation for version 2026.",
     "stars": "0",
     "text": "parkerjason1998/claude-ai-coding-kit-v2026",
     "title": "parkerjason1998/claude-ai-coding-kit-v2026",
     "url": "https://github.com/parkerjason1998/claude-ai-coding-kit-v2026"
+   }
+  },
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-07-12T04:43:34Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "48",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -26,18 +38,6 @@
     "text": "9M2PJU/9M2PJU-Open-TAK-Server-Docker",
     "title": "9M2PJU/9M2PJU-Open-TAK-Server-Docker",
     "url": "https://github.com/9M2PJU/9M2PJU-Open-TAK-Server-Docker"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-07-11T16:31:43Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "48",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -346,7 +346,7 @@
    "fields": {
     "date": "2024-10-29T11:52:00Z",
     "description": "Situational Awareness Server compatible with TAK clients",
-    "stars": "929",
+    "stars": "931",
     "text": "FreeTAKTeam/FreeTakServer",
     "title": "FreeTAKTeam/FreeTakServer",
     "url": "https://github.com/FreeTAKTeam/FreeTakServer"
@@ -754,27 +754,27 @@
    }
   },
   {
-   "key": "clodzeischi/eagle-6-ATAK",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-07-11T19:17:14Z",
-    "description": "This plugin is a split from the original Talon by SWF. The purpose of this plugin is to separate the UAS planning and reporting into a separate product to maximize configurable granularity.",
-    "stars": "0",
-    "text": "clodzeischi/eagle-6-ATAK",
-    "title": "clodzeischi/eagle-6-ATAK",
-    "url": "https://github.com/clodzeischi/eagle-6-ATAK"
-   }
-  },
-  {
    "key": "TX-RX/TAK-XVoice",
    "source": "tak-github",
    "fields": {
-    "date": "2026-07-11T18:42:23Z",
+    "date": "2026-07-12T02:20:28Z",
     "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
     "stars": "1",
     "text": "TX-RX/TAK-XVoice",
     "title": "TX-RX/TAK-XVoice",
     "url": "https://github.com/TX-RX/TAK-XVoice"
+   }
+  },
+  {
+   "key": "clodzeischi/eagle-6-ATAK",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-07-12T01:05:58Z",
+    "description": "This plugin is a split from the original Talon by SWF. The purpose of this plugin is to separate the UAS planning and reporting into a separate product to maximize configurable granularity.",
+    "stars": "0",
+    "text": "clodzeischi/eagle-6-ATAK",
+    "title": "clodzeischi/eagle-6-ATAK",
+    "url": "https://github.com/clodzeischi/eagle-6-ATAK"
    }
   },
   {
@@ -806,7 +806,7 @@
    "fields": {
     "date": "2026-07-07T17:18:30Z",
     "description": "ATAK Plugin to remotely delete map items",
-    "stars": "9",
+    "stars": "10",
     "text": "niccellular/forcedelete",
     "title": "niccellular/forcedelete",
     "url": "https://github.com/niccellular/forcedelete"
@@ -842,7 +842,7 @@
    "fields": {
     "date": "2026-07-02T00:56:07Z",
     "description": "ATAK MeshCore plugin",
-    "stars": "20",
+    "stars": "21",
     "text": "atakmaps/TAK-MESHCORE",
     "title": "atakmaps/TAK-MESHCORE",
     "url": "https://github.com/atakmaps/TAK-MESHCORE"
