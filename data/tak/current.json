@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-07-12T19:50:30Z",
+ "fetched_at": "2026-07-13T09:50:47Z",
  "schema_version": 1,
  "records": [
   {
    "key": "parkerjason1998/claude-ai-coding-kit-v2026",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-12T19:10:13Z",
+    "date": "2026-07-13T09:44:39Z",
     "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation for version 2026.",
     "stars": "0",
     "text": "parkerjason1998/claude-ai-coding-kit-v2026",
@@ -20,7 +20,7 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-12T19:49:38Z",
+    "date": "2026-07-13T04:51:48Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "48",
     "text": "takwerx/infra-TAK",
@@ -50,6 +50,18 @@
     "text": "joshuafuller/SRTM2TAK",
     "title": "joshuafuller/SRTM2TAK",
     "url": "https://github.com/joshuafuller/SRTM2TAK"
+   }
+  },
+  {
+   "key": "snstac/pytak",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-07-09T07:18:02Z",
+    "description": "PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.",
+    "stars": "243",
+    "text": "snstac/pytak",
+    "title": "snstac/pytak",
+    "url": "https://github.com/snstac/pytak"
    }
   },
   {
@@ -94,7 +106,7 @@
    "fields": {
     "date": "2026-06-26T23:49:09Z",
     "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
-    "stars": "15",
+    "stars": "16",
     "text": "engindearing-projects/OmniTAK-Android",
     "title": "engindearing-projects/OmniTAK-Android",
     "url": "https://github.com/engindearing-projects/OmniTAK-Android"
@@ -118,7 +130,7 @@
    "fields": {
     "date": "2026-06-22T01:47:23Z",
     "description": "DroneCOT is software for monitoring and analyzing Direct Remote Identification (DRI), Remote ID (RID) or Open Drone ID (ODID) broadcasts from Uncrewed Aircraft (UA) via the Team Awareness Kit (TAK) ecosystem of products.",
-    "stars": "32",
+    "stars": "33",
     "text": "snstac/dronecot",
     "title": "snstac/dronecot",
     "url": "https://github.com/snstac/dronecot"
@@ -134,18 +146,6 @@
     "text": "SauceTaster/TAK-ATK",
     "title": "SauceTaster/TAK-ATK",
     "url": "https://github.com/SauceTaster/TAK-ATK"
-   }
-  },
-  {
-   "key": "snstac/pytak",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-07-09T07:18:02Z",
-    "description": "PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.",
-    "stars": "242",
-    "text": "snstac/pytak",
-    "title": "snstac/pytak",
-    "url": "https://github.com/snstac/pytak"
    }
   },
   {
@@ -346,7 +346,7 @@
    "fields": {
     "date": "2024-10-29T11:52:00Z",
     "description": "Situational Awareness Server compatible with TAK clients",
-    "stars": "931",
+    "stars": "932",
     "text": "FreeTAKTeam/FreeTakServer",
     "title": "FreeTAKTeam/FreeTakServer",
     "url": "https://github.com/FreeTAKTeam/FreeTakServer"
@@ -430,7 +430,7 @@
    "fields": {
     "date": "2022-11-06T13:11:28Z",
     "description": "DJI drone flying app with integrations for FreeTAKServer. Looking for a maitainer!",
-    "stars": "121",
+    "stars": "122",
     "text": "FreeTAKTeam/FreeTAKUAS",
     "title": "FreeTAKTeam/FreeTAKUAS",
     "url": "https://github.com/FreeTAKTeam/FreeTAKUAS"
@@ -525,7 +525,7 @@
    "fields": {
     "date": "2026-05-21T19:32:24Z",
     "description": "A project that host a ATAK plugin that display a PPT button for Mumla Android ",
-    "stars": "27",
+    "stars": "28",
     "text": "FreeTAKTeam/FreeTAKMumla_Plugin",
     "title": "FreeTAKTeam/FreeTAKMumla_Plugin",
     "url": "https://github.com/FreeTAKTeam/FreeTAKMumla_Plugin"
@@ -618,7 +618,7 @@
    "fields": {
     "date": "2026-07-10T21:44:26Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
-    "stars": "90",
+    "stars": "91",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
     "title": "FreeTAKTeam/Reticulum-Community-Hub",
     "url": "https://github.com/FreeTAKTeam/Reticulum-Community-Hub"
@@ -757,12 +757,35 @@
    "key": "TX-RX/TAK-XVoice",
    "source": "tak-github",
    "fields": {
-    "date": "2026-07-12T02:20:28Z",
+    "date": "2026-07-13T06:21:00Z",
     "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
-    "stars": "1",
+    "stars": "2",
     "text": "TX-RX/TAK-XVoice",
     "title": "TX-RX/TAK-XVoice",
     "url": "https://github.com/TX-RX/TAK-XVoice"
+   }
+  },
+  {
+   "key": "shigeki7299/ATAK_Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-07-13T05:45:44Z",
+    "stars": "0",
+    "text": "shigeki7299/ATAK_Plugin",
+    "title": "shigeki7299/ATAK_Plugin",
+    "url": "https://github.com/shigeki7299/ATAK_Plugin"
+   }
+  },
+  {
+   "key": "libre-7/atak-callout",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-07-13T02:53:03Z",
+    "description": "Callout — paging/alerting system for ATAK. Plugin + standalone app with multi-transport sync (TAK server, UDP mesh, offline).",
+    "stars": "0",
+    "text": "libre-7/atak-callout",
+    "title": "libre-7/atak-callout",
+    "url": "https://github.com/libre-7/atak-callout"
    }
   },
   {
@@ -778,14 +801,15 @@
    }
   },
   {
-   "key": "shigeki7299/ATAK_Plugin",
+   "key": "247-Group/ATAK-sensor-effector-plugin",
    "source": "tak-github",
    "fields": {
-    "date": "2026-07-11T18:00:45Z",
-    "stars": "0",
-    "text": "shigeki7299/ATAK_Plugin",
-    "title": "shigeki7299/ATAK_Plugin",
-    "url": "https://github.com/shigeki7299/ATAK_Plugin"
+    "date": "2026-07-10T05:42:40Z",
+    "description": "ATAK Sensor/Effector plugin for RACK project",
+    "stars": "1",
+    "text": "247-Group/ATAK-sensor-effector-plugin",
+    "title": "247-Group/ATAK-sensor-effector-plugin",
+    "url": "https://github.com/247-Group/ATAK-sensor-effector-plugin"
    }
   },
   {
@@ -842,22 +866,10 @@
    "fields": {
     "date": "2026-07-02T00:56:07Z",
     "description": "ATAK MeshCore plugin",
-    "stars": "21",
+    "stars": "22",
     "text": "atakmaps/TAK-MESHCORE",
     "title": "atakmaps/TAK-MESHCORE",
     "url": "https://github.com/atakmaps/TAK-MESHCORE"
-   }
-  },
-  {
-   "key": "libre-7/atak-callout",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-07-11T03:59:11Z",
-    "description": "Callout — paging/alerting system for ATAK. Plugin + standalone app with multi-transport sync (TAK server, UDP mesh, offline).",
-    "stars": "0",
-    "text": "libre-7/atak-callout",
-    "title": "libre-7/atak-callout",
-    "url": "https://github.com/libre-7/atak-callout"
    }
   },
   {
@@ -885,24 +897,12 @@
    }
   },
   {
-   "key": "247-Group/ATAK-sensor-effector-plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-07-10T05:42:40Z",
-    "description": "ATAK Sensor/Effector plugin for RACK project",
-    "stars": "0",
-    "text": "247-Group/ATAK-sensor-effector-plugin",
-    "title": "247-Group/ATAK-sensor-effector-plugin",
-    "url": "https://github.com/247-Group/ATAK-sensor-effector-plugin"
-   }
-  },
-  {
    "key": "newtypeind/atak-mcp",
    "source": "tak-github",
    "fields": {
     "date": "2026-06-23T08:24:02Z",
     "description": "Drive ATAK (Android Team Awareness Kit) and its plugins over adb without blind taps: CLI + MCP server (uvx-installable).",
-    "stars": "2",
+    "stars": "3",
     "text": "newtypeind/atak-mcp",
     "title": "newtypeind/atak-mcp",
     "url": "https://github.com/newtypeind/atak-mcp"
@@ -1030,7 +1030,7 @@
    "fields": {
     "date": "2026-06-03T16:44:34Z",
     "description": "The Akita MeshTAK Plugin is a game-changing Android Tactical Assault Kit (ATAK) plugin meticulously crafted to bridge the gap between ATAK and Meshtastic, providing unparalleled communication capabilities in the most challenging and disconnected environments.",
-    "stars": "11",
+    "stars": "12",
     "text": "AkitaEngineering/Akita-MeshTAK",
     "title": "AkitaEngineering/Akita-MeshTAK",
     "url": "https://github.com/AkitaEngineering/Akita-MeshTAK"
@@ -1066,7 +1066,7 @@
    "fields": {
     "date": "2026-05-13T18:28:50Z",
     "description": "A standalone Meshtastic plugin for ATAK",
-    "stars": "21",
+    "stars": "22",
     "text": "meshtastic/pluginmeshtastic",
     "title": "meshtastic/pluginmeshtastic",
     "url": "https://github.com/meshtastic/pluginmeshtastic"
