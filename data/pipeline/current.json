@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-07-14T08:30:56Z",
+ "fetched_at": "2026-07-14T19:56:27Z",
  "schema_version": 1,
  "records": [
   {
@@ -506,19 +506,6 @@
    }
   },
   {
-   "key": "349586",
-   "source": "pipeline-grants",
-   "fields": {
-    "agency": "Defense Health Agency Contracting Activity - DHACA",
-    "closes": "07/31/2028",
-    "number": "HT9425-23-S-SOC1",
-    "posted": "07/27/2023",
-    "text": "BROAD AGENCY ANNOUNCEMENT (BAA) for Extramural Biomedical and Human Performance Research and Development Department of Defense",
-    "title": "BROAD AGENCY ANNOUNCEMENT (BAA) for Extramural Biomedical and Human Performance Research and Development Department of Defense",
-    "url": "https://www.grants.gov/search-results-detail/349586"
-   }
-  },
-  {
    "key": "363018",
    "source": "pipeline-logistics",
    "fields": {
@@ -659,6 +646,20 @@
    }
   },
   {
+   "key": "1d0790fde85c41a49b59d835f996a6f5",
+   "source": "pipeline-sam-ai",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
+    "closes": "2026-08-25T14:00:00",
+    "number": "HR001126S0010",
+    "posted": "2026-07-14",
+    "text": "Decentralized Artificial Intelligence through Controlled Emergence (DICE)",
+    "title": "Decentralized Artificial Intelligence through Controlled Emergence (DICE)",
+    "type": "Solicitation",
+    "url": "https://sam.gov/workspace/contract/opp/1d0790fde85c41a49b59d835f996a6f5/view"
+   }
+  },
+  {
    "key": "5cd1dec3f39b44eb87cae4bd15984120",
    "source": "pipeline-sam-ai",
    "fields": {
@@ -669,20 +670,6 @@
     "title": "ARTIFICIAL INTELLIGENCE AND NEXT GENERATION DISTRIBUTED COMMAND AND CONTROL",
     "type": "Presolicitation",
     "url": "https://sam.gov/workspace/contract/opp/5cd1dec3f39b44eb87cae4bd15984120/view"
-   }
-  },
-  {
-   "key": "0800655bb5714d68957ce0d5ee922938",
-   "source": "pipeline-sam-ai",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
-    "closes": "2026-08-25T14:00:00",
-    "number": "HR001126S0010",
-    "posted": "2026-06-10",
-    "text": "Decentralized Artificial Intelligence through Controlled Emergence (DICE)",
-    "title": "Decentralized Artificial Intelligence through Controlled Emergence (DICE)",
-    "type": "Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/0800655bb5714d68957ce0d5ee922938/view"
    }
   },
   {

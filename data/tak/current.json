@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-07-14T08:31:17Z",
+ "fetched_at": "2026-07-14T19:56:48Z",
  "schema_version": 1,
  "records": [
   {
    "key": "parkerjason1998/claude-ai-coding-kit-v2026",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-14T08:18:27Z",
+    "date": "2026-07-14T19:55:50Z",
     "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation for version 2026.",
     "stars": "0",
     "text": "parkerjason1998/claude-ai-coding-kit-v2026",
@@ -17,10 +17,22 @@
    }
   },
   {
+   "key": "snstac/pytak",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-07-14T18:56:59Z",
+    "description": "PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.",
+    "stars": "243",
+    "text": "snstac/pytak",
+    "title": "snstac/pytak",
+    "url": "https://github.com/snstac/pytak"
+   }
+  },
+  {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-14T04:09:13Z",
+    "date": "2026-07-14T19:22:12Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "48",
     "text": "takwerx/infra-TAK",
@@ -53,22 +65,10 @@
    }
   },
   {
-   "key": "snstac/pytak",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-07-09T07:18:02Z",
-    "description": "PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.",
-    "stars": "243",
-    "text": "snstac/pytak",
-    "title": "snstac/pytak",
-    "url": "https://github.com/snstac/pytak"
-   }
-  },
-  {
    "key": "emfoursolutions/trakbridge",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-13T23:44:22Z",
+    "date": "2026-07-14T13:40:38Z",
     "description": "A comprehensive web application for bridging tracking devices and services to TAK (Team Awareness Kit) servers.",
     "stars": "37",
     "text": "emfoursolutions/trakbridge",
@@ -675,7 +675,7 @@
    "key": "FreeTAKTeam/staged-recipes",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-07-13T19:46:57Z",
+    "date": "2026-07-14T14:22:43Z",
     "description": "A place to submit conda recipes before they become fully fledged conda-forge feedstocks",
     "stars": "0",
     "text": "FreeTAKTeam/staged-recipes",
@@ -734,7 +734,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-07-11T17:44:51Z",
+    "date": "2026-07-14T19:51:20Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "21",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -754,10 +754,33 @@
    }
   },
   {
+   "key": "libre-7/atak-callout",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-07-14T19:40:40Z",
+    "description": "Callout — paging/alerting system for ATAK. Plugin + standalone app with multi-transport sync (TAK server, UDP mesh, offline).",
+    "stars": "0",
+    "text": "libre-7/atak-callout",
+    "title": "libre-7/atak-callout",
+    "url": "https://github.com/libre-7/atak-callout"
+   }
+  },
+  {
+   "key": "shigeki7299/ATAK_Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-07-14T13:08:40Z",
+    "stars": "0",
+    "text": "shigeki7299/ATAK_Plugin",
+    "title": "shigeki7299/ATAK_Plugin",
+    "url": "https://github.com/shigeki7299/ATAK_Plugin"
+   }
+  },
+  {
    "key": "TX-RX/TAK-XVoice",
    "source": "tak-github",
    "fields": {
-    "date": "2026-07-14T04:35:23Z",
+    "date": "2026-07-14T18:08:20Z",
     "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
     "stars": "2",
     "text": "TX-RX/TAK-XVoice",
@@ -775,29 +798,6 @@
     "text": "kd2var/aprsdroid-atak-plugin",
     "title": "kd2var/aprsdroid-atak-plugin",
     "url": "https://github.com/kd2var/aprsdroid-atak-plugin"
-   }
-  },
-  {
-   "key": "shigeki7299/ATAK_Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-07-13T05:45:44Z",
-    "stars": "0",
-    "text": "shigeki7299/ATAK_Plugin",
-    "title": "shigeki7299/ATAK_Plugin",
-    "url": "https://github.com/shigeki7299/ATAK_Plugin"
-   }
-  },
-  {
-   "key": "libre-7/atak-callout",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-07-13T02:53:03Z",
-    "description": "Callout — paging/alerting system for ATAK. Plugin + standalone app with multi-transport sync (TAK server, UDP mesh, offline).",
-    "stars": "0",
-    "text": "libre-7/atak-callout",
-    "title": "libre-7/atak-callout",
-    "url": "https://github.com/libre-7/atak-callout"
    }
   },
   {
