@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-07-13T20:05:03Z",
+ "fetched_at": "2026-07-14T08:31:17Z",
  "schema_version": 1,
  "records": [
   {
    "key": "parkerjason1998/claude-ai-coding-kit-v2026",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-13T19:45:26Z",
+    "date": "2026-07-14T08:18:27Z",
     "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation for version 2026.",
     "stars": "0",
     "text": "parkerjason1998/claude-ai-coding-kit-v2026",
@@ -20,7 +20,7 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-13T17:39:51Z",
+    "date": "2026-07-14T04:09:13Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "48",
     "text": "takwerx/infra-TAK",
@@ -68,7 +68,7 @@
    "key": "emfoursolutions/trakbridge",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-05T08:52:44Z",
+    "date": "2026-07-13T23:44:22Z",
     "description": "A comprehensive web application for bridging tracking devices and services to TAK (Team Awareness Kit) servers.",
     "stars": "37",
     "text": "emfoursolutions/trakbridge",
@@ -736,7 +736,7 @@
    "fields": {
     "date": "2026-07-11T17:44:51Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
-    "stars": "20",
+    "stars": "21",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
     "title": "FreeTAKTeam/reticulum_mobile_emergency_management",
     "url": "https://github.com/FreeTAKTeam/reticulum_mobile_emergency_management"
@@ -757,12 +757,24 @@
    "key": "TX-RX/TAK-XVoice",
    "source": "tak-github",
    "fields": {
-    "date": "2026-07-13T18:01:43Z",
+    "date": "2026-07-14T04:35:23Z",
     "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
     "stars": "2",
     "text": "TX-RX/TAK-XVoice",
     "title": "TX-RX/TAK-XVoice",
     "url": "https://github.com/TX-RX/TAK-XVoice"
+   }
+  },
+  {
+   "key": "kd2var/aprsdroid-atak-plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-07-14T01:10:02Z",
+    "description": "ATAK Plugin that pulls position data from APRSdroid into ATAK",
+    "stars": "1",
+    "text": "kd2var/aprsdroid-atak-plugin",
+    "title": "kd2var/aprsdroid-atak-plugin",
+    "url": "https://github.com/kd2var/aprsdroid-atak-plugin"
    }
   },
   {
@@ -870,18 +882,6 @@
     "text": "atakmaps/TAK-MESHCORE",
     "title": "atakmaps/TAK-MESHCORE",
     "url": "https://github.com/atakmaps/TAK-MESHCORE"
-   }
-  },
-  {
-   "key": "kd2var/aprsdroid-atak-plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-06-30T01:43:06Z",
-    "description": "ATAK Plugin that pulls position data from APRSdroid into ATAK",
-    "stars": "1",
-    "text": "kd2var/aprsdroid-atak-plugin",
-    "title": "kd2var/aprsdroid-atak-plugin",
-    "url": "https://github.com/kd2var/aprsdroid-atak-plugin"
    }
   },
   {

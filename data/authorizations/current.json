@@ -1,7 +1,7 @@
 {
  "source": "authorizations",
  "tracker": "authorizations",
- "fetched_at": "2026-07-13T20:03:21Z",
+ "fetched_at": "2026-07-14T08:29:32Z",
  "schema_version": 1,
  "records": [
   {
@@ -449,8 +449,8 @@
     "impact": "Moderate",
     "model": "SaaS",
     "status": "FedRAMP Authorized",
-    "text": "Cisco Meraki for Government",
-    "title": "Cisco Meraki for Government",
+    "text": "Cisco Meraki US Government Region",
+    "title": "Cisco Meraki US Government Region",
     "url": "https://meraki.cisco.com/"
    }
   },
@@ -2204,17 +2204,17 @@
    }
   },
   {
-   "key": "FR2226228379",
+   "key": "FR2514023311",
    "source": "authorizations-fedramp-ai",
    "fields": {
-    "assessor": "Fortreum, LLC",
-    "date": "2024-11-22T20:00:00.000Z",
-    "impact": "Moderate",
+    "assessor": "Lunarline, Inc.",
+    "date": "Not Active",
+    "impact": "High",
     "model": "SaaS",
-    "status": "FedRAMP Authorized",
-    "text": "Trend Cloud One for Government",
-    "title": "Trend Cloud One for Government",
-    "url": "https://www.trendmicro.com/en_us/business/capabilities/solutions-for/federal-government/cloud-security.html"
+    "status": "Agency In Process",
+    "text": "AI for Federal Acquisitions (ACQBOT)",
+    "title": "AI for Federal Acquisitions (ACQBOT)",
+    "url": "https://acqbot.com/"
    }
   },
   {
@@ -2229,6 +2229,20 @@
     "text": "Trend Vision One for Government",
     "title": "Trend Vision One for Government",
     "url": "https://www.trendmicro.com/en_us/business/capabilities/solutions-for/federal-government/security-operations.html"
+   }
+  },
+  {
+   "key": "FR2226228379",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Fortreum, LLC",
+    "date": "2024-11-22T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Trend Cloud One for Government",
+    "title": "Trend Cloud One for Government",
+    "url": "https://www.trendmicro.com/en_us/business/capabilities/solutions-for/federal-government/cloud-security.html"
    }
   },
   {

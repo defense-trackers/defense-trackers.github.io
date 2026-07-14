@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-07-13T20:04:43Z",
+ "fetched_at": "2026-07-14T08:30:56Z",
  "schema_version": 1,
  "records": [
   {
@@ -506,6 +506,19 @@
    }
   },
   {
+   "key": "349586",
+   "source": "pipeline-grants",
+   "fields": {
+    "agency": "Defense Health Agency Contracting Activity - DHACA",
+    "closes": "07/31/2028",
+    "number": "HT9425-23-S-SOC1",
+    "posted": "07/27/2023",
+    "text": "BROAD AGENCY ANNOUNCEMENT (BAA) for Extramural Biomedical and Human Performance Research and Development Department of Defense",
+    "title": "BROAD AGENCY ANNOUNCEMENT (BAA) for Extramural Biomedical and Human Performance Research and Development Department of Defense",
+    "url": "https://www.grants.gov/search-results-detail/349586"
+   }
+  },
+  {
    "key": "363018",
    "source": "pipeline-logistics",
    "fields": {
@@ -643,19 +656,6 @@
     "text": "STARBASE Wright Patt",
     "title": "STARBASE Wright Patt",
     "url": "https://www.grants.gov/search-results-detail/329806"
-   }
-  },
-  {
-   "key": "362381",
-   "source": "pipeline-ml",
-   "fields": {
-    "agency": "National Institute of Standards and Technology",
-    "closes": "07/13/2026",
-    "number": "2026-NIST-SCOCD-01",
-    "posted": "05/14/2026",
-    "text": "Standards Coordination Office Curricula Development Cooperative Agreement Program",
-    "title": "Standards Coordination Office Curricula Development Cooperative Agreement Program",
-    "url": "https://www.grants.gov/search-results-detail/362381"
    }
   },
   {

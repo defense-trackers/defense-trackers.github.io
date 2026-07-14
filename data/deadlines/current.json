@@ -1,7 +1,7 @@
 {
  "source": "deadlines",
  "tracker": "deadlines",
- "fetched_at": "2026-07-13T20:05:06Z",
+ "fetched_at": "2026-07-14T08:31:21Z",
  "schema_version": 1,
  "records": [
   {
@@ -499,6 +499,19 @@
    }
   },
   {
+   "key": "close-349586",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "Defense Health Agency Contracting Activity - DHACA",
+    "closes": "2028-07-31",
+    "date": "2028-07-31",
+    "from": "pipeline",
+    "text": "BROAD AGENCY ANNOUNCEMENT (BAA) for Extramural Biomedical and Human Performance Research and Development Department of Defense",
+    "title": "BROAD AGENCY ANNOUNCEMENT (BAA) for Extramural Biomedical and Human Performance Research and Development Department of Defense",
+    "url": "https://www.grants.gov/search-results-detail/349586"
+   }
+  },
+  {
    "key": "close-363018",
    "source": "deadlines-solicitations",
    "fields": {
@@ -600,19 +613,6 @@
     "text": "SEEDING CRITICAL ADVANCES FOR LEADING ENERGY TECHNOLOGIES WITH UNTAPPED POTENTIAL (SCALEUP) READY",
     "title": "SEEDING CRITICAL ADVANCES FOR LEADING ENERGY TECHNOLOGIES WITH UNTAPPED POTENTIAL (SCALEUP) READY",
     "url": "https://www.grants.gov/search-results-detail/356623"
-   }
-  },
-  {
-   "key": "close-362381",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "National Institute of Standards and Technology",
-    "closes": "2026-07-13",
-    "date": "2026-07-13",
-    "from": "pipeline",
-    "text": "Standards Coordination Office Curricula Development Cooperative Agreement Program",
-    "title": "Standards Coordination Office Curricula Development Cooperative Agreement Program",
-    "url": "https://www.grants.gov/search-results-detail/362381"
    }
   },
   {

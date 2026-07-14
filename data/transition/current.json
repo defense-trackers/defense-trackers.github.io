@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-07-13T20:05:06Z",
+ "fetched_at": "2026-07-14T08:31:21Z",
  "schema_version": 1,
  "records": [
   {
@@ -839,6 +839,19 @@
    }
   },
   {
+   "key": "CONT_AWD_FA863412C2651_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1.120422641265e+10",
+    "award_id": "FA863412C2651",
+    "description": "RSAF F-15 FLEET MODERNIZATION PROGRAM",
+    "text": "THE BOEING COMPANY",
+    "title": "THE BOEING COMPANY",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA863412C2651_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_W31P4Q20C0023_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -882,7 +895,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "9.08051698262e+09",
+    "amount": "9.08528198266e+09",
     "award_id": "HQ014717C0032",
     "description": "HQ0147-17-C-0032 UNDEFINITIZED CONTRACT ACTION (UCA) FOR THAAD INTERCEPTOR LOT 9 PRODUCTION - QTY OF 23",
     "text": "LOCKHEED MARTIN CORPORATION",
@@ -1063,7 +1076,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "7.44242158672e+09",
+    "amount": "7.45961626372e+09",
     "award_id": "FA881018C0005",
     "description": "NEXT GENERATION OVERHEAD PERSISTENT INFRARED GEOSYNCHRONOUS EARTH ORBIT SPACE VEHICLE 1-3 PHASE 1",
     "text": "LOCKHEED MARTIN CORP",
@@ -1237,18 +1250,6 @@
     "text": "SIKORSKY AIRCRAFT CORPORATION",
     "title": "SIKORSKY AIRCRAFT CORPORATION",
     "url": "https://www.usaspending.gov/award/CONT_AWD_N0001906C0081_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_0059_9700_DAAA0902D0007_9700",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "6.06289726253e+09",
-    "award_id": "0059",
-    "text": "KBR SERVICES, LLC",
-    "title": "KBR SERVICES, LLC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_0059_9700_DAAA0902D0007_9700/"
    }
   }
  ]

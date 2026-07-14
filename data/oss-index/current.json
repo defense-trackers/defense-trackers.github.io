@@ -1,7 +1,7 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-07-13T20:04:27Z",
+ "fetched_at": "2026-07-14T08:30:41Z",
  "schema_version": 1,
  "records": [
   {
@@ -560,9 +560,9 @@
    "key": "idaholab/moose",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-07-13T16:40:28Z",
+    "date": "2026-07-14T02:54:33Z",
     "description": "Multiphysics Object Oriented Simulation Environment",
-    "stars": "2292",
+    "stars": "2293",
     "text": "idaholab/moose",
     "title": "idaholab/moose",
     "url": "https://github.com/idaholab/moose"
@@ -681,7 +681,7 @@
    "fields": {
     "date": "2025-08-05T21:03:52Z",
     "description": "The Basic Matrix Library (bml)",
-    "stars": "44",
+    "stars": "45",
     "text": "lanl/bml",
     "title": "lanl/bml",
     "url": "https://github.com/lanl/bml"
@@ -811,7 +811,7 @@
    "key": "llnl/RAJA",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-07-13T18:17:01Z",
+    "date": "2026-07-14T00:13:02Z",
     "description": "RAJA Performance Portability Layer (C++)",
     "stars": "588",
     "text": "llnl/RAJA",
@@ -834,7 +834,7 @@
    "key": "llnl/GridDyn",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-07-13T14:09:32Z",
+    "date": "2026-07-14T01:36:03Z",
     "description": "GridDyn is an open-source power transmission simulation software package",
     "stars": "58",
     "text": "llnl/GridDyn",
@@ -906,7 +906,7 @@
    "key": "mitre/vulcan",
    "source": "oss-mitre",
    "fields": {
-    "date": "2026-07-13T17:33:52Z",
+    "date": "2026-07-14T01:39:03Z",
     "description": "A web application to streamline the development of STIGs from SRGs",
     "stars": "87",
     "text": "mitre/vulcan",
@@ -1004,7 +1004,7 @@
    "fields": {
     "date": "2026-06-30T17:58:41Z",
     "description": "A web based mission control framework. ",
-    "stars": "13038",
+    "stars": "13039",
     "text": "nasa/openmct",
     "title": "nasa/openmct",
     "url": "https://github.com/nasa/openmct"
@@ -1014,7 +1014,7 @@
    "key": "nasa/earthdata-search",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-07-13T04:35:03Z",
+    "date": "2026-07-14T02:59:09Z",
     "description": "Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.",
     "stars": "820",
     "text": "nasa/earthdata-search",
@@ -1062,7 +1062,7 @@
    "key": "nasa/Common-Metadata-Repository",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-07-13T19:37:26Z",
+    "date": "2026-07-14T03:14:29Z",
     "description": "The Common Metadata Repository (CMR) is a high-performance, high-quality, continuously evolving metadata system that catalogs Earth Science data and associated service metadata records. These metadata records are registered, modified, discovered, and accessed through programmatic interfaces leveraging standard protocols and APIs.",
     "stars": "392",
     "text": "nasa/Common-Metadata-Repository",
@@ -1241,7 +1241,7 @@
    "key": "ORNL/HeCBench",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-07-13T20:03:42Z",
+    "date": "2026-07-13T23:38:08Z",
     "stars": "299",
     "text": "ORNL/HeCBench",
     "title": "ORNL/HeCBench",
@@ -1300,7 +1300,7 @@
    "key": "ORNL/flowcept",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-07-13T19:47:44Z",
+    "date": "2026-07-13T21:01:45Z",
     "description": "Runtime provenance for AI and scientific workflows—capture, enrich, and query workflow data via observability adapters and code annotation across edge, cloud, and HPC.",
     "stars": "28",
     "text": "ORNL/flowcept",
@@ -1324,7 +1324,7 @@
    "key": "ORNL/AdditiveFOAM",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-07-13T17:45:18Z",
+    "date": "2026-07-13T20:39:12Z",
     "description": "A continuum physics code for additive manufacturing built on OpenFOAM",
     "stars": "66",
     "text": "ORNL/AdditiveFOAM",
@@ -1336,7 +1336,7 @@
    "key": "ORNL/GridKit",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-07-13T20:00:10Z",
+    "date": "2026-07-13T20:32:36Z",
     "description": "Modeling framework for power systems simulations and analysis.",
     "stars": "23",
     "text": "ORNL/GridKit",
@@ -1458,7 +1458,7 @@
    "fields": {
     "date": "2026-06-18T17:37:04Z",
     "description": "FiPy is a Finite Volume PDE solver written in Python",
-    "stars": "634",
+    "stars": "635",
     "text": "usnistgov/fipy",
     "title": "usnistgov/fipy",
     "url": "https://github.com/usnistgov/fipy"
