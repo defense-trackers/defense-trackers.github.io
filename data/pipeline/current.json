@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-07-14T19:56:27Z",
+ "fetched_at": "2026-07-15T08:39:12Z",
  "schema_version": 1,
  "records": [
   {
@@ -731,6 +731,34 @@
    }
   },
   {
+   "key": "7f9dfb501f064dd5b545a737845f540a",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA8750  AFRL RIK",
+    "number": "FA8750-25-S-7004",
+    "posted": "2026-07-14",
+    "text": "Multi-Domain Force Applications and Traffic Management for Unmanned Aircraft Systems (M-FAT)",
+    "title": "Multi-Domain Force Applications and Traffic Management for Unmanned Aircraft Systems (M-FAT)",
+    "type": "Presolicitation",
+    "url": "https://sam.gov/workspace/contract/opp/7f9dfb501f064dd5b545a737845f540a/view"
+   }
+  },
+  {
+   "key": "7968d7a497a142b6a5dba049d97a75f1",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVAIR.NAVAIR HQS.NAVAL AIR SYSTEMS COMMAND",
+    "closes": "2026-08-13T17:00:00-04:00",
+    "number": "PAEA-UnmannedStratSS",
+    "posted": "2026-07-14",
+    "setaside": "No Set aside used",
+    "text": "Unmanned Carrier-Based Aircraft Solutions Request for Information (RFI)",
+    "title": "Unmanned Carrier-Based Aircraft Solutions Request for Information (RFI)",
+    "type": "Sources Sought",
+    "url": "https://sam.gov/workspace/contract/opp/7968d7a497a142b6a5dba049d97a75f1/view"
+   }
+  },
+  {
    "key": "ce4541af000a4466aa62a08b2cd1f2a3",
    "source": "pipeline-sam-unmanned",
    "fields": {
@@ -840,19 +868,6 @@
     "title": "RFI: Unmanned Ground Recovery",
     "type": "Sources Sought",
     "url": "https://sam.gov/workspace/contract/opp/cb5d64eee89d40f48a3fab599f16d290/view"
-   }
-  },
-  {
-   "key": "b36be2c41929484491aa870a2bcf1e68",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA8750  AFRL RIK",
-    "number": "FA8750-25-S-7004",
-    "posted": "2026-05-28",
-    "text": "Multi-Domain Force Applications and Traffic Management for Unmanned Aircraft Systems (M-FAT)",
-    "title": "Multi-Domain Force Applications and Traffic Management for Unmanned Aircraft Systems (M-FAT)",
-    "type": "Presolicitation",
-    "url": "https://sam.gov/workspace/contract/opp/b36be2c41929484491aa870a2bcf1e68/view"
    }
   },
   {
