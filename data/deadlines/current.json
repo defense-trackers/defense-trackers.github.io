@@ -1,7 +1,7 @@
 {
  "source": "deadlines",
  "tracker": "deadlines",
- "fetched_at": "2026-07-15T08:39:34Z",
+ "fetched_at": "2026-07-15T19:51:57Z",
  "schema_version": 1,
  "records": [
   {
@@ -252,19 +252,6 @@
    }
   },
   {
-   "key": "close-362925",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "Department of Homeland Security - FEMA",
-    "closes": "2026-07-24",
-    "date": "2026-07-24",
-    "from": "pipeline",
-    "text": "Fiscal Year 2026 Nonprofit Security Grant Program",
-    "title": "Fiscal Year 2026 Nonprofit Security Grant Program",
-    "url": "https://www.grants.gov/search-results-detail/362925"
-   }
-  },
-  {
    "key": "close-362711",
    "source": "deadlines-solicitations",
    "fields": {
@@ -499,6 +486,19 @@
    }
   },
   {
+   "key": "close-349586",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "Defense Health Agency Contracting Activity - DHACA",
+    "closes": "2028-07-31",
+    "date": "2028-07-31",
+    "from": "pipeline",
+    "text": "BROAD AGENCY ANNOUNCEMENT (BAA) for Extramural Biomedical and Human Performance Research and Development Department of Defense",
+    "title": "BROAD AGENCY ANNOUNCEMENT (BAA) for Extramural Biomedical and Human Performance Research and Development Department of Defense",
+    "url": "https://www.grants.gov/search-results-detail/349586"
+   }
+  },
+  {
    "key": "close-363018",
    "source": "deadlines-solicitations",
    "fields": {
@@ -564,6 +564,19 @@
    }
   },
   {
+   "key": "close-363186",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "Department of Homeland Security - FEMA",
+    "closes": "2026-07-30",
+    "date": "2026-07-30",
+    "from": "pipeline",
+    "text": "Fiscal Year 2026 BioWatch Grant Program",
+    "title": "Fiscal Year 2026 BioWatch Grant Program",
+    "url": "https://www.grants.gov/search-results-detail/363186"
+   }
+  },
+  {
    "key": "close-345241",
    "source": "deadlines-solicitations",
    "fields": {
@@ -600,6 +613,19 @@
     "text": "SEEDING CRITICAL ADVANCES FOR LEADING ENERGY TECHNOLOGIES WITH UNTAPPED POTENTIAL (SCALEUP) READY",
     "title": "SEEDING CRITICAL ADVANCES FOR LEADING ENERGY TECHNOLOGIES WITH UNTAPPED POTENTIAL (SCALEUP) READY",
     "url": "https://www.grants.gov/search-results-detail/356623"
+   }
+  },
+  {
+   "key": "close-dc22bd38118e4d739579e8e5f6fcf0bb",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF DEFENSE EDUCATION ACTIVITY (DODEA).DOD EDUCATION ACTIVITY",
+    "closes": "2026-07-29",
+    "date": "2026-07-29",
+    "from": "pipeline",
+    "text": "Data and Artificial Intelligence (AI) Modernization Support",
+    "title": "Data and Artificial Intelligence (AI) Modernization Support",
+    "url": "https://sam.gov/workspace/contract/opp/dc22bd38118e4d739579e8e5f6fcf0bb/view"
    }
   },
   {
@@ -668,6 +694,45 @@
    }
   },
   {
+   "key": "close-c7fe7474d3444bd2aee8b175ce1cf478",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.USMC.MARCOR SYSCOM.COMMANDER",
+    "closes": "2026-07-23",
+    "date": "2026-07-23",
+    "from": "pipeline",
+    "text": "Request for White Papers - Organic Counter Small Unmanned Aircraft System (O-CsUAS) Dismounted Sensors",
+    "title": "Request for White Papers - Organic Counter Small Unmanned Aircraft System (O-CsUAS) Dismounted Sensors",
+    "url": "https://sam.gov/workspace/contract/opp/c7fe7474d3444bd2aee8b175ce1cf478/view"
+   }
+  },
+  {
+   "key": "close-6396eab212b847cebbe4096fb5c1ae5b",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION GREAT LAKES AND OHIO.ENDIST LOUISVILLE.W072 ENDIST LOUISVILLE",
+    "closes": "2026-07-22",
+    "date": "2026-07-22",
+    "from": "pipeline",
+    "text": "Unmanned Fusion Warfare Laboratory at NSWC Crane IN",
+    "title": "Unmanned Fusion Warfare Laboratory at NSWC Crane IN",
+    "url": "https://sam.gov/workspace/contract/opp/6396eab212b847cebbe4096fb5c1ae5b/view"
+   }
+  },
+  {
+   "key": "close-26c84f6037cf4d2297d4d34207a8b208",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.USMC.MARCOR SYSCOM.COMMANDER",
+    "closes": "2026-07-23",
+    "date": "2026-07-23",
+    "from": "pipeline",
+    "text": "Request for White Papers - Organic Counter Small Unmanned Aircraft System Dismounted Effectors",
+    "title": "Request for White Papers - Organic Counter Small Unmanned Aircraft System Dismounted Effectors",
+    "url": "https://sam.gov/workspace/contract/opp/26c84f6037cf4d2297d4d34207a8b208/view"
+   }
+  },
+  {
    "key": "close-7968d7a497a142b6a5dba049d97a75f1",
    "source": "deadlines-solicitations",
    "fields": {
@@ -704,45 +769,6 @@
     "text": "Man-portable, Handheld, Counter-Unmanned System (MPHC)",
     "title": "Man-portable, Handheld, Counter-Unmanned System (MPHC)",
     "url": "https://sam.gov/workspace/contract/opp/7397bf62dffb4c6690f4cbaa7d3b0c77/view"
-   }
-  },
-  {
-   "key": "close-72ca53ca70214f139a9c8fecb0c1d75b",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.USMC.MARCOR SYSCOM.COMMANDER",
-    "closes": "2026-07-23",
-    "date": "2026-07-23",
-    "from": "pipeline",
-    "text": "Request for White Papers - Organic Counter Small Unmanned Aircraft System (O-CsUAS) Dismounted Sensors",
-    "title": "Request for White Papers - Organic Counter Small Unmanned Aircraft System (O-CsUAS) Dismounted Sensors",
-    "url": "https://sam.gov/workspace/contract/opp/72ca53ca70214f139a9c8fecb0c1d75b/view"
-   }
-  },
-  {
-   "key": "close-72715edb45fe47de9ebd8179cbfc2d33",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.USMC.MARCOR SYSCOM.COMMANDER",
-    "closes": "2026-07-23",
-    "date": "2026-07-23",
-    "from": "pipeline",
-    "text": "Request for White Papers - Organic Counter Small Unmanned Aircraft System Dismounted Effectors",
-    "title": "Request for White Papers - Organic Counter Small Unmanned Aircraft System Dismounted Effectors",
-    "url": "https://sam.gov/workspace/contract/opp/72715edb45fe47de9ebd8179cbfc2d33/view"
-   }
-  },
-  {
-   "key": "close-3752a65feabc46978379104ff2c2738f",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION GREAT LAKES AND OHIO.ENDIST LOUISVILLE.W072 ENDIST LOUISVILLE",
-    "closes": "2026-07-20",
-    "date": "2026-07-20",
-    "from": "pipeline",
-    "text": "Unmanned Fusion Warfare Laboratory at NSWC Crane IN",
-    "title": "Unmanned Fusion Warfare Laboratory at NSWC Crane IN",
-    "url": "https://sam.gov/workspace/contract/opp/3752a65feabc46978379104ff2c2738f/view"
    }
   },
   {
