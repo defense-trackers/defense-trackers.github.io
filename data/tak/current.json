@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-07-15T19:51:54Z",
+ "fetched_at": "2026-07-16T08:38:16Z",
  "schema_version": 1,
  "records": [
   {
    "key": "felixross66/claude-ai-coding-kit-2026",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-15T19:13:18Z",
+    "date": "2026-07-16T08:25:12Z",
     "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation in a 2026 plugin suite.",
     "stars": "0",
     "text": "felixross66/claude-ai-coding-kit-2026",
@@ -17,12 +17,24 @@
    }
   },
   {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-07-16T00:04:40Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "48",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
+  {
    "key": "snstac/pytak",
    "source": "tak-cot",
    "fields": {
     "date": "2026-07-14T18:56:59Z",
     "description": "PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.",
-    "stars": "243",
+    "stars": "244",
     "text": "snstac/pytak",
     "title": "snstac/pytak",
     "url": "https://github.com/snstac/pytak"
@@ -38,18 +50,6 @@
     "text": "emfoursolutions/trakbridge",
     "title": "emfoursolutions/trakbridge",
     "url": "https://github.com/emfoursolutions/trakbridge"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-07-15T03:32:44Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "48",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -430,7 +430,7 @@
    "fields": {
     "date": "2022-11-06T13:11:28Z",
     "description": "DJI drone flying app with integrations for FreeTAKServer. Looking for a maitainer!",
-    "stars": "122",
+    "stars": "123",
     "text": "FreeTAKTeam/FreeTAKUAS",
     "title": "FreeTAKTeam/FreeTAKUAS",
     "url": "https://github.com/FreeTAKTeam/FreeTAKUAS"
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-07-15T17:37:32Z",
+    "date": "2026-07-16T00:56:27Z",
     "description": "full port of Reticulum and LXMF to Rust with added SDK",
     "stars": "21",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -734,7 +734,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-07-15T10:27:55Z",
+    "date": "2026-07-16T01:33:44Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "21",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -780,7 +780,7 @@
    "key": "TX-RX/TAK-XVoice",
    "source": "tak-github",
    "fields": {
-    "date": "2026-07-15T19:51:01Z",
+    "date": "2026-07-15T22:14:38Z",
     "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
     "stars": "2",
     "text": "TX-RX/TAK-XVoice",

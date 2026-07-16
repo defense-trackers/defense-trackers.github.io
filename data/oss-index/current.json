@@ -1,7 +1,7 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-07-15T19:51:10Z",
+ "fetched_at": "2026-07-16T08:37:41Z",
  "schema_version": 1,
  "records": [
   {
@@ -272,7 +272,7 @@
    "key": "cisagov/cset",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-07-01T13:48:44Z",
+    "date": "2026-07-16T08:33:55Z",
     "description": "Cybersecurity Evaluation Tool",
     "stars": "1862",
     "text": "cisagov/cset",
@@ -560,7 +560,7 @@
    "key": "idaholab/moose",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-07-15T17:53:38Z",
+    "date": "2026-07-16T03:46:30Z",
     "description": "Multiphysics Object Oriented Simulation Environment",
     "stars": "2296",
     "text": "idaholab/moose",
@@ -572,7 +572,7 @@
    "key": "idaholab/raven",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-07-15T04:07:24Z",
+    "date": "2026-07-15T21:57:56Z",
     "description": "RAVEN is a flexible and multi-purpose probabilistic risk analysis, validation and uncertainty quantification, parameter optimization, model reduction and data knowledge-discovering framework.",
     "stars": "261",
     "text": "idaholab/raven",
@@ -655,7 +655,7 @@
    "key": "idaholab/salamander",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-07-14T18:30:22Z",
+    "date": "2026-07-15T22:39:29Z",
     "description": "SALAMANDER is an application for performing system-level, engineering scale (i.e., at the scale of centimeters and meters), and microstructure-scale (i.e., at the scale of microns) multiphysics calculations related to magnetic confinement fusion energy systems.",
     "stars": "24",
     "text": "idaholab/salamander",
@@ -763,7 +763,7 @@
    "key": "llnl/conduit",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-07-11T02:07:42Z",
+    "date": "2026-07-15T23:44:38Z",
     "description": "Simplified Data Exchange for HPC Simulations",
     "stars": "246",
     "text": "llnl/conduit",
@@ -811,7 +811,7 @@
    "key": "llnl/RAJA",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-07-14T17:17:39Z",
+    "date": "2026-07-16T01:13:12Z",
     "description": "RAJA Performance Portability Layer (C++)",
     "stars": "589",
     "text": "llnl/RAJA",
@@ -906,7 +906,7 @@
    "key": "mitre/vulcan",
    "source": "oss-mitre",
    "fields": {
-    "date": "2026-07-15T02:41:23Z",
+    "date": "2026-07-16T00:30:12Z",
     "description": "A web application to streamline the development of STIGs from SRGs",
     "stars": "87",
     "text": "mitre/vulcan",
@@ -990,7 +990,7 @@
    "key": "nasa/trick",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-07-14T21:51:12Z",
+    "date": "2026-07-15T22:10:44Z",
     "description": "Trick Simulation Environment.  Trick provides a common set of simulation capabilities and utilities to build simulations automatically.",
     "stars": "155",
     "text": "nasa/trick",
@@ -1004,7 +1004,7 @@
    "fields": {
     "date": "2026-06-30T17:58:41Z",
     "description": "A web based mission control framework. ",
-    "stars": "13039",
+    "stars": "13040",
     "text": "nasa/openmct",
     "title": "nasa/openmct",
     "url": "https://github.com/nasa/openmct"
@@ -1062,7 +1062,7 @@
    "key": "nasa/Common-Metadata-Repository",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-07-15T16:53:24Z",
+    "date": "2026-07-16T02:57:46Z",
     "description": "The Common Metadata Repository (CMR) is a high-performance, high-quality, continuously evolving metadata system that catalogs Earth Science data and associated service metadata records. These metadata records are registered, modified, discovered, and accessed through programmatic interfaces leveraging standard protocols and APIs.",
     "stars": "392",
     "text": "nasa/Common-Metadata-Repository",
@@ -1181,7 +1181,7 @@
    "key": "nsacyber/HIRS",
    "source": "oss-nsacyber",
    "fields": {
-    "date": "2026-07-10T01:37:55Z",
+    "date": "2026-07-16T01:25:47Z",
     "description": "Trusted Computing based services supporting TPM provisioning and supply chain validation concepts. #nsacyber",
     "stars": "211",
     "text": "nsacyber/HIRS",
@@ -1205,7 +1205,7 @@
    "key": "nsacyber/RIM-Tool",
    "source": "oss-nsacyber",
    "fields": {
-    "date": "2026-07-13T11:33:09Z",
+    "date": "2026-07-15T20:58:51Z",
     "description": "A tool to create TCG Reference Integrity Manifest (RIM) files for use with attestation verifiers like HIRS.",
     "stars": "7",
     "text": "nsacyber/RIM-Tool",
@@ -1326,7 +1326,7 @@
    "fields": {
     "date": "2026-07-14T15:34:54Z",
     "description": "A continuum physics code for additive manufacturing built on OpenFOAM",
-    "stars": "66",
+    "stars": "67",
     "text": "ORNL/AdditiveFOAM",
     "title": "ORNL/AdditiveFOAM",
     "url": "https://github.com/ORNL/AdditiveFOAM"
@@ -1336,7 +1336,7 @@
    "key": "ORNL/GridKit",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-07-15T06:53:58Z",
+    "date": "2026-07-16T04:48:24Z",
     "description": "Modeling framework for power systems simulations and analysis.",
     "stars": "23",
     "text": "ORNL/GridKit",

@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-07-15T19:51:57Z",
+ "fetched_at": "2026-07-16T08:38:19Z",
  "schema_version": 1,
  "records": [
   {
@@ -26,18 +26,6 @@
     "text": "GENERAL DYNAMICS LAND SYSTEMS INC.",
     "title": "GENERAL DYNAMICS LAND SYSTEMS INC.",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W56HZV23C0025_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_FA880820C0047_9700_-NONE-_-NONE-",
-   "source": "transition-prototype",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "4.2403928685e+08",
-    "description": "EVOLVED STRATEGIC SATELLITE COMMUNICATION PROTOTYPE",
-    "text": "THE BOEING COMPANY",
-    "title": "THE BOEING COMPANY",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_FA880820C0047_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -605,6 +593,18 @@
    }
   },
   {
+   "key": "CONT_AWD_FA875025FB013_9700_FA875025DB002_9700",
+   "source": "transition-prototype",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "20315558",
+    "description": "ACCELERATE THE PROCUREMENT AND FIELDING OF INNOVATIVE TECHNOLOGIES (APFIT) SMALL UNCREWED AIR DEFENSE SYSTEM (SUADS) PROTOTYPE SYSTEMS AIMS TO PROCURE OPERATIONAL PROTOTYPES TO EVALUATE AND REPEAT.",
+    "text": "TRUST AUTOMATION INC",
+    "title": "TRUST AUTOMATION INC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA875025FB013_9700_FA875025DB002_9700/"
+   }
+  },
+  {
    "key": "CONT_AWD_HT940216C0001_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -618,11 +618,24 @@
    }
   },
   {
+   "key": "CONT_AWD_N0001917C0001_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "3.51355149102e+10",
+    "award_id": "N0001917C0001",
+    "description": "LRIP LOT 12 ADVANCE ACQUISITION CONTRACT",
+    "text": "LOCKHEED MARTIN CORPORATION",
+    "title": "LOCKHEED MARTIN CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_N0001917C0001_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_N0002417C2100_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "34940169713",
+    "amount": "34940192891",
     "award_id": "N0002417C2100",
     "description": "SSN 802 AND 803 LONG LEAD TIME MATERIAL",
     "text": "ELECTRIC BOAT CORPORATION",
@@ -687,7 +700,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "2.349253299412e+10",
+    "amount": "2.348280806607e+10",
     "award_id": "HT940216C0002",
     "description": "IGF::OT::IGF  MANAGED CARE SUPPORT SERVICES IN SUPPORT OF THE TRICARE PROGRAM",
     "text": "HEALTH NET FEDERAL SERVICES, LLC",
@@ -713,7 +726,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "20197574938",
+    "amount": "20197587480",
     "award_id": "N0002412C2115",
     "description": "SSN 792 LONG LEAD TIME MATERIAL",
     "text": "ELECTRIC BOAT CORPORATION",
@@ -804,7 +817,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "1.272177455785e+10",
+    "amount": "1.274177455785e+10",
     "award_id": "N0002416C2116",
     "description": "CVN 80 ENGINEERING EFFORTS AND STEEL",
     "text": "HUNTINGTON INGALLS INC",
@@ -875,6 +888,19 @@
     "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
     "title": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
     "url": "https://www.usaspending.gov/award/CONT_AWD_F4261098C0001_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_W58RGZ08C0003_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "9.97102271049e+09",
+    "award_id": "W58RGZ08C0003",
+    "description": "PROCUREMENT OF 54 EACH ARMY UH-60M BLACK HAWK HELICOPTERS; 18 EACH NAVY MH-60S SEA HAWK HELICOPTERS; 25 EACH NAVY NH-60R SEA HAWK HELICOPTERS; 9 EACH UH-60M BLACK HAWK HELICOPTER FOR BAHRAIN DEFENSE FORCE; TOOLING; PROGRAM SYSTEMS MANAGEMENT; TECHNICAL PUBLICATIONS.",
+    "text": "SIKORSKY AIRCRAFT CORPORATION",
+    "title": "SIKORSKY AIRCRAFT CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ08C0003_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -1202,6 +1228,19 @@
    }
   },
   {
+   "key": "CONT_AWD_N0002408C2110_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "6.64571096011e+09",
+    "award_id": "N0002408C2110",
+    "description": "TAS::17 1611::TAS CVN 78 SHIP CONSTRUCTION",
+    "text": "HUNTINGTON INGALLS INC",
+    "title": "HUNTINGTON INGALLS INC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_N0002408C2110_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_N0001917C0015_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -1212,44 +1251,6 @@
     "text": "BELL BOEING JOINT PROJECT OFFICE",
     "title": "BELL BOEING JOINT PROJECT OFFICE",
     "url": "https://www.usaspending.gov/award/CONT_AWD_N0001917C0015_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_HQ014712C0004_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "6.46662786826e+09",
-    "award_id": "HQ014712C0004",
-    "description": "THE MISSILE DEFENSE AGENCY (MDA), GROUND-BASED MIDCOURSE DEFENSE (GMD) DEVELOPMENT AND SUSTAINMENT CONTRACT (DSC) THE GMD DSC WORK INCLUDES, BUT IS NOT LIMITED TO: 1) FUTURE DEVELOPMENT; 2) FIELDING; 3) TEST; 4) SYSTEMS ENGINEERING, INTEGRATION AND CONFIGURATION MANAGEMENT; 5) EQUIPMENT MANUFACTURING AND REFURBISHMENT; 6) TRAINING; AND 7) OPERATIONS AND SUSTAINMENT SUPPORT FOR THE GMD WEAPON SYSTEM AND ASSOCIATED SUPPORT FACILITIES.",
-    "text": "THE BOEING COMPANY",
-    "title": "THE BOEING COMPANY",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_HQ014712C0004_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_W56HZV15C0095_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "6.1042088709e+09",
-    "award_id": "W56HZV15C0095",
-    "description": "THE CONTRACT INCLUDES FIRM FIXED PRICE (FFP) CONTACT LINE ITEM NUMBERS (CLIN) FOR VEHICLES, TRAILERS, KITS (PACKAGED AND INSTALLED), TEST HARDWARE AND SUPPORT, VEHICLE REFURBISHMENT, SYSTEMS ENGINEERING/ PROGRAM MANAGEMENT (SEPM), STORAGE AND MAINTENANCE OF VEHICLES, VEHICLE REFURBISHMENT, INTEGRATED PRODUCT SUPPORT (IPS), AND A TECHNICAL DATA PACKAGE (TDP).  THE CONTRACT ALSO INCLUDES COST PLUS FIXED FEE (CPFF) CLINS FOR SYSTEM TECHNICAL SUPPORT (STS), TOTAL PACKAGE FIELDING (TPF), AND INTERIM CONTRACTOR SUPPORT (ICS).  THE CONTRACT CONTAINS PROVISIONS FOR AN ECONOMIC PRICE ADJUSTMENT (EPA) FOR MATERIAL FLUCTUATIONS FOR THE VEHICLES PROCURED IN OPTION PERIODS SIX, SEVEN, AND EIGHT.",
-    "text": "OSHKOSH DEFENSE LLC",
-    "title": "OSHKOSH DEFENSE LLC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W56HZV15C0095_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_N0001906C0081_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "6.10328553196e+09",
-    "award_id": "N0001906C0081",
-    "text": "SIKORSKY AIRCRAFT CORPORATION",
-    "title": "SIKORSKY AIRCRAFT CORPORATION",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_N0001906C0081_9700_-NONE-_-NONE-/"
    }
   }
  ]

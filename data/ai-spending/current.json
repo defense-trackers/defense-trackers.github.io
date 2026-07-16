@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-07-15T19:50:01Z",
+ "fetched_at": "2026-07-16T08:35:59Z",
  "schema_version": 1,
  "records": [
   {
@@ -194,6 +194,18 @@
     "text": "BUTT CONSTRUCTION COMPANY, INCORPORATED",
     "title": "BUTT CONSTRUCTION COMPANY, INCORPORATED",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W912QR26CA010_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_HQ085426PE001_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "8.90484758e+06",
+    "description": "THE MISSILE DEFENSE AGENCY (MDA) REQUIRES DATA/ARTIFICIAL INTELLIGENCE PLATFORM TO BUILD ANALYTICS AND ARTIFICIAL INTELLIGENCE ENABLED DATA PRODUCTS THAT CREATE DECISION ADVANTAGE FOR THE AGENCY AT THE SECRET AND UNCLASSIFIED LEVEL.",
+    "text": "PALANTIR USG INC",
+    "title": "PALANTIR USG INC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_HQ085426PE001_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -410,18 +422,6 @@
     "text": "ILLUMINATION WORKS, LLC",
     "title": "ILLUMINATION WORKS, LLC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_FA864923P1087_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_HQ085426PE001_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "3950000",
-    "description": "THE MISSILE DEFENSE AGENCY (MDA) REQUIRES DATA/ARTIFICIAL INTELLIGENCE PLATFORM TO BUILD ANALYTICS AND ARTIFICIAL INTELLIGENCE ENABLED DATA PRODUCTS THAT CREATE DECISION ADVANTAGE FOR THE AGENCY AT THE SECRET AND UNCLASSIFIED LEVEL.",
-    "text": "PALANTIR USG INC",
-    "title": "PALANTIR USG INC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_HQ085426PE001_9700_-NONE-_-NONE-/"
    }
   },
   {
