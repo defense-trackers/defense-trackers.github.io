@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-07-16T08:37:56Z",
+ "fetched_at": "2026-07-16T19:46:36Z",
  "schema_version": 1,
  "records": [
   {
@@ -743,6 +743,48 @@
    }
   },
   {
+   "key": "9e31ddb3275745eebe526cf7bc062fb8",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION NORTH ATLANTIC.ENDIST BALTIMORE.W2SD ENDIST BALTIMORE",
+    "closes": "2026-07-30T11:00:00-05:00",
+    "number": "W912DR26R1AUM",
+    "posted": "2026-07-16",
+    "text": "Multidiscipline Indefinite Delivery Contracts for Topographic, Boundary, Hydrographic, Geospatial Database Development, and Unmanned Systems Surveying and Mapping for Projects under the Jurisdiction of the Baltimore District and North Atlantic Division",
+    "title": "Multidiscipline Indefinite Delivery Contracts for Topographic, Boundary, Hydrographic, Geospatial Database Development, and Unmanned Systems Surveying and Mapping for Projects under the Jurisdiction of the Baltimore District and North Atlantic Division",
+    "type": "Combined Synopsis/Solicitation",
+    "url": "https://sam.gov/workspace/contract/opp/9e31ddb3275745eebe526cf7bc062fb8/view"
+   }
+  },
+  {
+   "key": "8268da7209564560804b3e65345d2a98",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVAIR.NAVAIR HQS.NAVAL AIR SYSTEMS COMMAND",
+    "closes": "2026-08-31T12:00:00-04:00",
+    "number": "N00019-26-PMA-263-0999",
+    "posted": "2026-07-16",
+    "text": "INDUSTRY DAY FOR GROUP 1 AND GROUP 2 UNMANNED AIRCRAFT SYSTEM (UAS) TRAINING, MISSION PLANNING, MISSION REHEARSAL, SIMULATION, AND QUALIFICATION MANAGEMENT SYSTEMS",
+    "title": "INDUSTRY DAY FOR GROUP 1 AND GROUP 2 UNMANNED AIRCRAFT SYSTEM (UAS) TRAINING, MISSION PLANNING, MISSION REHEARSAL, SIMULATION, AND QUALIFICATION MANAGEMENT SYSTEMS",
+    "type": "Special Notice",
+    "url": "https://sam.gov/workspace/contract/opp/8268da7209564560804b3e65345d2a98/view"
+   }
+  },
+  {
+   "key": "5f9e735fd3474c49a987a0380ddaba1c",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.WEAPONS.FA8520  AFLCMC EBUK",
+    "closes": "2026-07-31T17:00:00-04:00",
+    "number": "FA852026MPHC",
+    "posted": "2026-07-16",
+    "text": "Man-portable, Handheld, Counter-Unmanned System (MPHC)",
+    "title": "Man-portable, Handheld, Counter-Unmanned System (MPHC)",
+    "type": "Sources Sought",
+    "url": "https://sam.gov/workspace/contract/opp/5f9e735fd3474c49a987a0380ddaba1c/view"
+   }
+  },
+  {
    "key": "c7fe7474d3444bd2aee8b175ce1cf478",
    "source": "pipeline-sam-unmanned",
    "fields": {
@@ -838,34 +880,6 @@
     "title": "Medium Unmanned Surface Vessel (MUSV) High-Capacity",
     "type": "Presolicitation",
     "url": "https://sam.gov/workspace/contract/opp/89571fe157704a8d8aa246245a743828/view"
-   }
-  },
-  {
-   "key": "7397bf62dffb4c6690f4cbaa7d3b0c77",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.WEAPONS.FA8520  AFLCMC EBUK",
-    "closes": "2026-07-31T17:00:00-04:00",
-    "number": "FA852026MPHC",
-    "posted": "2026-06-29",
-    "text": "Man-portable, Handheld, Counter-Unmanned System (MPHC)",
-    "title": "Man-portable, Handheld, Counter-Unmanned System (MPHC)",
-    "type": "Sources Sought",
-    "url": "https://sam.gov/workspace/contract/opp/7397bf62dffb4c6690f4cbaa7d3b0c77/view"
-   }
-  },
-  {
-   "key": "e4476c627cbb4de3add4f68c50ca3ab8",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION NORTH ATLANTIC.ENDIST BALTIMORE.W2SD ENDIST BALTIMORE",
-    "closes": "2026-07-17T11:00:00-05:00",
-    "number": "W912DR26R1AUM",
-    "posted": "2026-06-18",
-    "text": "Multidiscipline Indefinite Delivery Contracts for Topographic, Boundary, Hydrographic, Geospatial Database Development, and Unmanned Systems Surveying and Mapping for Projects under the Jurisdiction of the Baltimore District and North Atlantic Division",
-    "title": "Multidiscipline Indefinite Delivery Contracts for Topographic, Boundary, Hydrographic, Geospatial Database Development, and Unmanned Systems Surveying and Mapping for Projects under the Jurisdiction of the Baltimore District and North Atlantic Division",
-    "type": "Combined Synopsis/Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/e4476c627cbb4de3add4f68c50ca3ab8/view"
    }
   },
   {
