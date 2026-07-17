@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-07-17T08:31:50Z",
+ "fetched_at": "2026-07-17T19:47:36Z",
  "schema_version": 1,
  "records": [
   {
    "key": "felixross66/claude-ai-coding-kit-2026",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-17T08:26:42Z",
+    "date": "2026-07-17T19:14:26Z",
     "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation in a 2026 plugin suite.",
     "stars": "6",
     "text": "felixross66/claude-ai-coding-kit-2026",
@@ -20,7 +20,7 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-17T01:47:31Z",
+    "date": "2026-07-17T18:23:37Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "48",
     "text": "takwerx/infra-TAK",
@@ -130,7 +130,7 @@
    "fields": {
     "date": "2026-06-22T01:47:23Z",
     "description": "DroneCOT is software for monitoring and analyzing Direct Remote Identification (DRI), Remote ID (RID) or Open Drone ID (ODID) broadcasts from Uncrewed Aircraft (UA) via the Team Awareness Kit (TAK) ecosystem of products.",
-    "stars": "33",
+    "stars": "34",
     "text": "snstac/dronecot",
     "title": "snstac/dronecot",
     "url": "https://github.com/snstac/dronecot"
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-07-16T21:25:36Z",
+    "date": "2026-07-17T19:47:25Z",
     "description": "full port of Reticulum and LXMF to Rust with added SDK",
     "stars": "22",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -757,7 +757,7 @@
    "key": "clptak/cloudtak-plugin-search-containment",
    "source": "tak-github",
    "fields": {
-    "date": "2026-07-17T03:59:47Z",
+    "date": "2026-07-17T18:46:34Z",
     "description": "Plugin to behave similar to ATAK's Chokepoint.  Leverages OSM  layer in CloudTAK to identify containment points at travel corridors to contain a search area.",
     "stars": "0",
     "text": "clptak/cloudtak-plugin-search-containment",
@@ -780,7 +780,7 @@
    "key": "libre-7/atak-callout",
    "source": "tak-github",
    "fields": {
-    "date": "2026-07-15T19:12:16Z",
+    "date": "2026-07-17T18:48:50Z",
     "description": "Callout — paging/alerting system for ATAK. Plugin + standalone app with multi-transport sync (TAK server, UDP mesh, offline).",
     "stars": "0",
     "text": "libre-7/atak-callout",
@@ -792,7 +792,7 @@
    "key": "TX-RX/TAK-XVoice",
    "source": "tak-github",
    "fields": {
-    "date": "2026-07-17T04:30:32Z",
+    "date": "2026-07-17T14:05:50Z",
     "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
     "stars": "2",
     "text": "TX-RX/TAK-XVoice",
@@ -890,7 +890,7 @@
    "fields": {
     "date": "2026-07-02T00:56:07Z",
     "description": "ATAK MeshCore plugin",
-    "stars": "22",
+    "stars": "23",
     "text": "atakmaps/TAK-MESHCORE",
     "title": "atakmaps/TAK-MESHCORE",
     "url": "https://github.com/atakmaps/TAK-MESHCORE"
@@ -924,7 +924,7 @@
    "key": "jpat-12/ATAK-Plugin-QuickCapture",
    "source": "tak-github",
    "fields": {
-    "date": "2026-06-24T13:36:57Z",
+    "date": "2026-07-17T17:41:29Z",
     "stars": "4",
     "text": "jpat-12/ATAK-Plugin-QuickCapture",
     "title": "jpat-12/ATAK-Plugin-QuickCapture",
@@ -1006,7 +1006,7 @@
    "key": "swim-fish/atak_tw_coord_plugin",
    "source": "tak-github",
    "fields": {
-    "date": "2026-06-17T14:50:18Z",
+    "date": "2026-07-17T16:12:57Z",
     "stars": "1",
     "text": "swim-fish/atak_tw_coord_plugin",
     "title": "swim-fish/atak_tw_coord_plugin",
@@ -1019,7 +1019,7 @@
    "fields": {
     "date": "2026-06-04T21:30:53Z",
     "description": "ATAK Plugin for sending CoT to IMeshService",
-    "stars": "499",
+    "stars": "502",
     "text": "meshtastic/ATAK-Plugin",
     "title": "meshtastic/ATAK-Plugin",
     "url": "https://github.com/meshtastic/ATAK-Plugin"
