@@ -1,16 +1,16 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-07-17T19:47:36Z",
+ "fetched_at": "2026-07-18T08:12:45Z",
  "schema_version": 1,
  "records": [
   {
    "key": "felixross66/claude-ai-coding-kit-2026",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-17T19:14:26Z",
+    "date": "2026-07-18T07:22:52Z",
     "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation in a 2026 plugin suite.",
-    "stars": "6",
+    "stars": "1",
     "text": "felixross66/claude-ai-coding-kit-2026",
     "title": "felixross66/claude-ai-coding-kit-2026",
     "url": "https://github.com/felixross66/claude-ai-coding-kit-2026"
@@ -20,9 +20,9 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-17T18:23:37Z",
+    "date": "2026-07-17T22:19:25Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "48",
+    "stars": "49",
     "text": "takwerx/infra-TAK",
     "title": "takwerx/infra-TAK",
     "url": "https://github.com/takwerx/infra-TAK"
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-07-17T19:47:25Z",
+    "date": "2026-07-17T19:48:04Z",
     "description": "full port of Reticulum and LXMF to Rust with added SDK",
     "stars": "22",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -734,7 +734,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-07-16T20:47:01Z",
+    "date": "2026-07-17T23:09:57Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "21",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -754,10 +754,21 @@
    }
   },
   {
+   "key": "swim-fish/atak_tw_coord_plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-07-18T07:51:57Z",
+    "stars": "1",
+    "text": "swim-fish/atak_tw_coord_plugin",
+    "title": "swim-fish/atak_tw_coord_plugin",
+    "url": "https://github.com/swim-fish/atak_tw_coord_plugin"
+   }
+  },
+  {
    "key": "clptak/cloudtak-plugin-search-containment",
    "source": "tak-github",
    "fields": {
-    "date": "2026-07-17T18:46:34Z",
+    "date": "2026-07-17T21:58:55Z",
     "description": "Plugin to behave similar to ATAK's Chokepoint.  Leverages OSM  layer in CloudTAK to identify containment points at travel corridors to contain a search area.",
     "stars": "0",
     "text": "clptak/cloudtak-plugin-search-containment",
@@ -780,7 +791,7 @@
    "key": "libre-7/atak-callout",
    "source": "tak-github",
    "fields": {
-    "date": "2026-07-17T18:48:50Z",
+    "date": "2026-07-17T20:01:00Z",
     "description": "Callout — paging/alerting system for ATAK. Plugin + standalone app with multi-transport sync (TAK server, UDP mesh, offline).",
     "stars": "0",
     "text": "libre-7/atak-callout",
@@ -792,7 +803,7 @@
    "key": "TX-RX/TAK-XVoice",
    "source": "tak-github",
    "fields": {
-    "date": "2026-07-17T14:05:50Z",
+    "date": "2026-07-18T03:35:41Z",
     "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
     "stars": "2",
     "text": "TX-RX/TAK-XVoice",
@@ -890,7 +901,7 @@
    "fields": {
     "date": "2026-07-02T00:56:07Z",
     "description": "ATAK MeshCore plugin",
-    "stars": "23",
+    "stars": "24",
     "text": "atakmaps/TAK-MESHCORE",
     "title": "atakmaps/TAK-MESHCORE",
     "url": "https://github.com/atakmaps/TAK-MESHCORE"
@@ -1000,17 +1011,6 @@
     "text": "engindearing-projects/omni-COT",
     "title": "engindearing-projects/omni-COT",
     "url": "https://github.com/engindearing-projects/omni-COT"
-   }
-  },
-  {
-   "key": "swim-fish/atak_tw_coord_plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-07-17T16:12:57Z",
-    "stars": "1",
-    "text": "swim-fish/atak_tw_coord_plugin",
-    "title": "swim-fish/atak_tw_coord_plugin",
-    "url": "https://github.com/swim-fish/atak_tw_coord_plugin"
    }
   },
   {

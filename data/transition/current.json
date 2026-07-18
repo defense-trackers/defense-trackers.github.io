@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-07-17T19:47:38Z",
+ "fetched_at": "2026-07-18T08:12:48Z",
  "schema_version": 1,
  "records": [
   {
@@ -105,7 +105,7 @@
    "source": "transition-prototype",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "1.6573388634e+08",
+    "amount": "1.6576858634e+08",
     "description": "PROVIDE ANALYSIS TO INCLUDE DESIGN, DEVELOP, INTEGRATE, AND TEST AN AEGIS BMD MISSION PLANNER MODEL PROTOTYPE WHICH INCLUDES THE CERBERUS PROJECT IN ACCORDANCE WITH THE SOW, SECTION J, AND EXECUTING THE COMBAT SYSTEMS TASK ORDER TASKS. PSC AC23 EXPENDITURE TYPE 255.0 R\u0026D",
     "text": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC",
     "title": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC",
@@ -401,18 +401,6 @@
    }
   },
   {
-   "key": "CONT_AWD_HQ072722F1615_9700_HQ072716D0006_9700",
-   "source": "transition-prototype",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "34060751",
-    "description": "THIS TASK IS TO RAPIDLY DEVELOP, ASSEMBLE AND TEST ADVANCED MULTI MISSION SENSOR SYSTEM PROTOTYPES WITH NEW WIDE AREA SEARCH CAPABILITY.",
-    "text": "RAYTHEON COMPANY",
-    "title": "RAYTHEON COMPANY",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_HQ072722F1615_9700_HQ072716D0006_9700/"
-   }
-  },
-  {
    "key": "CONT_AWD_W58RGZ23F0423_9700_W58RGZ18D0001_9700",
    "source": "transition-prototype",
    "fields": {
@@ -605,6 +593,18 @@
    }
   },
   {
+   "key": "CONT_AWD_N0016724F0054_9700_N0016721D0010_9700",
+   "source": "transition-prototype",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1.986769444e+07",
+    "description": "MULTI-MATERIAL PROTOTYPE",
+    "text": "SEEMANN COMPOSITES, LLC",
+    "title": "SEEMANN COMPOSITES, LLC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_N0016724F0054_9700_N0016721D0010_9700/"
+   }
+  },
+  {
    "key": "CONT_AWD_HT940216C0001_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -709,19 +709,6 @@
    }
   },
   {
-   "key": "CONT_AWD_HT940211C0003_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "2.045112709653e+10",
-    "award_id": "HT940211C0003",
-    "description": "T3 MANAGED CARE SUPPORT CONTRACT FOR SOUTH REGION",
-    "text": "HUMANA GOVERNMENT BUSINESS INC",
-    "title": "HUMANA GOVERNMENT BUSINESS INC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_HT940211C0003_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
    "key": "CONT_AWD_N0002412C2115_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -817,7 +804,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "1.274179663785e+10",
+    "amount": "1.274180623785e+10",
     "award_id": "N0002416C2116",
     "description": "CVN 80 ENGINEERING EFFORTS AND STEEL",
     "text": "HUNTINGTON INGALLS INC",
@@ -908,7 +895,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "9.88643543247e+09",
+    "amount": "9.79778379543e+09",
     "award_id": "W31P4Q24C0022",
     "description": "EXECUTE PHASED ARRAY TRACKING RADAR TO INTERCEPT ON TARGET (PATRIOT) ADVANCED CAPABILITY-3 (PAC-3) MISSILE PRODUCTION BY PROVIDING INCIDENTAL SERVICES, HARDWARE, FACILITIES, EQUIPMENT, AND TECHNICAL, PLANNING, MANAGEMENT, AND MANUFACTURING EFFORTS.",
     "text": "LOCKHEED MARTIN CORPORATION",
@@ -1219,7 +1206,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "6.89035601074e+09",
+    "amount": "6.89037970874e+09",
     "award_id": "N0002418C2307",
     "description": "FY18-FY22 DDG 51 CLASS SHIP CONSTRUCTION",
     "text": "HUNTINGTON INGALLS INCORPORATED",
@@ -1251,6 +1238,19 @@
     "text": "BELL BOEING JOINT PROJECT OFFICE",
     "title": "BELL BOEING JOINT PROJECT OFFICE",
     "url": "https://www.usaspending.gov/award/CONT_AWD_N0001917C0015_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_HQ014712C0004_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "6.46662786826e+09",
+    "award_id": "HQ014712C0004",
+    "description": "THE MISSILE DEFENSE AGENCY (MDA), GROUND-BASED MIDCOURSE DEFENSE (GMD) DEVELOPMENT AND SUSTAINMENT CONTRACT (DSC) THE GMD DSC WORK INCLUDES, BUT IS NOT LIMITED TO: 1) FUTURE DEVELOPMENT; 2) FIELDING; 3) TEST; 4) SYSTEMS ENGINEERING, INTEGRATION AND CONFIGURATION MANAGEMENT; 5) EQUIPMENT MANUFACTURING AND REFURBISHMENT; 6) TRAINING; AND 7) OPERATIONS AND SUSTAINMENT SUPPORT FOR THE GMD WEAPON SYSTEM AND ASSOCIATED SUPPORT FACILITIES.",
+    "text": "THE BOEING COMPANY",
+    "title": "THE BOEING COMPANY",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_HQ014712C0004_9700_-NONE-_-NONE-/"
    }
   }
  ]

@@ -1,9 +1,19 @@
 {
  "source": "authorizations",
  "tracker": "authorizations",
- "fetched_at": "2026-07-17T19:45:52Z",
+ "fetched_at": "2026-07-18T08:11:00Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "FR2411862686",
+   "source": "authorizations-fedramp",
+   "fields": {
+    "date": "2026-07-16T20:00:00.000Z",
+    "status": "Now in Agency Review",
+    "text": "Alation Cloud Service",
+    "title": "Alation Cloud Service"
+   }
+  },
   {
    "key": "FR2622238925",
    "source": "authorizations-fedramp",
@@ -22,16 +32,6 @@
     "status": "Now in Agency Review",
     "text": "Bidscale",
     "title": "Bidscale"
-   }
-  },
-  {
-   "key": "FR2220654178",
-   "source": "authorizations-fedramp",
-   "fields": {
-    "date": "2026-07-08T20:00:00.000Z",
-    "status": "Now in PMO Review",
-    "text": "Tyler Federal Cloud Platform (TFCP)",
-    "title": "Tyler Federal Cloud Platform (TFCP)"
    }
   },
   {
@@ -60,6 +60,20 @@
     "text": "Aeroplicity",
     "title": "Aeroplicity",
     "url": "https://aeroplicity.com/"
+   }
+  },
+  {
+   "key": "FR2411862686",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "Agency In Process",
+    "text": "Alation Cloud Service",
+    "title": "Alation Cloud Service",
+    "url": "https://www.alation.com/"
    }
   },
   {
@@ -1182,16 +1196,16 @@
    }
   },
   {
-   "key": "FR2535459236",
+   "key": "FR2031155471",
    "source": "authorizations-fedramp-ai",
    "fields": {
-    "assessor": "Coalfire Systems, Inc.",
-    "date": "2026-04-15T20:00:00.000Z",
-    "impact": "High",
+    "assessor": "Lazarus Alliance, Inc.",
+    "date": "2025-03-26T20:00:00.000Z",
+    "impact": "Moderate",
     "model": "SaaS",
     "status": "FedRAMP Authorized",
-    "text": "Iron Mountain InSight for Government",
-    "title": "Iron Mountain InSight for Government",
+    "text": "Iron Mountain InSight",
+    "title": "Iron Mountain InSight",
     "url": "https://www.ironmountain.com/services/insight-digital-experience-platform"
    }
   },
@@ -2119,20 +2133,6 @@
    }
   },
   {
-   "key": "FR2502148523",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "model": "SaaS",
-    "status": "Agency In Process",
-    "text": "Thomson Reuters Legal Research (TR LR)",
-    "title": "Thomson Reuters Legal Research (TR LR)",
-    "url": "https://legal.thomsonreuters.com/en/westlaw"
-   }
-  },
-  {
    "key": "FR2333543855",
    "source": "authorizations-fedramp-ai",
    "fields": {
@@ -2144,6 +2144,20 @@
     "text": "Thomson Reuters Risk \u0026 Fraud (TR R\u0026F)",
     "title": "Thomson Reuters Risk \u0026 Fraud (TR R\u0026F)",
     "url": "https://legal.thomsonreuters.com/en/products/clear"
+   }
+  },
+  {
+   "key": "FR2502148523",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "Agency In Process",
+    "text": "Thomson Reuters Legal Research (TR LR)",
+    "title": "Thomson Reuters Legal Research (TR LR)",
+    "url": "https://legal.thomsonreuters.com/en/westlaw"
    }
   },
   {
@@ -2217,20 +2231,6 @@
    }
   },
   {
-   "key": "FR2226228379",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Fortreum, LLC",
-    "date": "2024-11-22T20:00:00.000Z",
-    "impact": "Moderate",
-    "model": "SaaS",
-    "status": "FedRAMP Authorized",
-    "text": "Trend Cloud One for Government",
-    "title": "Trend Cloud One for Government",
-    "url": "https://www.trendmicro.com/en_us/business/capabilities/solutions-for/federal-government/cloud-security.html"
-   }
-  },
-  {
    "key": "FR2226231529",
    "source": "authorizations-fedramp-ai",
    "fields": {
@@ -2242,6 +2242,20 @@
     "text": "Trend Vision One for Government",
     "title": "Trend Vision One for Government",
     "url": "https://www.trendmicro.com/en_us/business/capabilities/solutions-for/federal-government/security-operations.html"
+   }
+  },
+  {
+   "key": "FR2226228379",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Fortreum, LLC",
+    "date": "2024-11-22T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Trend Cloud One for Government",
+    "title": "Trend Cloud One for Government",
+    "url": "https://www.trendmicro.com/en_us/business/capabilities/solutions-for/federal-government/cloud-security.html"
    }
   },
   {
@@ -2342,31 +2356,17 @@
    }
   },
   {
-   "key": "FR2421252636",
+   "key": "FR2421252644",
    "source": "authorizations-fedramp-ai",
    "fields": {
     "assessor": "Schellman Compliance, LLC",
-    "date": "2025-05-14T20:00:00.000Z",
+    "date": "2025-06-16T20:00:00.000Z",
     "impact": "Moderate",
     "model": "SaaS",
     "status": "FedRAMP Authorized",
-    "text": "Varonis Data Security Platform",
-    "title": "Varonis Data Security Platform",
+    "text": "Varonis DatAdvantage Cloud",
+    "title": "Varonis DatAdvantage Cloud",
     "url": "https://www.varonis.com"
-   }
-  },
-  {
-   "key": "F1509237360",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2022-07-18T20:00:00.000Z",
-    "impact": "Moderate",
-    "model": "SaaS",
-    "status": "FedRAMP Authorized",
-    "text": "Veracode Online Security Platform for Government",
-    "title": "Veracode Online Security Platform for Government",
-    "url": "https://www.veracode.com/"
    }
   },
   {
