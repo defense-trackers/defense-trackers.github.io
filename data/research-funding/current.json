@@ -1,7 +1,7 @@
 {
  "source": "research-funding",
  "tracker": "research-funding",
- "fetched_at": "2026-07-18T19:51:08Z",
+ "fetched_at": "2026-07-19T08:36:37Z",
  "schema_version": 1,
  "records": [
   {
@@ -19,31 +19,17 @@
    }
   },
   {
-   "key": "2526620",
+   "key": "2537281",
    "source": "research-nsf",
    "fields": {
     "agency": "NSF",
-    "amount": "410000",
-    "awardee": "Columbia University",
+    "amount": "899983",
+    "awardee": "University Enterprises, Incorporated",
     "date": "10/01/2026",
-    "program": "Secure \u0026Trustworthy Cyberspace",
-    "text": "Collaborative Research: SaTC 2.0: RES: AIGIS: Securing the Deep Learning Model Supply Chain",
-    "title": "Collaborative Research: SaTC 2.0: RES: AIGIS: Securing the Deep Learning Model Supply Chain",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2526620"
-   }
-  },
-  {
-   "key": "2606034",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "214876",
-    "awardee": "University of California-Los Angeles",
-    "date": "10/01/2026",
-    "program": "APPLIED MATHEMATICS",
-    "text": "Generalization Capabilities of Machine Learning for Solving Multiple Partial Differential Equations",
-    "title": "Generalization Capabilities of Machine Learning for Solving Multiple Partial Differential Equations",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2606034"
+    "program": "CER-ComputingEducationResearch",
+    "text": "CER: Assessing relationships between high school teacher professional development and student outcomes in computer science and artificial intelligence",
+    "title": "CER: Assessing relationships between high school teacher professional development and student outcomes in computer science and artificial intelligence",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2537281"
    }
   }
  ]
