@@ -1,7 +1,7 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-07-19T19:52:59Z",
+ "fetched_at": "2026-07-20T09:37:18Z",
  "schema_version": 1,
  "records": [
   {
@@ -346,7 +346,7 @@
    "fields": {
     "date": "2024-10-29T11:52:00Z",
     "description": "Situational Awareness Server compatible with TAK clients",
-    "stars": "933",
+    "stars": "934",
     "text": "FreeTAKTeam/FreeTakServer",
     "title": "FreeTAKTeam/FreeTakServer",
     "url": "https://github.com/FreeTAKTeam/FreeTakServer"
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-07-19T09:51:27Z",
+    "date": "2026-07-20T00:53:36Z",
     "description": "full port of Reticulum and LXMF to Rust with added SDK",
     "stars": "22",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -734,7 +734,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-07-19T19:16:08Z",
+    "date": "2026-07-20T02:31:09Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "21",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -754,6 +754,18 @@
    }
   },
   {
+   "key": "AkitaEngineering/Akita-MeshTAK",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-07-20T07:14:29Z",
+    "description": "The Akita MeshTAK Plugin is a game-changing Android Tactical Assault Kit (ATAK) plugin meticulously crafted to bridge the gap between ATAK and Meshtastic, providing unparalleled communication capabilities in the most challenging and disconnected environments.",
+    "stars": "12",
+    "text": "AkitaEngineering/Akita-MeshTAK",
+    "title": "AkitaEngineering/Akita-MeshTAK",
+    "url": "https://github.com/AkitaEngineering/Akita-MeshTAK"
+   }
+  },
+  {
    "key": "shigeki7299/ATAK_Plugin",
    "source": "tak-github",
    "fields": {
@@ -768,7 +780,7 @@
    "key": "TX-RX/TAK-XVoice",
    "source": "tak-github",
    "fields": {
-    "date": "2026-07-19T15:58:10Z",
+    "date": "2026-07-20T06:26:19Z",
     "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
     "stars": "3",
     "text": "TX-RX/TAK-XVoice",
@@ -1034,18 +1046,6 @@
     "text": "jjames31/Kaonic-ATAK-Plugin",
     "title": "jjames31/Kaonic-ATAK-Plugin",
     "url": "https://github.com/jjames31/Kaonic-ATAK-Plugin"
-   }
-  },
-  {
-   "key": "AkitaEngineering/Akita-MeshTAK",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-06-03T16:44:34Z",
-    "description": "The Akita MeshTAK Plugin is a game-changing Android Tactical Assault Kit (ATAK) plugin meticulously crafted to bridge the gap between ATAK and Meshtastic, providing unparalleled communication capabilities in the most challenging and disconnected environments.",
-    "stars": "12",
-    "text": "AkitaEngineering/Akita-MeshTAK",
-    "title": "AkitaEngineering/Akita-MeshTAK",
-    "url": "https://github.com/AkitaEngineering/Akita-MeshTAK"
    }
   },
   {
