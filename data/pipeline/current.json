@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-07-21T08:49:23Z",
+ "fetched_at": "2026-07-21T20:07:22Z",
  "schema_version": 1,
  "records": [
   {
@@ -769,6 +769,21 @@
    }
   },
   {
+   "key": "385907c89e004cea88335f6e05cdac53",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION GREAT LAKES AND OHIO.ENDIST LOUISVILLE.W072 ENDIST LOUISVILLE",
+    "closes": "2026-07-22T13:00:00-04:00",
+    "number": "W912QR26BA017",
+    "posted": "2026-07-21",
+    "setaside": "Total Small Business Set-Aside (FAR 19.5)",
+    "text": "Unmanned Fusion Warfare Laboratory at NSWC Crane IN",
+    "title": "Unmanned Fusion Warfare Laboratory at NSWC Crane IN",
+    "type": "Solicitation",
+    "url": "https://sam.gov/workspace/contract/opp/385907c89e004cea88335f6e05cdac53/view"
+   }
+  },
+  {
    "key": "57889edc24cd40089188290808afd5e6",
    "source": "pipeline-sam-unmanned",
    "fields": {
@@ -866,21 +881,6 @@
     "title": "Request for White Papers - Organic Counter Small Unmanned Aircraft System (O-CsUAS) Dismounted Sensors",
     "type": "Sources Sought",
     "url": "https://sam.gov/workspace/contract/opp/c7fe7474d3444bd2aee8b175ce1cf478/view"
-   }
-  },
-  {
-   "key": "6396eab212b847cebbe4096fb5c1ae5b",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION GREAT LAKES AND OHIO.ENDIST LOUISVILLE.W072 ENDIST LOUISVILLE",
-    "closes": "2026-07-22T13:00:00-04:00",
-    "number": "W912QR26BA017",
-    "posted": "2026-07-15",
-    "setaside": "Total Small Business Set-Aside (FAR 19.5)",
-    "text": "Unmanned Fusion Warfare Laboratory at NSWC Crane IN",
-    "title": "Unmanned Fusion Warfare Laboratory at NSWC Crane IN",
-    "type": "Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/6396eab212b847cebbe4096fb5c1ae5b/view"
    }
   },
   {

@@ -1,9 +1,37 @@
 {
  "source": "research-funding",
  "tracker": "research-funding",
- "fetched_at": "2026-07-21T08:49:32Z",
+ "fetched_at": "2026-07-21T20:07:33Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "2615771",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "561467",
+    "awardee": "Auburn University",
+    "date": "10/01/2026",
+    "program": "Robust Intelligence",
+    "text": "RI: Principle-Driven Embodied Vision: Autonomous Radiance Manifold Exploration for Functional Affordance Discovery",
+    "title": "RI: Principle-Driven Embodied Vision: Autonomous Radiance Manifold Exploration for Functional Affordance Discovery",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2615771"
+   }
+  },
+  {
+   "key": "2551586",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "899998",
+    "awardee": "Northwestern University at Chicago",
+    "date": "10/01/2026",
+    "program": "HCC-Human-Centered Computing",
+    "text": "HCC: Designing Tools to Improve Qualitative Research through Collaborations with Humans and Artificial Intelligence",
+    "title": "HCC: Designing Tools to Improve Qualitative Research through Collaborations with Humans and Artificial Intelligence",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2551586"
+   }
+  },
   {
    "key": "2601665",
    "source": "research-nsf",
