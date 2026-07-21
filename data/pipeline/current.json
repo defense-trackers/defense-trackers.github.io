@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-07-20T20:13:41Z",
+ "fetched_at": "2026-07-21T08:49:23Z",
  "schema_version": 1,
  "records": [
   {
@@ -532,6 +532,19 @@
    }
   },
   {
+   "key": "362252",
+   "source": "pipeline-grants",
+   "fields": {
+    "agency": "Defense Health Agency Contracting Activity - DHACA",
+    "closes": "10/21/2026",
+    "number": "HT942526MBRPTTDA",
+    "posted": "05/21/2026",
+    "text": "DoW Military Burn, Technology/Therapeutic Development Award",
+    "title": "DoW Military Burn, Technology/Therapeutic Development Award",
+    "url": "https://www.grants.gov/search-results-detail/362252"
+   }
+  },
+  {
    "key": "363018",
    "source": "pipeline-logistics",
    "fields": {
@@ -768,6 +781,20 @@
     "title": "Request for Information (RFI): Special Mission Vessel (SMV) – Helicopter, Unmanned Aerial System (UAS), Unmanned Surface Vehicle (USV) \u0026 Small Craft Support Vessel",
     "type": "Sources Sought",
     "url": "https://sam.gov/workspace/contract/opp/57889edc24cd40089188290808afd5e6/view"
+   }
+  },
+  {
+   "key": "3f6f5d1fdf2c47189145c74846cbfcf0",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE SPECIAL OPERATIONS COMMAND.FA4855  27 SOCONS LGC",
+    "closes": "2026-07-24T16:30:00-06:00",
+    "number": "F1L3SF6125A001",
+    "posted": "2026-07-20",
+    "text": "Titan 4 Counter Unmanned Aerial System",
+    "title": "Titan 4 Counter Unmanned Aerial System",
+    "type": "Sources Sought",
+    "url": "https://sam.gov/workspace/contract/opp/3f6f5d1fdf2c47189145c74846cbfcf0/view"
    }
   },
   {

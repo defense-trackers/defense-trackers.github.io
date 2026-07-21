@@ -1,9 +1,19 @@
 {
  "source": "authorizations",
  "tracker": "authorizations",
- "fetched_at": "2026-07-20T20:12:19Z",
+ "fetched_at": "2026-07-21T08:47:57Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "MSO365MTA",
+   "source": "authorizations-fedramp",
+   "fields": {
+    "date": "2026-07-20T20:00:00.000Z",
+    "status": "Now in PMO Review",
+    "text": "Microsoft 365 Government Community Cloud \u0026 Supporting Services",
+    "title": "Microsoft 365 Government Community Cloud \u0026 Supporting Services"
+   }
+  },
   {
    "key": "FR2411862686",
    "source": "authorizations-fedramp",
@@ -22,16 +32,6 @@
     "status": "Now FedRAMP Ready",
     "text": "Judi®",
     "title": "Judi®"
-   }
-  },
-  {
-   "key": "FR2619944785",
-   "source": "authorizations-fedramp",
-   "fields": {
-    "date": "2026-07-09T20:00:00.000Z",
-    "status": "Now in Agency Review",
-    "text": "Bidscale",
-    "title": "Bidscale"
    }
   },
   {
@@ -2231,20 +2231,6 @@
    }
   },
   {
-   "key": "FR2226231529",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Fortreum, LLC",
-    "date": "2024-11-22T20:00:00.000Z",
-    "impact": "Moderate",
-    "model": "SaaS",
-    "status": "FedRAMP Authorized",
-    "text": "Trend Vision One for Government",
-    "title": "Trend Vision One for Government",
-    "url": "https://www.trendmicro.com/en_us/business/capabilities/solutions-for/federal-government/security-operations.html"
-   }
-  },
-  {
    "key": "FR2226228379",
    "source": "authorizations-fedramp-ai",
    "fields": {
@@ -2256,6 +2242,20 @@
     "text": "Trend Cloud One for Government",
     "title": "Trend Cloud One for Government",
     "url": "https://www.trendmicro.com/en_us/business/capabilities/solutions-for/federal-government/cloud-security.html"
+   }
+  },
+  {
+   "key": "FR2226231529",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Fortreum, LLC",
+    "date": "2024-11-22T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Trend Vision One for Government",
+    "title": "Trend Vision One for Government",
+    "url": "https://www.trendmicro.com/en_us/business/capabilities/solutions-for/federal-government/security-operations.html"
    }
   },
   {
@@ -2342,16 +2342,16 @@
    }
   },
   {
-   "key": "FR2525556241",
+   "key": "FR2525556241XM",
    "source": "authorizations-fedramp-ai",
    "fields": {
     "assessor": "Schellman Compliance, LLC",
-    "date": "2025-07-25T20:00:00.000Z",
-    "impact": "20x Low",
+    "date": "2026-04-24T20:00:00.000Z",
+    "impact": "20x Moderate",
     "model": "SaaS",
     "status": "FedRAMP Authorized",
-    "text": "Vanta Trust Management Platform",
-    "title": "Vanta Trust Management Platform",
+    "text": "Vanta Government Cloud",
+    "title": "Vanta Government Cloud",
     "url": "https://www.vanta.com/"
    }
   },

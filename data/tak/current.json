@@ -1,19 +1,31 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-07-20T20:14:00Z",
+ "fetched_at": "2026-07-21T08:49:42Z",
  "schema_version": 1,
  "records": [
   {
    "key": "felixross66/claude-ai-coding-kit-2026",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-20T20:03:16Z",
+    "date": "2026-07-21T08:24:11Z",
     "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation in a 2026 plugin suite.",
-    "stars": "10",
+    "stars": "9",
     "text": "felixross66/claude-ai-coding-kit-2026",
     "title": "felixross66/claude-ai-coding-kit-2026",
     "url": "https://github.com/felixross66/claude-ai-coding-kit-2026"
+   }
+  },
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-07-21T06:57:46Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "49",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -26,18 +38,6 @@
     "text": "copyleftdev/tak-rs",
     "title": "copyleftdev/tak-rs",
     "url": "https://github.com/copyleftdev/tak-rs"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-07-19T02:51:03Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "49",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-07-20T20:12:59Z",
+    "date": "2026-07-21T08:47:59Z",
     "description": "full port of Reticulum and LXMF to Rust with added SDK",
     "stars": "23",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -804,7 +804,7 @@
    "key": "247-Group/ATAK-sensor-effector-plugin",
    "source": "tak-github",
    "fields": {
-    "date": "2026-07-18T14:19:46Z",
+    "date": "2026-07-21T02:30:11Z",
     "description": "ATAK Sensor/Effector plugin for RACK project",
     "stars": "1",
     "text": "247-Group/ATAK-sensor-effector-plugin",
@@ -1031,7 +1031,7 @@
    "fields": {
     "date": "2026-06-04T21:30:53Z",
     "description": "ATAK Plugin for sending CoT to IMeshService",
-    "stars": "504",
+    "stars": "505",
     "text": "meshtastic/ATAK-Plugin",
     "title": "meshtastic/ATAK-Plugin",
     "url": "https://github.com/meshtastic/ATAK-Plugin"
