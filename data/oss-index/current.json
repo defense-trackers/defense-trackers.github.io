@@ -1,7 +1,7 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-07-22T08:47:46Z",
+ "fetched_at": "2026-07-22T19:57:39Z",
  "schema_version": 1,
  "records": [
   {
@@ -236,7 +236,7 @@
    "key": "cisagov/Malcolm",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-07-21T21:26:14Z",
+    "date": "2026-07-22T14:36:32Z",
     "description": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.",
     "stars": "2458",
     "text": "cisagov/Malcolm",
@@ -274,7 +274,7 @@
    "fields": {
     "date": "2026-07-22T02:21:31Z",
     "description": "Cybersecurity Evaluation Tool",
-    "stars": "1862",
+    "stars": "1864",
     "text": "cisagov/cset",
     "title": "cisagov/cset",
     "url": "https://github.com/cisagov/cset"
@@ -562,7 +562,7 @@
    "fields": {
     "date": "2026-07-22T03:11:21Z",
     "description": "Multiphysics Object Oriented Simulation Environment",
-    "stars": "2300",
+    "stars": "2301",
     "text": "idaholab/moose",
     "title": "idaholab/moose",
     "url": "https://github.com/idaholab/moose"
@@ -584,7 +584,7 @@
    "key": "idaholab/Malcolm",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-07-21T20:44:36Z",
+    "date": "2026-07-22T14:35:45Z",
     "description": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.",
     "stars": "474",
     "text": "idaholab/Malcolm",
@@ -763,7 +763,7 @@
    "key": "llnl/conduit",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-07-22T05:44:52Z",
+    "date": "2026-07-22T18:40:49Z",
     "description": "Simplified Data Exchange for HPC Simulations",
     "stars": "246",
     "text": "llnl/conduit",
@@ -811,7 +811,7 @@
    "key": "llnl/RAJA",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-07-22T05:19:05Z",
+    "date": "2026-07-22T19:26:36Z",
     "description": "RAJA Performance Portability Layer (C++)",
     "stars": "590",
     "text": "llnl/RAJA",
@@ -896,7 +896,7 @@
    "fields": {
     "date": "2025-10-02T07:30:38Z",
     "description": "Interface with WebHDFS Service in a Cluster-Neutral Way",
-    "stars": "3",
+    "stars": "4",
     "text": "mitre/webhdfs",
     "title": "mitre/webhdfs",
     "url": "https://github.com/mitre/webhdfs"
@@ -906,7 +906,7 @@
    "key": "mitre/vulcan",
    "source": "oss-mitre",
    "fields": {
-    "date": "2026-07-21T00:46:04Z",
+    "date": "2026-07-22T13:22:45Z",
     "description": "A web application to streamline the development of STIGs from SRGs",
     "stars": "87",
     "text": "mitre/vulcan",
@@ -1014,7 +1014,7 @@
    "key": "nasa/earthdata-search",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-07-21T23:24:58Z",
+    "date": "2026-07-22T15:56:07Z",
     "description": "Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.",
     "stars": "821",
     "text": "nasa/earthdata-search",
@@ -1062,7 +1062,7 @@
    "key": "nasa/Common-Metadata-Repository",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-07-21T22:44:13Z",
+    "date": "2026-07-22T19:06:48Z",
     "description": "The Common Metadata Repository (CMR) is a high-performance, high-quality, continuously evolving metadata system that catalogs Earth Science data and associated service metadata records. These metadata records are registered, modified, discovered, and accessed through programmatic interfaces leveraging standard protocols and APIs.",
     "stars": "392",
     "text": "nasa/Common-Metadata-Repository",
@@ -1110,7 +1110,7 @@
    "key": "ngageoint/six-library",
    "source": "oss-ngageoint",
    "fields": {
-    "date": "2026-07-09T18:38:12Z",
+    "date": "2026-07-22T15:32:06Z",
     "description": "Sensor Independent XML Library",
     "stars": "81",
     "text": "ngageoint/six-library",
@@ -1219,7 +1219,7 @@
    "fields": {
     "date": "2026-04-13T17:55:57Z",
     "description": "The Toolkit for Adaptive Stochastic Modeling and Non-Intrusive ApproximatioN",
-    "stars": "76",
+    "stars": "77",
     "text": "ORNL/TASMANIAN",
     "title": "ORNL/TASMANIAN",
     "url": "https://github.com/ORNL/TASMANIAN"
@@ -1278,7 +1278,7 @@
    "fields": {
     "date": "2026-07-01T15:20:08Z",
     "description": "Peridynamics with the Cabana library",
-    "stars": "34",
+    "stars": "35",
     "text": "ORNL/CabanaPD",
     "title": "ORNL/CabanaPD",
     "url": "https://github.com/ORNL/CabanaPD"
@@ -1324,7 +1324,7 @@
    "key": "ORNL/AdditiveFOAM",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-07-21T02:35:32Z",
+    "date": "2026-07-22T15:42:36Z",
     "description": "A continuum physics code for additive manufacturing built on OpenFOAM",
     "stars": "68",
     "text": "ORNL/AdditiveFOAM",
@@ -1336,7 +1336,7 @@
    "key": "ORNL/GridKit",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-07-22T06:46:24Z",
+    "date": "2026-07-22T19:50:08Z",
     "description": "Modeling framework for power systems simulations and analysis.",
     "stars": "23",
     "text": "ORNL/GridKit",

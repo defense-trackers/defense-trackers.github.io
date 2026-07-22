@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-07-22T08:48:02Z",
+ "fetched_at": "2026-07-22T19:57:54Z",
  "schema_version": 1,
  "records": [
   {
@@ -352,6 +352,19 @@
    }
   },
   {
+   "key": "363279",
+   "source": "pipeline-grants",
+   "fields": {
+    "agency": "National Institute of Standards and Technology",
+    "closes": "08/21/2026",
+    "number": "2026-NIST-MEP-02",
+    "posted": "07/22/2026",
+    "text": "Manufacturing Extension Partnership Center State Competition",
+    "title": "Manufacturing Extension Partnership Center State Competition",
+    "url": "https://www.grants.gov/search-results-detail/363279"
+   }
+  },
+  {
    "key": "362035",
    "source": "pipeline-grants",
    "fields": {
@@ -529,19 +542,6 @@
     "text": "DoW Military Burn, Discovery Award",
     "title": "DoW Military Burn, Discovery Award",
     "url": "https://www.grants.gov/search-results-detail/362254"
-   }
-  },
-  {
-   "key": "362252",
-   "source": "pipeline-grants",
-   "fields": {
-    "agency": "Defense Health Agency Contracting Activity - DHACA",
-    "closes": "10/21/2026",
-    "number": "HT942526MBRPTTDA",
-    "posted": "05/21/2026",
-    "text": "DoW Military Burn, Technology/Therapeutic Development Award",
-    "title": "DoW Military Burn, Technology/Therapeutic Development Award",
-    "url": "https://www.grants.gov/search-results-detail/362252"
    }
   },
   {
@@ -766,6 +766,20 @@
     "title": "Advancing Autonomous Science for Biological Applications RFI",
     "type": "Special Notice",
     "url": "https://sam.gov/workspace/contract/opp/f95b52cedf5848bda4817b663f2926f7/view"
+   }
+  },
+  {
+   "key": "9c5ce42f40c34d4e8a608d0454e49981",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AF INSTALLATION \u0026 MISSION SUPPORT CENTER.FA8051  772 ESS PKD",
+    "closes": "2026-07-31T17:00:00-05:00",
+    "number": "FA805126S4006",
+    "posted": "2026-07-22",
+    "text": "Small Unmanned Aircraft System (sUAS) Light Detection and Ranging (LiDAR) System",
+    "title": "Small Unmanned Aircraft System (sUAS) Light Detection and Ranging (LiDAR) System",
+    "type": "Sources Sought",
+    "url": "https://sam.gov/workspace/contract/opp/9c5ce42f40c34d4e8a608d0454e49981/view"
    }
   },
   {
