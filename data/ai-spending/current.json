@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-07-21T20:05:57Z",
+ "fetched_at": "2026-07-22T08:46:37Z",
  "schema_version": 1,
  "records": [
   {
@@ -461,6 +461,18 @@
    }
   },
   {
+   "key": "CONT_AWD_FA875024CB037_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "3125964",
+    "description": "PLANNING AND ARTIFICIAL INTELLIGENCE MODEL SHARING",
+    "text": "CACI, INC. - FEDERAL",
+    "title": "CACI, INC. - FEDERAL",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA875024CB037_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_W911QX23C0003_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
@@ -482,18 +494,6 @@
     "text": "ILLUMINATION WORKS, LLC",
     "title": "ILLUMINATION WORKS, LLC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_FA864126CB001_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_FA875024CB037_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "2794664",
-    "description": "PLANNING AND ARTIFICIAL INTELLIGENCE MODEL SHARING",
-    "text": "CACI, INC. - FEDERAL",
-    "title": "CACI, INC. - FEDERAL",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_FA875024CB037_9700_-NONE-_-NONE-/"
    }
   },
   {

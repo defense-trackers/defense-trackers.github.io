@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-07-21T20:07:42Z",
+ "fetched_at": "2026-07-22T08:48:21Z",
  "schema_version": 1,
  "records": [
   {
    "key": "felixross66/claude-ai-coding-kit-2026",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-21T19:33:56Z",
+    "date": "2026-07-22T04:39:13Z",
     "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation in a 2026 plugin suite.",
     "stars": "3",
     "text": "felixross66/claude-ai-coding-kit-2026",
@@ -22,7 +22,7 @@
    "fields": {
     "date": "2026-07-21T19:32:48Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "50",
+    "stars": "51",
     "text": "takwerx/infra-TAK",
     "title": "takwerx/infra-TAK",
     "url": "https://github.com/takwerx/infra-TAK"
@@ -346,7 +346,7 @@
    "fields": {
     "date": "2024-10-29T11:52:00Z",
     "description": "Situational Awareness Server compatible with TAK clients",
-    "stars": "934",
+    "stars": "935",
     "text": "FreeTAKTeam/FreeTakServer",
     "title": "FreeTAKTeam/FreeTakServer",
     "url": "https://github.com/FreeTAKTeam/FreeTakServer"
@@ -734,9 +734,9 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-07-20T12:28:43Z",
+    "date": "2026-07-21T21:09:28Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
-    "stars": "21",
+    "stars": "22",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
     "title": "FreeTAKTeam/reticulum_mobile_emergency_management",
     "url": "https://github.com/FreeTAKTeam/reticulum_mobile_emergency_management"
@@ -751,6 +751,18 @@
     "text": "FreeTAKTeam/R3AKTClient",
     "title": "FreeTAKTeam/R3AKTClient",
     "url": "https://github.com/FreeTAKTeam/R3AKTClient"
+   }
+  },
+  {
+   "key": "247-Group/ATAK-sensor-effector-plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-07-22T01:46:30Z",
+    "description": "ATAK Sensor/Effector plugin for RACK project",
+    "stars": "0",
+    "text": "247-Group/ATAK-sensor-effector-plugin",
+    "title": "247-Group/ATAK-sensor-effector-plugin",
+    "url": "https://github.com/247-Group/ATAK-sensor-effector-plugin"
    }
   },
   {
@@ -798,18 +810,6 @@
     "text": "TX-RX/TAK-XVoice",
     "title": "TX-RX/TAK-XVoice",
     "url": "https://github.com/TX-RX/TAK-XVoice"
-   }
-  },
-  {
-   "key": "247-Group/ATAK-sensor-effector-plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-07-21T02:30:11Z",
-    "description": "ATAK Sensor/Effector plugin for RACK project",
-    "stars": "1",
-    "text": "247-Group/ATAK-sensor-effector-plugin",
-    "title": "247-Group/ATAK-sensor-effector-plugin",
-    "url": "https://github.com/247-Group/ATAK-sensor-effector-plugin"
    }
   },
   {

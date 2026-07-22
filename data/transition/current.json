@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-07-21T20:07:45Z",
+ "fetched_at": "2026-07-22T08:48:24Z",
  "schema_version": 1,
  "records": [
   {
@@ -201,7 +201,7 @@
    "source": "transition-prototype",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "67457697",
+    "amount": "70392697",
     "description": "WING KIT PROTOTYPE ARTICLES",
     "text": "THE BOEING COMPANY",
     "title": "THE BOEING COMPANY",
@@ -350,18 +350,6 @@
     "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
     "title": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
     "url": "https://www.usaspending.gov/award/CONT_AWD_N0001921F0582_9700_N0001920D0024_9700/"
-   }
-  },
-  {
-   "key": "CONT_AWD_HQ072717F1629_9700_HQ072716D0006_9700",
-   "source": "transition-prototype",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "37760039",
-    "description": "IGF::OT::IGF ENGINEERING SERVICES, CET 17-788,  E-4B ADVANCED EXTREMELY HIGH FREQUENCY (AEHF) INTEGRATION, PHASE 2 (E-4B INTEGRATION PHASE 2). THE PURPOSE OF THIS TASK IS TO DEVELOP AN INTEGRATED SOLUTION FOR FAB-T AND PNVC CAPABILITY INCLUDING HARDWARE AND SOFTWARE DESIGN ON THE E-4B PLATFORM INCLUDING CORRESPONDING TIME CHANGE TECHNICAL ORDERS (TCTOS), MODIFICATION KIT DEVELOPMENT, AND PROTOTYPE AIRCRAFT INSTALLATION.",
-    "text": "RAYTHEON COMPANY",
-    "title": "RAYTHEON COMPANY",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_HQ072717F1629_9700_HQ072716D0006_9700/"
    }
   },
   {
@@ -602,6 +590,18 @@
     "text": "SEEMANN COMPOSITES, LLC",
     "title": "SEEMANN COMPOSITES, LLC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_N0016724F0054_9700_N0016721D0010_9700/"
+   }
+  },
+  {
+   "key": "CONT_AWD_N6133121F3009_9700_N0017819D8049_9700",
+   "source": "transition-prototype",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1.914164897e+07",
+    "description": "TECHNICAL SUPPORT SERVICES TO NAVAL SURFACE WARFARE CENTER PANAMA CITY DIVISION PROTOTYPE FABRICATION SHOPS",
+    "text": "AKIMA MISSION OPTIMIZATION LLC",
+    "title": "AKIMA MISSION OPTIMIZATION LLC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_N6133121F3009_9700_N0017819D8049_9700/"
    }
   },
   {
@@ -973,7 +973,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "8.47820953167e+09",
+    "amount": "8.47830648167e+09",
     "award_id": "N0001918C1037",
     "description": "E-2D ADVANCED HAWKEYE AIRCRAFT (FRP-7)",
     "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
@@ -1206,7 +1206,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "6.89037970874e+09",
+    "amount": "6.89040128474e+09",
     "award_id": "N0002418C2307",
     "description": "FY18-FY22 DDG 51 CLASS SHIP CONSTRUCTION",
     "text": "HUNTINGTON INGALLS INCORPORATED",

@@ -1,7 +1,7 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-07-21T20:07:05Z",
+ "fetched_at": "2026-07-22T08:47:46Z",
  "schema_version": 1,
  "records": [
   {
@@ -92,7 +92,7 @@
    "key": "cisagov/cyhy-core",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-07-16T13:53:55Z",
+    "date": "2026-07-21T20:37:52Z",
     "description": "Core code for Cyber Hygiene (CyHy)",
     "stars": "18",
     "text": "cisagov/cyhy-core",
@@ -236,7 +236,7 @@
    "key": "cisagov/Malcolm",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-07-21T11:50:17Z",
+    "date": "2026-07-21T21:26:14Z",
     "description": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.",
     "stars": "2458",
     "text": "cisagov/Malcolm",
@@ -272,7 +272,7 @@
    "key": "cisagov/cset",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-07-20T18:52:36Z",
+    "date": "2026-07-22T02:21:31Z",
     "description": "Cybersecurity Evaluation Tool",
     "stars": "1862",
     "text": "cisagov/cset",
@@ -560,9 +560,9 @@
    "key": "idaholab/moose",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-07-21T12:07:55Z",
+    "date": "2026-07-22T03:11:21Z",
     "description": "Multiphysics Object Oriented Simulation Environment",
-    "stars": "2298",
+    "stars": "2300",
     "text": "idaholab/moose",
     "title": "idaholab/moose",
     "url": "https://github.com/idaholab/moose"
@@ -584,7 +584,7 @@
    "key": "idaholab/Malcolm",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-07-21T10:53:45Z",
+    "date": "2026-07-21T20:44:36Z",
     "description": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.",
     "stars": "474",
     "text": "idaholab/Malcolm",
@@ -763,7 +763,7 @@
    "key": "llnl/conduit",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-07-21T06:20:33Z",
+    "date": "2026-07-22T05:44:52Z",
     "description": "Simplified Data Exchange for HPC Simulations",
     "stars": "246",
     "text": "llnl/conduit",
@@ -811,7 +811,7 @@
    "key": "llnl/RAJA",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-07-21T19:43:36Z",
+    "date": "2026-07-22T05:19:05Z",
     "description": "RAJA Performance Portability Layer (C++)",
     "stars": "590",
     "text": "llnl/RAJA",
@@ -860,7 +860,7 @@
    "fields": {
     "date": "2026-06-08T14:09:39Z",
     "description": "Cyber Threat Intelligence Repository expressed in STIX 2.0",
-    "stars": "2104",
+    "stars": "2105",
     "text": "mitre/cti",
     "title": "mitre/cti",
     "url": "https://github.com/mitre/cti"
@@ -990,7 +990,7 @@
    "key": "nasa/trick",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-07-21T19:42:03Z",
+    "date": "2026-07-21T22:41:22Z",
     "description": "Trick Simulation Environment.  Trick provides a common set of simulation capabilities and utilities to build simulations automatically.",
     "stars": "155",
     "text": "nasa/trick",
@@ -1014,7 +1014,7 @@
    "key": "nasa/earthdata-search",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-07-21T16:59:11Z",
+    "date": "2026-07-21T23:24:58Z",
     "description": "Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.",
     "stars": "821",
     "text": "nasa/earthdata-search",
@@ -1062,7 +1062,7 @@
    "key": "nasa/Common-Metadata-Repository",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-07-21T19:41:27Z",
+    "date": "2026-07-21T22:44:13Z",
     "description": "The Common Metadata Repository (CMR) is a high-performance, high-quality, continuously evolving metadata system that catalogs Earth Science data and associated service metadata records. These metadata records are registered, modified, discovered, and accessed through programmatic interfaces leveraging standard protocols and APIs.",
     "stars": "392",
     "text": "nasa/Common-Metadata-Repository",
@@ -1181,7 +1181,7 @@
    "key": "nsacyber/HIRS",
    "source": "oss-nsacyber",
    "fields": {
-    "date": "2026-07-21T19:42:26Z",
+    "date": "2026-07-22T00:18:39Z",
     "description": "Trusted Computing based services supporting TPM provisioning and supply chain validation concepts. #nsacyber",
     "stars": "212",
     "text": "nsacyber/HIRS",
@@ -1336,7 +1336,7 @@
    "key": "ORNL/GridKit",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-07-21T19:30:42Z",
+    "date": "2026-07-22T06:46:24Z",
     "description": "Modeling framework for power systems simulations and analysis.",
     "stars": "23",
     "text": "ORNL/GridKit",
