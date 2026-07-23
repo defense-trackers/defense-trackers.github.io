@@ -1,9 +1,21 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-07-22T19:58:14Z",
+ "fetched_at": "2026-07-23T08:48:04Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "felixross66/claude-ai-coding-kit-2026",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-07-23T08:26:08Z",
+    "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation in a 2026 plugin suite.",
+    "stars": "2",
+    "text": "felixross66/claude-ai-coding-kit-2026",
+    "title": "felixross66/claude-ai-coding-kit-2026",
+    "url": "https://github.com/felixross66/claude-ai-coding-kit-2026"
+   }
+  },
   {
    "key": "emfoursolutions/trakbridge",
    "source": "tak-cot",
@@ -17,22 +29,10 @@
    }
   },
   {
-   "key": "felixross66/claude-ai-coding-kit-2026",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-07-22T16:06:41Z",
-    "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation in a 2026 plugin suite.",
-    "stars": "2",
-    "text": "felixross66/claude-ai-coding-kit-2026",
-    "title": "felixross66/claude-ai-coding-kit-2026",
-    "url": "https://github.com/felixross66/claude-ai-coding-kit-2026"
-   }
-  },
-  {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-22T19:02:57Z",
+    "date": "2026-07-22T22:36:08Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "52",
     "text": "takwerx/infra-TAK",
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-07-22T19:40:16Z",
+    "date": "2026-07-23T01:22:32Z",
     "description": "full port of Reticulum and LXMF to Rust with added SDK",
     "stars": "23",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -734,9 +734,9 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-07-22T19:40:55Z",
+    "date": "2026-07-22T23:29:08Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
-    "stars": "22",
+    "stars": "23",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
     "title": "FreeTAKTeam/reticulum_mobile_emergency_management",
     "url": "https://github.com/FreeTAKTeam/reticulum_mobile_emergency_management"
@@ -790,17 +790,6 @@
    }
   },
   {
-   "key": "shigeki7299/ATAK_Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-07-19T18:01:52Z",
-    "stars": "0",
-    "text": "shigeki7299/ATAK_Plugin",
-    "title": "shigeki7299/ATAK_Plugin",
-    "url": "https://github.com/shigeki7299/ATAK_Plugin"
-   }
-  },
-  {
    "key": "TX-RX/TAK-XVoice",
    "source": "tak-github",
    "fields": {
@@ -816,7 +805,7 @@
    "key": "swim-fish/atak_tw_coord_plugin",
    "source": "tak-github",
    "fields": {
-    "date": "2026-07-18T12:07:03Z",
+    "date": "2026-07-22T23:52:42Z",
     "stars": "3",
     "text": "swim-fish/atak_tw_coord_plugin",
     "title": "swim-fish/atak_tw_coord_plugin",
@@ -913,7 +902,7 @@
    "fields": {
     "date": "2026-07-02T00:56:07Z",
     "description": "ATAK MeshCore plugin",
-    "stars": "25",
+    "stars": "26",
     "text": "atakmaps/TAK-MESHCORE",
     "title": "atakmaps/TAK-MESHCORE",
     "url": "https://github.com/atakmaps/TAK-MESHCORE"
@@ -1082,6 +1071,18 @@
     "text": "meshtastic/pluginmeshtastic",
     "title": "meshtastic/pluginmeshtastic",
     "url": "https://github.com/meshtastic/pluginmeshtastic"
+   }
+  },
+  {
+   "key": "mighkel/ATAK-Plugin-KestrelWx",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-05-04T13:41:15Z",
+    "description": "An ATAK plugin that connects to Kestrel weather devices via bluetooth.",
+    "stars": "1",
+    "text": "mighkel/ATAK-Plugin-KestrelWx",
+    "title": "mighkel/ATAK-Plugin-KestrelWx",
+    "url": "https://github.com/mighkel/ATAK-Plugin-KestrelWx"
    }
   },
   {

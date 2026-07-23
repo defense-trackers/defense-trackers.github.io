@@ -1,9 +1,19 @@
 {
  "source": "authorizations",
  "tracker": "authorizations",
- "fetched_at": "2026-07-22T19:56:26Z",
+ "fetched_at": "2026-07-23T08:46:25Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "FR2513256853",
+   "source": "authorizations-fedramp",
+   "fields": {
+    "date": "2026-07-22T20:00:00.000Z",
+    "status": "Now in PMO Review",
+    "text": "The Armory",
+    "title": "The Armory"
+   }
+  },
   {
    "key": "FR2600545894",
    "source": "authorizations-fedramp",
@@ -22,16 +32,6 @@
     "status": "Now in PMO Review",
     "text": "Digital Enterprise Suite FedRAMP Edition",
     "title": "Digital Enterprise Suite FedRAMP Edition"
-   }
-  },
-  {
-   "key": "FR2502224058",
-   "source": "authorizations-fedramp",
-   "fields": {
-    "date": "2026-07-21T20:00:00.000Z",
-    "status": "Now in PMO Review",
-    "text": "zLinkFM",
-    "title": "zLinkFM"
    }
   },
   {
@@ -927,19 +927,6 @@
     "text": "Archibus",
     "title": "Archibus",
     "url": "https://eptura.com/industries/government/archibus-for-government/"
-   }
-  },
-  {
-   "key": "FR2626164349",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "High",
-    "status": "FedRAMP Ready",
-    "text": "Ericsson - NetCloud Federal (NCF)",
-    "title": "Ericsson - NetCloud Federal (NCF)",
-    "url": "https://cradlepoint.com/about/trust/"
    }
   },
   {
