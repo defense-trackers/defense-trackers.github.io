@@ -1,7 +1,7 @@
 {
  "source": "deadlines",
  "tracker": "deadlines",
- "fetched_at": "2026-07-23T08:48:07Z",
+ "fetched_at": "2026-07-23T20:01:32Z",
  "schema_version": 1,
  "records": [
   {
@@ -343,6 +343,19 @@
    }
   },
   {
+   "key": "close-363302",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "National Energy Technology Laboratory",
+    "closes": "2026-09-22",
+    "date": "2026-09-22",
+    "from": "pipeline",
+    "text": "Advancing Oil and Natural Gas Production and Delivery",
+    "title": "Advancing Oil and Natural Gas Production and Delivery",
+    "url": "https://www.grants.gov/search-results-detail/363302"
+   }
+  },
+  {
    "key": "close-360651",
    "source": "deadlines-solicitations",
    "fields": {
@@ -678,6 +691,19 @@
     "text": "Other Transaction Authority (OTA) Consortium Request for Proposals (RFP) Seabed-Subsea, Littoral, Asymmetric-Autonomous, Mining and Mine Hunting, Expeditionary, Robotic (SLAM2ER) Consortium",
     "title": "Other Transaction Authority (OTA) Consortium Request for Proposals (RFP) Seabed-Subsea, Littoral, Asymmetric-Autonomous, Mining and Mine Hunting, Expeditionary, Robotic (SLAM2ER) Consortium",
     "url": "https://sam.gov/workspace/contract/opp/4232971a8f3448f79d3691dd3a264adb/view"
+   }
+  },
+  {
+   "key": "close-40ae192c5496403a8134d8a3d0e5227e",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE GLOBAL STRIKE COMMAND.FA4661  7 CONS CD",
+    "closes": "2026-08-02",
+    "date": "2026-08-02",
+    "from": "pipeline",
+    "text": "Quadrupedal Unmanned Ground Vehicle",
+    "title": "Quadrupedal Unmanned Ground Vehicle",
+    "url": "https://sam.gov/workspace/contract/opp/40ae192c5496403a8134d8a3d0e5227e/view"
    }
   },
   {

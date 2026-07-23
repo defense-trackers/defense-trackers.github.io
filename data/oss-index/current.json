@@ -1,7 +1,7 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-07-23T08:47:30Z",
+ "fetched_at": "2026-07-23T20:00:50Z",
  "schema_version": 1,
  "records": [
   {
@@ -116,7 +116,7 @@
    "key": "cisagov/cyhy-reports",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-07-20T19:20:19Z",
+    "date": "2026-07-23T18:59:05Z",
     "description": "Code to generate Cyber Hygiene (CyHy) reports",
     "stars": "11",
     "text": "cisagov/cyhy-reports",
@@ -238,7 +238,7 @@
    "fields": {
     "date": "2026-07-22T14:36:32Z",
     "description": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.",
-    "stars": "2457",
+    "stars": "2458",
     "text": "cisagov/Malcolm",
     "title": "cisagov/Malcolm",
     "url": "https://github.com/cisagov/Malcolm"
@@ -272,7 +272,7 @@
    "key": "cisagov/cset",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-07-22T21:26:58Z",
+    "date": "2026-07-23T19:35:22Z",
     "description": "Cybersecurity Evaluation Tool",
     "stars": "1864",
     "text": "cisagov/cset",
@@ -560,9 +560,9 @@
    "key": "idaholab/moose",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-07-23T01:59:34Z",
+    "date": "2026-07-23T11:53:31Z",
     "description": "Multiphysics Object Oriented Simulation Environment",
-    "stars": "2301",
+    "stars": "2302",
     "text": "idaholab/moose",
     "title": "idaholab/moose",
     "url": "https://github.com/idaholab/moose"
@@ -574,7 +574,7 @@
    "fields": {
     "date": "2026-07-15T21:57:56Z",
     "description": "RAVEN is a flexible and multi-purpose probabilistic risk analysis, validation and uncertainty quantification, parameter optimization, model reduction and data knowledge-discovering framework.",
-    "stars": "261",
+    "stars": "262",
     "text": "idaholab/raven",
     "title": "idaholab/raven",
     "url": "https://github.com/idaholab/raven"
@@ -763,7 +763,7 @@
    "key": "llnl/conduit",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-07-22T21:39:12Z",
+    "date": "2026-07-23T19:49:19Z",
     "description": "Simplified Data Exchange for HPC Simulations",
     "stars": "246",
     "text": "llnl/conduit",
@@ -775,7 +775,7 @@
    "key": "llnl/Caliper",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-07-10T22:08:16Z",
+    "date": "2026-07-23T13:57:06Z",
     "description": "Caliper is an instrumentation and performance profiling library",
     "stars": "416",
     "text": "llnl/Caliper",
@@ -811,7 +811,7 @@
    "key": "llnl/RAJA",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-07-22T19:26:36Z",
+    "date": "2026-07-23T16:17:10Z",
     "description": "RAJA Performance Portability Layer (C++)",
     "stars": "590",
     "text": "llnl/RAJA",
@@ -860,7 +860,7 @@
    "fields": {
     "date": "2026-06-08T14:09:39Z",
     "description": "Cyber Threat Intelligence Repository expressed in STIX 2.0",
-    "stars": "2105",
+    "stars": "2106",
     "text": "mitre/cti",
     "title": "mitre/cti",
     "url": "https://github.com/mitre/cti"
@@ -990,7 +990,7 @@
    "key": "nasa/trick",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-07-22T22:20:33Z",
+    "date": "2026-07-23T19:45:38Z",
     "description": "Trick Simulation Environment.  Trick provides a common set of simulation capabilities and utilities to build simulations automatically.",
     "stars": "155",
     "text": "nasa/trick",
@@ -1014,7 +1014,7 @@
    "key": "nasa/earthdata-search",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-07-22T23:02:23Z",
+    "date": "2026-07-23T14:16:22Z",
     "description": "Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.",
     "stars": "821",
     "text": "nasa/earthdata-search",
@@ -1040,7 +1040,7 @@
    "fields": {
     "date": "2026-07-21T12:01:28Z",
     "description": "Astronomy Picture of the Day API service",
-    "stars": "1065",
+    "stars": "1066",
     "text": "nasa/apod-api",
     "title": "nasa/apod-api",
     "url": "https://github.com/nasa/apod-api"
@@ -1062,7 +1062,7 @@
    "key": "nasa/Common-Metadata-Repository",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-07-22T19:06:48Z",
+    "date": "2026-07-23T14:10:34Z",
     "description": "The Common Metadata Repository (CMR) is a high-performance, high-quality, continuously evolving metadata system that catalogs Earth Science data and associated service metadata records. These metadata records are registered, modified, discovered, and accessed through programmatic interfaces leveraging standard protocols and APIs.",
     "stars": "392",
     "text": "nasa/Common-Metadata-Repository",
@@ -1181,7 +1181,7 @@
    "key": "nsacyber/HIRS",
    "source": "oss-nsacyber",
    "fields": {
-    "date": "2026-07-22T20:57:51Z",
+    "date": "2026-07-23T19:28:55Z",
     "description": "Trusted Computing based services supporting TPM provisioning and supply chain validation concepts. #nsacyber",
     "stars": "212",
     "text": "nsacyber/HIRS",
@@ -1336,7 +1336,7 @@
    "key": "ORNL/GridKit",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-07-23T05:17:44Z",
+    "date": "2026-07-23T19:44:08Z",
     "description": "Modeling framework for power systems simulations and analysis.",
     "stars": "23",
     "text": "ORNL/GridKit",
@@ -1410,7 +1410,7 @@
    "fields": {
     "date": "2026-06-17T21:51:48Z",
     "description": "An open source, Python-based software platform for energy storage simulation and analysis developed by Sandia National Laboratories.",
-    "stars": "156",
+    "stars": "157",
     "text": "sandialabs/snl-quest",
     "title": "sandialabs/snl-quest",
     "url": "https://github.com/sandialabs/snl-quest"
@@ -1458,7 +1458,7 @@
    "fields": {
     "date": "2026-06-18T17:37:04Z",
     "description": "FiPy is a Finite Volume PDE solver written in Python",
-    "stars": "636",
+    "stars": "637",
     "text": "usnistgov/fipy",
     "title": "usnistgov/fipy",
     "url": "https://github.com/usnistgov/fipy"
