@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-07-24T08:45:55Z",
+ "fetched_at": "2026-07-24T20:02:55Z",
  "schema_version": 1,
  "records": [
   {
@@ -352,19 +352,6 @@
    }
   },
   {
-   "key": "363065",
-   "source": "pipeline-grants",
-   "fields": {
-    "agency": "National Energy Technology Laboratory",
-    "closes": "09/08/2026",
-    "number": "DE-FOA-0003627",
-    "posted": "07/06/2026",
-    "text": "Improved Oil and Gas Recovery and Produced Water Management Technologies",
-    "title": "Improved Oil and Gas Recovery and Produced Water Management Technologies",
-    "url": "https://www.grants.gov/search-results-detail/363065"
-   }
-  },
-  {
    "key": "363279",
    "source": "pipeline-grants",
    "fields": {
@@ -388,6 +375,19 @@
     "text": "High-performance Optimized Recycled Nuclear Isotopes for Gen IV reactors (HORNIG)",
     "title": "High-performance Optimized Recycled Nuclear Isotopes for Gen IV reactors (HORNIG)",
     "url": "https://www.grants.gov/search-results-detail/362035"
+   }
+  },
+  {
+   "key": "363065",
+   "source": "pipeline-grants",
+   "fields": {
+    "agency": "National Energy Technology Laboratory",
+    "closes": "09/08/2026",
+    "number": "DE-FOA-0003627",
+    "posted": "07/06/2026",
+    "text": "Improved Oil and Gas Recovery and Produced Water Management Technologies",
+    "title": "Improved Oil and Gas Recovery and Produced Water Management Technologies",
+    "url": "https://www.grants.gov/search-results-detail/363065"
    }
   },
   {
@@ -754,6 +754,20 @@
    }
   },
   {
+   "key": "6dba2b56e6e941ec9a99639ef1b90bca",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION NORTH ATLANTIC.ENDIST BALTIMORE.W2SD ENDIST BALTIMORE",
+    "closes": "2026-07-30T11:00:00-05:00",
+    "number": "W912DR26R1AUM",
+    "posted": "2026-07-24",
+    "text": "Multidiscipline Indefinite Delivery Contracts for Topographic, Boundary, Hydrographic, Geospatial Database Development, and Unmanned Systems Surveying and Mapping for Projects under the Jurisdiction of the Baltimore District and North Atlantic Division",
+    "title": "Multidiscipline Indefinite Delivery Contracts for Topographic, Boundary, Hydrographic, Geospatial Database Development, and Unmanned Systems Surveying and Mapping for Projects under the Jurisdiction of the Baltimore District and North Atlantic Division",
+    "type": "Combined Synopsis/Solicitation",
+    "url": "https://sam.gov/workspace/contract/opp/6dba2b56e6e941ec9a99639ef1b90bca/view"
+   }
+  },
+  {
    "key": "ccb1df3f18604375b96e7a61d3065913",
    "source": "pipeline-sam-unmanned",
    "fields": {
@@ -838,20 +852,6 @@
     "title": "Fixed-Wing Vertical Take-Off and Landing (VTOL) small Unmanned Aircraft System (sUAS)",
     "type": "Sources Sought",
     "url": "https://sam.gov/workspace/contract/opp/2ea9d5b8f1dd415799d6761829ca5130/view"
-   }
-  },
-  {
-   "key": "9e31ddb3275745eebe526cf7bc062fb8",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION NORTH ATLANTIC.ENDIST BALTIMORE.W2SD ENDIST BALTIMORE",
-    "closes": "2026-07-30T11:00:00-05:00",
-    "number": "W912DR26R1AUM",
-    "posted": "2026-07-16",
-    "text": "Multidiscipline Indefinite Delivery Contracts for Topographic, Boundary, Hydrographic, Geospatial Database Development, and Unmanned Systems Surveying and Mapping for Projects under the Jurisdiction of the Baltimore District and North Atlantic Division",
-    "title": "Multidiscipline Indefinite Delivery Contracts for Topographic, Boundary, Hydrographic, Geospatial Database Development, and Unmanned Systems Surveying and Mapping for Projects under the Jurisdiction of the Baltimore District and North Atlantic Division",
-    "type": "Combined Synopsis/Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/9e31ddb3275745eebe526cf7bc062fb8/view"
    }
   },
   {
