@@ -1,19 +1,31 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-07-23T20:01:29Z",
+ "fetched_at": "2026-07-24T08:46:15Z",
  "schema_version": 1,
  "records": [
   {
    "key": "felixross66/claude-ai-coding-kit-2026",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-23T18:23:41Z",
+    "date": "2026-07-24T04:13:17Z",
     "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation in a 2026 plugin suite.",
     "stars": "2",
     "text": "felixross66/claude-ai-coding-kit-2026",
     "title": "felixross66/claude-ai-coding-kit-2026",
     "url": "https://github.com/felixross66/claude-ai-coding-kit-2026"
+   }
+  },
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-07-24T04:10:12Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "52",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -26,18 +38,6 @@
     "text": "emfoursolutions/trakbridge",
     "title": "emfoursolutions/trakbridge",
     "url": "https://github.com/emfoursolutions/trakbridge"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-07-22T22:36:08Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "52",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-07-23T15:12:19Z",
+    "date": "2026-07-23T20:06:17Z",
     "description": "full port of Reticulum and LXMF to Rust with added SDK",
     "stars": "23",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -754,6 +754,17 @@
    }
   },
   {
+   "key": "swim-fish/atak_tw_coord_plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-07-24T08:45:07Z",
+    "stars": "3",
+    "text": "swim-fish/atak_tw_coord_plugin",
+    "title": "swim-fish/atak_tw_coord_plugin",
+    "url": "https://github.com/swim-fish/atak_tw_coord_plugin"
+   }
+  },
+  {
    "key": "247-Group/ATAK-sensor-effector-plugin",
    "source": "tak-github",
    "fields": {
@@ -799,17 +810,6 @@
     "text": "TX-RX/TAK-XVoice",
     "title": "TX-RX/TAK-XVoice",
     "url": "https://github.com/TX-RX/TAK-XVoice"
-   }
-  },
-  {
-   "key": "swim-fish/atak_tw_coord_plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-07-23T12:47:46Z",
-    "stars": "3",
-    "text": "swim-fish/atak_tw_coord_plugin",
-    "title": "swim-fish/atak_tw_coord_plugin",
-    "url": "https://github.com/swim-fish/atak_tw_coord_plugin"
    }
   },
   {
@@ -1020,7 +1020,7 @@
    "fields": {
     "date": "2026-06-04T21:30:53Z",
     "description": "ATAK Plugin for sending CoT to IMeshService",
-    "stars": "505",
+    "stars": "507",
     "text": "meshtastic/ATAK-Plugin",
     "title": "meshtastic/ATAK-Plugin",
     "url": "https://github.com/meshtastic/ATAK-Plugin"

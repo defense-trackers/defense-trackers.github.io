@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-07-23T20:01:32Z",
+ "fetched_at": "2026-07-24T08:46:18Z",
  "schema_version": 1,
  "records": [
   {
@@ -93,7 +93,7 @@
    "source": "transition-prototype",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "172989411",
+    "amount": "173780130",
     "description": "OPERATIONAL, TECHNICAL, ENGINEERING, AND TRANSITION ANALYSIS FOR DEVELOPMENT AND DEPLOYMENT OF EMERGING CAPABILITIES AND PROTOTYPES FOR COUNTERING - UNMANNED SYSTEMS THREATS",
     "text": "AMENTUM SERVICES, INC.",
     "title": "AMENTUM SERVICES, INC.",
@@ -687,7 +687,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "24500661983",
+    "amount": "24546725067",
     "award_id": "N0001923C0003",
     "description": "THE PURPOSE OF THIS CONTRACT IS TO AWARD LONG LEAD FUNDING FOR F-35A, F-35B, AND F-35C AIRCRAFT FOR U.S. SERVICES, NON-DOD PARTNERS, AND FMS CUSTOMERS",
     "text": "LOCKHEED MARTIN CORPORATION",
@@ -1215,6 +1215,19 @@
    }
   },
   {
+   "key": "CONT_AWD_N0001917C0015_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "6.8755472033e+09",
+    "award_id": "N0001917C0015",
+    "description": "CMV-22 PRODUCTION LOT 22 LONG LEAD-TIME ITEMS",
+    "text": "BELL BOEING JOINT PROJECT OFFICE",
+    "title": "BELL BOEING JOINT PROJECT OFFICE",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_N0001917C0015_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_N0002408C2110_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -1225,19 +1238,6 @@
     "text": "HUNTINGTON INGALLS INC",
     "title": "HUNTINGTON INGALLS INC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_N0002408C2110_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_N0001917C0015_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "6.58644677537e+09",
-    "award_id": "N0001917C0015",
-    "description": "CMV-22 PRODUCTION LOT 22 LONG LEAD-TIME ITEMS",
-    "text": "BELL BOEING JOINT PROJECT OFFICE",
-    "title": "BELL BOEING JOINT PROJECT OFFICE",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_N0001917C0015_9700_-NONE-_-NONE-/"
    }
   },
   {

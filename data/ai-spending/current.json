@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-07-23T19:59:42Z",
+ "fetched_at": "2026-07-24T08:44:33Z",
  "schema_version": 1,
  "records": [
   {
@@ -497,6 +497,18 @@
    }
   },
   {
+   "key": "CONT_AWD_SP470125C0049_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "2.6568021e+06",
+    "description": "ENABLING MANUFACTURING, RE-MANUFACTURING, REPAIR AND EXPEDITIONARY MANUFACTURING THROUGH ARTIFICIAL INTELLIGENCE ASSISTED DIGITAL PROCESSES",
+    "text": "HARRISBURG UNIVERSITY OF SCIENCE \u0026 TECHNOLOGY",
+    "title": "HARRISBURG UNIVERSITY OF SCIENCE \u0026 TECHNOLOGY",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_SP470125C0049_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_FA865023F6535_9700_FA865020D6207_9700",
    "source": "ai-spending-contracts",
    "fields": {
@@ -506,18 +518,6 @@
     "text": "DCS CORPORATION",
     "title": "DCS CORPORATION",
     "url": "https://www.usaspending.gov/award/CONT_AWD_FA865023F6535_9700_FA865020D6207_9700/"
-   }
-  },
-  {
-   "key": "CONT_AWD_SP470125C0049_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "2600000",
-    "description": "ENABLING MANUFACTURING, RE-MANUFACTURING, REPAIR AND EXPEDITIONARY MANUFACTURING THROUGH ARTIFICIAL INTELLIGENCE ASSISTED DIGITAL PROCESSES",
-    "text": "HARRISBURG UNIVERSITY OF SCIENCE \u0026 TECHNOLOGY",
-    "title": "HARRISBURG UNIVERSITY OF SCIENCE \u0026 TECHNOLOGY",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_SP470125C0049_9700_-NONE-_-NONE-/"
    }
   },
   {

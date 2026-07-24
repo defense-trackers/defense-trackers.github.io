@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-07-23T20:01:09Z",
+ "fetched_at": "2026-07-24T08:45:55Z",
  "schema_version": 1,
  "records": [
   {
@@ -754,6 +754,20 @@
    }
   },
   {
+   "key": "ccb1df3f18604375b96e7a61d3065913",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.COMMANDING OFFICER",
+    "closes": "2026-08-06T12:00:00-04:00",
+    "number": "AS-26-06-001",
+    "posted": "2026-07-23",
+    "text": "Improved Maintenance, Sustainment, and Training for Unmanned Surface Vessels (USVs)",
+    "title": "Improved Maintenance, Sustainment, and Training for Unmanned Surface Vessels (USVs)",
+    "type": "Special Notice",
+    "url": "https://sam.gov/workspace/contract/opp/ccb1df3f18604375b96e7a61d3065913/view"
+   }
+  },
+  {
    "key": "40ae192c5496403a8134d8a3d0e5227e",
    "source": "pipeline-sam-unmanned",
    "fields": {
@@ -866,34 +880,6 @@
     "title": "Man-portable, Handheld, Counter-Unmanned System (MPHC)",
     "type": "Sources Sought",
     "url": "https://sam.gov/workspace/contract/opp/5f9e735fd3474c49a987a0380ddaba1c/view"
-   }
-  },
-  {
-   "key": "c7fe7474d3444bd2aee8b175ce1cf478",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.USMC.MARCOR SYSCOM.COMMANDER",
-    "closes": "2026-07-23T15:00:00-05:00",
-    "number": "M67854-26-R-0131",
-    "posted": "2026-07-15",
-    "text": "Request for White Papers - Organic Counter Small Unmanned Aircraft System (O-CsUAS) Dismounted Sensors",
-    "title": "Request for White Papers - Organic Counter Small Unmanned Aircraft System (O-CsUAS) Dismounted Sensors",
-    "type": "Sources Sought",
-    "url": "https://sam.gov/workspace/contract/opp/c7fe7474d3444bd2aee8b175ce1cf478/view"
-   }
-  },
-  {
-   "key": "26c84f6037cf4d2297d4d34207a8b208",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.USMC.MARCOR SYSCOM.COMMANDER",
-    "closes": "2026-07-23T15:00:00-05:00",
-    "number": "M67854-26-R-0129",
-    "posted": "2026-07-15",
-    "text": "Request for White Papers - Organic Counter Small Unmanned Aircraft System Dismounted Effectors",
-    "title": "Request for White Papers - Organic Counter Small Unmanned Aircraft System Dismounted Effectors",
-    "type": "Sources Sought",
-    "url": "https://sam.gov/workspace/contract/opp/26c84f6037cf4d2297d4d34207a8b208/view"
    }
   },
   {
