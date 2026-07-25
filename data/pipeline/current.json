@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-07-24T20:02:55Z",
+ "fetched_at": "2026-07-25T08:27:19Z",
  "schema_version": 1,
  "records": [
   {
@@ -94,19 +94,6 @@
    }
   },
   {
-   "key": "362824",
-   "source": "pipeline-comms",
-   "fields": {
-    "agency": "Department of Homeland Security - FEMA",
-    "closes": "07/24/2026",
-    "number": "DHS-26-GPD-056-00-99",
-    "posted": "06/24/2026",
-    "text": "Fiscal Year 2026 Port Security Grant Program",
-    "title": "Fiscal Year 2026 Port Security Grant Program",
-    "url": "https://www.grants.gov/search-results-detail/362824"
-   }
-  },
-  {
    "key": "326841",
    "source": "pipeline-comms",
    "fields": {
@@ -154,71 +141,6 @@
     "text": "Fiscal Year 2026 Next Generation Warning System Grant Program",
     "title": "Fiscal Year 2026 Next Generation Warning System Grant Program",
     "url": "https://www.grants.gov/search-results-detail/363192"
-   }
-  },
-  {
-   "key": "362923",
-   "source": "pipeline-cyber",
-   "fields": {
-    "agency": "Department of Homeland Security - FEMA",
-    "closes": "07/24/2026",
-    "number": "DHS-26-GPD-057-00-97",
-    "posted": "06/24/2026",
-    "text": "Fiscal Year 2026 Intercity Bus Security Grant Program",
-    "title": "Fiscal Year 2026 Intercity Bus Security Grant Program",
-    "url": "https://www.grants.gov/search-results-detail/362923"
-   }
-  },
-  {
-   "key": "362926",
-   "source": "pipeline-cyber",
-   "fields": {
-    "agency": "Department of Homeland Security - FEMA",
-    "closes": "07/24/2026",
-    "number": "DHS-26-GPD-075-00-99",
-    "posted": "06/24/2026",
-    "text": "Fiscal Year 2026 Transit Security Grant Program (TSGP)",
-    "title": "Fiscal Year 2026 Transit Security Grant Program (TSGP)",
-    "url": "https://www.grants.gov/search-results-detail/362926"
-   }
-  },
-  {
-   "key": "362931",
-   "source": "pipeline-cyber",
-   "fields": {
-    "agency": "Department of Homeland Security - FEMA",
-    "closes": "07/24/2026",
-    "number": "DHS-26-GPD-157-00-98",
-    "posted": "06/24/2026",
-    "text": "Fiscal Year 2026 Intercity Passenger Rail Program",
-    "title": "Fiscal Year 2026 Intercity Passenger Rail Program",
-    "url": "https://www.grants.gov/search-results-detail/362931"
-   }
-  },
-  {
-   "key": "362927",
-   "source": "pipeline-cyber",
-   "fields": {
-    "agency": "Department of Homeland Security - FEMA",
-    "closes": "07/24/2026",
-    "number": "DHS-26-GPD-150-00-99",
-    "posted": "06/24/2026",
-    "text": "Fiscal Year 2026 Tribal Homeland Security Grant Program",
-    "title": "Fiscal Year 2026 Tribal Homeland Security Grant Program",
-    "url": "https://www.grants.gov/search-results-detail/362927"
-   }
-  },
-  {
-   "key": "362932",
-   "source": "pipeline-cyber",
-   "fields": {
-    "agency": "Department of Homeland Security - FEMA",
-    "closes": "07/24/2026",
-    "number": "DHS-26-GPD-067-00-98",
-    "posted": "06/24/2026",
-    "text": "Fiscal Year 2026 Homeland Security Grant Program (HSGP)",
-    "title": "Fiscal Year 2026 Homeland Security Grant Program (HSGP)",
-    "url": "https://www.grants.gov/search-results-detail/362932"
    }
   },
   {
@@ -558,6 +480,97 @@
    }
   },
   {
+   "key": "362252",
+   "source": "pipeline-grants",
+   "fields": {
+    "agency": "Defense Health Agency Contracting Activity - DHACA",
+    "closes": "10/21/2026",
+    "number": "HT942526MBRPTTDA",
+    "posted": "05/21/2026",
+    "text": "DoW Military Burn, Technology/Therapeutic Development Award",
+    "title": "DoW Military Burn, Technology/Therapeutic Development Award",
+    "url": "https://www.grants.gov/search-results-detail/362252"
+   }
+  },
+  {
+   "key": "362248",
+   "source": "pipeline-grants",
+   "fields": {
+    "agency": "Defense Health Agency Contracting Activity - DHACA",
+    "closes": "10/21/2026",
+    "number": "HT942526MBRPPCRA",
+    "posted": "05/21/2026",
+    "text": "DoW Military Burn, Patient-Centered Research Award",
+    "title": "DoW Military Burn, Patient-Centered Research Award",
+    "url": "https://www.grants.gov/search-results-detail/362248"
+   }
+  },
+  {
+   "key": "362330",
+   "source": "pipeline-grants",
+   "fields": {
+    "agency": "Defense Health Agency Contracting Activity - DHACA",
+    "closes": "07/30/2026",
+    "number": "HT942526PRMRPRAA",
+    "posted": "05/08/2026",
+    "text": "DoW Peer Reviewed Medical, Research Advancement Award",
+    "title": "DoW Peer Reviewed Medical, Research Advancement Award",
+    "url": "https://www.grants.gov/search-results-detail/362330"
+   }
+  },
+  {
+   "key": "362322",
+   "source": "pipeline-grants",
+   "fields": {
+    "agency": "Defense Health Agency Contracting Activity - DHACA",
+    "closes": "07/30/2026",
+    "number": "HT942526PRMRPDA",
+    "posted": "05/08/2026",
+    "text": "DoW Peer Reviewed Medical, Discovery Award",
+    "title": "DoW Peer Reviewed Medical, Discovery Award",
+    "url": "https://www.grants.gov/search-results-detail/362322"
+   }
+  },
+  {
+   "key": "362337",
+   "source": "pipeline-grants",
+   "fields": {
+    "agency": "Defense Health Agency Contracting Activity - DHACA",
+    "closes": "08/06/2026",
+    "number": "HT942526PRMRPTTDA",
+    "posted": "05/08/2026",
+    "text": "DoW Peer Reviewed Medical, Technology/Therapeutic Development Award",
+    "title": "DoW Peer Reviewed Medical, Technology/Therapeutic Development Award",
+    "url": "https://www.grants.gov/search-results-detail/362337"
+   }
+  },
+  {
+   "key": "362326",
+   "source": "pipeline-grants",
+   "fields": {
+    "agency": "Defense Health Agency Contracting Activity - DHACA",
+    "closes": "08/06/2026",
+    "number": "HT942526PRMRPIPA",
+    "posted": "05/08/2026",
+    "text": "DoW Peer Reviewed Medical, Impact Award",
+    "title": "DoW Peer Reviewed Medical, Impact Award",
+    "url": "https://www.grants.gov/search-results-detail/362326"
+   }
+  },
+  {
+   "key": "362327",
+   "source": "pipeline-grants",
+   "fields": {
+    "agency": "Defense Health Agency Contracting Activity - DHACA",
+    "closes": "08/06/2026",
+    "number": "HT942526PRMRPLAHRA",
+    "posted": "05/08/2026",
+    "text": "DoW Peer Reviewed Medical, Lifestyle and Applied Health Research Award",
+    "title": "DoW Peer Reviewed Medical, Lifestyle and Applied Health Research Award",
+    "url": "https://www.grants.gov/search-results-detail/362327"
+   }
+  },
+  {
    "key": "363018",
    "source": "pipeline-logistics",
    "fields": {
@@ -823,20 +836,6 @@
     "title": "Request for Information (RFI): Special Mission Vessel (SMV) – Helicopter, Unmanned Aerial System (UAS), Unmanned Surface Vehicle (USV) \u0026 Small Craft Support Vessel",
     "type": "Sources Sought",
     "url": "https://sam.gov/workspace/contract/opp/57889edc24cd40089188290808afd5e6/view"
-   }
-  },
-  {
-   "key": "3f6f5d1fdf2c47189145c74846cbfcf0",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE SPECIAL OPERATIONS COMMAND.FA4855  27 SOCONS LGC",
-    "closes": "2026-07-24T16:30:00-06:00",
-    "number": "F1L3SF6125A001",
-    "posted": "2026-07-20",
-    "text": "Titan 4 Counter Unmanned Aerial System",
-    "title": "Titan 4 Counter Unmanned Aerial System",
-    "type": "Sources Sought",
-    "url": "https://sam.gov/workspace/contract/opp/3f6f5d1fdf2c47189145c74846cbfcf0/view"
    }
   },
   {

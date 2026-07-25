@@ -1,9 +1,19 @@
 {
  "source": "authorizations",
  "tracker": "authorizations",
- "fetched_at": "2026-07-24T20:01:37Z",
+ "fetched_at": "2026-07-25T08:25:58Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "FR2628345439",
+   "source": "authorizations-fedramp",
+   "fields": {
+    "date": "2026-07-23T20:00:00.000Z",
+    "status": "Now FedRAMP Ready",
+    "text": "Stell Requirements Management System",
+    "title": "Stell Requirements Management System"
+   }
+  },
   {
    "key": "FR2513256853",
    "source": "authorizations-fedramp",
@@ -22,16 +32,6 @@
     "status": "Now in PMO Review",
     "text": "Butterfly Network Ultrasound",
     "title": "Butterfly Network Ultrasound"
-   }
-  },
-  {
-   "key": "FR2502834044",
-   "source": "authorizations-fedramp",
-   "fields": {
-    "date": "2026-07-21T20:00:00.000Z",
-    "status": "Now in PMO Review",
-    "text": "Digital Enterprise Suite FedRAMP Edition",
-    "title": "Digital Enterprise Suite FedRAMP Edition"
    }
   },
   {
@@ -860,6 +860,20 @@
    }
   },
   {
+   "key": "FR2508262726",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "Agency In Process",
+    "text": "Dexcom Clarity for Government",
+    "title": "Dexcom Clarity for Government",
+    "url": "https://clarity.dexcom.us/professional/"
+   }
+  },
+  {
    "key": "FR2424945160",
    "source": "authorizations-fedramp-ai",
    "fields": {
@@ -1490,17 +1504,17 @@
    }
   },
   {
-   "key": "FR2620841940",
+   "key": "FR2430847803",
    "source": "authorizations-fedramp-ai",
    "fields": {
     "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "High",
+    "date": "2025-09-10T20:00:00.000Z",
+    "impact": "Moderate",
     "model": "SaaS",
-    "status": "FedRAMP Ready",
-    "text": "NinjaOne for Government – FedRAMP High",
-    "title": "NinjaOne for Government – FedRAMP High",
-    "url": "https://www.ninjaone.com/government/federal/ "
+    "status": "FedRAMP Authorized",
+    "text": "NinjaOne for Government",
+    "title": "NinjaOne for Government",
+    "url": "https://www.ninjaone.com/government/federal/"
    }
   },
   {
@@ -1574,6 +1588,20 @@
    }
   },
   {
+   "key": "FR2001619708",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2024-03-14T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Idira Endpoint Privilege Manager for Government",
+    "title": "Idira Endpoint Privilege Manager for Government",
+    "url": "https://www.cyberark.com/products/endpoint-privilege-manager/"
+   }
+  },
+  {
    "key": "FR2317253567",
    "source": "authorizations-fedramp-ai",
    "fields": {
@@ -1599,20 +1627,6 @@
     "text": "Idira Identity Security Government Services Platform",
     "title": "Idira Identity Security Government Services Platform",
     "url": "https://www.cyberark.com/products/access-management/"
-   }
-  },
-  {
-   "key": "FR2001619708",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2024-03-14T20:00:00.000Z",
-    "impact": "High",
-    "model": "SaaS",
-    "status": "FedRAMP Authorized",
-    "text": "Idira Endpoint Privilege Manager for Government",
-    "title": "Idira Endpoint Privilege Manager for Government",
-    "url": "https://www.cyberark.com/products/endpoint-privilege-manager/"
    }
   },
   {
@@ -2021,14 +2035,14 @@
    }
   },
   {
-   "key": "FR2531434700XL",
+   "key": "FR2531434700",
    "source": "authorizations-fedramp-ai",
    "fields": {
     "assessor": "Schellman Compliance, LLC",
-    "date": "2025-09-17T20:00:00.000Z",
-    "impact": "20x Low",
+    "date": "Not Active",
+    "impact": "Moderate",
     "model": "SaaS",
-    "status": "FedRAMP Authorized",
+    "status": "Agency In Process",
     "text": "Palette VerteX",
     "title": "Palette VerteX",
     "url": "https://www.spectrocloud.com/"
@@ -2060,6 +2074,19 @@
     "text": "Federal ZenGRC",
     "title": "Federal ZenGRC",
     "url": "https://www.federalzengrc.com"
+   }
+  },
+  {
+   "key": "FR2628345439",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "ControlCase",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "status": "FedRAMP Ready",
+    "text": "Stell Requirements Management System",
+    "title": "Stell Requirements Management System",
+    "url": "https://stell-engineering.com/"
    }
   },
   {
@@ -2119,20 +2146,6 @@
    }
   },
   {
-   "key": "FR2502148523",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "model": "SaaS",
-    "status": "Agency In Process",
-    "text": "Thomson Reuters Legal Research (TR LR)",
-    "title": "Thomson Reuters Legal Research (TR LR)",
-    "url": "https://legal.thomsonreuters.com/en/westlaw"
-   }
-  },
-  {
    "key": "FR2333543855",
    "source": "authorizations-fedramp-ai",
    "fields": {
@@ -2147,6 +2160,20 @@
    }
   },
   {
+   "key": "FR2502148523",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "Agency In Process",
+    "text": "Thomson Reuters Legal Research (TR LR)",
+    "title": "Thomson Reuters Legal Research (TR LR)",
+    "url": "https://legal.thomsonreuters.com/en/westlaw"
+   }
+  },
+  {
    "key": "FR2334748657",
    "source": "authorizations-fedramp-ai",
    "fields": {
@@ -2158,20 +2185,6 @@
     "text": "ThreatConnect For Government",
     "title": "ThreatConnect For Government",
     "url": "https://threatconnect.com"
-   }
-  },
-  {
-   "key": "FR2524434194",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "model": "SaaS",
-    "status": "FedRAMP Ready",
-    "text": "ThreatLocker Zero Trust Platform for Government",
-    "title": "ThreatLocker Zero Trust Platform for Government",
-    "url": "www.threatlocker.com"
    }
   },
   {
@@ -2217,20 +2230,6 @@
    }
   },
   {
-   "key": "FR2226231529",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Fortreum, LLC",
-    "date": "2024-11-22T20:00:00.000Z",
-    "impact": "Moderate",
-    "model": "SaaS",
-    "status": "FedRAMP Authorized",
-    "text": "Trend Vision One for Government",
-    "title": "Trend Vision One for Government",
-    "url": "https://www.trendmicro.com/en_us/business/capabilities/solutions-for/federal-government/security-operations.html"
-   }
-  },
-  {
    "key": "FR2226228379",
    "source": "authorizations-fedramp-ai",
    "fields": {
@@ -2242,6 +2241,20 @@
     "text": "Trend Cloud One for Government",
     "title": "Trend Cloud One for Government",
     "url": "https://www.trendmicro.com/en_us/business/capabilities/solutions-for/federal-government/cloud-security.html"
+   }
+  },
+  {
+   "key": "FR2226231529",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Fortreum, LLC",
+    "date": "2024-11-22T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Trend Vision One for Government",
+    "title": "Trend Vision One for Government",
+    "url": "https://www.trendmicro.com/en_us/business/capabilities/solutions-for/federal-government/security-operations.html"
    }
   },
   {
@@ -2342,16 +2355,16 @@
    }
   },
   {
-   "key": "FR2421252636",
+   "key": "FR2421252644",
    "source": "authorizations-fedramp-ai",
    "fields": {
     "assessor": "Schellman Compliance, LLC",
-    "date": "2025-05-14T20:00:00.000Z",
+    "date": "2025-06-16T20:00:00.000Z",
     "impact": "Moderate",
     "model": "SaaS",
     "status": "FedRAMP Authorized",
-    "text": "Varonis Data Security Platform",
-    "title": "Varonis Data Security Platform",
+    "text": "Varonis DatAdvantage Cloud",
+    "title": "Varonis DatAdvantage Cloud",
     "url": "https://www.varonis.com"
    }
   },
