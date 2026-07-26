@@ -1,9 +1,33 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-07-25T19:56:22Z",
+ "fetched_at": "2026-07-26T08:42:21Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "9M2PJU/9M2PJU-Open-TAK-Server-Docker",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-07-26T07:09:10Z",
+    "description": "Production-ready Docker deployment of OpenTAKServer (OTS) — an open-source TAK (Team Awareness Kit) server compatible with ATAK, WinTAK, and iTAK clients.",
+    "stars": "1",
+    "text": "9M2PJU/9M2PJU-Open-TAK-Server-Docker",
+    "title": "9M2PJU/9M2PJU-Open-TAK-Server-Docker",
+    "url": "https://github.com/9M2PJU/9M2PJU-Open-TAK-Server-Docker"
+   }
+  },
+  {
+   "key": "felixross66/claude-ai-coding-kit-2026",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-07-26T06:36:25Z",
+    "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation in a 2026 plugin suite.",
+    "stars": "2",
+    "text": "felixross66/claude-ai-coding-kit-2026",
+    "title": "felixross66/claude-ai-coding-kit-2026",
+    "url": "https://github.com/felixross66/claude-ai-coding-kit-2026"
+   }
+  },
   {
    "key": "snstac/pytak",
    "source": "tak-cot",
@@ -14,18 +38,6 @@
     "text": "snstac/pytak",
     "title": "snstac/pytak",
     "url": "https://github.com/snstac/pytak"
-   }
-  },
-  {
-   "key": "felixross66/claude-ai-coding-kit-2026",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-07-25T16:37:38Z",
-    "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation in a 2026 plugin suite.",
-    "stars": "2",
-    "text": "felixross66/claude-ai-coding-kit-2026",
-    "title": "felixross66/claude-ai-coding-kit-2026",
-    "url": "https://github.com/felixross66/claude-ai-coding-kit-2026"
    }
   },
   {
@@ -56,7 +68,7 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-25T18:59:44Z",
+    "date": "2026-07-26T04:52:11Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "52",
     "text": "takwerx/infra-TAK",
@@ -86,18 +98,6 @@
     "text": "copyleftdev/tak-rs",
     "title": "copyleftdev/tak-rs",
     "url": "https://github.com/copyleftdev/tak-rs"
-   }
-  },
-  {
-   "key": "9M2PJU/9M2PJU-Open-TAK-Server-Docker",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-07-11T17:31:21Z",
-    "description": "Production-ready Docker deployment of OpenTAKServer (OTS) — an open-source TAK (Team Awareness Kit) server compatible with ATAK, WinTAK, and iTAK clients.",
-    "stars": "1",
-    "text": "9M2PJU/9M2PJU-Open-TAK-Server-Docker",
-    "title": "9M2PJU/9M2PJU-Open-TAK-Server-Docker",
-    "url": "https://github.com/9M2PJU/9M2PJU-Open-TAK-Server-Docker"
    }
   },
   {
