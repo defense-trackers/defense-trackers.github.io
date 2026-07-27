@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-07-27T10:13:06Z",
+ "fetched_at": "2026-07-27T20:10:40Z",
  "schema_version": 1,
  "records": [
   {
    "key": "felixross66/claude-ai-coding-kit-2026",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-27T09:15:28Z",
+    "date": "2026-07-27T19:03:31Z",
     "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation in a 2026 plugin suite.",
     "stars": "2",
     "text": "felixross66/claude-ai-coding-kit-2026",
@@ -17,10 +17,22 @@
    }
   },
   {
+   "key": "snstac/dronecot",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-07-27T17:06:37Z",
+    "description": "DroneCOT is software for monitoring and analyzing Direct Remote Identification (DRI), Remote ID (RID) or Open Drone ID (ODID) broadcasts from Uncrewed Aircraft (UA) via the Team Awareness Kit (TAK) ecosystem of products.",
+    "stars": "34",
+    "text": "snstac/dronecot",
+    "title": "snstac/dronecot",
+    "url": "https://github.com/snstac/dronecot"
+   }
+  },
+  {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-26T22:47:34Z",
+    "date": "2026-07-27T18:47:26Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "52",
     "text": "takwerx/infra-TAK",
@@ -62,18 +74,6 @@
     "text": "joshuafuller/SRTM2TAK",
     "title": "joshuafuller/SRTM2TAK",
     "url": "https://github.com/joshuafuller/SRTM2TAK"
-   }
-  },
-  {
-   "key": "snstac/dronecot",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-07-25T06:00:06Z",
-    "description": "DroneCOT is software for monitoring and analyzing Direct Remote Identification (DRI), Remote ID (RID) or Open Drone ID (ODID) broadcasts from Uncrewed Aircraft (UA) via the Team Awareness Kit (TAK) ecosystem of products.",
-    "stars": "34",
-    "text": "snstac/dronecot",
-    "title": "snstac/dronecot",
-    "url": "https://github.com/snstac/dronecot"
    }
   },
   {
@@ -616,7 +616,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-07-24T12:48:24Z",
+    "date": "2026-07-27T20:05:37Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "92",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-07-26T21:02:03Z",
+    "date": "2026-07-27T20:07:41Z",
     "description": "full port of Reticulum and LXMF to Rust with added SDK",
     "stars": "25",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -734,7 +734,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-07-27T10:07:00Z",
+    "date": "2026-07-27T12:19:58Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "23",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -839,7 +839,7 @@
    "key": "libre-7/atak-callout",
    "source": "tak-github",
    "fields": {
-    "date": "2026-07-17T20:01:00Z",
+    "date": "2026-07-27T18:00:32Z",
     "description": "Callout — paging/alerting system for ATAK. Plugin + standalone app with multi-transport sync (TAK server, UDP mesh, offline).",
     "stars": "0",
     "text": "libre-7/atak-callout",
