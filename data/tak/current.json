@@ -1,19 +1,31 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-07-27T20:10:40Z",
+ "fetched_at": "2026-07-28T09:08:57Z",
  "schema_version": 1,
  "records": [
   {
    "key": "felixross66/claude-ai-coding-kit-2026",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-27T19:03:31Z",
+    "date": "2026-07-28T08:19:11Z",
     "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation in a 2026 plugin suite.",
     "stars": "2",
     "text": "felixross66/claude-ai-coding-kit-2026",
     "title": "felixross66/claude-ai-coding-kit-2026",
     "url": "https://github.com/felixross66/claude-ai-coding-kit-2026"
+   }
+  },
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-07-28T04:42:24Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "52",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -26,18 +38,6 @@
     "text": "snstac/dronecot",
     "title": "snstac/dronecot",
     "url": "https://github.com/snstac/dronecot"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-07-27T18:47:26Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "52",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -406,7 +406,7 @@
    "fields": {
     "date": "2022-08-06T13:17:21Z",
     "description": "a list of hardware and software to be used in conjunction with ATAK platform",
-    "stars": "294",
+    "stars": "295",
     "text": "FreeTAKTeam/openTAKpickList",
     "title": "FreeTAKTeam/openTAKpickList",
     "url": "https://github.com/FreeTAKTeam/openTAKpickList"
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-07-27T20:07:41Z",
+    "date": "2026-07-27T21:28:01Z",
     "description": "full port of Reticulum and LXMF to Rust with added SDK",
     "stars": "25",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -836,10 +836,21 @@
    }
   },
   {
+   "key": "jpat-12/ATAK-Plugin-QuickCapture",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-07-17T17:41:29Z",
+    "stars": "5",
+    "text": "jpat-12/ATAK-Plugin-QuickCapture",
+    "title": "jpat-12/ATAK-Plugin-QuickCapture",
+    "url": "https://github.com/jpat-12/ATAK-Plugin-QuickCapture"
+   }
+  },
+  {
    "key": "libre-7/atak-callout",
    "source": "tak-github",
    "fields": {
-    "date": "2026-07-27T18:00:32Z",
+    "date": "2026-07-28T04:01:23Z",
     "description": "Callout — paging/alerting system for ATAK. Plugin + standalone app with multi-transport sync (TAK server, UDP mesh, offline).",
     "stars": "0",
     "text": "libre-7/atak-callout",
@@ -953,17 +964,6 @@
     "text": "newtypeind/atak-mcp",
     "title": "newtypeind/atak-mcp",
     "url": "https://github.com/newtypeind/atak-mcp"
-   }
-  },
-  {
-   "key": "jpat-12/ATAK-Plugin-QuickCapture",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-07-17T17:41:29Z",
-    "stars": "4",
-    "text": "jpat-12/ATAK-Plugin-QuickCapture",
-    "title": "jpat-12/ATAK-Plugin-QuickCapture",
-    "url": "https://github.com/jpat-12/ATAK-Plugin-QuickCapture"
    }
   },
   {
