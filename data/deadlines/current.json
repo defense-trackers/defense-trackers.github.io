@@ -1,7 +1,7 @@
 {
  "source": "deadlines",
  "tracker": "deadlines",
- "fetched_at": "2026-07-29T09:13:19Z",
+ "fetched_at": "2026-07-29T20:01:11Z",
  "schema_version": 1,
  "records": [
   {
@@ -369,6 +369,19 @@
    }
   },
   {
+   "key": "close-363374",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "Air Force Office of Scientific Research",
+    "closes": "2026-11-06",
+    "date": "2026-11-06",
+    "from": "pipeline",
+    "text": "Fiscal Year 2027 Defense University Research Instrumentation Program (DURIP)",
+    "title": "Fiscal Year 2027 Defense University Research Instrumentation Program (DURIP)",
+    "url": "https://www.grants.gov/search-results-detail/363374"
+   }
+  },
+  {
    "key": "close-362517",
    "source": "deadlines-solicitations",
    "fields": {
@@ -392,6 +405,19 @@
     "text": "DoW Epilepsy Leveraging Research Award",
     "title": "DoW Epilepsy Leveraging Research Award",
     "url": "https://www.grants.gov/search-results-detail/362519"
+   }
+  },
+  {
+   "key": "close-363379",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "Dept of the Army -- Materiel Command",
+    "closes": "2026-11-06",
+    "date": "2026-11-06",
+    "from": "pipeline",
+    "text": "Fiscal Year (FY) 2027 Department of War (DoW) Defense University Research Instrumentation Program (DURIP)",
+    "title": "Fiscal Year (FY) 2027 Department of War (DoW) Defense University Research Instrumentation Program (DURIP)",
+    "url": "https://www.grants.gov/search-results-detail/363379"
    }
   },
   {
@@ -447,19 +473,6 @@
    }
   },
   {
-   "key": "close-359236",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "Dept of the Army -- Materiel Command",
-    "closes": "2030-06-02",
-    "date": "2030-06-02",
-    "from": "pipeline",
-    "text": "Staff Research Program",
-    "title": "Staff Research Program",
-    "url": "https://www.grants.gov/search-results-detail/359236"
-   }
-  },
-  {
    "key": "close-349586",
    "source": "deadlines-solicitations",
    "fields": {
@@ -470,6 +483,19 @@
     "text": "BROAD AGENCY ANNOUNCEMENT (BAA) for Extramural Biomedical and Human Performance Research and Development Department of Defense",
     "title": "BROAD AGENCY ANNOUNCEMENT (BAA) for Extramural Biomedical and Human Performance Research and Development Department of Defense",
     "url": "https://www.grants.gov/search-results-detail/349586"
+   }
+  },
+  {
+   "key": "close-359236",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "Dept of the Army -- Materiel Command",
+    "closes": "2030-06-02",
+    "date": "2030-06-02",
+    "from": "pipeline",
+    "text": "Staff Research Program",
+    "title": "Staff Research Program",
+    "url": "https://www.grants.gov/search-results-detail/359236"
    }
   },
   {
@@ -496,71 +522,6 @@
     "text": "DoW Military Burn, Technology/Therapeutic Development Award",
     "title": "DoW Military Burn, Technology/Therapeutic Development Award",
     "url": "https://www.grants.gov/search-results-detail/362252"
-   }
-  },
-  {
-   "key": "close-362248",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "Defense Health Agency Contracting Activity - DHACA",
-    "closes": "2026-10-21",
-    "date": "2026-10-21",
-    "from": "pipeline",
-    "text": "DoW Military Burn, Patient-Centered Research Award",
-    "title": "DoW Military Burn, Patient-Centered Research Award",
-    "url": "https://www.grants.gov/search-results-detail/362248"
-   }
-  },
-  {
-   "key": "close-362330",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "Defense Health Agency Contracting Activity - DHACA",
-    "closes": "2026-07-30",
-    "date": "2026-07-30",
-    "from": "pipeline",
-    "text": "DoW Peer Reviewed Medical, Research Advancement Award",
-    "title": "DoW Peer Reviewed Medical, Research Advancement Award",
-    "url": "https://www.grants.gov/search-results-detail/362330"
-   }
-  },
-  {
-   "key": "close-362322",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "Defense Health Agency Contracting Activity - DHACA",
-    "closes": "2026-07-30",
-    "date": "2026-07-30",
-    "from": "pipeline",
-    "text": "DoW Peer Reviewed Medical, Discovery Award",
-    "title": "DoW Peer Reviewed Medical, Discovery Award",
-    "url": "https://www.grants.gov/search-results-detail/362322"
-   }
-  },
-  {
-   "key": "close-362337",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "Defense Health Agency Contracting Activity - DHACA",
-    "closes": "2026-08-06",
-    "date": "2026-08-06",
-    "from": "pipeline",
-    "text": "DoW Peer Reviewed Medical, Technology/Therapeutic Development Award",
-    "title": "DoW Peer Reviewed Medical, Technology/Therapeutic Development Award",
-    "url": "https://www.grants.gov/search-results-detail/362337"
-   }
-  },
-  {
-   "key": "close-362326",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "Defense Health Agency Contracting Activity - DHACA",
-    "closes": "2026-08-06",
-    "date": "2026-08-06",
-    "from": "pipeline",
-    "text": "DoW Peer Reviewed Medical, Impact Award",
-    "title": "DoW Peer Reviewed Medical, Impact Award",
-    "url": "https://www.grants.gov/search-results-detail/362326"
    }
   },
   {
@@ -707,6 +668,32 @@
    }
   },
   {
+   "key": "close-6552b25bf0e648f39b44228275998eef",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA HQ.NAVSEA HQ",
+    "closes": "2026-08-19",
+    "date": "2026-08-19",
+    "from": "pipeline",
+    "text": "Request for Information (RFI): Special Mission Vessel (SMV) – Helicopter, Unmanned Aerial System (UAS), Unmanned Surface Vehicle (USV) \u0026 Small Craft Support Vessel",
+    "title": "Request for Information (RFI): Special Mission Vessel (SMV) – Helicopter, Unmanned Aerial System (UAS), Unmanned Surface Vehicle (USV) \u0026 Small Craft Support Vessel",
+    "url": "https://sam.gov/workspace/contract/opp/6552b25bf0e648f39b44228275998eef/view"
+   }
+  },
+  {
+   "key": "close-346a90fa681a4db0b14f311fafe95764",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.COMBAT READINESS.FA8684 AFLCMC RODK",
+    "closes": "2026-08-28",
+    "date": "2026-08-28",
+    "from": "pipeline",
+    "text": "Expeditionary Unmanned Aerial System (eUAS) Manufacturing and Employment Capability Request for Information",
+    "title": "Expeditionary Unmanned Aerial System (eUAS) Manufacturing and Employment Capability Request for Information",
+    "url": "https://sam.gov/workspace/contract/opp/346a90fa681a4db0b14f311fafe95764/view"
+   }
+  },
+  {
    "key": "close-6dba2b56e6e941ec9a99639ef1b90bca",
    "source": "deadlines-solicitations",
    "fields": {
@@ -756,19 +743,6 @@
     "text": "Small Unmanned Aircraft System (sUAS) Light Detection and Ranging (LiDAR) System",
     "title": "Small Unmanned Aircraft System (sUAS) Light Detection and Ranging (LiDAR) System",
     "url": "https://sam.gov/workspace/contract/opp/9c5ce42f40c34d4e8a608d0454e49981/view"
-   }
-  },
-  {
-   "key": "close-57889edc24cd40089188290808afd5e6",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA HQ.NAVSEA HQ",
-    "closes": "2026-08-19",
-    "date": "2026-08-19",
-    "from": "pipeline",
-    "text": "Request for Information (RFI): Special Mission Vessel (SMV) – Helicopter, Unmanned Aerial System (UAS), Unmanned Surface Vehicle (USV) \u0026 Small Craft Support Vessel",
-    "title": "Request for Information (RFI): Special Mission Vessel (SMV) – Helicopter, Unmanned Aerial System (UAS), Unmanned Surface Vehicle (USV) \u0026 Small Craft Support Vessel",
-    "url": "https://sam.gov/workspace/contract/opp/57889edc24cd40089188290808afd5e6/view"
    }
   },
   {

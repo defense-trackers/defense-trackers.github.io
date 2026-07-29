@@ -1,19 +1,31 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-07-29T09:13:16Z",
+ "fetched_at": "2026-07-29T20:01:09Z",
  "schema_version": 1,
  "records": [
   {
    "key": "felixross66/claude-ai-coding-kit-2026",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-29T08:04:20Z",
+    "date": "2026-07-29T19:06:03Z",
     "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation in a 2026 plugin suite.",
     "stars": "2",
     "text": "felixross66/claude-ai-coding-kit-2026",
     "title": "felixross66/claude-ai-coding-kit-2026",
     "url": "https://github.com/felixross66/claude-ai-coding-kit-2026"
+   }
+  },
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-07-29T14:42:37Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "54",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -26,18 +38,6 @@
     "text": "snstac/dronecot",
     "title": "snstac/dronecot",
     "url": "https://github.com/snstac/dronecot"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-07-28T21:25:59Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "53",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-07-28T12:26:53Z",
+    "date": "2026-07-29T16:21:47Z",
     "description": "full port of Reticulum and LXMF to Rust with added SDK",
     "stars": "25",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -785,6 +785,18 @@
     "text": "swim-fish/atak_tw_coord_plugin",
     "title": "swim-fish/atak_tw_coord_plugin",
     "url": "https://github.com/swim-fish/atak_tw_coord_plugin"
+   }
+  },
+  {
+   "key": "Cloud-RF/SOOTHSAYER-ATAK-plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-07-23T10:13:31Z",
+    "description": "ATAK plugin for SOOTHSAYER",
+    "stars": "11",
+    "text": "Cloud-RF/SOOTHSAYER-ATAK-plugin",
+    "title": "Cloud-RF/SOOTHSAYER-ATAK-plugin",
+    "url": "https://github.com/Cloud-RF/SOOTHSAYER-ATAK-plugin"
    }
   },
   {
@@ -924,7 +936,7 @@
    "fields": {
     "date": "2026-07-02T00:56:07Z",
     "description": "ATAK MeshCore plugin",
-    "stars": "26",
+    "stars": "27",
     "text": "atakmaps/TAK-MESHCORE",
     "title": "atakmaps/TAK-MESHCORE",
     "url": "https://github.com/atakmaps/TAK-MESHCORE"
@@ -964,18 +976,6 @@
     "text": "niccellular/bt2cot",
     "title": "niccellular/bt2cot",
     "url": "https://github.com/niccellular/bt2cot"
-   }
-  },
-  {
-   "key": "Cloud-RF/SOOTHSAYER-ATAK-plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-07-23T10:13:31Z",
-    "description": "ATAK plugin for SOOTHSAYER",
-    "stars": "10",
-    "text": "Cloud-RF/SOOTHSAYER-ATAK-plugin",
-    "title": "Cloud-RF/SOOTHSAYER-ATAK-plugin",
-    "url": "https://github.com/Cloud-RF/SOOTHSAYER-ATAK-plugin"
    }
   },
   {

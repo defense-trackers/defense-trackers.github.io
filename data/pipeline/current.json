@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-07-29T09:12:55Z",
+ "fetched_at": "2026-07-29T20:00:47Z",
  "schema_version": 1,
  "records": [
   {
@@ -376,6 +376,19 @@
    }
   },
   {
+   "key": "363374",
+   "source": "pipeline-grants",
+   "fields": {
+    "agency": "Air Force Office of Scientific Research",
+    "closes": "11/06/2026",
+    "number": "NOFOAFRLAFOSR20260001",
+    "posted": "07/29/2026",
+    "text": "Fiscal Year 2027 Defense University Research Instrumentation Program (DURIP)",
+    "title": "Fiscal Year 2027 Defense University Research Instrumentation Program (DURIP)",
+    "url": "https://www.grants.gov/search-results-detail/363374"
+   }
+  },
+  {
    "key": "362517",
    "source": "pipeline-grants",
    "fields": {
@@ -399,6 +412,19 @@
     "text": "DoW Epilepsy Leveraging Research Award",
     "title": "DoW Epilepsy Leveraging Research Award",
     "url": "https://www.grants.gov/search-results-detail/362519"
+   }
+  },
+  {
+   "key": "363379",
+   "source": "pipeline-grants",
+   "fields": {
+    "agency": "Dept of the Army -- Materiel Command",
+    "closes": "11/06/2026",
+    "number": "W911NF26S0095",
+    "posted": "07/29/2026",
+    "text": "Fiscal Year (FY) 2027 Department of War (DoW) Defense University Research Instrumentation Program (DURIP)",
+    "title": "Fiscal Year (FY) 2027 Department of War (DoW) Defense University Research Instrumentation Program (DURIP)",
+    "url": "https://www.grants.gov/search-results-detail/363379"
    }
   },
   {
@@ -454,19 +480,6 @@
    }
   },
   {
-   "key": "359236",
-   "source": "pipeline-grants",
-   "fields": {
-    "agency": "Dept of the Army -- Materiel Command",
-    "closes": "06/02/2030",
-    "number": "W911NF25S0007",
-    "posted": "06/03/2025",
-    "text": "Staff Research Program",
-    "title": "Staff Research Program",
-    "url": "https://www.grants.gov/search-results-detail/359236"
-   }
-  },
-  {
    "key": "349586",
    "source": "pipeline-grants",
    "fields": {
@@ -477,6 +490,19 @@
     "text": "BROAD AGENCY ANNOUNCEMENT (BAA) for Extramural Biomedical and Human Performance Research and Development Department of Defense",
     "title": "BROAD AGENCY ANNOUNCEMENT (BAA) for Extramural Biomedical and Human Performance Research and Development Department of Defense",
     "url": "https://www.grants.gov/search-results-detail/349586"
+   }
+  },
+  {
+   "key": "359236",
+   "source": "pipeline-grants",
+   "fields": {
+    "agency": "Dept of the Army -- Materiel Command",
+    "closes": "06/02/2030",
+    "number": "W911NF25S0007",
+    "posted": "06/03/2025",
+    "text": "Staff Research Program",
+    "title": "Staff Research Program",
+    "url": "https://www.grants.gov/search-results-detail/359236"
    }
   },
   {
@@ -503,71 +529,6 @@
     "text": "DoW Military Burn, Technology/Therapeutic Development Award",
     "title": "DoW Military Burn, Technology/Therapeutic Development Award",
     "url": "https://www.grants.gov/search-results-detail/362252"
-   }
-  },
-  {
-   "key": "362248",
-   "source": "pipeline-grants",
-   "fields": {
-    "agency": "Defense Health Agency Contracting Activity - DHACA",
-    "closes": "10/21/2026",
-    "number": "HT942526MBRPPCRA",
-    "posted": "05/21/2026",
-    "text": "DoW Military Burn, Patient-Centered Research Award",
-    "title": "DoW Military Burn, Patient-Centered Research Award",
-    "url": "https://www.grants.gov/search-results-detail/362248"
-   }
-  },
-  {
-   "key": "362330",
-   "source": "pipeline-grants",
-   "fields": {
-    "agency": "Defense Health Agency Contracting Activity - DHACA",
-    "closes": "07/30/2026",
-    "number": "HT942526PRMRPRAA",
-    "posted": "05/08/2026",
-    "text": "DoW Peer Reviewed Medical, Research Advancement Award",
-    "title": "DoW Peer Reviewed Medical, Research Advancement Award",
-    "url": "https://www.grants.gov/search-results-detail/362330"
-   }
-  },
-  {
-   "key": "362322",
-   "source": "pipeline-grants",
-   "fields": {
-    "agency": "Defense Health Agency Contracting Activity - DHACA",
-    "closes": "07/30/2026",
-    "number": "HT942526PRMRPDA",
-    "posted": "05/08/2026",
-    "text": "DoW Peer Reviewed Medical, Discovery Award",
-    "title": "DoW Peer Reviewed Medical, Discovery Award",
-    "url": "https://www.grants.gov/search-results-detail/362322"
-   }
-  },
-  {
-   "key": "362337",
-   "source": "pipeline-grants",
-   "fields": {
-    "agency": "Defense Health Agency Contracting Activity - DHACA",
-    "closes": "08/06/2026",
-    "number": "HT942526PRMRPTTDA",
-    "posted": "05/08/2026",
-    "text": "DoW Peer Reviewed Medical, Technology/Therapeutic Development Award",
-    "title": "DoW Peer Reviewed Medical, Technology/Therapeutic Development Award",
-    "url": "https://www.grants.gov/search-results-detail/362337"
-   }
-  },
-  {
-   "key": "362326",
-   "source": "pipeline-grants",
-   "fields": {
-    "agency": "Defense Health Agency Contracting Activity - DHACA",
-    "closes": "08/06/2026",
-    "number": "HT942526PRMRPIPA",
-    "posted": "05/08/2026",
-    "text": "DoW Peer Reviewed Medical, Impact Award",
-    "title": "DoW Peer Reviewed Medical, Impact Award",
-    "url": "https://www.grants.gov/search-results-detail/362326"
    }
   },
   {
@@ -767,6 +728,35 @@
    }
   },
   {
+   "key": "6552b25bf0e648f39b44228275998eef",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA HQ.NAVSEA HQ",
+    "closes": "2026-08-19T15:00:00-04:00",
+    "number": "N0002426RXXXX",
+    "posted": "2026-07-29",
+    "setaside": "No Set aside used",
+    "text": "Request for Information (RFI): Special Mission Vessel (SMV) – Helicopter, Unmanned Aerial System (UAS), Unmanned Surface Vehicle (USV) \u0026 Small Craft Support Vessel",
+    "title": "Request for Information (RFI): Special Mission Vessel (SMV) – Helicopter, Unmanned Aerial System (UAS), Unmanned Surface Vehicle (USV) \u0026 Small Craft Support Vessel",
+    "type": "Sources Sought",
+    "url": "https://sam.gov/workspace/contract/opp/6552b25bf0e648f39b44228275998eef/view"
+   }
+  },
+  {
+   "key": "346a90fa681a4db0b14f311fafe95764",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.COMBAT READINESS.FA8684 AFLCMC RODK",
+    "closes": "2026-08-28T17:00:00-04:00",
+    "number": "RSO-AMPOECT-04",
+    "posted": "2026-07-29",
+    "text": "Expeditionary Unmanned Aerial System (eUAS) Manufacturing and Employment Capability Request for Information",
+    "title": "Expeditionary Unmanned Aerial System (eUAS) Manufacturing and Employment Capability Request for Information",
+    "type": "Special Notice",
+    "url": "https://sam.gov/workspace/contract/opp/346a90fa681a4db0b14f311fafe95764/view"
+   }
+  },
+  {
    "key": "6dba2b56e6e941ec9a99639ef1b90bca",
    "source": "pipeline-sam-unmanned",
    "fields": {
@@ -821,21 +811,6 @@
     "title": "Small Unmanned Aircraft System (sUAS) Light Detection and Ranging (LiDAR) System",
     "type": "Sources Sought",
     "url": "https://sam.gov/workspace/contract/opp/9c5ce42f40c34d4e8a608d0454e49981/view"
-   }
-  },
-  {
-   "key": "57889edc24cd40089188290808afd5e6",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA HQ.NAVSEA HQ",
-    "closes": "2026-08-19T15:00:00-04:00",
-    "number": "N0002426RXXXX",
-    "posted": "2026-07-20",
-    "setaside": "No Set aside used",
-    "text": "Request for Information (RFI): Special Mission Vessel (SMV) – Helicopter, Unmanned Aerial System (UAS), Unmanned Surface Vehicle (USV) \u0026 Small Craft Support Vessel",
-    "title": "Request for Information (RFI): Special Mission Vessel (SMV) – Helicopter, Unmanned Aerial System (UAS), Unmanned Surface Vehicle (USV) \u0026 Small Craft Support Vessel",
-    "type": "Sources Sought",
-    "url": "https://sam.gov/workspace/contract/opp/57889edc24cd40089188290808afd5e6/view"
    }
   },
   {
