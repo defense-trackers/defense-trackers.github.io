@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-07-28T20:07:24Z",
+ "fetched_at": "2026-07-29T09:13:19Z",
  "schema_version": 1,
  "records": [
   {
@@ -33,7 +33,7 @@
    "source": "transition-prototype",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "3.5024907054e+08",
+    "amount": "3.5023522463e+08",
     "description": "TECHNICAL SUPPORT FOR PROTOTYPE INTEGRATION FACILITY",
     "text": "INTUITIVE RESEARCH AND TECHNOLOGY CORPORATION",
     "title": "INTUITIVE RESEARCH AND TECHNOLOGY CORPORATION",
@@ -485,6 +485,18 @@
    }
   },
   {
+   "key": "CONT_AWD_N0017319F3001_9700_N0017814D7965_9700",
+   "source": "transition-prototype",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "2.878933844e+07",
+    "description": "PR 56-9604-19   RESEARCH AND DEVELOPMENT IN ELECTRO/OPTIC (EO) AND INFRARED (IR) FOR ADVANCED INTELLIGENCE, SURVEILLANCE, AND RECONNAISSANCE (ISR) AND ELECTRONIC WARFARE (EW) PROTOTYPES.",
+    "text": "TEKLA RESEARCH, INC.",
+    "title": "TEKLA RESEARCH, INC.",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_N0017319F3001_9700_N0017814D7965_9700/"
+   }
+  },
+  {
    "key": "CONT_AWD_HQ003422F0198_9700_HQ003421D0004_9700",
    "source": "transition-prototype",
    "fields": {
@@ -494,18 +506,6 @@
     "text": "APPLIED RESEARCH ASSOCIATES, INC.",
     "title": "APPLIED RESEARCH ASSOCIATES, INC.",
     "url": "https://www.usaspending.gov/award/CONT_AWD_HQ003422F0198_9700_HQ003421D0004_9700/"
-   }
-  },
-  {
-   "key": "CONT_AWD_N0017319F3001_9700_N0017814D7965_9700",
-   "source": "transition-prototype",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "2.707984739e+07",
-    "description": "PR 56-9604-19   RESEARCH AND DEVELOPMENT IN ELECTRO/OPTIC (EO) AND INFRARED (IR) FOR ADVANCED INTELLIGENCE, SURVEILLANCE, AND RECONNAISSANCE (ISR) AND ELECTRONIC WARFARE (EW) PROTOTYPES.",
-    "text": "TEKLA RESEARCH, INC.",
-    "title": "TEKLA RESEARCH, INC.",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_N0017319F3001_9700_N0017814D7965_9700/"
    }
   },
   {
@@ -661,7 +661,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "30979375853",
+    "amount": "31078526826",
     "award_id": "N0002417C2117",
     "description": "COLUMBIA CLASS DESIGN COMPLETION",
     "text": "ELECTRIC BOAT CORPORATION",

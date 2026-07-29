@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-07-28T20:05:46Z",
+ "fetched_at": "2026-07-29T09:11:37Z",
  "schema_version": 1,
  "records": [
   {
@@ -50,6 +50,18 @@
     "text": "BYTECUBED, LLC",
     "title": "BYTECUBED, LLC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W519TC25F0241_9700_W52P1J22G0174_9700/"
+   }
+  },
+  {
+   "key": "CONT_AWD_W909MY26F0009_9700_W909MY26D0002_9700",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "2.574581103e+07",
+    "description": "CYBER ANALYTICS AND DETECTION (CAD) OMNIBUS PROCUREMENT FOR MAINTENANCE, DEVELOPMENT, AND ARTIFICIAL INTELLIGENCE/MACHINE LEARNING (AI/ML) INTEGRATION.",
+    "text": "ENLIGHTEN IT CONSULTING LLC",
+    "title": "ENLIGHTEN IT CONSULTING LLC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W909MY26F0009_9700_W909MY26D0002_9700/"
    }
   },
   {
@@ -266,18 +278,6 @@
     "text": "STAMPEDE VENTURES, INC.",
     "title": "STAMPEDE VENTURES, INC.",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W911QX20F0088_9700_W911QX18D0003_9700/"
-   }
-  },
-  {
-   "key": "CONT_AWD_W909MY26F0009_9700_W909MY26D0002_9700",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "7.1893864e+06",
-    "description": "CYBER ANALYTICS AND DETECTION (CAD) OMNIBUS PROCUREMENT FOR MAINTENANCE, DEVELOPMENT, AND ARTIFICIAL INTELLIGENCE/MACHINE LEARNING (AI/ML) INTEGRATION.",
-    "text": "ENLIGHTEN IT CONSULTING LLC",
-    "title": "ENLIGHTEN IT CONSULTING LLC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W909MY26F0009_9700_W909MY26D0002_9700/"
    }
   },
   {

@@ -1,37 +1,37 @@
 {
  "source": "authorizations",
  "tracker": "authorizations",
- "fetched_at": "2026-07-28T20:05:48Z",
+ "fetched_at": "2026-07-29T09:11:39Z",
  "schema_version": 1,
  "records": [
   {
-   "key": "FR2624779619",
+   "key": "FR2619944785",
+   "source": "authorizations-fedramp",
+   "fields": {
+    "date": "2026-07-28T20:00:00.000Z",
+    "status": "Now in PMO Review",
+    "text": "Bidscale",
+    "title": "Bidscale"
+   }
+  },
+  {
+   "key": "FR2610538972",
+   "source": "authorizations-fedramp",
+   "fields": {
+    "date": "2026-07-28T20:00:00.000Z",
+    "status": "Now in PMO Review",
+    "text": "Bizzdesign GovCloud",
+    "title": "Bizzdesign GovCloud"
+   }
+  },
+  {
+   "key": "FR2620331565",
    "source": "authorizations-fedramp",
    "fields": {
     "date": "2026-07-27T20:00:00.000Z",
     "status": "Now FedRAMP Ready",
-    "text": "Magenta",
-    "title": "Magenta"
-   }
-  },
-  {
-   "key": "FR2528336463",
-   "source": "authorizations-fedramp",
-   "fields": {
-    "date": "2026-07-27T20:00:00.000Z",
-    "status": "Now Authorized",
-    "text": "DSS Health Cloud (DSSHC)",
-    "title": "DSS Health Cloud (DSSHC)"
-   }
-  },
-  {
-   "key": "FR2210850126",
-   "source": "authorizations-fedramp",
-   "fields": {
-    "date": "2026-07-27T20:00:00.000Z",
-    "status": "Now in PMO Review",
-    "text": "ReadyOp",
-    "title": "ReadyOp"
+    "text": "CabletequeGov",
+    "title": "CabletequeGov"
    }
   },
   {
@@ -354,6 +354,19 @@
     "text": "Bugcrowd for Government (BCGOV)",
     "title": "Bugcrowd for Government (BCGOV)",
     "url": "https://www.bugcrowd.com/solutions/government/"
+   }
+  },
+  {
+   "key": "FR2620331565",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Ignyte Platform Inc.",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "status": "FedRAMP Ready",
+    "text": "CabletequeGov",
+    "title": "CabletequeGov",
+    "url": "https://cableteque.com/"
    }
   },
   {
@@ -1126,20 +1139,6 @@
    }
   },
   {
-   "key": "FR2524349489",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Fortreum, LLC",
-    "date": "2026-02-10T20:00:00.000Z",
-    "impact": "Moderate",
-    "model": "SaaS",
-    "status": "FedRAMP Authorized",
-    "text": "IBM Data Services for Government",
-    "title": "IBM Data Services for Government",
-    "url": "ibm.com"
-   }
-  },
-  {
    "key": "FR2504062150",
    "source": "authorizations-fedramp-ai",
    "fields": {
@@ -1151,6 +1150,20 @@
     "text": "IBM Federal ATOM",
     "title": "IBM Federal ATOM",
     "url": "https://ibm-atom.com/"
+   }
+  },
+  {
+   "key": "FR2524349489",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Fortreum, LLC",
+    "date": "2026-02-10T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "IBM Data Services for Government",
+    "title": "IBM Data Services for Government",
+    "url": "ibm.com"
    }
   },
   {
@@ -1601,17 +1614,17 @@
    }
   },
   {
-   "key": "FR2317253567",
+   "key": "FR2001619337",
    "source": "authorizations-fedramp-ai",
    "fields": {
-    "assessor": "Fortreum, LLC",
-    "date": "2024-12-09T20:00:00.000Z",
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2024-03-14T20:00:00.000Z",
     "impact": "High",
     "model": "SaaS",
     "status": "FedRAMP Authorized",
-    "text": "GCS-HIGH",
-    "title": "GCS-HIGH",
-    "url": "http://www.paloaltonetworks.com/"
+    "text": "Idira Identity Security Government Services Platform",
+    "title": "Idira Identity Security Government Services Platform",
+    "url": "https://www.cyberark.com/products/access-management/"
    }
   },
   {
@@ -1629,17 +1642,17 @@
    }
   },
   {
-   "key": "FR2001619337",
+   "key": "FR2317253567",
    "source": "authorizations-fedramp-ai",
    "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2024-03-14T20:00:00.000Z",
+    "assessor": "Fortreum, LLC",
+    "date": "2024-12-09T20:00:00.000Z",
     "impact": "High",
     "model": "SaaS",
     "status": "FedRAMP Authorized",
-    "text": "Idira Identity Security Government Services Platform",
-    "title": "Idira Identity Security Government Services Platform",
-    "url": "https://www.cyberark.com/products/access-management/"
+    "text": "GCS-HIGH",
+    "title": "GCS-HIGH",
+    "url": "http://www.paloaltonetworks.com/"
    }
   },
   {
@@ -2048,14 +2061,14 @@
    }
   },
   {
-   "key": "FR2531434700XL",
+   "key": "FR2531434700",
    "source": "authorizations-fedramp-ai",
    "fields": {
     "assessor": "Schellman Compliance, LLC",
-    "date": "2025-09-17T20:00:00.000Z",
-    "impact": "20x Low",
+    "date": "Not Active",
+    "impact": "Moderate",
     "model": "SaaS",
-    "status": "FedRAMP Authorized",
+    "status": "Agency In Process",
     "text": "Palette VerteX",
     "title": "Palette VerteX",
     "url": "https://www.spectrocloud.com/"
@@ -2159,20 +2172,6 @@
    }
   },
   {
-   "key": "FR2502148523",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "model": "SaaS",
-    "status": "Agency In Process",
-    "text": "Thomson Reuters Legal Research (TR LR)",
-    "title": "Thomson Reuters Legal Research (TR LR)",
-    "url": "https://legal.thomsonreuters.com/en/westlaw"
-   }
-  },
-  {
    "key": "FR2333543855",
    "source": "authorizations-fedramp-ai",
    "fields": {
@@ -2184,6 +2183,20 @@
     "text": "Thomson Reuters Risk \u0026 Fraud (TR R\u0026F)",
     "title": "Thomson Reuters Risk \u0026 Fraud (TR R\u0026F)",
     "url": "https://legal.thomsonreuters.com/en/products/clear"
+   }
+  },
+  {
+   "key": "FR2502148523",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "Agency In Process",
+    "text": "Thomson Reuters Legal Research (TR LR)",
+    "title": "Thomson Reuters Legal Research (TR LR)",
+    "url": "https://legal.thomsonreuters.com/en/westlaw"
    }
   },
   {
@@ -2305,7 +2318,7 @@
     "assessor": "Fortreum, LLC",
     "date": "Not Active",
     "impact": "Moderate",
-    "status": "Agency In Process",
+    "status": "FedRAMP In Process",
     "text": "Bidscale",
     "title": "Bidscale",
     "url": "https://www.unisonglobal.com/"
@@ -2354,16 +2367,16 @@
    }
   },
   {
-   "key": "FR2525556241XM",
+   "key": "FR2525556241",
    "source": "authorizations-fedramp-ai",
    "fields": {
     "assessor": "Schellman Compliance, LLC",
-    "date": "2026-04-24T20:00:00.000Z",
-    "impact": "20x Moderate",
+    "date": "2025-07-25T20:00:00.000Z",
+    "impact": "20x Low",
     "model": "SaaS",
     "status": "FedRAMP Authorized",
-    "text": "Vanta Government Cloud",
-    "title": "Vanta Government Cloud",
+    "text": "Vanta Trust Management Platform",
+    "title": "Vanta Trust Management Platform",
     "url": "https://www.vanta.com/"
    }
   },
