@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-07-29T20:00:47Z",
+ "fetched_at": "2026-07-30T09:06:12Z",
  "schema_version": 1,
  "records": [
   {
@@ -519,19 +519,6 @@
    }
   },
   {
-   "key": "362252",
-   "source": "pipeline-grants",
-   "fields": {
-    "agency": "Defense Health Agency Contracting Activity - DHACA",
-    "closes": "10/21/2026",
-    "number": "HT942526MBRPTTDA",
-    "posted": "05/21/2026",
-    "text": "DoW Military Burn, Technology/Therapeutic Development Award",
-    "title": "DoW Military Burn, Technology/Therapeutic Development Award",
-    "url": "https://www.grants.gov/search-results-detail/362252"
-   }
-  },
-  {
    "key": "363018",
    "source": "pipeline-logistics",
    "fields": {
@@ -669,20 +656,6 @@
     "text": "STARBASE Wright Patt",
     "title": "STARBASE Wright Patt",
     "url": "https://www.grants.gov/search-results-detail/329806"
-   }
-  },
-  {
-   "key": "dc22bd38118e4d739579e8e5f6fcf0bb",
-   "source": "pipeline-sam-ai",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF DEFENSE EDUCATION ACTIVITY (DODEA).DOD EDUCATION ACTIVITY",
-    "closes": "2026-07-29T16:00:00-04:00",
-    "number": "DoWEA-PSN-26-002",
-    "posted": "2026-07-15",
-    "text": "Data and Artificial Intelligence (AI) Modernization Support",
-    "title": "Data and Artificial Intelligence (AI) Modernization Support",
-    "type": "Presolicitation",
-    "url": "https://sam.gov/workspace/contract/opp/dc22bd38118e4d739579e8e5f6fcf0bb/view"
    }
   },
   {

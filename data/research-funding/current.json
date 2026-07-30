@@ -1,21 +1,63 @@
 {
  "source": "research-funding",
  "tracker": "research-funding",
- "fetched_at": "2026-07-29T20:00:59Z",
+ "fetched_at": "2026-07-30T09:06:22Z",
  "schema_version": 1,
  "records": [
   {
-   "key": "2537281",
+   "key": "2607639",
    "source": "research-nsf",
    "fields": {
     "agency": "NSF",
-    "amount": "899983",
-    "awardee": "University Enterprises, Incorporated",
+    "amount": "375000",
+    "awardee": "Georgia Tech Research Corporation",
     "date": "10/01/2026",
-    "program": "CER-ComputingEducationResearch",
-    "text": "CER: Assessing relationships between high school teacher professional development and student outcomes in computer science and artificial intelligence",
-    "title": "CER: Assessing relationships between high school teacher professional development and student outcomes in computer science and artificial intelligence",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2537281"
+    "program": "EPMQD: Electronic, Photonic, M",
+    "text": "Energy-Autonomous Adaptive Photonics Using Photoresponsive Hydrogel Soft Lenses",
+    "title": "Energy-Autonomous Adaptive Photonics Using Photoresponsive Hydrogel Soft Lenses",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2607639"
+   }
+  },
+  {
+   "key": "2539636",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "300000",
+    "awardee": "University of Florida",
+    "date": "10/01/2026",
+    "program": "IUSE",
+    "text": "Collaborative Research: An Artificial Intelligence-based Interactive Learning Support System for Improving Plan Interpretation Skills of Construction and Engineering Students",
+    "title": "Collaborative Research: An Artificial Intelligence-based Interactive Learning Support System for Improving Plan Interpretation Skills of Construction and Engineering Students",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2539636"
+   }
+  },
+  {
+   "key": "2612403",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "400000",
+    "awardee": "Old Dominion University Research Foundation",
+    "date": "10/01/2026",
+    "program": "IUSE",
+    "text": "Cultivating Adaptive Engineering Expertise through Metaphor-Based Socratic Artificial Intelligence and Interactive Simulation",
+    "title": "Cultivating Adaptive Engineering Expertise through Metaphor-Based Socratic Artificial Intelligence and Interactive Simulation",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2612403"
+   }
+  },
+  {
+   "key": "2609643",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "249999",
+    "awardee": "Arizona State University",
+    "date": "10/01/2026",
+    "program": "MSI-Manufacturing Systms Integ",
+    "text": "Collaborative Research: Generative AI for Autonomous Composition of Resilient and Explainable Service-Oriented Supply Chains",
+    "title": "Collaborative Research: Generative AI for Autonomous Composition of Resilient and Explainable Service-Oriented Supply Chains",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2609643"
    }
   }
  ]

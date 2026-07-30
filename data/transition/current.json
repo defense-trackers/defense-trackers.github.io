@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-07-29T20:01:11Z",
+ "fetched_at": "2026-07-30T09:06:35Z",
  "schema_version": 1,
  "records": [
   {
@@ -778,7 +778,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "1.339647892319e+10",
+    "amount": "1.372029392319e+10",
     "award_id": "FA821920C0006",
     "description": "GROUND-BASED STRATEGIC DETERRENT (GBSD) ENGINEERING AND MANUFACTURING DEVELOPMENT (EMD) AND EARLY PRODUCTION AND DEPLOYMENT (P\u0026D)",
     "text": "NORTHROP GRUMMAN SYSTEMS CORP",
@@ -804,7 +804,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "1.274200573785e+10",
+    "amount": "1.274588351185e+10",
     "award_id": "N0002416C2116",
     "description": "CVN 80 ENGINEERING EFFORTS AND STEEL",
     "text": "HUNTINGTON INGALLS INC",
@@ -904,11 +904,24 @@
    }
   },
   {
+   "key": "CONT_AWD_HT940223C0001_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "9.27361022837e+09",
+    "award_id": "HT940223C0001",
+    "description": "TRICARE MANAGED CARE SUPPORT SERVICES CONTRACT, 5TH GENERATION EAST REGION",
+    "text": "HUMANA GOVERNMENT BUSINESS INC",
+    "title": "HUMANA GOVERNMENT BUSINESS INC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_HT940223C0001_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_HQ014717C0032_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "9.08528198266e+09",
+    "amount": "9.09527417766e+09",
     "award_id": "HQ014717C0032",
     "description": "HQ0147-17-C-0032 UNDEFINITIZED CONTRACT ACTION (UCA) FOR THAAD INTERCEPTOR LOT 9 PRODUCTION - QTY OF 23",
     "text": "LOCKHEED MARTIN CORPORATION",
@@ -1005,19 +1018,6 @@
     "text": "TRIWEST HEALTHCARE ALLIANCE CORP",
     "title": "TRIWEST HEALTHCARE ALLIANCE CORP",
     "url": "https://www.usaspending.gov/award/CONT_AWD_HT940223C0002_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_HT940223C0001_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "8.30361572037e+09",
-    "award_id": "HT940223C0001",
-    "description": "TRICARE MANAGED CARE SUPPORT SERVICES CONTRACT, 5TH GENERATION EAST REGION",
-    "text": "HUMANA GOVERNMENT BUSINESS INC",
-    "title": "HUMANA GOVERNMENT BUSINESS INC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_HT940223C0001_9700_-NONE-_-NONE-/"
    }
   },
   {

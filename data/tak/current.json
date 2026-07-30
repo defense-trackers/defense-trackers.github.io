@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-07-29T20:01:09Z",
+ "fetched_at": "2026-07-30T09:06:32Z",
  "schema_version": 1,
  "records": [
   {
    "key": "felixross66/claude-ai-coding-kit-2026",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-29T19:06:03Z",
+    "date": "2026-07-30T06:34:10Z",
     "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation in a 2026 plugin suite.",
     "stars": "2",
     "text": "felixross66/claude-ai-coding-kit-2026",
@@ -17,27 +17,27 @@
    }
   },
   {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-07-29T14:42:37Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "54",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
-   }
-  },
-  {
    "key": "snstac/dronecot",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-28T23:54:15Z",
+    "date": "2026-07-30T05:06:43Z",
     "description": "DroneCOT is software for monitoring and analyzing Direct Remote Identification (DRI), Remote ID (RID) or Open Drone ID (ODID) broadcasts from Uncrewed Aircraft (UA) via the Team Awareness Kit (TAK) ecosystem of products.",
     "stars": "34",
     "text": "snstac/dronecot",
     "title": "snstac/dronecot",
     "url": "https://github.com/snstac/dronecot"
+   }
+  },
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-07-30T03:08:57Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "54",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -56,7 +56,7 @@
    "key": "snstac/pytak",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-25T17:25:43Z",
+    "date": "2026-07-30T07:40:36Z",
     "description": "PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.",
     "stars": "247",
     "text": "snstac/pytak",
@@ -754,6 +754,18 @@
    }
   },
   {
+   "key": "VCWG/Air-Sea",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-07-29T21:43:40Z",
+    "description": "AIS and ADS-B plugin for ATAK",
+    "stars": "29",
+    "text": "VCWG/Air-Sea",
+    "title": "VCWG/Air-Sea",
+    "url": "https://github.com/VCWG/Air-Sea"
+   }
+  },
+  {
    "key": "xznhj8129/hermes-atak",
    "source": "tak-github",
    "fields": {
@@ -793,7 +805,7 @@
    "fields": {
     "date": "2026-07-23T10:13:31Z",
     "description": "ATAK plugin for SOOTHSAYER",
-    "stars": "11",
+    "stars": "12",
     "text": "Cloud-RF/SOOTHSAYER-ATAK-plugin",
     "title": "Cloud-RF/SOOTHSAYER-ATAK-plugin",
     "url": "https://github.com/Cloud-RF/SOOTHSAYER-ATAK-plugin"
@@ -1031,7 +1043,7 @@
    "fields": {
     "date": "2026-06-04T21:30:53Z",
     "description": "ATAK Plugin for sending CoT to IMeshService",
-    "stars": "507",
+    "stars": "508",
     "text": "meshtastic/ATAK-Plugin",
     "title": "meshtastic/ATAK-Plugin",
     "url": "https://github.com/meshtastic/ATAK-Plugin"
@@ -1054,7 +1066,7 @@
    "fields": {
     "date": "2026-05-24T19:53:16Z",
     "description": "Generate product.inf + product.infz from ATAK plugin APKs for civTAK OTA updates. Companion to TAKSERVER_MDM.",
-    "stars": "10",
+    "stars": "11",
     "text": "GUMMIIII/takserver_ota",
     "title": "GUMMIIII/takserver_ota",
     "url": "https://github.com/GUMMIIII/takserver_ota"
@@ -1070,18 +1082,6 @@
     "text": "njaalsb/Meshtastic-ATAK-plugin",
     "title": "njaalsb/Meshtastic-ATAK-plugin",
     "url": "https://github.com/njaalsb/Meshtastic-ATAK-plugin"
-   }
-  },
-  {
-   "key": "meshtastic/pluginmeshtastic",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-05-13T18:28:50Z",
-    "description": "A standalone Meshtastic plugin for ATAK",
-    "stars": "22",
-    "text": "meshtastic/pluginmeshtastic",
-    "title": "meshtastic/pluginmeshtastic",
-    "url": "https://github.com/meshtastic/pluginmeshtastic"
    }
   },
   {
