@@ -1,9 +1,19 @@
 {
  "source": "authorizations",
  "tracker": "authorizations",
- "fetched_at": "2026-07-31T09:18:51Z",
+ "fetched_at": "2026-07-31T20:07:24Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "FR2524251176",
+   "source": "authorizations-fedramp",
+   "fields": {
+    "date": "2026-07-31T20:00:00.000Z",
+    "status": "Now Authorized",
+    "text": "Atlas by LMI",
+    "title": "Atlas by LMI"
+   }
+  },
   {
    "key": "FR2629041584",
    "source": "authorizations-fedramp",
@@ -22,16 +32,6 @@
     "status": "Now in PMO Review",
     "text": "Bidscale",
     "title": "Bidscale"
-   }
-  },
-  {
-   "key": "FR2610538972",
-   "source": "authorizations-fedramp",
-   "fields": {
-    "date": "2026-07-28T20:00:00.000Z",
-    "status": "Now in PMO Review",
-    "text": "Bizzdesign GovCloud",
-    "title": "Bizzdesign GovCloud"
    }
   },
   {
@@ -1961,20 +1961,6 @@
     "text": "2F Game Warden",
     "title": "2F Game Warden",
     "url": "http://www.secondfront.com/products/game-warden/"
-   }
-  },
-  {
-   "key": "FR2214346691",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2022-08-01T20:00:00.000Z",
-    "impact": "Moderate",
-    "model": "SaaS",
-    "status": "FedRAMP Authorized",
-    "text": "Gobo Framework (Gobo)",
-    "title": "Gobo Framework (Gobo)",
-    "url": "https://www.secunetics.com/gobo"
    }
   },
   {

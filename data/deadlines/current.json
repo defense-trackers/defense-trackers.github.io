@@ -1,7 +1,7 @@
 {
  "source": "deadlines",
  "tracker": "deadlines",
- "fetched_at": "2026-07-31T09:20:37Z",
+ "fetched_at": "2026-07-31T20:09:09Z",
  "schema_version": 1,
  "records": [
   {
@@ -512,19 +512,6 @@
    }
   },
   {
-   "key": "close-362252",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "Defense Health Agency Contracting Activity - DHACA",
-    "closes": "2026-10-21",
-    "date": "2026-10-21",
-    "from": "pipeline",
-    "text": "DoW Military Burn, Technology/Therapeutic Development Award",
-    "title": "DoW Military Burn, Technology/Therapeutic Development Award",
-    "url": "https://www.grants.gov/search-results-detail/362252"
-   }
-  },
-  {
    "key": "close-363018",
    "source": "deadlines-solicitations",
    "fields": {
@@ -626,6 +613,19 @@
     "text": "Decentralized Artificial Intelligence through Controlled Emergence (DICE)",
     "title": "Decentralized Artificial Intelligence through Controlled Emergence (DICE)",
     "url": "https://sam.gov/workspace/contract/opp/1d0790fde85c41a49b59d835f996a6f5/view"
+   }
+  },
+  {
+   "key": "close-64f0d3726ec24750811dfb0658da5d44",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR HQ.NAVAL INFORMATION WARFARE SYSTEMS",
+    "closes": "2026-08-14",
+    "date": "2026-08-14",
+    "from": "pipeline",
+    "text": "Egyptian Navy Autonomous INTelligence System (AINTS) Platform Integration",
+    "title": "Egyptian Navy Autonomous INTelligence System (AINTS) Platform Integration",
+    "url": "https://sam.gov/workspace/contract/opp/64f0d3726ec24750811dfb0658da5d44/view"
    }
   },
   {

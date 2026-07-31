@@ -1,21 +1,35 @@
 {
  "source": "research-funding",
  "tracker": "research-funding",
- "fetched_at": "2026-07-31T09:20:25Z",
+ "fetched_at": "2026-07-31T20:08:57Z",
  "schema_version": 1,
  "records": [
   {
-   "key": "2616451",
+   "key": "2607639",
    "source": "research-nsf",
    "fields": {
     "agency": "NSF",
-    "amount": "453579",
-    "awardee": "University of Kansas Center for Research Inc",
+    "amount": "375000",
+    "awardee": "Georgia Tech Research Corporation",
     "date": "10/01/2026",
-    "program": "AI and Geosciences",
-    "text": "Collaborative Research: CAIG: Integrating Artificial Intelligence and Neotectonics for Data-Driven Global Active Fault Mapping",
-    "title": "Collaborative Research: CAIG: Integrating Artificial Intelligence and Neotectonics for Data-Driven Global Active Fault Mapping",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2616451"
+    "program": "EPMQD: Electronic, Photonic, M",
+    "text": "Energy-Autonomous Adaptive Photonics Using Photoresponsive Hydrogel Soft Lenses",
+    "title": "Energy-Autonomous Adaptive Photonics Using Photoresponsive Hydrogel Soft Lenses",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2607639"
+   }
+  },
+  {
+   "key": "2539636",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "300000",
+    "awardee": "University of Florida",
+    "date": "10/01/2026",
+    "program": "IUSE",
+    "text": "Collaborative Research: An Artificial Intelligence-based Interactive Learning Support System for Improving Plan Interpretation Skills of Construction and Engineering Students",
+    "title": "Collaborative Research: An Artificial Intelligence-based Interactive Learning Support System for Improving Plan Interpretation Skills of Construction and Engineering Students",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2539636"
    }
   }
  ]

@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-07-31T09:20:13Z",
+ "fetched_at": "2026-07-31T20:08:45Z",
  "schema_version": 1,
  "records": [
   {
@@ -519,19 +519,6 @@
    }
   },
   {
-   "key": "362252",
-   "source": "pipeline-grants",
-   "fields": {
-    "agency": "Defense Health Agency Contracting Activity - DHACA",
-    "closes": "10/21/2026",
-    "number": "HT942526MBRPTTDA",
-    "posted": "05/21/2026",
-    "text": "DoW Military Burn, Technology/Therapeutic Development Award",
-    "title": "DoW Military Burn, Technology/Therapeutic Development Award",
-    "url": "https://www.grants.gov/search-results-detail/362252"
-   }
-  },
-  {
    "key": "363018",
    "source": "pipeline-logistics",
    "fields": {
@@ -683,6 +670,20 @@
     "title": "ARTIFICIAL INTELLIGENCE AND NEXT GENERATION DISTRIBUTED COMMAND AND CONTROL",
     "type": "Presolicitation",
     "url": "https://sam.gov/workspace/contract/opp/5cd1dec3f39b44eb87cae4bd15984120/view"
+   }
+  },
+  {
+   "key": "64f0d3726ec24750811dfb0658da5d44",
+   "source": "pipeline-sam-autonomy",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR HQ.NAVAL INFORMATION WARFARE SYSTEMS",
+    "closes": "2026-08-14T12:00:00-07:00",
+    "number": "N0003926RE014",
+    "posted": "2026-07-31",
+    "text": "Egyptian Navy Autonomous INTelligence System (AINTS) Platform Integration",
+    "title": "Egyptian Navy Autonomous INTelligence System (AINTS) Platform Integration",
+    "type": "Presolicitation",
+    "url": "https://sam.gov/workspace/contract/opp/64f0d3726ec24750811dfb0658da5d44/view"
    }
   },
   {
