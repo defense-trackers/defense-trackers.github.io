@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-07-30T20:05:24Z",
+ "fetched_at": "2026-07-31T09:18:48Z",
  "schema_version": 1,
  "records": [
   {
@@ -545,6 +545,18 @@
    }
   },
   {
+   "key": "CONT_AWD_W56KGU24C0023_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "2392843",
+    "description": "CPFF BAA AWARD FOR COLLABORATIVE ARTIFICIAL INTELLIGENCE TASK EXECUTION ENGINE FOR DISTRIBUTED ELECTRONIC WARFARE (CAITEE-DEW)",
+    "text": "SYSTEMS \u0026 TECHNOLOGY RESEARCH LLC",
+    "title": "SYSTEMS \u0026 TECHNOLOGY RESEARCH LLC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W56KGU24C0023_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_HR001126CE029_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
@@ -590,18 +602,6 @@
     "text": "WALLAROO LABS INC",
     "title": "WALLAROO LABS INC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_FA864922P1090_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_W5170125CA290_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "1.99997164e+06",
-    "description": "TOPIC A224-016 - ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING (AI/ML) POWERED PLATFORM FOR ARMY ASSET TRACEABILITY, PREDICTIVE MAINTENANCE, AND QUALITY TRACKING",
-    "text": "R-DEX SYSTEMS, INC.",
-    "title": "R-DEX SYSTEMS, INC.",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W5170125CA290_9700_-NONE-_-NONE-/"
    }
   },
   {

@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-07-30T20:07:13Z",
+ "fetched_at": "2026-07-31T09:20:37Z",
  "schema_version": 1,
  "records": [
   {
@@ -21,7 +21,7 @@
    "source": "transition-prototype",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "6.779637305e+08",
+    "amount": "6.791591835e+08",
     "description": "PHASE 3 AND 4 DEVELOPMENT WITH 7 PROTOTYPE DELIVERABLES OF THE OPTIONALLY MANNED FIGHTING VEHICLE.",
     "text": "GENERAL DYNAMICS LAND SYSTEMS INC.",
     "title": "GENERAL DYNAMICS LAND SYSTEMS INC.",
@@ -81,7 +81,7 @@
    "source": "transition-prototype",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "2.0838979969e+08",
+    "amount": "2.0876470411e+08",
     "description": "TECHNICAL SUPPORT FOR PROTOTYPE INTEGRATION FACILITY (PIF)",
     "text": "BOOZ ALLEN HAMILTON INC",
     "title": "BOOZ ALLEN HAMILTON INC",
@@ -437,6 +437,18 @@
    }
   },
   {
+   "key": "CONT_AWD_HR001122C0027_9700_-NONE-_-NONE-",
+   "source": "transition-prototype",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "3.20088702e+07",
+    "description": "SBIR PHASE III - BLACKJACK PROTOTYPE GROUND OPERATIONS CENTER",
+    "text": "PARSONS GOVERNMENT SERVICES INC.",
+    "title": "PARSONS GOVERNMENT SERVICES INC.",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_HR001122C0027_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_N0017326F2403_9700_N0017322D2001_9700",
    "source": "transition-prototype",
    "fields": {
@@ -470,18 +482,6 @@
     "text": "RAYTHEON/LOCKHEED MARTIN JAVELIN JV",
     "title": "RAYTHEON/LOCKHEED MARTIN JAVELIN JV",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W31P4Q25F0257_9700_W31P4Q24D0001_9700/"
-   }
-  },
-  {
-   "key": "CONT_AWD_HR001122C0027_9700_-NONE-_-NONE-",
-   "source": "transition-prototype",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "2.89088702e+07",
-    "description": "SBIR PHASE III - BLACKJACK PROTOTYPE GROUND OPERATIONS CENTER",
-    "text": "PARSONS GOVERNMENT SERVICES INC.",
-    "title": "PARSONS GOVERNMENT SERVICES INC.",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_HR001122C0027_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -713,7 +713,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "20199302115",
+    "amount": "20199842115",
     "award_id": "N0002412C2115",
     "description": "SSN 792 LONG LEAD TIME MATERIAL",
     "text": "ELECTRIC BOAT CORPORATION",
@@ -804,7 +804,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "1.274588351185e+10",
+    "amount": "1.274712207085e+10",
     "award_id": "N0002416C2116",
     "description": "CVN 80 ENGINEERING EFFORTS AND STEEL",
     "text": "HUNTINGTON INGALLS INC",
@@ -878,6 +878,19 @@
    }
   },
   {
+   "key": "CONT_AWD_W31P4Q24C0022_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "9.98713204543e+09",
+    "award_id": "W31P4Q24C0022",
+    "description": "EXECUTE PHASED ARRAY TRACKING RADAR TO INTERCEPT ON TARGET (PATRIOT) ADVANCED CAPABILITY-3 (PAC-3) MISSILE PRODUCTION BY PROVIDING INCIDENTAL SERVICES, HARDWARE, FACILITIES, EQUIPMENT, AND TECHNICAL, PLANNING, MANAGEMENT, AND MANUFACTURING EFFORTS.",
+    "text": "LOCKHEED MARTIN CORPORATION",
+    "title": "LOCKHEED MARTIN CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W31P4Q24C0022_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_W58RGZ08C0003_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -888,19 +901,6 @@
     "text": "SIKORSKY AIRCRAFT CORPORATION",
     "title": "SIKORSKY AIRCRAFT CORPORATION",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ08C0003_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_W31P4Q24C0022_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "9.79778379543e+09",
-    "award_id": "W31P4Q24C0022",
-    "description": "EXECUTE PHASED ARRAY TRACKING RADAR TO INTERCEPT ON TARGET (PATRIOT) ADVANCED CAPABILITY-3 (PAC-3) MISSILE PRODUCTION BY PROVIDING INCIDENTAL SERVICES, HARDWARE, FACILITIES, EQUIPMENT, AND TECHNICAL, PLANNING, MANAGEMENT, AND MANUFACTURING EFFORTS.",
-    "text": "LOCKHEED MARTIN CORPORATION",
-    "title": "LOCKHEED MARTIN CORPORATION",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W31P4Q24C0022_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -1047,6 +1047,19 @@
    }
   },
   {
+   "key": "CONT_AWD_N0001924C0039_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "7651535442",
+    "award_id": "N0001924C0039",
+    "description": "CY24 AVSC SUPPLY SUPPORT",
+    "text": "LOCKHEED MARTIN CORPORATION",
+    "title": "LOCKHEED MARTIN CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_N0001924C0039_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_N0001904C3146_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -1076,7 +1089,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "7.46591520731e+09",
+    "amount": "7.47324201731e+09",
     "award_id": "W58RGZ16C0023",
     "description": "W58RGZ-16-C-0023 IS FOR THE AWARD OF ADVANCE PROCUREMENT IN THE AMOUNT OF $184,930,000.00 TO SUPPORT LOT 7 FULL RATE PRODUCTION LONG LEAD ITEMS.",
     "text": "THE BOEING COMPANY",
@@ -1095,19 +1108,6 @@
     "text": "LOCKHEED MARTIN CORP",
     "title": "LOCKHEED MARTIN CORP",
     "url": "https://www.usaspending.gov/award/CONT_AWD_FA881018C0005_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_N0001924C0039_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "7379699098",
-    "award_id": "N0001924C0039",
-    "description": "CY24 AVSC SUPPLY SUPPORT",
-    "text": "LOCKHEED MARTIN CORPORATION",
-    "title": "LOCKHEED MARTIN CORPORATION",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_N0001924C0039_9700_-NONE-_-NONE-/"
    }
   },
   {
