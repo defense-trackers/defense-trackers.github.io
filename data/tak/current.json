@@ -1,31 +1,43 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-08-01T08:36:55Z",
+ "fetched_at": "2026-08-01T19:54:11Z",
  "schema_version": 1,
  "records": [
-  {
-   "key": "snstac/pytak",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-08-01T07:47:25Z",
-    "description": "PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.",
-    "stars": "248",
-    "text": "snstac/pytak",
-    "title": "snstac/pytak",
-    "url": "https://github.com/snstac/pytak"
-   }
-  },
   {
    "key": "felixross66/claude-ai-coding-kit-2026",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-08-01T05:39:35Z",
+    "date": "2026-08-01T18:02:02Z",
     "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation in a 2026 plugin suite.",
     "stars": "2",
     "text": "felixross66/claude-ai-coding-kit-2026",
     "title": "felixross66/claude-ai-coding-kit-2026",
     "url": "https://github.com/felixross66/claude-ai-coding-kit-2026"
+   }
+  },
+  {
+   "key": "snstac/dronecot",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-08-01T17:18:36Z",
+    "description": "DroneCOT is software for monitoring and analyzing Direct Remote Identification (DRI), Remote ID (RID) or Open Drone ID (ODID) broadcasts from Uncrewed Aircraft (UA) via the Team Awareness Kit (TAK) ecosystem of products.",
+    "stars": "35",
+    "text": "snstac/dronecot",
+    "title": "snstac/dronecot",
+    "url": "https://github.com/snstac/dronecot"
+   }
+  },
+  {
+   "key": "snstac/pytak",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-08-01T18:39:58Z",
+    "description": "PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.",
+    "stars": "248",
+    "text": "snstac/pytak",
+    "title": "snstac/pytak",
+    "url": "https://github.com/snstac/pytak"
    }
   },
   {
@@ -44,7 +56,7 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-30T21:39:40Z",
+    "date": "2026-08-01T17:53:35Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "54",
     "text": "takwerx/infra-TAK",
@@ -62,18 +74,6 @@
     "text": "flighttactics/SwiftTAK",
     "title": "flighttactics/SwiftTAK",
     "url": "https://github.com/flighttactics/SwiftTAK"
-   }
-  },
-  {
-   "key": "snstac/dronecot",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-07-30T05:06:43Z",
-    "description": "DroneCOT is software for monitoring and analyzing Direct Remote Identification (DRI), Remote ID (RID) or Open Drone ID (ODID) broadcasts from Uncrewed Aircraft (UA) via the Team Awareness Kit (TAK) ecosystem of products.",
-    "stars": "35",
-    "text": "snstac/dronecot",
-    "title": "snstac/dronecot",
-    "url": "https://github.com/snstac/dronecot"
    }
   },
   {
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-07-31T18:25:16Z",
+    "date": "2026-08-01T16:07:12Z",
     "description": "full port of Reticulum and LXMF to Rust with added SDK",
     "stars": "25",
     "text": "FreeTAKTeam/LXMF-rs",
