@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-07-31T20:08:45Z",
+ "fetched_at": "2026-08-01T08:36:35Z",
  "schema_version": 1,
  "records": [
   {
@@ -27,19 +27,6 @@
     "text": "UNITED STATES MILITARY ACADEMY Broad Agency Announcement",
     "title": "UNITED STATES MILITARY ACADEMY Broad Agency Announcement",
     "url": "https://www.grants.gov/search-results-detail/325932"
-   }
-  },
-  {
-   "key": "363011",
-   "source": "pipeline-autonomy",
-   "fields": {
-    "agency": "Department of Homeland Security - FEMA",
-    "closes": "07/31/2026",
-    "number": "DHS-26-NPD-005-00-98",
-    "posted": "07/01/2026",
-    "text": "Fiscal Year 2026 Homeland Security National Training Program National Domestic Preparedness Consortium",
-    "title": "Fiscal Year 2026 Homeland Security National Training Program National Domestic Preparedness Consortium",
-    "url": "https://www.grants.gov/search-results-detail/363011"
    }
   },
   {
@@ -115,19 +102,6 @@
     "text": "NFRP Outreach and Invitation for Response",
     "title": "NFRP Outreach and Invitation for Response",
     "url": "https://www.grants.gov/search-results-detail/327763"
-   }
-  },
-  {
-   "key": "363010",
-   "source": "pipeline-cyber",
-   "fields": {
-    "agency": "Department of Homeland Security - FEMA",
-    "closes": "07/31/2026",
-    "number": "DHS-26-NPD-148-00-97",
-    "posted": "07/01/2026",
-    "text": "National Cybersecurity Preparedness Consortium",
-    "title": "National Cybersecurity Preparedness Consortium",
-    "url": "https://www.grants.gov/search-results-detail/363010"
    }
   },
   {
@@ -519,16 +493,55 @@
    }
   },
   {
-   "key": "363018",
-   "source": "pipeline-logistics",
+   "key": "362252",
+   "source": "pipeline-grants",
    "fields": {
-    "agency": "Department of Homeland Security - FEMA",
-    "closes": "07/31/2026",
-    "number": "DHS-26-NPD-146-00-99",
-    "posted": "07/01/2026",
-    "text": "Alliance for System Safety of Unmanned Aircraft Systems through Research Excellence (ASSURE)",
-    "title": "Alliance for System Safety of Unmanned Aircraft Systems through Research Excellence (ASSURE)",
-    "url": "https://www.grants.gov/search-results-detail/363018"
+    "agency": "Defense Health Agency Contracting Activity - DHACA",
+    "closes": "10/21/2026",
+    "number": "HT942526MBRPTTDA",
+    "posted": "05/21/2026",
+    "text": "DoW Military Burn, Technology/Therapeutic Development Award",
+    "title": "DoW Military Burn, Technology/Therapeutic Development Award",
+    "url": "https://www.grants.gov/search-results-detail/362252"
+   }
+  },
+  {
+   "key": "362248",
+   "source": "pipeline-grants",
+   "fields": {
+    "agency": "Defense Health Agency Contracting Activity - DHACA",
+    "closes": "10/21/2026",
+    "number": "HT942526MBRPPCRA",
+    "posted": "05/21/2026",
+    "text": "DoW Military Burn, Patient-Centered Research Award",
+    "title": "DoW Military Burn, Patient-Centered Research Award",
+    "url": "https://www.grants.gov/search-results-detail/362248"
+   }
+  },
+  {
+   "key": "362337",
+   "source": "pipeline-grants",
+   "fields": {
+    "agency": "Defense Health Agency Contracting Activity - DHACA",
+    "closes": "08/06/2026",
+    "number": "HT942526PRMRPTTDA",
+    "posted": "05/08/2026",
+    "text": "DoW Peer Reviewed Medical, Technology/Therapeutic Development Award",
+    "title": "DoW Peer Reviewed Medical, Technology/Therapeutic Development Award",
+    "url": "https://www.grants.gov/search-results-detail/362337"
+   }
+  },
+  {
+   "key": "362326",
+   "source": "pipeline-grants",
+   "fields": {
+    "agency": "Defense Health Agency Contracting Activity - DHACA",
+    "closes": "08/06/2026",
+    "number": "HT942526PRMRPIPA",
+    "posted": "05/08/2026",
+    "text": "DoW Peer Reviewed Medical, Impact Award",
+    "title": "DoW Peer Reviewed Medical, Impact Award",
+    "url": "https://www.grants.gov/search-results-detail/362326"
    }
   },
   {
@@ -774,20 +787,6 @@
    }
   },
   {
-   "key": "9c5ce42f40c34d4e8a608d0454e49981",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AF INSTALLATION \u0026 MISSION SUPPORT CENTER.FA8051  772 ESS PKD",
-    "closes": "2026-07-31T17:00:00-05:00",
-    "number": "FA805126S4006",
-    "posted": "2026-07-22",
-    "text": "Small Unmanned Aircraft System (sUAS) Light Detection and Ranging (LiDAR) System",
-    "title": "Small Unmanned Aircraft System (sUAS) Light Detection and Ranging (LiDAR) System",
-    "type": "Sources Sought",
-    "url": "https://sam.gov/workspace/contract/opp/9c5ce42f40c34d4e8a608d0454e49981/view"
-   }
-  },
-  {
    "key": "8268da7209564560804b3e65345d2a98",
    "source": "pipeline-sam-unmanned",
    "fields": {
@@ -799,20 +798,6 @@
     "title": "INDUSTRY DAY FOR GROUP 1 AND GROUP 2 UNMANNED AIRCRAFT SYSTEM (UAS) TRAINING, MISSION PLANNING, MISSION REHEARSAL, SIMULATION, AND QUALIFICATION MANAGEMENT SYSTEMS",
     "type": "Special Notice",
     "url": "https://sam.gov/workspace/contract/opp/8268da7209564560804b3e65345d2a98/view"
-   }
-  },
-  {
-   "key": "5f9e735fd3474c49a987a0380ddaba1c",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.WEAPONS.FA8520  AFLCMC EBUK",
-    "closes": "2026-07-31T17:00:00-04:00",
-    "number": "FA852026MPHC",
-    "posted": "2026-07-16",
-    "text": "Man-portable, Handheld, Counter-Unmanned System (MPHC)",
-    "title": "Man-portable, Handheld, Counter-Unmanned System (MPHC)",
-    "type": "Sources Sought",
-    "url": "https://sam.gov/workspace/contract/opp/5f9e735fd3474c49a987a0380ddaba1c/view"
    }
   },
   {
@@ -857,20 +842,6 @@
    }
   },
   {
-   "key": "cb5d64eee89d40f48a3fab599f16d290",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-APG.W6QK ACC-APG DURHAM",
-    "closes": "2026-07-31T11:59:00-05:00",
-    "number": "Unmanned_Ground_Recovery_AAL",
-    "posted": "2026-06-17",
-    "text": "RFI: Unmanned Ground Recovery",
-    "title": "RFI: Unmanned Ground Recovery",
-    "type": "Sources Sought",
-    "url": "https://sam.gov/workspace/contract/opp/cb5d64eee89d40f48a3fab599f16d290/view"
-   }
-  },
-  {
    "key": "2b32fcbd97224f68bbd4d2649bf6c28f",
    "source": "pipeline-sam-unmanned",
    "fields": {
@@ -886,32 +857,6 @@
    }
   },
   {
-   "key": "362992",
-   "source": "pipeline-unmanned",
-   "fields": {
-    "agency": "Department of Homeland Security - FEMA",
-    "closes": "07/31/2026",
-    "number": "DHS-26-USFA-043-09-00-99",
-    "posted": "07/01/2026",
-    "text": "Fiscal Year 2026 State Fire Training Systems Grants",
-    "title": "Fiscal Year 2026 State Fire Training Systems Grants",
-    "url": "https://www.grants.gov/search-results-detail/362992"
-   }
-  },
-  {
-   "key": "363021",
-   "source": "pipeline-unmanned",
-   "fields": {
-    "agency": "Department of Homeland Security - FEMA",
-    "closes": "07/31/2026",
-    "number": "DHS-26-NPD-005-00-96",
-    "posted": "07/01/2026",
-    "text": "Fiscal Year 2026 Homeland Security National Training Program",
-    "title": "Fiscal Year 2026 Homeland Security National Training Program",
-    "url": "https://www.grants.gov/search-results-detail/363021"
-   }
-  },
-  {
    "key": "363188",
    "source": "pipeline-unmanned",
    "fields": {
@@ -922,6 +867,32 @@
     "text": "Fiscal Year 2026 National Incident Management System (NIMS)",
     "title": "Fiscal Year 2026 National Incident Management System (NIMS)",
     "url": "https://www.grants.gov/search-results-detail/363188"
+   }
+  },
+  {
+   "key": "354620",
+   "source": "pipeline-unmanned",
+   "fields": {
+    "agency": "Department of Homeland Security - FEMA",
+    "closes": "12/30/2026",
+    "number": "DHS-24-MT-144-000-99",
+    "posted": "05/30/2024",
+    "text": "Fiscal Year 2024 Flood Mitigation Assistance Swift Current",
+    "title": "Fiscal Year 2024 Flood Mitigation Assistance Swift Current",
+    "url": "https://www.grants.gov/search-results-detail/354620"
+   }
+  },
+  {
+   "key": "358015",
+   "source": "pipeline-unmanned",
+   "fields": {
+    "agency": "Department of Homeland Security - FEMA",
+    "closes": "08/06/2026",
+    "number": "DHS-24-MT-029-000-98",
+    "posted": "01/06/2025",
+    "text": "Fiscal Year 2024 Flood Mitigation Assistance",
+    "title": "Fiscal Year 2024 Flood Mitigation Assistance",
+    "url": "https://www.grants.gov/search-results-detail/358015"
    }
   }
  ]

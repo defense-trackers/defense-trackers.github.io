@@ -1,14 +1,26 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-07-31T20:09:07Z",
+ "fetched_at": "2026-08-01T08:36:55Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "snstac/pytak",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-08-01T07:47:25Z",
+    "description": "PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.",
+    "stars": "248",
+    "text": "snstac/pytak",
+    "title": "snstac/pytak",
+    "url": "https://github.com/snstac/pytak"
+   }
+  },
   {
    "key": "felixross66/claude-ai-coding-kit-2026",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-07-31T17:15:37Z",
+    "date": "2026-08-01T05:39:35Z",
     "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation in a 2026 plugin suite.",
     "stars": "2",
     "text": "felixross66/claude-ai-coding-kit-2026",
@@ -38,18 +50,6 @@
     "text": "takwerx/infra-TAK",
     "title": "takwerx/infra-TAK",
     "url": "https://github.com/takwerx/infra-TAK"
-   }
-  },
-  {
-   "key": "snstac/pytak",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-07-30T19:14:02Z",
-    "description": "PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.",
-    "stars": "248",
-    "text": "snstac/pytak",
-    "title": "snstac/pytak",
-    "url": "https://github.com/snstac/pytak"
    }
   },
   {
@@ -346,7 +346,7 @@
    "fields": {
     "date": "2024-10-29T11:52:00Z",
     "description": "Situational Awareness Server compatible with TAK clients",
-    "stars": "937",
+    "stars": "938",
     "text": "FreeTAKTeam/FreeTakServer",
     "title": "FreeTAKTeam/FreeTakServer",
     "url": "https://github.com/FreeTAKTeam/FreeTakServer"
@@ -754,6 +754,17 @@
    }
   },
   {
+   "key": "jpat-12/TAKPortal-Plugin-HostedATAKPlugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-08-01T05:19:47Z",
+    "stars": "0",
+    "text": "jpat-12/TAKPortal-Plugin-HostedATAKPlugins",
+    "title": "jpat-12/TAKPortal-Plugin-HostedATAKPlugins",
+    "url": "https://github.com/jpat-12/TAKPortal-Plugin-HostedATAKPlugins"
+   }
+  },
+  {
    "key": "clptak/cloudtak-plugin-search-containment",
    "source": "tak-github",
    "fields": {
@@ -960,7 +971,7 @@
    "fields": {
     "date": "2026-07-02T00:56:07Z",
     "description": "ATAK MeshCore plugin",
-    "stars": "27",
+    "stars": "28",
     "text": "atakmaps/TAK-MESHCORE",
     "title": "atakmaps/TAK-MESHCORE",
     "url": "https://github.com/atakmaps/TAK-MESHCORE"
@@ -1055,7 +1066,7 @@
    "fields": {
     "date": "2026-06-04T21:30:53Z",
     "description": "ATAK Plugin for sending CoT to IMeshService",
-    "stars": "508",
+    "stars": "510",
     "text": "meshtastic/ATAK-Plugin",
     "title": "meshtastic/ATAK-Plugin",
     "url": "https://github.com/meshtastic/ATAK-Plugin"

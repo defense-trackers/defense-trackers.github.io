@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-07-31T20:09:09Z",
+ "fetched_at": "2026-08-01T08:36:58Z",
  "schema_version": 1,
  "records": [
   {
@@ -509,6 +509,18 @@
    }
   },
   {
+   "key": "CONT_AWD_N6133122F3008_9700_N0017819D7246_9700",
+   "source": "transition-prototype",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "2.729563586e+07",
+    "description": "ENGINEERING AND TECHNICAL SUPPORT FOR THE TEST AND EVALUATION AND PROTOTYPE FABRICATION DIVISION",
+    "text": "BEVILACQUA RESEARCH CORPORATION",
+    "title": "BEVILACQUA RESEARCH CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_N6133122F3008_9700_N0017819D7246_9700/"
+   }
+  },
+  {
    "key": "CONT_AWD_FA807523F0012_9700_FA807518D0014_9700",
    "source": "transition-prototype",
    "fields": {
@@ -530,18 +542,6 @@
     "text": "MCLAUGHLIN RESEARCH CORPORATION",
     "title": "MCLAUGHLIN RESEARCH CORPORATION",
     "url": "https://www.usaspending.gov/award/CONT_AWD_N6660422F3009_9700_N0017819D8089_9700/"
-   }
-  },
-  {
-   "key": "CONT_AWD_N6133122F3008_9700_N0017819D7246_9700",
-   "source": "transition-prototype",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "2.371253586e+07",
-    "description": "ENGINEERING AND TECHNICAL SUPPORT FOR THE TEST AND EVALUATION AND PROTOTYPE FABRICATION DIVISION",
-    "text": "BEVILACQUA RESEARCH CORPORATION",
-    "title": "BEVILACQUA RESEARCH CORPORATION",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_N6133122F3008_9700_N0017819D7246_9700/"
    }
   },
   {
@@ -804,7 +804,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "1.274712207085e+10",
+    "amount": "1.274743707085e+10",
     "award_id": "N0002416C2116",
     "description": "CVN 80 ENGINEERING EFFORTS AND STEEL",
     "text": "HUNTINGTON INGALLS INC",
@@ -943,19 +943,6 @@
    }
   },
   {
-   "key": "CONT_AWD_0159_9700_DAAA0902D0007_9700",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "8.94936838858e+09",
-    "award_id": "0159",
-    "description": "FOLLOW ON TASK ORDER TO 139 IS NOW TASK ORDER 159",
-    "text": "KBR SERVICES, LLC",
-    "title": "KBR SERVICES, LLC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_0159_9700_DAAA0902D0007_9700/"
-   }
-  },
-  {
    "key": "CONT_AWD_FA861108C2897_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -1031,19 +1018,6 @@
     "text": "LOCKHEED MARTIN CORPORATION",
     "title": "LOCKHEED MARTIN CORPORATION",
     "url": "https://www.usaspending.gov/award/CONT_AWD_N0001921C0020_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_0139_9700_DAAA0902D0007_9700",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "7.86582575815e+09",
-    "award_id": "0139",
-    "description": "200612!001884!2100!W52P1J!U.S. ARMY INDUSTRIAL OPERATIONS !DAAA0902D0007  !A!N! !Y!0139         !      !20060822!20120131!133469119!133469119!964409007!N!KELLOGG BROWN\u0026ROOT SERVICES,!4100 CLINTON DRY          !HOUSTON             !TX!77020!00000!   !IZ!                    !                      !IRAQ      !+000400000000!N!N!000000000000!R706!LOGISTICS SUPPORT SERVICES                        !S1 !SERVICES                            !000 !NOT DISCERNABLE               !561210!E! !5!B!S! ! ! !99990909!B! ! !A! !A!U!R!2!003!B!  !Z!N!Z! !  !N!M!N! ! ! ! ! !A!A!000!A!B!N! ! ! ! !    !      !0001! !",
-    "text": "KBR SERVICES, LLC",
-    "title": "KBR SERVICES, LLC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_0139_9700_DAAA0902D0007_9700/"
    }
   },
   {
@@ -1206,7 +1180,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "6.89103157074e+09",
+    "amount": "6.94403157074e+09",
     "award_id": "N0002418C2307",
     "description": "FY18-FY22 DDG 51 CLASS SHIP CONSTRUCTION",
     "text": "HUNTINGTON INGALLS INCORPORATED",
@@ -1251,6 +1225,31 @@
     "text": "THE BOEING COMPANY",
     "title": "THE BOEING COMPANY",
     "url": "https://www.usaspending.gov/award/CONT_AWD_HQ014712C0004_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_W56HZV15C0095_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "6.1042088709e+09",
+    "award_id": "W56HZV15C0095",
+    "description": "THE CONTRACT INCLUDES FIRM FIXED PRICE (FFP) CONTACT LINE ITEM NUMBERS (CLIN) FOR VEHICLES, TRAILERS, KITS (PACKAGED AND INSTALLED), TEST HARDWARE AND SUPPORT, VEHICLE REFURBISHMENT, SYSTEMS ENGINEERING/ PROGRAM MANAGEMENT (SEPM), STORAGE AND MAINTENANCE OF VEHICLES, VEHICLE REFURBISHMENT, INTEGRATED PRODUCT SUPPORT (IPS), AND A TECHNICAL DATA PACKAGE (TDP).  THE CONTRACT ALSO INCLUDES COST PLUS FIXED FEE (CPFF) CLINS FOR SYSTEM TECHNICAL SUPPORT (STS), TOTAL PACKAGE FIELDING (TPF), AND INTERIM CONTRACTOR SUPPORT (ICS).  THE CONTRACT CONTAINS PROVISIONS FOR AN ECONOMIC PRICE ADJUSTMENT (EPA) FOR MATERIAL FLUCTUATIONS FOR THE VEHICLES PROCURED IN OPTION PERIODS SIX, SEVEN, AND EIGHT.",
+    "text": "OSHKOSH DEFENSE LLC",
+    "title": "OSHKOSH DEFENSE LLC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W56HZV15C0095_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_N0001906C0081_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "6.10328553196e+09",
+    "award_id": "N0001906C0081",
+    "text": "SIKORSKY AIRCRAFT CORPORATION",
+    "title": "SIKORSKY AIRCRAFT CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_N0001906C0081_9700_-NONE-_-NONE-/"
    }
   }
  ]
