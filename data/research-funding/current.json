@@ -1,21 +1,49 @@
 {
  "source": "research-funding",
  "tracker": "research-funding",
- "fetched_at": "2026-08-01T19:54:02Z",
+ "fetched_at": "2026-08-02T08:39:41Z",
  "schema_version": 1,
  "records": [
   {
-   "key": "2550265",
+   "key": "2616258",
    "source": "research-nsf",
    "fields": {
     "agency": "NSF",
-    "amount": "520028",
-    "awardee": "Johns Hopkins University",
+    "amount": "800013",
+    "awardee": "North Carolina State University",
     "date": "10/01/2026",
-    "program": "OE Operations Engineering",
-    "text": "The Interplay of Discrete Optimization and Machine Learning",
-    "title": "The Interplay of Discrete Optimization and Machine Learning",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2550265"
+    "program": "AI and Geosciences",
+    "text": "Collaborative Research: CAIG: Physics-Informed Deep Learning for Understanding Coastal Hypoxia Formation Mechanisms",
+    "title": "Collaborative Research: CAIG: Physics-Informed Deep Learning for Understanding Coastal Hypoxia Formation Mechanisms",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2616258"
+   }
+  },
+  {
+   "key": "2609643",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "249999",
+    "awardee": "Arizona State University",
+    "date": "10/01/2026",
+    "program": "MSI-Manufacturing Systms Integ",
+    "text": "Collaborative Research: Generative AI for Autonomous Composition of Resilient and Explainable Service-Oriented Supply Chains",
+    "title": "Collaborative Research: Generative AI for Autonomous Composition of Resilient and Explainable Service-Oriented Supply Chains",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2609643"
+   }
+  },
+  {
+   "key": "2539636",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "300000",
+    "awardee": "University of Florida",
+    "date": "10/01/2026",
+    "program": "IUSE",
+    "text": "Collaborative Research: An Artificial Intelligence-based Interactive Learning Support System for Improving Plan Interpretation Skills of Construction and Engineering Students",
+    "title": "Collaborative Research: An Artificial Intelligence-based Interactive Learning Support System for Improving Plan Interpretation Skills of Construction and Engineering Students",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2539636"
    }
   }
  ]

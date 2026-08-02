@@ -1,26 +1,26 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-08-01T19:54:11Z",
+ "fetched_at": "2026-08-02T08:39:51Z",
  "schema_version": 1,
  "records": [
   {
-   "key": "felixross66/claude-ai-coding-kit-2026",
+   "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-08-01T18:02:02Z",
-    "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation in a 2026 plugin suite.",
-    "stars": "2",
-    "text": "felixross66/claude-ai-coding-kit-2026",
-    "title": "felixross66/claude-ai-coding-kit-2026",
-    "url": "https://github.com/felixross66/claude-ai-coding-kit-2026"
+    "date": "2026-08-02T07:57:22Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "54",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
    "key": "snstac/dronecot",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-08-01T17:18:36Z",
+    "date": "2026-08-02T05:53:28Z",
     "description": "DroneCOT is software for monitoring and analyzing Direct Remote Identification (DRI), Remote ID (RID) or Open Drone ID (ODID) broadcasts from Uncrewed Aircraft (UA) via the Team Awareness Kit (TAK) ecosystem of products.",
     "stars": "35",
     "text": "snstac/dronecot",
@@ -32,12 +32,24 @@
    "key": "snstac/pytak",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-08-01T18:39:58Z",
+    "date": "2026-08-02T03:50:53Z",
     "description": "PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.",
     "stars": "248",
     "text": "snstac/pytak",
     "title": "snstac/pytak",
     "url": "https://github.com/snstac/pytak"
+   }
+  },
+  {
+   "key": "felixross66/claude-ai-coding-kit-2026",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-08-02T01:28:47Z",
+    "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation in a 2026 plugin suite.",
+    "stars": "2",
+    "text": "felixross66/claude-ai-coding-kit-2026",
+    "title": "felixross66/claude-ai-coding-kit-2026",
+    "url": "https://github.com/felixross66/claude-ai-coding-kit-2026"
    }
   },
   {
@@ -50,18 +62,6 @@
     "text": "Audrey-cn/universal-agent-embedding-kit",
     "title": "Audrey-cn/universal-agent-embedding-kit",
     "url": "https://github.com/Audrey-cn/universal-agent-embedding-kit"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-08-01T17:53:35Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "54",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -202,7 +202,7 @@
    "fields": {
     "date": "2026-03-26T22:29:34Z",
     "description": "RTAK V2 brings the decentralized versatility of the Reticulum Network Stack to the Android Team Awareness Kit by serving as a bridge between it and RNS' secure heterogenous mesh networking stack.",
-    "stars": "5",
+    "stars": "6",
     "text": "C2A2-at-Florida-Atlantic-University/RTAK-V2",
     "title": "C2A2-at-Florida-Atlantic-University/RTAK-V2",
     "url": "https://github.com/C2A2-at-Florida-Atlantic-University/RTAK-V2"
@@ -346,7 +346,7 @@
    "fields": {
     "date": "2024-10-29T11:52:00Z",
     "description": "Situational Awareness Server compatible with TAK clients",
-    "stars": "938",
+    "stars": "939",
     "text": "FreeTAKTeam/FreeTakServer",
     "title": "FreeTAKTeam/FreeTakServer",
     "url": "https://github.com/FreeTAKTeam/FreeTakServer"
@@ -370,7 +370,7 @@
    "fields": {
     "date": "2025-09-22T00:48:17Z",
     "description": "FreeTAKServer documentation for end users",
-    "stars": "75",
+    "stars": "76",
     "text": "FreeTAKTeam/FreeTAKServer-User-Docs",
     "title": "FreeTAKTeam/FreeTAKServer-User-Docs",
     "url": "https://github.com/FreeTAKTeam/FreeTAKServer-User-Docs"
@@ -653,7 +653,7 @@
    "source": "tak-freetak",
    "fields": {
     "date": "2024-10-18T15:00:36Z",
-    "stars": "0",
+    "stars": "1",
     "text": "FreeTAKTeam/AndroidTacticalAssaultKit-CIV",
     "title": "FreeTAKTeam/AndroidTacticalAssaultKit-CIV",
     "url": "https://github.com/FreeTAKTeam/AndroidTacticalAssaultKit-CIV"
@@ -665,7 +665,7 @@
    "fields": {
     "date": "2025-02-02T20:34:54Z",
     "description": "integration between FreeTAKServer and Meshtastic using MQTT and Node red ",
-    "stars": "12",
+    "stars": "13",
     "text": "FreeTAKTeam/FreeTAKHub_meshtastic",
     "title": "FreeTAKTeam/FreeTAKHub_meshtastic",
     "url": "https://github.com/FreeTAKTeam/FreeTAKHub_meshtastic"
@@ -712,7 +712,7 @@
    "source": "tak-freetak",
    "fields": {
     "date": "2026-02-15T15:33:46Z",
-    "stars": "15",
+    "stars": "16",
     "text": "FreeTAKTeam/Reticulum_Meshtastic_Integration",
     "title": "FreeTAKTeam/Reticulum_Meshtastic_Integration",
     "url": "https://github.com/FreeTAKTeam/Reticulum_Meshtastic_Integration"
@@ -736,7 +736,7 @@
    "fields": {
     "date": "2026-07-27T12:19:58Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
-    "stars": "23",
+    "stars": "24",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
     "title": "FreeTAKTeam/reticulum_mobile_emergency_management",
     "url": "https://github.com/FreeTAKTeam/reticulum_mobile_emergency_management"
@@ -762,6 +762,18 @@
     "text": "jpat-12/TAKPortal-Plugin-HostedATAKPlugins",
     "title": "jpat-12/TAKPortal-Plugin-HostedATAKPlugins",
     "url": "https://github.com/jpat-12/TAKPortal-Plugin-HostedATAKPlugins"
+   }
+  },
+  {
+   "key": "TX-RX/TAK-XVoice",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-07-31T04:37:55Z",
+    "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
+    "stars": "4",
+    "text": "TX-RX/TAK-XVoice",
+    "title": "TX-RX/TAK-XVoice",
+    "url": "https://github.com/TX-RX/TAK-XVoice"
    }
   },
   {
@@ -805,7 +817,7 @@
    "fields": {
     "date": "2026-07-29T21:43:40Z",
     "description": "AIS and ADS-B plugin for ATAK",
-    "stars": "30",
+    "stars": "31",
     "text": "VCWG/Air-Sea",
     "title": "VCWG/Air-Sea",
     "url": "https://github.com/VCWG/Air-Sea"
@@ -868,18 +880,6 @@
     "text": "AkitaEngineering/Akita-MeshTAK",
     "title": "AkitaEngineering/Akita-MeshTAK",
     "url": "https://github.com/AkitaEngineering/Akita-MeshTAK"
-   }
-  },
-  {
-   "key": "TX-RX/TAK-XVoice",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-07-31T04:37:55Z",
-    "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
-    "stars": "3",
-    "text": "TX-RX/TAK-XVoice",
-    "title": "TX-RX/TAK-XVoice",
-    "url": "https://github.com/TX-RX/TAK-XVoice"
    }
   },
   {
