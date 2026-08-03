@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-08-02T19:52:51Z",
+ "fetched_at": "2026-08-03T10:08:53Z",
  "schema_version": 1,
  "records": [
   {
@@ -532,6 +532,32 @@
    }
   },
   {
+   "key": "362326",
+   "source": "pipeline-grants",
+   "fields": {
+    "agency": "Defense Health Agency Contracting Activity - DHACA",
+    "closes": "08/06/2026",
+    "number": "HT942526PRMRPIPA",
+    "posted": "05/08/2026",
+    "text": "DoW Peer Reviewed Medical, Impact Award",
+    "title": "DoW Peer Reviewed Medical, Impact Award",
+    "url": "https://www.grants.gov/search-results-detail/362326"
+   }
+  },
+  {
+   "key": "362327",
+   "source": "pipeline-grants",
+   "fields": {
+    "agency": "Defense Health Agency Contracting Activity - DHACA",
+    "closes": "08/06/2026",
+    "number": "HT942526PRMRPLAHRA",
+    "posted": "05/08/2026",
+    "text": "DoW Peer Reviewed Medical, Lifestyle and Applied Health Research Award",
+    "title": "DoW Peer Reviewed Medical, Lifestyle and Applied Health Research Award",
+    "url": "https://www.grants.gov/search-results-detail/362327"
+   }
+  },
+  {
    "key": "347858",
    "source": "pipeline-logistics",
    "fields": {
@@ -756,21 +782,6 @@
     "title": "Improved Maintenance, Sustainment, and Training for Unmanned Surface Vessels (USVs)",
     "type": "Special Notice",
     "url": "https://sam.gov/workspace/contract/opp/ccb1df3f18604375b96e7a61d3065913/view"
-   }
-  },
-  {
-   "key": "40ae192c5496403a8134d8a3d0e5227e",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE GLOBAL STRIKE COMMAND.FA4661  7 CONS CD",
-    "closes": "2026-08-02T14:10:00-05:00",
-    "number": "FA466125Q0076",
-    "posted": "2026-07-23",
-    "setaside": "Small Business Set Aside - Total",
-    "text": "Quadrupedal Unmanned Ground Vehicle",
-    "title": "Quadrupedal Unmanned Ground Vehicle",
-    "type": "Presolicitation",
-    "url": "https://sam.gov/workspace/contract/opp/40ae192c5496403a8134d8a3d0e5227e/view"
    }
   },
   {

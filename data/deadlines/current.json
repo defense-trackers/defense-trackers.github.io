@@ -1,7 +1,7 @@
 {
  "source": "deadlines",
  "tracker": "deadlines",
- "fetched_at": "2026-08-02T19:53:13Z",
+ "fetched_at": "2026-08-03T10:09:14Z",
  "schema_version": 1,
  "records": [
   {
@@ -525,6 +525,32 @@
    }
   },
   {
+   "key": "close-362326",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "Defense Health Agency Contracting Activity - DHACA",
+    "closes": "2026-08-06",
+    "date": "2026-08-06",
+    "from": "pipeline",
+    "text": "DoW Peer Reviewed Medical, Impact Award",
+    "title": "DoW Peer Reviewed Medical, Impact Award",
+    "url": "https://www.grants.gov/search-results-detail/362326"
+   }
+  },
+  {
+   "key": "close-362327",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "Defense Health Agency Contracting Activity - DHACA",
+    "closes": "2026-08-06",
+    "date": "2026-08-06",
+    "from": "pipeline",
+    "text": "DoW Peer Reviewed Medical, Lifestyle and Applied Health Research Award",
+    "title": "DoW Peer Reviewed Medical, Lifestyle and Applied Health Research Award",
+    "url": "https://www.grants.gov/search-results-detail/362327"
+   }
+  },
+  {
    "key": "close-347858",
    "source": "deadlines-solicitations",
    "fields": {
@@ -691,19 +717,6 @@
     "text": "Improved Maintenance, Sustainment, and Training for Unmanned Surface Vessels (USVs)",
     "title": "Improved Maintenance, Sustainment, and Training for Unmanned Surface Vessels (USVs)",
     "url": "https://sam.gov/workspace/contract/opp/ccb1df3f18604375b96e7a61d3065913/view"
-   }
-  },
-  {
-   "key": "close-40ae192c5496403a8134d8a3d0e5227e",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE GLOBAL STRIKE COMMAND.FA4661  7 CONS CD",
-    "closes": "2026-08-02",
-    "date": "2026-08-02",
-    "from": "pipeline",
-    "text": "Quadrupedal Unmanned Ground Vehicle",
-    "title": "Quadrupedal Unmanned Ground Vehicle",
-    "url": "https://sam.gov/workspace/contract/opp/40ae192c5496403a8134d8a3d0e5227e/view"
    }
   },
   {

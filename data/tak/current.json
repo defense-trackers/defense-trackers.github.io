@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-08-02T19:53:11Z",
+ "fetched_at": "2026-08-03T10:09:12Z",
  "schema_version": 1,
  "records": [
   {
    "key": "felixross66/claude-ai-coding-kit-2026",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-08-02T17:55:22Z",
+    "date": "2026-08-03T07:52:25Z",
     "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation in a 2026 plugin suite.",
     "stars": "2",
     "text": "felixross66/claude-ai-coding-kit-2026",
@@ -20,7 +20,7 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-08-02T07:57:22Z",
+    "date": "2026-08-03T05:26:14Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "54",
     "text": "takwerx/infra-TAK",
@@ -202,7 +202,7 @@
    "fields": {
     "date": "2026-03-26T22:29:34Z",
     "description": "RTAK V2 brings the decentralized versatility of the Reticulum Network Stack to the Android Team Awareness Kit by serving as a bridge between it and RNS' secure heterogenous mesh networking stack.",
-    "stars": "6",
+    "stars": "7",
     "text": "C2A2-at-Florida-Atlantic-University/RTAK-V2",
     "title": "C2A2-at-Florida-Atlantic-University/RTAK-V2",
     "url": "https://github.com/C2A2-at-Florida-Atlantic-University/RTAK-V2"
@@ -346,7 +346,7 @@
    "fields": {
     "date": "2024-10-29T11:52:00Z",
     "description": "Situational Awareness Server compatible with TAK clients",
-    "stars": "939",
+    "stars": "940",
     "text": "FreeTAKTeam/FreeTakServer",
     "title": "FreeTAKTeam/FreeTakServer",
     "url": "https://github.com/FreeTAKTeam/FreeTakServer"
@@ -616,7 +616,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-08-02T15:53:51Z",
+    "date": "2026-08-02T21:11:10Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "92",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -754,6 +754,18 @@
    }
   },
   {
+   "key": "Moicanox/TAK-Server-Provisioner",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-08-02T23:18:02Z",
+    "description": "ATAK-CIV plugin for importing TAK Server certificates and configuration from password-protected provisioning ZIP packages.",
+    "stars": "0",
+    "text": "Moicanox/TAK-Server-Provisioner",
+    "title": "Moicanox/TAK-Server-Provisioner",
+    "url": "https://github.com/Moicanox/TAK-Server-Provisioner"
+   }
+  },
+  {
    "key": "jpat-12/TAKPortal-Plugin-HostedATAKPlugins",
    "source": "tak-github",
    "fields": {
@@ -768,7 +780,7 @@
    "key": "TX-RX/TAK-XVoice",
    "source": "tak-github",
    "fields": {
-    "date": "2026-07-31T04:37:55Z",
+    "date": "2026-08-03T06:22:32Z",
     "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
     "stars": "4",
     "text": "TX-RX/TAK-XVoice",
@@ -797,18 +809,6 @@
     "text": "swim-fish/atak_tw_coord_plugin",
     "title": "swim-fish/atak_tw_coord_plugin",
     "url": "https://github.com/swim-fish/atak_tw_coord_plugin"
-   }
-  },
-  {
-   "key": "Moicanox/TAK-Server-Provisioner",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-07-30T11:11:10Z",
-    "description": "ATAK-CIV plugin for importing TAK Server certificates and configuration from password-protected provisioning ZIP packages.",
-    "stars": "0",
-    "text": "Moicanox/TAK-Server-Provisioner",
-    "title": "Moicanox/TAK-Server-Provisioner",
-    "url": "https://github.com/Moicanox/TAK-Server-Provisioner"
    }
   },
   {
@@ -874,7 +874,7 @@
    "key": "AkitaEngineering/Akita-MeshTAK",
    "source": "tak-github",
    "fields": {
-    "date": "2026-07-27T07:15:29Z",
+    "date": "2026-08-03T07:12:35Z",
     "description": "The Akita MeshTAK Plugin is a game-changing Android Tactical Assault Kit (ATAK) plugin meticulously crafted to bridge the gap between ATAK and Meshtastic, providing unparalleled communication capabilities in the most challenging and disconnected environments.",
     "stars": "12",
     "text": "AkitaEngineering/Akita-MeshTAK",
