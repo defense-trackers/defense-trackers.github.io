@@ -1,31 +1,31 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-08-03T10:09:12Z",
+ "fetched_at": "2026-08-03T20:19:13Z",
  "schema_version": 1,
  "records": [
-  {
-   "key": "felixross66/claude-ai-coding-kit-2026",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-08-03T07:52:25Z",
-    "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation in a 2026 plugin suite.",
-    "stars": "2",
-    "text": "felixross66/claude-ai-coding-kit-2026",
-    "title": "felixross66/claude-ai-coding-kit-2026",
-    "url": "https://github.com/felixross66/claude-ai-coding-kit-2026"
-   }
-  },
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-08-03T05:26:14Z",
+    "date": "2026-08-03T20:17:15Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "54",
     "text": "takwerx/infra-TAK",
     "title": "takwerx/infra-TAK",
     "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
+  {
+   "key": "felixross66/claude-ai-coding-kit-2026",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-08-03T14:47:52Z",
+    "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation in a 2026 plugin suite.",
+    "stars": "2",
+    "text": "felixross66/claude-ai-coding-kit-2026",
+    "title": "felixross66/claude-ai-coding-kit-2026",
+    "url": "https://github.com/felixross66/claude-ai-coding-kit-2026"
    }
   },
   {
@@ -618,7 +618,7 @@
    "fields": {
     "date": "2026-08-02T21:11:10Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
-    "stars": "92",
+    "stars": "93",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
     "title": "FreeTAKTeam/Reticulum-Community-Hub",
     "url": "https://github.com/FreeTAKTeam/Reticulum-Community-Hub"
@@ -754,6 +754,29 @@
    }
   },
   {
+   "key": "gridbasedotnet/meshcore-TAK",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-08-03T18:08:31Z",
+    "description": "ATAK plugin for MeshCore LoRa mesh radios — off-grid position, chat and CoT with no TAK server, no cell service, and no amateur licence. GPL-3.0, with a normative wire spec and golden test vectors.",
+    "stars": "0",
+    "text": "gridbasedotnet/meshcore-TAK",
+    "title": "gridbasedotnet/meshcore-TAK",
+    "url": "https://github.com/gridbasedotnet/meshcore-TAK"
+   }
+  },
+  {
+   "key": "swim-fish/atak_tw_coord_plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-08-03T14:23:00Z",
+    "stars": "3",
+    "text": "swim-fish/atak_tw_coord_plugin",
+    "title": "swim-fish/atak_tw_coord_plugin",
+    "url": "https://github.com/swim-fish/atak_tw_coord_plugin"
+   }
+  },
+  {
    "key": "Moicanox/TAK-Server-Provisioner",
    "source": "tak-github",
    "fields": {
@@ -789,6 +812,18 @@
    }
   },
   {
+   "key": "vl354/odin_plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-07-30T20:15:17Z",
+    "description": "TAK plugin that links Meta AI glasses to ATAK",
+    "stars": "0",
+    "text": "vl354/odin_plugin",
+    "title": "vl354/odin_plugin",
+    "url": "https://github.com/vl354/odin_plugin"
+   }
+  },
+  {
    "key": "clptak/cloudtak-plugin-search-containment",
    "source": "tak-github",
    "fields": {
@@ -798,17 +833,6 @@
     "text": "clptak/cloudtak-plugin-search-containment",
     "title": "clptak/cloudtak-plugin-search-containment",
     "url": "https://github.com/clptak/cloudtak-plugin-search-containment"
-   }
-  },
-  {
-   "key": "swim-fish/atak_tw_coord_plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-07-30T23:45:12Z",
-    "stars": "3",
-    "text": "swim-fish/atak_tw_coord_plugin",
-    "title": "swim-fish/atak_tw_coord_plugin",
-    "url": "https://github.com/swim-fish/atak_tw_coord_plugin"
    }
   },
   {
@@ -971,7 +995,7 @@
    "fields": {
     "date": "2026-07-02T00:56:07Z",
     "description": "ATAK MeshCore plugin",
-    "stars": "28",
+    "stars": "29",
     "text": "atakmaps/TAK-MESHCORE",
     "title": "atakmaps/TAK-MESHCORE",
     "url": "https://github.com/atakmaps/TAK-MESHCORE"
@@ -1066,33 +1090,10 @@
    "fields": {
     "date": "2026-06-04T21:30:53Z",
     "description": "ATAK Plugin for sending CoT to IMeshService",
-    "stars": "510",
+    "stars": "511",
     "text": "meshtastic/ATAK-Plugin",
     "title": "meshtastic/ATAK-Plugin",
     "url": "https://github.com/meshtastic/ATAK-Plugin"
-   }
-  },
-  {
-   "key": "jjames31/Kaonic-ATAK-Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-06-04T15:40:47Z",
-    "stars": "1",
-    "text": "jjames31/Kaonic-ATAK-Plugin",
-    "title": "jjames31/Kaonic-ATAK-Plugin",
-    "url": "https://github.com/jjames31/Kaonic-ATAK-Plugin"
-   }
-  },
-  {
-   "key": "GUMMIIII/takserver_ota",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-05-24T19:53:16Z",
-    "description": "Generate product.inf + product.infz from ATAK plugin APKs for civTAK OTA updates. Companion to TAKSERVER_MDM.",
-    "stars": "11",
-    "text": "GUMMIIII/takserver_ota",
-    "title": "GUMMIIII/takserver_ota",
-    "url": "https://github.com/GUMMIIII/takserver_ota"
    }
   },
   {

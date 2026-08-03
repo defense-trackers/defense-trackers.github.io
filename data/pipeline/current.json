@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-08-03T10:08:53Z",
+ "fetched_at": "2026-08-03T20:18:53Z",
  "schema_version": 1,
  "records": [
   {
@@ -545,19 +545,6 @@
    }
   },
   {
-   "key": "362327",
-   "source": "pipeline-grants",
-   "fields": {
-    "agency": "Defense Health Agency Contracting Activity - DHACA",
-    "closes": "08/06/2026",
-    "number": "HT942526PRMRPLAHRA",
-    "posted": "05/08/2026",
-    "text": "DoW Peer Reviewed Medical, Lifestyle and Applied Health Research Award",
-    "title": "DoW Peer Reviewed Medical, Lifestyle and Applied Health Research Award",
-    "url": "https://www.grants.gov/search-results-detail/362327"
-   }
-  },
-  {
    "key": "347858",
    "source": "pipeline-logistics",
    "fields": {
@@ -600,7 +587,7 @@
    "source": "pipeline-logistics",
    "fields": {
     "agency": "Department of Homeland Security - FEMA",
-    "closes": "08/03/2026",
+    "closes": "09/17/2026",
     "number": "DHS-26-GPD-159-00-99",
     "posted": "06/03/2026",
     "text": "State Border Security Reinforcement Fund",
@@ -725,6 +712,21 @@
     "title": "Other Transaction Authority (OTA) Consortium Request for Proposals (RFP) Seabed-Subsea, Littoral, Asymmetric-Autonomous, Mining and Mine Hunting, Expeditionary, Robotic (SLAM2ER) Consortium",
     "type": "Solicitation",
     "url": "https://sam.gov/workspace/contract/opp/4232971a8f3448f79d3691dd3a264adb/view"
+   }
+  },
+  {
+   "key": "a92306f6d3aa4ab8abfa3152c12eb566",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.USMC.MARCOR SYSCOM.COMMANDER",
+    "closes": "2026-08-18T15:00:00-04:00",
+    "number": "M67854-26-I-0225",
+    "posted": "2026-08-03",
+    "setaside": "No Set aside used",
+    "text": "Notice of Intent to Sole Source and Sources Sought: Counter-small Unmanned Aerial Systems (C-sUAS) for the Amphibious Combat Vehicle (ACV)",
+    "title": "Notice of Intent to Sole Source and Sources Sought: Counter-small Unmanned Aerial Systems (C-sUAS) for the Amphibious Combat Vehicle (ACV)",
+    "type": "Combined Synopsis/Solicitation",
+    "url": "https://sam.gov/workspace/contract/opp/a92306f6d3aa4ab8abfa3152c12eb566/view"
    }
   },
   {

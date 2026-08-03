@@ -1,7 +1,7 @@
 {
  "source": "deadlines",
  "tracker": "deadlines",
- "fetched_at": "2026-08-03T10:09:14Z",
+ "fetched_at": "2026-08-03T20:19:16Z",
  "schema_version": 1,
  "records": [
   {
@@ -538,19 +538,6 @@
    }
   },
   {
-   "key": "close-362327",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "Defense Health Agency Contracting Activity - DHACA",
-    "closes": "2026-08-06",
-    "date": "2026-08-06",
-    "from": "pipeline",
-    "text": "DoW Peer Reviewed Medical, Lifestyle and Applied Health Research Award",
-    "title": "DoW Peer Reviewed Medical, Lifestyle and Applied Health Research Award",
-    "url": "https://www.grants.gov/search-results-detail/362327"
-   }
-  },
-  {
    "key": "close-347858",
    "source": "deadlines-solicitations",
    "fields": {
@@ -581,8 +568,8 @@
    "source": "deadlines-solicitations",
    "fields": {
     "agency": "Department of Homeland Security - FEMA",
-    "closes": "2026-08-03",
-    "date": "2026-08-03",
+    "closes": "2026-09-17",
+    "date": "2026-09-17",
     "from": "pipeline",
     "text": "State Border Security Reinforcement Fund",
     "title": "State Border Security Reinforcement Fund",
@@ -665,6 +652,19 @@
     "text": "Other Transaction Authority (OTA) Consortium Request for Proposals (RFP) Seabed-Subsea, Littoral, Asymmetric-Autonomous, Mining and Mine Hunting, Expeditionary, Robotic (SLAM2ER) Consortium",
     "title": "Other Transaction Authority (OTA) Consortium Request for Proposals (RFP) Seabed-Subsea, Littoral, Asymmetric-Autonomous, Mining and Mine Hunting, Expeditionary, Robotic (SLAM2ER) Consortium",
     "url": "https://sam.gov/workspace/contract/opp/4232971a8f3448f79d3691dd3a264adb/view"
+   }
+  },
+  {
+   "key": "close-a92306f6d3aa4ab8abfa3152c12eb566",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.USMC.MARCOR SYSCOM.COMMANDER",
+    "closes": "2026-08-18",
+    "date": "2026-08-18",
+    "from": "pipeline",
+    "text": "Notice of Intent to Sole Source and Sources Sought: Counter-small Unmanned Aerial Systems (C-sUAS) for the Amphibious Combat Vehicle (ACV)",
+    "title": "Notice of Intent to Sole Source and Sources Sought: Counter-small Unmanned Aerial Systems (C-sUAS) for the Amphibious Combat Vehicle (ACV)",
+    "url": "https://sam.gov/workspace/contract/opp/a92306f6d3aa4ab8abfa3152c12eb566/view"
    }
   },
   {

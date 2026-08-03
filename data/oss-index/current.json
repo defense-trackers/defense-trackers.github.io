@@ -1,7 +1,7 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-08-03T10:08:37Z",
+ "fetched_at": "2026-08-03T20:18:38Z",
  "schema_version": 1,
  "records": [
   {
@@ -272,9 +272,9 @@
    "key": "cisagov/cset",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-08-01T04:13:28Z",
+    "date": "2026-08-03T17:26:35Z",
     "description": "Cybersecurity Evaluation Tool",
-    "stars": "1872",
+    "stars": "1873",
     "text": "cisagov/cset",
     "title": "cisagov/cset",
     "url": "https://github.com/cisagov/cset"
@@ -416,7 +416,7 @@
    "key": "cisagov/kali-packer",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-07-10T14:32:30Z",
+    "date": "2026-08-03T17:06:35Z",
     "description": "This project can be used to create AMIs based on Kali Linux, a penetration testing distribution.",
     "stars": "21",
     "text": "cisagov/kali-packer",
@@ -560,7 +560,7 @@
    "key": "idaholab/moose",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-08-03T09:50:08Z",
+    "date": "2026-08-03T19:29:09Z",
     "description": "Multiphysics Object Oriented Simulation Environment",
     "stars": "2314",
     "text": "idaholab/moose",
@@ -620,7 +620,7 @@
    "key": "idaholab/isopod",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-08-02T08:15:25Z",
+    "date": "2026-08-03T11:17:42Z",
     "description": "isopod, a MOOSE based app for multiphysics PDE constrained optimization",
     "stars": "9",
     "text": "idaholab/isopod",
@@ -632,7 +632,7 @@
    "key": "idaholab/malamute",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-08-02T08:41:02Z",
+    "date": "2026-08-03T12:07:49Z",
     "description": "Advanced manufacturing modeling and simulation",
     "stars": "22",
     "text": "idaholab/malamute",
@@ -644,7 +644,7 @@
    "key": "idaholab/air",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-08-02T09:20:07Z",
+    "date": "2026-08-03T12:40:07Z",
     "stars": "0",
     "text": "idaholab/air",
     "title": "idaholab/air",
@@ -655,7 +655,7 @@
    "key": "idaholab/salamander",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-08-01T03:29:47Z",
+    "date": "2026-08-03T12:27:47Z",
     "description": "SALAMANDER is an application for performing system-level, engineering scale (i.e., at the scale of centimeters and meters), and microstructure-scale (i.e., at the scale of microns) multiphysics calculations related to magnetic confinement fusion energy systems.",
     "stars": "24",
     "text": "idaholab/salamander",
@@ -763,7 +763,7 @@
    "key": "llnl/conduit",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-08-01T05:35:26Z",
+    "date": "2026-08-03T20:01:37Z",
     "description": "Simplified Data Exchange for HPC Simulations",
     "stars": "247",
     "text": "llnl/conduit",
@@ -811,7 +811,7 @@
    "key": "llnl/RAJA",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-08-01T03:48:24Z",
+    "date": "2026-08-03T15:52:57Z",
     "description": "RAJA Performance Portability Layer (C++)",
     "stars": "590",
     "text": "llnl/RAJA",
@@ -836,7 +836,7 @@
    "fields": {
     "date": "2026-08-01T23:05:51Z",
     "description": "GridDyn is an open-source power transmission simulation software package",
-    "stars": "58",
+    "stars": "59",
     "text": "llnl/GridDyn",
     "title": "llnl/GridDyn",
     "url": "https://github.com/llnl/GridDyn"
@@ -860,7 +860,7 @@
    "fields": {
     "date": "2026-06-08T14:09:39Z",
     "description": "Cyber Threat Intelligence Repository expressed in STIX 2.0",
-    "stars": "2114",
+    "stars": "2115",
     "text": "mitre/cti",
     "title": "mitre/cti",
     "url": "https://github.com/mitre/cti"
@@ -990,7 +990,7 @@
    "key": "nasa/trick",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-07-31T23:02:56Z",
+    "date": "2026-08-03T16:07:15Z",
     "description": "Trick Simulation Environment.  Trick provides a common set of simulation capabilities and utilities to build simulations automatically.",
     "stars": "159",
     "text": "nasa/trick",
@@ -1014,7 +1014,7 @@
    "key": "nasa/earthdata-search",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-08-03T04:36:57Z",
+    "date": "2026-08-03T19:00:24Z",
     "description": "Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.",
     "stars": "822",
     "text": "nasa/earthdata-search",
@@ -1062,7 +1062,7 @@
    "key": "nasa/Common-Metadata-Repository",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-07-31T17:23:03Z",
+    "date": "2026-08-03T18:43:46Z",
     "description": "The Common Metadata Repository (CMR) is a high-performance, high-quality, continuously evolving metadata system that catalogs Earth Science data and associated service metadata records. These metadata records are registered, modified, discovered, and accessed through programmatic interfaces leveraging standard protocols and APIs.",
     "stars": "393",
     "text": "nasa/Common-Metadata-Repository",
@@ -1241,7 +1241,7 @@
    "key": "ORNL/HeCBench",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-07-31T16:21:55Z",
+    "date": "2026-08-03T14:01:37Z",
     "stars": "300",
     "text": "ORNL/HeCBench",
     "title": "ORNL/HeCBench",
@@ -1252,7 +1252,7 @@
    "key": "ORNL/HydraGNN",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-07-30T21:29:45Z",
+    "date": "2026-08-03T18:14:52Z",
     "description": "Distributed PyTorch implementation of multi-headed graph convolutional neural networks",
     "stars": "124",
     "text": "ORNL/HydraGNN",
@@ -1278,7 +1278,7 @@
    "fields": {
     "date": "2026-07-01T15:20:08Z",
     "description": "Peridynamics with the Cabana library",
-    "stars": "35",
+    "stars": "36",
     "text": "ORNL/CabanaPD",
     "title": "ORNL/CabanaPD",
     "url": "https://github.com/ORNL/CabanaPD"
@@ -1336,7 +1336,7 @@
    "key": "ORNL/GridKit",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-08-03T08:13:50Z",
+    "date": "2026-08-03T20:06:07Z",
     "description": "Modeling framework for power systems simulations and analysis.",
     "stars": "23",
     "text": "ORNL/GridKit",
