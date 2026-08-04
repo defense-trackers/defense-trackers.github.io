@@ -1,9 +1,19 @@
 {
  "source": "authorizations",
  "tracker": "authorizations",
- "fetched_at": "2026-08-03T20:17:33Z",
+ "fetched_at": "2026-08-04T09:10:51Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "FR2627547824",
+   "source": "authorizations-fedramp",
+   "fields": {
+    "date": "2026-08-03T20:00:00.000Z",
+    "status": "Now in PMO Review",
+    "text": "CrowdStrike Falcon Platform IL5 SaaS",
+    "title": "CrowdStrike Falcon Platform IL5 SaaS"
+   }
+  },
   {
    "key": "FR2620071868",
    "source": "authorizations-fedramp",
@@ -22,16 +32,6 @@
     "status": "Now Authorized",
     "text": "Atlas by LMI",
     "title": "Atlas by LMI"
-   }
-  },
-  {
-   "key": "FR2629158373",
-   "source": "authorizations-fedramp",
-   "fields": {
-    "date": "2026-07-29T20:00:00.000Z",
-    "status": "Now FedRAMP Ready",
-    "text": "Halcyon",
-    "title": "Halcyon"
    }
   },
   {
@@ -579,16 +579,16 @@
    }
   },
   {
-   "key": "FR2000863987A",
+   "key": "FR2000863987",
    "source": "authorizations-fedramp-ai",
    "fields": {
     "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "High",
+    "date": "2022-12-12T20:00:00.000Z",
+    "impact": "Moderate",
     "model": "SaaS",
-    "status": "FedRAMP In Process",
-    "text": "Cloudflare for Government - High",
-    "title": "Cloudflare for Government - High",
+    "status": "FedRAMP Authorized",
+    "text": "Cloudflare for Government",
+    "title": "Cloudflare for Government",
     "url": "https://www.cloudflare.com/cloudflare-for-government/"
    }
   },
@@ -733,15 +733,16 @@
    }
   },
   {
-   "key": "FR2627547824",
+   "key": "FR1807853629A",
    "source": "authorizations-fedramp-ai",
    "fields": {
     "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
+    "date": "2025-03-12T20:00:00.000Z",
     "impact": "High",
-    "status": "Agency In Process",
-    "text": "CrowdStrike Falcon Platform IL5 SaaS",
-    "title": "CrowdStrike Falcon Platform IL5 SaaS",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "CrowdStrike Falcon Platform for Government",
+    "title": "CrowdStrike Falcon Platform for Government",
     "url": "https://www.crowdstrike.com/solutions/falcon-on-govcloud/"
    }
   },
@@ -1235,16 +1236,16 @@
    }
   },
   {
-   "key": "FR2031155471",
+   "key": "FR2535459236",
    "source": "authorizations-fedramp-ai",
    "fields": {
-    "assessor": "Lazarus Alliance, Inc.",
-    "date": "2025-03-26T20:00:00.000Z",
-    "impact": "Moderate",
+    "assessor": "Coalfire Systems, Inc.",
+    "date": "2026-04-15T20:00:00.000Z",
+    "impact": "High",
     "model": "SaaS",
     "status": "FedRAMP Authorized",
-    "text": "Iron Mountain InSight",
-    "title": "Iron Mountain InSight",
+    "text": "Iron Mountain InSight for Government",
+    "title": "Iron Mountain InSight for Government",
     "url": "https://www.ironmountain.com/services/insight-digital-experience-platform"
    }
   },
@@ -1458,20 +1459,6 @@
    }
   },
   {
-   "key": "FR2215946050",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2024-08-21T20:00:00.000Z",
-    "impact": "Moderate",
-    "model": "PaaS, SaaS",
-    "status": "FedRAMP Authorized",
-    "text": "ITMX Platform featuring Service \u0026 Asset Management, Universal Discovery, CMDB and Project \u0026 Portfolio Management",
-    "title": "ITMX Platform featuring Service \u0026 Asset Management, Universal Discovery, CMDB and Project \u0026 Portfolio Management",
-    "url": "https://www.microfocus.com/en-us/solutions/it-operations"
-   }
-  },
-  {
    "key": "FR1824057433",
    "source": "authorizations-fedramp-ai",
    "fields": {
@@ -1584,6 +1571,20 @@
    }
   },
   {
+   "key": "FR2215946050",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2024-08-21T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "PaaS, SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "ITMX Platform featuring Service \u0026 Asset Management, Universal Discovery, CMDB and Project \u0026 Portfolio Management",
+    "title": "ITMX Platform featuring Service \u0026 Asset Management, Universal Discovery, CMDB and Project \u0026 Portfolio Management",
+    "url": "https://www.opentext.com/products/observability-service-management-cloud"
+   }
+  },
+  {
    "key": "FR2203732438",
    "source": "authorizations-fedramp-ai",
    "fields": {
@@ -1594,7 +1595,7 @@
     "status": "FedRAMP Authorized",
     "text": "OpenText Cloud for Government",
     "title": "OpenText Cloud for Government",
-    "url": "https://www.opentext.com/products/saas/core-application-security"
+    "url": "https://www.opentext.com/products/content-management-for-government#services-section"
    }
   },
   {
@@ -2073,14 +2074,14 @@
    }
   },
   {
-   "key": "FR2531434700",
+   "key": "FR2531434700XL",
    "source": "authorizations-fedramp-ai",
    "fields": {
     "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "Moderate",
+    "date": "2025-09-17T20:00:00.000Z",
+    "impact": "20x Low",
     "model": "SaaS",
-    "status": "Agency In Process",
+    "status": "FedRAMP Authorized",
     "text": "Palette VerteX",
     "title": "Palette VerteX",
     "url": "https://www.spectrocloud.com/"
@@ -2184,20 +2185,6 @@
    }
   },
   {
-   "key": "FR2333543855",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "model": "SaaS",
-    "status": "Agency In Process",
-    "text": "Thomson Reuters Risk \u0026 Fraud (TR R\u0026F)",
-    "title": "Thomson Reuters Risk \u0026 Fraud (TR R\u0026F)",
-    "url": "https://legal.thomsonreuters.com/en/products/clear"
-   }
-  },
-  {
    "key": "FR2502148523",
    "source": "authorizations-fedramp-ai",
    "fields": {
@@ -2209,6 +2196,20 @@
     "text": "Thomson Reuters Legal Research (TR LR)",
     "title": "Thomson Reuters Legal Research (TR LR)",
     "url": "https://legal.thomsonreuters.com/en/westlaw"
+   }
+  },
+  {
+   "key": "FR2333543855",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "Agency In Process",
+    "text": "Thomson Reuters Risk \u0026 Fraud (TR R\u0026F)",
+    "title": "Thomson Reuters Risk \u0026 Fraud (TR R\u0026F)",
+    "url": "https://legal.thomsonreuters.com/en/products/clear"
    }
   },
   {
@@ -2268,20 +2269,6 @@
    }
   },
   {
-   "key": "FR2226231529",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Fortreum, LLC",
-    "date": "2024-11-22T20:00:00.000Z",
-    "impact": "Moderate",
-    "model": "SaaS",
-    "status": "FedRAMP Authorized",
-    "text": "Trend Vision One for Government",
-    "title": "Trend Vision One for Government",
-    "url": "https://www.trendmicro.com/en_us/business/capabilities/solutions-for/federal-government/security-operations.html"
-   }
-  },
-  {
    "key": "FR2226228379",
    "source": "authorizations-fedramp-ai",
    "fields": {
@@ -2293,6 +2280,20 @@
     "text": "Trend Cloud One for Government",
     "title": "Trend Cloud One for Government",
     "url": "https://www.trendmicro.com/en_us/business/capabilities/solutions-for/federal-government/cloud-security.html"
+   }
+  },
+  {
+   "key": "FR2226231529",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Fortreum, LLC",
+    "date": "2024-11-22T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Trend Vision One for Government",
+    "title": "Trend Vision One for Government",
+    "url": "https://www.trendmicro.com/en_us/business/capabilities/solutions-for/federal-government/security-operations.html"
    }
   },
   {
@@ -2379,30 +2380,30 @@
    }
   },
   {
-   "key": "FR2525556241XM",
+   "key": "FR2525556241",
    "source": "authorizations-fedramp-ai",
    "fields": {
     "assessor": "Schellman Compliance, LLC",
-    "date": "2026-04-24T20:00:00.000Z",
-    "impact": "20x Moderate",
+    "date": "2025-07-25T20:00:00.000Z",
+    "impact": "20x Low",
     "model": "SaaS",
     "status": "FedRAMP Authorized",
-    "text": "Vanta Government Cloud",
-    "title": "Vanta Government Cloud",
+    "text": "Vanta Trust Management Platform",
+    "title": "Vanta Trust Management Platform",
     "url": "https://www.vanta.com/"
    }
   },
   {
-   "key": "FR2421252636",
+   "key": "FR2421252644",
    "source": "authorizations-fedramp-ai",
    "fields": {
     "assessor": "Schellman Compliance, LLC",
-    "date": "2025-05-14T20:00:00.000Z",
+    "date": "2025-06-16T20:00:00.000Z",
     "impact": "Moderate",
     "model": "SaaS",
     "status": "FedRAMP Authorized",
-    "text": "Varonis Data Security Platform",
-    "title": "Varonis Data Security Platform",
+    "text": "Varonis DatAdvantage Cloud",
+    "title": "Varonis DatAdvantage Cloud",
     "url": "https://www.varonis.com"
    }
   },

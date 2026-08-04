@@ -1,14 +1,26 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-08-03T20:19:13Z",
+ "fetched_at": "2026-08-04T09:12:33Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "felixross66/claude-ai-coding-kit-2026",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-08-04T08:49:35Z",
+    "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation in a 2026 plugin suite.",
+    "stars": "2",
+    "text": "felixross66/claude-ai-coding-kit-2026",
+    "title": "felixross66/claude-ai-coding-kit-2026",
+    "url": "https://github.com/felixross66/claude-ai-coding-kit-2026"
+   }
+  },
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-08-03T20:17:15Z",
+    "date": "2026-08-03T22:50:56Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "54",
     "text": "takwerx/infra-TAK",
@@ -17,15 +29,15 @@
    }
   },
   {
-   "key": "felixross66/claude-ai-coding-kit-2026",
+   "key": "snstac/pytak",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-08-03T14:47:52Z",
-    "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation in a 2026 plugin suite.",
-    "stars": "2",
-    "text": "felixross66/claude-ai-coding-kit-2026",
-    "title": "felixross66/claude-ai-coding-kit-2026",
-    "url": "https://github.com/felixross66/claude-ai-coding-kit-2026"
+    "date": "2026-08-02T09:30:24Z",
+    "description": "PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.",
+    "stars": "249",
+    "text": "snstac/pytak",
+    "title": "snstac/pytak",
+    "url": "https://github.com/snstac/pytak"
    }
   },
   {
@@ -38,18 +50,6 @@
     "text": "snstac/dronecot",
     "title": "snstac/dronecot",
     "url": "https://github.com/snstac/dronecot"
-   }
-  },
-  {
-   "key": "snstac/pytak",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-08-02T09:30:24Z",
-    "description": "PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.",
-    "stars": "248",
-    "text": "snstac/pytak",
-    "title": "snstac/pytak",
-    "url": "https://github.com/snstac/pytak"
    }
   },
   {

@@ -1,21 +1,35 @@
 {
  "source": "research-funding",
  "tracker": "research-funding",
- "fetched_at": "2026-08-03T20:19:04Z",
+ "fetched_at": "2026-08-04T09:12:24Z",
  "schema_version": 1,
  "records": [
   {
-   "key": "2616258",
+   "key": "2615517",
    "source": "research-nsf",
    "fields": {
     "agency": "NSF",
-    "amount": "800013",
-    "awardee": "North Carolina State University",
-    "date": "10/01/2026",
+    "amount": "332242",
+    "awardee": "University of Rhode Island",
+    "date": "01/01/2027",
     "program": "AI and Geosciences",
-    "text": "Collaborative Research: CAIG: Physics-Informed Deep Learning for Understanding Coastal Hypoxia Formation Mechanisms",
-    "title": "Collaborative Research: CAIG: Physics-Informed Deep Learning for Understanding Coastal Hypoxia Formation Mechanisms",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2616258"
+    "text": "Collaborative Research: CAIG: Assemblage-based machine learning to quantify oceanic geochemical fluxes from marine particle images",
+    "title": "Collaborative Research: CAIG: Assemblage-based machine learning to quantify oceanic geochemical fluxes from marine particle images",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2615517"
+   }
+  },
+  {
+   "key": "2615516",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "699907",
+    "awardee": "University of Maine",
+    "date": "01/01/2027",
+    "program": "AI and Geosciences",
+    "text": "Collaborative Research: CAIG: Assemblage-based machine learning to quantify oceanic geochemical fluxes from marine particle images",
+    "title": "Collaborative Research: CAIG: Assemblage-based machine learning to quantify oceanic geochemical fluxes from marine particle images",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2615516"
    }
   }
  ]

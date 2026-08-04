@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-08-03T20:18:53Z",
+ "fetched_at": "2026-08-04T09:12:13Z",
  "schema_version": 1,
  "records": [
   {
@@ -545,6 +545,19 @@
    }
   },
   {
+   "key": "362327",
+   "source": "pipeline-grants",
+   "fields": {
+    "agency": "Defense Health Agency Contracting Activity - DHACA",
+    "closes": "08/06/2026",
+    "number": "HT942526PRMRPLAHRA",
+    "posted": "05/08/2026",
+    "text": "DoW Peer Reviewed Medical, Lifestyle and Applied Health Research Award",
+    "title": "DoW Peer Reviewed Medical, Lifestyle and Applied Health Research Award",
+    "url": "https://www.grants.gov/search-results-detail/362327"
+   }
+  },
+  {
    "key": "347858",
    "source": "pipeline-logistics",
    "fields": {
@@ -697,21 +710,6 @@
     "title": "Egyptian Navy Autonomous INTelligence System (AINTS) Platform Integration",
     "type": "Presolicitation",
     "url": "https://sam.gov/workspace/contract/opp/64f0d3726ec24750811dfb0658da5d44/view"
-   }
-  },
-  {
-   "key": "4232971a8f3448f79d3691dd3a264adb",
-   "source": "pipeline-sam-autonomy",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NAVAL SURFACE WARFARE CENTER",
-    "closes": "2026-08-03T14:00:00-05:00",
-    "number": "N61331-26-SN9-0001",
-    "posted": "2026-07-07",
-    "setaside": "No Set aside used",
-    "text": "Other Transaction Authority (OTA) Consortium Request for Proposals (RFP) Seabed-Subsea, Littoral, Asymmetric-Autonomous, Mining and Mine Hunting, Expeditionary, Robotic (SLAM2ER) Consortium",
-    "title": "Other Transaction Authority (OTA) Consortium Request for Proposals (RFP) Seabed-Subsea, Littoral, Asymmetric-Autonomous, Mining and Mine Hunting, Expeditionary, Robotic (SLAM2ER) Consortium",
-    "type": "Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/4232971a8f3448f79d3691dd3a264adb/view"
    }
   },
   {
