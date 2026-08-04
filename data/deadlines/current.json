@@ -1,7 +1,7 @@
 {
  "source": "deadlines",
  "tracker": "deadlines",
- "fetched_at": "2026-08-04T09:12:36Z",
+ "fetched_at": "2026-08-04T20:13:59Z",
  "schema_version": 1,
  "records": [
   {
@@ -551,6 +551,19 @@
    }
   },
   {
+   "key": "close-362329",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "Defense Health Agency Contracting Activity - DHACA",
+    "closes": "2026-09-22",
+    "date": "2026-09-22",
+    "from": "pipeline",
+    "text": "DoW Peer Reviewed Medical, Platform Clinical Translation Award",
+    "title": "DoW Peer Reviewed Medical, Platform Clinical Translation Award",
+    "url": "https://www.grants.gov/search-results-detail/362329"
+   }
+  },
+  {
    "key": "close-347858",
    "source": "deadlines-solicitations",
    "fields": {
@@ -655,6 +668,32 @@
    }
   },
   {
+   "key": "close-97067781317d405caced3ffc5e296d40",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVAIR.NAVAIR HQS.NAVAL AIR SYSTEMS COMMAND",
+    "closes": "2026-08-13",
+    "date": "2026-08-13",
+    "from": "pipeline",
+    "text": "Unmanned Carrier-Based Aircraft Solutions Request for Information (RFI)",
+    "title": "Unmanned Carrier-Based Aircraft Solutions Request for Information (RFI)",
+    "url": "https://sam.gov/workspace/contract/opp/97067781317d405caced3ffc5e296d40/view"
+   }
+  },
+  {
+   "key": "close-432936d8df7140bcbb481389ae608063",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "DEPT OF DEFENSE",
+    "closes": "2026-08-14",
+    "date": "2026-08-14",
+    "from": "pipeline",
+    "text": "PEO-M Unmanned Surface Vehicle (USV) Poseidon's Fury Collaboration Event (CE)",
+    "title": "PEO-M Unmanned Surface Vehicle (USV) Poseidon's Fury Collaboration Event (CE)",
+    "url": "https://sam.gov/workspace/contract/opp/432936d8df7140bcbb481389ae608063/view"
+   }
+  },
+  {
    "key": "close-a92306f6d3aa4ab8abfa3152c12eb566",
    "source": "deadlines-solicitations",
    "fields": {
@@ -730,19 +769,6 @@
     "text": "INDUSTRY DAY FOR GROUP 1 AND GROUP 2 UNMANNED AIRCRAFT SYSTEM (UAS) TRAINING, MISSION PLANNING, MISSION REHEARSAL, SIMULATION, AND QUALIFICATION MANAGEMENT SYSTEMS",
     "title": "INDUSTRY DAY FOR GROUP 1 AND GROUP 2 UNMANNED AIRCRAFT SYSTEM (UAS) TRAINING, MISSION PLANNING, MISSION REHEARSAL, SIMULATION, AND QUALIFICATION MANAGEMENT SYSTEMS",
     "url": "https://sam.gov/workspace/contract/opp/8268da7209564560804b3e65345d2a98/view"
-   }
-  },
-  {
-   "key": "close-7968d7a497a142b6a5dba049d97a75f1",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVAIR.NAVAIR HQS.NAVAL AIR SYSTEMS COMMAND",
-    "closes": "2026-08-13",
-    "date": "2026-08-13",
-    "from": "pipeline",
-    "text": "Unmanned Carrier-Based Aircraft Solutions Request for Information (RFI)",
-    "title": "Unmanned Carrier-Based Aircraft Solutions Request for Information (RFI)",
-    "url": "https://sam.gov/workspace/contract/opp/7968d7a497a142b6a5dba049d97a75f1/view"
    }
   },
   {
