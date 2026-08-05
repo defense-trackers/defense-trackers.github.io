@@ -1,9 +1,19 @@
 {
  "source": "authorizations",
  "tracker": "authorizations",
- "fetched_at": "2026-08-04T20:12:16Z",
+ "fetched_at": "2026-08-05T09:08:12Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "FR2623840126",
+   "source": "authorizations-fedramp",
+   "fields": {
+    "date": "2026-08-04T20:00:00.000Z",
+    "status": "Now in PMO Review",
+    "text": "Saviynt High Security Identity Platform",
+    "title": "Saviynt High Security Identity Platform"
+   }
+  },
   {
    "key": "FR2627547824",
    "source": "authorizations-fedramp",
@@ -22,16 +32,6 @@
     "status": "Now FedRAMP Ready",
     "text": "asato.ai",
     "title": "asato.ai"
-   }
-  },
-  {
-   "key": "FR2524251176",
-   "source": "authorizations-fedramp",
-   "fields": {
-    "date": "2026-07-31T20:00:00.000Z",
-    "status": "Now Authorized",
-    "text": "Atlas by LMI",
-    "title": "Atlas by LMI"
    }
   },
   {
@@ -1942,7 +1942,7 @@
     "date": "Not Active",
     "impact": "High",
     "model": "SaaS",
-    "status": "Agency In Process",
+    "status": "FedRAMP In Process",
     "text": "Saviynt High Security Identity Platform",
     "title": "Saviynt High Security Identity Platform",
     "url": "https://saviynt.com/"
@@ -2074,14 +2074,14 @@
    }
   },
   {
-   "key": "FR2531434700XL",
+   "key": "FR2531434700",
    "source": "authorizations-fedramp-ai",
    "fields": {
     "assessor": "Schellman Compliance, LLC",
-    "date": "2025-09-17T20:00:00.000Z",
-    "impact": "20x Low",
+    "date": "Not Active",
+    "impact": "Moderate",
     "model": "SaaS",
-    "status": "FedRAMP Authorized",
+    "status": "Agency In Process",
     "text": "Palette VerteX",
     "title": "Palette VerteX",
     "url": "https://www.spectrocloud.com/"
@@ -2380,16 +2380,16 @@
    }
   },
   {
-   "key": "FR2525556241",
+   "key": "FR2525556241XM",
    "source": "authorizations-fedramp-ai",
    "fields": {
     "assessor": "Schellman Compliance, LLC",
-    "date": "2025-07-25T20:00:00.000Z",
-    "impact": "20x Low",
+    "date": "2026-04-24T20:00:00.000Z",
+    "impact": "20x Moderate",
     "model": "SaaS",
     "status": "FedRAMP Authorized",
-    "text": "Vanta Trust Management Platform",
-    "title": "Vanta Trust Management Platform",
+    "text": "Vanta Government Cloud",
+    "title": "Vanta Government Cloud",
     "url": "https://www.vanta.com/"
    }
   },

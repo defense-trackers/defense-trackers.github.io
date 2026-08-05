@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-08-04T20:13:56Z",
+ "fetched_at": "2026-08-05T09:09:45Z",
  "schema_version": 1,
  "records": [
   {
    "key": "felixross66/claude-ai-coding-kit-2026",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-08-04T15:06:20Z",
+    "date": "2026-08-05T08:39:59Z",
     "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation in a 2026 plugin suite.",
     "stars": "2",
     "text": "felixross66/claude-ai-coding-kit-2026",
@@ -20,7 +20,7 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-08-04T17:53:14Z",
+    "date": "2026-08-05T07:58:32Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "54",
     "text": "takwerx/infra-TAK",
@@ -34,7 +34,7 @@
    "fields": {
     "date": "2026-08-02T09:30:24Z",
     "description": "PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.",
-    "stars": "249",
+    "stars": "248",
     "text": "snstac/pytak",
     "title": "snstac/pytak",
     "url": "https://github.com/snstac/pytak"
@@ -346,7 +346,7 @@
    "fields": {
     "date": "2024-10-29T11:52:00Z",
     "description": "Situational Awareness Server compatible with TAK clients",
-    "stars": "940",
+    "stars": "939",
     "text": "FreeTAKTeam/FreeTakServer",
     "title": "FreeTAKTeam/FreeTakServer",
     "url": "https://github.com/FreeTAKTeam/FreeTakServer"
@@ -358,7 +358,7 @@
    "fields": {
     "date": "2025-05-30T12:09:19Z",
     "description": "FreeTAKServer Web User Interface project",
-    "stars": "41",
+    "stars": "40",
     "text": "FreeTAKTeam/UI",
     "title": "FreeTAKTeam/UI",
     "url": "https://github.com/FreeTAKTeam/UI"
@@ -442,7 +442,7 @@
    "fields": {
     "date": "2021-07-04T00:18:22Z",
     "description": "ready-to-use RTSP / RTMP / HLS server and proxy that allows to read, publish and proxy video and audio streams",
-    "stars": "5",
+    "stars": "4",
     "text": "FreeTAKTeam/rtsp-simple-server",
     "title": "FreeTAKTeam/rtsp-simple-server",
     "url": "https://github.com/FreeTAKTeam/rtsp-simple-server"
@@ -454,7 +454,7 @@
    "fields": {
     "date": "2025-02-04T19:39:23Z",
     "description": "this repository contains the Ansible code that is used by the ZeroTouch installer",
-    "stars": "44",
+    "stars": "43",
     "text": "FreeTAKTeam/FreeTAKHub-Installation",
     "title": "FreeTAKTeam/FreeTAKHub-Installation",
     "url": "https://github.com/FreeTAKTeam/FreeTAKHub-Installation"
@@ -754,6 +754,18 @@
    }
   },
   {
+   "key": "clptak/cloudtak-plugin-search-containment",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-08-05T04:56:43Z",
+    "description": "Plugin to behave similar to ATAK's Chokepoint.  Leverages OSM  layer in CloudTAK to identify containment points at travel corridors to contain a search area.",
+    "stars": "0",
+    "text": "clptak/cloudtak-plugin-search-containment",
+    "title": "clptak/cloudtak-plugin-search-containment",
+    "url": "https://github.com/clptak/cloudtak-plugin-search-containment"
+   }
+  },
+  {
    "key": "vl354/odin_plugin",
    "source": "tak-github",
    "fields": {
@@ -821,18 +833,6 @@
     "text": "TX-RX/TAK-XVoice",
     "title": "TX-RX/TAK-XVoice",
     "url": "https://github.com/TX-RX/TAK-XVoice"
-   }
-  },
-  {
-   "key": "clptak/cloudtak-plugin-search-containment",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-07-30T17:41:38Z",
-    "description": "Plugin to behave similar to ATAK's Chokepoint.  Leverages OSM  layer in CloudTAK to identify containment points at travel corridors to contain a search area.",
-    "stars": "0",
-    "text": "clptak/cloudtak-plugin-search-containment",
-    "title": "clptak/cloudtak-plugin-search-containment",
-    "url": "https://github.com/clptak/cloudtak-plugin-search-containment"
    }
   },
   {

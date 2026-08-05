@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-08-04T20:12:13Z",
+ "fetched_at": "2026-08-05T09:08:10Z",
  "schema_version": 1,
  "records": [
   {
@@ -98,6 +98,18 @@
     "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
     "title": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
     "url": "https://www.usaspending.gov/award/CONT_AWD_HR001124C0310_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_W911QX25F0024_9700_W911QX25D0007_9700",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1.286567386e+07",
+    "description": "COMMERCIAL SOLUTIONS OPENING FOR RESEARCH AND DEVELOPMENT FOR SYSTEM-WIDE TEST AND EVALUATION (T\u0026E) AND APPLIED ARTIFICIAL INTELLIGENCE (AI) AND MACHINE LEARNING (ML), TASK ORDER #1.",
+    "text": "MORSECORP, INC",
+    "title": "MORSECORP, INC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W911QX25F0024_9700_W911QX25D0007_9700/"
    }
   },
   {
@@ -254,18 +266,6 @@
     "text": "CREDENCE MANAGEMENT SOLUTIONS LIMITED LIABILITY COMPANY",
     "title": "CREDENCE MANAGEMENT SOLUTIONS LIMITED LIABILITY COMPANY",
     "url": "https://www.usaspending.gov/award/CONT_AWD_SP470125C0100_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_W911QX25F0024_9700_W911QX25D0007_9700",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "7.3011757e+06",
-    "description": "COMMERCIAL SOLUTIONS OPENING FOR RESEARCH AND DEVELOPMENT FOR SYSTEM-WIDE TEST AND EVALUATION (T\u0026E) AND APPLIED ARTIFICIAL INTELLIGENCE (AI) AND MACHINE LEARNING (ML), TASK ORDER #1.",
-    "text": "MORSECORP, INC",
-    "title": "MORSECORP, INC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W911QX25F0024_9700_W911QX25D0007_9700/"
    }
   },
   {
