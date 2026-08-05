@@ -1,19 +1,31 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-08-05T09:09:45Z",
+ "fetched_at": "2026-08-05T20:15:23Z",
  "schema_version": 1,
  "records": [
   {
    "key": "felixross66/claude-ai-coding-kit-2026",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-08-05T08:39:59Z",
+    "date": "2026-08-05T19:28:23Z",
     "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation in a 2026 plugin suite.",
     "stars": "2",
     "text": "felixross66/claude-ai-coding-kit-2026",
     "title": "felixross66/claude-ai-coding-kit-2026",
     "url": "https://github.com/felixross66/claude-ai-coding-kit-2026"
+   }
+  },
+  {
+   "key": "joshuafuller/SRTM2TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-08-05T15:47:19Z",
+    "description": "Progressive Web App to download and package SRTM elevation data for ATAK (Android Team Awareness Kit). Features offline caching, concurrent downloads, and automatic ZIP packaging for direct import into ATAK.",
+    "stars": "9",
+    "text": "joshuafuller/SRTM2TAK",
+    "title": "joshuafuller/SRTM2TAK",
+    "url": "https://github.com/joshuafuller/SRTM2TAK"
    }
   },
   {
@@ -86,18 +98,6 @@
     "text": "9M2PJU/9M2PJU-Open-TAK-Server-Docker",
     "title": "9M2PJU/9M2PJU-Open-TAK-Server-Docker",
     "url": "https://github.com/9M2PJU/9M2PJU-Open-TAK-Server-Docker"
-   }
-  },
-  {
-   "key": "joshuafuller/SRTM2TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-07-25T09:56:30Z",
-    "description": "Progressive Web App to download and package SRTM elevation data for ATAK (Android Team Awareness Kit). Features offline caching, concurrent downloads, and automatic ZIP packaging for direct import into ATAK.",
-    "stars": "9",
-    "text": "joshuafuller/SRTM2TAK",
-    "title": "joshuafuller/SRTM2TAK",
-    "url": "https://github.com/joshuafuller/SRTM2TAK"
    }
   },
   {
@@ -346,7 +346,7 @@
    "fields": {
     "date": "2024-10-29T11:52:00Z",
     "description": "Situational Awareness Server compatible with TAK clients",
-    "stars": "939",
+    "stars": "940",
     "text": "FreeTAKTeam/FreeTakServer",
     "title": "FreeTAKTeam/FreeTakServer",
     "url": "https://github.com/FreeTAKTeam/FreeTakServer"
@@ -370,7 +370,7 @@
    "fields": {
     "date": "2025-09-22T00:48:17Z",
     "description": "FreeTAKServer documentation for end users",
-    "stars": "76",
+    "stars": "77",
     "text": "FreeTAKTeam/FreeTAKServer-User-Docs",
     "title": "FreeTAKTeam/FreeTAKServer-User-Docs",
     "url": "https://github.com/FreeTAKTeam/FreeTAKServer-User-Docs"
@@ -430,7 +430,7 @@
    "fields": {
     "date": "2022-11-06T13:11:28Z",
     "description": "DJI drone flying app with integrations for FreeTAKServer. Looking for a maitainer!",
-    "stars": "123",
+    "stars": "124",
     "text": "FreeTAKTeam/FreeTAKUAS",
     "title": "FreeTAKTeam/FreeTAKUAS",
     "url": "https://github.com/FreeTAKTeam/FreeTAKUAS"
@@ -616,9 +616,9 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-08-04T16:18:41Z",
+    "date": "2026-08-05T19:41:32Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
-    "stars": "93",
+    "stars": "94",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
     "title": "FreeTAKTeam/Reticulum-Community-Hub",
     "url": "https://github.com/FreeTAKTeam/Reticulum-Community-Hub"
@@ -699,9 +699,9 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-08-04T19:36:55Z",
+    "date": "2026-08-05T18:52:07Z",
     "description": "full port of Reticulum and LXMF to Rust with added SDK",
-    "stars": "25",
+    "stars": "26",
     "text": "FreeTAKTeam/LXMF-rs",
     "title": "FreeTAKTeam/LXMF-rs",
     "url": "https://github.com/FreeTAKTeam/LXMF-rs"
@@ -757,24 +757,12 @@
    "key": "clptak/cloudtak-plugin-search-containment",
    "source": "tak-github",
    "fields": {
-    "date": "2026-08-05T04:56:43Z",
+    "date": "2026-08-05T18:16:55Z",
     "description": "Plugin to behave similar to ATAK's Chokepoint.  Leverages OSM  layer in CloudTAK to identify containment points at travel corridors to contain a search area.",
     "stars": "0",
     "text": "clptak/cloudtak-plugin-search-containment",
     "title": "clptak/cloudtak-plugin-search-containment",
     "url": "https://github.com/clptak/cloudtak-plugin-search-containment"
-   }
-  },
-  {
-   "key": "vl354/odin_plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-08-04T19:19:28Z",
-    "description": "TAK plugin that links Meta AI glasses to ATAK",
-    "stars": "0",
-    "text": "vl354/odin_plugin",
-    "title": "vl354/odin_plugin",
-    "url": "https://github.com/vl354/odin_plugin"
    }
   },
   {
@@ -874,7 +862,7 @@
    "key": "Cloud-RF/SOOTHSAYER-ATAK-plugin",
    "source": "tak-github",
    "fields": {
-    "date": "2026-07-23T10:13:31Z",
+    "date": "2026-08-05T19:46:56Z",
     "description": "ATAK plugin for SOOTHSAYER",
     "stars": "12",
     "text": "Cloud-RF/SOOTHSAYER-ATAK-plugin",
@@ -1094,6 +1082,17 @@
     "text": "meshtastic/ATAK-Plugin",
     "title": "meshtastic/ATAK-Plugin",
     "url": "https://github.com/meshtastic/ATAK-Plugin"
+   }
+  },
+  {
+   "key": "jjames31/Kaonic-ATAK-Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-06-04T15:40:47Z",
+    "stars": "1",
+    "text": "jjames31/Kaonic-ATAK-Plugin",
+    "title": "jjames31/Kaonic-ATAK-Plugin",
+    "url": "https://github.com/jjames31/Kaonic-ATAK-Plugin"
    }
   },
   {
