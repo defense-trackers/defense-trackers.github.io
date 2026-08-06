@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-08-05T20:15:23Z",
+ "fetched_at": "2026-08-06T09:09:57Z",
  "schema_version": 1,
  "records": [
   {
    "key": "felixross66/claude-ai-coding-kit-2026",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-08-05T19:28:23Z",
+    "date": "2026-08-06T06:10:00Z",
     "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation in a 2026 plugin suite.",
     "stars": "2",
     "text": "felixross66/claude-ai-coding-kit-2026",
@@ -32,7 +32,7 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-08-05T07:58:32Z",
+    "date": "2026-08-06T04:05:24Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "54",
     "text": "takwerx/infra-TAK",
@@ -154,7 +154,7 @@
    "fields": {
     "date": "2026-06-26T23:49:09Z",
     "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
-    "stars": "17",
+    "stars": "18",
     "text": "engindearing-projects/OmniTAK-Android",
     "title": "engindearing-projects/OmniTAK-Android",
     "url": "https://github.com/engindearing-projects/OmniTAK-Android"
@@ -430,7 +430,7 @@
    "fields": {
     "date": "2022-11-06T13:11:28Z",
     "description": "DJI drone flying app with integrations for FreeTAKServer. Looking for a maitainer!",
-    "stars": "124",
+    "stars": "125",
     "text": "FreeTAKTeam/FreeTAKUAS",
     "title": "FreeTAKTeam/FreeTAKUAS",
     "url": "https://github.com/FreeTAKTeam/FreeTAKUAS"
@@ -618,7 +618,7 @@
    "fields": {
     "date": "2026-08-05T19:41:32Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
-    "stars": "94",
+    "stars": "95",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
     "title": "FreeTAKTeam/Reticulum-Community-Hub",
     "url": "https://github.com/FreeTAKTeam/Reticulum-Community-Hub"
@@ -789,6 +789,18 @@
    }
   },
   {
+   "key": "AkitaEngineering/Akita-MeshTAK",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-08-03T07:12:35Z",
+    "description": "The Akita MeshTAK Plugin is a game-changing Android Tactical Assault Kit (ATAK) plugin meticulously crafted to bridge the gap between ATAK and Meshtastic, providing unparalleled communication capabilities in the most challenging and disconnected environments.",
+    "stars": "13",
+    "text": "AkitaEngineering/Akita-MeshTAK",
+    "title": "AkitaEngineering/Akita-MeshTAK",
+    "url": "https://github.com/AkitaEngineering/Akita-MeshTAK"
+   }
+  },
+  {
    "key": "Moicanox/TAK-Server-Provisioner",
    "source": "tak-github",
    "fields": {
@@ -829,7 +841,7 @@
    "fields": {
     "date": "2026-07-29T21:43:40Z",
     "description": "AIS and ADS-B plugin for ATAK",
-    "stars": "31",
+    "stars": "32",
     "text": "VCWG/Air-Sea",
     "title": "VCWG/Air-Sea",
     "url": "https://github.com/VCWG/Air-Sea"
@@ -880,18 +892,6 @@
     "text": "247-Group/ATAK-sensor-effector-plugin",
     "title": "247-Group/ATAK-sensor-effector-plugin",
     "url": "https://github.com/247-Group/ATAK-sensor-effector-plugin"
-   }
-  },
-  {
-   "key": "AkitaEngineering/Akita-MeshTAK",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-08-03T07:12:35Z",
-    "description": "The Akita MeshTAK Plugin is a game-changing Android Tactical Assault Kit (ATAK) plugin meticulously crafted to bridge the gap between ATAK and Meshtastic, providing unparalleled communication capabilities in the most challenging and disconnected environments.",
-    "stars": "12",
-    "text": "AkitaEngineering/Akita-MeshTAK",
-    "title": "AkitaEngineering/Akita-MeshTAK",
-    "url": "https://github.com/AkitaEngineering/Akita-MeshTAK"
    }
   },
   {

@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-08-05T20:15:00Z",
+ "fetched_at": "2026-08-06T09:09:35Z",
  "schema_version": 1,
  "records": [
   {
@@ -558,6 +558,19 @@
    }
   },
   {
+   "key": "362329",
+   "source": "pipeline-grants",
+   "fields": {
+    "agency": "Defense Health Agency Contracting Activity - DHACA",
+    "closes": "09/22/2026",
+    "number": "HT942526PRMRPPCTA",
+    "posted": "05/08/2026",
+    "text": "DoW Peer Reviewed Medical, Platform Clinical Translation Award",
+    "title": "DoW Peer Reviewed Medical, Platform Clinical Translation Award",
+    "url": "https://www.grants.gov/search-results-detail/362329"
+   }
+  },
+  {
    "key": "347858",
    "source": "pipeline-logistics",
    "fields": {
@@ -713,20 +726,6 @@
    }
   },
   {
-   "key": "a2a29c5593d348d6b5a75a9c6a64d565",
-   "source": "pipeline-sam-autonomy",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEFENSE HEALTH AGENCY (DHA).DEFENSE HEALTH AGENCY",
-    "closes": "2026-08-21T14:00:00-04:00",
-    "number": "HT0038RFSACADM",
-    "posted": "2026-08-05",
-    "text": "Request for Solutions (RFS): Autonomous Coding (AC) and Automated Appeals \u0026 Denials Management (ADM)",
-    "title": "Request for Solutions (RFS): Autonomous Coding (AC) and Automated Appeals \u0026 Denials Management (ADM)",
-    "type": "Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/a2a29c5593d348d6b5a75a9c6a64d565/view"
-   }
-  },
-  {
    "key": "1b993a9a2c334e24b750801b9c88a77e",
    "source": "pipeline-sam-autonomy",
    "fields": {
@@ -738,6 +737,35 @@
     "title": "ATEC HQ 003 - AI Assurance \u0026 Autonomous System Validation",
     "type": "Special Notice",
     "url": "https://sam.gov/workspace/contract/opp/1b993a9a2c334e24b750801b9c88a77e/view"
+   }
+  },
+  {
+   "key": "0b3185c8044941b1a91f6c6b9e3f0230",
+   "source": "pipeline-sam-autonomy",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEFENSE HEALTH AGENCY (DHA).DEFENSE HEALTH AGENCY",
+    "closes": "2026-08-19T13:00:00-04:00",
+    "number": "HT0038RFSACADM",
+    "posted": "2026-08-05",
+    "text": "Request for Solutions (RFS): Autonomous Coding (AC) and Automated Appeals \u0026 Denials Management (ADM)",
+    "title": "Request for Solutions (RFS): Autonomous Coding (AC) and Automated Appeals \u0026 Denials Management (ADM)",
+    "type": "Solicitation",
+    "url": "https://sam.gov/workspace/contract/opp/0b3185c8044941b1a91f6c6b9e3f0230/view"
+   }
+  },
+  {
+   "key": "0710c0b6991c47afae92a6d5f090db8b",
+   "source": "pipeline-sam-autonomy",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-OO.413TH CSB",
+    "closes": "2026-08-17T17:00:00-04:00",
+    "number": "W91QVP-26-S-GTEADAutonomousSustainment",
+    "posted": "2026-08-05",
+    "setaside": "No Set aside used",
+    "text": "Global Tactical Edge Acquisition Directorate (G-TEAD) USARPAC ACE 27-01: Autonomous Sustainment Powered by xTech​",
+    "title": "Global Tactical Edge Acquisition Directorate (G-TEAD) USARPAC ACE 27-01: Autonomous Sustainment Powered by xTech​",
+    "type": "Special Notice",
+    "url": "https://sam.gov/workspace/contract/opp/0710c0b6991c47afae92a6d5f090db8b/view"
    }
   },
   {

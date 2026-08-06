@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-08-05T20:13:39Z",
+ "fetched_at": "2026-08-06T09:08:14Z",
  "schema_version": 1,
  "records": [
   {
@@ -449,18 +449,6 @@
    }
   },
   {
-   "key": "CONT_AWD_FA864923P1066_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "3.14904543e+06",
-    "description": "ARTIFICIAL INTELLIGENCE (AI) DRIVEN REDACTION SOFTWARE FOR THE AIR FORCE - AUTOMATING BUSINESS PROCESSES AND PROTECTING DATA",
-    "text": "REDACTABLE INC.",
-    "title": "REDACTABLE INC.",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_FA864923P1066_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
    "key": "CONT_AWD_FA875024CB037_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
@@ -602,6 +590,18 @@
     "text": "WALLAROO LABS INC",
     "title": "WALLAROO LABS INC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_FA864922P1090_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_W5170125CA290_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1.99997164e+06",
+    "description": "TOPIC A224-016 - ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING (AI/ML) POWERED PLATFORM FOR ARMY ASSET TRACEABILITY, PREDICTIVE MAINTENANCE, AND QUALITY TRACKING",
+    "text": "R-DEX SYSTEMS, INC.",
+    "title": "R-DEX SYSTEMS, INC.",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W5170125CA290_9700_-NONE-_-NONE-/"
    }
   },
   {
