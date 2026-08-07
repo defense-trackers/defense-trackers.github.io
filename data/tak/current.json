@@ -1,9 +1,21 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-08-07T07:45:25Z",
+ "fetched_at": "2026-08-07T19:39:32Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-08-07T16:21:38Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "54",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
   {
    "key": "felixross66/claude-ai-coding-kit-2026",
    "source": "tak-cot",
@@ -14,18 +26,6 @@
     "text": "felixross66/claude-ai-coding-kit-2026",
     "title": "felixross66/claude-ai-coding-kit-2026",
     "url": "https://github.com/felixross66/claude-ai-coding-kit-2026"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-08-07T04:26:01Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "54",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -346,7 +346,7 @@
    "fields": {
     "date": "2024-10-29T11:52:00Z",
     "description": "Situational Awareness Server compatible with TAK clients",
-    "stars": "940",
+    "stars": "939",
     "text": "FreeTAKTeam/FreeTakServer",
     "title": "FreeTAKTeam/FreeTakServer",
     "url": "https://github.com/FreeTAKTeam/FreeTakServer"
@@ -358,7 +358,7 @@
    "fields": {
     "date": "2025-05-30T12:09:19Z",
     "description": "FreeTAKServer Web User Interface project",
-    "stars": "40",
+    "stars": "39",
     "text": "FreeTAKTeam/UI",
     "title": "FreeTAKTeam/UI",
     "url": "https://github.com/FreeTAKTeam/UI"
@@ -558,7 +558,7 @@
    "key": "FreeTAKTeam/DigitalArchitectureFramework",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-08-06T16:01:56Z",
+    "date": "2026-08-07T12:24:47Z",
     "description": "The Digital Architecture Framework (DAF),  is a set modeling tools for Digital Engineering. ",
     "stars": "8",
     "text": "FreeTAKTeam/DigitalArchitectureFramework",
@@ -616,7 +616,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-08-06T16:23:06Z",
+    "date": "2026-08-07T10:34:06Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "95",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-08-06T22:17:55Z",
+    "date": "2026-08-07T18:13:14Z",
     "description": "full port of Reticulum and LXMF to Rust with added SDK",
     "stars": "27",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -751,6 +751,18 @@
     "text": "FreeTAKTeam/R3AKTClient",
     "title": "FreeTAKTeam/R3AKTClient",
     "url": "https://github.com/FreeTAKTeam/R3AKTClient"
+   }
+  },
+  {
+   "key": "Cloud-RF/SOOTHSAYER-ATAK-plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-08-07T18:14:04Z",
+    "description": "ATAK plugin for SOOTHSAYER",
+    "stars": "12",
+    "text": "Cloud-RF/SOOTHSAYER-ATAK-plugin",
+    "title": "Cloud-RF/SOOTHSAYER-ATAK-plugin",
+    "url": "https://github.com/Cloud-RF/SOOTHSAYER-ATAK-plugin"
    }
   },
   {
@@ -871,18 +883,6 @@
    }
   },
   {
-   "key": "Cloud-RF/SOOTHSAYER-ATAK-plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-08-06T20:37:33Z",
-    "description": "ATAK plugin for SOOTHSAYER",
-    "stars": "12",
-    "text": "Cloud-RF/SOOTHSAYER-ATAK-plugin",
-    "title": "Cloud-RF/SOOTHSAYER-ATAK-plugin",
-    "url": "https://github.com/Cloud-RF/SOOTHSAYER-ATAK-plugin"
-   }
-  },
-  {
    "key": "247-Group/ATAK-sensor-effector-plugin",
    "source": "tak-github",
    "fields": {
@@ -911,7 +911,7 @@
    "fields": {
     "date": "2026-07-14T01:10:02Z",
     "description": "ATAK Plugin that pulls position data from APRSdroid into ATAK",
-    "stars": "2",
+    "stars": "3",
     "text": "kd2var/aprsdroid-atak-plugin",
     "title": "kd2var/aprsdroid-atak-plugin",
     "url": "https://github.com/kd2var/aprsdroid-atak-plugin"
@@ -923,7 +923,7 @@
    "fields": {
     "date": "2026-07-12T01:05:58Z",
     "description": "This plugin is a split from the original Talon by SWF. The purpose of this plugin is to separate the UAS planning and reporting into a separate product to maximize configurable granularity.",
-    "stars": "0",
+    "stars": "1",
     "text": "clodzeischi/eagle-6-ATAK",
     "title": "clodzeischi/eagle-6-ATAK",
     "url": "https://github.com/clodzeischi/eagle-6-ATAK"
@@ -947,7 +947,7 @@
    "fields": {
     "date": "2026-07-07T17:18:30Z",
     "description": "ATAK Plugin to remotely delete map items",
-    "stars": "10",
+    "stars": "11",
     "text": "niccellular/forcedelete",
     "title": "niccellular/forcedelete",
     "url": "https://github.com/niccellular/forcedelete"
@@ -1019,7 +1019,7 @@
    "fields": {
     "date": "2026-06-14T20:36:34Z",
     "description": "ATAK plugin that scans nearby Bluetooth (BLE + Classic) devices while you move and plots their estimated positions on the map",
-    "stars": "4",
+    "stars": "5",
     "text": "niccellular/bt2cot",
     "title": "niccellular/bt2cot",
     "url": "https://github.com/niccellular/bt2cot"
@@ -1031,7 +1031,7 @@
    "fields": {
     "date": "2026-06-11T02:18:03Z",
     "description": "Live Google traffic overlay in ATAK (no plugin, custom map source XML) and OmniTAK — verified guide with screenshots and source-level receipts",
-    "stars": "7",
+    "stars": "8",
     "text": "engindearing-projects/tak-live-traffic-guide",
     "title": "engindearing-projects/tak-live-traffic-guide",
     "url": "https://github.com/engindearing-projects/tak-live-traffic-guide"

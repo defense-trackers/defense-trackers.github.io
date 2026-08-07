@@ -1,7 +1,7 @@
 {
  "source": "deadlines",
  "tracker": "deadlines",
- "fetched_at": "2026-08-07T07:45:28Z",
+ "fetched_at": "2026-08-07T19:39:34Z",
  "schema_version": 1,
  "records": [
   {
@@ -694,6 +694,32 @@
    }
   },
   {
+   "key": "close-b4584aa7c98e41f69431761f0bd1b8f7",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.COMBAT READINESS.FA8684 AFLCMC RODK",
+    "closes": "2026-08-28",
+    "date": "2026-08-28",
+    "from": "pipeline",
+    "text": "Expeditionary Unmanned Aerial System (eUAS) Manufacturing and Employment Capability Request for Information",
+    "title": "Expeditionary Unmanned Aerial System (eUAS) Manufacturing and Employment Capability Request for Information",
+    "url": "https://sam.gov/workspace/contract/opp/b4584aa7c98e41f69431761f0bd1b8f7/view"
+   }
+  },
+  {
+   "key": "close-8126a917519340e98426d2bdf4704f57",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVAIR.NAVAIR HQS.NAVAL AIR SYSTEMS COMMAND",
+    "closes": "2026-08-13",
+    "date": "2026-08-13",
+    "from": "pipeline",
+    "text": "Unmanned Carrier-Based Aircraft Solutions Request for Information (RFI)",
+    "title": "Unmanned Carrier-Based Aircraft Solutions Request for Information (RFI)",
+    "url": "https://sam.gov/workspace/contract/opp/8126a917519340e98426d2bdf4704f57/view"
+   }
+  },
+  {
    "key": "close-970bb5e6f21e434693375a6c131763ff",
    "source": "deadlines-solicitations",
    "fields": {
@@ -733,19 +759,6 @@
    }
   },
   {
-   "key": "close-1443132edc8f4940a3bc5db577cb4ed7",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVAIR.NAVAIR HQS.NAVAL AIR SYSTEMS COMMAND",
-    "closes": "2026-08-13",
-    "date": "2026-08-13",
-    "from": "pipeline",
-    "text": "Unmanned Carrier-Based Aircraft Solutions Request for Information (RFI)",
-    "title": "Unmanned Carrier-Based Aircraft Solutions Request for Information (RFI)",
-    "url": "https://sam.gov/workspace/contract/opp/1443132edc8f4940a3bc5db577cb4ed7/view"
-   }
-  },
-  {
    "key": "close-432936d8df7140bcbb481389ae608063",
    "source": "deadlines-solicitations",
    "fields": {
@@ -782,19 +795,6 @@
     "text": "Request for Information (RFI): Special Mission Vessel (SMV) – Helicopter, Unmanned Aerial System (UAS), Unmanned Surface Vehicle (USV) \u0026 Small Craft Support Vessel",
     "title": "Request for Information (RFI): Special Mission Vessel (SMV) – Helicopter, Unmanned Aerial System (UAS), Unmanned Surface Vehicle (USV) \u0026 Small Craft Support Vessel",
     "url": "https://sam.gov/workspace/contract/opp/6552b25bf0e648f39b44228275998eef/view"
-   }
-  },
-  {
-   "key": "close-346a90fa681a4db0b14f311fafe95764",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.COMBAT READINESS.FA8684 AFLCMC RODK",
-    "closes": "2026-08-28",
-    "date": "2026-08-28",
-    "from": "pipeline",
-    "text": "Expeditionary Unmanned Aerial System (eUAS) Manufacturing and Employment Capability Request for Information",
-    "title": "Expeditionary Unmanned Aerial System (eUAS) Manufacturing and Employment Capability Request for Information",
-    "url": "https://sam.gov/workspace/contract/opp/346a90fa681a4db0b14f311fafe95764/view"
    }
   },
   {

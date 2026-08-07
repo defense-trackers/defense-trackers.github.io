@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-08-07T07:45:07Z",
+ "fetched_at": "2026-08-07T19:39:11Z",
  "schema_version": 1,
  "records": [
   {
@@ -759,6 +759,48 @@
    }
   },
   {
+   "key": "b4584aa7c98e41f69431761f0bd1b8f7",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.COMBAT READINESS.FA8684 AFLCMC RODK",
+    "closes": "2026-08-28T17:00:00-04:00",
+    "number": "RSO-AMPOECT-04",
+    "posted": "2026-08-07",
+    "text": "Expeditionary Unmanned Aerial System (eUAS) Manufacturing and Employment Capability Request for Information",
+    "title": "Expeditionary Unmanned Aerial System (eUAS) Manufacturing and Employment Capability Request for Information",
+    "type": "Special Notice",
+    "url": "https://sam.gov/workspace/contract/opp/b4584aa7c98e41f69431761f0bd1b8f7/view"
+   }
+  },
+  {
+   "key": "8126a917519340e98426d2bdf4704f57",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVAIR.NAVAIR HQS.NAVAL AIR SYSTEMS COMMAND",
+    "closes": "2026-08-13T17:00:00-04:00",
+    "number": "PAEA-UnmannedStratSS",
+    "posted": "2026-08-07",
+    "setaside": "No Set aside used",
+    "text": "Unmanned Carrier-Based Aircraft Solutions Request for Information (RFI)",
+    "title": "Unmanned Carrier-Based Aircraft Solutions Request for Information (RFI)",
+    "type": "Sources Sought",
+    "url": "https://sam.gov/workspace/contract/opp/8126a917519340e98426d2bdf4704f57/view"
+   }
+  },
+  {
+   "key": "231668c988f04e459fc4a911d89adaf9",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA8750  AFRL RIK",
+    "number": "FA8750-25-S-7004",
+    "posted": "2026-08-07",
+    "text": "Multi-Domain Force Applications and Traffic Management for Unmanned Aircraft Systems (M-FAT)",
+    "title": "Multi-Domain Force Applications and Traffic Management for Unmanned Aircraft Systems (M-FAT)",
+    "type": "Presolicitation",
+    "url": "https://sam.gov/workspace/contract/opp/231668c988f04e459fc4a911d89adaf9/view"
+   }
+  },
+  {
    "key": "970bb5e6f21e434693375a6c131763ff",
    "source": "pipeline-sam-unmanned",
    "fields": {
@@ -799,21 +841,6 @@
     "title": "5.56mm Counter-small Unmanned Aircraft System (C-sUAS) Ammunition",
     "type": "Sources Sought",
     "url": "https://sam.gov/workspace/contract/opp/da82da9604cb462cb1f612cbaa42366c/view"
-   }
-  },
-  {
-   "key": "1443132edc8f4940a3bc5db577cb4ed7",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVAIR.NAVAIR HQS.NAVAL AIR SYSTEMS COMMAND",
-    "closes": "2026-08-13T17:00:00-04:00",
-    "number": "PAEA-UnmannedStratSS",
-    "posted": "2026-08-05",
-    "setaside": "No Set aside used",
-    "text": "Unmanned Carrier-Based Aircraft Solutions Request for Information (RFI)",
-    "title": "Unmanned Carrier-Based Aircraft Solutions Request for Information (RFI)",
-    "type": "Sources Sought",
-    "url": "https://sam.gov/workspace/contract/opp/1443132edc8f4940a3bc5db577cb4ed7/view"
    }
   },
   {
@@ -861,20 +888,6 @@
    }
   },
   {
-   "key": "346a90fa681a4db0b14f311fafe95764",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.COMBAT READINESS.FA8684 AFLCMC RODK",
-    "closes": "2026-08-28T17:00:00-04:00",
-    "number": "RSO-AMPOECT-04",
-    "posted": "2026-07-29",
-    "text": "Expeditionary Unmanned Aerial System (eUAS) Manufacturing and Employment Capability Request for Information",
-    "title": "Expeditionary Unmanned Aerial System (eUAS) Manufacturing and Employment Capability Request for Information",
-    "type": "Special Notice",
-    "url": "https://sam.gov/workspace/contract/opp/346a90fa681a4db0b14f311fafe95764/view"
-   }
-  },
-  {
    "key": "8268da7209564560804b3e65345d2a98",
    "source": "pipeline-sam-unmanned",
    "fields": {
@@ -886,19 +899,6 @@
     "title": "INDUSTRY DAY FOR GROUP 1 AND GROUP 2 UNMANNED AIRCRAFT SYSTEM (UAS) TRAINING, MISSION PLANNING, MISSION REHEARSAL, SIMULATION, AND QUALIFICATION MANAGEMENT SYSTEMS",
     "type": "Special Notice",
     "url": "https://sam.gov/workspace/contract/opp/8268da7209564560804b3e65345d2a98/view"
-   }
-  },
-  {
-   "key": "7f9dfb501f064dd5b545a737845f540a",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA8750  AFRL RIK",
-    "number": "FA8750-25-S-7004",
-    "posted": "2026-07-14",
-    "text": "Multi-Domain Force Applications and Traffic Management for Unmanned Aircraft Systems (M-FAT)",
-    "title": "Multi-Domain Force Applications and Traffic Management for Unmanned Aircraft Systems (M-FAT)",
-    "type": "Presolicitation",
-    "url": "https://sam.gov/workspace/contract/opp/7f9dfb501f064dd5b545a737845f540a/view"
    }
   },
   {
