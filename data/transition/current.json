@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-08-07T00:33:11Z",
+ "fetched_at": "2026-08-07T07:45:28Z",
  "schema_version": 1,
  "records": [
   {
@@ -804,7 +804,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "1.274747411085e+10",
+    "amount": "1.277250535885e+10",
     "award_id": "N0002416C2116",
     "description": "CVN 80 ENGINEERING EFFORTS AND STEEL",
     "text": "HUNTINGTON INGALLS INC",
@@ -982,6 +982,19 @@
    }
   },
   {
+   "key": "CONT_AWD_FA880219C0001_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "8.67074857707e+09",
+    "award_id": "FA880219C0001",
+    "description": "FY19 ENGINEERING SERVICES",
+    "text": "THE AEROSPACE CORPORATION",
+    "title": "THE AEROSPACE CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA880219C0001_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_N0001918C1037_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -992,19 +1005,6 @@
     "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
     "title": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
     "url": "https://www.usaspending.gov/award/CONT_AWD_N0001918C1037_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_FA880219C0001_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "8.43532033307e+09",
-    "award_id": "FA880219C0001",
-    "description": "FY19 ENGINEERING SERVICES",
-    "text": "THE AEROSPACE CORPORATION",
-    "title": "THE AEROSPACE CORPORATION",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_FA880219C0001_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -1025,7 +1025,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "8.31304060083e+09",
+    "amount": "8.31305398283e+09",
     "award_id": "N0002423C2307",
     "description": "CONSTRUCTION OF DDG 51 SHIPS FY23-27",
     "text": "HUNTINGTON INGALLS INCORPORATED",

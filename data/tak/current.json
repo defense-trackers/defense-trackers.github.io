@@ -1,31 +1,31 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-08-07T00:33:08Z",
+ "fetched_at": "2026-08-07T07:45:25Z",
  "schema_version": 1,
  "records": [
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-08-06T23:45:03Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "54",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
-   }
-  },
   {
    "key": "felixross66/claude-ai-coding-kit-2026",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-08-06T23:35:38Z",
+    "date": "2026-08-07T04:01:18Z",
     "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation in a 2026 plugin suite.",
     "stars": "2",
     "text": "felixross66/claude-ai-coding-kit-2026",
     "title": "felixross66/claude-ai-coding-kit-2026",
     "url": "https://github.com/felixross66/claude-ai-coding-kit-2026"
+   }
+  },
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-08-07T04:26:01Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "54",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -98,18 +98,6 @@
     "text": "flighttactics/SwiftTAK",
     "title": "flighttactics/SwiftTAK",
     "url": "https://github.com/flighttactics/SwiftTAK"
-   }
-  },
-  {
-   "key": "9M2PJU/9M2PJU-Open-TAK-Server-Docker",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-07-26T14:43:05Z",
-    "description": "Production-ready Docker deployment of OpenTAKServer (OTS) — an open-source TAK (Team Awareness Kit) server compatible with ATAK, WinTAK, and iTAK clients.",
-    "stars": "1",
-    "text": "9M2PJU/9M2PJU-Open-TAK-Server-Docker",
-    "title": "9M2PJU/9M2PJU-Open-TAK-Server-Docker",
-    "url": "https://github.com/9M2PJU/9M2PJU-Open-TAK-Server-Docker"
    }
   },
   {
@@ -338,6 +326,18 @@
     "text": "v-fol/atak-signal-bot",
     "title": "v-fol/atak-signal-bot",
     "url": "https://github.com/v-fol/atak-signal-bot"
+   }
+  },
+  {
+   "key": "westpoint-robotics/moos-tak",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2024-01-29T17:08:10Z",
+    "description": "Ability to send Team Awareness Kit (TAK) cursor on target (COT) messages from the MOOS robot middleware.",
+    "stars": "1",
+    "text": "westpoint-robotics/moos-tak",
+    "title": "westpoint-robotics/moos-tak",
+    "url": "https://github.com/westpoint-robotics/moos-tak"
    }
   },
   {
@@ -911,7 +911,7 @@
    "fields": {
     "date": "2026-07-14T01:10:02Z",
     "description": "ATAK Plugin that pulls position data from APRSdroid into ATAK",
-    "stars": "1",
+    "stars": "2",
     "text": "kd2var/aprsdroid-atak-plugin",
     "title": "kd2var/aprsdroid-atak-plugin",
     "url": "https://github.com/kd2var/aprsdroid-atak-plugin"

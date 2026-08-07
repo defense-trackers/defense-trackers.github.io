@@ -1,9 +1,19 @@
 {
  "source": "authorizations",
  "tracker": "authorizations",
- "fetched_at": "2026-08-07T00:30:00Z",
+ "fetched_at": "2026-08-07T07:43:54Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "FR2000863987A",
+   "source": "authorizations-fedramp",
+   "fields": {
+    "date": "2026-08-06T20:00:00.000Z",
+    "status": "Now Authorized",
+    "text": "Cloudflare for Government - High",
+    "title": "Cloudflare for Government - High"
+   }
+  },
   {
    "key": "FR2623840126",
    "source": "authorizations-fedramp",
@@ -22,16 +32,6 @@
     "status": "Now FedRAMP Ready",
     "text": "Praxon Arc",
     "title": "Praxon Arc"
-   }
-  },
-  {
-   "key": "FR2626250438",
-   "source": "authorizations-fedramp",
-   "fields": {
-    "date": "2026-08-03T20:00:00.000Z",
-    "status": "Now FedRAMP Ready",
-    "text": "Visionlink COS2",
-    "title": "Visionlink COS2"
    }
   },
   {
@@ -579,16 +579,16 @@
    }
   },
   {
-   "key": "FR2000863987",
+   "key": "FR2000863987A",
    "source": "authorizations-fedramp-ai",
    "fields": {
     "assessor": "Schellman Compliance, LLC",
-    "date": "2022-12-12T20:00:00.000Z",
-    "impact": "Moderate",
+    "date": "2026-08-06T20:00:00.000Z",
+    "impact": "High",
     "model": "SaaS",
     "status": "FedRAMP Authorized",
-    "text": "Cloudflare for Government",
-    "title": "Cloudflare for Government",
+    "text": "Cloudflare for Government - High",
+    "title": "Cloudflare for Government - High",
     "url": "https://www.cloudflare.com/cloudflare-for-government/"
    }
   },
@@ -788,6 +788,20 @@
    }
   },
   {
+   "key": "FR1834740315",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Fortreum, LLC",
+    "date": "2022-09-29T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "PaaS, SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Databricks on AWS US East/West",
+    "title": "Databricks on AWS US East/West",
+    "url": "https://www.databricks.com/solutions/industries/federal-government"
+   }
+  },
+  {
    "key": "FR2525247858",
    "source": "authorizations-fedramp-ai",
    "fields": {
@@ -799,20 +813,6 @@
     "text": "Databricks on Azure Commercial",
     "title": "Databricks on Azure Commercial",
     "url": "https://azure.microsoft.com/en-us/products/databricks"
-   }
-  },
-  {
-   "key": "FR2324740262",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Fortreum, LLC",
-    "date": "2025-02-26T20:00:00.000Z",
-    "impact": "High",
-    "model": "PaaS, SaaS",
-    "status": "FedRAMP Authorized",
-    "text": "Databricks on AWS GovCloud",
-    "title": "Databricks on AWS GovCloud",
-    "url": "https://www.databricks.com/solutions/industries/federal-government"
    }
   },
   {
@@ -1235,16 +1235,16 @@
    }
   },
   {
-   "key": "FR2535459236",
+   "key": "FR2031155471",
    "source": "authorizations-fedramp-ai",
    "fields": {
-    "assessor": "Coalfire Systems, Inc.",
-    "date": "2026-04-15T20:00:00.000Z",
-    "impact": "High",
+    "assessor": "Lazarus Alliance, Inc.",
+    "date": "2025-03-26T20:00:00.000Z",
+    "impact": "Moderate",
     "model": "SaaS",
     "status": "FedRAMP Authorized",
-    "text": "Iron Mountain InSight for Government",
-    "title": "Iron Mountain InSight for Government",
+    "text": "Iron Mountain InSight",
+    "title": "Iron Mountain InSight",
     "url": "https://www.ironmountain.com/services/insight-digital-experience-platform"
    }
   },
@@ -1542,17 +1542,17 @@
    }
   },
   {
-   "key": "FR2430847803",
+   "key": "FR2620841940",
    "source": "authorizations-fedramp-ai",
    "fields": {
     "assessor": "Schellman Compliance, LLC",
-    "date": "2025-09-10T20:00:00.000Z",
-    "impact": "Moderate",
+    "date": "Not Active",
+    "impact": "High",
     "model": "SaaS",
-    "status": "FedRAMP Authorized",
-    "text": "NinjaOne for Government",
-    "title": "NinjaOne for Government",
-    "url": "https://www.ninjaone.com/government/federal/"
+    "status": "FedRAMP Ready",
+    "text": "NinjaOne for Government – FedRAMP High",
+    "title": "NinjaOne for Government – FedRAMP High",
+    "url": "https://www.ninjaone.com/government/federal/ "
    }
   },
   {
@@ -1640,6 +1640,20 @@
    }
   },
   {
+   "key": "FR2001619708",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2024-03-14T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Idira Endpoint Privilege Manager for Government",
+    "title": "Idira Endpoint Privilege Manager for Government",
+    "url": "https://www.cyberark.com/products/endpoint-privilege-manager/"
+   }
+  },
+  {
    "key": "FR2001619337",
    "source": "authorizations-fedramp-ai",
    "fields": {
@@ -1665,20 +1679,6 @@
     "text": "GCS-HIGH",
     "title": "GCS-HIGH",
     "url": "http://www.paloaltonetworks.com/"
-   }
-  },
-  {
-   "key": "FR2001619708",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2024-03-14T20:00:00.000Z",
-    "impact": "High",
-    "model": "SaaS",
-    "status": "FedRAMP Authorized",
-    "text": "Idira Endpoint Privilege Manager for Government",
-    "title": "Idira Endpoint Privilege Manager for Government",
-    "url": "https://www.cyberark.com/products/endpoint-privilege-manager/"
    }
   },
   {
@@ -2281,20 +2281,6 @@
    }
   },
   {
-   "key": "FR2226228379",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Fortreum, LLC",
-    "date": "2024-11-22T20:00:00.000Z",
-    "impact": "Moderate",
-    "model": "SaaS",
-    "status": "FedRAMP Authorized",
-    "text": "Trend Cloud One for Government",
-    "title": "Trend Cloud One for Government",
-    "url": "https://www.trendmicro.com/en_us/business/capabilities/solutions-for/federal-government/cloud-security.html"
-   }
-  },
-  {
    "key": "FR2226231529",
    "source": "authorizations-fedramp-ai",
    "fields": {
@@ -2306,6 +2292,20 @@
     "text": "Trend Vision One for Government",
     "title": "Trend Vision One for Government",
     "url": "https://www.trendmicro.com/en_us/business/capabilities/solutions-for/federal-government/security-operations.html"
+   }
+  },
+  {
+   "key": "FR2226228379",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Fortreum, LLC",
+    "date": "2024-11-22T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Trend Cloud One for Government",
+    "title": "Trend Cloud One for Government",
+    "url": "https://www.trendmicro.com/en_us/business/capabilities/solutions-for/federal-government/cloud-security.html"
    }
   },
   {
@@ -2392,30 +2392,30 @@
    }
   },
   {
-   "key": "FR2525556241XM",
+   "key": "FR2525556241",
    "source": "authorizations-fedramp-ai",
    "fields": {
     "assessor": "Schellman Compliance, LLC",
-    "date": "2026-04-24T20:00:00.000Z",
-    "impact": "20x Moderate",
+    "date": "2025-07-25T20:00:00.000Z",
+    "impact": "20x Low",
     "model": "SaaS",
     "status": "FedRAMP Authorized",
-    "text": "Vanta Government Cloud",
-    "title": "Vanta Government Cloud",
+    "text": "Vanta Trust Management Platform",
+    "title": "Vanta Trust Management Platform",
     "url": "https://www.vanta.com/"
    }
   },
   {
-   "key": "FR2421252644",
+   "key": "FR2421252636",
    "source": "authorizations-fedramp-ai",
    "fields": {
     "assessor": "Schellman Compliance, LLC",
-    "date": "2025-06-16T20:00:00.000Z",
+    "date": "2025-05-14T20:00:00.000Z",
     "impact": "Moderate",
     "model": "SaaS",
     "status": "FedRAMP Authorized",
-    "text": "Varonis DatAdvantage Cloud",
-    "title": "Varonis DatAdvantage Cloud",
+    "text": "Varonis Data Security Platform",
+    "title": "Varonis Data Security Platform",
     "url": "https://www.varonis.com"
    }
   },
