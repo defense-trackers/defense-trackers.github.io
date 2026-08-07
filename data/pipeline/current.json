@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-08-06T09:09:35Z",
+ "fetched_at": "2026-08-07T00:32:50Z",
  "schema_version": 1,
  "records": [
   {
@@ -65,6 +65,19 @@
     "text": "Measurement Science and Engineering (MSE) Research Grant Programs",
     "title": "Measurement Science and Engineering (MSE) Research Grant Programs",
     "url": "https://www.grants.gov/search-results-detail/358955"
+   }
+  },
+  {
+   "key": "363489",
+   "source": "pipeline-autonomy",
+   "fields": {
+    "agency": "DARPA - Defense Sciences Office",
+    "closes": "09/25/2026",
+    "number": "HR001126S0016",
+    "posted": "08/06/2026",
+    "text": "Precision Inertial Navigation \u0026 Positioning On an Integrated Tesseract (PINPOINT)",
+    "title": "Precision Inertial Navigation \u0026 Positioning On an Integrated Tesseract (PINPOINT)",
+    "url": "https://www.grants.gov/search-results-detail/363489"
    }
   },
   {
@@ -271,19 +284,6 @@
     "text": "Manufacturing Extension Partnership Center State Competition",
     "title": "Manufacturing Extension Partnership Center State Competition",
     "url": "https://www.grants.gov/search-results-detail/363279"
-   }
-  },
-  {
-   "key": "362035",
-   "source": "pipeline-grants",
-   "fields": {
-    "agency": "Advanced Research Projects Agency Energy ",
-    "closes": "08/06/2026",
-    "number": "DE-FOA-0003623",
-    "posted": "04/23/2026",
-    "text": "High-performance Optimized Recycled Nuclear Isotopes for Gen IV reactors (HORNIG)",
-    "title": "High-performance Optimized Recycled Nuclear Isotopes for Gen IV reactors (HORNIG)",
-    "url": "https://www.grants.gov/search-results-detail/362035"
    }
   },
   {
@@ -519,58 +519,6 @@
    }
   },
   {
-   "key": "362337",
-   "source": "pipeline-grants",
-   "fields": {
-    "agency": "Defense Health Agency Contracting Activity - DHACA",
-    "closes": "08/06/2026",
-    "number": "HT942526PRMRPTTDA",
-    "posted": "05/08/2026",
-    "text": "DoW Peer Reviewed Medical, Technology/Therapeutic Development Award",
-    "title": "DoW Peer Reviewed Medical, Technology/Therapeutic Development Award",
-    "url": "https://www.grants.gov/search-results-detail/362337"
-   }
-  },
-  {
-   "key": "362326",
-   "source": "pipeline-grants",
-   "fields": {
-    "agency": "Defense Health Agency Contracting Activity - DHACA",
-    "closes": "08/06/2026",
-    "number": "HT942526PRMRPIPA",
-    "posted": "05/08/2026",
-    "text": "DoW Peer Reviewed Medical, Impact Award",
-    "title": "DoW Peer Reviewed Medical, Impact Award",
-    "url": "https://www.grants.gov/search-results-detail/362326"
-   }
-  },
-  {
-   "key": "362327",
-   "source": "pipeline-grants",
-   "fields": {
-    "agency": "Defense Health Agency Contracting Activity - DHACA",
-    "closes": "08/06/2026",
-    "number": "HT942526PRMRPLAHRA",
-    "posted": "05/08/2026",
-    "text": "DoW Peer Reviewed Medical, Lifestyle and Applied Health Research Award",
-    "title": "DoW Peer Reviewed Medical, Lifestyle and Applied Health Research Award",
-    "url": "https://www.grants.gov/search-results-detail/362327"
-   }
-  },
-  {
-   "key": "362329",
-   "source": "pipeline-grants",
-   "fields": {
-    "agency": "Defense Health Agency Contracting Activity - DHACA",
-    "closes": "09/22/2026",
-    "number": "HT942526PRMRPPCTA",
-    "posted": "05/08/2026",
-    "text": "DoW Peer Reviewed Medical, Platform Clinical Translation Award",
-    "title": "DoW Peer Reviewed Medical, Platform Clinical Translation Award",
-    "url": "https://www.grants.gov/search-results-detail/362329"
-   }
-  },
-  {
    "key": "347858",
    "source": "pipeline-logistics",
    "fields": {
@@ -798,6 +746,34 @@
    }
   },
   {
+   "key": "970bb5e6f21e434693375a6c131763ff",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-DTA.W6QK ACC- DTA",
+    "closes": "2026-08-19T17:00:00-04:00",
+    "number": "W912CH26QCsUAS",
+    "posted": "2026-08-06",
+    "text": "RFI for Counter Small Unmanned Aircraft Systems (C-sUAS) Mobile Solutions",
+    "title": "RFI for Counter Small Unmanned Aircraft Systems (C-sUAS) Mobile Solutions",
+    "type": "Sources Sought",
+    "url": "https://sam.gov/workspace/contract/opp/970bb5e6f21e434693375a6c131763ff/view"
+   }
+  },
+  {
+   "key": "915a0bde301a4f78a009022ea2469c2e",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-NJ.W6QK ACC-PICA",
+    "closes": "2026-08-31T15:00:00-04:00",
+    "number": "W15QKN-26-X-1C9P",
+    "posted": "2026-08-06",
+    "text": "50mm weapon based Air Defense Counter-Unmanned Aircraft System (C-UAS)",
+    "title": "50mm weapon based Air Defense Counter-Unmanned Aircraft System (C-UAS)",
+    "type": "Sources Sought",
+    "url": "https://sam.gov/workspace/contract/opp/915a0bde301a4f78a009022ea2469c2e/view"
+   }
+  },
+  {
    "key": "da82da9604cb462cb1f612cbaa42366c",
    "source": "pipeline-sam-unmanned",
    "fields": {
@@ -857,20 +833,6 @@
    }
   },
   {
-   "key": "cd47728fba5f459e943009f7ee50dc0c",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-NJ.W6QK ACC-PICA",
-    "closes": "2026-08-31T15:00:00-04:00",
-    "number": "W15QKN-26-X-1C9P",
-    "posted": "2026-07-30",
-    "text": "50mm weapon based Air Defense Counter-Unmanned Aircraft System (C-UAS)",
-    "title": "50mm weapon based Air Defense Counter-Unmanned Aircraft System (C-UAS)",
-    "type": "Sources Sought",
-    "url": "https://sam.gov/workspace/contract/opp/cd47728fba5f459e943009f7ee50dc0c/view"
-   }
-  },
-  {
    "key": "6552b25bf0e648f39b44228275998eef",
    "source": "pipeline-sam-unmanned",
    "fields": {
@@ -897,20 +859,6 @@
     "title": "Expeditionary Unmanned Aerial System (eUAS) Manufacturing and Employment Capability Request for Information",
     "type": "Special Notice",
     "url": "https://sam.gov/workspace/contract/opp/346a90fa681a4db0b14f311fafe95764/view"
-   }
-  },
-  {
-   "key": "ccb1df3f18604375b96e7a61d3065913",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.COMMANDING OFFICER",
-    "closes": "2026-08-06T12:00:00-04:00",
-    "number": "AS-26-06-001",
-    "posted": "2026-07-23",
-    "text": "Improved Maintenance, Sustainment, and Training for Unmanned Surface Vessels (USVs)",
-    "title": "Improved Maintenance, Sustainment, and Training for Unmanned Surface Vessels (USVs)",
-    "type": "Special Notice",
-    "url": "https://sam.gov/workspace/contract/opp/ccb1df3f18604375b96e7a61d3065913/view"
    }
   },
   {
@@ -992,19 +940,6 @@
     "text": "Fiscal Year 2024 Flood Mitigation Assistance Swift Current",
     "title": "Fiscal Year 2024 Flood Mitigation Assistance Swift Current",
     "url": "https://www.grants.gov/search-results-detail/354620"
-   }
-  },
-  {
-   "key": "358015",
-   "source": "pipeline-unmanned",
-   "fields": {
-    "agency": "Department of Homeland Security - FEMA",
-    "closes": "08/06/2026",
-    "number": "DHS-24-MT-029-000-98",
-    "posted": "01/06/2025",
-    "text": "Fiscal Year 2024 Flood Mitigation Assistance",
-    "title": "Fiscal Year 2024 Flood Mitigation Assistance",
-    "url": "https://www.grants.gov/search-results-detail/358015"
    }
   }
  ]

@@ -1,14 +1,14 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-08-06T09:09:18Z",
+ "fetched_at": "2026-08-07T00:31:03Z",
  "schema_version": 1,
  "records": [
   {
    "key": "cisagov/pshtt",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-08-05T03:38:52Z",
+    "date": "2026-08-06T14:32:07Z",
     "description": "Scan domains and return data based on HTTPS best practices",
     "stars": "694",
     "text": "cisagov/pshtt",
@@ -56,7 +56,7 @@
    "key": "cisagov/orchestrator",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-08-05T15:39:16Z",
+    "date": "2026-08-06T14:29:50Z",
     "description": "Orchestrate gatherer, scanner, saver, and trustymail_reporter",
     "stars": "21",
     "text": "cisagov/orchestrator",
@@ -80,7 +80,7 @@
    "key": "cisagov/cyhy_amis",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-08-05T03:39:08Z",
+    "date": "2026-08-06T15:37:29Z",
     "description": "AWS infrastructure for Cyber Hygiene and BOD 18-01 scanning",
     "stars": "24",
     "text": "cisagov/cyhy_amis",
@@ -116,7 +116,7 @@
    "key": "cisagov/cyhy-reports",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-08-05T19:03:31Z",
+    "date": "2026-08-06T15:27:58Z",
     "description": "Code to generate Cyber Hygiene (CyHy) reports",
     "stars": "12",
     "text": "cisagov/cyhy-reports",
@@ -128,7 +128,7 @@
    "key": "cisagov/ncats-webui",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-08-05T03:41:08Z",
+    "date": "2026-08-06T14:23:24Z",
     "description": "A web application for displaying CyHy Vulnerability Scanning data",
     "stars": "5",
     "text": "cisagov/ncats-webui",
@@ -272,9 +272,9 @@
    "key": "cisagov/cset",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-08-04T08:34:52Z",
+    "date": "2026-08-06T21:52:29Z",
     "description": "Cybersecurity Evaluation Tool",
-    "stars": "1876",
+    "stars": "1877",
     "text": "cisagov/cset",
     "title": "cisagov/cset",
     "url": "https://github.com/cisagov/cset"
@@ -332,7 +332,7 @@
    "key": "cisagov/pca-gophish-composition",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-08-05T03:46:09Z",
+    "date": "2026-08-06T14:09:36Z",
     "description": "Phishing campaign docker composition for Gophish",
     "stars": "44",
     "text": "cisagov/pca-gophish-composition",
@@ -392,7 +392,7 @@
    "key": "cisagov/guacamole-packer",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-08-05T03:42:42Z",
+    "date": "2026-08-06T20:02:22Z",
     "description": "Create machine images containing the Guacamole remote desktop gateway",
     "stars": "12",
     "text": "cisagov/guacamole-packer",
@@ -416,7 +416,7 @@
    "key": "cisagov/kali-packer",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-08-05T03:41:52Z",
+    "date": "2026-08-06T14:48:32Z",
     "description": "This project can be used to create AMIs based on Kali Linux, a penetration testing distribution.",
     "stars": "21",
     "text": "cisagov/kali-packer",
@@ -500,7 +500,7 @@
    "key": "cisagov/nessus-packer",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-08-05T03:40:09Z",
+    "date": "2026-08-06T22:04:29Z",
     "description": "Create machine images containing the Nessus vulnerability scanner",
     "stars": "13",
     "text": "cisagov/nessus-packer",
@@ -596,7 +596,7 @@
    "key": "idaholab/EMRALD",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-07-28T23:07:03Z",
+    "date": "2026-08-06T17:13:40Z",
     "description": "Event Modeling Risk Assessment using Linked Diagrams (EMRALD) is a software tool developed at INL for researching the capabilities of dynamic PRA (Probabilistic Risk Assessment). In order to promote the effective use of dynamic PRA by the general community, EMRALD focuses on the following key aspects: Simplifying the modeling process by providing a structure that corresponds to traditional PRA modeling methods Providing a user interface (UI) that makes it easy for the user to model and visualize complex interactions Allowing the user to couple with other analysis applications such as physics based simulations. This includes one-way communication for most applications and two-way loose coupling for customizable applications Providing the sequence and timing of events that lead to the specified outcomes when calculating results Traditional aspects of components with basic events, fault trees, and event trees are all captured in a dynamic framework of state diagrams, which are displayed ",
     "stars": "30",
     "text": "idaholab/EMRALD",
@@ -751,7 +751,7 @@
    "key": "llnl/conduit",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-08-06T06:59:39Z",
+    "date": "2026-08-06T20:15:28Z",
     "description": "Simplified Data Exchange for HPC Simulations",
     "stars": "247",
     "text": "llnl/conduit",
@@ -799,7 +799,7 @@
    "key": "llnl/RAJA",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-08-05T21:55:11Z",
+    "date": "2026-08-06T23:01:15Z",
     "description": "RAJA Performance Portability Layer (C++)",
     "stars": "590",
     "text": "llnl/RAJA",
@@ -956,7 +956,7 @@
    "fields": {
     "date": "2026-07-13T19:47:24Z",
     "description": "Contains the NASA open source software catalog for automatic deployment to code.nasa.gov",
-    "stars": "344",
+    "stars": "345",
     "text": "nasa/Open-Source-Catalog",
     "title": "nasa/Open-Source-Catalog",
     "url": "https://github.com/nasa/Open-Source-Catalog"
@@ -978,7 +978,7 @@
    "key": "nasa/trick",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-08-05T20:06:42Z",
+    "date": "2026-08-06T23:22:05Z",
     "description": "Trick Simulation Environment.  Trick provides a common set of simulation capabilities and utilities to build simulations automatically.",
     "stars": "163",
     "text": "nasa/trick",
@@ -1002,7 +1002,7 @@
    "key": "nasa/earthdata-search",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-08-05T19:30:09Z",
+    "date": "2026-08-06T23:15:17Z",
     "description": "Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.",
     "stars": "822",
     "text": "nasa/earthdata-search",
@@ -1050,7 +1050,7 @@
    "key": "nasa/Common-Metadata-Repository",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-08-05T20:49:04Z",
+    "date": "2026-08-06T22:25:02Z",
     "description": "The Common Metadata Repository (CMR) is a high-performance, high-quality, continuously evolving metadata system that catalogs Earth Science data and associated service metadata records. These metadata records are registered, modified, discovered, and accessed through programmatic interfaces leveraging standard protocols and APIs.",
     "stars": "393",
     "text": "nasa/Common-Metadata-Repository",
@@ -1086,7 +1086,7 @@
    "key": "ngageoint/hootenanny",
    "source": "oss-ngageoint",
    "fields": {
-    "date": "2026-08-05T14:24:29Z",
+    "date": "2026-08-06T12:56:42Z",
     "description": "Hootenanny conflates multiple maps into a single seamless map.",
     "stars": "386",
     "text": "ngageoint/hootenanny",
@@ -1136,7 +1136,7 @@
    "fields": {
     "date": "2026-07-29T00:32:14Z",
     "description": "A basic Python library to demonstrate reading, writing, display, and simple processing of complex SAR data using the NGA SICD standard.",
-    "stars": "327",
+    "stars": "328",
     "text": "ngageoint/sarpy",
     "title": "ngageoint/sarpy",
     "url": "https://github.com/ngageoint/sarpy"
@@ -1169,7 +1169,7 @@
    "key": "nsacyber/HIRS",
    "source": "oss-nsacyber",
    "fields": {
-    "date": "2026-08-04T15:14:31Z",
+    "date": "2026-08-06T21:56:05Z",
     "description": "Trusted Computing based services supporting TPM provisioning and supply chain validation concepts. #nsacyber",
     "stars": "212",
     "text": "nsacyber/HIRS",
@@ -1181,7 +1181,7 @@
    "key": "nsacyber/paccor",
    "source": "oss-nsacyber",
    "fields": {
-    "date": "2026-07-21T12:28:10Z",
+    "date": "2026-08-06T16:56:22Z",
     "description": "The Platform Attribute Certificate Creator can gather component details, create, sign, and validate the TCG-defined Platform Certificate. #nsacyber",
     "stars": "78",
     "text": "nsacyber/paccor",
@@ -1193,7 +1193,7 @@
    "key": "nsacyber/RIM-Tool",
    "source": "oss-nsacyber",
    "fields": {
-    "date": "2026-07-17T16:04:18Z",
+    "date": "2026-08-06T22:22:16Z",
     "description": "A tool to create TCG Reference Integrity Manifest (RIM) files for use with attestation verifiers like HIRS.",
     "stars": "7",
     "text": "nsacyber/RIM-Tool",
@@ -1229,7 +1229,7 @@
    "key": "ORNL/HeCBench",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-08-05T19:46:39Z",
+    "date": "2026-08-06T20:25:37Z",
     "stars": "300",
     "text": "ORNL/HeCBench",
     "title": "ORNL/HeCBench",
@@ -1266,7 +1266,7 @@
    "fields": {
     "date": "2026-07-01T15:20:08Z",
     "description": "Peridynamics with the Cabana library",
-    "stars": "36",
+    "stars": "37",
     "text": "ORNL/CabanaPD",
     "title": "ORNL/CabanaPD",
     "url": "https://github.com/ORNL/CabanaPD"
@@ -1290,7 +1290,7 @@
    "fields": {
     "date": "2026-07-20T16:03:55Z",
     "description": "Runtime provenance for AI and scientific workflows—capture, enrich, and query workflow data via observability adapters and code annotation across edge, cloud, and HPC.",
-    "stars": "29",
+    "stars": "31",
     "text": "ORNL/flowcept",
     "title": "ORNL/flowcept",
     "url": "https://github.com/ORNL/flowcept"
@@ -1300,9 +1300,9 @@
    "key": "ORNL/superneuroabm",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-07-30T20:50:35Z",
+    "date": "2026-08-06T21:20:17Z",
     "description": "A GPU-based multi-agent simulation framework for neuromorphic computing",
-    "stars": "6",
+    "stars": "7",
     "text": "ORNL/superneuroabm",
     "title": "ORNL/superneuroabm",
     "url": "https://github.com/ORNL/superneuroabm"
@@ -1324,7 +1324,7 @@
    "key": "ORNL/GridKit",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-08-06T05:58:21Z",
+    "date": "2026-08-06T23:48:08Z",
     "description": "Modeling framework for power systems simulations and analysis.",
     "stars": "23",
     "text": "ORNL/GridKit",

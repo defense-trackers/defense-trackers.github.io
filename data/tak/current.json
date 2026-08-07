@@ -1,19 +1,43 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-08-06T09:09:57Z",
+ "fetched_at": "2026-08-07T00:33:08Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-08-06T23:45:03Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "54",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
   {
    "key": "felixross66/claude-ai-coding-kit-2026",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-08-06T06:10:00Z",
+    "date": "2026-08-06T23:35:38Z",
     "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation in a 2026 plugin suite.",
     "stars": "2",
     "text": "felixross66/claude-ai-coding-kit-2026",
     "title": "felixross66/claude-ai-coding-kit-2026",
     "url": "https://github.com/felixross66/claude-ai-coding-kit-2026"
+   }
+  },
+  {
+   "key": "trakbridge/trakbridge",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-08-06T12:43:50Z",
+    "description": "A comprehensive web application for bridging tracking devices and services to TAK (Team Awareness Kit) servers.",
+    "stars": "38",
+    "text": "trakbridge/trakbridge",
+    "title": "trakbridge/trakbridge",
+    "url": "https://github.com/trakbridge/trakbridge"
    }
   },
   {
@@ -26,18 +50,6 @@
     "text": "joshuafuller/SRTM2TAK",
     "title": "joshuafuller/SRTM2TAK",
     "url": "https://github.com/joshuafuller/SRTM2TAK"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-08-06T04:05:24Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "54",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -98,18 +110,6 @@
     "text": "9M2PJU/9M2PJU-Open-TAK-Server-Docker",
     "title": "9M2PJU/9M2PJU-Open-TAK-Server-Docker",
     "url": "https://github.com/9M2PJU/9M2PJU-Open-TAK-Server-Docker"
-   }
-  },
-  {
-   "key": "emfoursolutions/trakbridge",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-07-22T18:51:17Z",
-    "description": "A comprehensive web application for bridging tracking devices and services to TAK (Team Awareness Kit) servers.",
-    "stars": "38",
-    "text": "emfoursolutions/trakbridge",
-    "title": "emfoursolutions/trakbridge",
-    "url": "https://github.com/emfoursolutions/trakbridge"
    }
   },
   {
@@ -558,7 +558,7 @@
    "key": "FreeTAKTeam/DigitalArchitectureFramework",
    "source": "tak-freetak",
    "fields": {
-    "date": "2025-10-06T20:22:34Z",
+    "date": "2026-08-06T16:01:56Z",
     "description": "The Digital Architecture Framework (DAF),  is a set modeling tools for Digital Engineering. ",
     "stars": "8",
     "text": "FreeTAKTeam/DigitalArchitectureFramework",
@@ -616,7 +616,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-08-05T19:41:32Z",
+    "date": "2026-08-06T16:23:06Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "95",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -699,9 +699,9 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-08-05T18:52:07Z",
+    "date": "2026-08-06T22:17:55Z",
     "description": "full port of Reticulum and LXMF to Rust with added SDK",
-    "stars": "26",
+    "stars": "27",
     "text": "FreeTAKTeam/LXMF-rs",
     "title": "FreeTAKTeam/LXMF-rs",
     "url": "https://github.com/FreeTAKTeam/LXMF-rs"
@@ -734,7 +734,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-07-27T12:19:58Z",
+    "date": "2026-08-06T15:48:46Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "25",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -874,7 +874,7 @@
    "key": "Cloud-RF/SOOTHSAYER-ATAK-plugin",
    "source": "tak-github",
    "fields": {
-    "date": "2026-08-05T19:46:56Z",
+    "date": "2026-08-06T20:37:33Z",
     "description": "ATAK plugin for SOOTHSAYER",
     "stars": "12",
     "text": "Cloud-RF/SOOTHSAYER-ATAK-plugin",
@@ -1078,7 +1078,7 @@
    "fields": {
     "date": "2026-06-04T21:30:53Z",
     "description": "ATAK Plugin for sending CoT to IMeshService",
-    "stars": "512",
+    "stars": "513",
     "text": "meshtastic/ATAK-Plugin",
     "title": "meshtastic/ATAK-Plugin",
     "url": "https://github.com/meshtastic/ATAK-Plugin"

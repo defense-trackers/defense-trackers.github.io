@@ -1,7 +1,7 @@
 {
  "source": "research-funding",
  "tracker": "research-funding",
- "fetched_at": "2026-08-06T09:09:47Z",
+ "fetched_at": "2026-08-07T00:32:59Z",
  "schema_version": 1,
  "records": [
   {
@@ -19,6 +19,20 @@
    }
   },
   {
+   "key": "2615516",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "699907",
+    "awardee": "University of Maine",
+    "date": "01/01/2027",
+    "program": "AI and Geosciences",
+    "text": "Collaborative Research: CAIG: Assemblage-based machine learning to quantify oceanic geochemical fluxes from marine particle images",
+    "title": "Collaborative Research: CAIG: Assemblage-based machine learning to quantify oceanic geochemical fluxes from marine particle images",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2615516"
+   }
+  },
+  {
    "key": "2613449",
    "source": "research-nsf",
    "fields": {
@@ -30,20 +44,6 @@
     "text": "Identifying Essential Competencies for Artificial Intelligence Assisted Programming in Foundational Engineering Courses",
     "title": "Identifying Essential Competencies for Artificial Intelligence Assisted Programming in Foundational Engineering Courses",
     "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2613449"
-   }
-  },
-  {
-   "key": "2535684",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "397538",
-    "awardee": "University of California-Santa Cruz",
-    "date": "01/01/2027",
-    "program": "SPSE-Study of Physics of Earth",
-    "text": "Collaborative Research: Global mapping of the Earth's D\" layer using machine learning and implications for deep mantle structure, properties and dynamics",
-    "title": "Collaborative Research: Global mapping of the Earth's D\" layer using machine learning and implications for deep mantle structure, properties and dynamics",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2535684"
    }
   },
   {
@@ -61,17 +61,17 @@
    }
   },
   {
-   "key": "2615516",
+   "key": "2535684",
    "source": "research-nsf",
    "fields": {
     "agency": "NSF",
-    "amount": "699907",
-    "awardee": "University of Maine",
+    "amount": "397538",
+    "awardee": "University of California-Santa Cruz",
     "date": "01/01/2027",
-    "program": "AI and Geosciences",
-    "text": "Collaborative Research: CAIG: Assemblage-based machine learning to quantify oceanic geochemical fluxes from marine particle images",
-    "title": "Collaborative Research: CAIG: Assemblage-based machine learning to quantify oceanic geochemical fluxes from marine particle images",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2615516"
+    "program": "SPSE-Study of Physics of Earth",
+    "text": "Collaborative Research: Global mapping of the Earth's D\" layer using machine learning and implications for deep mantle structure, properties and dynamics",
+    "title": "Collaborative Research: Global mapping of the Earth's D\" layer using machine learning and implications for deep mantle structure, properties and dynamics",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2535684"
    }
   }
  ]
