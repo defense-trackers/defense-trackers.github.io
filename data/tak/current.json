@@ -1,31 +1,31 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-08-08T07:19:17Z",
+ "fetched_at": "2026-08-08T19:17:16Z",
  "schema_version": 1,
  "records": [
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-08-07T16:21:38Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "54",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
-   }
-  },
   {
    "key": "felixross66/claude-ai-coding-kit-2026",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-08-07T04:01:18Z",
+    "date": "2026-08-08T17:29:31Z",
     "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation in a 2026 plugin suite.",
     "stars": "2",
     "text": "felixross66/claude-ai-coding-kit-2026",
     "title": "felixross66/claude-ai-coding-kit-2026",
     "url": "https://github.com/felixross66/claude-ai-coding-kit-2026"
+   }
+  },
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-08-08T18:33:22Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "54",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -94,7 +94,7 @@
    "fields": {
     "date": "2026-07-30T15:37:33Z",
     "description": "SwiftTAK (Team Awareness Kit) is a Swift Package for exchanging information with TAK Products",
-    "stars": "28",
+    "stars": "29",
     "text": "flighttactics/SwiftTAK",
     "title": "flighttactics/SwiftTAK",
     "url": "https://github.com/flighttactics/SwiftTAK"
@@ -130,7 +130,7 @@
    "fields": {
     "date": "2026-06-27T00:17:34Z",
     "description": "Open-source TAK (Team Awareness Kit) client for iPhone and iPad. Swift + SwiftUI. Apache 2.0.",
-    "stars": "5",
+    "stars": "6",
     "text": "engindearing-projects/OmniTAK-iOS",
     "title": "engindearing-projects/OmniTAK-iOS",
     "url": "https://github.com/engindearing-projects/OmniTAK-iOS"
@@ -142,7 +142,7 @@
    "fields": {
     "date": "2026-06-26T23:49:09Z",
     "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
-    "stars": "18",
+    "stars": "19",
     "text": "engindearing-projects/OmniTAK-Android",
     "title": "engindearing-projects/OmniTAK-Android",
     "url": "https://github.com/engindearing-projects/OmniTAK-Android"
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-08-07T21:31:52Z",
+    "date": "2026-08-08T18:12:54Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "27",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -751,6 +751,65 @@
     "text": "FreeTAKTeam/R3AKTClient",
     "title": "FreeTAKTeam/R3AKTClient",
     "url": "https://github.com/FreeTAKTeam/R3AKTClient"
+   }
+  },
+  {
+   "key": "FreeTAKTeam/ReticulumDistributedObject",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2026-08-08T17:59:54Z",
+    "stars": "0",
+    "text": "FreeTAKTeam/ReticulumDistributedObject",
+    "title": "FreeTAKTeam/ReticulumDistributedObject",
+    "url": "https://github.com/FreeTAKTeam/ReticulumDistributedObject"
+   }
+  },
+  {
+   "key": "FreeTAKTeam/rpp-spec",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2026-08-08T17:49:47Z",
+    "description": "Normative specification for the Reticulum Package Protocol",
+    "stars": "0",
+    "text": "FreeTAKTeam/rpp-spec",
+    "title": "FreeTAKTeam/rpp-spec",
+    "url": "https://github.com/FreeTAKTeam/rpp-spec"
+   }
+  },
+  {
+   "key": "joshuafuller/atak-plugin-skill",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-08-08T19:14:29Z",
+    "description": "Claude Code skill for ATAK plugin development: measured facts about signing, loading, testing and shipping ATAK-CIV plugins.",
+    "stars": "0",
+    "text": "joshuafuller/atak-plugin-skill",
+    "title": "joshuafuller/atak-plugin-skill",
+    "url": "https://github.com/joshuafuller/atak-plugin-skill"
+   }
+  },
+  {
+   "key": "CopIXus/PlowTAK",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-08-08T19:07:52Z",
+    "description": "PlowTAK — ATAK plugin for snow plow fleet coverage tracking during winter storms (CopIX)",
+    "stars": "0",
+    "text": "CopIXus/PlowTAK",
+    "title": "CopIXus/PlowTAK",
+    "url": "https://github.com/CopIXus/PlowTAK"
+   }
+  },
+  {
+   "key": "joshuafuller/atak-plugin-dev",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-08-08T17:00:00Z",
+    "description": "Dockerised ATAK plugin build environment: build, sideload and run instrumented tests against ATAK-CIV on an emulator, without setting up a host toolchain.",
+    "stars": "0",
+    "text": "joshuafuller/atak-plugin-dev",
+    "title": "joshuafuller/atak-plugin-dev",
+    "url": "https://github.com/joshuafuller/atak-plugin-dev"
    }
   },
   {
@@ -1058,41 +1117,6 @@
     "text": "niccellular/wifi2cot",
     "title": "niccellular/wifi2cot",
     "url": "https://github.com/niccellular/wifi2cot"
-   }
-  },
-  {
-   "key": "engindearing-projects/omni-COT",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-06-08T00:20:56Z",
-    "description": "One Plugin to do all the COT things I want to do in ATAK",
-    "stars": "18",
-    "text": "engindearing-projects/omni-COT",
-    "title": "engindearing-projects/omni-COT",
-    "url": "https://github.com/engindearing-projects/omni-COT"
-   }
-  },
-  {
-   "key": "meshtastic/ATAK-Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-06-04T21:30:53Z",
-    "description": "ATAK Plugin for sending CoT to IMeshService",
-    "stars": "513",
-    "text": "meshtastic/ATAK-Plugin",
-    "title": "meshtastic/ATAK-Plugin",
-    "url": "https://github.com/meshtastic/ATAK-Plugin"
-   }
-  },
-  {
-   "key": "jjames31/Kaonic-ATAK-Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-06-04T15:40:47Z",
-    "stars": "1",
-    "text": "jjames31/Kaonic-ATAK-Plugin",
-    "title": "jjames31/Kaonic-ATAK-Plugin",
-    "url": "https://github.com/jjames31/Kaonic-ATAK-Plugin"
    }
   },
   {
