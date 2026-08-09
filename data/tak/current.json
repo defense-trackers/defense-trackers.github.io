@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-08-08T19:17:16Z",
+ "fetched_at": "2026-08-09T07:19:56Z",
  "schema_version": 1,
  "records": [
   {
    "key": "felixross66/claude-ai-coding-kit-2026",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-08-08T17:29:31Z",
+    "date": "2026-08-09T07:18:25Z",
     "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation in a 2026 plugin suite.",
     "stars": "2",
     "text": "felixross66/claude-ai-coding-kit-2026",
@@ -17,10 +17,22 @@
    }
   },
   {
+   "key": "Audrey-cn/universal-agent-embedding-kit",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-08-09T01:39:26Z",
+    "description": "Model-agnostic, embeddable agent kit — verification, adaptive context, effort routing, cache-aware cost model, cross-platform graded benchmarks. Evidence-first: every metric is red-teamed and tagged on an evidence-strength ladder with honest caveats.",
+    "stars": "0",
+    "text": "Audrey-cn/universal-agent-embedding-kit",
+    "title": "Audrey-cn/universal-agent-embedding-kit",
+    "url": "https://github.com/Audrey-cn/universal-agent-embedding-kit"
+   }
+  },
+  {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-08-08T18:33:22Z",
+    "date": "2026-08-09T07:14:11Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "54",
     "text": "takwerx/infra-TAK",
@@ -74,18 +86,6 @@
     "text": "snstac/dronecot",
     "title": "snstac/dronecot",
     "url": "https://github.com/snstac/dronecot"
-   }
-  },
-  {
-   "key": "Audrey-cn/universal-agent-embedding-kit",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-07-30T23:07:13Z",
-    "description": "Model-agnostic, embeddable agent kit — verification, adaptive context, effort routing, cache-aware cost model, cross-platform graded benchmarks. Evidence-first: every metric is red-teamed and tagged on an evidence-strength ladder with honest caveats.",
-    "stars": "0",
-    "text": "Audrey-cn/universal-agent-embedding-kit",
-    "title": "Audrey-cn/universal-agent-embedding-kit",
-    "url": "https://github.com/Audrey-cn/universal-agent-embedding-kit"
    }
   },
   {
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-08-08T18:12:54Z",
+    "date": "2026-08-09T00:24:27Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "27",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -777,22 +777,10 @@
    }
   },
   {
-   "key": "joshuafuller/atak-plugin-skill",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-08-08T19:14:29Z",
-    "description": "Claude Code skill for ATAK plugin development: measured facts about signing, loading, testing and shipping ATAK-CIV plugins.",
-    "stars": "0",
-    "text": "joshuafuller/atak-plugin-skill",
-    "title": "joshuafuller/atak-plugin-skill",
-    "url": "https://github.com/joshuafuller/atak-plugin-skill"
-   }
-  },
-  {
    "key": "CopIXus/PlowTAK",
    "source": "tak-github",
    "fields": {
-    "date": "2026-08-08T19:07:52Z",
+    "date": "2026-08-09T03:25:08Z",
     "description": "PlowTAK — ATAK plugin for snow plow fleet coverage tracking during winter storms (CopIX)",
     "stars": "0",
     "text": "CopIXus/PlowTAK",
@@ -801,15 +789,39 @@
    }
   },
   {
+   "key": "RyanR3/TakVideoWall",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-08-09T03:21:15Z",
+    "description": "ATAK plugin for simultaneous multi-stream video monitoring: adaptive 2×2 paged grid, CoT-based feed discovery, snap-to-sender map integration.",
+    "stars": "1",
+    "text": "RyanR3/TakVideoWall",
+    "title": "RyanR3/TakVideoWall",
+    "url": "https://github.com/RyanR3/TakVideoWall"
+   }
+  },
+  {
    "key": "joshuafuller/atak-plugin-dev",
    "source": "tak-github",
    "fields": {
-    "date": "2026-08-08T17:00:00Z",
+    "date": "2026-08-08T21:16:07Z",
     "description": "Dockerised ATAK plugin build environment: build, sideload and run instrumented tests against ATAK-CIV on an emulator, without setting up a host toolchain.",
     "stars": "0",
     "text": "joshuafuller/atak-plugin-dev",
     "title": "joshuafuller/atak-plugin-dev",
     "url": "https://github.com/joshuafuller/atak-plugin-dev"
+   }
+  },
+  {
+   "key": "joshuafuller/atak-plugin-skill",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-08-08T20:15:01Z",
+    "description": "Claude Code skill for ATAK plugin development: measured facts about signing, loading, testing and shipping ATAK-CIV plugins.",
+    "stars": "0",
+    "text": "joshuafuller/atak-plugin-skill",
+    "title": "joshuafuller/atak-plugin-skill",
+    "url": "https://github.com/joshuafuller/atak-plugin-skill"
    }
   },
   {
@@ -1105,18 +1117,6 @@
     "text": "jpat-12/ATAK-Plugin_EFJohnson",
     "title": "jpat-12/ATAK-Plugin_EFJohnson",
     "url": "https://github.com/jpat-12/ATAK-Plugin_EFJohnson"
-   }
-  },
-  {
-   "key": "niccellular/wifi2cot",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-06-09T16:44:09Z",
-    "description": "ATAK Plugin to grab RSSI values from local Access Points and try to guess where they are.",
-    "stars": "30",
-    "text": "niccellular/wifi2cot",
-    "title": "niccellular/wifi2cot",
-    "url": "https://github.com/niccellular/wifi2cot"
    }
   },
   {

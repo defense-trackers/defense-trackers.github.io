@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-08-08T19:17:19Z",
+ "fetched_at": "2026-08-09T07:19:59Z",
  "schema_version": 1,
  "records": [
   {
@@ -230,18 +230,6 @@
     "text": "RAYTHEON COMPANY",
     "title": "RAYTHEON COMPANY",
     "url": "https://www.usaspending.gov/award/CONT_AWD_HY023326C0002_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_0004_9700_FA807514D0025_9700",
-   "source": "transition-prototype",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "5.564235946e+07",
-    "description": "IGF::CT::IGF  DT 15-1178 LABOR\u0026MATERIAL IN SUPPORT OF OPERATIONAL, TECHNICAL, ENGINEERING, AND TRANSITION ANALYSIS FOR DEVELOPMENT AND DEPLOYMENT OF EMERGING CAPABILITIES AND PROTOTYPES",
-    "text": "KBR WYLE SERVICES, LLC",
-    "title": "KBR WYLE SERVICES, LLC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_0004_9700_FA807514D0025_9700/"
    }
   },
   {
@@ -602,6 +590,18 @@
     "text": "GENERAL DYNAMICS LAND SYSTEMS INC.",
     "title": "GENERAL DYNAMICS LAND SYSTEMS INC.",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W56HZV24C0030_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_FA807520F0084_9700_FA807518D0014_9700",
+   "source": "transition-prototype",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1.876245492e+07",
+    "description": "OPERATIONAL, TECHNICAL, ENGINEERING, AND TRANSITION ANALYSIS FOR DEVELOPMENT AND DEPLOYMENT OF EMERGING CAPABILITIES AND PROTOTYPES FOR LAND, AIR, SPACE, AND PORT\u0026COASTAL SURVEILLANCE PROGRAMS",
+    "text": "AMENTUM SERVICES, INC.",
+    "title": "AMENTUM SERVICES, INC.",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA807520F0084_9700_FA807518D0014_9700/"
    }
   },
   {
