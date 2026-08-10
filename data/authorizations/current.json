@@ -1,7 +1,7 @@
 {
  "source": "authorizations",
  "tracker": "authorizations",
- "fetched_at": "2026-08-09T19:19:09Z",
+ "fetched_at": "2026-08-10T08:06:45Z",
  "schema_version": 1,
  "records": [
   {
@@ -1654,20 +1654,6 @@
    }
   },
   {
-   "key": "FR2001619337",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2024-03-14T20:00:00.000Z",
-    "impact": "High",
-    "model": "SaaS",
-    "status": "FedRAMP Authorized",
-    "text": "Idira Identity Security Government Services Platform",
-    "title": "Idira Identity Security Government Services Platform",
-    "url": "https://www.cyberark.com/products/access-management/"
-   }
-  },
-  {
    "key": "FR2317253567",
    "source": "authorizations-fedramp-ai",
    "fields": {
@@ -1679,6 +1665,20 @@
     "text": "GCS-HIGH",
     "title": "GCS-HIGH",
     "url": "http://www.paloaltonetworks.com/"
+   }
+  },
+  {
+   "key": "FR2001619337",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2024-03-14T20:00:00.000Z",
+    "impact": "High",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Idira Identity Security Government Services Platform",
+    "title": "Idira Identity Security Government Services Platform",
+    "url": "https://www.cyberark.com/products/access-management/"
    }
   },
   {
@@ -2406,16 +2406,16 @@
    }
   },
   {
-   "key": "FR2421252636",
+   "key": "FR2421252644",
    "source": "authorizations-fedramp-ai",
    "fields": {
     "assessor": "Schellman Compliance, LLC",
-    "date": "2025-05-14T20:00:00.000Z",
+    "date": "2025-06-16T20:00:00.000Z",
     "impact": "Moderate",
     "model": "SaaS",
     "status": "FedRAMP Authorized",
-    "text": "Varonis Data Security Platform",
-    "title": "Varonis Data Security Platform",
+    "text": "Varonis DatAdvantage Cloud",
+    "title": "Varonis DatAdvantage Cloud",
     "url": "https://www.varonis.com"
    }
   },
