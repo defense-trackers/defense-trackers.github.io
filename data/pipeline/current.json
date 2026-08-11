@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-08-11T07:40:58Z",
+ "fetched_at": "2026-08-11T19:46:03Z",
  "schema_version": 1,
  "records": [
   {
@@ -609,6 +609,19 @@
    }
   },
   {
+   "key": "363530",
+   "source": "pipeline-logistics",
+   "fields": {
+    "agency": "Air Force Office of Scientific Research",
+    "closes": "04/05/2027",
+    "number": "NOFOAFRLAFOSR20260003",
+    "posted": "08/10/2026",
+    "text": "FY26 DEFENSE ESTABLISHED PROGRAM TO STIMULATE COMPETITIVE RESEARCH (DEPSCoR) CAPACITY BUILDING (CB)",
+    "title": "FY26 DEFENSE ESTABLISHED PROGRAM TO STIMULATE COMPETITIVE RESEARCH (DEPSCoR) CAPACITY BUILDING (CB)",
+    "url": "https://www.grants.gov/search-results-detail/363530"
+   }
+  },
+  {
    "key": "332894",
    "source": "pipeline-logistics",
    "fields": {
@@ -686,6 +699,49 @@
    }
   },
   {
+   "key": "cef79c7a0e9742e5bbd82017699f5ac8",
+   "source": "pipeline-sam-autonomy",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY ACQUISITION SUPPORT CENTER.RAPID CAPABILITIES CRITICAL TECH OFC.W6DV PEO M \u0026 S REDSTONE",
+    "closes": "2026-09-01T12:00:00-04:00",
+    "number": "W50RAJ269A014",
+    "posted": "2026-08-11",
+    "text": "Common Autonomous Multi-Domain Launcher (CAML) Autonomous Mobility Platform (AMP) -   Prototype - 36K Lbs. Variant , Leader Prototype, Autonomy Command and Control (C2) and Integration Request for Solutions Brief",
+    "title": "Common Autonomous Multi-Domain Launcher (CAML) Autonomous Mobility Platform (AMP) -   Prototype - 36K Lbs. Variant , Leader Prototype, Autonomy Command and Control (C2) and Integration Request for Solutions Brief",
+    "type": "Special Notice",
+    "url": "https://sam.gov/workspace/contract/opp/cef79c7a0e9742e5bbd82017699f5ac8/view"
+   }
+  },
+  {
+   "key": "4eed7af49a704ad1a3f6751c2f590a32",
+   "source": "pipeline-sam-autonomy",
+   "fields": {
+    "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA MARSHALL SPACE FLIGHT CENTER",
+    "closes": "2027-08-11T15:00:00-05:00",
+    "number": "T2P-MSFC-00058",
+    "posted": "2026-08-11",
+    "text": "TECHNOLOGY TRANSFER OPPORTUNITY: 3D Lidar for Autonomous Landing Site Selection (GSC-TOPS-353)",
+    "title": "TECHNOLOGY TRANSFER OPPORTUNITY: 3D Lidar for Autonomous Landing Site Selection (GSC-TOPS-353)",
+    "type": "Special Notice",
+    "url": "https://sam.gov/workspace/contract/opp/4eed7af49a704ad1a3f6751c2f590a32/view"
+   }
+  },
+  {
+   "key": "272925e7d80242e889313bf099e46309",
+   "source": "pipeline-sam-autonomy",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-OO.413TH CSB",
+    "closes": "2026-08-17T17:00:00-04:00",
+    "number": "W91QVP-26-S-GTEADAutonomousSustainment",
+    "posted": "2026-08-11",
+    "setaside": "No Set aside used",
+    "text": "Global Tactical Edge Acquisition Directorate (G-TEAD) USARPAC ACE 27-01: Autonomous Sustainment Powered by xTech​",
+    "title": "Global Tactical Edge Acquisition Directorate (G-TEAD) USARPAC ACE 27-01: Autonomous Sustainment Powered by xTech​",
+    "type": "Special Notice",
+    "url": "https://sam.gov/workspace/contract/opp/272925e7d80242e889313bf099e46309/view"
+   }
+  },
+  {
    "key": "b1140aa605ee4f2bb775dfbfe42589f6",
    "source": "pipeline-sam-autonomy",
    "fields": {
@@ -725,21 +781,6 @@
     "title": "Request for Solutions (RFS): Autonomous Coding (AC) and Automated Appeals \u0026 Denials Management (ADM)",
     "type": "Solicitation",
     "url": "https://sam.gov/workspace/contract/opp/0b3185c8044941b1a91f6c6b9e3f0230/view"
-   }
-  },
-  {
-   "key": "0710c0b6991c47afae92a6d5f090db8b",
-   "source": "pipeline-sam-autonomy",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-OO.413TH CSB",
-    "closes": "2026-08-17T17:00:00-04:00",
-    "number": "W91QVP-26-S-GTEADAutonomousSustainment",
-    "posted": "2026-08-05",
-    "setaside": "No Set aside used",
-    "text": "Global Tactical Edge Acquisition Directorate (G-TEAD) USARPAC ACE 27-01: Autonomous Sustainment Powered by xTech​",
-    "title": "Global Tactical Edge Acquisition Directorate (G-TEAD) USARPAC ACE 27-01: Autonomous Sustainment Powered by xTech​",
-    "type": "Special Notice",
-    "url": "https://sam.gov/workspace/contract/opp/0710c0b6991c47afae92a6d5f090db8b/view"
    }
   },
   {

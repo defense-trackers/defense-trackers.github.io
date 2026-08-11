@@ -1,7 +1,7 @@
 {
  "source": "deadlines",
  "tracker": "deadlines",
- "fetched_at": "2026-08-11T07:41:22Z",
+ "fetched_at": "2026-08-11T19:46:29Z",
  "schema_version": 1,
  "records": [
   {
@@ -590,6 +590,19 @@
    }
   },
   {
+   "key": "close-363530",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "Air Force Office of Scientific Research",
+    "closes": "2027-04-05",
+    "date": "2027-04-05",
+    "from": "pipeline",
+    "text": "FY26 DEFENSE ESTABLISHED PROGRAM TO STIMULATE COMPETITIVE RESEARCH (DEPSCoR) CAPACITY BUILDING (CB)",
+    "title": "FY26 DEFENSE ESTABLISHED PROGRAM TO STIMULATE COMPETITIVE RESEARCH (DEPSCoR) CAPACITY BUILDING (CB)",
+    "url": "https://www.grants.gov/search-results-detail/363530"
+   }
+  },
+  {
    "key": "close-332894",
    "source": "deadlines-solicitations",
    "fields": {
@@ -629,6 +642,45 @@
    }
   },
   {
+   "key": "close-cef79c7a0e9742e5bbd82017699f5ac8",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY ACQUISITION SUPPORT CENTER.RAPID CAPABILITIES CRITICAL TECH OFC.W6DV PEO M \u0026 S REDSTONE",
+    "closes": "2026-09-01",
+    "date": "2026-09-01",
+    "from": "pipeline",
+    "text": "Common Autonomous Multi-Domain Launcher (CAML) Autonomous Mobility Platform (AMP) -   Prototype - 36K Lbs. Variant , Leader Prototype, Autonomy Command and Control (C2) and Integration Request for Solutions Brief",
+    "title": "Common Autonomous Multi-Domain Launcher (CAML) Autonomous Mobility Platform (AMP) -   Prototype - 36K Lbs. Variant , Leader Prototype, Autonomy Command and Control (C2) and Integration Request for Solutions Brief",
+    "url": "https://sam.gov/workspace/contract/opp/cef79c7a0e9742e5bbd82017699f5ac8/view"
+   }
+  },
+  {
+   "key": "close-4eed7af49a704ad1a3f6751c2f590a32",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA MARSHALL SPACE FLIGHT CENTER",
+    "closes": "2027-08-11",
+    "date": "2027-08-11",
+    "from": "pipeline",
+    "text": "TECHNOLOGY TRANSFER OPPORTUNITY: 3D Lidar for Autonomous Landing Site Selection (GSC-TOPS-353)",
+    "title": "TECHNOLOGY TRANSFER OPPORTUNITY: 3D Lidar for Autonomous Landing Site Selection (GSC-TOPS-353)",
+    "url": "https://sam.gov/workspace/contract/opp/4eed7af49a704ad1a3f6751c2f590a32/view"
+   }
+  },
+  {
+   "key": "close-272925e7d80242e889313bf099e46309",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-OO.413TH CSB",
+    "closes": "2026-08-17",
+    "date": "2026-08-17",
+    "from": "pipeline",
+    "text": "Global Tactical Edge Acquisition Directorate (G-TEAD) USARPAC ACE 27-01: Autonomous Sustainment Powered by xTech​",
+    "title": "Global Tactical Edge Acquisition Directorate (G-TEAD) USARPAC ACE 27-01: Autonomous Sustainment Powered by xTech​",
+    "url": "https://sam.gov/workspace/contract/opp/272925e7d80242e889313bf099e46309/view"
+   }
+  },
+  {
    "key": "close-b1140aa605ee4f2bb775dfbfe42589f6",
    "source": "deadlines-solicitations",
    "fields": {
@@ -665,19 +717,6 @@
     "text": "Request for Solutions (RFS): Autonomous Coding (AC) and Automated Appeals \u0026 Denials Management (ADM)",
     "title": "Request for Solutions (RFS): Autonomous Coding (AC) and Automated Appeals \u0026 Denials Management (ADM)",
     "url": "https://sam.gov/workspace/contract/opp/0b3185c8044941b1a91f6c6b9e3f0230/view"
-   }
-  },
-  {
-   "key": "close-0710c0b6991c47afae92a6d5f090db8b",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-OO.413TH CSB",
-    "closes": "2026-08-17",
-    "date": "2026-08-17",
-    "from": "pipeline",
-    "text": "Global Tactical Edge Acquisition Directorate (G-TEAD) USARPAC ACE 27-01: Autonomous Sustainment Powered by xTech​",
-    "title": "Global Tactical Edge Acquisition Directorate (G-TEAD) USARPAC ACE 27-01: Autonomous Sustainment Powered by xTech​",
-    "url": "https://sam.gov/workspace/contract/opp/0710c0b6991c47afae92a6d5f090db8b/view"
    }
   },
   {

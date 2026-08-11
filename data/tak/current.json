@@ -1,14 +1,26 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-08-11T07:41:19Z",
+ "fetched_at": "2026-08-11T19:46:26Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "rixau/atak-reactive",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-08-11T19:21:06Z",
+    "description": "Build ATAK (Android Team Awareness Kit) plugin UIs with React and TypeScript. Typed WebView bridge, hot reload, incremental adoption.",
+    "stars": "2",
+    "text": "rixau/atak-reactive",
+    "title": "rixau/atak-reactive",
+    "url": "https://github.com/rixau/atak-reactive"
+   }
+  },
   {
    "key": "felixross66/claude-ai-coding-kit-2026",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-08-11T06:50:23Z",
+    "date": "2026-08-11T18:04:08Z",
     "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation in a 2026 plugin suite.",
     "stars": "1",
     "text": "felixross66/claude-ai-coding-kit-2026",
@@ -110,18 +122,6 @@
     "text": "copyleftdev/tak-rs",
     "title": "copyleftdev/tak-rs",
     "url": "https://github.com/copyleftdev/tak-rs"
-   }
-  },
-  {
-   "key": "rixau/atak-reactive",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-07-03T16:33:39Z",
-    "description": "Build ATAK (Android Team Awareness Kit) plugin UIs with React and TypeScript. Typed WebView bridge, hot reload, incremental adoption.",
-    "stars": "2",
-    "text": "rixau/atak-reactive",
-    "title": "rixau/atak-reactive",
-    "url": "https://github.com/rixau/atak-reactive"
    }
   },
   {
@@ -346,7 +346,7 @@
    "fields": {
     "date": "2024-10-29T11:52:00Z",
     "description": "Situational Awareness Server compatible with TAK clients",
-    "stars": "940",
+    "stars": "941",
     "text": "FreeTAKTeam/FreeTakServer",
     "title": "FreeTAKTeam/FreeTakServer",
     "url": "https://github.com/FreeTAKTeam/FreeTakServer"
@@ -616,7 +616,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-08-07T10:34:06Z",
+    "date": "2026-08-11T10:51:26Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "96",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-08-10T18:42:17Z",
+    "date": "2026-08-11T18:38:55Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "27",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -780,12 +780,23 @@
    "key": "CopIXus/PlowTAK",
    "source": "tak-github",
    "fields": {
-    "date": "2026-08-10T21:07:08Z",
+    "date": "2026-08-11T19:29:24Z",
     "description": "PlowTAK — ATAK plugin for snow plow fleet coverage tracking during winter storms (CopIX)",
-    "stars": "1",
+    "stars": "2",
     "text": "CopIXus/PlowTAK",
     "title": "CopIXus/PlowTAK",
     "url": "https://github.com/CopIXus/PlowTAK"
+   }
+  },
+  {
+   "key": "jpat-12/TAK-PluginSuite-ATAK_ICU",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-08-11T15:04:27Z",
+    "stars": "5",
+    "text": "jpat-12/TAK-PluginSuite-ATAK_ICU",
+    "title": "jpat-12/TAK-PluginSuite-ATAK_ICU",
+    "url": "https://github.com/jpat-12/TAK-PluginSuite-ATAK_ICU"
    }
   },
   {
@@ -1106,18 +1117,6 @@
     "text": "niccellular/bt2cot",
     "title": "niccellular/bt2cot",
     "url": "https://github.com/niccellular/bt2cot"
-   }
-  },
-  {
-   "key": "engindearing-projects/tak-live-traffic-guide",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-06-11T02:18:03Z",
-    "description": "Live Google traffic overlay in ATAK (no plugin, custom map source XML) and OmniTAK — verified guide with screenshots and source-level receipts",
-    "stars": "8",
-    "text": "engindearing-projects/tak-live-traffic-guide",
-    "title": "engindearing-projects/tak-live-traffic-guide",
-    "url": "https://github.com/engindearing-projects/tak-live-traffic-guide"
    }
   },
   {
