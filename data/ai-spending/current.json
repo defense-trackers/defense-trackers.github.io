@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-08-11T19:44:45Z",
+ "fetched_at": "2026-08-12T07:54:51Z",
  "schema_version": 1,
  "records": [
   {
@@ -77,6 +77,18 @@
    }
   },
   {
+   "key": "CONT_AWD_W911QX24C0009_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1.799135964e+07",
+    "description": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING-ENABLING TECHNOLOGIES FOR EXPEDITIONARY MANEUVER AND AIR/GROUND RECONNAISSANCE TITLED SPOONMAN UNDER BAA TOPIC ID: ARL-BAA-0037",
+    "text": "EXPEDITION TECHNOLOGY, LLC",
+    "title": "EXPEDITION TECHNOLOGY, LLC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W911QX24C0009_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_HQ003425CE092_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
@@ -134,18 +146,6 @@
     "text": "CACI, INC. - FEDERAL",
     "title": "CACI, INC. - FEDERAL",
     "url": "https://www.usaspending.gov/award/CONT_AWD_FA865023C7318_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_W911QX24C0009_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "1.270385964e+07",
-    "description": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING-ENABLING TECHNOLOGIES FOR EXPEDITIONARY MANEUVER AND AIR/GROUND RECONNAISSANCE TITLED SPOONMAN UNDER BAA TOPIC ID: ARL-BAA-0037",
-    "text": "EXPEDITION TECHNOLOGY, INC.",
-    "title": "EXPEDITION TECHNOLOGY, INC.",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W911QX24C0009_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -429,7 +429,7 @@
    "source": "ai-spending-contracts",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "3890655",
+    "amount": "3990655",
     "description": "ARTIFICIAL INTELLIGENCE FOR MODELING AND SIMULATION",
     "text": "ACCELINT AI, LLC",
     "title": "ACCELINT AI, LLC",
@@ -569,6 +569,18 @@
    }
   },
   {
+   "key": "CONT_AWD_FA875025CB072_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "2111663",
+    "description": "NEXT GENERATION COMMAND AND CONTROL (NGC2) WILL ADVANCE (DAF) CAPABILITIES IN COMMAND AND CONTROL (C2) BY LEVERAGING ARTIFICIAL INTELLIGENCE (AI) TECHNOLOGIES AND EMBRACING A DISTRIBUTED OPERATIONAL MODEL.",
+    "text": "BLACK RIVER SYSTEMS COMPANY, INC.",
+    "title": "BLACK RIVER SYSTEMS COMPANY, INC.",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA875025CB072_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_W911SR25C0004_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
@@ -590,18 +602,6 @@
     "text": "WALLAROO LABS INC",
     "title": "WALLAROO LABS INC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_FA864922P1090_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_W5170125CA290_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "1.99997164e+06",
-    "description": "TOPIC A224-016 - ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING (AI/ML) POWERED PLATFORM FOR ARMY ASSET TRACEABILITY, PREDICTIVE MAINTENANCE, AND QUALITY TRACKING",
-    "text": "R-DEX SYSTEMS, INC.",
-    "title": "R-DEX SYSTEMS, INC.",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W5170125CA290_9700_-NONE-_-NONE-/"
    }
   },
   {

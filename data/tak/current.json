@@ -1,26 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-08-11T19:46:26Z",
+ "fetched_at": "2026-08-12T07:56:22Z",
  "schema_version": 1,
  "records": [
-  {
-   "key": "rixau/atak-reactive",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-08-11T19:21:06Z",
-    "description": "Build ATAK (Android Team Awareness Kit) plugin UIs with React and TypeScript. Typed WebView bridge, hot reload, incremental adoption.",
-    "stars": "2",
-    "text": "rixau/atak-reactive",
-    "title": "rixau/atak-reactive",
-    "url": "https://github.com/rixau/atak-reactive"
-   }
-  },
   {
    "key": "felixross66/claude-ai-coding-kit-2026",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-08-11T18:04:08Z",
+    "date": "2026-08-12T06:21:14Z",
     "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation in a 2026 plugin suite.",
     "stars": "1",
     "text": "felixross66/claude-ai-coding-kit-2026",
@@ -29,10 +17,34 @@
    }
   },
   {
+   "key": "joshuafuller/SRTM2TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-08-11T21:07:17Z",
+    "description": "Progressive Web App to download and package SRTM elevation data for ATAK (Android Team Awareness Kit). Features offline caching, concurrent downloads, and automatic ZIP packaging for direct import into ATAK.",
+    "stars": "9",
+    "text": "joshuafuller/SRTM2TAK",
+    "title": "joshuafuller/SRTM2TAK",
+    "url": "https://github.com/joshuafuller/SRTM2TAK"
+   }
+  },
+  {
+   "key": "rixau/atak-reactive",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-08-11T20:02:33Z",
+    "description": "Build ATAK (Android Team Awareness Kit) plugin UIs with React and TypeScript. Typed WebView bridge, hot reload, incremental adoption.",
+    "stars": "2",
+    "text": "rixau/atak-reactive",
+    "title": "rixau/atak-reactive",
+    "url": "https://github.com/rixau/atak-reactive"
+   }
+  },
+  {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-08-11T03:16:01Z",
+    "date": "2026-08-11T19:58:12Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "55",
     "text": "takwerx/infra-TAK",
@@ -62,18 +74,6 @@
     "text": "Audrey-cn/universal-agent-embedding-kit",
     "title": "Audrey-cn/universal-agent-embedding-kit",
     "url": "https://github.com/Audrey-cn/universal-agent-embedding-kit"
-   }
-  },
-  {
-   "key": "joshuafuller/SRTM2TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-08-05T15:47:19Z",
-    "description": "Progressive Web App to download and package SRTM elevation data for ATAK (Android Team Awareness Kit). Features offline caching, concurrent downloads, and automatic ZIP packaging for direct import into ATAK.",
-    "stars": "9",
-    "text": "joshuafuller/SRTM2TAK",
-    "title": "joshuafuller/SRTM2TAK",
-    "url": "https://github.com/joshuafuller/SRTM2TAK"
    }
   },
   {
@@ -699,9 +699,9 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-08-11T18:38:55Z",
+    "date": "2026-08-12T01:16:11Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
-    "stars": "27",
+    "stars": "28",
     "text": "FreeTAKTeam/LXMF-rs",
     "title": "FreeTAKTeam/LXMF-rs",
     "url": "https://github.com/FreeTAKTeam/LXMF-rs"
@@ -780,7 +780,7 @@
    "key": "CopIXus/PlowTAK",
    "source": "tak-github",
    "fields": {
-    "date": "2026-08-11T19:29:24Z",
+    "date": "2026-08-11T23:49:19Z",
     "description": "PlowTAK — ATAK plugin for snow plow fleet coverage tracking during winter storms (CopIX)",
     "stars": "2",
     "text": "CopIXus/PlowTAK",
