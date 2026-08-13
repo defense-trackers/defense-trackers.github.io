@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-08-12T19:46:34Z",
+ "fetched_at": "2026-08-13T07:55:57Z",
  "schema_version": 1,
  "records": [
   {
@@ -21,7 +21,7 @@
    "source": "ai-spending-contracts",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "6.78783572e+07",
+    "amount": "7.28194042e+07",
     "description": "CONTRACT TO RESEARCH, DEVELOP, MODIFY, DEPLOY, OPERATE, AND MAINTAIN ARTIFICIAL INTELLIGENCE/MACHINE LEARNING (AI/ML) ALGORITHMS AND MODELS.",
     "text": "ECS FEDERAL, LLC",
     "title": "ECS FEDERAL, LLC",
@@ -221,6 +221,18 @@
    }
   },
   {
+   "key": "CONT_AWD_HQ086026FE001_9700_HQ086024D0001_9700",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "9.28753389e+06",
+    "description": "DIGITAL ENGINEERING DRIVING ARTIFICIAL INTELLIGENCE-ENHANCED MODELING AND SIMULATION (DEDAIM)",
+    "text": "MODERN TECHNOLOGY SOLUTIONS, INC.",
+    "title": "MODERN TECHNOLOGY SOLUTIONS, INC.",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_HQ086026FE001_9700_HQ086024D0001_9700/"
+   }
+  },
+  {
    "key": "CONT_AWD_W912QR26CA010_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
@@ -242,18 +254,6 @@
     "text": "PALANTIR USG INC",
     "title": "PALANTIR USG INC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_HQ085426PE001_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_HQ086026FE001_9700_HQ086024D0001_9700",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "8.40488389e+06",
-    "description": "DIGITAL ENGINEERING DRIVING ARTIFICIAL INTELLIGENCE-ENHANCED MODELING AND SIMULATION (DEDAIM)",
-    "text": "MODERN TECHNOLOGY SOLUTIONS, INC.",
-    "title": "MODERN TECHNOLOGY SOLUTIONS, INC.",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_HQ086026FE001_9700_HQ086024D0001_9700/"
    }
   },
   {
@@ -314,18 +314,6 @@
     "text": "AGILITY CONSULTING, LLC",
     "title": "AGILITY CONSULTING, LLC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_HQ003424C0151_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_HR001120C0022_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "5.20231167e+06",
-    "description": "THE SCIENCE OF ARTIFICIAL INTELLIGENCE AND LEARNING FOR OPEN-WORLD NOVELTY (SAIL-ON) PROGRAM INTENDS TO RESEARCH AND DEVELOP THE UNDERLYING SCIENTIFIC PRINCIPLES, GENERAL ENGINEERING TECHNIQUES, AND ALGORITHMS NEEDED TO CREATE AI SYSTEMS.",
-    "text": "RTX BBN TECHNOLOGIES, INC.",
-    "title": "RTX BBN TECHNOLOGIES, INC.",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_HR001120C0022_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -605,10 +593,22 @@
    }
   },
   {
+   "key": "CONT_AWD_W5170125CA290_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1.99997164e+06",
+    "description": "TOPIC A224-016 - ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING (AI/ML) POWERED PLATFORM FOR ARMY ASSET TRACEABILITY, PREDICTIVE MAINTENANCE, AND QUALITY TRACKING",
+    "text": "R-DEX SYSTEMS, INC.",
+    "title": "R-DEX SYSTEMS, INC.",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W5170125CA290_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "806026852",
    "source": "ai-spending-recipients",
    "fields": {
-    "amount": "7.360540476e+07",
+    "amount": "7.854645176e+07",
     "text": "ECS FEDERAL, LLC",
     "title": "ECS FEDERAL, LLC",
     "url": "https://www.usaspending.gov/search"

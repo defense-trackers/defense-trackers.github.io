@@ -1,7 +1,7 @@
 {
  "source": "research-funding",
  "tracker": "research-funding",
- "fetched_at": "2026-08-12T19:47:59Z",
+ "fetched_at": "2026-08-13T07:57:26Z",
  "schema_version": 1,
  "records": [
   {
@@ -33,6 +33,34 @@
    }
   },
   {
+   "key": "2624326",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "300000",
+    "awardee": "University of Nevada Las Vegas",
+    "date": "01/01/2027",
+    "program": "EPSCoR RII: EPSCoR Research Fe",
+    "text": "EPSCoR Research Fellows: NSF: Enhancing Astronomical Multi-Messenger Inference of the Neutron Star Equation of State through Machine Learning Methods",
+    "title": "EPSCoR Research Fellows: NSF: Enhancing Astronomical Multi-Messenger Inference of the Neutron Star Equation of State through Machine Learning Methods",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2624326"
+   }
+  },
+  {
+   "key": "2624437",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "299665",
+    "awardee": "New Mexico State University",
+    "date": "01/01/2027",
+    "program": "EPSCoR RII: EPSCoR Research Fe",
+    "text": "EPSCoR Research Fellows: NSF: AI-Secure Command Channels for Autonomous Space Systems",
+    "title": "EPSCoR Research Fellows: NSF: AI-Secure Command Channels for Autonomous Space Systems",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2624437"
+   }
+  },
+  {
    "key": "2535684",
    "source": "research-nsf",
    "fields": {
@@ -44,6 +72,20 @@
     "text": "Collaborative Research: Global mapping of the Earth's D\" layer using machine learning and implications for deep mantle structure, properties and dynamics",
     "title": "Collaborative Research: Global mapping of the Earth's D\" layer using machine learning and implications for deep mantle structure, properties and dynamics",
     "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2535684"
+   }
+  },
+  {
+   "key": "2535685",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "344999",
+    "awardee": "University of California-Berkeley",
+    "date": "01/01/2027",
+    "program": "SPSE-Study of Physics of Earth",
+    "text": "Collaborative Research: Global mapping of the Earth's D\" layer using machine learning and implications for deep mantle structure, properties and dynamics",
+    "title": "Collaborative Research: Global mapping of the Earth's D\" layer using machine learning and implications for deep mantle structure, properties and dynamics",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2535685"
    }
   },
   {
@@ -86,20 +128,6 @@
     "text": "Collaborative Research: CAIG: Assemblage-based machine learning to quantify oceanic geochemical fluxes from marine particle images",
     "title": "Collaborative Research: CAIG: Assemblage-based machine learning to quantify oceanic geochemical fluxes from marine particle images",
     "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2615516"
-   }
-  },
-  {
-   "key": "2535685",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "344999",
-    "awardee": "University of California-Berkeley",
-    "date": "01/01/2027",
-    "program": "SPSE-Study of Physics of Earth",
-    "text": "Collaborative Research: Global mapping of the Earth's D\" layer using machine learning and implications for deep mantle structure, properties and dynamics",
-    "title": "Collaborative Research: Global mapping of the Earth's D\" layer using machine learning and implications for deep mantle structure, properties and dynamics",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2535685"
    }
   }
  ]
