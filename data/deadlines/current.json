@@ -1,7 +1,7 @@
 {
  "source": "deadlines",
  "tracker": "deadlines",
- "fetched_at": "2026-08-13T07:57:38Z",
+ "fetched_at": "2026-08-13T19:44:41Z",
  "schema_version": 1,
  "records": [
   {
@@ -447,6 +447,19 @@
    }
   },
   {
+   "key": "close-363526",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "Air Force Office of Scientific Research",
+    "closes": "2027-04-05",
+    "date": "2027-04-05",
+    "from": "pipeline",
+    "text": "FY26 DEFENSE ESTABLISHED PROGRAM TO STIMULATE COMPETITIVE RESEARCH (DEPSCoR) – RESEARCH COLLABORATION (RC)",
+    "title": "FY26 DEFENSE ESTABLISHED PROGRAM TO STIMULATE COMPETITIVE RESEARCH (DEPSCoR) – RESEARCH COLLABORATION (RC)",
+    "url": "https://www.grants.gov/search-results-detail/363526"
+   }
+  },
+  {
    "key": "close-362254",
    "source": "deadlines-solicitations",
    "fields": {
@@ -496,19 +509,6 @@
     "text": "DoW Peer Reviewed Medical, Platform Clinical Translation Award",
     "title": "DoW Peer Reviewed Medical, Platform Clinical Translation Award",
     "url": "https://www.grants.gov/search-results-detail/362329"
-   }
-  },
-  {
-   "key": "close-363526",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "Air Force Office of Scientific Research",
-    "closes": "2027-04-05",
-    "date": "2027-04-05",
-    "from": "pipeline",
-    "text": "FY26 DEFENSE ESTABLISHED PROGRAM TO STIMULATE COMPETITIVE RESEARCH (DEPSCoR) – RESEARCH COLLABORATION (RC)",
-    "title": "FY26 DEFENSE ESTABLISHED PROGRAM TO STIMULATE COMPETITIVE RESEARCH (DEPSCoR) – RESEARCH COLLABORATION (RC)",
-    "url": "https://www.grants.gov/search-results-detail/363526"
    }
   },
   {
@@ -616,7 +616,20 @@
    }
   },
   {
-   "key": "close-1a89759361e84a3fa60379a568fdd485",
+   "key": "close-61a92797c0634d7c89266cb5573675f3",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR HQ.NAVAL INFORMATION WARFARE SYSTEMS",
+    "closes": "2026-09-10",
+    "date": "2026-09-10",
+    "from": "pipeline",
+    "text": "Generative Artificial Intelligence (GenAI) Electronic Performance Support System (EPSS) under CSO N0003925S001. ",
+    "title": "Generative Artificial Intelligence (GenAI) Electronic Performance Support System (EPSS) under CSO N0003925S001. ",
+    "url": "https://sam.gov/workspace/contract/opp/61a92797c0634d7c89266cb5573675f3/view"
+   }
+  },
+  {
+   "key": "close-37a14c3d0ad743598965c9a0fde67ee5",
    "source": "deadlines-solicitations",
    "fields": {
     "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.ONR.ONR NRL.NAVAL RESEARCH LABORATORY",
@@ -625,7 +638,7 @@
     "from": "pipeline",
     "text": "General-Purpose Graphics Processing Unit (GPGPU) Server for Geospatial Artificial Intelligence",
     "title": "General-Purpose Graphics Processing Unit (GPGPU) Server for Geospatial Artificial Intelligence",
-    "url": "https://sam.gov/workspace/contract/opp/1a89759361e84a3fa60379a568fdd485/view"
+    "url": "https://sam.gov/workspace/contract/opp/37a14c3d0ad743598965c9a0fde67ee5/view"
    }
   },
   {
@@ -639,6 +652,19 @@
     "text": "Decentralized Artificial Intelligence through Controlled Emergence (DICE)",
     "title": "Decentralized Artificial Intelligence through Controlled Emergence (DICE)",
     "url": "https://sam.gov/workspace/contract/opp/1d0790fde85c41a49b59d835f996a6f5/view"
+   }
+  },
+  {
+   "key": "close-a9df7e011cd7459980794cae7e49ff11",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC RSA.W6QK ACC-RSA",
+    "closes": "2031-08-12",
+    "date": "2031-08-12",
+    "from": "pipeline",
+    "text": "Call for Solutions for  Participation in Command and Control (C2) Software Development Kit (SDK) Integration Event for Controllers/ Human Machine Interfaces (HMI) of Robotic and Autonomous Systems",
+    "title": "Call for Solutions for  Participation in Command and Control (C2) Software Development Kit (SDK) Integration Event for Controllers/ Human Machine Interfaces (HMI) of Robotic and Autonomous Systems",
+    "url": "https://sam.gov/workspace/contract/opp/a9df7e011cd7459980794cae7e49ff11/view"
    }
   },
   {

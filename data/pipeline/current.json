@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-08-13T07:57:12Z",
+ "fetched_at": "2026-08-13T19:44:20Z",
  "schema_version": 1,
  "records": [
   {
@@ -454,6 +454,19 @@
    }
   },
   {
+   "key": "363526",
+   "source": "pipeline-grants",
+   "fields": {
+    "agency": "Air Force Office of Scientific Research",
+    "closes": "04/05/2027",
+    "number": "NOFOAFRLAFOSR20260004",
+    "posted": "08/10/2026",
+    "text": "FY26 DEFENSE ESTABLISHED PROGRAM TO STIMULATE COMPETITIVE RESEARCH (DEPSCoR) – RESEARCH COLLABORATION (RC)",
+    "title": "FY26 DEFENSE ESTABLISHED PROGRAM TO STIMULATE COMPETITIVE RESEARCH (DEPSCoR) – RESEARCH COLLABORATION (RC)",
+    "url": "https://www.grants.gov/search-results-detail/363526"
+   }
+  },
+  {
    "key": "362254",
    "source": "pipeline-grants",
    "fields": {
@@ -503,19 +516,6 @@
     "text": "DoW Peer Reviewed Medical, Platform Clinical Translation Award",
     "title": "DoW Peer Reviewed Medical, Platform Clinical Translation Award",
     "url": "https://www.grants.gov/search-results-detail/362329"
-   }
-  },
-  {
-   "key": "363526",
-   "source": "pipeline-grants",
-   "fields": {
-    "agency": "Air Force Office of Scientific Research",
-    "closes": "04/05/2027",
-    "number": "NOFOAFRLAFOSR20260004",
-    "posted": "08/10/2026",
-    "text": "FY26 DEFENSE ESTABLISHED PROGRAM TO STIMULATE COMPETITIVE RESEARCH (DEPSCoR) – RESEARCH COLLABORATION (RC)",
-    "title": "FY26 DEFENSE ESTABLISHED PROGRAM TO STIMULATE COMPETITIVE RESEARCH (DEPSCoR) – RESEARCH COLLABORATION (RC)",
-    "url": "https://www.grants.gov/search-results-detail/363526"
    }
   },
   {
@@ -659,17 +659,31 @@
    }
   },
   {
-   "key": "1a89759361e84a3fa60379a568fdd485",
+   "key": "61a92797c0634d7c89266cb5573675f3",
+   "source": "pipeline-sam-ai",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR HQ.NAVAL INFORMATION WARFARE SYSTEMS",
+    "closes": "2026-09-10T14:00:00-07:00",
+    "number": "N0003926R9450",
+    "posted": "2026-08-13",
+    "text": "Generative Artificial Intelligence (GenAI) Electronic Performance Support System (EPSS) under CSO N0003925S001. ",
+    "title": "Generative Artificial Intelligence (GenAI) Electronic Performance Support System (EPSS) under CSO N0003925S001. ",
+    "type": "Solicitation",
+    "url": "https://sam.gov/workspace/contract/opp/61a92797c0634d7c89266cb5573675f3/view"
+   }
+  },
+  {
+   "key": "37a14c3d0ad743598965c9a0fde67ee5",
    "source": "pipeline-sam-ai",
    "fields": {
     "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.ONR.ONR NRL.NAVAL RESEARCH LABORATORY",
     "closes": "2026-08-26T15:00:00-04:00",
     "number": "N0017326RFIKN03",
-    "posted": "2026-08-12",
+    "posted": "2026-08-13",
     "text": "General-Purpose Graphics Processing Unit (GPGPU) Server for Geospatial Artificial Intelligence",
     "title": "General-Purpose Graphics Processing Unit (GPGPU) Server for Geospatial Artificial Intelligence",
     "type": "Sources Sought",
-    "url": "https://sam.gov/workspace/contract/opp/1a89759361e84a3fa60379a568fdd485/view"
+    "url": "https://sam.gov/workspace/contract/opp/37a14c3d0ad743598965c9a0fde67ee5/view"
    }
   },
   {
@@ -697,6 +711,21 @@
     "title": "ARTIFICIAL INTELLIGENCE AND NEXT GENERATION DISTRIBUTED COMMAND AND CONTROL",
     "type": "Presolicitation",
     "url": "https://sam.gov/workspace/contract/opp/5cd1dec3f39b44eb87cae4bd15984120/view"
+   }
+  },
+  {
+   "key": "a9df7e011cd7459980794cae7e49ff11",
+   "source": "pipeline-sam-autonomy",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC RSA.W6QK ACC-RSA",
+    "closes": "2031-08-12T17:00:00-05:00",
+    "number": "W58RGZ-26-S-C001-0009",
+    "posted": "2026-08-13",
+    "setaside": "No Set aside used",
+    "text": "Call for Solutions for  Participation in Command and Control (C2) Software Development Kit (SDK) Integration Event for Controllers/ Human Machine Interfaces (HMI) of Robotic and Autonomous Systems",
+    "title": "Call for Solutions for  Participation in Command and Control (C2) Software Development Kit (SDK) Integration Event for Controllers/ Human Machine Interfaces (HMI) of Robotic and Autonomous Systems",
+    "type": "Solicitation",
+    "url": "https://sam.gov/workspace/contract/opp/a9df7e011cd7459980794cae7e49ff11/view"
    }
   },
   {
