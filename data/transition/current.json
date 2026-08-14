@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-08-13T19:44:41Z",
+ "fetched_at": "2026-08-14T07:54:25Z",
  "schema_version": 1,
  "records": [
   {
@@ -713,7 +713,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "20199842115",
+    "amount": "20204306115",
     "award_id": "N0002412C2115",
     "description": "SSN 792 LONG LEAD TIME MATERIAL",
     "text": "ELECTRIC BOAT CORPORATION",
@@ -1012,7 +1012,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "8.4246084152e+09",
+    "amount": "8.4046084152e+09",
     "award_id": "HT940223C0002",
     "description": "TRICARE MANAGED CARE SUPPORT SERVICES CONTRACT, 5TH GENERATION WEST REGION",
     "text": "TRIWEST HEALTHCARE ALLIANCE CORP",
@@ -1163,6 +1163,19 @@
    }
   },
   {
+   "key": "CONT_AWD_N0002424C2110_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "7099818031",
+    "award_id": "N0002424C2110",
+    "description": "SSN 814 \u0026 SSN 815 LONG LEAD TIME MATERIAL",
+    "text": "ELECTRIC BOAT CORPORATION",
+    "title": "ELECTRIC BOAT CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_N0002424C2110_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_N0001914C0002_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -1219,7 +1232,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "6.64571096011e+09",
+    "amount": "6.65103875511e+09",
     "award_id": "N0002408C2110",
     "description": "TAS::17 1611::TAS CVN 78 SHIP CONSTRUCTION",
     "text": "HUNTINGTON INGALLS INC",
@@ -1232,25 +1245,12 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "6589808390",
+    "amount": "6589838761",
     "award_id": "N0002423C2305",
     "description": "CONSTRUCTION OF DDG 51 SHIPS FY23-27",
     "text": "BATH IRON WORKS CORPORATION",
     "title": "BATH IRON WORKS CORPORATION",
     "url": "https://www.usaspending.gov/award/CONT_AWD_N0002423C2305_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_HQ014712C0004_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "6.46662786826e+09",
-    "award_id": "HQ014712C0004",
-    "description": "THE MISSILE DEFENSE AGENCY (MDA), GROUND-BASED MIDCOURSE DEFENSE (GMD) DEVELOPMENT AND SUSTAINMENT CONTRACT (DSC) THE GMD DSC WORK INCLUDES, BUT IS NOT LIMITED TO: 1) FUTURE DEVELOPMENT; 2) FIELDING; 3) TEST; 4) SYSTEMS ENGINEERING, INTEGRATION AND CONFIGURATION MANAGEMENT; 5) EQUIPMENT MANUFACTURING AND REFURBISHMENT; 6) TRAINING; AND 7) OPERATIONS AND SUSTAINMENT SUPPORT FOR THE GMD WEAPON SYSTEM AND ASSOCIATED SUPPORT FACILITIES.",
-    "text": "THE BOEING COMPANY",
-    "title": "THE BOEING COMPANY",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_HQ014712C0004_9700_-NONE-_-NONE-/"
    }
   }
  ]

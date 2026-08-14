@@ -1,19 +1,55 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-08-13T19:44:38Z",
+ "fetched_at": "2026-08-14T07:54:22Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-08-14T02:11:33Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "57",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
+  {
+   "key": "Audrey-cn/universal-agent-embedding-kit",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-08-14T01:51:46Z",
+    "description": "Model-agnostic, embeddable agent kit — verification, adaptive context, effort routing, cache-aware cost model, cross-platform graded benchmarks. Evidence-first: every metric is red-teamed and tagged on an evidence-strength ladder with honest caveats.",
+    "stars": "0",
+    "text": "Audrey-cn/universal-agent-embedding-kit",
+    "title": "Audrey-cn/universal-agent-embedding-kit",
+    "url": "https://github.com/Audrey-cn/universal-agent-embedding-kit"
+   }
+  },
   {
    "key": "felixross66/claude-ai-coding-kit-2026",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-08-13T19:33:28Z",
+    "date": "2026-08-13T21:38:14Z",
     "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation in a 2026 plugin suite.",
     "stars": "1",
     "text": "felixross66/claude-ai-coding-kit-2026",
     "title": "felixross66/claude-ai-coding-kit-2026",
     "url": "https://github.com/felixross66/claude-ai-coding-kit-2026"
+   }
+  },
+  {
+   "key": "snstac/pytak",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-08-13T20:09:31Z",
+    "description": "PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.",
+    "stars": "249",
+    "text": "snstac/pytak",
+    "title": "snstac/pytak",
+    "url": "https://github.com/snstac/pytak"
    }
   },
   {
@@ -26,42 +62,6 @@
     "text": "snstac/dronecot",
     "title": "snstac/dronecot",
     "url": "https://github.com/snstac/dronecot"
-   }
-  },
-  {
-   "key": "snstac/pytak",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-08-13T17:33:30Z",
-    "description": "PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.",
-    "stars": "249",
-    "text": "snstac/pytak",
-    "title": "snstac/pytak",
-    "url": "https://github.com/snstac/pytak"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-08-13T16:45:36Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "55",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
-   }
-  },
-  {
-   "key": "Audrey-cn/universal-agent-embedding-kit",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-08-13T13:20:58Z",
-    "description": "Model-agnostic, embeddable agent kit — verification, adaptive context, effort routing, cache-aware cost model, cross-platform graded benchmarks. Evidence-first: every metric is red-teamed and tagged on an evidence-strength ladder with honest caveats.",
-    "stars": "0",
-    "text": "Audrey-cn/universal-agent-embedding-kit",
-    "title": "Audrey-cn/universal-agent-embedding-kit",
-    "url": "https://github.com/Audrey-cn/universal-agent-embedding-kit"
    }
   },
   {
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-08-12T12:15:15Z",
+    "date": "2026-08-13T20:17:58Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "28",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -774,6 +774,18 @@
     "text": "FreeTAKTeam/rpp-spec",
     "title": "FreeTAKTeam/rpp-spec",
     "url": "https://github.com/FreeTAKTeam/rpp-spec"
+   }
+  },
+  {
+   "key": "frrojas92/DF_ESCTEL",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-08-12T17:27:16Z",
+    "description": "Experimental ATAK plugin for SDR spectrum visualization, RF monitoring and direction finding (DOA) using RTL-SDR over TCP/IP.",
+    "stars": "0",
+    "text": "frrojas92/DF_ESCTEL",
+    "title": "frrojas92/DF_ESCTEL",
+    "url": "https://github.com/frrojas92/DF_ESCTEL"
    }
   },
   {
@@ -1105,18 +1117,6 @@
     "text": "newtypeind/atak-mcp",
     "title": "newtypeind/atak-mcp",
     "url": "https://github.com/newtypeind/atak-mcp"
-   }
-  },
-  {
-   "key": "niccellular/bt2cot",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-06-14T20:36:34Z",
-    "description": "ATAK plugin that scans nearby Bluetooth (BLE + Classic) devices while you move and plots their estimated positions on the map",
-    "stars": "5",
-    "text": "niccellular/bt2cot",
-    "title": "niccellular/bt2cot",
-    "url": "https://github.com/niccellular/bt2cot"
    }
   },
   {
