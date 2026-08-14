@@ -1,7 +1,7 @@
 {
  "source": "research-funding",
  "tracker": "research-funding",
- "fetched_at": "2026-08-14T07:54:13Z",
+ "fetched_at": "2026-08-14T19:37:16Z",
  "schema_version": 1,
  "records": [
   {
@@ -16,6 +16,20 @@
     "text": "EPSCoR Research Fellows: NSF: Understanding Low Cloud Evolution and their Interactions with Aerosols Using Observations, Machine Learning, and Modeling",
     "title": "EPSCoR Research Fellows: NSF: Understanding Low Cloud Evolution and their Interactions with Aerosols Using Observations, Machine Learning, and Modeling",
     "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2624364"
+   }
+  },
+  {
+   "key": "2535684",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "397538",
+    "awardee": "University of California-Santa Cruz",
+    "date": "01/01/2027",
+    "program": "SPSE-Study of Physics of Earth",
+    "text": "Collaborative Research: Global mapping of the Earth's D\" layer using machine learning and implications for deep mantle structure, properties and dynamics",
+    "title": "Collaborative Research: Global mapping of the Earth's D\" layer using machine learning and implications for deep mantle structure, properties and dynamics",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2535684"
    }
   },
   {
@@ -47,17 +61,17 @@
    }
   },
   {
-   "key": "2535684",
+   "key": "2625831",
    "source": "research-nsf",
    "fields": {
     "agency": "NSF",
-    "amount": "397538",
-    "awardee": "University of California-Santa Cruz",
+    "amount": "495000",
+    "awardee": "Georgia Tech Research Corporation",
     "date": "01/01/2027",
-    "program": "SPSE-Study of Physics of Earth",
-    "text": "Collaborative Research: Global mapping of the Earth's D\" layer using machine learning and implications for deep mantle structure, properties and dynamics",
-    "title": "Collaborative Research: Global mapping of the Earth's D\" layer using machine learning and implications for deep mantle structure, properties and dynamics",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2535684"
+    "program": "EPCL: Energy, Power, Control,",
+    "text": "Differentiable Reachability for Scalable Verification and Safe Training of Neural Network Controllers",
+    "title": "Differentiable Reachability for Scalable Verification and Safe Training of Neural Network Controllers",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2625831"
    }
   },
   {
@@ -103,20 +117,6 @@
    }
   },
   {
-   "key": "2625831",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "495000",
-    "awardee": "Georgia Tech Research Corporation",
-    "date": "01/01/2027",
-    "program": "EPCL: Energy, Power, Control,",
-    "text": "Differentiable Reachability for Scalable Verification and Safe Training of Neural Network Controllers",
-    "title": "Differentiable Reachability for Scalable Verification and Safe Training of Neural Network Controllers",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2625831"
-   }
-  },
-  {
    "key": "2624327",
    "source": "research-nsf",
    "fields": {
@@ -142,20 +142,6 @@
     "text": "S-STEM: Future STEM Professionals in Artificial Intelligence, Robotics, Quantum Science, and Biotechnology",
     "title": "S-STEM: Future STEM Professionals in Artificial Intelligence, Robotics, Quantum Science, and Biotechnology",
     "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2620285"
-   }
-  },
-  {
-   "key": "2615517",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "332242",
-    "awardee": "University of Rhode Island",
-    "date": "01/01/2027",
-    "program": "AI and Geosciences",
-    "text": "Collaborative Research: CAIG: Assemblage-based machine learning to quantify oceanic geochemical fluxes from marine particle images",
-    "title": "Collaborative Research: CAIG: Assemblage-based machine learning to quantify oceanic geochemical fluxes from marine particle images",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2615517"
    }
   }
  ]

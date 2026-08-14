@@ -1,16 +1,16 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-08-14T07:54:22Z",
+ "fetched_at": "2026-08-14T19:37:25Z",
  "schema_version": 1,
  "records": [
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-08-14T02:11:33Z",
+    "date": "2026-08-14T19:05:42Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "57",
+    "stars": "58",
     "text": "takwerx/infra-TAK",
     "title": "takwerx/infra-TAK",
     "url": "https://github.com/takwerx/infra-TAK"
@@ -618,7 +618,7 @@
    "fields": {
     "date": "2026-08-13T17:54:34Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
-    "stars": "96",
+    "stars": "97",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
     "title": "FreeTAKTeam/Reticulum-Community-Hub",
     "url": "https://github.com/FreeTAKTeam/Reticulum-Community-Hub"
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-08-13T20:17:58Z",
+    "date": "2026-08-14T17:14:00Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "28",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -736,7 +736,7 @@
    "fields": {
     "date": "2026-08-13T16:53:57Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
-    "stars": "25",
+    "stars": "26",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
     "title": "FreeTAKTeam/reticulum_mobile_emergency_management",
     "url": "https://github.com/FreeTAKTeam/reticulum_mobile_emergency_management"
@@ -782,7 +782,7 @@
    "fields": {
     "date": "2026-08-12T17:27:16Z",
     "description": "Experimental ATAK plugin for SDR spectrum visualization, RF monitoring and direction finding (DOA) using RTL-SDR over TCP/IP.",
-    "stars": "0",
+    "stars": "1",
     "text": "frrojas92/DF_ESCTEL",
     "title": "frrojas92/DF_ESCTEL",
     "url": "https://github.com/frrojas92/DF_ESCTEL"
@@ -804,7 +804,7 @@
    "key": "jpat-12/TAK-PluginSuite-ATAK_ICU",
    "source": "tak-github",
    "fields": {
-    "date": "2026-08-12T13:36:08Z",
+    "date": "2026-08-14T17:23:51Z",
     "stars": "5",
     "text": "jpat-12/TAK-PluginSuite-ATAK_ICU",
     "title": "jpat-12/TAK-PluginSuite-ATAK_ICU",
@@ -865,7 +865,7 @@
    "fields": {
     "date": "2026-08-07T18:14:04Z",
     "description": "ATAK plugin for SOOTHSAYER",
-    "stars": "12",
+    "stars": "13",
     "text": "Cloud-RF/SOOTHSAYER-ATAK-plugin",
     "title": "Cloud-RF/SOOTHSAYER-ATAK-plugin",
     "url": "https://github.com/Cloud-RF/SOOTHSAYER-ATAK-plugin"
@@ -919,6 +919,18 @@
    }
   },
   {
+   "key": "TX-RX/TAK-XVoice",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-08-03T06:22:32Z",
+    "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
+    "stars": "5",
+    "text": "TX-RX/TAK-XVoice",
+    "title": "TX-RX/TAK-XVoice",
+    "url": "https://github.com/TX-RX/TAK-XVoice"
+   }
+  },
+  {
    "key": "Moicanox/TAK-Server-Provisioner",
    "source": "tak-github",
    "fields": {
@@ -942,24 +954,12 @@
    }
   },
   {
-   "key": "TX-RX/TAK-XVoice",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-08-03T06:22:32Z",
-    "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
-    "stars": "4",
-    "text": "TX-RX/TAK-XVoice",
-    "title": "TX-RX/TAK-XVoice",
-    "url": "https://github.com/TX-RX/TAK-XVoice"
-   }
-  },
-  {
    "key": "VCWG/Air-Sea",
    "source": "tak-github",
    "fields": {
     "date": "2026-07-29T21:43:40Z",
     "description": "AIS and ADS-B plugin for ATAK",
-    "stars": "32",
+    "stars": "33",
     "text": "VCWG/Air-Sea",
     "title": "VCWG/Air-Sea",
     "url": "https://github.com/VCWG/Air-Sea"
