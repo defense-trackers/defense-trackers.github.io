@@ -1,9 +1,19 @@
 {
  "source": "authorizations",
  "tracker": "authorizations",
- "fetched_at": "2026-08-14T19:35:50Z",
+ "fetched_at": "2026-08-15T06:59:47Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "FR2407275137",
+   "source": "authorizations-fedramp",
+   "fields": {
+    "date": "2026-08-14T20:00:00.000Z",
+    "status": "Now Authorized",
+    "text": "Coralogix U.S. GovOps",
+    "title": "Coralogix U.S. GovOps"
+   }
+  },
   {
    "key": "FR2304757473A",
    "source": "authorizations-fedramp",
@@ -22,16 +32,6 @@
     "status": "Now Authorized",
     "text": "Cloudflare for Government - High",
     "title": "Cloudflare for Government - High"
-   }
-  },
-  {
-   "key": "FR2623840126",
-   "source": "authorizations-fedramp",
-   "fields": {
-    "date": "2026-08-04T20:00:00.000Z",
-    "status": "Now in PMO Review",
-    "text": "Saviynt High Security Identity Platform",
-    "title": "Saviynt High Security Identity Platform"
    }
   },
   {

@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-08-14T19:37:27Z",
+ "fetched_at": "2026-08-15T07:01:21Z",
  "schema_version": 1,
  "records": [
   {
@@ -218,6 +218,18 @@
     "text": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
     "title": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
     "url": "https://www.usaspending.gov/award/CONT_AWD_FC54_9700_N0017804D4119_9700/"
+   }
+  },
+  {
+   "key": "CONT_AWD_W900KK26CA002_9700_-NONE-_-NONE-",
+   "source": "transition-prototype",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "65657001",
+    "description": "RANGEHAWK (RH) PROTOTYPE DEVELOPMENT AND DEMONSTRATION  RH UNIVERSAL PAYLOAD ARCHITECTURE PROTOTYPE IS A NOVEL, HIGH-ALTITUDE LONG ENDURANCE AIRBORNE TEST RESOURCE TO IMPROVE THE AGILITY AND ADAPTABILITY OF HIGH SPEED SYSTEMS TEST DATA COLLECTION.",
+    "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+    "title": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W900KK26CA002_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -590,18 +602,6 @@
     "text": "GENERAL DYNAMICS LAND SYSTEMS INC.",
     "title": "GENERAL DYNAMICS LAND SYSTEMS INC.",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W56HZV24C0030_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_FA807520F0084_9700_FA807518D0014_9700",
-   "source": "transition-prototype",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "1.876245492e+07",
-    "description": "OPERATIONAL, TECHNICAL, ENGINEERING, AND TRANSITION ANALYSIS FOR DEVELOPMENT AND DEPLOYMENT OF EMERGING CAPABILITIES AND PROTOTYPES FOR LAND, AIR, SPACE, AND PORT\u0026COASTAL SURVEILLANCE PROGRAMS",
-    "text": "AMENTUM SERVICES, INC.",
-    "title": "AMENTUM SERVICES, INC.",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_FA807520F0084_9700_FA807518D0014_9700/"
    }
   },
   {
@@ -1025,7 +1025,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "8.31326913083e+09",
+    "amount": "8.31326924783e+09",
     "award_id": "N0002423C2307",
     "description": "CONSTRUCTION OF DDG 51 SHIPS FY23-27",
     "text": "HUNTINGTON INGALLS INCORPORATED",

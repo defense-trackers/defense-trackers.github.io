@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-08-14T19:35:48Z",
+ "fetched_at": "2026-08-15T06:59:44Z",
  "schema_version": 1,
  "records": [
   {
@@ -57,7 +57,7 @@
    "source": "ai-spending-contracts",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "2.574581103e+07",
+    "amount": "3.417983595e+07",
     "description": "CYBER ANALYTICS AND DETECTION (CAD) OMNIBUS PROCUREMENT FOR MAINTENANCE, DEVELOPMENT, AND ARTIFICIAL INTELLIGENCE/MACHINE LEARNING (AI/ML) INTEGRATION.",
     "text": "ENLIGHTEN IT CONSULTING LLC",
     "title": "ENLIGHTEN IT CONSULTING LLC",
@@ -146,6 +146,18 @@
     "text": "CACI, INC. - FEDERAL",
     "title": "CACI, INC. - FEDERAL",
     "url": "https://www.usaspending.gov/award/CONT_AWD_FA865023C7318_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_FA703726F0033_9700_FA703726D0002_9700",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1.129930244e+07",
+    "description": "ARTIFICIAL INTELLIGENCE-ENABLED ENTERPRISE SECURITY OPERATIONS CENTER (AI-ESOC) SUPPORT, TASK ORDER 1.",
+    "text": "WORLD WIDE TECHNOLOGY LLC",
+    "title": "WORLD WIDE TECHNOLOGY LLC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA703726F0033_9700_FA703726D0002_9700/"
    }
   },
   {
@@ -569,6 +581,18 @@
    }
   },
   {
+   "key": "CONT_AWD_FA857126C0027_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "2095000",
+    "description": "THIS IS SMALL BUSINESS INNOVATIVE RESEARCH (SBIR) PHASE III REQUIREMENT ARISING UNDER SBIR TOPIC AF221-DCSO1, ARTIFICIAL INTELLIGENCE / MACHINE LEARNING-ENABLED DATA FABRIC (COMPANY SHIPCOM FEDERAL SOLUTIONS DBA SHIPCOM AI).",
+    "text": "SHIPCOM FEDERAL SOLUTIONS LLC",
+    "title": "SHIPCOM FEDERAL SOLUTIONS LLC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA857126C0027_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_W911SR25C0004_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
@@ -578,30 +602,6 @@
     "text": "SPECTRAL SENSOR SOLUTIONS, LLC",
     "title": "SPECTRAL SENSOR SOLUTIONS, LLC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W911SR25C0004_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_FA864922P1090_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "2009989",
-    "description": "ARTIFICIAL INTELLIGENCE (AI) AND MACHINE LEARNING (ML) MODEL DEPLOYMENT",
-    "text": "WALLAROO LABS INC",
-    "title": "WALLAROO LABS INC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_FA864922P1090_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_W5170125CA290_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "1.99997164e+06",
-    "description": "TOPIC A224-016 - ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING (AI/ML) POWERED PLATFORM FOR ARMY ASSET TRACEABILITY, PREDICTIVE MAINTENANCE, AND QUALITY TRACKING",
-    "text": "R-DEX SYSTEMS, INC.",
-    "title": "R-DEX SYSTEMS, INC.",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W5170125CA290_9700_-NONE-_-NONE-/"
    }
   },
   {

@@ -1,9 +1,37 @@
 {
  "source": "research-funding",
  "tracker": "research-funding",
- "fetched_at": "2026-08-14T19:37:16Z",
+ "fetched_at": "2026-08-15T07:01:09Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "2625501",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "240000",
+    "awardee": "Lehigh University",
+    "date": "04/01/2027",
+    "program": "CSCS: Circuits and Systems for",
+    "text": "Collaborative Research: CCSS: Semantic-Aware Collaborative Perception and Networking for Autonomous Urban Mobility",
+    "title": "Collaborative Research: CCSS: Semantic-Aware Collaborative Perception and Networking for Autonomous Urban Mobility",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2625501"
+   }
+  },
+  {
+   "key": "2625502",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "200000",
+    "awardee": "Illinois Institute of Technology",
+    "date": "04/01/2027",
+    "program": "CSCS: Circuits and Systems for",
+    "text": "Collaborative Research: CCSS: Semantic-Aware Collaborative Perception and Networking for Autonomous Urban Mobility",
+    "title": "Collaborative Research: CCSS: Semantic-Aware Collaborative Perception and Networking for Autonomous Urban Mobility",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2625502"
+   }
+  },
   {
    "key": "2624364",
    "source": "research-nsf",
@@ -16,6 +44,34 @@
     "text": "EPSCoR Research Fellows: NSF: Understanding Low Cloud Evolution and their Interactions with Aerosols Using Observations, Machine Learning, and Modeling",
     "title": "EPSCoR Research Fellows: NSF: Understanding Low Cloud Evolution and their Interactions with Aerosols Using Observations, Machine Learning, and Modeling",
     "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2624364"
+   }
+  },
+  {
+   "key": "2619079",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "120000",
+    "awardee": "University of Texas at San Antonio",
+    "date": "01/01/2027",
+    "program": "CSCS: Circuits and Systems for",
+    "text": "Collaborative Research: A Subspace Optimization Framework for Resource-Efficient and Private Fine-Tuning of Large Language Models",
+    "title": "Collaborative Research: A Subspace Optimization Framework for Resource-Efficient and Private Fine-Tuning of Large Language Models",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2619079"
+   }
+  },
+  {
+   "key": "2619080",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "120000",
+    "awardee": "Texas A\u0026M University",
+    "date": "01/01/2027",
+    "program": "CSCS: Circuits and Systems for",
+    "text": "Collaborative Research: A Subspace Optimization Framework for Resource-Efficient and Private Fine-Tuning of Large Language Models",
+    "title": "Collaborative Research: A Subspace Optimization Framework for Resource-Efficient and Private Fine-Tuning of Large Language Models",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2619080"
    }
   },
   {
@@ -33,20 +89,6 @@
    }
   },
   {
-   "key": "2624437",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "299665",
-    "awardee": "New Mexico State University",
-    "date": "01/01/2027",
-    "program": "EPSCoR RII: EPSCoR Research Fe",
-    "text": "EPSCoR Research Fellows: NSF: AI-Secure Command Channels for Autonomous Space Systems",
-    "title": "EPSCoR Research Fellows: NSF: AI-Secure Command Channels for Autonomous Space Systems",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2624437"
-   }
-  },
-  {
    "key": "2624326",
    "source": "research-nsf",
    "fields": {
@@ -61,17 +103,17 @@
    }
   },
   {
-   "key": "2625831",
+   "key": "2624437",
    "source": "research-nsf",
    "fields": {
     "agency": "NSF",
-    "amount": "495000",
-    "awardee": "Georgia Tech Research Corporation",
+    "amount": "299665",
+    "awardee": "New Mexico State University",
     "date": "01/01/2027",
-    "program": "EPCL: Energy, Power, Control,",
-    "text": "Differentiable Reachability for Scalable Verification and Safe Training of Neural Network Controllers",
-    "title": "Differentiable Reachability for Scalable Verification and Safe Training of Neural Network Controllers",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2625831"
+    "program": "EPSCoR RII: EPSCoR Research Fe",
+    "text": "EPSCoR Research Fellows: NSF: AI-Secure Command Channels for Autonomous Space Systems",
+    "title": "EPSCoR Research Fellows: NSF: AI-Secure Command Channels for Autonomous Space Systems",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2624437"
    }
   },
   {
@@ -117,6 +159,34 @@
    }
   },
   {
+   "key": "2625831",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "495000",
+    "awardee": "Georgia Tech Research Corporation",
+    "date": "01/01/2027",
+    "program": "EPCL: Energy, Power, Control,",
+    "text": "Differentiable Reachability for Scalable Verification and Safe Training of Neural Network Controllers",
+    "title": "Differentiable Reachability for Scalable Verification and Safe Training of Neural Network Controllers",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2625831"
+   }
+  },
+  {
+   "key": "2619078",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "270000",
+    "awardee": "Pennsylvania State Univ University Park",
+    "date": "01/01/2027",
+    "program": "CSCS: Circuits and Systems for",
+    "text": "Collaborative Research: A Subspace Optimization Framework for Resource-Efficient and Private Fine-Tuning of Large Language Models",
+    "title": "Collaborative Research: A Subspace Optimization Framework for Resource-Efficient and Private Fine-Tuning of Large Language Models",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2619078"
+   }
+  },
+  {
    "key": "2624327",
    "source": "research-nsf",
    "fields": {
@@ -131,17 +201,17 @@
    }
   },
   {
-   "key": "2620285",
+   "key": "2624402",
    "source": "research-nsf",
    "fields": {
     "agency": "NSF",
-    "amount": "2000000",
-    "awardee": "University of Colorado at Boulder",
+    "amount": "257733",
+    "awardee": "University of South Dakota Main Campus",
     "date": "01/01/2027",
-    "program": "S-STEM-Schlr Sci Tech Eng\u0026Math",
-    "text": "S-STEM: Future STEM Professionals in Artificial Intelligence, Robotics, Quantum Science, and Biotechnology",
-    "title": "S-STEM: Future STEM Professionals in Artificial Intelligence, Robotics, Quantum Science, and Biotechnology",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2620285"
+    "program": "EPSCoR RII: EPSCoR Research Fe",
+    "text": "EPSCoR Research Fellows: NSF: Machine Learning for Faster Simulation of Neutrino Detectors",
+    "title": "EPSCoR Research Fellows: NSF: Machine Learning for Faster Simulation of Neutrino Detectors",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2624402"
    }
   }
  ]
