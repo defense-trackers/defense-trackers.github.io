@@ -1,7 +1,7 @@
 {
  "source": "research-funding",
  "tracker": "research-funding",
- "fetched_at": "2026-08-15T19:02:45Z",
+ "fetched_at": "2026-08-16T07:02:50Z",
  "schema_version": 1,
  "records": [
   {
@@ -47,20 +47,6 @@
    }
   },
   {
-   "key": "2619080",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "120000",
-    "awardee": "Texas A\u0026M University",
-    "date": "01/01/2027",
-    "program": "CSCS: Circuits and Systems for",
-    "text": "Collaborative Research: A Subspace Optimization Framework for Resource-Efficient and Private Fine-Tuning of Large Language Models",
-    "title": "Collaborative Research: A Subspace Optimization Framework for Resource-Efficient and Private Fine-Tuning of Large Language Models",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2619080"
-   }
-  },
-  {
    "key": "2619079",
    "source": "research-nsf",
    "fields": {
@@ -72,6 +58,20 @@
     "text": "Collaborative Research: A Subspace Optimization Framework for Resource-Efficient and Private Fine-Tuning of Large Language Models",
     "title": "Collaborative Research: A Subspace Optimization Framework for Resource-Efficient and Private Fine-Tuning of Large Language Models",
     "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2619079"
+   }
+  },
+  {
+   "key": "2619080",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "120000",
+    "awardee": "Texas A\u0026M University",
+    "date": "01/01/2027",
+    "program": "CSCS: Circuits and Systems for",
+    "text": "Collaborative Research: A Subspace Optimization Framework for Resource-Efficient and Private Fine-Tuning of Large Language Models",
+    "title": "Collaborative Research: A Subspace Optimization Framework for Resource-Efficient and Private Fine-Tuning of Large Language Models",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2619080"
    }
   },
   {
@@ -89,20 +89,6 @@
    }
   },
   {
-   "key": "2624437",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "299665",
-    "awardee": "New Mexico State University",
-    "date": "01/01/2027",
-    "program": "EPSCoR RII: EPSCoR Research Fe",
-    "text": "EPSCoR Research Fellows: NSF: AI-Secure Command Channels for Autonomous Space Systems",
-    "title": "EPSCoR Research Fellows: NSF: AI-Secure Command Channels for Autonomous Space Systems",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2624437"
-   }
-  },
-  {
    "key": "2624326",
    "source": "research-nsf",
    "fields": {
@@ -117,17 +103,17 @@
    }
   },
   {
-   "key": "2625831",
+   "key": "2624437",
    "source": "research-nsf",
    "fields": {
     "agency": "NSF",
-    "amount": "495000",
-    "awardee": "Georgia Tech Research Corporation",
+    "amount": "299665",
+    "awardee": "New Mexico State University",
     "date": "01/01/2027",
-    "program": "EPCL: Energy, Power, Control,",
-    "text": "Differentiable Reachability for Scalable Verification and Safe Training of Neural Network Controllers",
-    "title": "Differentiable Reachability for Scalable Verification and Safe Training of Neural Network Controllers",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2625831"
+    "program": "EPSCoR RII: EPSCoR Research Fe",
+    "text": "EPSCoR Research Fellows: NSF: AI-Secure Command Channels for Autonomous Space Systems",
+    "title": "EPSCoR Research Fellows: NSF: AI-Secure Command Channels for Autonomous Space Systems",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2624437"
    }
   },
   {
@@ -173,6 +159,20 @@
    }
   },
   {
+   "key": "2625831",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "495000",
+    "awardee": "Georgia Tech Research Corporation",
+    "date": "01/01/2027",
+    "program": "EPCL: Energy, Power, Control,",
+    "text": "Differentiable Reachability for Scalable Verification and Safe Training of Neural Network Controllers",
+    "title": "Differentiable Reachability for Scalable Verification and Safe Training of Neural Network Controllers",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2625831"
+   }
+  },
+  {
    "key": "2619078",
    "source": "research-nsf",
    "fields": {
@@ -187,31 +187,17 @@
    }
   },
   {
-   "key": "2624402",
+   "key": "2615517",
    "source": "research-nsf",
    "fields": {
     "agency": "NSF",
-    "amount": "257733",
-    "awardee": "University of South Dakota Main Campus",
+    "amount": "332242",
+    "awardee": "University of Rhode Island",
     "date": "01/01/2027",
-    "program": "EPSCoR RII: EPSCoR Research Fe",
-    "text": "EPSCoR Research Fellows: NSF: Machine Learning for Faster Simulation of Neutrino Detectors",
-    "title": "EPSCoR Research Fellows: NSF: Machine Learning for Faster Simulation of Neutrino Detectors",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2624402"
-   }
-  },
-  {
-   "key": "2624327",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "300000",
-    "awardee": "Iowa State University",
-    "date": "01/01/2027",
-    "program": "EPSCoR RII: EPSCoR Research Fe",
-    "text": "EPSCoR Research Fellows: NSF: Closed-Loop Autonomous AI Platform for Rapid Discovery and Optimization of Compositionally Complex Ceramics",
-    "title": "EPSCoR Research Fellows: NSF: Closed-Loop Autonomous AI Platform for Rapid Discovery and Optimization of Compositionally Complex Ceramics",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2624327"
+    "program": "AI and Geosciences",
+    "text": "Collaborative Research: CAIG: Assemblage-based machine learning to quantify oceanic geochemical fluxes from marine particle images",
+    "title": "Collaborative Research: CAIG: Assemblage-based machine learning to quantify oceanic geochemical fluxes from marine particle images",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2615517"
    }
   }
  ]

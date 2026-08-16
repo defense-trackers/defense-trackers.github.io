@@ -1,16 +1,16 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-08-15T19:02:54Z",
+ "fetched_at": "2026-08-16T07:02:59Z",
  "schema_version": 1,
  "records": [
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-08-15T17:27:06Z",
+    "date": "2026-08-16T02:10:37Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "59",
+    "stars": "60",
     "text": "takwerx/infra-TAK",
     "title": "takwerx/infra-TAK",
     "url": "https://github.com/takwerx/infra-TAK"
@@ -346,7 +346,7 @@
    "fields": {
     "date": "2024-10-29T11:52:00Z",
     "description": "Situational Awareness Server compatible with TAK clients",
-    "stars": "943",
+    "stars": "944",
     "text": "FreeTAKTeam/FreeTakServer",
     "title": "FreeTAKTeam/FreeTakServer",
     "url": "https://github.com/FreeTAKTeam/FreeTakServer"
@@ -618,7 +618,7 @@
    "fields": {
     "date": "2026-08-13T17:54:34Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
-    "stars": "99",
+    "stars": "100",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
     "title": "FreeTAKTeam/Reticulum-Community-Hub",
     "url": "https://github.com/FreeTAKTeam/Reticulum-Community-Hub"
@@ -701,7 +701,7 @@
    "fields": {
     "date": "2026-08-14T17:14:00Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
-    "stars": "28",
+    "stars": "29",
     "text": "FreeTAKTeam/LXMF-rs",
     "title": "FreeTAKTeam/LXMF-rs",
     "url": "https://github.com/FreeTAKTeam/LXMF-rs"
@@ -777,6 +777,18 @@
    }
   },
   {
+   "key": "CopIXus/PlowTAK",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-08-16T03:17:02Z",
+    "description": "PlowTAK — ATAK plugin for snow plow fleet coverage tracking during winter storms (CopIX)",
+    "stars": "2",
+    "text": "CopIXus/PlowTAK",
+    "title": "CopIXus/PlowTAK",
+    "url": "https://github.com/CopIXus/PlowTAK"
+   }
+  },
+  {
    "key": "kd2var/aprsdroid-atak-plugin",
    "source": "tak-github",
    "fields": {
@@ -813,18 +825,6 @@
    }
   },
   {
-   "key": "CopIXus/PlowTAK",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-08-12T14:30:03Z",
-    "description": "PlowTAK — ATAK plugin for snow plow fleet coverage tracking during winter storms (CopIX)",
-    "stars": "2",
-    "text": "CopIXus/PlowTAK",
-    "title": "CopIXus/PlowTAK",
-    "url": "https://github.com/CopIXus/PlowTAK"
-   }
-  },
-  {
    "key": "jpat-12/TAK-PluginSuite-ATAK_ICU",
    "source": "tak-github",
    "fields": {
@@ -841,7 +841,7 @@
    "fields": {
     "date": "2026-08-09T11:45:53Z",
     "description": "Release repository for Praetorian Tools for ATAK-CIV, providing logistics reporting and ATP formatted messaging compatible with Praetorian C2 Vehicle.",
-    "stars": "0",
+    "stars": "1",
     "text": "Moicanox/Praetorian-Tools-ATAK-Plugin",
     "title": "Moicanox/Praetorian-Tools-ATAK-Plugin",
     "url": "https://github.com/Moicanox/Praetorian-Tools-ATAK-Plugin"
