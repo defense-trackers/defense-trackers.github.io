@@ -1,16 +1,28 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-08-16T07:02:59Z",
+ "fetched_at": "2026-08-16T19:02:44Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "trakbridge/trakbridge",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-08-16T18:22:44Z",
+    "description": "A comprehensive web application for bridging tracking devices and services to TAK (Team Awareness Kit) servers.",
+    "stars": "38",
+    "text": "trakbridge/trakbridge",
+    "title": "trakbridge/trakbridge",
+    "url": "https://github.com/trakbridge/trakbridge"
+   }
+  },
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-08-16T02:10:37Z",
+    "date": "2026-08-16T17:04:51Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "60",
+    "stars": "62",
     "text": "takwerx/infra-TAK",
     "title": "takwerx/infra-TAK",
     "url": "https://github.com/takwerx/infra-TAK"
@@ -58,7 +70,7 @@
    "fields": {
     "date": "2026-08-13T19:20:15Z",
     "description": "DroneCOT is software for monitoring and analyzing Direct Remote Identification (DRI), Remote ID (RID) or Open Drone ID (ODID) broadcasts from Uncrewed Aircraft (UA) via the Team Awareness Kit (TAK) ecosystem of products.",
-    "stars": "35",
+    "stars": "36",
     "text": "snstac/dronecot",
     "title": "snstac/dronecot",
     "url": "https://github.com/snstac/dronecot"
@@ -86,18 +98,6 @@
     "text": "joshuafuller/SRTM2TAK",
     "title": "joshuafuller/SRTM2TAK",
     "url": "https://github.com/joshuafuller/SRTM2TAK"
-   }
-  },
-  {
-   "key": "trakbridge/trakbridge",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-08-09T14:35:57Z",
-    "description": "A comprehensive web application for bridging tracking devices and services to TAK (Team Awareness Kit) servers.",
-    "stars": "38",
-    "text": "trakbridge/trakbridge",
-    "title": "trakbridge/trakbridge",
-    "url": "https://github.com/trakbridge/trakbridge"
    }
   },
   {
@@ -346,7 +346,7 @@
    "fields": {
     "date": "2024-10-29T11:52:00Z",
     "description": "Situational Awareness Server compatible with TAK clients",
-    "stars": "944",
+    "stars": "945",
     "text": "FreeTAKTeam/FreeTakServer",
     "title": "FreeTAKTeam/FreeTakServer",
     "url": "https://github.com/FreeTAKTeam/FreeTakServer"
@@ -913,7 +913,7 @@
    "fields": {
     "date": "2026-08-03T18:08:31Z",
     "description": "ATAK plugin for MeshCore LoRa mesh radios — off-grid position, chat and CoT with no TAK server, no cell service, and no amateur licence. GPL-3.0, with a normative wire spec and golden test vectors.",
-    "stars": "1",
+    "stars": "2",
     "text": "gridbasedotnet/meshcore-TAK",
     "title": "gridbasedotnet/meshcore-TAK",
     "url": "https://github.com/gridbasedotnet/meshcore-TAK"
@@ -1089,7 +1089,7 @@
    "fields": {
     "date": "2026-07-02T00:56:07Z",
     "description": "ATAK MeshCore plugin",
-    "stars": "30",
+    "stars": "32",
     "text": "atakmaps/TAK-MESHCORE",
     "title": "atakmaps/TAK-MESHCORE",
     "url": "https://github.com/atakmaps/TAK-MESHCORE"

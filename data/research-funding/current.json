@@ -1,7 +1,7 @@
 {
  "source": "research-funding",
  "tracker": "research-funding",
- "fetched_at": "2026-08-16T07:02:50Z",
+ "fetched_at": "2026-08-16T19:02:35Z",
  "schema_version": 1,
  "records": [
   {
@@ -61,6 +61,34 @@
    }
   },
   {
+   "key": "2624437",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "299665",
+    "awardee": "New Mexico State University",
+    "date": "01/01/2027",
+    "program": "EPSCoR RII: EPSCoR Research Fe",
+    "text": "EPSCoR Research Fellows: NSF: AI-Secure Command Channels for Autonomous Space Systems",
+    "title": "EPSCoR Research Fellows: NSF: AI-Secure Command Channels for Autonomous Space Systems",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2624437"
+   }
+  },
+  {
+   "key": "2624326",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "300000",
+    "awardee": "University of Nevada Las Vegas",
+    "date": "01/01/2027",
+    "program": "EPSCoR RII: EPSCoR Research Fe",
+    "text": "EPSCoR Research Fellows: NSF: Enhancing Astronomical Multi-Messenger Inference of the Neutron Star Equation of State through Machine Learning Methods",
+    "title": "EPSCoR Research Fellows: NSF: Enhancing Astronomical Multi-Messenger Inference of the Neutron Star Equation of State through Machine Learning Methods",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2624326"
+   }
+  },
+  {
    "key": "2619080",
    "source": "research-nsf",
    "fields": {
@@ -89,31 +117,17 @@
    }
   },
   {
-   "key": "2624326",
+   "key": "2625831",
    "source": "research-nsf",
    "fields": {
     "agency": "NSF",
-    "amount": "300000",
-    "awardee": "University of Nevada Las Vegas",
+    "amount": "495000",
+    "awardee": "Georgia Tech Research Corporation",
     "date": "01/01/2027",
-    "program": "EPSCoR RII: EPSCoR Research Fe",
-    "text": "EPSCoR Research Fellows: NSF: Enhancing Astronomical Multi-Messenger Inference of the Neutron Star Equation of State through Machine Learning Methods",
-    "title": "EPSCoR Research Fellows: NSF: Enhancing Astronomical Multi-Messenger Inference of the Neutron Star Equation of State through Machine Learning Methods",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2624326"
-   }
-  },
-  {
-   "key": "2624437",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "299665",
-    "awardee": "New Mexico State University",
-    "date": "01/01/2027",
-    "program": "EPSCoR RII: EPSCoR Research Fe",
-    "text": "EPSCoR Research Fellows: NSF: AI-Secure Command Channels for Autonomous Space Systems",
-    "title": "EPSCoR Research Fellows: NSF: AI-Secure Command Channels for Autonomous Space Systems",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2624437"
+    "program": "EPCL: Energy, Power, Control,",
+    "text": "Differentiable Reachability for Scalable Verification and Safe Training of Neural Network Controllers",
+    "title": "Differentiable Reachability for Scalable Verification and Safe Training of Neural Network Controllers",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2625831"
    }
   },
   {
@@ -156,20 +170,6 @@
     "text": "Collaborative Research: Global mapping of the Earth's D\" layer using machine learning and implications for deep mantle structure, properties and dynamics",
     "title": "Collaborative Research: Global mapping of the Earth's D\" layer using machine learning and implications for deep mantle structure, properties and dynamics",
     "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2535685"
-   }
-  },
-  {
-   "key": "2625831",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "495000",
-    "awardee": "Georgia Tech Research Corporation",
-    "date": "01/01/2027",
-    "program": "EPCL: Energy, Power, Control,",
-    "text": "Differentiable Reachability for Scalable Verification and Safe Training of Neural Network Controllers",
-    "title": "Differentiable Reachability for Scalable Verification and Safe Training of Neural Network Controllers",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2625831"
    }
   },
   {
