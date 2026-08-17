@@ -1,16 +1,40 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-08-17T07:19:29Z",
+ "fetched_at": "2026-08-17T19:17:03Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "engindearing-projects/OmniTAK-iOS",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-08-17T19:10:34Z",
+    "description": "Open-source TAK (Team Awareness Kit) client for iPhone and iPad. Swift + SwiftUI. Apache 2.0.",
+    "stars": "6",
+    "text": "engindearing-projects/OmniTAK-iOS",
+    "title": "engindearing-projects/OmniTAK-iOS",
+    "url": "https://github.com/engindearing-projects/OmniTAK-iOS"
+   }
+  },
+  {
+   "key": "engindearing-projects/OmniTAK-Android",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-08-17T19:06:14Z",
+    "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
+    "stars": "19",
+    "text": "engindearing-projects/OmniTAK-Android",
+    "title": "engindearing-projects/OmniTAK-Android",
+    "url": "https://github.com/engindearing-projects/OmniTAK-Android"
+   }
+  },
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-08-17T07:17:57Z",
+    "date": "2026-08-17T15:39:19Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "63",
+    "stars": "66",
     "text": "takwerx/infra-TAK",
     "title": "takwerx/infra-TAK",
     "url": "https://github.com/takwerx/infra-TAK"
@@ -122,30 +146,6 @@
     "text": "copyleftdev/tak-rs",
     "title": "copyleftdev/tak-rs",
     "url": "https://github.com/copyleftdev/tak-rs"
-   }
-  },
-  {
-   "key": "engindearing-projects/OmniTAK-iOS",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-06-27T00:17:34Z",
-    "description": "Open-source TAK (Team Awareness Kit) client for iPhone and iPad. Swift + SwiftUI. Apache 2.0.",
-    "stars": "6",
-    "text": "engindearing-projects/OmniTAK-iOS",
-    "title": "engindearing-projects/OmniTAK-iOS",
-    "url": "https://github.com/engindearing-projects/OmniTAK-iOS"
-   }
-  },
-  {
-   "key": "engindearing-projects/OmniTAK-Android",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-06-26T23:49:09Z",
-    "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
-    "stars": "19",
-    "text": "engindearing-projects/OmniTAK-Android",
-    "title": "engindearing-projects/OmniTAK-Android",
-    "url": "https://github.com/engindearing-projects/OmniTAK-Android"
    }
   },
   {
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-08-14T17:14:00Z",
+    "date": "2026-08-17T18:47:45Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "29",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -734,7 +734,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-08-13T16:53:57Z",
+    "date": "2026-08-17T18:36:53Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "26",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -777,6 +777,18 @@
    }
   },
   {
+   "key": "onemindos/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-08-17T16:29:54Z",
+    "description": "OneMind OS ATAK plugins — tactical AR HUD, vision overlay, and more. Built on Kivy + python-for-android, connected to the OneMind NATS fabric.",
+    "stars": "0",
+    "text": "onemindos/atak-plugins",
+    "title": "onemindos/atak-plugins",
+    "url": "https://github.com/onemindos/atak-plugins"
+   }
+  },
+  {
    "key": "CopIXus/PlowTAK",
    "source": "tak-github",
    "fields": {
@@ -801,15 +813,14 @@
    }
   },
   {
-   "key": "Zeus-Delacruz/atak-plugins",
+   "key": "jpat-12/TAK-PluginSuite-ATAK_ICU",
    "source": "tak-github",
    "fields": {
-    "date": "2026-08-14T22:34:27Z",
-    "description": "OneMind OS ATAK plugins — tactical AR HUD, vision overlay, and more. Built on Kivy + python-for-android, connected to the OneMind NATS fabric.",
-    "stars": "0",
-    "text": "Zeus-Delacruz/atak-plugins",
-    "title": "Zeus-Delacruz/atak-plugins",
-    "url": "https://github.com/Zeus-Delacruz/atak-plugins"
+    "date": "2026-08-14T17:23:51Z",
+    "stars": "6",
+    "text": "jpat-12/TAK-PluginSuite-ATAK_ICU",
+    "title": "jpat-12/TAK-PluginSuite-ATAK_ICU",
+    "url": "https://github.com/jpat-12/TAK-PluginSuite-ATAK_ICU"
    }
   },
   {
@@ -822,17 +833,6 @@
     "text": "frrojas92/DF_ESCTEL",
     "title": "frrojas92/DF_ESCTEL",
     "url": "https://github.com/frrojas92/DF_ESCTEL"
-   }
-  },
-  {
-   "key": "jpat-12/TAK-PluginSuite-ATAK_ICU",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-08-14T17:23:51Z",
-    "stars": "5",
-    "text": "jpat-12/TAK-PluginSuite-ATAK_ICU",
-    "title": "jpat-12/TAK-PluginSuite-ATAK_ICU",
-    "url": "https://github.com/jpat-12/TAK-PluginSuite-ATAK_ICU"
    }
   },
   {
@@ -1089,7 +1089,7 @@
    "fields": {
     "date": "2026-07-02T00:56:07Z",
     "description": "ATAK MeshCore plugin",
-    "stars": "33",
+    "stars": "38",
     "text": "atakmaps/TAK-MESHCORE",
     "title": "atakmaps/TAK-MESHCORE",
     "url": "https://github.com/atakmaps/TAK-MESHCORE"
