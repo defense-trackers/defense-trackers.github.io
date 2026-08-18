@@ -1,7 +1,7 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-08-17T19:16:25Z",
+ "fetched_at": "2026-08-18T07:07:49Z",
  "schema_version": 1,
  "records": [
   {
@@ -68,7 +68,7 @@
    "key": "cisagov/trustymail_reporter",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-08-11T12:59:50Z",
+    "date": "2026-08-18T03:52:55Z",
     "description": "Generate Trustworthy Email reports based on scan data",
     "stars": "13",
     "text": "cisagov/trustymail_reporter",
@@ -236,7 +236,7 @@
    "key": "cisagov/Malcolm",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-08-09T17:00:14Z",
+    "date": "2026-08-17T19:38:18Z",
     "description": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.",
     "stars": "2487",
     "text": "cisagov/Malcolm",
@@ -560,7 +560,7 @@
    "key": "idaholab/moose",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-08-17T08:15:56Z",
+    "date": "2026-08-18T05:27:53Z",
     "description": "Multiphysics Object Oriented Simulation Environment",
     "stars": "2330",
     "text": "idaholab/moose",
@@ -620,7 +620,7 @@
    "key": "idaholab/isopod",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-08-16T18:24:09Z",
+    "date": "2026-08-18T05:08:22Z",
     "description": "isopod, a MOOSE based app for multiphysics PDE constrained optimization",
     "stars": "9",
     "text": "idaholab/isopod",
@@ -632,7 +632,7 @@
    "key": "idaholab/malamute",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-08-16T18:50:19Z",
+    "date": "2026-08-18T05:40:12Z",
     "description": "Advanced manufacturing modeling and simulation",
     "stars": "22",
     "text": "idaholab/malamute",
@@ -644,7 +644,7 @@
    "key": "idaholab/air",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-08-16T19:02:25Z",
+    "date": "2026-08-18T06:40:16Z",
     "stars": "0",
     "text": "idaholab/air",
     "title": "idaholab/air",
@@ -655,7 +655,7 @@
    "key": "idaholab/salamander",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-08-16T19:20:40Z",
+    "date": "2026-08-18T06:03:34Z",
     "description": "SALAMANDER is an application for performing system-level, engineering scale (i.e., at the scale of centimeters and meters), and microstructure-scale (i.e., at the scale of microns) multiphysics calculations related to magnetic confinement fusion energy systems.",
     "stars": "24",
     "text": "idaholab/salamander",
@@ -751,7 +751,7 @@
    "key": "llnl/conduit",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-08-17T19:06:36Z",
+    "date": "2026-08-17T22:37:24Z",
     "description": "Simplified Data Exchange for HPC Simulations",
     "stars": "248",
     "text": "llnl/conduit",
@@ -799,7 +799,7 @@
    "key": "llnl/RAJA",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-08-15T01:06:12Z",
+    "date": "2026-08-18T04:20:47Z",
     "description": "RAJA Performance Portability Layer (C++)",
     "stars": "593",
     "text": "llnl/RAJA",
@@ -822,7 +822,7 @@
    "key": "llnl/GridDyn",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-08-05T12:51:00Z",
+    "date": "2026-08-18T04:49:49Z",
     "description": "GridDyn is an open-source power transmission simulation software package",
     "stars": "59",
     "text": "llnl/GridDyn",
@@ -894,7 +894,7 @@
    "key": "mitre/vulcan",
    "source": "oss-mitre",
    "fields": {
-    "date": "2026-08-17T17:42:03Z",
+    "date": "2026-08-18T05:30:59Z",
     "description": "A web application to streamline the development of STIGs from SRGs",
     "stars": "87",
     "text": "mitre/vulcan",
@@ -992,7 +992,7 @@
    "fields": {
     "date": "2026-08-14T20:44:54Z",
     "description": "A web based mission control framework. ",
-    "stars": "13085",
+    "stars": "13084",
     "text": "nasa/openmct",
     "title": "nasa/openmct",
     "url": "https://github.com/nasa/openmct"
@@ -1169,7 +1169,7 @@
    "key": "nsacyber/HIRS",
    "source": "oss-nsacyber",
    "fields": {
-    "date": "2026-08-17T18:42:24Z",
+    "date": "2026-08-17T20:26:37Z",
     "description": "Trusted Computing based services supporting TPM provisioning and supply chain validation concepts. #nsacyber",
     "stars": "212",
     "text": "nsacyber/HIRS",
@@ -1229,7 +1229,7 @@
    "key": "ORNL/HeCBench",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-08-17T17:46:19Z",
+    "date": "2026-08-17T20:52:10Z",
     "stars": "300",
     "text": "ORNL/HeCBench",
     "title": "ORNL/HeCBench",
@@ -1324,7 +1324,7 @@
    "key": "ORNL/GridKit",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-08-17T18:17:52Z",
+    "date": "2026-08-18T03:03:39Z",
     "description": "Modeling framework for power systems simulations and analysis.",
     "stars": "23",
     "text": "ORNL/GridKit",

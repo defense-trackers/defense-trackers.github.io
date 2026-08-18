@@ -1,26 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-08-17T19:17:03Z",
+ "fetched_at": "2026-08-18T07:08:26Z",
  "schema_version": 1,
  "records": [
-  {
-   "key": "engindearing-projects/OmniTAK-iOS",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-08-17T19:10:34Z",
-    "description": "Open-source TAK (Team Awareness Kit) client for iPhone and iPad. Swift + SwiftUI. Apache 2.0.",
-    "stars": "6",
-    "text": "engindearing-projects/OmniTAK-iOS",
-    "title": "engindearing-projects/OmniTAK-iOS",
-    "url": "https://github.com/engindearing-projects/OmniTAK-iOS"
-   }
-  },
   {
    "key": "engindearing-projects/OmniTAK-Android",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-08-17T19:06:14Z",
+    "date": "2026-08-17T19:37:47Z",
     "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
     "stars": "19",
     "text": "engindearing-projects/OmniTAK-Android",
@@ -29,12 +17,24 @@
    }
   },
   {
+   "key": "engindearing-projects/OmniTAK-iOS",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-08-17T19:17:45Z",
+    "description": "Open-source TAK (Team Awareness Kit) client for iPhone and iPad. Swift + SwiftUI. Apache 2.0.",
+    "stars": "6",
+    "text": "engindearing-projects/OmniTAK-iOS",
+    "title": "engindearing-projects/OmniTAK-iOS",
+    "url": "https://github.com/engindearing-projects/OmniTAK-iOS"
+   }
+  },
+  {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-08-17T15:39:19Z",
+    "date": "2026-08-18T06:43:25Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "66",
+    "stars": "67",
     "text": "takwerx/infra-TAK",
     "title": "takwerx/infra-TAK",
     "url": "https://github.com/takwerx/infra-TAK"
@@ -406,7 +406,7 @@
    "fields": {
     "date": "2022-08-06T13:17:21Z",
     "description": "a list of hardware and software to be used in conjunction with ATAK platform",
-    "stars": "296",
+    "stars": "297",
     "text": "FreeTAKTeam/openTAKpickList",
     "title": "FreeTAKTeam/openTAKpickList",
     "url": "https://github.com/FreeTAKTeam/openTAKpickList"
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-08-17T18:47:45Z",
+    "date": "2026-08-17T19:20:42Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "29",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -777,15 +777,51 @@
    }
   },
   {
-   "key": "onemindos/atak-plugins",
+   "key": "RyanR3/TakVideoWall",
    "source": "tak-github",
    "fields": {
-    "date": "2026-08-17T16:29:54Z",
-    "description": "OneMind OS ATAK plugins — tactical AR HUD, vision overlay, and more. Built on Kivy + python-for-android, connected to the OneMind NATS fabric.",
+    "date": "2026-08-18T03:12:18Z",
+    "description": "ATAK plugin for simultaneous multi-stream video monitoring: adaptive 2×2 paged grid, CoT-based feed discovery, snap-to-sender map integration.",
+    "stars": "4",
+    "text": "RyanR3/TakVideoWall",
+    "title": "RyanR3/TakVideoWall",
+    "url": "https://github.com/RyanR3/TakVideoWall"
+   }
+  },
+  {
+   "key": "onemindos/atak-plugin-omhud",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-08-18T03:10:47Z",
+    "description": "OneMind HUD (OMHud) — tactical AR overlay plugin for ATAK",
     "stars": "0",
-    "text": "onemindos/atak-plugins",
-    "title": "onemindos/atak-plugins",
-    "url": "https://github.com/onemindos/atak-plugins"
+    "text": "onemindos/atak-plugin-omhud",
+    "title": "onemindos/atak-plugin-omhud",
+    "url": "https://github.com/onemindos/atak-plugin-omhud"
+   }
+  },
+  {
+   "key": "AkitaEngineering/Akita-MeshTAK",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-08-18T00:41:43Z",
+    "description": "The Akita MeshTAK Plugin is a game-changing Android Tactical Assault Kit (ATAK) plugin meticulously crafted to bridge the gap between ATAK and Meshtastic, providing unparalleled communication capabilities in the most challenging and disconnected environments.",
+    "stars": "13",
+    "text": "AkitaEngineering/Akita-MeshTAK",
+    "title": "AkitaEngineering/Akita-MeshTAK",
+    "url": "https://github.com/AkitaEngineering/Akita-MeshTAK"
+   }
+  },
+  {
+   "key": "VCWG/Air-Sea",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-08-17T23:29:58Z",
+    "description": "AIS and ADS-B plugin for ATAK",
+    "stars": "33",
+    "text": "VCWG/Air-Sea",
+    "title": "VCWG/Air-Sea",
+    "url": "https://github.com/VCWG/Air-Sea"
    }
   },
   {
@@ -845,18 +881,6 @@
     "text": "Moicanox/Praetorian-Tools-ATAK-Plugin",
     "title": "Moicanox/Praetorian-Tools-ATAK-Plugin",
     "url": "https://github.com/Moicanox/Praetorian-Tools-ATAK-Plugin"
-   }
-  },
-  {
-   "key": "RyanR3/TakVideoWall",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-08-09T03:21:15Z",
-    "description": "ATAK plugin for simultaneous multi-stream video monitoring: adaptive 2×2 paged grid, CoT-based feed discovery, snap-to-sender map integration.",
-    "stars": "4",
-    "text": "RyanR3/TakVideoWall",
-    "title": "RyanR3/TakVideoWall",
-    "url": "https://github.com/RyanR3/TakVideoWall"
    }
   },
   {
@@ -931,18 +955,6 @@
    }
   },
   {
-   "key": "AkitaEngineering/Akita-MeshTAK",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-08-10T07:15:15Z",
-    "description": "The Akita MeshTAK Plugin is a game-changing Android Tactical Assault Kit (ATAK) plugin meticulously crafted to bridge the gap between ATAK and Meshtastic, providing unparalleled communication capabilities in the most challenging and disconnected environments.",
-    "stars": "13",
-    "text": "AkitaEngineering/Akita-MeshTAK",
-    "title": "AkitaEngineering/Akita-MeshTAK",
-    "url": "https://github.com/AkitaEngineering/Akita-MeshTAK"
-   }
-  },
-  {
    "key": "TX-RX/TAK-XVoice",
    "source": "tak-github",
    "fields": {
@@ -975,18 +987,6 @@
     "text": "jpat-12/TAKPortal-Plugin-HostedATAKPlugins",
     "title": "jpat-12/TAKPortal-Plugin-HostedATAKPlugins",
     "url": "https://github.com/jpat-12/TAKPortal-Plugin-HostedATAKPlugins"
-   }
-  },
-  {
-   "key": "VCWG/Air-Sea",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-07-29T21:43:40Z",
-    "description": "AIS and ADS-B plugin for ATAK",
-    "stars": "33",
-    "text": "VCWG/Air-Sea",
-    "title": "VCWG/Air-Sea",
-    "url": "https://github.com/VCWG/Air-Sea"
    }
   },
   {

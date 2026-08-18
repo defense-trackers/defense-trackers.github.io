@@ -1,7 +1,7 @@
 {
  "source": "research-funding",
  "tracker": "research-funding",
- "fetched_at": "2026-08-17T19:16:54Z",
+ "fetched_at": "2026-08-18T07:08:17Z",
  "schema_version": 1,
  "records": [
   {
@@ -47,6 +47,20 @@
    }
   },
   {
+   "key": "2624437",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "299665",
+    "awardee": "New Mexico State University",
+    "date": "01/01/2027",
+    "program": "EPSCoR RII: EPSCoR Research Fe",
+    "text": "EPSCoR Research Fellows: NSF: AI-Secure Command Channels for Autonomous Space Systems",
+    "title": "EPSCoR Research Fellows: NSF: AI-Secure Command Channels for Autonomous Space Systems",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2624437"
+   }
+  },
+  {
    "key": "2619079",
    "source": "research-nsf",
    "fields": {
@@ -75,6 +89,20 @@
    }
   },
   {
+   "key": "2535684",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "397538",
+    "awardee": "University of California-Santa Cruz",
+    "date": "01/01/2027",
+    "program": "SPSE-Study of Physics of Earth",
+    "text": "Collaborative Research: Global mapping of the Earth's D\" layer using machine learning and implications for deep mantle structure, properties and dynamics",
+    "title": "Collaborative Research: Global mapping of the Earth's D\" layer using machine learning and implications for deep mantle structure, properties and dynamics",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2535684"
+   }
+  },
+  {
    "key": "2624326",
    "source": "research-nsf",
    "fields": {
@@ -86,20 +114,6 @@
     "text": "EPSCoR Research Fellows: NSF: Enhancing Astronomical Multi-Messenger Inference of the Neutron Star Equation of State through Machine Learning Methods",
     "title": "EPSCoR Research Fellows: NSF: Enhancing Astronomical Multi-Messenger Inference of the Neutron Star Equation of State through Machine Learning Methods",
     "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2624326"
-   }
-  },
-  {
-   "key": "2624437",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "299665",
-    "awardee": "New Mexico State University",
-    "date": "01/01/2027",
-    "program": "EPSCoR RII: EPSCoR Research Fe",
-    "text": "EPSCoR Research Fellows: NSF: AI-Secure Command Channels for Autonomous Space Systems",
-    "title": "EPSCoR Research Fellows: NSF: AI-Secure Command Channels for Autonomous Space Systems",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2624437"
    }
   },
   {
@@ -117,17 +131,17 @@
    }
   },
   {
-   "key": "2535684",
+   "key": "2615516",
    "source": "research-nsf",
    "fields": {
     "agency": "NSF",
-    "amount": "397538",
-    "awardee": "University of California-Santa Cruz",
+    "amount": "699907",
+    "awardee": "University of Maine",
     "date": "01/01/2027",
-    "program": "SPSE-Study of Physics of Earth",
-    "text": "Collaborative Research: Global mapping of the Earth's D\" layer using machine learning and implications for deep mantle structure, properties and dynamics",
-    "title": "Collaborative Research: Global mapping of the Earth's D\" layer using machine learning and implications for deep mantle structure, properties and dynamics",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2535684"
+    "program": "AI and Geosciences",
+    "text": "Collaborative Research: CAIG: Assemblage-based machine learning to quantify oceanic geochemical fluxes from marine particle images",
+    "title": "Collaborative Research: CAIG: Assemblage-based machine learning to quantify oceanic geochemical fluxes from marine particle images",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2615516"
    }
   },
   {
@@ -156,62 +170,6 @@
     "text": "Differentiable Reachability for Scalable Verification and Safe Training of Neural Network Controllers",
     "title": "Differentiable Reachability for Scalable Verification and Safe Training of Neural Network Controllers",
     "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2625831"
-   }
-  },
-  {
-   "key": "2615516",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "699907",
-    "awardee": "University of Maine",
-    "date": "01/01/2027",
-    "program": "AI and Geosciences",
-    "text": "Collaborative Research: CAIG: Assemblage-based machine learning to quantify oceanic geochemical fluxes from marine particle images",
-    "title": "Collaborative Research: CAIG: Assemblage-based machine learning to quantify oceanic geochemical fluxes from marine particle images",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2615516"
-   }
-  },
-  {
-   "key": "2619078",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "270000",
-    "awardee": "Pennsylvania State Univ University Park",
-    "date": "01/01/2027",
-    "program": "CSCS: Circuits and Systems for",
-    "text": "Collaborative Research: A Subspace Optimization Framework for Resource-Efficient and Private Fine-Tuning of Large Language Models",
-    "title": "Collaborative Research: A Subspace Optimization Framework for Resource-Efficient and Private Fine-Tuning of Large Language Models",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2619078"
-   }
-  },
-  {
-   "key": "2624402",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "257733",
-    "awardee": "University of South Dakota Main Campus",
-    "date": "01/01/2027",
-    "program": "EPSCoR RII: EPSCoR Research Fe",
-    "text": "EPSCoR Research Fellows: NSF: Machine Learning for Faster Simulation of Neutrino Detectors",
-    "title": "EPSCoR Research Fellows: NSF: Machine Learning for Faster Simulation of Neutrino Detectors",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2624402"
-   }
-  },
-  {
-   "key": "2624327",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "300000",
-    "awardee": "Iowa State University",
-    "date": "01/01/2027",
-    "program": "EPSCoR RII: EPSCoR Research Fe",
-    "text": "EPSCoR Research Fellows: NSF: Closed-Loop Autonomous AI Platform for Rapid Discovery and Optimization of Compositionally Complex Ceramics",
-    "title": "EPSCoR Research Fellows: NSF: Closed-Loop Autonomous AI Platform for Rapid Discovery and Optimization of Compositionally Complex Ceramics",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2624327"
    }
   }
  ]
