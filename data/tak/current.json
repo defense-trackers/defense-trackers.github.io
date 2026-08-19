@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-08-19T07:09:26Z",
+ "fetched_at": "2026-08-19T19:08:07Z",
  "schema_version": 1,
  "records": [
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-08-19T05:42:50Z",
+    "date": "2026-08-19T18:09:35Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "70",
     "text": "takwerx/infra-TAK",
@@ -146,6 +146,18 @@
     "text": "copyleftdev/tak-rs",
     "title": "copyleftdev/tak-rs",
     "url": "https://github.com/copyleftdev/tak-rs"
+   }
+  },
+  {
+   "key": "newtypeind/atak-mcp",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-06-23T08:24:02Z",
+    "description": "Drive ATAK (Android Team Awareness Kit) and its plugins over adb without blind taps: CLI + MCP server (uvx-installable).",
+    "stars": "3",
+    "text": "newtypeind/atak-mcp",
+    "title": "newtypeind/atak-mcp",
+    "url": "https://github.com/newtypeind/atak-mcp"
    }
   },
   {
@@ -346,7 +358,7 @@
    "fields": {
     "date": "2024-10-29T11:52:00Z",
     "description": "Situational Awareness Server compatible with TAK clients",
-    "stars": "946",
+    "stars": "947",
     "text": "FreeTAKTeam/FreeTakServer",
     "title": "FreeTAKTeam/FreeTakServer",
     "url": "https://github.com/FreeTAKTeam/FreeTakServer"
@@ -618,7 +630,7 @@
    "fields": {
     "date": "2026-08-13T17:54:34Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
-    "stars": "100",
+    "stars": "101",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
     "title": "FreeTAKTeam/Reticulum-Community-Hub",
     "url": "https://github.com/FreeTAKTeam/Reticulum-Community-Hub"
@@ -699,7 +711,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-08-19T00:15:48Z",
+    "date": "2026-08-19T12:17:26Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "29",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -881,6 +893,18 @@
     "text": "frrojas92/DF_ESCTEL",
     "title": "frrojas92/DF_ESCTEL",
     "url": "https://github.com/frrojas92/DF_ESCTEL"
+   }
+  },
+  {
+   "key": "meshtastic/pluginmeshtastic",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-08-09T13:37:50Z",
+    "description": "A standalone Meshtastic plugin for ATAK",
+    "stars": "25",
+    "text": "meshtastic/pluginmeshtastic",
+    "title": "meshtastic/pluginmeshtastic",
+    "url": "https://github.com/meshtastic/pluginmeshtastic"
    }
   },
   {
@@ -1105,18 +1129,6 @@
     "text": "atakmaps/TAK-MESHCORE",
     "title": "atakmaps/TAK-MESHCORE",
     "url": "https://github.com/atakmaps/TAK-MESHCORE"
-   }
-  },
-  {
-   "key": "robertsima/atak-fieldsync",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-06-25T21:49:54Z",
-    "description": "ATAK Plugin with edge native integration",
-    "stars": "0",
-    "text": "robertsima/atak-fieldsync",
-    "title": "robertsima/atak-fieldsync",
-    "url": "https://github.com/robertsima/atak-fieldsync"
    }
   },
   {

@@ -1,23 +1,9 @@
 {
  "source": "research-funding",
  "tracker": "research-funding",
- "fetched_at": "2026-08-19T07:09:17Z",
+ "fetched_at": "2026-08-19T19:07:58Z",
  "schema_version": 1,
  "records": [
-  {
-   "key": "2625501",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "240000",
-    "awardee": "Lehigh University",
-    "date": "04/01/2027",
-    "program": "CSCS: Circuits and Systems for",
-    "text": "Collaborative Research: CCSS: Semantic-Aware Collaborative Perception and Networking for Autonomous Urban Mobility",
-    "title": "Collaborative Research: CCSS: Semantic-Aware Collaborative Perception and Networking for Autonomous Urban Mobility",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2625501"
-   }
-  },
   {
    "key": "2625502",
    "source": "research-nsf",
@@ -30,6 +16,20 @@
     "text": "Collaborative Research: CCSS: Semantic-Aware Collaborative Perception and Networking for Autonomous Urban Mobility",
     "title": "Collaborative Research: CCSS: Semantic-Aware Collaborative Perception and Networking for Autonomous Urban Mobility",
     "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2625502"
+   }
+  },
+  {
+   "key": "2625501",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "240000",
+    "awardee": "Lehigh University",
+    "date": "04/01/2027",
+    "program": "CSCS: Circuits and Systems for",
+    "text": "Collaborative Research: CCSS: Semantic-Aware Collaborative Perception and Networking for Autonomous Urban Mobility",
+    "title": "Collaborative Research: CCSS: Semantic-Aware Collaborative Perception and Networking for Autonomous Urban Mobility",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2625501"
    }
   },
   {
@@ -47,20 +47,6 @@
    }
   },
   {
-   "key": "2535685",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "344999",
-    "awardee": "University of California-Berkeley",
-    "date": "01/01/2027",
-    "program": "SPSE-Study of Physics of Earth",
-    "text": "Collaborative Research: Global mapping of the Earth's D\" layer using machine learning and implications for deep mantle structure, properties and dynamics",
-    "title": "Collaborative Research: Global mapping of the Earth's D\" layer using machine learning and implications for deep mantle structure, properties and dynamics",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2535685"
-   }
-  },
-  {
    "key": "2619080",
    "source": "research-nsf",
    "fields": {
@@ -72,76 +58,6 @@
     "text": "Collaborative Research: A Subspace Optimization Framework for Resource-Efficient and Private Fine-Tuning of Large Language Models",
     "title": "Collaborative Research: A Subspace Optimization Framework for Resource-Efficient and Private Fine-Tuning of Large Language Models",
     "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2619080"
-   }
-  },
-  {
-   "key": "2615516",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "699907",
-    "awardee": "University of Maine",
-    "date": "01/01/2027",
-    "program": "AI and Geosciences",
-    "text": "Collaborative Research: CAIG: Assemblage-based machine learning to quantify oceanic geochemical fluxes from marine particle images",
-    "title": "Collaborative Research: CAIG: Assemblage-based machine learning to quantify oceanic geochemical fluxes from marine particle images",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2615516"
-   }
-  },
-  {
-   "key": "2625831",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "495000",
-    "awardee": "Georgia Tech Research Corporation",
-    "date": "01/01/2027",
-    "program": "EPCL: Energy, Power, Control,",
-    "text": "Differentiable Reachability for Scalable Verification and Safe Training of Neural Network Controllers",
-    "title": "Differentiable Reachability for Scalable Verification and Safe Training of Neural Network Controllers",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2625831"
-   }
-  },
-  {
-   "key": "2535684",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "397538",
-    "awardee": "University of California-Santa Cruz",
-    "date": "01/01/2027",
-    "program": "SPSE-Study of Physics of Earth",
-    "text": "Collaborative Research: Global mapping of the Earth's D\" layer using machine learning and implications for deep mantle structure, properties and dynamics",
-    "title": "Collaborative Research: Global mapping of the Earth's D\" layer using machine learning and implications for deep mantle structure, properties and dynamics",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2535684"
-   }
-  },
-  {
-   "key": "2619079",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "120000",
-    "awardee": "University of Texas at San Antonio",
-    "date": "01/01/2027",
-    "program": "CSCS: Circuits and Systems for",
-    "text": "Collaborative Research: A Subspace Optimization Framework for Resource-Efficient and Private Fine-Tuning of Large Language Models",
-    "title": "Collaborative Research: A Subspace Optimization Framework for Resource-Efficient and Private Fine-Tuning of Large Language Models",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2619079"
-   }
-  },
-  {
-   "key": "2624326",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "300000",
-    "awardee": "University of Nevada Las Vegas",
-    "date": "01/01/2027",
-    "program": "EPSCoR RII: EPSCoR Research Fe",
-    "text": "EPSCoR Research Fellows: NSF: Enhancing Astronomical Multi-Messenger Inference of the Neutron Star Equation of State through Machine Learning Methods",
-    "title": "EPSCoR Research Fellows: NSF: Enhancing Astronomical Multi-Messenger Inference of the Neutron Star Equation of State through Machine Learning Methods",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2624326"
    }
   },
   {
@@ -159,6 +75,48 @@
    }
   },
   {
+   "key": "2619079",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "120000",
+    "awardee": "University of Texas at San Antonio",
+    "date": "01/01/2027",
+    "program": "CSCS: Circuits and Systems for",
+    "text": "Collaborative Research: A Subspace Optimization Framework for Resource-Efficient and Private Fine-Tuning of Large Language Models",
+    "title": "Collaborative Research: A Subspace Optimization Framework for Resource-Efficient and Private Fine-Tuning of Large Language Models",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2619079"
+   }
+  },
+  {
+   "key": "2535684",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "397538",
+    "awardee": "University of California-Santa Cruz",
+    "date": "01/01/2027",
+    "program": "SPSE-Study of Physics of Earth",
+    "text": "Collaborative Research: Global mapping of the Earth's D\" layer using machine learning and implications for deep mantle structure, properties and dynamics",
+    "title": "Collaborative Research: Global mapping of the Earth's D\" layer using machine learning and implications for deep mantle structure, properties and dynamics",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2535684"
+   }
+  },
+  {
+   "key": "2624326",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "300000",
+    "awardee": "University of Nevada Las Vegas",
+    "date": "01/01/2027",
+    "program": "EPSCoR RII: EPSCoR Research Fe",
+    "text": "EPSCoR Research Fellows: NSF: Enhancing Astronomical Multi-Messenger Inference of the Neutron Star Equation of State through Machine Learning Methods",
+    "title": "EPSCoR Research Fellows: NSF: Enhancing Astronomical Multi-Messenger Inference of the Neutron Star Equation of State through Machine Learning Methods",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2624326"
+   }
+  },
+  {
    "key": "2613449",
    "source": "research-nsf",
    "fields": {
@@ -170,6 +128,48 @@
     "text": "Identifying Essential Competencies for Artificial Intelligence Assisted Programming in Foundational Engineering Courses",
     "title": "Identifying Essential Competencies for Artificial Intelligence Assisted Programming in Foundational Engineering Courses",
     "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2613449"
+   }
+  },
+  {
+   "key": "2615516",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "699907",
+    "awardee": "University of Maine",
+    "date": "01/01/2027",
+    "program": "AI and Geosciences",
+    "text": "Collaborative Research: CAIG: Assemblage-based machine learning to quantify oceanic geochemical fluxes from marine particle images",
+    "title": "Collaborative Research: CAIG: Assemblage-based machine learning to quantify oceanic geochemical fluxes from marine particle images",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2615516"
+   }
+  },
+  {
+   "key": "2535685",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "344999",
+    "awardee": "University of California-Berkeley",
+    "date": "01/01/2027",
+    "program": "SPSE-Study of Physics of Earth",
+    "text": "Collaborative Research: Global mapping of the Earth's D\" layer using machine learning and implications for deep mantle structure, properties and dynamics",
+    "title": "Collaborative Research: Global mapping of the Earth's D\" layer using machine learning and implications for deep mantle structure, properties and dynamics",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2535685"
+   }
+  },
+  {
+   "key": "2625831",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "495000",
+    "awardee": "Georgia Tech Research Corporation",
+    "date": "01/01/2027",
+    "program": "EPCL: Energy, Power, Control,",
+    "text": "Differentiable Reachability for Scalable Verification and Safe Training of Neural Network Controllers",
+    "title": "Differentiable Reachability for Scalable Verification and Safe Training of Neural Network Controllers",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2625831"
    }
   }
  ]
