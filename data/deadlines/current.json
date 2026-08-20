@@ -1,7 +1,7 @@
 {
  "source": "deadlines",
  "tracker": "deadlines",
- "fetched_at": "2026-08-20T07:10:25Z",
+ "fetched_at": "2026-08-20T19:19:46Z",
  "schema_version": 1,
  "records": [
   {
@@ -486,19 +486,6 @@
    }
   },
   {
-   "key": "close-355499",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "Air Force -- Research Lab",
-    "closes": "2029-07-18",
-    "date": "2029-07-18",
-    "from": "pipeline",
-    "text": "Research and Development (RAD) Directed Energy (RD) University Assistance Instruments",
-    "title": "Research and Development (RAD) Directed Energy (RD) University Assistance Instruments",
-    "url": "https://www.grants.gov/search-results-detail/355499"
-   }
-  },
-  {
    "key": "close-347858",
    "source": "deadlines-solicitations",
    "fields": {
@@ -707,6 +694,19 @@
    }
   },
   {
+   "key": "close-9569c199d8a041779c81fd3dc7c60ad9",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-NJ.W6QK ACC-RI-PICATINNY",
+    "closes": "2026-08-31",
+    "date": "2026-08-31",
+    "from": "pipeline",
+    "text": "50mm weapon based Air Defense Counter-Unmanned Aircraft System (C-UAS)",
+    "title": "50mm weapon based Air Defense Counter-Unmanned Aircraft System (C-UAS)",
+    "url": "https://sam.gov/workspace/contract/opp/9569c199d8a041779c81fd3dc7c60ad9/view"
+   }
+  },
+  {
    "key": "close-b44b9134f8d941689a341329a87ccf33",
    "source": "deadlines-solicitations",
    "fields": {
@@ -795,19 +795,6 @@
     "text": "Design-Build to Budget (DB2B) Tactical Unmanned Aerial Vehicle (TUAV) Hangar",
     "title": "Design-Build to Budget (DB2B) Tactical Unmanned Aerial Vehicle (TUAV) Hangar",
     "url": "https://sam.gov/workspace/contract/opp/cd6fea492fef48a3b99b7154d8536181/view"
-   }
-  },
-  {
-   "key": "close-1d9a85d6b5e8470f86f5d63e8751d484",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-NJ.W6QK ACC-RI-PICATINNY",
-    "closes": "2026-08-31",
-    "date": "2026-08-31",
-    "from": "pipeline",
-    "text": "50mm weapon based Air Defense Counter-Unmanned Aircraft System (C-UAS)",
-    "title": "50mm weapon based Air Defense Counter-Unmanned Aircraft System (C-UAS)",
-    "url": "https://sam.gov/workspace/contract/opp/1d9a85d6b5e8470f86f5d63e8751d484/view"
    }
   },
   {
