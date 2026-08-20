@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-08-19T19:08:10Z",
+ "fetched_at": "2026-08-20T07:10:25Z",
  "schema_version": 1,
  "records": [
   {
@@ -269,6 +269,18 @@
    }
   },
   {
+   "key": "CONT_AWD_FA880625CB001_9700_-NONE-_-NONE-",
+   "source": "transition-prototype",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "4.526243912e+07",
+    "description": "TO PROTOTYPE AND DELIVER PROCESSES FOR THE SPACE COMMAND AND CONTROL MISSION AREA WITHIN BATTLE MANAGEMENT COMMAND, CONTROL, AND COMMUNICATIONS EXECUTIVE PORTFOLIO.",
+    "text": "MODERN TECHNOLOGY SOLUTIONS, INC.",
+    "title": "MODERN TECHNOLOGY SOLUTIONS, INC.",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA880625CB001_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_FA865623F1052_9700_FA865622D0029_9700",
    "source": "transition-prototype",
    "fields": {
@@ -302,18 +314,6 @@
     "text": "LOCKHEED MARTIN CORPORATION",
     "title": "LOCKHEED MARTIN CORPORATION",
     "url": "https://www.usaspending.gov/award/CONT_AWD_HQ072723F1100_9700_HQ072716D0001_9700/"
-   }
-  },
-  {
-   "key": "CONT_AWD_FA880625CB001_9700_-NONE-_-NONE-",
-   "source": "transition-prototype",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "4.160333812e+07",
-    "description": "TO PROTOTYPE AND DELIVER PROCESSES FOR THE SPACE COMMAND AND CONTROL MISSION AREA WITHIN BATTLE MANAGEMENT COMMAND, CONTROL, AND COMMUNICATIONS EXECUTIVE PORTFOLIO.",
-    "text": "MODERN TECHNOLOGY SOLUTIONS, INC.",
-    "title": "MODERN TECHNOLOGY SOLUTIONS, INC.",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_FA880625CB001_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -569,6 +569,18 @@
    }
   },
   {
+   "key": "CONT_AWD_N0016425F3008_9700_N0017819D8470_9700",
+   "source": "transition-prototype",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "2.004297595e+07",
+    "description": "ENGINEERING \u0026 TECHNICAL SUPPORT SERVICES, FIELD ENGINEERING, INTEGRATED LOGISTICS SUPPORT, CONFIGURATION MANAGEMENT, MANAGEMENT SUPPORT, DATA MANAGEMENT SUPPORT, \u0026 PROTOTYPE FABRICATION FOR THE WEAPONS SYSTEMS DIVISION",
+    "text": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
+    "title": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_N0016425F3008_9700_N0017819D8470_9700/"
+   }
+  },
+  {
    "key": "CONT_AWD_N0016724F0054_9700_N0016721D0010_9700",
    "source": "transition-prototype",
    "fields": {
@@ -590,18 +602,6 @@
     "text": "AKIMA MISSION OPTIMIZATION LLC",
     "title": "AKIMA MISSION OPTIMIZATION LLC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_N6133121F3009_9700_N0017819D8049_9700/"
-   }
-  },
-  {
-   "key": "CONT_AWD_W56HZV24C0030_9700_-NONE-_-NONE-",
-   "source": "transition-prototype",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "19119960",
-    "description": "ARV-30 PROTOTYPE VEHICLE PROCUREMENT.",
-    "text": "GENERAL DYNAMICS LAND SYSTEMS INC.",
-    "title": "GENERAL DYNAMICS LAND SYSTEMS INC.",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W56HZV24C0030_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -804,7 +804,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "1.277511915885e+10",
+    "amount": "1.277705165885e+10",
     "award_id": "N0002416C2116",
     "description": "CVN 80 ENGINEERING EFFORTS AND STEEL",
     "text": "HUNTINGTON INGALLS INC",
@@ -1025,7 +1025,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "8.31326924783e+09",
+    "amount": "8.31817313183e+09",
     "award_id": "N0002423C2307",
     "description": "CONSTRUCTION OF DDG 51 SHIPS FY23-27",
     "text": "HUNTINGTON INGALLS INCORPORATED",

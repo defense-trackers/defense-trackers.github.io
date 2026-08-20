@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-08-19T19:06:33Z",
+ "fetched_at": "2026-08-20T07:08:43Z",
  "schema_version": 1,
  "records": [
   {
@@ -293,6 +293,18 @@
    }
   },
   {
+   "key": "CONT_AWD_W911QX24C0010_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "6.95747992e+06",
+    "description": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING-MANAGING MASSIVE DATA SETS: HIGH EFFICIENCY RESEARCH AND MODELING ECOSYSTEM (HERMES) BROAD AGENCY ANNOUNCEMENT (BAA) CONTRACT FOR UP TO FIVE (5) YEARS IN SUPPORT OF THE ARMY RESEARCH LABORATORY (ARL)",
+    "text": "LOCKHEED MARTIN CORP",
+    "title": "LOCKHEED MARTIN CORP",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W911QX24C0010_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_N0002420F8032_9700_N0002413D6400_9700",
    "source": "ai-spending-contracts",
    "fields": {
@@ -374,18 +386,6 @@
     "text": "PACMAR TECHNOLOGIES LLC",
     "title": "PACMAR TECHNOLOGIES LLC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_N0001420C1099_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_W911QX24C0010_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "4.72147992e+06",
-    "description": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING-MANAGING MASSIVE DATA SETS: HIGH EFFICIENCY RESEARCH AND MODELING ECOSYSTEM (HERMES) BROAD AGENCY ANNOUNCEMENT (BAA) CONTRACT FOR UP TO FIVE (5) YEARS IN SUPPORT OF THE ARMY RESEARCH LABORATORY (ARL)",
-    "text": "LOCKHEED MARTIN CORP",
-    "title": "LOCKHEED MARTIN CORP",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W911QX24C0010_9700_-NONE-_-NONE-/"
    }
   },
   {
