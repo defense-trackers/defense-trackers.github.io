@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-08-20T19:18:02Z",
+ "fetched_at": "2026-08-21T07:09:37Z",
  "schema_version": 1,
  "records": [
   {
@@ -77,6 +77,18 @@
    }
   },
   {
+   "key": "CONT_AWD_HQ003425CE092_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "2.063211941e+07",
+    "description": "THIS IS A NON-PERSONAL SERVICES CONTRACT TO PROVIDE INFORMATION TECHNOLOGY, ARTIFICIAL INTELLIGENCE, AND MACHINE LEARNING PROGRAM SUPPORT SERVICES.",
+    "text": "LEISNOI PROFESSIONAL SERVICES, LLC",
+    "title": "LEISNOI PROFESSIONAL SERVICES, LLC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_HQ003425CE092_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_W911QX24C0009_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
@@ -86,18 +98,6 @@
     "text": "EXPEDITION TECHNOLOGY, LLC",
     "title": "EXPEDITION TECHNOLOGY, LLC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W911QX24C0009_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_HQ003425CE092_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "1.744723169e+07",
-    "description": "THIS IS A NON-PERSONAL SERVICES CONTRACT TO PROVIDE INFORMATION TECHNOLOGY, ARTIFICIAL INTELLIGENCE, AND MACHINE LEARNING PROGRAM SUPPORT SERVICES.",
-    "text": "LEISNOI PROFESSIONAL SERVICES, LLC",
-    "title": "LEISNOI PROFESSIONAL SERVICES, LLC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_HQ003425CE092_9700_-NONE-_-NONE-/"
    }
   },
   {

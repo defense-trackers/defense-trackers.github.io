@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-08-20T19:19:16Z",
+ "fetched_at": "2026-08-21T07:10:53Z",
  "schema_version": 1,
  "records": [
   {
@@ -493,6 +493,19 @@
    }
   },
   {
+   "key": "355499",
+   "source": "pipeline-grants",
+   "fields": {
+    "agency": "Air Force -- Research Lab",
+    "closes": "07/18/2029",
+    "number": "RDK-RAD-FOA-2024",
+    "posted": "07/18/2024",
+    "text": "Research and Development (RAD) Directed Energy (RD) University Assistance Instruments",
+    "title": "Research and Development (RAD) Directed Energy (RD) University Assistance Instruments",
+    "url": "https://www.grants.gov/search-results-detail/355499"
+   }
+  },
+  {
    "key": "347858",
    "source": "pipeline-logistics",
    "fields": {
@@ -941,19 +954,6 @@
     "title": "Medium Unmanned Surface Vessel (MUSV) High-Capacity",
     "type": "Presolicitation",
     "url": "https://sam.gov/workspace/contract/opp/89571fe157704a8d8aa246245a743828/view"
-   }
-  },
-  {
-   "key": "363188",
-   "source": "pipeline-unmanned",
-   "fields": {
-    "agency": "Department of Homeland Security - FEMA",
-    "closes": "08/20/2026",
-    "number": "DHS-26-NPD-107-00-01",
-    "posted": "07/17/2026",
-    "text": "Fiscal Year 2026 National Incident Management System (NIMS)",
-    "title": "Fiscal Year 2026 National Incident Management System (NIMS)",
-    "url": "https://www.grants.gov/search-results-detail/363188"
    }
   },
   {
