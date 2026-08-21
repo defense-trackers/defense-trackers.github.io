@@ -1,7 +1,7 @@
 {
  "source": "deadlines",
  "tracker": "deadlines",
- "fetched_at": "2026-08-21T07:11:48Z",
+ "fetched_at": "2026-08-21T19:15:12Z",
  "schema_version": 1,
  "records": [
   {
@@ -642,6 +642,19 @@
    }
   },
   {
+   "key": "close-ab5de2004b3a4549819300908e5f3ee1",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEFENSE HEALTH AGENCY (DHA).DEFENSE HEALTH AGENCY",
+    "closes": "2026-08-28",
+    "date": "2026-08-28",
+    "from": "pipeline",
+    "text": "Request for Solutions (RFS): Autonomous Coding (AC) and Automated Appeals \u0026 Denials Management (ADM)",
+    "title": "Request for Solutions (RFS): Autonomous Coding (AC) and Automated Appeals \u0026 Denials Management (ADM)",
+    "url": "https://sam.gov/workspace/contract/opp/ab5de2004b3a4549819300908e5f3ee1/view"
+   }
+  },
+  {
    "key": "close-ccb7fecdd0d54543afd2d740f3f84ac7",
    "source": "deadlines-solicitations",
    "fields": {
@@ -665,19 +678,6 @@
     "text": "ATEC HQ 001, Autonomous Swarm Dynamics \u0026 Counter-Drone (C-UAS) Technologies",
     "title": "ATEC HQ 001, Autonomous Swarm Dynamics \u0026 Counter-Drone (C-UAS) Technologies",
     "url": "https://sam.gov/workspace/contract/opp/0ac04c8eb1f54701bebee587f9e6fb1f/view"
-   }
-  },
-  {
-   "key": "close-b1f26e7ded2643d2835947cc08cb56fe",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEFENSE HEALTH AGENCY (DHA).DEFENSE HEALTH AGENCY",
-    "closes": "2026-08-28",
-    "date": "2026-08-28",
-    "from": "pipeline",
-    "text": "Request for Solutions (RFS): Autonomous Coding (AC) and Automated Appeals \u0026 Denials Management (ADM)",
-    "title": "Request for Solutions (RFS): Autonomous Coding (AC) and Automated Appeals \u0026 Denials Management (ADM)",
-    "url": "https://sam.gov/workspace/contract/opp/b1f26e7ded2643d2835947cc08cb56fe/view"
    }
   },
   {

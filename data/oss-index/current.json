@@ -1,7 +1,7 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-08-21T07:10:37Z",
+ "fetched_at": "2026-08-21T19:14:26Z",
  "schema_version": 1,
  "records": [
   {
@@ -80,7 +80,7 @@
    "key": "cisagov/trustymail_reporter",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-08-20T22:04:51Z",
+    "date": "2026-08-21T18:32:12Z",
     "description": "Generate Trustworthy Email reports based on scan data",
     "stars": "13",
     "text": "cisagov/trustymail_reporter",
@@ -92,7 +92,7 @@
    "key": "cisagov/cyhy_amis",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-08-20T09:44:16Z",
+    "date": "2026-08-21T19:11:38Z",
     "description": "AWS infrastructure for Cyber Hygiene and BOD 18-01 scanning",
     "stars": "24",
     "text": "cisagov/cyhy_amis",
@@ -368,7 +368,7 @@
    "key": "cisagov/skeleton-docker",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-08-12T17:12:50Z",
+    "date": "2026-08-21T16:55:13Z",
     "description": "A skeleton project for quickly getting a new cisagov Docker container started.",
     "stars": "22",
     "text": "cisagov/skeleton-docker",
@@ -763,7 +763,7 @@
    "key": "llnl/conduit",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-08-20T23:23:45Z",
+    "date": "2026-08-21T17:12:30Z",
     "description": "Simplified Data Exchange for HPC Simulations",
     "stars": "248",
     "text": "llnl/conduit",
@@ -811,7 +811,7 @@
    "key": "llnl/RAJA",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-08-20T23:10:19Z",
+    "date": "2026-08-21T19:10:11Z",
     "description": "RAJA Performance Portability Layer (C++)",
     "stars": "595",
     "text": "llnl/RAJA",
@@ -834,7 +834,7 @@
    "key": "llnl/GridDyn",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-08-21T02:19:54Z",
+    "date": "2026-08-21T19:02:38Z",
     "description": "GridDyn is an open-source power transmission simulation software package",
     "stars": "59",
     "text": "llnl/GridDyn",
@@ -906,7 +906,7 @@
    "key": "mitre/vulcan",
    "source": "oss-mitre",
    "fields": {
-    "date": "2026-08-21T04:10:56Z",
+    "date": "2026-08-21T08:24:34Z",
     "description": "A web application to streamline the development of STIGs from SRGs",
     "stars": "87",
     "text": "mitre/vulcan",
@@ -1004,7 +1004,7 @@
    "fields": {
     "date": "2026-08-20T22:12:26Z",
     "description": "A web based mission control framework. ",
-    "stars": "13086",
+    "stars": "13087",
     "text": "nasa/openmct",
     "title": "nasa/openmct",
     "url": "https://github.com/nasa/openmct"
@@ -1014,7 +1014,7 @@
    "key": "nasa/earthdata-search",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-08-21T01:07:30Z",
+    "date": "2026-08-21T19:08:22Z",
     "description": "Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.",
     "stars": "823",
     "text": "nasa/earthdata-search",
@@ -1098,7 +1098,7 @@
    "key": "ngageoint/hootenanny",
    "source": "oss-ngageoint",
    "fields": {
-    "date": "2026-08-19T11:49:41Z",
+    "date": "2026-08-21T12:23:53Z",
     "description": "Hootenanny conflates multiple maps into a single seamless map.",
     "stars": "389",
     "text": "ngageoint/hootenanny",
@@ -1146,7 +1146,7 @@
    "key": "ngageoint/sarpy",
    "source": "oss-ngageoint",
    "fields": {
-    "date": "2026-08-10T23:47:49Z",
+    "date": "2026-08-21T16:32:00Z",
     "description": "A basic Python library to demonstrate reading, writing, display, and simple processing of complex SAR data using the NGA SICD standard.",
     "stars": "329",
     "text": "ngageoint/sarpy",
@@ -1170,7 +1170,7 @@
    "key": "nsacyber/HIRS",
    "source": "oss-nsacyber",
    "fields": {
-    "date": "2026-08-20T19:47:23Z",
+    "date": "2026-08-21T17:21:33Z",
     "description": "Trusted Computing based services supporting TPM provisioning and supply chain validation concepts. #nsacyber",
     "stars": "212",
     "text": "nsacyber/HIRS",
@@ -1194,7 +1194,7 @@
    "key": "nsacyber/RIM-Tool",
    "source": "oss-nsacyber",
    "fields": {
-    "date": "2026-08-10T20:55:11Z",
+    "date": "2026-08-21T14:10:41Z",
     "description": "A tool to create TCG Reference Integrity Manifest (RIM) files for use with attestation verifiers like HIRS.",
     "stars": "7",
     "text": "nsacyber/RIM-Tool",
@@ -1231,7 +1231,7 @@
    "source": "oss-ornl",
    "fields": {
     "date": "2026-08-19T14:02:50Z",
-    "stars": "302",
+    "stars": "303",
     "text": "ORNL/HeCBench",
     "title": "ORNL/HeCBench",
     "url": "https://github.com/ORNL/HeCBench"
@@ -1241,7 +1241,7 @@
    "key": "ORNL/HydraGNN",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-08-21T04:07:27Z",
+    "date": "2026-08-21T17:06:29Z",
     "description": "Distributed PyTorch implementation of multi-headed graph convolutional neural networks",
     "stars": "124",
     "text": "ORNL/HydraGNN",
@@ -1291,7 +1291,7 @@
    "fields": {
     "date": "2026-08-12T19:18:36Z",
     "description": "Runtime provenance for AI and scientific workflows—capture, enrich, and query workflow data via observability adapters and code annotation across edge, cloud, and HPC.",
-    "stars": "32",
+    "stars": "33",
     "text": "ORNL/flowcept",
     "title": "ORNL/flowcept",
     "url": "https://github.com/ORNL/flowcept"
@@ -1313,7 +1313,7 @@
    "key": "ORNL/AdditiveFOAM",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-08-18T18:52:13Z",
+    "date": "2026-08-21T19:10:35Z",
     "description": "A continuum physics code for additive manufacturing built on OpenFOAM",
     "stars": "70",
     "text": "ORNL/AdditiveFOAM",
@@ -1325,7 +1325,7 @@
    "key": "ORNL/GridKit",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-08-20T21:15:12Z",
+    "date": "2026-08-21T17:27:17Z",
     "description": "Modeling framework for power systems simulations and analysis.",
     "stars": "23",
     "text": "ORNL/GridKit",

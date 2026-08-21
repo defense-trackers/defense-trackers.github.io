@@ -1,16 +1,28 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-08-21T07:11:45Z",
+ "fetched_at": "2026-08-21T19:15:09Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "vanguarda-app/Loki",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-08-21T08:39:23Z",
+    "description": "Simulation Suit for Team Awareness Kit environments",
+    "stars": "0",
+    "text": "vanguarda-app/Loki",
+    "title": "vanguarda-app/Loki",
+    "url": "https://github.com/vanguarda-app/Loki"
+   }
+  },
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
     "date": "2026-08-21T03:29:14Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "71",
+    "stars": "72",
     "text": "takwerx/infra-TAK",
     "title": "takwerx/infra-TAK",
     "url": "https://github.com/takwerx/infra-TAK"
@@ -341,18 +353,6 @@
    }
   },
   {
-   "key": "westpoint-robotics/moos-tak",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2024-01-29T17:08:10Z",
-    "description": "Ability to send Team Awareness Kit (TAK) cursor on target (COT) messages from the MOOS robot middleware.",
-    "stars": "1",
-    "text": "westpoint-robotics/moos-tak",
-    "title": "westpoint-robotics/moos-tak",
-    "url": "https://github.com/westpoint-robotics/moos-tak"
-   }
-  },
-  {
    "key": "FreeTAKTeam/FreeTakServer",
    "source": "tak-freetak",
    "fields": {
@@ -570,7 +570,7 @@
    "key": "FreeTAKTeam/DigitalArchitectureFramework",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-08-07T12:24:47Z",
+    "date": "2026-08-21T13:03:17Z",
     "description": "The Digital Architecture Framework (DAF),  is a set modeling tools for Digital Engineering. ",
     "stars": "8",
     "text": "FreeTAKTeam/DigitalArchitectureFramework",

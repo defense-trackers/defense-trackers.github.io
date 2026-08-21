@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-08-21T07:10:53Z",
+ "fetched_at": "2026-08-21T19:14:45Z",
  "schema_version": 1,
  "records": [
   {
@@ -222,6 +222,18 @@
    }
   },
   {
+   "key": "362681",
+   "source": "pipeline-grants",
+   "fields": {
+    "agency": "Air Force Office of Scientific Research",
+    "number": "FA955026S0001",
+    "posted": "06/04/2026",
+    "text": "Research Interests of the Air Force Office of Scientific Research",
+    "title": "Research Interests of the Air Force Office of Scientific Research",
+    "url": "https://www.grants.gov/search-results-detail/362681"
+   }
+  },
+  {
    "key": "362036",
    "source": "pipeline-grants",
    "fields": {
@@ -297,18 +309,6 @@
     "text": "Improved Oil and Gas Recovery and Produced Water Management Technologies",
     "title": "Improved Oil and Gas Recovery and Produced Water Management Technologies",
     "url": "https://www.grants.gov/search-results-detail/363065"
-   }
-  },
-  {
-   "key": "362681",
-   "source": "pipeline-grants",
-   "fields": {
-    "agency": "Air Force Office of Scientific Research",
-    "number": "FA955026S0001",
-    "posted": "06/04/2026",
-    "text": "Research Interests of the Air Force Office of Scientific Research",
-    "title": "Research Interests of the Air Force Office of Scientific Research",
-    "url": "https://www.grants.gov/search-results-detail/362681"
    }
   },
   {
@@ -701,6 +701,20 @@
    }
   },
   {
+   "key": "ab5de2004b3a4549819300908e5f3ee1",
+   "source": "pipeline-sam-autonomy",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEFENSE HEALTH AGENCY (DHA).DEFENSE HEALTH AGENCY",
+    "closes": "2026-08-28T10:00:00-04:00",
+    "number": "HT0038RFSACADM",
+    "posted": "2026-08-21",
+    "text": "Request for Solutions (RFS): Autonomous Coding (AC) and Automated Appeals \u0026 Denials Management (ADM)",
+    "title": "Request for Solutions (RFS): Autonomous Coding (AC) and Automated Appeals \u0026 Denials Management (ADM)",
+    "type": "Solicitation",
+    "url": "https://sam.gov/workspace/contract/opp/ab5de2004b3a4549819300908e5f3ee1/view"
+   }
+  },
+  {
    "key": "ccb7fecdd0d54543afd2d740f3f84ac7",
    "source": "pipeline-sam-autonomy",
    "fields": {
@@ -726,20 +740,6 @@
     "title": "ATEC HQ 001, Autonomous Swarm Dynamics \u0026 Counter-Drone (C-UAS) Technologies",
     "type": "Special Notice",
     "url": "https://sam.gov/workspace/contract/opp/0ac04c8eb1f54701bebee587f9e6fb1f/view"
-   }
-  },
-  {
-   "key": "b1f26e7ded2643d2835947cc08cb56fe",
-   "source": "pipeline-sam-autonomy",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEFENSE HEALTH AGENCY (DHA).DEFENSE HEALTH AGENCY",
-    "closes": "2026-08-28T10:00:00-04:00",
-    "number": "HT0038RFSACADM",
-    "posted": "2026-08-17",
-    "text": "Request for Solutions (RFS): Autonomous Coding (AC) and Automated Appeals \u0026 Denials Management (ADM)",
-    "title": "Request for Solutions (RFS): Autonomous Coding (AC) and Automated Appeals \u0026 Denials Management (ADM)",
-    "type": "Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/b1f26e7ded2643d2835947cc08cb56fe/view"
    }
   },
   {
