@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-08-21T19:14:45Z",
+ "fetched_at": "2026-08-22T07:02:39Z",
  "schema_version": 1,
  "records": [
   {
@@ -157,6 +157,19 @@
    }
   },
   {
+   "key": "350338",
+   "source": "pipeline-cyber",
+   "fields": {
+    "agency": "National Institute of Standards and Technology",
+    "closes": "11/01/2026",
+    "number": "2023-NIST-CHIPS-SMME-01",
+    "posted": "09/29/2023",
+    "text": "CHIPS Incentives Program – Facilities for Semiconductor Materials and Manufacturing Equipment",
+    "title": "CHIPS Incentives Program – Facilities for Semiconductor Materials and Manufacturing Equipment",
+    "url": "https://www.grants.gov/search-results-detail/350338"
+   }
+  },
+  {
    "key": "351404",
    "source": "pipeline-grants",
    "fields": {
@@ -283,19 +296,6 @@
     "text": "Annual Recurring University Training and Research",
     "title": "Annual Recurring University Training and Research",
     "url": "https://www.grants.gov/search-results-detail/363594"
-   }
-  },
-  {
-   "key": "363279",
-   "source": "pipeline-grants",
-   "fields": {
-    "agency": "National Institute of Standards and Technology",
-    "closes": "08/21/2026",
-    "number": "2026-NIST-MEP-02",
-    "posted": "07/22/2026",
-    "text": "Manufacturing Extension Partnership Center State Competition",
-    "title": "Manufacturing Extension Partnership Center State Competition",
-    "url": "https://www.grants.gov/search-results-detail/363279"
    }
   },
   {
@@ -715,34 +715,6 @@
    }
   },
   {
-   "key": "ccb7fecdd0d54543afd2d740f3f84ac7",
-   "source": "pipeline-sam-autonomy",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-APG.W6QK ACC-APG",
-    "closes": "2026-08-21T16:30:00-04:00",
-    "number": "ATEC_RIW26_003",
-    "posted": "2026-08-18",
-    "text": "ATEC HQ 003 - AI Assurance \u0026 Autonomous System Validation",
-    "title": "ATEC HQ 003 - AI Assurance \u0026 Autonomous System Validation",
-    "type": "Special Notice",
-    "url": "https://sam.gov/workspace/contract/opp/ccb7fecdd0d54543afd2d740f3f84ac7/view"
-   }
-  },
-  {
-   "key": "0ac04c8eb1f54701bebee587f9e6fb1f",
-   "source": "pipeline-sam-autonomy",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-APG.W6QK ACC-APG",
-    "closes": "2026-08-21T16:30:00-04:00",
-    "number": "ATEC_RIW26_001",
-    "posted": "2026-08-18",
-    "text": "ATEC HQ 001, Autonomous Swarm Dynamics \u0026 Counter-Drone (C-UAS) Technologies",
-    "title": "ATEC HQ 001, Autonomous Swarm Dynamics \u0026 Counter-Drone (C-UAS) Technologies",
-    "type": "Special Notice",
-    "url": "https://sam.gov/workspace/contract/opp/0ac04c8eb1f54701bebee587f9e6fb1f/view"
-   }
-  },
-  {
    "key": "cef79c7a0e9742e5bbd82017699f5ac8",
    "source": "pipeline-sam-autonomy",
    "fields": {
@@ -768,6 +740,20 @@
     "title": "TECHNOLOGY TRANSFER OPPORTUNITY: 3D Lidar for Autonomous Landing Site Selection (GSC-TOPS-353)",
     "type": "Special Notice",
     "url": "https://sam.gov/workspace/contract/opp/4eed7af49a704ad1a3f6751c2f590a32/view"
+   }
+  },
+  {
+   "key": "5b1fecf09c8247f3b2934b754f976135",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC RSA",
+    "closes": "2026-09-04T17:00:00-05:00",
+    "number": "RFW-DOTAC-ARMY-2026-002",
+    "posted": "2026-08-21",
+    "text": "Unmanned Ground Vehicles (UGV) for GroundBreaker 1 Demonstration",
+    "title": "Unmanned Ground Vehicles (UGV) for GroundBreaker 1 Demonstration",
+    "type": "Special Notice",
+    "url": "https://sam.gov/workspace/contract/opp/5b1fecf09c8247f3b2934b754f976135/view"
    }
   },
   {
@@ -800,20 +786,6 @@
    }
   },
   {
-   "key": "febe805b07cc4b1e909240edfd1bee75",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.USMC.MARCOR SYSCOM.COMMANDER",
-    "closes": "2026-08-21T10:00:00-05:00",
-    "number": "M67854-26-R-0129",
-    "posted": "2026-08-14",
-    "text": "Request for White Papers - Organic Counter Small Unmanned Aircraft System Dismounted Effectors",
-    "title": "Request for White Papers - Organic Counter Small Unmanned Aircraft System Dismounted Effectors",
-    "type": "Sources Sought",
-    "url": "https://sam.gov/workspace/contract/opp/febe805b07cc4b1e909240edfd1bee75/view"
-   }
-  },
-  {
    "key": "c4d361af279341b68655f944aef8c06c",
    "source": "pipeline-sam-unmanned",
    "fields": {
@@ -826,20 +798,6 @@
     "title": "Fixed-Wing Vertical Take-Off and Landing (VTOL) small Unmanned Aircraft System (sUAS) WingtraRay \"or Equal",
     "type": "Combined Synopsis/Solicitation",
     "url": "https://sam.gov/workspace/contract/opp/c4d361af279341b68655f944aef8c06c/view"
-   }
-  },
-  {
-   "key": "72e6eaf5b9954e2580f23ba019db49af",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.USMC.MARCOR SYSCOM.COMMANDER",
-    "closes": "2026-08-21T10:00:00-05:00",
-    "number": "M67854-26-R-0131",
-    "posted": "2026-08-14",
-    "text": "Request for White Papers - Organic Counter Small Unmanned Aircraft System (O-CsUAS) Dismounted Sensors",
-    "title": "Request for White Papers - Organic Counter Small Unmanned Aircraft System (O-CsUAS) Dismounted Sensors",
-    "type": "Sources Sought",
-    "url": "https://sam.gov/workspace/contract/opp/72e6eaf5b9954e2580f23ba019db49af/view"
    }
   },
   {

@@ -1,9 +1,33 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-08-21T19:15:09Z",
+ "fetched_at": "2026-08-22T07:02:57Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "snstac/pytak",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-08-22T04:25:22Z",
+    "description": "PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.",
+    "stars": "249",
+    "text": "snstac/pytak",
+    "title": "snstac/pytak",
+    "url": "https://github.com/snstac/pytak"
+   }
+  },
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-08-22T03:59:41Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "73",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
   {
    "key": "vanguarda-app/Loki",
    "source": "tak-cot",
@@ -14,18 +38,6 @@
     "text": "vanguarda-app/Loki",
     "title": "vanguarda-app/Loki",
     "url": "https://github.com/vanguarda-app/Loki"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-08-21T03:29:14Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "72",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -86,18 +98,6 @@
     "text": "felixross66/claude-ai-coding-kit-2026",
     "title": "felixross66/claude-ai-coding-kit-2026",
     "url": "https://github.com/felixross66/claude-ai-coding-kit-2026"
-   }
-  },
-  {
-   "key": "snstac/pytak",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-08-13T20:09:31Z",
-    "description": "PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.",
-    "stars": "249",
-    "text": "snstac/pytak",
-    "title": "snstac/pytak",
-    "url": "https://github.com/snstac/pytak"
    }
   },
   {
@@ -630,7 +630,7 @@
    "fields": {
     "date": "2026-08-13T17:54:34Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
-    "stars": "101",
+    "stars": "102",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
     "title": "FreeTAKTeam/Reticulum-Community-Hub",
     "url": "https://github.com/FreeTAKTeam/Reticulum-Community-Hub"
@@ -789,6 +789,30 @@
    }
   },
   {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-08-22T04:20:16Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "0",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
+   "key": "takwerx/plss-grid",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-08-22T04:19:50Z",
+    "description": "ATAK Plugin: PLSS Grid — township, range and section overlay from BLM survey data. Downloads, guide and issues here.",
+    "stars": "1",
+    "text": "takwerx/plss-grid",
+    "title": "takwerx/plss-grid",
+    "url": "https://github.com/takwerx/plss-grid"
+   }
+  },
+  {
    "key": "onemindos/atak-plugin-omhud",
    "source": "tak-github",
    "fields": {
@@ -798,18 +822,6 @@
     "text": "onemindos/atak-plugin-omhud",
     "title": "onemindos/atak-plugin-omhud",
     "url": "https://github.com/onemindos/atak-plugin-omhud"
-   }
-  },
-  {
-   "key": "takwerx/plss-plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-08-21T02:02:32Z",
-    "description": "PLSS Grid — Public Land Survey System township and section overlay for ATAK. Surveyed BLM data, offline, whole-US coverage.",
-    "stars": "0",
-    "text": "takwerx/plss-plugin",
-    "title": "takwerx/plss-plugin",
-    "url": "https://github.com/takwerx/plss-plugin"
    }
   },
   {
@@ -900,7 +912,7 @@
    "key": "jpat-12/TAK-PluginSuite-ATAK_ICU",
    "source": "tak-github",
    "fields": {
-    "date": "2026-08-14T17:23:51Z",
+    "date": "2026-08-22T03:31:15Z",
     "stars": "6",
     "text": "jpat-12/TAK-PluginSuite-ATAK_ICU",
     "title": "jpat-12/TAK-PluginSuite-ATAK_ICU",
@@ -1117,18 +1129,6 @@
     "text": "niccellular/forcedelete",
     "title": "niccellular/forcedelete",
     "url": "https://github.com/niccellular/forcedelete"
-   }
-  },
-  {
-   "key": "The-Epimetheus/Abstract-A-TAK",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-07-05T23:27:27Z",
-    "description": "One branch builds an ATAK plugin for every ATAK version (4.10–5.8) x distro",
-    "stars": "2",
-    "text": "The-Epimetheus/Abstract-A-TAK",
-    "title": "The-Epimetheus/Abstract-A-TAK",
-    "url": "https://github.com/The-Epimetheus/Abstract-A-TAK"
    }
   },
   {

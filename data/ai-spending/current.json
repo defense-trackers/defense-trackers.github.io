@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-08-21T19:13:27Z",
+ "fetched_at": "2026-08-22T07:01:24Z",
  "schema_version": 1,
  "records": [
   {
@@ -329,6 +329,18 @@
    }
   },
   {
+   "key": "CONT_AWD_FA489026C0006_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "5.72130872e+06",
+    "description": "THIS REQUIREMENT PROVIDES ENTERPRISE-LEVEL SERVICES TO ACCELERATE THE ADOPTION, TRAINING, GOVERNANCE, AND OPERATIONAL INTEGRATION OF ARTIFICIAL INTELLIGENCE (AI) AND ROBOTIC PROCESS AUTOMATION (RPA) CAPABILITIES ACROSS ACC.",
+    "text": "KONIAG IT SYSTEMS, LLC",
+    "title": "KONIAG IT SYSTEMS, LLC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA489026C0006_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_HQ003424C0151_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
@@ -350,18 +362,6 @@
     "text": "SCALE AI, INC.",
     "title": "SCALE AI, INC.",
     "url": "https://www.usaspending.gov/award/CONT_AWD_FA875126C0001_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_FA489026C0006_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "5.06018692e+06",
-    "description": "THIS REQUIREMENT PROVIDES ENTERPRISE-LEVEL SERVICES TO ACCELERATE THE ADOPTION, TRAINING, GOVERNANCE, AND OPERATIONAL INTEGRATION OF ARTIFICIAL INTELLIGENCE (AI) AND ROBOTIC PROCESS AUTOMATION (RPA) CAPABILITIES ACROSS ACC.",
-    "text": "KONIAG IT SYSTEMS, LLC",
-    "title": "KONIAG IT SYSTEMS, LLC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_FA489026C0006_9700_-NONE-_-NONE-/"
    }
   },
   {
