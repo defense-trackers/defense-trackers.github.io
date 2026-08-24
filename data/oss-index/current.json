@@ -1,7 +1,7 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-08-24T07:31:36Z",
+ "fetched_at": "2026-08-24T19:17:47Z",
  "schema_version": 1,
  "records": [
   {
@@ -56,7 +56,7 @@
    "key": "cisagov/gatherer",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-08-19T14:56:37Z",
+    "date": "2026-08-24T15:55:32Z",
     "description": "Gather domains as a precursor to scanning",
     "stars": "21",
     "text": "cisagov/gatherer",
@@ -128,7 +128,7 @@
    "key": "cisagov/cyhy-reports",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-08-19T20:32:26Z",
+    "date": "2026-08-24T15:17:09Z",
     "description": "Code to generate Cyber Hygiene (CyHy) reports",
     "stars": "12",
     "text": "cisagov/cyhy-reports",
@@ -248,7 +248,7 @@
    "key": "cisagov/Malcolm",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-08-20T19:52:56Z",
+    "date": "2026-08-24T17:51:42Z",
     "description": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.",
     "stars": "2494",
     "text": "cisagov/Malcolm",
@@ -428,7 +428,7 @@
    "key": "cisagov/kali-packer",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-08-17T17:04:38Z",
+    "date": "2026-08-24T17:02:28Z",
     "description": "This project can be used to create AMIs based on Kali Linux, a penetration testing distribution.",
     "stars": "22",
     "text": "cisagov/kali-packer",
@@ -572,9 +572,9 @@
    "key": "idaholab/moose",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-08-24T06:28:23Z",
+    "date": "2026-08-24T15:07:20Z",
     "description": "Multiphysics Object Oriented Simulation Environment",
-    "stars": "2334",
+    "stars": "2335",
     "text": "idaholab/moose",
     "title": "idaholab/moose",
     "url": "https://github.com/idaholab/moose"
@@ -584,7 +584,7 @@
    "key": "idaholab/raven",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-07-15T21:57:56Z",
+    "date": "2026-08-24T15:05:46Z",
     "description": "RAVEN is a flexible and multi-purpose probabilistic risk analysis, validation and uncertainty quantification, parameter optimization, model reduction and data knowledge-discovering framework.",
     "stars": "264",
     "text": "idaholab/raven",
@@ -596,7 +596,7 @@
    "key": "idaholab/Malcolm",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-08-20T19:52:44Z",
+    "date": "2026-08-24T17:51:28Z",
     "description": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.",
     "stars": "478",
     "text": "idaholab/Malcolm",
@@ -656,7 +656,7 @@
    "key": "idaholab/air",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-08-19T08:40:19Z",
+    "date": "2026-08-24T08:20:17Z",
     "stars": "0",
     "text": "idaholab/air",
     "title": "idaholab/air",
@@ -667,7 +667,7 @@
    "key": "idaholab/salamander",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-08-19T08:49:57Z",
+    "date": "2026-08-24T07:50:35Z",
     "description": "SALAMANDER is an application for performing system-level, engineering scale (i.e., at the scale of centimeters and meters), and microstructure-scale (i.e., at the scale of microns) multiphysics calculations related to magnetic confinement fusion energy systems.",
     "stars": "24",
     "text": "idaholab/salamander",
@@ -813,7 +813,7 @@
    "fields": {
     "date": "2026-08-21T23:18:46Z",
     "description": "RAJA Performance Portability Layer (C++)",
-    "stars": "595",
+    "stars": "596",
     "text": "llnl/RAJA",
     "title": "llnl/RAJA",
     "url": "https://github.com/llnl/RAJA"
@@ -834,7 +834,7 @@
    "key": "llnl/GridDyn",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-08-24T00:15:02Z",
+    "date": "2026-08-24T14:55:43Z",
     "description": "GridDyn is an open-source power transmission simulation software package",
     "stars": "59",
     "text": "llnl/GridDyn",
@@ -860,7 +860,7 @@
    "fields": {
     "date": "2026-08-05T22:57:18Z",
     "description": "Cyber Threat Intelligence Repository expressed in STIX 2.0",
-    "stars": "2130",
+    "stars": "2131",
     "text": "mitre/cti",
     "title": "mitre/cti",
     "url": "https://github.com/mitre/cti"
@@ -1002,9 +1002,9 @@
    "key": "nasa/openmct",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-08-23T00:27:30Z",
+    "date": "2026-08-24T18:37:10Z",
     "description": "A web based mission control framework. ",
-    "stars": "13091",
+    "stars": "13092",
     "text": "nasa/openmct",
     "title": "nasa/openmct",
     "url": "https://github.com/nasa/openmct"
@@ -1014,7 +1014,7 @@
    "key": "nasa/earthdata-search",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-08-24T02:25:29Z",
+    "date": "2026-08-24T14:23:05Z",
     "description": "Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.",
     "stars": "823",
     "text": "nasa/earthdata-search",
@@ -1062,7 +1062,7 @@
    "key": "nasa/Common-Metadata-Repository",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-08-20T16:58:13Z",
+    "date": "2026-08-24T19:07:51Z",
     "description": "The Common Metadata Repository (CMR) is a high-performance, high-quality, continuously evolving metadata system that catalogs Earth Science data and associated service metadata records. These metadata records are registered, modified, discovered, and accessed through programmatic interfaces leveraging standard protocols and APIs.",
     "stars": "394",
     "text": "nasa/Common-Metadata-Repository",
@@ -1098,9 +1098,9 @@
    "key": "ngageoint/hootenanny",
    "source": "oss-ngageoint",
    "fields": {
-    "date": "2026-08-21T19:32:42Z",
+    "date": "2026-08-24T12:44:09Z",
     "description": "Hootenanny conflates multiple maps into a single seamless map.",
-    "stars": "389",
+    "stars": "390",
     "text": "ngageoint/hootenanny",
     "title": "ngageoint/hootenanny",
     "url": "https://github.com/ngageoint/hootenanny"
@@ -1146,7 +1146,7 @@
    "key": "ngageoint/sarpy",
    "source": "oss-ngageoint",
    "fields": {
-    "date": "2026-08-23T15:37:44Z",
+    "date": "2026-08-24T17:31:26Z",
     "description": "A basic Python library to demonstrate reading, writing, display, and simple processing of complex SAR data using the NGA SICD standard.",
     "stars": "330",
     "text": "ngageoint/sarpy",
@@ -1170,7 +1170,7 @@
    "key": "nsacyber/HIRS",
    "source": "oss-nsacyber",
    "fields": {
-    "date": "2026-08-21T17:21:33Z",
+    "date": "2026-08-24T18:38:54Z",
     "description": "Trusted Computing based services supporting TPM provisioning and supply chain validation concepts. #nsacyber",
     "stars": "212",
     "text": "nsacyber/HIRS",
@@ -1194,7 +1194,7 @@
    "key": "nsacyber/RIM-Tool",
    "source": "oss-nsacyber",
    "fields": {
-    "date": "2026-08-21T14:10:41Z",
+    "date": "2026-08-24T15:30:18Z",
     "description": "A tool to create TCG Reference Integrity Manifest (RIM) files for use with attestation verifiers like HIRS.",
     "stars": "7",
     "text": "nsacyber/RIM-Tool",
@@ -1325,7 +1325,7 @@
    "key": "ORNL/GridKit",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-08-23T12:25:15Z",
+    "date": "2026-08-24T16:58:51Z",
     "description": "Modeling framework for power systems simulations and analysis.",
     "stars": "26",
     "text": "ORNL/GridKit",
@@ -1337,7 +1337,7 @@
    "key": "sandialabs/n2a",
    "source": "oss-sandialabs",
    "fields": {
-    "date": "2026-06-01T13:07:04Z",
+    "date": "2026-08-24T18:45:45Z",
     "description": "An object-oriented language for modeling large-scale neural systems, along with an IDE for writing and simulating models.",
     "stars": "30",
     "text": "sandialabs/n2a",
