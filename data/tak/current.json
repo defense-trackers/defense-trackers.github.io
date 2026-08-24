@@ -1,14 +1,26 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-08-23T19:03:55Z",
+ "fetched_at": "2026-08-24T07:32:10Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "snstac/pytak",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-08-23T23:01:16Z",
+    "description": "PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.",
+    "stars": "249",
+    "text": "snstac/pytak",
+    "title": "snstac/pytak",
+    "url": "https://github.com/snstac/pytak"
+   }
+  },
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-08-23T15:41:02Z",
+    "date": "2026-08-24T06:42:17Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "73",
     "text": "takwerx/infra-TAK",
@@ -26,18 +38,6 @@
     "text": "Audrey-cn/universal-agent-embedding-kit",
     "title": "Audrey-cn/universal-agent-embedding-kit",
     "url": "https://github.com/Audrey-cn/universal-agent-embedding-kit"
-   }
-  },
-  {
-   "key": "snstac/pytak",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-08-22T04:25:22Z",
-    "description": "PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.",
-    "stars": "249",
-    "text": "snstac/pytak",
-    "title": "snstac/pytak",
-    "url": "https://github.com/snstac/pytak"
    }
   },
   {
@@ -106,7 +106,7 @@
    "fields": {
     "date": "2026-08-13T19:20:15Z",
     "description": "DroneCOT is software for monitoring and analyzing Direct Remote Identification (DRI), Remote ID (RID) or Open Drone ID (ODID) broadcasts from Uncrewed Aircraft (UA) via the Team Awareness Kit (TAK) ecosystem of products.",
-    "stars": "37",
+    "stars": "38",
     "text": "snstac/dronecot",
     "title": "snstac/dronecot",
     "url": "https://github.com/snstac/dronecot"
@@ -418,7 +418,7 @@
    "fields": {
     "date": "2022-08-06T13:17:21Z",
     "description": "a list of hardware and software to be used in conjunction with ATAK platform",
-    "stars": "297",
+    "stars": "298",
     "text": "FreeTAKTeam/openTAKpickList",
     "title": "FreeTAKTeam/openTAKpickList",
     "url": "https://github.com/FreeTAKTeam/openTAKpickList"
@@ -711,7 +711,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-08-19T12:17:26Z",
+    "date": "2026-08-24T00:41:27Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "29",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -852,7 +852,7 @@
    "key": "AkitaEngineering/Akita-MeshTAK",
    "source": "tak-github",
    "fields": {
-    "date": "2026-08-19T00:35:16Z",
+    "date": "2026-08-24T07:13:12Z",
     "description": "The Akita MeshTAK Plugin is a game-changing Android Tactical Assault Kit (ATAK) plugin meticulously crafted to bridge the gap between ATAK and Meshtastic, providing unparalleled communication capabilities in the most challenging and disconnected environments.",
     "stars": "13",
     "text": "AkitaEngineering/Akita-MeshTAK",
@@ -878,7 +878,7 @@
    "fields": {
     "date": "2026-08-17T23:29:58Z",
     "description": "AIS and ADS-B plugin for ATAK",
-    "stars": "33",
+    "stars": "34",
     "text": "VCWG/Air-Sea",
     "title": "VCWG/Air-Sea",
     "url": "https://github.com/VCWG/Air-Sea"
@@ -1030,7 +1030,7 @@
    "key": "TX-RX/TAK-XVoice",
    "source": "tak-github",
    "fields": {
-    "date": "2026-08-17T06:23:25Z",
+    "date": "2026-08-24T06:23:11Z",
     "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
     "stars": "5",
     "text": "TX-RX/TAK-XVoice",

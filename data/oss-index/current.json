@@ -1,7 +1,7 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-08-23T19:03:20Z",
+ "fetched_at": "2026-08-24T07:31:36Z",
  "schema_version": 1,
  "records": [
   {
@@ -250,7 +250,7 @@
    "fields": {
     "date": "2026-08-20T19:52:56Z",
     "description": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.",
-    "stars": "2493",
+    "stars": "2494",
     "text": "cisagov/Malcolm",
     "title": "cisagov/Malcolm",
     "url": "https://github.com/cisagov/Malcolm"
@@ -572,7 +572,7 @@
    "key": "idaholab/moose",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-08-22T08:09:40Z",
+    "date": "2026-08-24T06:28:23Z",
     "description": "Multiphysics Object Oriented Simulation Environment",
     "stars": "2334",
     "text": "idaholab/moose",
@@ -586,7 +586,7 @@
    "fields": {
     "date": "2026-07-15T21:57:56Z",
     "description": "RAVEN is a flexible and multi-purpose probabilistic risk analysis, validation and uncertainty quantification, parameter optimization, model reduction and data knowledge-discovering framework.",
-    "stars": "263",
+    "stars": "264",
     "text": "idaholab/raven",
     "title": "idaholab/raven",
     "url": "https://github.com/idaholab/raven"
@@ -610,7 +610,7 @@
    "fields": {
     "date": "2026-08-06T17:13:40Z",
     "description": "Event Modeling Risk Assessment using Linked Diagrams (EMRALD) is a software tool developed at INL for researching the capabilities of dynamic PRA (Probabilistic Risk Assessment). In order to promote the effective use of dynamic PRA by the general community, EMRALD focuses on the following key aspects: Simplifying the modeling process by providing a structure that corresponds to traditional PRA modeling methods Providing a user interface (UI) that makes it easy for the user to model and visualize complex interactions Allowing the user to couple with other analysis applications such as physics based simulations. This includes one-way communication for most applications and two-way loose coupling for customizable applications Providing the sequence and timing of events that lead to the specified outcomes when calculating results Traditional aspects of components with basic events, fault trees, and event trees are all captured in a dynamic framework of state diagrams, which are displayed ",
-    "stars": "30",
+    "stars": "31",
     "text": "idaholab/EMRALD",
     "title": "idaholab/EMRALD",
     "url": "https://github.com/idaholab/EMRALD"
@@ -632,7 +632,7 @@
    "key": "idaholab/isopod",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-08-19T07:48:37Z",
+    "date": "2026-08-24T07:13:13Z",
     "description": "isopod, a MOOSE based app for multiphysics PDE constrained optimization",
     "stars": "9",
     "text": "idaholab/isopod",
@@ -644,7 +644,7 @@
    "key": "idaholab/malamute",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-08-19T08:33:18Z",
+    "date": "2026-08-24T07:26:13Z",
     "description": "Advanced manufacturing modeling and simulation",
     "stars": "22",
     "text": "idaholab/malamute",
@@ -763,7 +763,7 @@
    "key": "llnl/conduit",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-08-23T17:44:59Z",
+    "date": "2026-08-24T02:19:54Z",
     "description": "Simplified Data Exchange for HPC Simulations",
     "stars": "248",
     "text": "llnl/conduit",
@@ -834,7 +834,7 @@
    "key": "llnl/GridDyn",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-08-23T13:36:58Z",
+    "date": "2026-08-24T00:15:02Z",
     "description": "GridDyn is an open-source power transmission simulation software package",
     "stars": "59",
     "text": "llnl/GridDyn",
@@ -1004,7 +1004,7 @@
    "fields": {
     "date": "2026-08-23T00:27:30Z",
     "description": "A web based mission control framework. ",
-    "stars": "13090",
+    "stars": "13091",
     "text": "nasa/openmct",
     "title": "nasa/openmct",
     "url": "https://github.com/nasa/openmct"
@@ -1014,7 +1014,7 @@
    "key": "nasa/earthdata-search",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-08-21T21:47:12Z",
+    "date": "2026-08-24T02:25:29Z",
     "description": "Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.",
     "stars": "823",
     "text": "nasa/earthdata-search",
@@ -1052,7 +1052,7 @@
    "fields": {
     "date": "2026-03-31T21:15:45Z",
     "description": "An easy and convenient package to create technical LaTeX documents.",
-    "stars": "272",
+    "stars": "273",
     "text": "nasa/nasa-latex-docs",
     "title": "nasa/nasa-latex-docs",
     "url": "https://github.com/nasa/nasa-latex-docs"
@@ -1315,7 +1315,7 @@
    "fields": {
     "date": "2026-08-21T19:10:35Z",
     "description": "A continuum physics code for additive manufacturing built on OpenFOAM",
-    "stars": "70",
+    "stars": "71",
     "text": "ORNL/AdditiveFOAM",
     "title": "ORNL/AdditiveFOAM",
     "url": "https://github.com/ORNL/AdditiveFOAM"
@@ -1327,7 +1327,7 @@
    "fields": {
     "date": "2026-08-23T12:25:15Z",
     "description": "Modeling framework for power systems simulations and analysis.",
-    "stars": "25",
+    "stars": "26",
     "text": "ORNL/GridKit",
     "title": "ORNL/GridKit",
     "url": "https://github.com/ORNL/GridKit"
