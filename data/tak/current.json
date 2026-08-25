@@ -1,7 +1,7 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-08-25T07:12:07Z",
+ "fetched_at": "2026-08-25T19:18:23Z",
  "schema_version": 1,
  "records": [
   {
@@ -711,7 +711,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-08-24T14:02:31Z",
+    "date": "2026-08-25T12:20:19Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "29",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -748,7 +748,7 @@
    "fields": {
     "date": "2026-08-20T15:49:56Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
-    "stars": "26",
+    "stars": "27",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
     "title": "FreeTAKTeam/reticulum_mobile_emergency_management",
     "url": "https://github.com/FreeTAKTeam/reticulum_mobile_emergency_management"
@@ -789,6 +789,30 @@
    }
   },
   {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-08-25T19:15:33Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "0",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
+   "key": "takwerx/map-depot",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-08-25T18:42:09Z",
+    "description": "ATAK Plugin: Map Depot — download elevation, base maps and offline public-lands maps from inside ATAK. Downloads, guide and issues here.",
+    "stars": "0",
+    "text": "takwerx/map-depot",
+    "title": "takwerx/map-depot",
+    "url": "https://github.com/takwerx/map-depot"
+   }
+  },
+  {
    "key": "takwerx/traffic",
    "source": "tak-github",
    "fields": {
@@ -813,18 +837,6 @@
    }
   },
   {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-08-24T20:37:11Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "0",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
-   }
-  },
-  {
    "key": "Hellikandra/ATAK-Weather-Plugin",
    "source": "tak-github",
    "fields": {
@@ -839,7 +851,7 @@
    "key": "AkitaEngineering/Akita-MeshTAK",
    "source": "tak-github",
    "fields": {
-    "date": "2026-08-24T07:13:12Z",
+    "date": "2026-08-25T12:59:55Z",
     "description": "The Akita MeshTAK Plugin is a game-changing Android Tactical Assault Kit (ATAK) plugin meticulously crafted to bridge the gap between ATAK and Meshtastic, providing unparalleled communication capabilities in the most challenging and disconnected environments.",
     "stars": "14",
     "text": "AkitaEngineering/Akita-MeshTAK",
@@ -864,7 +876,7 @@
    "source": "tak-github",
    "fields": {
     "date": "2026-08-22T03:31:15Z",
-    "stars": "7",
+    "stars": "8",
     "text": "jpat-12/TAK-PluginSuite-ATAK_ICU",
     "title": "jpat-12/TAK-PluginSuite-ATAK_ICU",
     "url": "https://github.com/jpat-12/TAK-PluginSuite-ATAK_ICU"
@@ -1116,18 +1128,6 @@
     "text": "jpat-12/ATAK-Plugin-QuickCapture",
     "title": "jpat-12/ATAK-Plugin-QuickCapture",
     "url": "https://github.com/jpat-12/ATAK-Plugin-QuickCapture"
-   }
-  },
-  {
-   "key": "clodzeischi/eagle-6-ATAK",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-07-12T01:05:58Z",
-    "description": "This plugin is a split from the original Talon by SWF. The purpose of this plugin is to separate the UAS planning and reporting into a separate product to maximize configurable granularity.",
-    "stars": "1",
-    "text": "clodzeischi/eagle-6-ATAK",
-    "title": "clodzeischi/eagle-6-ATAK",
-    "url": "https://github.com/clodzeischi/eagle-6-ATAK"
    }
   },
   {
