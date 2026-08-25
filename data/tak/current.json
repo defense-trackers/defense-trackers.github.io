@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-08-24T19:18:28Z",
+ "fetched_at": "2026-08-25T07:12:07Z",
  "schema_version": 1,
  "records": [
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-08-24T15:13:08Z",
+    "date": "2026-08-25T02:24:28Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "73",
     "text": "takwerx/infra-TAK",
@@ -17,12 +17,24 @@
    }
   },
   {
+   "key": "vanguarda-app/Loki",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-08-24T20:34:59Z",
+    "description": "Simulation Suit for Team Awareness Kit environments",
+    "stars": "0",
+    "text": "vanguarda-app/Loki",
+    "title": "vanguarda-app/Loki",
+    "url": "https://github.com/vanguarda-app/Loki"
+   }
+  },
+  {
    "key": "snstac/pytak",
    "source": "tak-cot",
    "fields": {
     "date": "2026-08-23T23:01:16Z",
     "description": "PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.",
-    "stars": "249",
+    "stars": "250",
     "text": "snstac/pytak",
     "title": "snstac/pytak",
     "url": "https://github.com/snstac/pytak"
@@ -38,18 +50,6 @@
     "text": "Audrey-cn/universal-agent-embedding-kit",
     "title": "Audrey-cn/universal-agent-embedding-kit",
     "url": "https://github.com/Audrey-cn/universal-agent-embedding-kit"
-   }
-  },
-  {
-   "key": "vanguarda-app/Loki",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-08-21T08:39:23Z",
-    "description": "Simulation Suit for Team Awareness Kit environments",
-    "stars": "0",
-    "text": "vanguarda-app/Loki",
-    "title": "vanguarda-app/Loki",
-    "url": "https://github.com/vanguarda-app/Loki"
    }
   },
   {
@@ -130,7 +130,7 @@
    "fields": {
     "date": "2026-08-11T21:07:17Z",
     "description": "Progressive Web App to download and package SRTM elevation data for ATAK (Android Team Awareness Kit). Features offline caching, concurrent downloads, and automatic ZIP packaging for direct import into ATAK.",
-    "stars": "9",
+    "stars": "10",
     "text": "joshuafuller/SRTM2TAK",
     "title": "joshuafuller/SRTM2TAK",
     "url": "https://github.com/joshuafuller/SRTM2TAK"
@@ -358,7 +358,7 @@
    "fields": {
     "date": "2024-10-29T11:52:00Z",
     "description": "Situational Awareness Server compatible with TAK clients",
-    "stars": "948",
+    "stars": "949",
     "text": "FreeTAKTeam/FreeTakServer",
     "title": "FreeTAKTeam/FreeTakServer",
     "url": "https://github.com/FreeTAKTeam/FreeTakServer"
@@ -418,7 +418,7 @@
    "fields": {
     "date": "2022-08-06T13:17:21Z",
     "description": "a list of hardware and software to be used in conjunction with ATAK platform",
-    "stars": "298",
+    "stars": "299",
     "text": "FreeTAKTeam/openTAKpickList",
     "title": "FreeTAKTeam/openTAKpickList",
     "url": "https://github.com/FreeTAKTeam/openTAKpickList"
@@ -789,6 +789,53 @@
    }
   },
   {
+   "key": "takwerx/traffic",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-08-25T02:23:55Z",
+    "description": "ATAK Plugin: Traffic — live traffic overlay drawn over your own base map, kept refreshing while the map sits still. Downloads, guide and issues here.",
+    "stars": "1",
+    "text": "takwerx/traffic",
+    "title": "takwerx/traffic",
+    "url": "https://github.com/takwerx/traffic"
+   }
+  },
+  {
+   "key": "takwerx/plss-grid",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-08-25T02:19:30Z",
+    "description": "ATAK Plugin: PLSS Grid — township, range and section overlay from BLM survey data. Downloads, guide and issues here.",
+    "stars": "1",
+    "text": "takwerx/plss-grid",
+    "title": "takwerx/plss-grid",
+    "url": "https://github.com/takwerx/plss-grid"
+   }
+  },
+  {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-08-24T20:37:11Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "0",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
+   "key": "Hellikandra/ATAK-Weather-Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-08-24T20:26:44Z",
+    "stars": "52",
+    "text": "Hellikandra/ATAK-Weather-Plugin",
+    "title": "Hellikandra/ATAK-Weather-Plugin",
+    "url": "https://github.com/Hellikandra/ATAK-Weather-Plugin"
+   }
+  },
+  {
    "key": "AkitaEngineering/Akita-MeshTAK",
    "source": "tak-github",
    "fields": {
@@ -801,27 +848,26 @@
    }
   },
   {
-   "key": "takwerx/atak-plugins",
+   "key": "TX-RX/TAK-XVoice",
    "source": "tak-github",
    "fields": {
-    "date": "2026-08-22T04:20:16Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "0",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
+    "date": "2026-08-24T06:23:11Z",
+    "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
+    "stars": "6",
+    "text": "TX-RX/TAK-XVoice",
+    "title": "TX-RX/TAK-XVoice",
+    "url": "https://github.com/TX-RX/TAK-XVoice"
    }
   },
   {
-   "key": "takwerx/plss-grid",
+   "key": "jpat-12/TAK-PluginSuite-ATAK_ICU",
    "source": "tak-github",
    "fields": {
-    "date": "2026-08-22T04:19:50Z",
-    "description": "ATAK Plugin: PLSS Grid — township, range and section overlay from BLM survey data. Downloads, guide and issues here.",
-    "stars": "1",
-    "text": "takwerx/plss-grid",
-    "title": "takwerx/plss-grid",
-    "url": "https://github.com/takwerx/plss-grid"
+    "date": "2026-08-22T03:31:15Z",
+    "stars": "7",
+    "text": "jpat-12/TAK-PluginSuite-ATAK_ICU",
+    "title": "jpat-12/TAK-PluginSuite-ATAK_ICU",
+    "url": "https://github.com/jpat-12/TAK-PluginSuite-ATAK_ICU"
    }
   },
   {
@@ -841,7 +887,7 @@
    "source": "tak-github",
    "fields": {
     "date": "2026-08-20T20:12:40Z",
-    "description": "PLSS data packs for the takwerx ATAK PLSS Grid plugin. Derived from BLM National PLSS CadNSDI (US public domain).",
+    "description": "Data packs (not a plugin) for the ATAK PLSS Grid plugin — downloaded by the plugin at runtime. Derived from BLM National PLSS CadNSDI (US public domain).",
     "stars": "0",
     "text": "takwerx/plss-data",
     "title": "takwerx/plss-data",
@@ -909,17 +955,6 @@
    }
   },
   {
-   "key": "jpat-12/TAK-PluginSuite-ATAK_ICU",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-08-22T03:31:15Z",
-    "stars": "6",
-    "text": "jpat-12/TAK-PluginSuite-ATAK_ICU",
-    "title": "jpat-12/TAK-PluginSuite-ATAK_ICU",
-    "url": "https://github.com/jpat-12/TAK-PluginSuite-ATAK_ICU"
-   }
-  },
-  {
    "key": "frrojas92/DF_ESCTEL",
    "source": "tak-github",
    "fields": {
@@ -937,7 +972,7 @@
    "fields": {
     "date": "2026-08-09T13:37:50Z",
     "description": "A standalone Meshtastic plugin for ATAK",
-    "stars": "25",
+    "stars": "26",
     "text": "meshtastic/pluginmeshtastic",
     "title": "meshtastic/pluginmeshtastic",
     "url": "https://github.com/meshtastic/pluginmeshtastic"
@@ -961,7 +996,7 @@
    "fields": {
     "date": "2026-08-08T21:16:07Z",
     "description": "Dockerised ATAK plugin build environment: build, sideload and run instrumented tests against ATAK-CIV on an emulator, without setting up a host toolchain.",
-    "stars": "0",
+    "stars": "1",
     "text": "joshuafuller/atak-plugin-dev",
     "title": "joshuafuller/atak-plugin-dev",
     "url": "https://github.com/joshuafuller/atak-plugin-dev"
@@ -973,7 +1008,7 @@
    "fields": {
     "date": "2026-08-08T20:15:01Z",
     "description": "Claude Code skill for ATAK plugin development: measured facts about signing, loading, testing and shipping ATAK-CIV plugins.",
-    "stars": "0",
+    "stars": "1",
     "text": "joshuafuller/atak-plugin-skill",
     "title": "joshuafuller/atak-plugin-skill",
     "url": "https://github.com/joshuafuller/atak-plugin-skill"
@@ -1009,7 +1044,7 @@
    "fields": {
     "date": "2026-08-03T18:08:31Z",
     "description": "ATAK plugin for MeshCore LoRa mesh radios — off-grid position, chat and CoT with no TAK server, no cell service, and no amateur licence. GPL-3.0, with a normative wire spec and golden test vectors.",
-    "stars": "2",
+    "stars": "3",
     "text": "gridbasedotnet/meshcore-TAK",
     "title": "gridbasedotnet/meshcore-TAK",
     "url": "https://github.com/gridbasedotnet/meshcore-TAK"
@@ -1024,18 +1059,6 @@
     "text": "swim-fish/atak_tw_coord_plugin",
     "title": "swim-fish/atak_tw_coord_plugin",
     "url": "https://github.com/swim-fish/atak_tw_coord_plugin"
-   }
-  },
-  {
-   "key": "TX-RX/TAK-XVoice",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-08-24T06:23:11Z",
-    "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
-    "stars": "5",
-    "text": "TX-RX/TAK-XVoice",
-    "title": "TX-RX/TAK-XVoice",
-    "url": "https://github.com/TX-RX/TAK-XVoice"
    }
   },
   {
@@ -1105,30 +1128,6 @@
     "text": "clodzeischi/eagle-6-ATAK",
     "title": "clodzeischi/eagle-6-ATAK",
     "url": "https://github.com/clodzeischi/eagle-6-ATAK"
-   }
-  },
-  {
-   "key": "newtypeind/atak-plugin-kotlin-starter",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-07-08T11:22:44Z",
-    "description": "Starter for building ATAK plugins with Kotlin and Jetpack Compose (Material 3) instead of Java and Android XML.",
-    "stars": "0",
-    "text": "newtypeind/atak-plugin-kotlin-starter",
-    "title": "newtypeind/atak-plugin-kotlin-starter",
-    "url": "https://github.com/newtypeind/atak-plugin-kotlin-starter"
-   }
-  },
-  {
-   "key": "niccellular/forcedelete",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-07-07T17:18:30Z",
-    "description": "ATAK Plugin to remotely delete map items",
-    "stars": "11",
-    "text": "niccellular/forcedelete",
-    "title": "niccellular/forcedelete",
-    "url": "https://github.com/niccellular/forcedelete"
    }
   },
   {
