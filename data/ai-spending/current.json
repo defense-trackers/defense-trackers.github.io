@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-08-25T19:16:46Z",
+ "fetched_at": "2026-08-26T07:10:38Z",
  "schema_version": 1,
  "records": [
   {
@@ -129,7 +129,7 @@
    "source": "ai-spending-contracts",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "1.286567386e+07",
+    "amount": "1.375317386e+07",
     "description": "COMMERCIAL SOLUTIONS OPENING FOR RESEARCH AND DEVELOPMENT FOR SYSTEM-WIDE TEST AND EVALUATION (T\u0026E) AND APPLIED ARTIFICIAL INTELLIGENCE (AI) AND MACHINE LEARNING (ML), TASK ORDER #1.",
     "text": "MORSECORP, INC",
     "title": "MORSECORP, INC",
@@ -149,6 +149,18 @@
    }
   },
   {
+   "key": "CONT_AWD_FA239125CB010_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1.13175714e+07",
+    "description": "HYBRID ARTIFICIAL INTELLIGENCE AND AUTONOMY RESEARCH AND DEVELOPMENT CONSIDERED OPERATIONALLY RELEVANT AND EXPLAINABLE (HAARDCORE)",
+    "text": "UNIVERSITY OF DAYTON",
+    "title": "UNIVERSITY OF DAYTON",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA239125CB010_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_FA703726F0033_9700_FA703726D0002_9700",
    "source": "ai-spending-contracts",
    "fields": {
@@ -158,18 +170,6 @@
     "text": "WORLD WIDE TECHNOLOGY LLC",
     "title": "WORLD WIDE TECHNOLOGY LLC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_FA703726F0033_9700_FA703726D0002_9700/"
-   }
-  },
-  {
-   "key": "CONT_AWD_FA239125CB010_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "1.126748719e+07",
-    "description": "HYBRID ARTIFICIAL INTELLIGENCE AND AUTONOMY RESEARCH AND DEVELOPMENT CONSIDERED OPERATIONALLY RELEVANT AND EXPLAINABLE (HAARDCORE)",
-    "text": "UNIVERSITY OF DAYTON",
-    "title": "UNIVERSITY OF DAYTON",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_FA239125CB010_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -197,6 +197,18 @@
    }
   },
   {
+   "key": "CONT_AWD_HQ003424F0362_9700_GS00Q14OADU141_4732",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "9.86721722e+06",
+    "description": "CHIEF DIGITAL AND ARTIFICIAL INTELLIGENCE OFFICE SUPPLY CHAIN RISK EVALUATION ENVIRONMENT PLATFORM DEVELOPMENT SUPPORT.",
+    "text": "LMI CONSULTING, LLC",
+    "title": "LMI CONSULTING, LLC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_HQ003424F0362_9700_GS00Q14OADU141_4732/"
+   }
+  },
+  {
    "key": "CONT_AWD_FA875024CB040_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
@@ -218,18 +230,6 @@
     "text": "MIXMODE INC",
     "title": "MIXMODE INC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_FA830725CB031_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_HQ003424F0362_9700_GS00Q14OADU141_4732",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "9.39644705e+06",
-    "description": "CHIEF DIGITAL AND ARTIFICIAL INTELLIGENCE OFFICE SUPPLY CHAIN RISK EVALUATION ENVIRONMENT PLATFORM DEVELOPMENT SUPPORT.",
-    "text": "LMI CONSULTING, LLC",
-    "title": "LMI CONSULTING, LLC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_HQ003424F0362_9700_GS00Q14OADU141_4732/"
    }
   },
   {

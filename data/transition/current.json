@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-08-25T19:18:26Z",
+ "fetched_at": "2026-08-26T07:12:12Z",
  "schema_version": 1,
  "records": [
   {
@@ -722,19 +722,6 @@
    }
   },
   {
-   "key": "CONT_AWD_HT940210C0002_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "1.94147899433e+10",
-    "award_id": "HT940210C0002",
-    "description": "PROVIDE MANAGED CARE SUPPORT TO THE DEPARTMENT OF DEFENSE TRICARE PROGRAM. CONTRACTOR SHALL ASSIST MILITARY HEALTH SYSTEM IN OPERATING AN INTEGRATED HEALTHCARE DELIVERY SYSTEM COMBINING RESOURCES OF THE MILITARY'S DIRECT MEDICAL CARE SYSTEM AND THE CONTRACTORS MANAGED CARE SUPPORT TO PROVIDE HEALTH, MEDICAL AND ADMINISTRATIVE SUPPORT SERVICES TO ELIGIBLE BENEFICIARIES IN THE NORTH REGION.",
-    "text": "HEALTH NET FEDERAL SERVICES, LLC",
-    "title": "HEALTH NET FEDERAL SERVICES, LLC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_HT940210C0002_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
    "key": "CONT_AWD_N0001914C0067_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -986,7 +973,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "8.67074857707e+09",
+    "amount": "8.57155525492e+09",
     "award_id": "FA880219C0001",
     "description": "FY19 ENGINEERING SERVICES",
     "text": "THE AEROSPACE CORPORATION",
@@ -1251,6 +1238,19 @@
     "text": "BATH IRON WORKS CORPORATION",
     "title": "BATH IRON WORKS CORPORATION",
     "url": "https://www.usaspending.gov/award/CONT_AWD_N0002423C2305_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_HQ014712C0004_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "6.46662786826e+09",
+    "award_id": "HQ014712C0004",
+    "description": "THE MISSILE DEFENSE AGENCY (MDA), GROUND-BASED MIDCOURSE DEFENSE (GMD) DEVELOPMENT AND SUSTAINMENT CONTRACT (DSC) THE GMD DSC WORK INCLUDES, BUT IS NOT LIMITED TO: 1) FUTURE DEVELOPMENT; 2) FIELDING; 3) TEST; 4) SYSTEMS ENGINEERING, INTEGRATION AND CONFIGURATION MANAGEMENT; 5) EQUIPMENT MANUFACTURING AND REFURBISHMENT; 6) TRAINING; AND 7) OPERATIONS AND SUSTAINMENT SUPPORT FOR THE GMD WEAPON SYSTEM AND ASSOCIATED SUPPORT FACILITIES.",
+    "text": "THE BOEING COMPANY",
+    "title": "THE BOEING COMPANY",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_HQ014712C0004_9700_-NONE-_-NONE-/"
    }
   }
  ]

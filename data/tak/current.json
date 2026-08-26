@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-08-25T19:18:23Z",
+ "fetched_at": "2026-08-26T07:12:08Z",
  "schema_version": 1,
  "records": [
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-08-25T02:24:28Z",
+    "date": "2026-08-25T19:51:28Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "73",
     "text": "takwerx/infra-TAK",
@@ -214,7 +214,7 @@
    "fields": {
     "date": "2026-03-26T22:29:34Z",
     "description": "RTAK V2 brings the decentralized versatility of the Reticulum Network Stack to the Android Team Awareness Kit by serving as a bridge between it and RNS' secure heterogenous mesh networking stack.",
-    "stars": "7",
+    "stars": "8",
     "text": "C2A2-at-Florida-Atlantic-University/RTAK-V2",
     "title": "C2A2-at-Florida-Atlantic-University/RTAK-V2",
     "url": "https://github.com/C2A2-at-Florida-Atlantic-University/RTAK-V2"
@@ -382,7 +382,7 @@
    "fields": {
     "date": "2025-09-22T00:48:17Z",
     "description": "FreeTAKServer documentation for end users",
-    "stars": "77",
+    "stars": "78",
     "text": "FreeTAKTeam/FreeTAKServer-User-Docs",
     "title": "FreeTAKTeam/FreeTAKServer-User-Docs",
     "url": "https://github.com/FreeTAKTeam/FreeTAKServer-User-Docs"
@@ -570,7 +570,7 @@
    "key": "FreeTAKTeam/DigitalArchitectureFramework",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-08-21T13:03:17Z",
+    "date": "2026-08-25T21:33:09Z",
     "description": "The Digital Architecture Framework (DAF),  is a set modeling tools for Digital Engineering. ",
     "stars": "8",
     "text": "FreeTAKTeam/DigitalArchitectureFramework",
@@ -789,10 +789,22 @@
    }
   },
   {
+   "key": "RyanR3/TakVideoWall",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-08-26T04:22:55Z",
+    "description": "ATAK plugin for simultaneous multi-stream video monitoring: adaptive 2×2 paged grid, CoT-based feed discovery, snap-to-sender map integration.",
+    "stars": "5",
+    "text": "RyanR3/TakVideoWall",
+    "title": "RyanR3/TakVideoWall",
+    "url": "https://github.com/RyanR3/TakVideoWall"
+   }
+  },
+  {
    "key": "takwerx/atak-plugins",
    "source": "tak-github",
    "fields": {
-    "date": "2026-08-25T19:15:33Z",
+    "date": "2026-08-26T01:22:17Z",
     "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
     "stars": "0",
     "text": "takwerx/atak-plugins",
@@ -804,12 +816,24 @@
    "key": "takwerx/map-depot",
    "source": "tak-github",
    "fields": {
-    "date": "2026-08-25T18:42:09Z",
+    "date": "2026-08-26T01:21:06Z",
     "description": "ATAK Plugin: Map Depot — download elevation, base maps and offline public-lands maps from inside ATAK. Downloads, guide and issues here.",
-    "stars": "0",
+    "stars": "4",
     "text": "takwerx/map-depot",
     "title": "takwerx/map-depot",
     "url": "https://github.com/takwerx/map-depot"
+   }
+  },
+  {
+   "key": "AkitaEngineering/Akita-MeshTAK",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-08-25T22:09:17Z",
+    "description": "The Akita MeshTAK Plugin is a game-changing Android Tactical Assault Kit (ATAK) plugin meticulously crafted to bridge the gap between ATAK and Meshtastic, providing unparalleled communication capabilities in the most challenging and disconnected environments.",
+    "stars": "14",
+    "text": "AkitaEngineering/Akita-MeshTAK",
+    "title": "AkitaEngineering/Akita-MeshTAK",
+    "url": "https://github.com/AkitaEngineering/Akita-MeshTAK"
    }
   },
   {
@@ -818,7 +842,7 @@
    "fields": {
     "date": "2026-08-25T02:23:55Z",
     "description": "ATAK Plugin: Traffic — live traffic overlay drawn over your own base map, kept refreshing while the map sits still. Downloads, guide and issues here.",
-    "stars": "1",
+    "stars": "3",
     "text": "takwerx/traffic",
     "title": "takwerx/traffic",
     "url": "https://github.com/takwerx/traffic"
@@ -848,24 +872,12 @@
    }
   },
   {
-   "key": "AkitaEngineering/Akita-MeshTAK",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-08-25T12:59:55Z",
-    "description": "The Akita MeshTAK Plugin is a game-changing Android Tactical Assault Kit (ATAK) plugin meticulously crafted to bridge the gap between ATAK and Meshtastic, providing unparalleled communication capabilities in the most challenging and disconnected environments.",
-    "stars": "14",
-    "text": "AkitaEngineering/Akita-MeshTAK",
-    "title": "AkitaEngineering/Akita-MeshTAK",
-    "url": "https://github.com/AkitaEngineering/Akita-MeshTAK"
-   }
-  },
-  {
    "key": "TX-RX/TAK-XVoice",
    "source": "tak-github",
    "fields": {
     "date": "2026-08-24T06:23:11Z",
     "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
-    "stars": "6",
+    "stars": "7",
     "text": "TX-RX/TAK-XVoice",
     "title": "TX-RX/TAK-XVoice",
     "url": "https://github.com/TX-RX/TAK-XVoice"
@@ -916,18 +928,6 @@
     "text": "SocietyCharter/HonkTAK",
     "title": "SocietyCharter/HonkTAK",
     "url": "https://github.com/SocietyCharter/HonkTAK"
-   }
-  },
-  {
-   "key": "RyanR3/TakVideoWall",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-08-18T03:12:18Z",
-    "description": "ATAK plugin for simultaneous multi-stream video monitoring: adaptive 2×2 paged grid, CoT-based feed discovery, snap-to-sender map integration.",
-    "stars": "5",
-    "text": "RyanR3/TakVideoWall",
-    "title": "RyanR3/TakVideoWall",
-    "url": "https://github.com/RyanR3/TakVideoWall"
    }
   },
   {
