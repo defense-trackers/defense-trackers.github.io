@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-08-26T07:11:53Z",
+ "fetched_at": "2026-08-26T21:14:56Z",
  "schema_version": 1,
  "records": [
   {
@@ -493,19 +493,6 @@
    }
   },
   {
-   "key": "355499",
-   "source": "pipeline-grants",
-   "fields": {
-    "agency": "Air Force -- Research Lab",
-    "closes": "07/18/2029",
-    "number": "RDK-RAD-FOA-2024",
-    "posted": "07/18/2024",
-    "text": "Research and Development (RAD) Directed Energy (RD) University Assistance Instruments",
-    "title": "Research and Development (RAD) Directed Energy (RD) University Assistance Instruments",
-    "url": "https://www.grants.gov/search-results-detail/355499"
-   }
-  },
-  {
    "key": "347858",
    "source": "pipeline-logistics",
    "fields": {
@@ -687,6 +674,20 @@
    }
   },
   {
+   "key": "cd31a61720cf49ddbaa2c82137d69abd",
+   "source": "pipeline-sam-autonomy",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEFENSE HEALTH AGENCY (DHA).DEFENSE HEALTH AGENCY",
+    "closes": "2026-08-28T10:00:00-04:00",
+    "number": "HT0038RFSACADM",
+    "posted": "2026-08-26",
+    "text": "Request for Solutions (RFS): Autonomous Coding (AC) and Automated Appeals \u0026 Denials Management (ADM)",
+    "title": "Request for Solutions (RFS): Autonomous Coding (AC) and Automated Appeals \u0026 Denials Management (ADM)",
+    "type": "Solicitation",
+    "url": "https://sam.gov/workspace/contract/opp/cd31a61720cf49ddbaa2c82137d69abd/view"
+   }
+  },
+  {
    "key": "e68078da34b44580a43f7d97305b3b35",
    "source": "pipeline-sam-autonomy",
    "fields": {
@@ -701,20 +702,6 @@
    }
   },
   {
-   "key": "ab5de2004b3a4549819300908e5f3ee1",
-   "source": "pipeline-sam-autonomy",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEFENSE HEALTH AGENCY (DHA).DEFENSE HEALTH AGENCY",
-    "closes": "2026-08-28T10:00:00-04:00",
-    "number": "HT0038RFSACADM",
-    "posted": "2026-08-21",
-    "text": "Request for Solutions (RFS): Autonomous Coding (AC) and Automated Appeals \u0026 Denials Management (ADM)",
-    "title": "Request for Solutions (RFS): Autonomous Coding (AC) and Automated Appeals \u0026 Denials Management (ADM)",
-    "type": "Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/ab5de2004b3a4549819300908e5f3ee1/view"
-   }
-  },
-  {
    "key": "cef79c7a0e9742e5bbd82017699f5ac8",
    "source": "pipeline-sam-autonomy",
    "fields": {
@@ -726,6 +713,21 @@
     "title": "Common Autonomous Multi-Domain Launcher (CAML) Autonomous Mobility Platform (AMP) -   Prototype - 36K Lbs. Variant , Leader Prototype, Autonomy Command and Control (C2) and Integration Request for Solutions Brief",
     "type": "Special Notice",
     "url": "https://sam.gov/workspace/contract/opp/cef79c7a0e9742e5bbd82017699f5ac8/view"
+   }
+  },
+  {
+   "key": "bc6282d783a44e0e9e24cee6d553011b",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVAIR.NAVAIR NAWC AD.NAVAIR WARFARE CTR AIRCRAFT DIV",
+    "closes": "2026-09-08T12:00:00-04:00",
+    "number": "N6833526Q1196",
+    "posted": "2026-08-26",
+    "setaside": "Small Business Set Aside - Total",
+    "text": "Radio Altimeter Test Set, Part Number: ALT-8000 in support of the MQ-4C Triton Unmanned Aircraft Systems (UAS) program.",
+    "title": "Radio Altimeter Test Set, Part Number: ALT-8000 in support of the MQ-4C Triton Unmanned Aircraft Systems (UAS) program.",
+    "type": "Combined Synopsis/Solicitation",
+    "url": "https://sam.gov/workspace/contract/opp/bc6282d783a44e0e9e24cee6d553011b/view"
    }
   },
   {
