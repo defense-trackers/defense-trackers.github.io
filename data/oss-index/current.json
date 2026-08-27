@@ -1,7 +1,7 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-08-26T21:14:41Z",
+ "fetched_at": "2026-08-27T17:41:20Z",
  "schema_version": 1,
  "records": [
   {
@@ -68,7 +68,7 @@
    "key": "cisagov/orchestrator",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-08-26T05:24:09Z",
+    "date": "2026-08-27T16:24:40Z",
     "description": "Orchestrate gatherer, scanner, saver, and trustymail_reporter",
     "stars": "21",
     "text": "cisagov/orchestrator",
@@ -92,7 +92,7 @@
    "key": "cisagov/cyhy_amis",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-08-21T19:11:38Z",
+    "date": "2026-08-27T09:44:18Z",
     "description": "AWS infrastructure for Cyber Hygiene and BOD 18-01 scanning",
     "stars": "24",
     "text": "cisagov/cyhy_amis",
@@ -250,7 +250,7 @@
    "fields": {
     "date": "2026-08-25T22:26:12Z",
     "description": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.",
-    "stars": "2497",
+    "stars": "2498",
     "text": "cisagov/Malcolm",
     "title": "cisagov/Malcolm",
     "url": "https://github.com/cisagov/Malcolm"
@@ -368,7 +368,7 @@
    "key": "cisagov/skeleton-docker",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-08-21T16:55:13Z",
+    "date": "2026-08-27T17:13:59Z",
     "description": "A skeleton project for quickly getting a new cisagov Docker container started.",
     "stars": "22",
     "text": "cisagov/skeleton-docker",
@@ -572,7 +572,7 @@
    "key": "idaholab/moose",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-08-26T21:04:16Z",
+    "date": "2026-08-27T17:32:56Z",
     "description": "Multiphysics Object Oriented Simulation Environment",
     "stars": "2338",
     "text": "idaholab/moose",
@@ -632,7 +632,7 @@
    "key": "idaholab/isopod",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-08-26T20:20:13Z",
+    "date": "2026-08-27T14:50:10Z",
     "description": "isopod, a MOOSE based app for multiphysics PDE constrained optimization",
     "stars": "9",
     "text": "idaholab/isopod",
@@ -644,7 +644,7 @@
    "key": "idaholab/malamute",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-08-26T20:33:16Z",
+    "date": "2026-08-26T21:22:43Z",
     "description": "Advanced manufacturing modeling and simulation",
     "stars": "22",
     "text": "idaholab/malamute",
@@ -656,7 +656,7 @@
    "key": "idaholab/air",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-08-26T06:00:17Z",
+    "date": "2026-08-26T22:00:18Z",
     "stars": "0",
     "text": "idaholab/air",
     "title": "idaholab/air",
@@ -763,7 +763,7 @@
    "key": "llnl/conduit",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-08-26T17:51:28Z",
+    "date": "2026-08-27T16:28:05Z",
     "description": "Simplified Data Exchange for HPC Simulations",
     "stars": "248",
     "text": "llnl/conduit",
@@ -834,7 +834,7 @@
    "key": "llnl/GridDyn",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-08-26T14:59:34Z",
+    "date": "2026-08-27T14:01:29Z",
     "description": "GridDyn is an open-source power transmission simulation software package",
     "stars": "59",
     "text": "llnl/GridDyn",
@@ -906,7 +906,7 @@
    "key": "mitre/vulcan",
    "source": "oss-mitre",
    "fields": {
-    "date": "2026-08-26T20:07:00Z",
+    "date": "2026-08-27T14:35:27Z",
     "description": "A web application to streamline the development of STIGs from SRGs",
     "stars": "87",
     "text": "mitre/vulcan",
@@ -1004,7 +1004,7 @@
    "fields": {
     "date": "2026-08-26T17:51:25Z",
     "description": "A web based mission control framework. ",
-    "stars": "13094",
+    "stars": "13095",
     "text": "nasa/openmct",
     "title": "nasa/openmct",
     "url": "https://github.com/nasa/openmct"
@@ -1040,7 +1040,7 @@
    "fields": {
     "date": "2026-07-21T12:01:28Z",
     "description": "Astronomy Picture of the Day API service",
-    "stars": "1080",
+    "stars": "1079",
     "text": "nasa/apod-api",
     "title": "nasa/apod-api",
     "url": "https://github.com/nasa/apod-api"
@@ -1062,7 +1062,7 @@
    "key": "nasa/Common-Metadata-Repository",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-08-26T18:00:00Z",
+    "date": "2026-08-27T15:08:09Z",
     "description": "The Common Metadata Repository (CMR) is a high-performance, high-quality, continuously evolving metadata system that catalogs Earth Science data and associated service metadata records. These metadata records are registered, modified, discovered, and accessed through programmatic interfaces leveraging standard protocols and APIs.",
     "stars": "394",
     "text": "nasa/Common-Metadata-Repository",
@@ -1170,7 +1170,7 @@
    "key": "nsacyber/HIRS",
    "source": "oss-nsacyber",
    "fields": {
-    "date": "2026-08-25T21:57:46Z",
+    "date": "2026-08-26T22:09:31Z",
     "description": "Trusted Computing based services supporting TPM provisioning and supply chain validation concepts. #nsacyber",
     "stars": "212",
     "text": "nsacyber/HIRS",
@@ -1230,7 +1230,7 @@
    "key": "ORNL/HeCBench",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-08-26T16:24:01Z",
+    "date": "2026-08-26T23:50:29Z",
     "stars": "303",
     "text": "ORNL/HeCBench",
     "title": "ORNL/HeCBench",
@@ -1241,7 +1241,7 @@
    "key": "ORNL/HydraGNN",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-08-26T16:18:28Z",
+    "date": "2026-08-27T03:10:50Z",
     "description": "Distributed PyTorch implementation of multi-headed graph convolutional neural networks",
     "stars": "125",
     "text": "ORNL/HydraGNN",
@@ -1325,7 +1325,7 @@
    "key": "ORNL/GridKit",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-08-26T21:03:33Z",
+    "date": "2026-08-27T17:34:57Z",
     "description": "Modeling framework for power systems simulations and analysis.",
     "stars": "26",
     "text": "ORNL/GridKit",
@@ -1445,7 +1445,7 @@
    "key": "usnistgov/fipy",
    "source": "oss-usnistgov",
    "fields": {
-    "date": "2026-08-26T19:53:26Z",
+    "date": "2026-08-27T15:43:09Z",
     "description": "FiPy is a Finite Volume PDE solver written in Python",
     "stars": "636",
     "text": "usnistgov/fipy",

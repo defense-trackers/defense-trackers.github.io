@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-08-26T21:14:56Z",
+ "fetched_at": "2026-08-27T17:41:38Z",
  "schema_version": 1,
  "records": [
   {
@@ -157,19 +157,6 @@
    }
   },
   {
-   "key": "362859",
-   "source": "pipeline-cyber",
-   "fields": {
-    "agency": "DARPA - Defense Sciences Office",
-    "closes": "08/26/2026",
-    "number": "HR001126S0013",
-    "posted": "06/17/2026",
-    "text": "Multi Modal Materials Analysis (MMoMA)",
-    "title": "Multi Modal Materials Analysis (MMoMA)",
-    "url": "https://www.grants.gov/search-results-detail/362859"
-   }
-  },
-  {
    "key": "350338",
    "source": "pipeline-cyber",
    "fields": {
@@ -247,19 +234,6 @@
    }
   },
   {
-   "key": "362036",
-   "source": "pipeline-grants",
-   "fields": {
-    "agency": "Advanced Research Projects Agency Energy ",
-    "closes": "08/26/2026",
-    "number": "DE-FOA-0003624",
-    "posted": "04/23/2026",
-    "text": "INSPIRING GENERATIONS OF NEW INNOVATORS TO IMPACT TECHNOLOGIES IN ENERGY 2026 (IGNIITE 2026)",
-    "title": "INSPIRING GENERATIONS OF NEW INNOVATORS TO IMPACT TECHNOLOGIES IN ENERGY 2026 (IGNIITE 2026)",
-    "url": "https://www.grants.gov/search-results-detail/362036"
-   }
-  },
-  {
    "key": "363302",
    "source": "pipeline-grants",
    "fields": {
@@ -321,6 +295,19 @@
     "text": "Research Interests of the United States Air Force Academy (formerly USAFA-BAA-2021)",
     "title": "Research Interests of the United States Air Force Academy (formerly USAFA-BAA-2021)",
     "url": "https://www.grants.gov/search-results-detail/330175"
+   }
+  },
+  {
+   "key": "363724",
+   "source": "pipeline-grants",
+   "fields": {
+    "agency": "Dept of the Army -- Materiel Command",
+    "closes": "10/09/2026",
+    "number": "W911NF26S0105",
+    "posted": "08/27/2026",
+    "text": "Research and Education Program for Historically Black Colleges and Universities (HBCU) and Tribal Colleges and Universities (TCU) Equipment/Instrumentation",
+    "title": "Research and Education Program for Historically Black Colleges and Universities (HBCU) and Tribal Colleges and Universities (TCU) Equipment/Instrumentation",
+    "url": "https://www.grants.gov/search-results-detail/363724"
    }
   },
   {
@@ -493,6 +480,19 @@
    }
   },
   {
+   "key": "355499",
+   "source": "pipeline-grants",
+   "fields": {
+    "agency": "Air Force -- Research Lab",
+    "closes": "07/18/2029",
+    "number": "RDK-RAD-FOA-2024",
+    "posted": "07/18/2024",
+    "text": "Research and Development (RAD) Directed Energy (RD) University Assistance Instruments",
+    "title": "Research and Development (RAD) Directed Energy (RD) University Assistance Instruments",
+    "url": "https://www.grants.gov/search-results-detail/355499"
+   }
+  },
+  {
    "key": "347858",
    "source": "pipeline-logistics",
    "fields": {
@@ -647,20 +647,6 @@
    }
   },
   {
-   "key": "37a14c3d0ad743598965c9a0fde67ee5",
-   "source": "pipeline-sam-ai",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.ONR.ONR NRL.NAVAL RESEARCH LABORATORY",
-    "closes": "2026-08-26T15:00:00-04:00",
-    "number": "N0017326RFIKN03",
-    "posted": "2026-08-13",
-    "text": "General-Purpose Graphics Processing Unit (GPGPU) Server for Geospatial Artificial Intelligence",
-    "title": "General-Purpose Graphics Processing Unit (GPGPU) Server for Geospatial Artificial Intelligence",
-    "type": "Sources Sought",
-    "url": "https://sam.gov/workspace/contract/opp/37a14c3d0ad743598965c9a0fde67ee5/view"
-   }
-  },
-  {
    "key": "5cd1dec3f39b44eb87cae4bd15984120",
    "source": "pipeline-sam-ai",
    "fields": {
@@ -671,6 +657,20 @@
     "title": "ARTIFICIAL INTELLIGENCE AND NEXT GENERATION DISTRIBUTED COMMAND AND CONTROL",
     "type": "Presolicitation",
     "url": "https://sam.gov/workspace/contract/opp/5cd1dec3f39b44eb87cae4bd15984120/view"
+   }
+  },
+  {
+   "key": "b0e78aae357b47d2bc424d2094d15f7c",
+   "source": "pipeline-sam-autonomy",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY ACQUISITION SUPPORT CENTER.RAPID CAPABILITIES CRITICAL TECH OFC",
+    "closes": "2026-08-31T13:00:00-05:00",
+    "number": "W50RAJ26IECAML",
+    "posted": "2026-08-27",
+    "text": "Industry Engagement – Common Autonomous Multi-Domain Launcher (CAML) Strategy Overview",
+    "title": "Industry Engagement – Common Autonomous Multi-Domain Launcher (CAML) Strategy Overview",
+    "type": "Special Notice",
+    "url": "https://sam.gov/workspace/contract/opp/b0e78aae357b47d2bc424d2094d15f7c/view"
    }
   },
   {
@@ -761,21 +761,6 @@
    }
   },
   {
-   "key": "dba6a3fb0ee34fd3860cb4bd708d1bf1",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR EDUCATION AND TRAINING COMMAND.FA3010  81 CONS CC",
-    "closes": "2026-08-26T14:00:00-04:00",
-    "number": "FA3010Counter-smallUnmannedAircraftSystems",
-    "posted": "2026-08-24",
-    "setaside": "Small Business Set Aside - Total",
-    "text": "Counter-small Unmanned Aircraft Systems-Keesler AFB",
-    "title": "Counter-small Unmanned Aircraft Systems-Keesler AFB",
-    "type": "Sources Sought",
-    "url": "https://sam.gov/workspace/contract/opp/dba6a3fb0ee34fd3860cb4bd708d1bf1/view"
-   }
-  },
-  {
    "key": "da198837b0e24005bf0470ad8283f3c2",
    "source": "pipeline-sam-unmanned",
    "fields": {
@@ -831,21 +816,6 @@
     "title": "50mm weapon based Air Defense Counter-Unmanned Aircraft System (C-UAS)",
     "type": "Sources Sought",
     "url": "https://sam.gov/workspace/contract/opp/9569c199d8a041779c81fd3dc7c60ad9/view"
-   }
-  },
-  {
-   "key": "b44b9134f8d941689a341329a87ccf33",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA HQ.NAVSEA HQ",
-    "closes": "2026-08-26T15:00:00-04:00",
-    "number": "N0002426RXXXX",
-    "posted": "2026-08-18",
-    "setaside": "No Set aside used",
-    "text": "Request for Information (RFI): Special Mission Vessel (SMV) – Helicopter, Unmanned Aerial System (UAS), Unmanned Surface Vehicle (USV) \u0026 Small Craft Support Vessel",
-    "title": "Request for Information (RFI): Special Mission Vessel (SMV) – Helicopter, Unmanned Aerial System (UAS), Unmanned Surface Vehicle (USV) \u0026 Small Craft Support Vessel",
-    "type": "Sources Sought",
-    "url": "https://sam.gov/workspace/contract/opp/b44b9134f8d941689a341329a87ccf33/view"
    }
   },
   {

@@ -1,16 +1,16 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-08-26T21:15:10Z",
+ "fetched_at": "2026-08-27T17:41:52Z",
  "schema_version": 1,
  "records": [
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-08-26T20:59:33Z",
+    "date": "2026-08-27T01:42:42Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "73",
+    "stars": "74",
     "text": "takwerx/infra-TAK",
     "title": "takwerx/infra-TAK",
     "url": "https://github.com/takwerx/infra-TAK"
@@ -382,7 +382,7 @@
    "fields": {
     "date": "2025-09-22T00:48:17Z",
     "description": "FreeTAKServer documentation for end users",
-    "stars": "78",
+    "stars": "79",
     "text": "FreeTAKTeam/FreeTAKServer-User-Docs",
     "title": "FreeTAKTeam/FreeTAKServer-User-Docs",
     "url": "https://github.com/FreeTAKTeam/FreeTAKServer-User-Docs"
@@ -418,7 +418,7 @@
    "fields": {
     "date": "2022-08-06T13:17:21Z",
     "description": "a list of hardware and software to be used in conjunction with ATAK platform",
-    "stars": "299",
+    "stars": "300",
     "text": "FreeTAKTeam/openTAKpickList",
     "title": "FreeTAKTeam/openTAKpickList",
     "url": "https://github.com/FreeTAKTeam/openTAKpickList"
@@ -711,7 +711,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-08-25T12:20:19Z",
+    "date": "2026-08-27T17:17:31Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "30",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -789,6 +789,17 @@
    }
   },
   {
+   "key": "Hellikandra/ATAK-Weather-Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-08-27T16:52:51Z",
+    "stars": "52",
+    "text": "Hellikandra/ATAK-Weather-Plugin",
+    "title": "Hellikandra/ATAK-Weather-Plugin",
+    "url": "https://github.com/Hellikandra/ATAK-Weather-Plugin"
+   }
+  },
+  {
    "key": "RyanR3/TakVideoWall",
    "source": "tak-github",
    "fields": {
@@ -842,7 +853,7 @@
    "fields": {
     "date": "2026-08-25T02:23:55Z",
     "description": "ATAK Plugin: Traffic — live traffic overlay drawn over your own base map, kept refreshing while the map sits still. Downloads, guide and issues here.",
-    "stars": "3",
+    "stars": "5",
     "text": "takwerx/traffic",
     "title": "takwerx/traffic",
     "url": "https://github.com/takwerx/traffic"
@@ -858,17 +869,6 @@
     "text": "takwerx/plss-grid",
     "title": "takwerx/plss-grid",
     "url": "https://github.com/takwerx/plss-grid"
-   }
-  },
-  {
-   "key": "Hellikandra/ATAK-Weather-Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-08-24T20:26:44Z",
-    "stars": "52",
-    "text": "Hellikandra/ATAK-Weather-Plugin",
-    "title": "Hellikandra/ATAK-Weather-Plugin",
-    "url": "https://github.com/Hellikandra/ATAK-Weather-Plugin"
    }
   },
   {
@@ -1067,7 +1067,7 @@
    "source": "tak-github",
    "fields": {
     "date": "2026-08-03T14:23:00Z",
-    "stars": "3",
+    "stars": "4",
     "text": "swim-fish/atak_tw_coord_plugin",
     "title": "swim-fish/atak_tw_coord_plugin",
     "url": "https://github.com/swim-fish/atak_tw_coord_plugin"
