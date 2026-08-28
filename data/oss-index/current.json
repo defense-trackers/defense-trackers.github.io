@@ -1,7 +1,7 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-08-28T02:21:23Z",
+ "fetched_at": "2026-08-28T18:47:13Z",
  "schema_version": 1,
  "records": [
   {
@@ -68,7 +68,7 @@
    "key": "cisagov/orchestrator",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-08-27T16:24:40Z",
+    "date": "2026-08-28T18:03:12Z",
     "description": "Orchestrate gatherer, scanner, saver, and trustymail_reporter",
     "stars": "21",
     "text": "cisagov/orchestrator",
@@ -250,7 +250,7 @@
    "fields": {
     "date": "2026-08-25T22:26:12Z",
     "description": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.",
-    "stars": "2498",
+    "stars": "2500",
     "text": "cisagov/Malcolm",
     "title": "cisagov/Malcolm",
     "url": "https://github.com/cisagov/Malcolm"
@@ -286,7 +286,7 @@
    "fields": {
     "date": "2026-08-12T20:09:06Z",
     "description": "Cybersecurity Evaluation Tool",
-    "stars": "1887",
+    "stars": "1886",
     "text": "cisagov/cset",
     "title": "cisagov/cset",
     "url": "https://github.com/cisagov/cset"
@@ -368,7 +368,7 @@
    "key": "cisagov/skeleton-docker",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-08-27T18:22:36Z",
+    "date": "2026-08-28T18:39:40Z",
     "description": "A skeleton project for quickly getting a new cisagov Docker container started.",
     "stars": "22",
     "text": "cisagov/skeleton-docker",
@@ -572,9 +572,9 @@
    "key": "idaholab/moose",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-08-28T00:17:15Z",
+    "date": "2026-08-28T18:12:20Z",
     "description": "Multiphysics Object Oriented Simulation Environment",
-    "stars": "2339",
+    "stars": "2338",
     "text": "idaholab/moose",
     "title": "idaholab/moose",
     "url": "https://github.com/idaholab/moose"
@@ -586,7 +586,7 @@
    "fields": {
     "date": "2026-08-24T19:52:15Z",
     "description": "RAVEN is a flexible and multi-purpose probabilistic risk analysis, validation and uncertainty quantification, parameter optimization, model reduction and data knowledge-discovering framework.",
-    "stars": "264",
+    "stars": "265",
     "text": "idaholab/raven",
     "title": "idaholab/raven",
     "url": "https://github.com/idaholab/raven"
@@ -632,7 +632,7 @@
    "key": "idaholab/isopod",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-08-27T14:50:10Z",
+    "date": "2026-08-28T16:38:30Z",
     "description": "isopod, a MOOSE based app for multiphysics PDE constrained optimization",
     "stars": "9",
     "text": "idaholab/isopod",
@@ -644,7 +644,7 @@
    "key": "idaholab/malamute",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-08-26T21:22:43Z",
+    "date": "2026-08-28T17:23:23Z",
     "description": "Advanced manufacturing modeling and simulation",
     "stars": "22",
     "text": "idaholab/malamute",
@@ -656,7 +656,7 @@
    "key": "idaholab/air",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-08-26T22:00:18Z",
+    "date": "2026-08-28T18:00:21Z",
     "stars": "0",
     "text": "idaholab/air",
     "title": "idaholab/air",
@@ -667,7 +667,7 @@
    "key": "idaholab/salamander",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-08-26T20:57:25Z",
+    "date": "2026-08-28T17:03:57Z",
     "description": "SALAMANDER is an application for performing system-level, engineering scale (i.e., at the scale of centimeters and meters), and microstructure-scale (i.e., at the scale of microns) multiphysics calculations related to magnetic confinement fusion energy systems.",
     "stars": "25",
     "text": "idaholab/salamander",
@@ -763,7 +763,7 @@
    "key": "llnl/conduit",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-08-27T23:11:06Z",
+    "date": "2026-08-28T17:05:05Z",
     "description": "Simplified Data Exchange for HPC Simulations",
     "stars": "248",
     "text": "llnl/conduit",
@@ -811,7 +811,7 @@
    "key": "llnl/RAJA",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-08-27T22:22:40Z",
+    "date": "2026-08-28T16:53:53Z",
     "description": "RAJA Performance Portability Layer (C++)",
     "stars": "596",
     "text": "llnl/RAJA",
@@ -834,7 +834,7 @@
    "key": "llnl/GridDyn",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-08-28T01:46:04Z",
+    "date": "2026-08-28T12:30:56Z",
     "description": "GridDyn is an open-source power transmission simulation software package",
     "stars": "59",
     "text": "llnl/GridDyn",
@@ -860,7 +860,7 @@
    "fields": {
     "date": "2026-08-05T22:57:18Z",
     "description": "Cyber Threat Intelligence Repository expressed in STIX 2.0",
-    "stars": "2132",
+    "stars": "2133",
     "text": "mitre/cti",
     "title": "mitre/cti",
     "url": "https://github.com/mitre/cti"
@@ -906,7 +906,7 @@
    "key": "mitre/vulcan",
    "source": "oss-mitre",
    "fields": {
-    "date": "2026-08-27T20:10:18Z",
+    "date": "2026-08-28T14:16:23Z",
     "description": "A web application to streamline the development of STIGs from SRGs",
     "stars": "87",
     "text": "mitre/vulcan",
@@ -990,7 +990,7 @@
    "key": "nasa/trick",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-08-26T20:49:33Z",
+    "date": "2026-08-28T18:36:16Z",
     "description": "Trick Simulation Environment.  Trick provides a common set of simulation capabilities and utilities to build simulations automatically.",
     "stars": "158",
     "text": "nasa/trick",
@@ -1004,7 +1004,7 @@
    "fields": {
     "date": "2026-08-26T17:51:25Z",
     "description": "A web based mission control framework. ",
-    "stars": "13095",
+    "stars": "13097",
     "text": "nasa/openmct",
     "title": "nasa/openmct",
     "url": "https://github.com/nasa/openmct"
@@ -1014,7 +1014,7 @@
    "key": "nasa/earthdata-search",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-08-27T22:08:48Z",
+    "date": "2026-08-28T18:10:40Z",
     "description": "Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.",
     "stars": "823",
     "text": "nasa/earthdata-search",
@@ -1062,7 +1062,7 @@
    "key": "nasa/Common-Metadata-Repository",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-08-27T15:08:09Z",
+    "date": "2026-08-28T17:53:19Z",
     "description": "The Common Metadata Repository (CMR) is a high-performance, high-quality, continuously evolving metadata system that catalogs Earth Science data and associated service metadata records. These metadata records are registered, modified, discovered, and accessed through programmatic interfaces leveraging standard protocols and APIs.",
     "stars": "394",
     "text": "nasa/Common-Metadata-Repository",
@@ -1170,9 +1170,9 @@
    "key": "nsacyber/HIRS",
    "source": "oss-nsacyber",
    "fields": {
-    "date": "2026-08-27T20:13:12Z",
+    "date": "2026-08-28T18:01:59Z",
     "description": "Trusted Computing based services supporting TPM provisioning and supply chain validation concepts. #nsacyber",
-    "stars": "212",
+    "stars": "213",
     "text": "nsacyber/HIRS",
     "title": "nsacyber/HIRS",
     "url": "https://github.com/nsacyber/HIRS"
@@ -1184,7 +1184,7 @@
    "fields": {
     "date": "2026-08-20T19:44:34Z",
     "description": "The Platform Attribute Certificate Creator can gather component details, create, sign, and validate the TCG-defined Platform Certificate. #nsacyber",
-    "stars": "78",
+    "stars": "79",
     "text": "nsacyber/paccor",
     "title": "nsacyber/paccor",
     "url": "https://github.com/nsacyber/paccor"
@@ -1230,7 +1230,7 @@
    "key": "ORNL/HeCBench",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-08-26T23:50:29Z",
+    "date": "2026-08-28T15:12:25Z",
     "stars": "304",
     "text": "ORNL/HeCBench",
     "title": "ORNL/HeCBench",
@@ -1243,7 +1243,7 @@
    "fields": {
     "date": "2026-08-27T03:10:50Z",
     "description": "Distributed PyTorch implementation of multi-headed graph convolutional neural networks",
-    "stars": "125",
+    "stars": "126",
     "text": "ORNL/HydraGNN",
     "title": "ORNL/HydraGNN",
     "url": "https://github.com/ORNL/HydraGNN"
@@ -1325,7 +1325,7 @@
    "key": "ORNL/GridKit",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-08-28T02:20:51Z",
+    "date": "2026-08-28T17:52:20Z",
     "description": "Modeling framework for power systems simulations and analysis.",
     "stars": "26",
     "text": "ORNL/GridKit",
@@ -1459,7 +1459,7 @@
    "fields": {
     "date": "2026-04-13T19:51:00Z",
     "description": "A modular single-molecule analysis interface",
-    "stars": "43",
+    "stars": "44",
     "text": "usnistgov/mosaic",
     "title": "usnistgov/mosaic",
     "url": "https://github.com/usnistgov/mosaic"

@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-08-28T02:20:23Z",
+ "fetched_at": "2026-08-28T18:46:15Z",
  "schema_version": 1,
  "records": [
   {
@@ -137,6 +137,18 @@
    }
   },
   {
+   "key": "CONT_AWD_HQ086026FE001_9700_HQ086024D0001_9700",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1.302960889e+07",
+    "description": "DIGITAL ENGINEERING DRIVING ARTIFICIAL INTELLIGENCE-ENHANCED MODELING AND SIMULATION (DEDAIM)",
+    "text": "MODERN TECHNOLOGY SOLUTIONS, INC.",
+    "title": "MODERN TECHNOLOGY SOLUTIONS, INC.",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_HQ086026FE001_9700_HQ086024D0001_9700/"
+   }
+  },
+  {
    "key": "CONT_AWD_FA865023C7318_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
@@ -233,18 +245,6 @@
    }
   },
   {
-   "key": "CONT_AWD_HQ086026FE001_9700_HQ086024D0001_9700",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "9.28753389e+06",
-    "description": "DIGITAL ENGINEERING DRIVING ARTIFICIAL INTELLIGENCE-ENHANCED MODELING AND SIMULATION (DEDAIM)",
-    "text": "MODERN TECHNOLOGY SOLUTIONS, INC.",
-    "title": "MODERN TECHNOLOGY SOLUTIONS, INC.",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_HQ086026FE001_9700_HQ086024D0001_9700/"
-   }
-  },
-  {
    "key": "CONT_AWD_W912QR26CA010_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
@@ -305,6 +305,30 @@
    }
   },
   {
+   "key": "CONT_AWD_W56KGU24C0026_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "6.72864452e+06",
+    "description": "DEVELOPMENT, MATURATION, AND INTEGRATION OF TECHNOLOGY FOR ARTIFICIAL INTELLIGENCE (AI)-ASSISTED TARGETING, RAPID FIRES DECONFLICTION, AND DYNAMIC AIRSPACE MANAGEMENT",
+    "text": "RAYTHEON COMPANY",
+    "title": "RAYTHEON COMPANY",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W56KGU24C0026_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_W911QX26CA003_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "5981000",
+    "description": "BROAD AGENCY ANNOUNCEMENT NAUTILUS ARTIFICIAL INTELLIGENCE RESEARCH AND DEVELOPMENT",
+    "text": "ECS FEDERAL, LLC",
+    "title": "ECS FEDERAL, LLC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W911QX26CA003_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_N0002420F8032_9700_N0002413D6400_9700",
    "source": "ai-spending-contracts",
    "fields": {
@@ -314,18 +338,6 @@
     "text": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC",
     "title": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_N0002420F8032_9700_N0002413D6400_9700/"
-   }
-  },
-  {
-   "key": "CONT_AWD_W56KGU24C0026_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "5.78364452e+06",
-    "description": "DEVELOPMENT, MATURATION, AND INTEGRATION OF TECHNOLOGY FOR ARTIFICIAL INTELLIGENCE (AI)-ASSISTED TARGETING, RAPID FIRES DECONFLICTION, AND DYNAMIC AIRSPACE MANAGEMENT",
-    "text": "RAYTHEON COMPANY",
-    "title": "RAYTHEON COMPANY",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W56KGU24C0026_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -429,7 +441,7 @@
    "source": "ai-spending-contracts",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "3990655",
+    "amount": "3.81768207e+06",
     "description": "ARTIFICIAL INTELLIGENCE FOR MODELING AND SIMULATION",
     "text": "ACCELINT AI, LLC",
     "title": "ACCELINT AI, LLC",
@@ -545,6 +557,18 @@
    }
   },
   {
+   "key": "CONT_AWD_N0017325C2428_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "2.35174063e+06",
+    "description": "HUMAN SYSTEMS INTEGRATION CONSIDERATIONS WITH ARTIFICIAL INTELLIGENCE / MACHINE LEARNING TECHNOLOGIES",
+    "text": "STRATEGIC ANALYSIS, INC.",
+    "title": "STRATEGIC ANALYSIS, INC.",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_N0017325C2428_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_HR001126CE029_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
@@ -581,34 +605,10 @@
    }
   },
   {
-   "key": "CONT_AWD_FA857126C0027_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "2095000",
-    "description": "THIS IS SMALL BUSINESS INNOVATIVE RESEARCH (SBIR) PHASE III REQUIREMENT ARISING UNDER SBIR TOPIC AF221-DCSO1, ARTIFICIAL INTELLIGENCE / MACHINE LEARNING-ENABLED DATA FABRIC (COMPANY SHIPCOM FEDERAL SOLUTIONS DBA SHIPCOM AI).",
-    "text": "SHIPCOM FEDERAL SOLUTIONS LLC",
-    "title": "SHIPCOM FEDERAL SOLUTIONS LLC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_FA857126C0027_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_W911SR25C0004_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "2.09149004e+06",
-    "description": "WILL ENGAGE EXPERT OPTICAL, ELECTRICAL, AND SIGNAL PROCESSING ENGINEERS TO DEVELOP AN ARTIFICIAL INTELLIGENCE (AI) ANALYSIS ENGINE THAT PROCESSES LIGHT DETECTION",
-    "text": "SPECTRAL SENSOR SOLUTIONS, LLC",
-    "title": "SPECTRAL SENSOR SOLUTIONS, LLC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W911SR25C0004_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
    "key": "806026852",
    "source": "ai-spending-recipients",
    "fields": {
-    "amount": "7.854645176e+07",
+    "amount": "8.452745176e+07",
     "text": "ECS FEDERAL, LLC",
     "title": "ECS FEDERAL, LLC",
     "url": "https://www.usaspending.gov/search"

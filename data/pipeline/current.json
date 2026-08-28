@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-08-28T02:21:39Z",
+ "fetched_at": "2026-08-28T18:47:30Z",
  "schema_version": 1,
  "records": [
   {
@@ -415,6 +415,19 @@
    }
   },
   {
+   "key": "363738",
+   "source": "pipeline-grants",
+   "fields": {
+    "agency": "DARPA - Defense Sciences Office",
+    "closes": "08/27/2027",
+    "number": "HR001126S0015",
+    "posted": "08/28/2026",
+    "text": "Defense Sciences Office (DSO) Office-wide BAA",
+    "title": "Defense Sciences Office (DSO) Office-wide BAA",
+    "url": "https://www.grants.gov/search-results-detail/363738"
+   }
+  },
+  {
    "key": "363526",
    "source": "pipeline-grants",
    "fields": {
@@ -716,6 +729,35 @@
    }
   },
   {
+   "key": "fe9fa43b9c374a4689cb45d5de124c25",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-NJ.W6QK ACC-RI-PICATINNY",
+    "closes": "2026-08-31T15:00:00-04:00",
+    "number": "W15QKN-26-X-1C9P",
+    "posted": "2026-08-28",
+    "text": "50mm weapon based Air Defense Counter-Unmanned Aircraft System (C-UAS)",
+    "title": "50mm weapon based Air Defense Counter-Unmanned Aircraft System (C-UAS)",
+    "type": "Sources Sought",
+    "url": "https://sam.gov/workspace/contract/opp/fe9fa43b9c374a4689cb45d5de124c25/view"
+   }
+  },
+  {
+   "key": "03394860579e405281e9c0595a009f18",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSUP.NAVSUP GLOBAL LOGISTICS SUPPORT.NAVSUP FLC NORFOLK.NAVSUP FLT LOG CTR NORFOLK",
+    "closes": "2026-08-31T10:00:00-04:00",
+    "number": "N0018926QL3810001",
+    "posted": "2026-08-28",
+    "setaside": "No Set aside used",
+    "text": "Unmanned Underwater Vehicle (UUV) Operator and Maintainer Training",
+    "title": "Unmanned Underwater Vehicle (UUV) Operator and Maintainer Training",
+    "type": "Combined Synopsis/Solicitation",
+    "url": "https://sam.gov/workspace/contract/opp/03394860579e405281e9c0595a009f18/view"
+   }
+  },
+  {
    "key": "bc6282d783a44e0e9e24cee6d553011b",
    "source": "pipeline-sam-unmanned",
    "fields": {
@@ -772,20 +814,6 @@
     "title": "Unmanned Ground Vehicles (UGV) for GroundBreaker 1 Demonstration",
     "type": "Special Notice",
     "url": "https://sam.gov/workspace/contract/opp/5b1fecf09c8247f3b2934b754f976135/view"
-   }
-  },
-  {
-   "key": "9569c199d8a041779c81fd3dc7c60ad9",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-NJ.W6QK ACC-RI-PICATINNY",
-    "closes": "2026-08-31T15:00:00-04:00",
-    "number": "W15QKN-26-X-1C9P",
-    "posted": "2026-08-20",
-    "text": "50mm weapon based Air Defense Counter-Unmanned Aircraft System (C-UAS)",
-    "title": "50mm weapon based Air Defense Counter-Unmanned Aircraft System (C-UAS)",
-    "type": "Sources Sought",
-    "url": "https://sam.gov/workspace/contract/opp/9569c199d8a041779c81fd3dc7c60ad9/view"
    }
   },
   {
