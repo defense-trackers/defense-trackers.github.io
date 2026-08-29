@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-08-28T18:47:30Z",
+ "fetched_at": "2026-08-29T01:56:13Z",
  "schema_version": 1,
  "records": [
   {
@@ -646,17 +646,17 @@
    }
   },
   {
-   "key": "c21f4f1ff5834867b7c2fe36835ec54e",
+   "key": "e12ecf785bc84bdd8438c40a6035e4e0",
    "source": "pipeline-sam-ai",
    "fields": {
     "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR HQ.NAVAL INFORMATION WARFARE SYSTEMS",
     "closes": "2026-09-10T14:00:00-07:00",
     "number": "N0003926R9450",
-    "posted": "2026-08-25",
+    "posted": "2026-08-28",
     "text": "Generative Artificial Intelligence (GenAI) Electronic Performance Support System (EPSS) under CSO N0003925S001. ",
     "title": "Generative Artificial Intelligence (GenAI) Electronic Performance Support System (EPSS) under CSO N0003925S001. ",
     "type": "Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/c21f4f1ff5834867b7c2fe36835ec54e/view"
+    "url": "https://sam.gov/workspace/contract/opp/e12ecf785bc84bdd8438c40a6035e4e0/view"
    }
   },
   {
@@ -684,20 +684,6 @@
     "title": "Industry Engagement – Common Autonomous Multi-Domain Launcher (CAML) Strategy Overview",
     "type": "Special Notice",
     "url": "https://sam.gov/workspace/contract/opp/b0e78aae357b47d2bc424d2094d15f7c/view"
-   }
-  },
-  {
-   "key": "cd31a61720cf49ddbaa2c82137d69abd",
-   "source": "pipeline-sam-autonomy",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEFENSE HEALTH AGENCY (DHA).DEFENSE HEALTH AGENCY",
-    "closes": "2026-08-28T10:00:00-04:00",
-    "number": "HT0038RFSACADM",
-    "posted": "2026-08-26",
-    "text": "Request for Solutions (RFS): Autonomous Coding (AC) and Automated Appeals \u0026 Denials Management (ADM)",
-    "title": "Request for Solutions (RFS): Autonomous Coding (AC) and Automated Appeals \u0026 Denials Management (ADM)",
-    "type": "Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/cd31a61720cf49ddbaa2c82137d69abd/view"
    }
   },
   {
@@ -743,6 +729,21 @@
    }
   },
   {
+   "key": "c61085ca2e6c4dc08098d727108027e0",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AF INSTALLATION \u0026 MISSION SUPPORT CENTER.FA8051  772 ESS PKD",
+    "closes": "2026-09-04T08:00:00-05:00",
+    "number": "FA805126Q4008",
+    "posted": "2026-08-28",
+    "setaside": "Small Business Set Aside - Total",
+    "text": "Multirotor small Unmanned Aircraft Systems (sUASs), Skydio “Or Equal”",
+    "title": "Multirotor small Unmanned Aircraft Systems (sUASs), Skydio “Or Equal”",
+    "type": "Combined Synopsis/Solicitation",
+    "url": "https://sam.gov/workspace/contract/opp/c61085ca2e6c4dc08098d727108027e0/view"
+   }
+  },
+  {
    "key": "03394860579e405281e9c0595a009f18",
    "source": "pipeline-sam-unmanned",
    "fields": {
@@ -773,21 +774,6 @@
    }
   },
   {
-   "key": "ef3a9a38e79d4ee2a8d21fdc58a30e11",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AF INSTALLATION \u0026 MISSION SUPPORT CENTER.FA8051  772 ESS PKD",
-    "closes": "2026-09-02T08:00:00-05:00",
-    "number": "FA805126Q4008",
-    "posted": "2026-08-25",
-    "setaside": "Small Business Set Aside - Total",
-    "text": "Multirotor small Unmanned Aircraft Systems (sUASs), Skydio “Or Equal”",
-    "title": "Multirotor small Unmanned Aircraft Systems (sUASs), Skydio “Or Equal”",
-    "type": "Combined Synopsis/Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/ef3a9a38e79d4ee2a8d21fdc58a30e11/view"
-   }
-  },
-  {
    "key": "7b8200aba1fd407abc45c0fffbfd4f78",
    "source": "pipeline-sam-unmanned",
    "fields": {
@@ -814,35 +800,6 @@
     "title": "Unmanned Ground Vehicles (UGV) for GroundBreaker 1 Demonstration",
     "type": "Special Notice",
     "url": "https://sam.gov/workspace/contract/opp/5b1fecf09c8247f3b2934b754f976135/view"
-   }
-  },
-  {
-   "key": "cd6fea492fef48a3b99b7154d8536181",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION SOUTH PACIFIC.ENDIST LOS ANGELES.W075 ENDIST LOS ANGELES",
-    "closes": "2026-08-28T13:00:00-07:00",
-    "number": "W912PL26RA039",
-    "posted": "2026-08-11",
-    "setaside": "Small Business Set Aside - Total",
-    "text": "Design-Build to Budget (DB2B) Tactical Unmanned Aerial Vehicle (TUAV) Hangar",
-    "title": "Design-Build to Budget (DB2B) Tactical Unmanned Aerial Vehicle (TUAV) Hangar",
-    "type": "Presolicitation",
-    "url": "https://sam.gov/workspace/contract/opp/cd6fea492fef48a3b99b7154d8536181/view"
-   }
-  },
-  {
-   "key": "b4584aa7c98e41f69431761f0bd1b8f7",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.COMBAT READINESS.FA8684 AFLCMC RODK",
-    "closes": "2026-08-28T17:00:00-04:00",
-    "number": "RSO-AMPOECT-04",
-    "posted": "2026-08-07",
-    "text": "Expeditionary Unmanned Aerial System (eUAS) Manufacturing and Employment Capability Request for Information",
-    "title": "Expeditionary Unmanned Aerial System (eUAS) Manufacturing and Employment Capability Request for Information",
-    "type": "Special Notice",
-    "url": "https://sam.gov/workspace/contract/opp/b4584aa7c98e41f69431761f0bd1b8f7/view"
    }
   },
   {
