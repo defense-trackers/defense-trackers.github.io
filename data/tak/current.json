@@ -1,26 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-08-29T01:56:28Z",
+ "fetched_at": "2026-08-29T12:44:32Z",
  "schema_version": 1,
  "records": [
-  {
-   "key": "engindearing-projects/OmniTAK-Android",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-08-29T01:55:09Z",
-    "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
-    "stars": "19",
-    "text": "engindearing-projects/OmniTAK-Android",
-    "title": "engindearing-projects/OmniTAK-Android",
-    "url": "https://github.com/engindearing-projects/OmniTAK-Android"
-   }
-  },
   {
    "key": "rixau/atak-reactive",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-08-29T01:51:16Z",
+    "date": "2026-08-29T02:01:34Z",
     "description": "Build ATAK (Android Team Awareness Kit) plugin UIs with React and TypeScript. Typed WebView bridge, hot reload, incremental adoption.",
     "stars": "2",
     "text": "rixau/atak-reactive",
@@ -29,10 +17,22 @@
    }
   },
   {
+   "key": "engindearing-projects/OmniTAK-Android",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-08-29T02:08:16Z",
+    "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
+    "stars": "19",
+    "text": "engindearing-projects/OmniTAK-Android",
+    "title": "engindearing-projects/OmniTAK-Android",
+    "url": "https://github.com/engindearing-projects/OmniTAK-Android"
+   }
+  },
+  {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-08-29T01:50:30Z",
+    "date": "2026-08-29T02:36:04Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "74",
     "text": "takwerx/infra-TAK",

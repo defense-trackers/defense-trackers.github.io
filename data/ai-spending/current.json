@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-08-29T01:55:00Z",
+ "fetched_at": "2026-08-29T12:43:06Z",
  "schema_version": 1,
  "records": [
   {
@@ -21,7 +21,7 @@
    "source": "ai-spending-contracts",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "7.28194042e+07",
+    "amount": "6.500650075e+07",
     "description": "CONTRACT TO RESEARCH, DEVELOP, MODIFY, DEPLOY, OPERATE, AND MAINTAIN ARTIFICIAL INTELLIGENCE/MACHINE LEARNING (AI/ML) ALGORITHMS AND MODELS.",
     "text": "ECS FEDERAL, LLC",
     "title": "ECS FEDERAL, LLC",
@@ -365,6 +365,18 @@
    }
   },
   {
+   "key": "CONT_AWD_W519TC26CA019_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "5.2672448e+06",
+    "description": "ARTIFICIAL INTELLIGENCE (AI) RAPID SUPPORT (AIRS) IN SUPPORT OF DEPUTY TO THE CHIEF DIGITAL ARTIFICIAL INTELLIGENCE OFFICE (CDAO) ENTERPRISE PROGRAMS (FORMERLY AI RAPID CAPABILITIES CELL)",
+    "text": "KONIAG EMERGING TECHNOLOGIES LLC",
+    "title": "KONIAG EMERGING TECHNOLOGIES LLC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W519TC26CA019_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_FA875126C0001_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
@@ -545,70 +557,10 @@
    }
   },
   {
-   "key": "CONT_AWD_W56KGU24C0023_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "2392843",
-    "description": "CPFF BAA AWARD FOR COLLABORATIVE ARTIFICIAL INTELLIGENCE TASK EXECUTION ENGINE FOR DISTRIBUTED ELECTRONIC WARFARE (CAITEE-DEW)",
-    "text": "SYSTEMS \u0026 TECHNOLOGY RESEARCH LLC",
-    "title": "SYSTEMS \u0026 TECHNOLOGY RESEARCH LLC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W56KGU24C0023_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_N0017325C2428_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "2.35174063e+06",
-    "description": "HUMAN SYSTEMS INTEGRATION CONSIDERATIONS WITH ARTIFICIAL INTELLIGENCE / MACHINE LEARNING TECHNOLOGIES",
-    "text": "STRATEGIC ANALYSIS, INC.",
-    "title": "STRATEGIC ANALYSIS, INC.",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_N0017325C2428_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_HR001126CE029_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "2313263",
-    "description": "SECURING ARTIFICIAL INTELLIGENCE FOR BATTLEFIELD EFFECTIVE ROBUSTNESS (SABER)",
-    "text": "LOCKHEED MARTIN CORPORATION",
-    "title": "LOCKHEED MARTIN CORPORATION",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_HR001126CE029_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_HQ003423F0294_9700_HQ003418D0005_9700",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "2.12405813e+06",
-    "description": "CHIEF DIGITAL AND ARTIFICIAL INTELLIGENCE OFFICE'S SUPPORT SERVICES",
-    "text": "UNIVERSITY OF MARYLAND, COLLEGE PARK",
-    "title": "UNIVERSITY OF MARYLAND, COLLEGE PARK",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_HQ003423F0294_9700_HQ003418D0005_9700/"
-   }
-  },
-  {
-   "key": "CONT_AWD_FA875025CB072_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "2111663",
-    "description": "NEXT GENERATION COMMAND AND CONTROL (NGC2) WILL ADVANCE (DAF) CAPABILITIES IN COMMAND AND CONTROL (C2) BY LEVERAGING ARTIFICIAL INTELLIGENCE (AI) TECHNOLOGIES AND EMBRACING A DISTRIBUTED OPERATIONAL MODEL.",
-    "text": "BLACK RIVER SYSTEMS COMPANY, INC.",
-    "title": "BLACK RIVER SYSTEMS COMPANY, INC.",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_FA875025CB072_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
    "key": "806026852",
    "source": "ai-spending-recipients",
    "fields": {
-    "amount": "8.452745176e+07",
+    "amount": "7.671454831e+07",
     "text": "ECS FEDERAL, LLC",
     "title": "ECS FEDERAL, LLC",
     "url": "https://www.usaspending.gov/search"
