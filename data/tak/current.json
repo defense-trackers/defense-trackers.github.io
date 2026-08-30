@@ -1,7 +1,7 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-08-30T11:59:35Z",
+ "fetched_at": "2026-08-30T21:34:58Z",
  "schema_version": 1,
  "records": [
   {
@@ -746,7 +746,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-08-20T15:49:56Z",
+    "date": "2026-08-30T19:04:25Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "27",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -789,6 +789,17 @@
    }
   },
   {
+   "key": "Hellikandra/ATAK-Weather-Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-08-30T19:29:11Z",
+    "stars": "52",
+    "text": "Hellikandra/ATAK-Weather-Plugin",
+    "title": "Hellikandra/ATAK-Weather-Plugin",
+    "url": "https://github.com/Hellikandra/ATAK-Weather-Plugin"
+   }
+  },
+  {
    "key": "AkitaEngineering/Akita-MeshTAK",
    "source": "tak-github",
    "fields": {
@@ -798,17 +809,6 @@
     "text": "AkitaEngineering/Akita-MeshTAK",
     "title": "AkitaEngineering/Akita-MeshTAK",
     "url": "https://github.com/AkitaEngineering/Akita-MeshTAK"
-   }
-  },
-  {
-   "key": "Hellikandra/ATAK-Weather-Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-08-29T17:31:13Z",
-    "stars": "52",
-    "text": "Hellikandra/ATAK-Weather-Plugin",
-    "title": "Hellikandra/ATAK-Weather-Plugin",
-    "url": "https://github.com/Hellikandra/ATAK-Weather-Plugin"
    }
   },
   {
