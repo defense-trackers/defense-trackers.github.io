@@ -1,7 +1,7 @@
 {
  "source": "deadlines",
  "tracker": "deadlines",
- "fetched_at": "2026-09-01T11:44:53Z",
+ "fetched_at": "2026-09-01T21:21:23Z",
  "schema_version": 1,
  "records": [
   {
@@ -230,8 +230,8 @@
    "source": "deadlines-solicitations",
    "fields": {
     "agency": "National Institute of Standards and Technology",
-    "closes": "2029-09-30",
-    "date": "2029-09-30",
+    "closes": "2026-09-15",
+    "date": "2026-09-15",
     "from": "pipeline",
     "text": "CHIPS Research and Development Office (CRDO) Broad Agency Announcement (BAA)",
     "title": "CHIPS Research and Development Office (CRDO) Broad Agency Announcement (BAA)",
@@ -408,19 +408,6 @@
    }
   },
   {
-   "key": "close-363526",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "Air Force Office of Scientific Research",
-    "closes": "2027-04-05",
-    "date": "2027-04-05",
-    "from": "pipeline",
-    "text": "FY26 DEFENSE ESTABLISHED PROGRAM TO STIMULATE COMPETITIVE RESEARCH (DEPSCoR) – RESEARCH COLLABORATION (RC)",
-    "title": "FY26 DEFENSE ESTABLISHED PROGRAM TO STIMULATE COMPETITIVE RESEARCH (DEPSCoR) – RESEARCH COLLABORATION (RC)",
-    "url": "https://www.grants.gov/search-results-detail/363526"
-   }
-  },
-  {
    "key": "close-362254",
    "source": "deadlines-solicitations",
    "fields": {
@@ -431,6 +418,19 @@
     "text": "DoW Military Burn, Discovery Award",
     "title": "DoW Military Burn, Discovery Award",
     "url": "https://www.grants.gov/search-results-detail/362254"
+   }
+  },
+  {
+   "key": "close-363526",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "Air Force Office of Scientific Research",
+    "closes": "2027-04-05",
+    "date": "2027-04-05",
+    "from": "pipeline",
+    "text": "FY26 DEFENSE ESTABLISHED PROGRAM TO STIMULATE COMPETITIVE RESEARCH (DEPSCoR) – RESEARCH COLLABORATION (RC)",
+    "title": "FY26 DEFENSE ESTABLISHED PROGRAM TO STIMULATE COMPETITIVE RESEARCH (DEPSCoR) – RESEARCH COLLABORATION (RC)",
+    "url": "https://www.grants.gov/search-results-detail/363526"
    }
   },
   {
@@ -470,19 +470,6 @@
     "text": "DoW Peer Reviewed Medical, Platform Clinical Translation Award",
     "title": "DoW Peer Reviewed Medical, Platform Clinical Translation Award",
     "url": "https://www.grants.gov/search-results-detail/362329"
-   }
-  },
-  {
-   "key": "close-355499",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "Air Force -- Research Lab",
-    "closes": "2029-07-18",
-    "date": "2029-07-18",
-    "from": "pipeline",
-    "text": "Research and Development (RAD) Directed Energy (RD) University Assistance Instruments",
-    "title": "Research and Development (RAD) Directed Energy (RD) University Assistance Instruments",
-    "url": "https://www.grants.gov/search-results-detail/355499"
    }
   },
   {

@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-09-01T11:44:50Z",
+ "fetched_at": "2026-09-01T21:21:20Z",
  "schema_version": 1,
  "records": [
   {
    "key": "engindearing-projects/OmniTAK-Android",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-09-01T04:45:06Z",
+    "date": "2026-09-01T21:00:29Z",
     "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
     "stars": "19",
     "text": "engindearing-projects/OmniTAK-Android",
@@ -20,7 +20,7 @@
    "key": "engindearing-projects/OmniTAK-iOS",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-09-01T04:45:04Z",
+    "date": "2026-09-01T20:32:55Z",
     "description": "Open-source TAK (Team Awareness Kit) client for iPhone and iPad. Swift + SwiftUI. Apache 2.0.",
     "stars": "6",
     "text": "engindearing-projects/OmniTAK-iOS",
@@ -32,7 +32,7 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-09-01T02:59:48Z",
+    "date": "2026-09-01T21:10:10Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "74",
     "text": "takwerx/infra-TAK",
@@ -711,9 +711,9 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-09-01T11:27:23Z",
+    "date": "2026-09-01T20:35:14Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
-    "stars": "31",
+    "stars": "32",
     "text": "FreeTAKTeam/LXMF-rs",
     "title": "FreeTAKTeam/LXMF-rs",
     "url": "https://github.com/FreeTAKTeam/LXMF-rs"
@@ -746,7 +746,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-09-01T11:27:23Z",
+    "date": "2026-09-01T17:12:33Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "30",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
