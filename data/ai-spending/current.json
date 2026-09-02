@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-09-01T21:19:49Z",
+ "fetched_at": "2026-09-02T11:23:55Z",
  "schema_version": 1,
  "records": [
   {
@@ -125,6 +125,18 @@
    }
   },
   {
+   "key": "CONT_AWD_FA239125CB010_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1.45356334e+07",
+    "description": "HYBRID ARTIFICIAL INTELLIGENCE AND AUTONOMY RESEARCH AND DEVELOPMENT CONSIDERED OPERATIONALLY RELEVANT AND EXPLAINABLE (HAARDCORE)",
+    "text": "UNIVERSITY OF DAYTON",
+    "title": "UNIVERSITY OF DAYTON",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA239125CB010_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_W911QX25F0024_9700_W911QX25D0007_9700",
    "source": "ai-spending-contracts",
    "fields": {
@@ -158,18 +170,6 @@
     "text": "CACI, INC. - FEDERAL",
     "title": "CACI, INC. - FEDERAL",
     "url": "https://www.usaspending.gov/award/CONT_AWD_FA865023C7318_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_FA239125CB010_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "1.13175714e+07",
-    "description": "HYBRID ARTIFICIAL INTELLIGENCE AND AUTONOMY RESEARCH AND DEVELOPMENT CONSIDERED OPERATIONALLY RELEVANT AND EXPLAINABLE (HAARDCORE)",
-    "text": "UNIVERSITY OF DAYTON",
-    "title": "UNIVERSITY OF DAYTON",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_FA239125CB010_9700_-NONE-_-NONE-/"
    }
   },
   {

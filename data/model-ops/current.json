@@ -1,7 +1,7 @@
 {
  "source": "model-ops",
  "tracker": "model-ops",
- "fetched_at": "2026-09-01T21:20:11Z",
+ "fetched_at": "2026-09-02T11:24:17Z",
  "schema_version": 1,
  "records": [
   {
@@ -22,8 +22,8 @@
    "source": "model-ops-hf",
    "fields": {
     "date": "2022-03-02T23:29:04.000Z",
-    "downloads": "14502665",
-    "likes": "3502",
+    "downloads": "14290101",
+    "likes": "3518",
     "tags": "transformers, pytorch, tf, jax, tflite, rust, onnx, safetensors, gpt2, text-generation, exbert, en, doi:10.57967/hf/0039, license:mit, text-generation-inference, endpoints_compatible, deploy:azure, region:us",
     "text": "openai-community/gpt2",
     "title": "openai-community/gpt2",
@@ -35,7 +35,7 @@
    "source": "model-ops-hf",
    "fields": {
     "date": "2022-05-11T08:25:17.000Z",
-    "downloads": "11139753",
+    "downloads": "10438159",
     "likes": "294",
     "tags": "transformers, pytorch, tf, jax, opt, text-generation, en, arxiv:2205.01068, arxiv:2005.14165, license:other, text-generation-inference, region:us, deploy:azure",
     "text": "facebook/opt-125m",
@@ -57,25 +57,12 @@
    }
   },
   {
-   "key": "meta-llama/Llama-3.2-1B-Instruct",
-   "source": "model-ops-hf",
-   "fields": {
-    "date": "2024-09-18T15:12:47.000Z",
-    "downloads": "6693739",
-    "likes": "1597",
-    "tags": "transformers, safetensors, llama, text-generation, facebook, meta, pytorch, llama-3, conversational, en, de, fr, it, pt, hi, es, th, arxiv:2204.05149, arxiv:2405.16406, license:llama3.2, eval-results, text-generation-inference, endpoints_compatible, region:us, deploy:sagemaker",
-    "text": "meta-llama/Llama-3.2-1B-Instruct",
-    "title": "meta-llama/Llama-3.2-1B-Instruct",
-    "url": "https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct"
-   }
-  },
-  {
    "key": "openai/gpt-oss-20b",
    "source": "model-ops-hf",
    "fields": {
     "date": "2025-08-04T22:33:29.000Z",
     "downloads": "6519052",
-    "likes": "4974",
+    "likes": "4976",
     "tags": "transformers, safetensors, gpt_oss, text-generation, vllm, conversational, arxiv:2508.10925, license:apache-2.0, eval-results, endpoints_compatible, 8-bit, mxfp4, deploy:sagemaker, deploy:azure, region:us",
     "text": "openai/gpt-oss-20b",
     "title": "openai/gpt-oss-20b",
@@ -83,12 +70,25 @@
    }
   },
   {
+   "key": "meta-llama/Llama-3.2-1B-Instruct",
+   "source": "model-ops-hf",
+   "fields": {
+    "date": "2024-09-18T15:12:47.000Z",
+    "downloads": "6417690",
+    "likes": "1598",
+    "tags": "transformers, safetensors, llama, text-generation, facebook, meta, pytorch, llama-3, conversational, en, de, fr, it, pt, hi, es, th, arxiv:2204.05149, arxiv:2405.16406, license:llama3.2, eval-results, text-generation-inference, endpoints_compatible, region:us, deploy:sagemaker",
+    "text": "meta-llama/Llama-3.2-1B-Instruct",
+    "title": "meta-llama/Llama-3.2-1B-Instruct",
+    "url": "https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct"
+   }
+  },
+  {
    "key": "meta-llama/Llama-3.1-8B-Instruct",
    "source": "model-ops-hf",
    "fields": {
     "date": "2024-07-18T08:56:00.000Z",
-    "downloads": "5945153",
-    "likes": "6736",
+    "downloads": "5792238",
+    "likes": "6747",
     "tags": "transformers, safetensors, llama, text-generation, facebook, meta, pytorch, llama-3, conversational, en, de, fr, it, pt, hi, es, th, arxiv:2204.05149, base_model:meta-llama/Llama-3.1-8B, base_model:finetune:meta-llama/Llama-3.1-8B, license:llama3.1, eval-results, text-generation-inference, endpoints_compatible, region:us, deploy:sagemaker",
     "text": "meta-llama/Llama-3.1-8B-Instruct",
     "title": "meta-llama/Llama-3.1-8B-Instruct",
@@ -101,7 +101,7 @@
    "fields": {
     "date": "2025-08-04T22:33:06.000Z",
     "downloads": "5376994",
-    "likes": "5141",
+    "likes": "5143",
     "tags": "transformers, safetensors, gpt_oss, text-generation, vllm, conversational, arxiv:2508.10925, license:apache-2.0, eval-results, endpoints_compatible, 8-bit, mxfp4, deploy:sagemaker, deploy:azure, region:us",
     "text": "openai/gpt-oss-120b",
     "title": "openai/gpt-oss-120b",
@@ -126,7 +126,7 @@
    "source": "model-ops-hf",
    "fields": {
     "date": "2023-02-08T19:25:46.000Z",
-    "downloads": "3494493",
+    "downloads": "3425258",
     "likes": "45",
     "tags": "transformers, pytorch, safetensors, gpt_neox, text-generation, causal-lm, pythia, en, dataset:EleutherAI/pile, arxiv:2304.01373, arxiv:2101.00027, arxiv:2201.07311, license:apache-2.0, text-generation-inference, endpoints_compatible, region:us, deploy:azure",
     "text": "EleutherAI/pythia-160m",
@@ -140,7 +140,7 @@
    "fields": {
     "date": "2025-03-10T12:09:00.000Z",
     "downloads": "3207410",
-    "likes": "1123",
+    "likes": "1124",
     "tags": "transformers, safetensors, gemma3_text, text-generation, conversational, arxiv:1905.07830, arxiv:1905.10044, arxiv:1911.11641, arxiv:1904.09728, arxiv:1705.03551, arxiv:1911.01547, arxiv:1907.10641, arxiv:1903.00161, arxiv:2009.03300, arxiv:2304.06364, arxiv:2103.03874, arxiv:2110.14168, arxiv:2311.12022, arxiv:2108.07732, arxiv:2107.03374, arxiv:2210.03057, arxiv:2106.03193, arxiv:1910.11856, arxiv:2502.12404, arxiv:2502.21228, arxiv:2404.16816, arxiv:2104.12756, arxiv:2311.16502, arxiv:2203.10244, arxiv:2404.12390, arxiv:1810.12440, arxiv:1908.02660, arxiv:2312.11805, base_model:google/gemma-3-1b-pt, base_model:finetune:google/gemma-3-1b-pt, license:gemma, eval-results, text-generation-inference, endpoints_compatible, region:us, deploy:sagemaker",
     "text": "google/gemma-3-1b-it",
     "title": "google/gemma-3-1b-it",
@@ -166,7 +166,7 @@
    "fields": {
     "date": "2026-08-19T00:02:44.000Z",
     "downloads": "2625566",
-    "likes": "273",
+    "likes": "277",
     "tags": "transformers, gguf, text-generation, license:mit, endpoints_compatible, region:us, conversational",
     "text": "ornith-ai/Ornith-1.5-9B-GGUF",
     "title": "ornith-ai/Ornith-1.5-9B-GGUF",
@@ -178,7 +178,7 @@
    "source": "model-ops-hf",
    "fields": {
     "date": "2024-10-31T00:46:04.000Z",
-    "downloads": "2542296",
+    "downloads": "2542078",
     "likes": "230",
     "tags": "transformers, safetensors, llama, text-generation, en, arxiv:2502.02737, license:apache-2.0, eval-results, text-generation-inference, endpoints_compatible, region:us, deploy:azure",
     "text": "HuggingFaceTB/SmolLM2-135M",
@@ -192,24 +192,11 @@
    "fields": {
     "date": "2026-08-18T06:38:41.000Z",
     "downloads": "2455746",
-    "likes": "363",
+    "likes": "364",
     "tags": "transformers, gguf, text-generation, license:mit, endpoints_compatible, region:us, conversational",
     "text": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
     "title": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
     "url": "https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B-GGUF"
-   }
-  },
-  {
-   "key": "distilbert/distilgpt2",
-   "source": "model-ops-hf",
-   "fields": {
-    "date": "2022-03-02T23:29:04.000Z",
-    "downloads": "2072230",
-    "likes": "639",
-    "tags": "transformers, pytorch, tf, jax, tflite, rust, coreml, safetensors, gpt2, text-generation, exbert, en, dataset:openwebtext, arxiv:1910.01108, arxiv:2201.08542, arxiv:2203.12574, arxiv:1910.09700, arxiv:1503.02531, license:apache-2.0, model-index, co2_eq_emissions, text-generation-inference, endpoints_compatible, region:us, deploy:azure",
-    "text": "distilbert/distilgpt2",
-    "title": "distilbert/distilgpt2",
-    "url": "https://huggingface.co/distilbert/distilgpt2"
    }
   },
   {
@@ -226,12 +213,25 @@
    }
   },
   {
+   "key": "distilbert/distilgpt2",
+   "source": "model-ops-hf",
+   "fields": {
+    "date": "2022-03-02T23:29:04.000Z",
+    "downloads": "1998765",
+    "likes": "639",
+    "tags": "transformers, pytorch, tf, jax, tflite, rust, coreml, safetensors, gpt2, text-generation, exbert, en, dataset:openwebtext, arxiv:1910.01108, arxiv:2201.08542, arxiv:2203.12574, arxiv:1910.09700, arxiv:1503.02531, license:apache-2.0, model-index, co2_eq_emissions, text-generation-inference, endpoints_compatible, region:us, deploy:azure",
+    "text": "distilbert/distilgpt2",
+    "title": "distilbert/distilgpt2",
+    "url": "https://huggingface.co/distilbert/distilgpt2"
+   }
+  },
+  {
    "key": "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
    "source": "model-ops-hf",
    "fields": {
     "date": "2023-12-30T06:27:30.000Z",
-    "downloads": "1899664",
-    "likes": "1757",
+    "downloads": "1814317",
+    "likes": "1758",
     "tags": "transformers, safetensors, llama, text-generation, conversational, en, dataset:cerebras/SlimPajama-627B, dataset:bigcode/starcoderdata, dataset:HuggingFaceH4/ultrachat_200k, dataset:HuggingFaceH4/ultrafeedback_binarized, license:apache-2.0, text-generation-inference, endpoints_compatible, region:us, deploy:sagemaker, deploy:azure",
     "text": "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
     "title": "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
@@ -243,7 +243,7 @@
    "source": "model-ops-hf",
    "fields": {
     "date": "2024-03-04T18:03:06.000Z",
-    "downloads": "1697224",
+    "downloads": "1643398",
     "likes": "1435",
     "tags": "transformers, safetensors, moondream1, text-generation, image-text-to-text, custom_code, doi:10.57967/hf/6762, license:apache-2.0, eval-results, endpoints_compatible, region:us",
     "text": "vikhyatk/moondream2",
@@ -256,8 +256,8 @@
    "source": "model-ops-hf",
    "fields": {
     "date": "2024-04-17T09:35:12.000Z",
-    "downloads": "1625361",
-    "likes": "4883",
+    "downloads": "1592247",
+    "likes": "4888",
     "tags": "transformers, safetensors, llama, text-generation, facebook, meta, pytorch, llama-3, conversational, en, license:llama3, eval-results, text-generation-inference, endpoints_compatible, region:us, deploy:sagemaker, deploy:azure",
     "text": "meta-llama/Meta-Llama-3-8B-Instruct",
     "title": "meta-llama/Meta-Llama-3-8B-Instruct",
@@ -295,8 +295,8 @@
    "source": "model-ops-hf",
    "fields": {
     "date": "2023-12-13T21:19:59.000Z",
-    "downloads": "1481920",
-    "likes": "3500",
+    "downloads": "1467240",
+    "likes": "3501",
     "tags": "transformers, safetensors, phi, text-generation, nlp, code, en, license:mit, text-generation-inference, endpoints_compatible, region:us, deploy:sagemaker, deploy:azure",
     "text": "microsoft/phi-2",
     "title": "microsoft/phi-2",
@@ -309,7 +309,7 @@
    "fields": {
     "date": "2026-06-16T07:20:33.000Z",
     "downloads": "1467173",
-    "likes": "264",
+    "likes": "265",
     "tags": "transformers, safetensors, glm_moe_dsa, text-generation, conversational, en, zh, arxiv:2602.15763, arxiv:2603.12201, license:mit, endpoints_compatible, fp8, deploy:azure, deploy:sagemaker, region:us",
     "text": "zai-org/GLM-5.2-FP8",
     "title": "zai-org/GLM-5.2-FP8",
@@ -322,37 +322,11 @@
    "fields": {
     "date": "2026-06-16T07:39:20.000Z",
     "downloads": "1452214",
-    "likes": "5065",
+    "likes": "5066",
     "tags": "transformers, safetensors, glm_moe_dsa, text-generation, conversational, en, zh, arxiv:2602.15763, arxiv:2603.12201, license:mit, eval-results, endpoints_compatible, region:us",
     "text": "zai-org/GLM-5.2",
     "title": "zai-org/GLM-5.2",
     "url": "https://huggingface.co/zai-org/GLM-5.2"
-   }
-  },
-  {
-   "key": "meta-llama/Llama-3.2-3B-Instruct",
-   "source": "model-ops-hf",
-   "fields": {
-    "date": "2024-09-18T15:19:20.000Z",
-    "downloads": "1420819",
-    "likes": "2491",
-    "tags": "transformers, safetensors, llama, text-generation, facebook, meta, pytorch, llama-3, conversational, en, de, fr, it, pt, hi, es, th, arxiv:2204.05149, arxiv:2405.16406, license:llama3.2, text-generation-inference, endpoints_compatible, deploy:sagemaker, region:us",
-    "text": "meta-llama/Llama-3.2-3B-Instruct",
-    "title": "meta-llama/Llama-3.2-3B-Instruct",
-    "url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct"
-   }
-  },
-  {
-   "key": "HuggingFaceTB/SmolLM2-135M-Instruct",
-   "source": "model-ops-hf",
-   "fields": {
-    "date": "2024-10-31T13:41:10.000Z",
-    "downloads": "1419854",
-    "likes": "408",
-    "tags": "transformers, tensorboard, onnx, safetensors, llama, text-generation, transformers.js, conversational, en, arxiv:2502.02737, base_model:HuggingFaceTB/SmolLM2-135M, base_model:quantized:HuggingFaceTB/SmolLM2-135M, license:apache-2.0, text-generation-inference, endpoints_compatible, region:us",
-    "text": "HuggingFaceTB/SmolLM2-135M-Instruct",
-    "title": "HuggingFaceTB/SmolLM2-135M-Instruct",
-    "url": "https://huggingface.co/HuggingFaceTB/SmolLM2-135M-Instruct"
    }
   },
   {
@@ -361,7 +335,7 @@
    "fields": {
     "date": "2025-08-05T18:50:31.000Z",
     "downloads": "1413415",
-    "likes": "1080",
+    "likes": "1081",
     "tags": "transformers, safetensors, gemma3_text, text-generation, gemma3, gemma, google, arxiv:2503.19786, arxiv:1905.07830, arxiv:1905.10044, arxiv:1911.11641, arxiv:1705.03551, arxiv:1911.01547, arxiv:1907.10641, arxiv:2311.07911, arxiv:2311.12022, arxiv:2411.04368, arxiv:1904.09728, arxiv:1903.00161, arxiv:2009.03300, arxiv:2304.06364, arxiv:2103.03874, arxiv:2110.14168, arxiv:2108.07732, arxiv:2107.03374, arxiv:2403.07974, arxiv:2305.03111, arxiv:2405.04520, arxiv:2210.03057, arxiv:2106.03193, arxiv:1910.11856, arxiv:2502.12404, arxiv:2502.21228, arxiv:2404.16816, arxiv:2104.12756, arxiv:2311.16502, arxiv:2203.10244, arxiv:2404.12390, arxiv:1810.12440, arxiv:1908.02660, arxiv:2310.02255, arxiv:2312.11805, license:gemma, text-generation-inference, endpoints_compatible, region:us",
     "text": "google/gemma-3-270m",
     "title": "google/gemma-3-270m",
@@ -369,16 +343,42 @@
    }
   },
   {
+   "key": "meta-llama/Llama-3.2-3B-Instruct",
+   "source": "model-ops-hf",
+   "fields": {
+    "date": "2024-09-18T15:19:20.000Z",
+    "downloads": "1400394",
+    "likes": "2493",
+    "tags": "transformers, safetensors, llama, text-generation, facebook, meta, pytorch, llama-3, conversational, en, de, fr, it, pt, hi, es, th, arxiv:2204.05149, arxiv:2405.16406, license:llama3.2, text-generation-inference, endpoints_compatible, deploy:sagemaker, region:us",
+    "text": "meta-llama/Llama-3.2-3B-Instruct",
+    "title": "meta-llama/Llama-3.2-3B-Instruct",
+    "url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct"
+   }
+  },
+  {
    "key": "apple/OpenELM-1_1B-Instruct",
    "source": "model-ops-hf",
    "fields": {
     "date": "2024-04-12T21:52:12.000Z",
-    "downloads": "1403382",
+    "downloads": "1379008",
     "likes": "75",
     "tags": "transformers, safetensors, openelm, text-generation, custom_code, arxiv:2404.14619, license:apple-amlr, region:us",
     "text": "apple/OpenELM-1_1B-Instruct",
     "title": "apple/OpenELM-1_1B-Instruct",
     "url": "https://huggingface.co/apple/OpenELM-1_1B-Instruct"
+   }
+  },
+  {
+   "key": "HuggingFaceTB/SmolLM2-135M-Instruct",
+   "source": "model-ops-hf",
+   "fields": {
+    "date": "2024-10-31T13:41:10.000Z",
+    "downloads": "1378003",
+    "likes": "408",
+    "tags": "transformers, tensorboard, onnx, safetensors, llama, text-generation, transformers.js, conversational, en, arxiv:2502.02737, base_model:HuggingFaceTB/SmolLM2-135M, base_model:quantized:HuggingFaceTB/SmolLM2-135M, license:apache-2.0, text-generation-inference, endpoints_compatible, region:us",
+    "text": "HuggingFaceTB/SmolLM2-135M-Instruct",
+    "title": "HuggingFaceTB/SmolLM2-135M-Instruct",
+    "url": "https://huggingface.co/HuggingFaceTB/SmolLM2-135M-Instruct"
    }
   },
   {
@@ -399,8 +399,8 @@
    "source": "model-ops-hf",
    "fields": {
     "date": "2024-09-18T15:03:14.000Z",
-    "downloads": "1345930",
-    "likes": "2556",
+    "downloads": "1310758",
+    "likes": "2557",
     "tags": "transformers, safetensors, llama, text-generation, facebook, meta, pytorch, llama-3, en, de, fr, it, pt, hi, es, th, arxiv:2204.05149, arxiv:2405.16406, license:llama3.2, eval-results, text-generation-inference, endpoints_compatible, region:us, deploy:sagemaker",
     "text": "meta-llama/Llama-3.2-1B",
     "title": "meta-llama/Llama-3.2-1B",
@@ -421,29 +421,29 @@
    }
   },
   {
-   "key": "mistralai/Mistral-7B-Instruct-v0.2",
-   "source": "model-ops-hf",
-   "fields": {
-    "date": "2023-12-11T13:18:44.000Z",
-    "downloads": "1208219",
-    "likes": "3204",
-    "tags": "transformers, pytorch, safetensors, mistral, text-generation, finetuned, mistral-common, conversational, arxiv:2310.06825, license:apache-2.0, eval-results, text-generation-inference, region:us, deploy:azure",
-    "text": "mistralai/Mistral-7B-Instruct-v0.2",
-    "title": "mistralai/Mistral-7B-Instruct-v0.2",
-    "url": "https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2"
-   }
-  },
-  {
    "key": "sshleifer/tiny-gpt2",
    "source": "model-ops-hf",
    "fields": {
     "date": "2022-03-02T23:29:05.000Z",
-    "downloads": "1206179",
+    "downloads": "1192814",
     "likes": "36",
     "tags": "transformers, pytorch, tf, jax, gpt2, text-generation, text-generation-inference, endpoints_compatible, region:us",
     "text": "sshleifer/tiny-gpt2",
     "title": "sshleifer/tiny-gpt2",
     "url": "https://huggingface.co/sshleifer/tiny-gpt2"
+   }
+  },
+  {
+   "key": "mistralai/Mistral-7B-Instruct-v0.2",
+   "source": "model-ops-hf",
+   "fields": {
+    "date": "2023-12-11T13:18:44.000Z",
+    "downloads": "1189179",
+    "likes": "3204",
+    "tags": "transformers, pytorch, safetensors, mistral, text-generation, finetuned, mistral-common, conversational, arxiv:2310.06825, license:apache-2.0, eval-results, text-generation-inference, region:us, deploy:azure",
+    "text": "mistralai/Mistral-7B-Instruct-v0.2",
+    "title": "mistralai/Mistral-7B-Instruct-v0.2",
+    "url": "https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2"
    }
   },
   {
@@ -460,19 +460,6 @@
    }
   },
   {
-   "key": "ibm-research/PowerMoE-3b",
-   "source": "model-ops-hf",
-   "fields": {
-    "date": "2024-08-14T18:44:21.000Z",
-    "downloads": "1163195",
-    "likes": "22",
-    "tags": "transformers, safetensors, granitemoe, text-generation, arxiv:2408.13359, license:apache-2.0, model-index, region:us",
-    "text": "ibm-research/PowerMoE-3b",
-    "title": "ibm-research/PowerMoE-3b",
-    "url": "https://huggingface.co/ibm-research/PowerMoE-3b"
-   }
-  },
-  {
    "key": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
    "source": "model-ops-hf",
    "fields": {
@@ -483,6 +470,19 @@
     "text": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
     "title": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
     "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4"
+   }
+  },
+  {
+   "key": "ibm-research/PowerMoE-3b",
+   "source": "model-ops-hf",
+   "fields": {
+    "date": "2024-08-14T18:44:21.000Z",
+    "downloads": "1121050",
+    "likes": "22",
+    "tags": "transformers, safetensors, granitemoe, text-generation, arxiv:2408.13359, license:apache-2.0, model-index, region:us",
+    "text": "ibm-research/PowerMoE-3b",
+    "title": "ibm-research/PowerMoE-3b",
+    "url": "https://huggingface.co/ibm-research/PowerMoE-3b"
    }
   },
   {
@@ -529,7 +529,7 @@
    "source": "model-ops-hf",
    "fields": {
     "date": "2022-03-02T23:29:04.000Z",
-    "downloads": "1039429",
+    "downloads": "1021178",
     "likes": "357",
     "tags": "transformers, pytorch, tf, jax, rust, onnx, safetensors, gpt2, text-generation, en, arxiv:1910.09700, license:mit, text-generation-inference, endpoints_compatible, region:us, deploy:azure",
     "text": "openai-community/gpt2-large",
@@ -538,83 +538,83 @@
    }
   },
   {
-   "key": "b10751",
+   "key": "b10760",
    "source": "model-ops-llamacpp",
    "fields": {
-    "date": "2026-09-01T20:13:53Z",
-    "text": "b10751",
-    "title": "b10751",
-    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10751"
+    "date": "2026-09-02T11:14:51Z",
+    "text": "b10760",
+    "title": "b10760",
+    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10760"
    }
   },
   {
-   "key": "b10750",
+   "key": "b10759",
    "source": "model-ops-llamacpp",
    "fields": {
-    "date": "2026-09-01T19:21:42Z",
-    "text": "b10750",
-    "title": "b10750",
-    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10750"
+    "date": "2026-09-02T10:22:15Z",
+    "text": "b10759",
+    "title": "b10759",
+    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10759"
    }
   },
   {
-   "key": "b10749",
+   "key": "b10758",
    "source": "model-ops-llamacpp",
    "fields": {
-    "date": "2026-09-01T18:57:15Z",
-    "text": "b10749",
-    "title": "b10749",
-    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10749"
+    "date": "2026-09-02T09:29:10Z",
+    "text": "b10758",
+    "title": "b10758",
+    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10758"
    }
   },
   {
-   "key": "b10743",
+   "key": "b10757",
    "source": "model-ops-llamacpp",
    "fields": {
-    "date": "2026-09-01T18:18:32Z",
-    "text": "b10743",
-    "title": "b10743",
-    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10743"
+    "date": "2026-09-02T08:43:01Z",
+    "text": "b10757",
+    "title": "b10757",
+    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10757"
    }
   },
   {
-   "key": "b10742",
+   "key": "b10756",
    "source": "model-ops-llamacpp",
    "fields": {
-    "date": "2026-09-01T17:04:31Z",
-    "text": "b10742",
-    "title": "b10742",
-    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10742"
+    "date": "2026-09-02T08:17:19Z",
+    "text": "b10756",
+    "title": "b10756",
+    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10756"
    }
   },
   {
-   "key": "b10741",
+   "key": "b10754",
    "source": "model-ops-llamacpp",
    "fields": {
-    "date": "2026-09-01T16:35:25Z",
-    "text": "b10741",
-    "title": "b10741",
-    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10741"
+    "date": "2026-09-02T06:26:50Z",
+    "text": "b10754",
+    "title": "b10754",
+    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10754"
    }
   },
   {
-   "key": "b10740",
+   "key": "b10753",
    "source": "model-ops-llamacpp",
    "fields": {
-    "date": "2026-09-01T15:41:34Z",
-    "text": "b10740",
-    "title": "b10740",
-    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10740"
+    "date": "2026-09-02T06:00:58Z",
+    "text": "b10753",
+    "title": "b10753",
+    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10753"
    }
   },
   {
-   "key": "b10739",
+   "key": "b10752",
    "source": "model-ops-llamacpp",
    "fields": {
-    "date": "2026-09-01T15:15:28Z",
-    "text": "b10739",
-    "title": "b10739",
-    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10739"
+    "date": "2026-09-02T00:13:57Z",
+    "text": "b10752",
+    "title": "b10752",
+    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b10752"
    }
   },
   {
@@ -625,6 +625,16 @@
     "text": "v0.1.dev0",
     "title": "v0.1.dev0",
     "url": "https://github.com/mlc-ai/mlc-llm/releases/tag/v0.1.dev0"
+   }
+  },
+  {
+   "key": "v0.33.3-rc0",
+   "source": "model-ops-ollama",
+   "fields": {
+    "date": "2026-09-02T00:11:33Z",
+    "text": "v0.33.3",
+    "title": "v0.33.3",
+    "url": "https://github.com/ollama/ollama/releases/tag/v0.33.3-rc0"
    }
   },
   {
@@ -695,16 +705,6 @@
     "text": "v0.32.12",
     "title": "v0.32.12",
     "url": "https://github.com/ollama/ollama/releases/tag/v0.32.12"
-   }
-  },
-  {
-   "key": "v0.32.11",
-   "source": "model-ops-ollama",
-   "fields": {
-    "date": "2026-08-14T01:22:12Z",
-    "text": "v0.32.11",
-    "title": "v0.32.11",
-    "url": "https://github.com/ollama/ollama/releases/tag/v0.32.11"
    }
   },
   {

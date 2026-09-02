@@ -1,7 +1,7 @@
 {
  "source": "deadlines",
  "tracker": "deadlines",
- "fetched_at": "2026-09-01T21:21:23Z",
+ "fetched_at": "2026-09-02T11:25:30Z",
  "schema_version": 1,
  "records": [
   {
@@ -473,6 +473,19 @@
    }
   },
   {
+   "key": "close-355499",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "Air Force -- Research Lab",
+    "closes": "2029-07-18",
+    "date": "2029-07-18",
+    "from": "pipeline",
+    "text": "Research and Development (RAD) Directed Energy (RD) University Assistance Instruments",
+    "title": "Research and Development (RAD) Directed Energy (RD) University Assistance Instruments",
+    "url": "https://www.grants.gov/search-results-detail/355499"
+   }
+  },
+  {
    "key": "close-347858",
    "source": "deadlines-solicitations",
    "fields": {
@@ -600,19 +613,6 @@
     "text": "TECHNOLOGY TRANSFER OPPORTUNITY: 3D Lidar for Autonomous Landing Site Selection (GSC-TOPS-353)",
     "title": "TECHNOLOGY TRANSFER OPPORTUNITY: 3D Lidar for Autonomous Landing Site Selection (GSC-TOPS-353)",
     "url": "https://sam.gov/workspace/contract/opp/e68078da34b44580a43f7d97305b3b35/view"
-   }
-  },
-  {
-   "key": "close-cef79c7a0e9742e5bbd82017699f5ac8",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY ACQUISITION SUPPORT CENTER.RAPID CAPABILITIES CRITICAL TECH OFC.W6DV PEO M \u0026 S REDSTONE",
-    "closes": "2026-09-01",
-    "date": "2026-09-01",
-    "from": "pipeline",
-    "text": "Common Autonomous Multi-Domain Launcher (CAML) Autonomous Mobility Platform (AMP) -   Prototype - 36K Lbs. Variant , Leader Prototype, Autonomy Command and Control (C2) and Integration Request for Solutions Brief",
-    "title": "Common Autonomous Multi-Domain Launcher (CAML) Autonomous Mobility Platform (AMP) -   Prototype - 36K Lbs. Variant , Leader Prototype, Autonomy Command and Control (C2) and Integration Request for Solutions Brief",
-    "url": "https://sam.gov/workspace/contract/opp/cef79c7a0e9742e5bbd82017699f5ac8/view"
    }
   },
   {

@@ -1,9 +1,21 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-09-01T21:21:20Z",
+ "fetched_at": "2026-09-02T11:25:27Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-09-02T02:25:27Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "74",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
   {
    "key": "engindearing-projects/OmniTAK-Android",
    "source": "tak-cot",
@@ -26,18 +38,6 @@
     "text": "engindearing-projects/OmniTAK-iOS",
     "title": "engindearing-projects/OmniTAK-iOS",
     "url": "https://github.com/engindearing-projects/OmniTAK-iOS"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-09-01T21:10:10Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "74",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -711,7 +711,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-09-01T20:35:14Z",
+    "date": "2026-09-02T10:45:54Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "32",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -789,12 +789,36 @@
    }
   },
   {
+   "key": "takwerx/cam-depot",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-01T23:41:14Z",
+    "description": "ATAK Plugin: Cam Depot — public traffic and wildfire cameras on the ATAK map, with live video where the agency streams. Downloads, guide and issues here.",
+    "stars": "2",
+    "text": "takwerx/cam-depot",
+    "title": "takwerx/cam-depot",
+    "url": "https://github.com/takwerx/cam-depot"
+   }
+  },
+  {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-01T23:42:45Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "0",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
    "key": "takwerx/traffic",
    "source": "tak-github",
    "fields": {
     "date": "2026-09-01T01:22:01Z",
     "description": "ATAK Plugin: Traffic — live traffic overlay drawn over your own base map, kept refreshing while the map sits still. Downloads, guide and issues here.",
-    "stars": "6",
+    "stars": "7",
     "text": "takwerx/traffic",
     "title": "takwerx/traffic",
     "url": "https://github.com/takwerx/traffic"
@@ -810,18 +834,6 @@
     "text": "takwerx/plss-grid",
     "title": "takwerx/plss-grid",
     "url": "https://github.com/takwerx/plss-grid"
-   }
-  },
-  {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-01T01:22:22Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "0",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
    }
   },
   {
@@ -846,18 +858,6 @@
     "text": "takwerx/map-depot",
     "title": "takwerx/map-depot",
     "url": "https://github.com/takwerx/map-depot"
-   }
-  },
-  {
-   "key": "takwerx/cam-depot",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-08-31T19:00:25Z",
-    "description": "ATAK Plugin: Cam Depot — public traffic and wildfire cameras on the ATAK map, with live video where the agency streams. Downloads, guide and issues here.",
-    "stars": "2",
-    "text": "takwerx/cam-depot",
-    "title": "takwerx/cam-depot",
-    "url": "https://github.com/takwerx/cam-depot"
    }
   },
   {
