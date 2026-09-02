@@ -1,7 +1,7 @@
 {
  "source": "deadlines",
  "tracker": "deadlines",
- "fetched_at": "2026-09-02T11:25:30Z",
+ "fetched_at": "2026-09-02T21:18:41Z",
  "schema_version": 1,
  "records": [
   {
@@ -473,19 +473,6 @@
    }
   },
   {
-   "key": "close-355499",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "Air Force -- Research Lab",
-    "closes": "2029-07-18",
-    "date": "2029-07-18",
-    "from": "pipeline",
-    "text": "Research and Development (RAD) Directed Energy (RD) University Assistance Instruments",
-    "title": "Research and Development (RAD) Directed Energy (RD) University Assistance Instruments",
-    "url": "https://www.grants.gov/search-results-detail/355499"
-   }
-  },
-  {
    "key": "close-347858",
    "source": "deadlines-solicitations",
    "fields": {
@@ -590,16 +577,16 @@
    }
   },
   {
-   "key": "close-e12ecf785bc84bdd8438c40a6035e4e0",
+   "key": "close-74a7dc507af64912bd1c3858d31eea96",
    "source": "deadlines-solicitations",
    "fields": {
     "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR HQ.NAVAL INFORMATION WARFARE SYSTEMS",
-    "closes": "2026-09-10",
-    "date": "2026-09-10",
+    "closes": "2026-09-17",
+    "date": "2026-09-17",
     "from": "pipeline",
     "text": "Generative Artificial Intelligence (GenAI) Electronic Performance Support System (EPSS) under CSO N0003925S001. ",
     "title": "Generative Artificial Intelligence (GenAI) Electronic Performance Support System (EPSS) under CSO N0003925S001. ",
-    "url": "https://sam.gov/workspace/contract/opp/e12ecf785bc84bdd8438c40a6035e4e0/view"
+    "url": "https://sam.gov/workspace/contract/opp/74a7dc507af64912bd1c3858d31eea96/view"
    }
   },
   {
@@ -613,6 +600,32 @@
     "text": "TECHNOLOGY TRANSFER OPPORTUNITY: 3D Lidar for Autonomous Landing Site Selection (GSC-TOPS-353)",
     "title": "TECHNOLOGY TRANSFER OPPORTUNITY: 3D Lidar for Autonomous Landing Site Selection (GSC-TOPS-353)",
     "url": "https://sam.gov/workspace/contract/opp/e68078da34b44580a43f7d97305b3b35/view"
+   }
+  },
+  {
+   "key": "close-ab80e1bb451c429bb291347ada117652",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.SCO ALEXANDRIA.ENGINEER CENTER SUPPORT ACT HUMPHREYS.W4LD USA HECSA",
+    "closes": "2026-09-09",
+    "date": "2026-09-09",
+    "from": "pipeline",
+    "text": "UNMANNED AIRCRAFT SYSTEMS (UAS) FOR USACE",
+    "title": "UNMANNED AIRCRAFT SYSTEMS (UAS) FOR USACE",
+    "url": "https://sam.gov/workspace/contract/opp/ab80e1bb451c429bb291347ada117652/view"
+   }
+  },
+  {
+   "key": "close-84a93ec285a5491cba3bb22d7906cb09",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.SCO ALEXANDRIA.ENGINEER RESEARCH AND DEVELOPMENT CENTER.W2R2 USA ENGR R \u0026 D CTR",
+    "closes": "2026-09-09",
+    "date": "2026-09-09",
+    "from": "pipeline",
+    "text": "Vessel Inspection Tool (Unmanned Aerial System)",
+    "title": "Vessel Inspection Tool (Unmanned Aerial System)",
+    "url": "https://sam.gov/workspace/contract/opp/84a93ec285a5491cba3bb22d7906cb09/view"
    }
   },
   {
