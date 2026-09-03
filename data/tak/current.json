@@ -1,14 +1,26 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-09-02T21:18:39Z",
+ "fetched_at": "2026-09-03T11:21:26Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "joshuafuller/SRTM2TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-09-03T01:37:31Z",
+    "description": "Progressive Web App to download and package SRTM elevation data for ATAK (Android Team Awareness Kit). Features offline caching, concurrent downloads, and automatic ZIP packaging for direct import into ATAK.",
+    "stars": "10",
+    "text": "joshuafuller/SRTM2TAK",
+    "title": "joshuafuller/SRTM2TAK",
+    "url": "https://github.com/joshuafuller/SRTM2TAK"
+   }
+  },
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-09-02T20:19:35Z",
+    "date": "2026-09-03T05:18:46Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "74",
     "text": "takwerx/infra-TAK",
@@ -122,18 +134,6 @@
     "text": "snstac/dronecot",
     "title": "snstac/dronecot",
     "url": "https://github.com/snstac/dronecot"
-   }
-  },
-  {
-   "key": "joshuafuller/SRTM2TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-08-11T21:07:17Z",
-    "description": "Progressive Web App to download and package SRTM elevation data for ATAK (Android Team Awareness Kit). Features offline caching, concurrent downloads, and automatic ZIP packaging for direct import into ATAK.",
-    "stars": "10",
-    "text": "joshuafuller/SRTM2TAK",
-    "title": "joshuafuller/SRTM2TAK",
-    "url": "https://github.com/joshuafuller/SRTM2TAK"
    }
   },
   {
@@ -789,6 +789,18 @@
    }
   },
   {
+   "key": "takwerx/takwerx-market",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-03T05:45:52Z",
+    "description": "ATAK Plugin: TAKwerx Market — install and update takwerx plugins from inside ATAK. Downloads, guide and issues here.",
+    "stars": "0",
+    "text": "takwerx/takwerx-market",
+    "title": "takwerx/takwerx-market",
+    "url": "https://github.com/takwerx/takwerx-market"
+   }
+  },
+  {
    "key": "takwerx/cam-depot",
    "source": "tak-github",
    "fields": {
@@ -804,7 +816,7 @@
    "key": "takwerx/atak-plugins",
    "source": "tak-github",
    "fields": {
-    "date": "2026-09-01T23:42:45Z",
+    "date": "2026-09-03T07:29:12Z",
     "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
     "stars": "0",
     "text": "takwerx/atak-plugins",
@@ -1118,17 +1130,6 @@
     "text": "xznhj8129/hermes-atak",
     "title": "xznhj8129/hermes-atak",
     "url": "https://github.com/xznhj8129/hermes-atak"
-   }
-  },
-  {
-   "key": "shigeki7299/ATAK_Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-07-25T17:29:57Z",
-    "stars": "0",
-    "text": "shigeki7299/ATAK_Plugin",
-    "title": "shigeki7299/ATAK_Plugin",
-    "url": "https://github.com/shigeki7299/ATAK_Plugin"
    }
   },
   {

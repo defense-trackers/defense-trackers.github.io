@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-09-02T21:17:08Z",
+ "fetched_at": "2026-09-03T11:19:55Z",
  "schema_version": 1,
  "records": [
   {
@@ -21,7 +21,7 @@
    "source": "ai-spending-contracts",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "6.500650075e+07",
+    "amount": "7.28194042e+07",
     "description": "CONTRACT TO RESEARCH, DEVELOP, MODIFY, DEPLOY, OPERATE, AND MAINTAIN ARTIFICIAL INTELLIGENCE/MACHINE LEARNING (AI/ML) ALGORITHMS AND MODELS.",
     "text": "ECS FEDERAL, LLC",
     "title": "ECS FEDERAL, LLC",
@@ -197,6 +197,18 @@
    }
   },
   {
+   "key": "CONT_AWD_HQ003424F0362_9700_GS00Q14OADU141_4732",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1.012400864e+07",
+    "description": "CHIEF DIGITAL AND ARTIFICIAL INTELLIGENCE OFFICE SUPPLY CHAIN RISK EVALUATION ENVIRONMENT PLATFORM DEVELOPMENT SUPPORT.",
+    "text": "LMI CONSULTING, LLC",
+    "title": "LMI CONSULTING, LLC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_HQ003424F0362_9700_GS00Q14OADU141_4732/"
+   }
+  },
+  {
    "key": "CONT_AWD_HR001124C0309_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
@@ -206,18 +218,6 @@
     "text": "SYSTEMS \u0026 TECHNOLOGY RESEARCH LLC",
     "title": "SYSTEMS \u0026 TECHNOLOGY RESEARCH LLC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_HR001124C0309_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_HQ003424F0362_9700_GS00Q14OADU141_4732",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "9.86721722e+06",
-    "description": "CHIEF DIGITAL AND ARTIFICIAL INTELLIGENCE OFFICE SUPPLY CHAIN RISK EVALUATION ENVIRONMENT PLATFORM DEVELOPMENT SUPPORT.",
-    "text": "LMI CONSULTING, LLC",
-    "title": "LMI CONSULTING, LLC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_HQ003424F0362_9700_GS00Q14OADU141_4732/"
    }
   },
   {
@@ -560,7 +560,7 @@
    "key": "806026852",
    "source": "ai-spending-recipients",
    "fields": {
-    "amount": "7.671454831e+07",
+    "amount": "8.452745176e+07",
     "text": "ECS FEDERAL, LLC",
     "title": "ECS FEDERAL, LLC",
     "url": "https://www.usaspending.gov/search"
