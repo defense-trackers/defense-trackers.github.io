@@ -1,7 +1,7 @@
 {
  "source": "deadlines",
  "tracker": "deadlines",
- "fetched_at": "2026-09-03T11:21:28Z",
+ "fetched_at": "2026-09-03T21:21:43Z",
  "schema_version": 1,
  "records": [
   {
@@ -252,6 +252,19 @@
    }
   },
   {
+   "key": "close-363797",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "National Energy Technology Laboratory",
+    "closes": "2026-10-05",
+    "date": "2026-10-05",
+    "from": "pipeline",
+    "text": "Request for Information - Gauging Investor Interest in the Development and Commercialization of Subsurface Energy Technologies",
+    "title": "Request for Information - Gauging Investor Interest in the Development and Commercialization of Subsurface Energy Technologies",
+    "url": "https://www.grants.gov/search-results-detail/363797"
+   }
+  },
+  {
    "key": "close-363724",
    "source": "deadlines-solicitations",
    "fields": {
@@ -457,19 +470,6 @@
     "text": "DoW Peer Reviewed Medical, Platform Clinical Translation Award",
     "title": "DoW Peer Reviewed Medical, Platform Clinical Translation Award",
     "url": "https://www.grants.gov/search-results-detail/362329"
-   }
-  },
-  {
-   "key": "close-355499",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "Air Force -- Research Lab",
-    "closes": "2029-07-18",
-    "date": "2029-07-18",
-    "from": "pipeline",
-    "text": "Research and Development (RAD) Directed Energy (RD) University Assistance Instruments",
-    "title": "Research and Development (RAD) Directed Energy (RD) University Assistance Instruments",
-    "url": "https://www.grants.gov/search-results-detail/355499"
    }
   },
   {

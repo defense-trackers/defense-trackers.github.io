@@ -1,9 +1,19 @@
 {
  "source": "authorizations",
  "tracker": "authorizations",
- "fetched_at": "2026-09-03T11:19:57Z",
+ "fetched_at": "2026-09-03T21:20:15Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "FR2610538972",
+   "source": "authorizations-fedramp",
+   "fields": {
+    "date": "2026-09-01T20:00:00.000Z",
+    "status": "Now Authorized",
+    "text": "Bizzdesign GovCloud",
+    "title": "Bizzdesign GovCloud"
+   }
+  },
   {
    "key": "FR2600545894",
    "source": "authorizations-fedramp",
@@ -22,16 +32,6 @@
     "status": "Now Authorized",
     "text": "Tyler Federal Cloud Platform (TFCP)",
     "title": "Tyler Federal Cloud Platform (TFCP)"
-   }
-  },
-  {
-   "key": "FR2513256853",
-   "source": "authorizations-fedramp",
-   "fields": {
-    "date": "2026-08-21T20:00:00.000Z",
-    "status": "Now Authorized",
-    "text": "The Armory",
-    "title": "The Armory"
    }
   },
   {
@@ -1514,20 +1514,6 @@
    }
   },
   {
-   "key": "FR2525662082",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "model": "SaaS",
-    "status": "Agency In Process",
-    "text": "Infinity for Government (NXT-G)",
-    "title": "Infinity for Government (NXT-G)",
-    "url": "https://nexthink.com/platform/government"
-   }
-  },
-  {
    "key": "FR2430847803",
    "source": "authorizations-fedramp-ai",
    "fields": {
@@ -2183,20 +2169,6 @@
    }
   },
   {
-   "key": "FR2333543855",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "model": "SaaS",
-    "status": "Agency In Process",
-    "text": "Thomson Reuters Risk \u0026 Fraud (TR R\u0026F)",
-    "title": "Thomson Reuters Risk \u0026 Fraud (TR R\u0026F)",
-    "url": "https://legal.thomsonreuters.com/en/products/clear"
-   }
-  },
-  {
    "key": "FR2502148523",
    "source": "authorizations-fedramp-ai",
    "fields": {
@@ -2208,6 +2180,20 @@
     "text": "Thomson Reuters Legal Research (TR LR)",
     "title": "Thomson Reuters Legal Research (TR LR)",
     "url": "https://legal.thomsonreuters.com/en/westlaw"
+   }
+  },
+  {
+   "key": "FR2333543855",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "Not Active",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "Agency In Process",
+    "text": "Thomson Reuters Risk \u0026 Fraud (TR R\u0026F)",
+    "title": "Thomson Reuters Risk \u0026 Fraud (TR R\u0026F)",
+    "url": "https://legal.thomsonreuters.com/en/products/clear"
    }
   },
   {
@@ -2267,20 +2253,6 @@
    }
   },
   {
-   "key": "FR2226228379",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Fortreum, LLC",
-    "date": "2024-11-22T20:00:00.000Z",
-    "impact": "Moderate",
-    "model": "SaaS",
-    "status": "FedRAMP Authorized",
-    "text": "Trend Cloud One for Government",
-    "title": "Trend Cloud One for Government",
-    "url": "https://www.trendmicro.com/en_us/business/capabilities/solutions-for/federal-government/cloud-security.html"
-   }
-  },
-  {
    "key": "FR2226231529",
    "source": "authorizations-fedramp-ai",
    "fields": {
@@ -2292,6 +2264,20 @@
     "text": "Trend Vision One for Government",
     "title": "Trend Vision One for Government",
     "url": "https://www.trendmicro.com/en_us/business/capabilities/solutions-for/federal-government/security-operations.html"
+   }
+  },
+  {
+   "key": "FR2226228379",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Fortreum, LLC",
+    "date": "2024-11-22T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Trend Cloud One for Government",
+    "title": "Trend Cloud One for Government",
+    "url": "https://www.trendmicro.com/en_us/business/capabilities/solutions-for/federal-government/cloud-security.html"
    }
   },
   {
@@ -2378,30 +2364,30 @@
    }
   },
   {
-   "key": "FR2525556241",
+   "key": "FR2525556241XM",
    "source": "authorizations-fedramp-ai",
    "fields": {
     "assessor": "Schellman Compliance, LLC",
-    "date": "2025-07-25T20:00:00.000Z",
-    "impact": "20x Low",
+    "date": "2026-04-24T20:00:00.000Z",
+    "impact": "20x Moderate",
     "model": "SaaS",
     "status": "FedRAMP Authorized",
-    "text": "Vanta Trust Management Platform",
-    "title": "Vanta Trust Management Platform",
+    "text": "Vanta Government Cloud",
+    "title": "Vanta Government Cloud",
     "url": "https://www.vanta.com/"
    }
   },
   {
-   "key": "FR2421252636",
+   "key": "FR2421252644",
    "source": "authorizations-fedramp-ai",
    "fields": {
     "assessor": "Schellman Compliance, LLC",
-    "date": "2025-05-14T20:00:00.000Z",
+    "date": "2025-06-16T20:00:00.000Z",
     "impact": "Moderate",
     "model": "SaaS",
     "status": "FedRAMP Authorized",
-    "text": "Varonis Data Security Platform",
-    "title": "Varonis Data Security Platform",
+    "text": "Varonis DatAdvantage Cloud",
+    "title": "Varonis DatAdvantage Cloud",
     "url": "https://www.varonis.com"
    }
   },
