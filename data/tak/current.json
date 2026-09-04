@@ -1,7 +1,7 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-09-03T21:21:41Z",
+ "fetched_at": "2026-09-04T11:24:43Z",
  "schema_version": 1,
  "records": [
   {
@@ -20,7 +20,7 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-09-03T17:09:11Z",
+    "date": "2026-09-04T05:45:30Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "74",
     "text": "takwerx/infra-TAK",
@@ -713,7 +713,7 @@
    "fields": {
     "date": "2026-09-02T10:45:54Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
-    "stars": "32",
+    "stars": "33",
     "text": "FreeTAKTeam/LXMF-rs",
     "title": "FreeTAKTeam/LXMF-rs",
     "url": "https://github.com/FreeTAKTeam/LXMF-rs"
@@ -789,12 +789,48 @@
    }
   },
   {
+   "key": "jxtngx/cursor-kotlin-factory",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-04T09:51:53Z",
+    "description": "Factory for Kotlin + Jetpack Compose. Default track: ATAK-CIV / CivTAK plugin.",
+    "stars": "0",
+    "text": "jxtngx/cursor-kotlin-factory",
+    "title": "jxtngx/cursor-kotlin-factory",
+    "url": "https://github.com/jxtngx/cursor-kotlin-factory"
+   }
+  },
+  {
+   "key": "takwerx/map-depot",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-04T07:28:13Z",
+    "description": "ATAK Plugin: Map Depot — download elevation, base maps and offline public-lands maps from inside ATAK. Downloads, guide and issues here.",
+    "stars": "5",
+    "text": "takwerx/map-depot",
+    "title": "takwerx/map-depot",
+    "url": "https://github.com/takwerx/map-depot"
+   }
+  },
+  {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-04T07:28:43Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "0",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
    "key": "takwerx/takwerx-market",
    "source": "tak-github",
    "fields": {
-    "date": "2026-09-03T05:45:52Z",
+    "date": "2026-09-04T02:42:51Z",
     "description": "ATAK Plugin: TAKwerx Market — install and update takwerx plugins from inside ATAK. Downloads, guide and issues here.",
-    "stars": "0",
+    "stars": "1",
     "text": "takwerx/takwerx-market",
     "title": "takwerx/takwerx-market",
     "url": "https://github.com/takwerx/takwerx-market"
@@ -810,18 +846,6 @@
     "text": "takwerx/cam-depot",
     "title": "takwerx/cam-depot",
     "url": "https://github.com/takwerx/cam-depot"
-   }
-  },
-  {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-03T20:42:44Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "0",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
    }
   },
   {
@@ -858,18 +882,6 @@
     "text": "TX-RX/TAK-XVoice",
     "title": "TX-RX/TAK-XVoice",
     "url": "https://github.com/TX-RX/TAK-XVoice"
-   }
-  },
-  {
-   "key": "takwerx/map-depot",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-08-31T19:56:43Z",
-    "description": "ATAK Plugin: Map Depot — download elevation, base maps and offline public-lands maps from inside ATAK. Downloads, guide and issues here.",
-    "stars": "5",
-    "text": "takwerx/map-depot",
-    "title": "takwerx/map-depot",
-    "url": "https://github.com/takwerx/map-depot"
    }
   },
   {
@@ -1118,18 +1130,6 @@
     "text": "jpat-12/TAKPortal-Plugin-HostedATAKPlugins",
     "title": "jpat-12/TAKPortal-Plugin-HostedATAKPlugins",
     "url": "https://github.com/jpat-12/TAKPortal-Plugin-HostedATAKPlugins"
-   }
-  },
-  {
-   "key": "xznhj8129/hermes-atak",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-07-27T05:37:38Z",
-    "description": "Hermes skill and platform plugin for ATAK and OpenTAKServer integration",
-    "stars": "0",
-    "text": "xznhj8129/hermes-atak",
-    "title": "xznhj8129/hermes-atak",
-    "url": "https://github.com/xznhj8129/hermes-atak"
    }
   },
   {

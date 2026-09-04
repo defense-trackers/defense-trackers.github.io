@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-09-03T21:21:43Z",
+ "fetched_at": "2026-09-04T11:24:46Z",
  "schema_version": 1,
  "records": [
   {
@@ -309,7 +309,7 @@
    "source": "transition-prototype",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "4.147992534e+07",
+    "amount": "4.247992534e+07",
     "description": "TECHNICAL DEVELOPMENT OF NAVY PROTOTYPE UNITS INCLUDING THE DEVELOPMENT OF PRODUCTION-READY EPS UNITS TO REPRESENT NEAR FINAL PRODUCT LEVEL DESIGN AND ENGINEERING FOR INSTALLATION ONBOARD NAVY PLATFORMS.",
     "text": "L3HARRIS NEXGEN COMMUNICATIONS LLC",
     "title": "L3HARRIS NEXGEN COMMUNICATIONS LLC",
@@ -477,7 +477,7 @@
    "source": "transition-prototype",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "2.759563586e+07",
+    "amount": "2.784563586e+07",
     "description": "ENGINEERING AND TECHNICAL SUPPORT FOR THE TEST AND EVALUATION AND PROTOTYPE FABRICATION DIVISION",
     "text": "BEVILACQUA RESEARCH CORPORATION",
     "title": "BEVILACQUA RESEARCH CORPORATION",
@@ -743,7 +743,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "1.277951265885e+10",
+    "amount": "1.277951534085e+10",
     "award_id": "N0002416C2116",
     "description": "CVN 80 ENGINEERING EFFORTS AND STEEL",
     "text": "HUNTINGTON INGALLS INC",
@@ -860,7 +860,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "9.25708798537e+09",
+    "amount": "9.37153386169e+09",
     "award_id": "HT940223C0001",
     "description": "TRICARE MANAGED CARE SUPPORT SERVICES CONTRACT, 5TH GENERATION EAST REGION",
     "text": "HUMANA GOVERNMENT BUSINESS INC",
@@ -938,7 +938,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "8.48533461967e+09",
+    "amount": "8.48735806067e+09",
     "award_id": "N0001918C1037",
     "description": "E-2D ADVANCED HAWKEYE AIRCRAFT (FRP-7)",
     "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
@@ -1024,6 +1024,19 @@
    }
   },
   {
+   "key": "CONT_AWD_FA881018C0005_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "7.47576315172e+09",
+    "award_id": "FA881018C0005",
+    "description": "NEXT GENERATION OVERHEAD PERSISTENT INFRARED GEOSYNCHRONOUS EARTH ORBIT SPACE VEHICLE 1-3 PHASE 1",
+    "text": "LOCKHEED MARTIN CORP",
+    "title": "LOCKHEED MARTIN CORP",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA881018C0005_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_W58RGZ16C0023_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -1034,19 +1047,6 @@
     "text": "THE BOEING COMPANY",
     "title": "THE BOEING COMPANY",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ16C0023_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_FA881018C0005_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "7.46960809472e+09",
-    "award_id": "FA881018C0005",
-    "description": "NEXT GENERATION OVERHEAD PERSISTENT INFRARED GEOSYNCHRONOUS EARTH ORBIT SPACE VEHICLE 1-3 PHASE 1",
-    "text": "LOCKHEED MARTIN CORP",
-    "title": "LOCKHEED MARTIN CORP",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_FA881018C0005_9700_-NONE-_-NONE-/"
    }
   },
   {
