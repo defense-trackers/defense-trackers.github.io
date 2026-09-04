@@ -1,9 +1,33 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-09-04T11:24:43Z",
+ "fetched_at": "2026-09-04T21:03:48Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-09-04T20:54:20Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "74",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
+  {
+   "key": "rixau/atak-reactive",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-09-04T14:54:39Z",
+    "description": "Build ATAK (Android Team Awareness Kit) plugin UIs with React and TypeScript. Typed WebView bridge, hot reload, incremental adoption.",
+    "stars": "2",
+    "text": "rixau/atak-reactive",
+    "title": "rixau/atak-reactive",
+    "url": "https://github.com/rixau/atak-reactive"
+   }
+  },
   {
    "key": "joshuafuller/SRTM2TAK",
    "source": "tak-cot",
@@ -14,18 +38,6 @@
     "text": "joshuafuller/SRTM2TAK",
     "title": "joshuafuller/SRTM2TAK",
     "url": "https://github.com/joshuafuller/SRTM2TAK"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-09-04T05:45:30Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "74",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -62,18 +74,6 @@
     "text": "trakbridge/trakbridge",
     "title": "trakbridge/trakbridge",
     "url": "https://github.com/trakbridge/trakbridge"
-   }
-  },
-  {
-   "key": "rixau/atak-reactive",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-08-29T17:18:20Z",
-    "description": "Build ATAK (Android Team Awareness Kit) plugin UIs with React and TypeScript. Typed WebView bridge, hot reload, incremental adoption.",
-    "stars": "2",
-    "text": "rixau/atak-reactive",
-    "title": "rixau/atak-reactive",
-    "url": "https://github.com/rixau/atak-reactive"
    }
   },
   {
@@ -789,6 +789,17 @@
    }
   },
   {
+   "key": "jpat-12/TAK-PluginSuite-ATAK_ICU",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-04T16:12:49Z",
+    "stars": "8",
+    "text": "jpat-12/TAK-PluginSuite-ATAK_ICU",
+    "title": "jpat-12/TAK-PluginSuite-ATAK_ICU",
+    "url": "https://github.com/jpat-12/TAK-PluginSuite-ATAK_ICU"
+   }
+  },
+  {
    "key": "jxtngx/cursor-kotlin-factory",
    "source": "tak-github",
    "fields": {
@@ -889,7 +900,7 @@
    "source": "tak-github",
    "fields": {
     "date": "2026-08-30T19:29:11Z",
-    "stars": "52",
+    "stars": "53",
     "text": "Hellikandra/ATAK-Weather-Plugin",
     "title": "Hellikandra/ATAK-Weather-Plugin",
     "url": "https://github.com/Hellikandra/ATAK-Weather-Plugin"
@@ -917,17 +928,6 @@
     "text": "RyanR3/TakVideoWall",
     "title": "RyanR3/TakVideoWall",
     "url": "https://github.com/RyanR3/TakVideoWall"
-   }
-  },
-  {
-   "key": "jpat-12/TAK-PluginSuite-ATAK_ICU",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-08-22T03:31:15Z",
-    "stars": "8",
-    "text": "jpat-12/TAK-PluginSuite-ATAK_ICU",
-    "title": "jpat-12/TAK-PluginSuite-ATAK_ICU",
-    "url": "https://github.com/jpat-12/TAK-PluginSuite-ATAK_ICU"
    }
   },
   {
