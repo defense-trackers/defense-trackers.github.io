@@ -1,7 +1,7 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-09-05T10:41:42Z",
+ "fetched_at": "2026-09-05T20:44:23Z",
  "schema_version": 1,
  "records": [
   {
@@ -22,7 +22,7 @@
    "fields": {
     "date": "2026-09-04T20:54:20Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "74",
+    "stars": "75",
     "text": "takwerx/infra-TAK",
     "title": "takwerx/infra-TAK",
     "url": "https://github.com/takwerx/infra-TAK"
@@ -789,6 +789,30 @@
    }
   },
   {
+   "key": "takwerx/map-depot",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-05T17:31:46Z",
+    "description": "ATAK Plugin: Map Depot — download elevation, base maps and offline public-lands maps from inside ATAK. Downloads, guide and issues here.",
+    "stars": "6",
+    "text": "takwerx/map-depot",
+    "title": "takwerx/map-depot",
+    "url": "https://github.com/takwerx/map-depot"
+   }
+  },
+  {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-05T17:32:23Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "1",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
    "key": "jpat-12/TAK-PluginSuite-ATAK_ICU",
    "source": "tak-github",
    "fields": {
@@ -812,36 +836,12 @@
    }
   },
   {
-   "key": "takwerx/map-depot",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-04T07:28:13Z",
-    "description": "ATAK Plugin: Map Depot — download elevation, base maps and offline public-lands maps from inside ATAK. Downloads, guide and issues here.",
-    "stars": "5",
-    "text": "takwerx/map-depot",
-    "title": "takwerx/map-depot",
-    "url": "https://github.com/takwerx/map-depot"
-   }
-  },
-  {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-04T07:28:43Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "0",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
-   }
-  },
-  {
    "key": "takwerx/takwerx-market",
    "source": "tak-github",
    "fields": {
     "date": "2026-09-04T02:42:51Z",
     "description": "ATAK Plugin: TAKwerx Market — install and update takwerx plugins from inside ATAK. Downloads, guide and issues here.",
-    "stars": "4",
+    "stars": "6",
     "text": "takwerx/takwerx-market",
     "title": "takwerx/takwerx-market",
     "url": "https://github.com/takwerx/takwerx-market"
@@ -853,7 +853,7 @@
    "fields": {
     "date": "2026-09-01T23:41:14Z",
     "description": "ATAK Plugin: Cam Depot — public traffic and wildfire cameras on the ATAK map, with live video where the agency streams. Downloads, guide and issues here.",
-    "stars": "3",
+    "stars": "4",
     "text": "takwerx/cam-depot",
     "title": "takwerx/cam-depot",
     "url": "https://github.com/takwerx/cam-depot"
@@ -865,7 +865,7 @@
    "fields": {
     "date": "2026-09-01T01:22:01Z",
     "description": "ATAK Plugin: Traffic — live traffic overlay drawn over your own base map, kept refreshing while the map sits still. Downloads, guide and issues here.",
-    "stars": "9",
+    "stars": "10",
     "text": "takwerx/traffic",
     "title": "takwerx/traffic",
     "url": "https://github.com/takwerx/traffic"
@@ -877,7 +877,7 @@
    "fields": {
     "date": "2026-09-01T01:21:55Z",
     "description": "ATAK Plugin: PLSS Grid — township, range and section overlay from BLM survey data. Downloads, guide and issues here.",
-    "stars": "1",
+    "stars": "2",
     "text": "takwerx/plss-grid",
     "title": "takwerx/plss-grid",
     "url": "https://github.com/takwerx/plss-grid"
@@ -1068,7 +1068,7 @@
    "fields": {
     "date": "2026-08-07T18:14:04Z",
     "description": "ATAK plugin for SOOTHSAYER",
-    "stars": "14",
+    "stars": "15",
     "text": "Cloud-RF/SOOTHSAYER-ATAK-plugin",
     "title": "Cloud-RF/SOOTHSAYER-ATAK-plugin",
     "url": "https://github.com/Cloud-RF/SOOTHSAYER-ATAK-plugin"
