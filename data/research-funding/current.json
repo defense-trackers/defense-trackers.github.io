@@ -1,23 +1,9 @@
 {
  "source": "research-funding",
  "tracker": "research-funding",
- "fetched_at": "2026-09-04T21:03:39Z",
+ "fetched_at": "2026-09-05T10:41:33Z",
  "schema_version": 1,
  "records": [
-  {
-   "key": "2625501",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "240000",
-    "awardee": "Lehigh University",
-    "date": "04/01/2027",
-    "program": "CSCS: Circuits and Systems for",
-    "text": "Collaborative Research: CCSS: Semantic-Aware Collaborative Perception and Networking for Autonomous Urban Mobility",
-    "title": "Collaborative Research: CCSS: Semantic-Aware Collaborative Perception and Networking for Autonomous Urban Mobility",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2625501"
-   }
-  },
   {
    "key": "2625502",
    "source": "research-nsf",
@@ -30,6 +16,20 @@
     "text": "Collaborative Research: CCSS: Semantic-Aware Collaborative Perception and Networking for Autonomous Urban Mobility",
     "title": "Collaborative Research: CCSS: Semantic-Aware Collaborative Perception and Networking for Autonomous Urban Mobility",
     "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2625502"
+   }
+  },
+  {
+   "key": "2625501",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "240000",
+    "awardee": "Lehigh University",
+    "date": "04/01/2027",
+    "program": "CSCS: Circuits and Systems for",
+    "text": "Collaborative Research: CCSS: Semantic-Aware Collaborative Perception and Networking for Autonomous Urban Mobility",
+    "title": "Collaborative Research: CCSS: Semantic-Aware Collaborative Perception and Networking for Autonomous Urban Mobility",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2625501"
    }
   },
   {
@@ -61,20 +61,6 @@
    }
   },
   {
-   "key": "2619080",
-   "source": "research-nsf",
-   "fields": {
-    "agency": "NSF",
-    "amount": "120000",
-    "awardee": "Texas A\u0026M University",
-    "date": "01/01/2027",
-    "program": "CSCS: Circuits and Systems for",
-    "text": "Collaborative Research: A Subspace Optimization Framework for Resource-Efficient and Private Fine-Tuning of Large Language Models",
-    "title": "Collaborative Research: A Subspace Optimization Framework for Resource-Efficient and Private Fine-Tuning of Large Language Models",
-    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2619080"
-   }
-  },
-  {
    "key": "2619079",
    "source": "research-nsf",
    "fields": {
@@ -100,6 +86,20 @@
     "text": "EPSCoR Research Fellows: NSF: AI-Secure Command Channels for Autonomous Space Systems",
     "title": "EPSCoR Research Fellows: NSF: AI-Secure Command Channels for Autonomous Space Systems",
     "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2624437"
+   }
+  },
+  {
+   "key": "2619080",
+   "source": "research-nsf",
+   "fields": {
+    "agency": "NSF",
+    "amount": "120000",
+    "awardee": "Texas A\u0026M University",
+    "date": "01/01/2027",
+    "program": "CSCS: Circuits and Systems for",
+    "text": "Collaborative Research: A Subspace Optimization Framework for Resource-Efficient and Private Fine-Tuning of Large Language Models",
+    "title": "Collaborative Research: A Subspace Optimization Framework for Resource-Efficient and Private Fine-Tuning of Large Language Models",
+    "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2619080"
    }
   },
   {

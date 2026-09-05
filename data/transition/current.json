@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-09-04T21:03:50Z",
+ "fetched_at": "2026-09-05T10:41:45Z",
  "schema_version": 1,
  "records": [
   {
@@ -293,6 +293,18 @@
    }
   },
   {
+   "key": "CONT_AWD_N0017326F2403_9700_N0017322D2001_9700",
+   "source": "transition-prototype",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "4.428592636e+07",
+    "description": "THE TECHNICAL DEVELOPMENT OF NAVY RESEARCH PROTOTYPE UNITS HAS ADVANCED TO THE DEVELOPMENT OF PRODUCTION-READY ENGINEERING PRODUCTION SYSTEMS (EPS) UNITS TO REPRESENT FINAL PRODUCT LEVEL DESIGN READY FOR INSTALLATION ONBOARD NAVY PLATFORMS.",
+    "text": "L3HARRIS NEXGEN COMMUNICATIONS LLC",
+    "title": "L3HARRIS NEXGEN COMMUNICATIONS LLC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_N0017326F2403_9700_N0017322D2001_9700/"
+   }
+  },
+  {
    "key": "CONT_AWD_N0017819F3012_9700_N0017814D7995_9700",
    "source": "transition-prototype",
    "fields": {
@@ -434,18 +446,6 @@
     "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
     "title": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
     "url": "https://www.usaspending.gov/award/CONT_AWD_HQ072723F1410_9700_HQ072716D0004_9700/"
-   }
-  },
-  {
-   "key": "CONT_AWD_N0017326F2403_9700_N0017322D2001_9700",
-   "source": "transition-prototype",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "3.002635536e+07",
-    "description": "THE TECHNICAL DEVELOPMENT OF NAVY RESEARCH PROTOTYPE UNITS HAS ADVANCED TO THE DEVELOPMENT OF PRODUCTION-READY ENGINEERING PRODUCTION SYSTEMS (EPS) UNITS TO REPRESENT FINAL PRODUCT LEVEL DESIGN READY FOR INSTALLATION ONBOARD NAVY PLATFORMS.",
-    "text": "L3HARRIS NEXGEN COMMUNICATIONS LLC",
-    "title": "L3HARRIS NEXGEN COMMUNICATIONS LLC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_N0017326F2403_9700_N0017322D2001_9700/"
    }
   },
   {
@@ -743,7 +743,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "1.277951534085e+10",
+    "amount": "1.279409867285e+10",
     "award_id": "N0002416C2116",
     "description": "CVN 80 ENGINEERING EFFORTS AND STEEL",
     "text": "HUNTINGTON INGALLS INC",
@@ -973,19 +973,6 @@
    }
   },
   {
-   "key": "CONT_AWD_N0001921C0020_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "7.9532641305e+09",
-    "award_id": "N0001921C0020",
-    "description": "FY21-23 GLOBAL F-35 AIR SYSTEM SUSTAINMENT",
-    "text": "LOCKHEED MARTIN CORPORATION",
-    "title": "LOCKHEED MARTIN CORPORATION",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_N0001921C0020_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
    "key": "CONT_AWD_N0001924C0039_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -1203,6 +1190,19 @@
     "text": "THE BOEING COMPANY",
     "title": "THE BOEING COMPANY",
     "url": "https://www.usaspending.gov/award/CONT_AWD_HQ014712C0004_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_W56HZV15C0095_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "6.1042088709e+09",
+    "award_id": "W56HZV15C0095",
+    "description": "THE CONTRACT INCLUDES FIRM FIXED PRICE (FFP) CONTACT LINE ITEM NUMBERS (CLIN) FOR VEHICLES, TRAILERS, KITS (PACKAGED AND INSTALLED), TEST HARDWARE AND SUPPORT, VEHICLE REFURBISHMENT, SYSTEMS ENGINEERING/ PROGRAM MANAGEMENT (SEPM), STORAGE AND MAINTENANCE OF VEHICLES, VEHICLE REFURBISHMENT, INTEGRATED PRODUCT SUPPORT (IPS), AND A TECHNICAL DATA PACKAGE (TDP).  THE CONTRACT ALSO INCLUDES COST PLUS FIXED FEE (CPFF) CLINS FOR SYSTEM TECHNICAL SUPPORT (STS), TOTAL PACKAGE FIELDING (TPF), AND INTERIM CONTRACTOR SUPPORT (ICS).  THE CONTRACT CONTAINS PROVISIONS FOR AN ECONOMIC PRICE ADJUSTMENT (EPA) FOR MATERIAL FLUCTUATIONS FOR THE VEHICLES PROCURED IN OPTION PERIODS SIX, SEVEN, AND EIGHT.",
+    "text": "OSHKOSH DEFENSE LLC",
+    "title": "OSHKOSH DEFENSE LLC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W56HZV15C0095_9700_-NONE-_-NONE-/"
    }
   }
  ]
