@@ -1,7 +1,7 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-09-05T20:44:23Z",
+ "fetched_at": "2026-09-06T11:03:30Z",
  "schema_version": 1,
  "records": [
   {
@@ -789,12 +789,36 @@
    }
   },
   {
+   "key": "HardlineLabs/hardline-relay-atak-plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-06T07:08:43Z",
+    "description": "Low-bandwidth Meshtastic PLI and native point sharing in ATAK, with offline channel profiles and independent mesh status. A hobby project.",
+    "stars": "0",
+    "text": "HardlineLabs/hardline-relay-atak-plugin",
+    "title": "HardlineLabs/hardline-relay-atak-plugin",
+    "url": "https://github.com/HardlineLabs/hardline-relay-atak-plugin"
+   }
+  },
+  {
+   "key": "RyanR3/TakVideoWall",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-06T04:17:16Z",
+    "description": "ATAK plugin for simultaneous multi-stream video monitoring: adaptive 2×2 paged grid, CoT-based feed discovery, snap-to-sender map integration.",
+    "stars": "5",
+    "text": "RyanR3/TakVideoWall",
+    "title": "RyanR3/TakVideoWall",
+    "url": "https://github.com/RyanR3/TakVideoWall"
+   }
+  },
+  {
    "key": "takwerx/map-depot",
    "source": "tak-github",
    "fields": {
     "date": "2026-09-05T17:31:46Z",
     "description": "ATAK Plugin: Map Depot — download elevation, base maps and offline public-lands maps from inside ATAK. Downloads, guide and issues here.",
-    "stars": "6",
+    "stars": "7",
     "text": "takwerx/map-depot",
     "title": "takwerx/map-depot",
     "url": "https://github.com/takwerx/map-depot"
@@ -916,18 +940,6 @@
     "text": "AkitaEngineering/Akita-MeshTAK",
     "title": "AkitaEngineering/Akita-MeshTAK",
     "url": "https://github.com/AkitaEngineering/Akita-MeshTAK"
-   }
-  },
-  {
-   "key": "RyanR3/TakVideoWall",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-08-26T04:22:55Z",
-    "description": "ATAK plugin for simultaneous multi-stream video monitoring: adaptive 2×2 paged grid, CoT-based feed discovery, snap-to-sender map integration.",
-    "stars": "5",
-    "text": "RyanR3/TakVideoWall",
-    "title": "RyanR3/TakVideoWall",
-    "url": "https://github.com/RyanR3/TakVideoWall"
    }
   },
   {
@@ -1119,17 +1131,6 @@
     "text": "Moicanox/TAK-Server-Provisioner",
     "title": "Moicanox/TAK-Server-Provisioner",
     "url": "https://github.com/Moicanox/TAK-Server-Provisioner"
-   }
-  },
-  {
-   "key": "jpat-12/TAKPortal-Plugin-HostedATAKPlugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-08-01T05:19:47Z",
-    "stars": "1",
-    "text": "jpat-12/TAKPortal-Plugin-HostedATAKPlugins",
-    "title": "jpat-12/TAKPortal-Plugin-HostedATAKPlugins",
-    "url": "https://github.com/jpat-12/TAKPortal-Plugin-HostedATAKPlugins"
    }
   },
   {
