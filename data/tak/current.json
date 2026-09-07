@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-09-06T20:51:00Z",
+ "fetched_at": "2026-09-07T12:41:33Z",
  "schema_version": 1,
  "records": [
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-09-06T20:41:03Z",
+    "date": "2026-09-07T10:18:47Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "75",
     "text": "takwerx/infra-TAK",
@@ -82,7 +82,7 @@
    "fields": {
     "date": "2026-09-01T20:32:55Z",
     "description": "Open-source TAK (Team Awareness Kit) client for iPhone and iPad. Swift + SwiftUI. Apache 2.0.",
-    "stars": "6",
+    "stars": "7",
     "text": "engindearing-projects/OmniTAK-iOS",
     "title": "engindearing-projects/OmniTAK-iOS",
     "url": "https://github.com/engindearing-projects/OmniTAK-iOS"
@@ -358,7 +358,7 @@
    "fields": {
     "date": "2024-10-29T11:52:00Z",
     "description": "Situational Awareness Server compatible with TAK clients",
-    "stars": "954",
+    "stars": "955",
     "text": "FreeTAKTeam/FreeTakServer",
     "title": "FreeTAKTeam/FreeTakServer",
     "url": "https://github.com/FreeTAKTeam/FreeTakServer"
@@ -792,12 +792,72 @@
    "key": "HardlineLabs/hardline-relay-atak-plugin",
    "source": "tak-github",
    "fields": {
-    "date": "2026-09-06T07:08:43Z",
+    "date": "2026-09-07T04:29:38Z",
     "description": "Low-bandwidth Meshtastic PLI and native point sharing in ATAK, with offline channel profiles and independent mesh status. A hobby project.",
     "stars": "0",
     "text": "HardlineLabs/hardline-relay-atak-plugin",
     "title": "HardlineLabs/hardline-relay-atak-plugin",
     "url": "https://github.com/HardlineLabs/hardline-relay-atak-plugin"
+   }
+  },
+  {
+   "key": "takwerx/fobs",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-07T04:17:55Z",
+    "description": "ATAK Plugin: FOBS — Field Observation Survey: walk, draw, import, split and join a perimeter into an ATAK shape, live to a Data Sync feed. Downloads, guide and issues here.",
+    "stars": "0",
+    "text": "takwerx/fobs",
+    "title": "takwerx/fobs",
+    "url": "https://github.com/takwerx/fobs"
+   }
+  },
+  {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-07T04:18:59Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "1",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
+   "key": "SocietyCharter/HonkTAK",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-07T02:49:00Z",
+    "description": "Tactical Goose Awareness System — a local-only ATAK-CIV joke plugin",
+    "stars": "0",
+    "text": "SocietyCharter/HonkTAK",
+    "title": "SocietyCharter/HonkTAK",
+    "url": "https://github.com/SocietyCharter/HonkTAK"
+   }
+  },
+  {
+   "key": "TX-RX/TAK-XVoice",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-07T06:19:49Z",
+    "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
+    "stars": "8",
+    "text": "TX-RX/TAK-XVoice",
+    "title": "TX-RX/TAK-XVoice",
+    "url": "https://github.com/TX-RX/TAK-XVoice"
+   }
+  },
+  {
+   "key": "takwerx/cam-depot",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-06T23:48:12Z",
+    "description": "ATAK Plugin: Cam Depot — public traffic and wildfire cameras on the ATAK map, with live video where the agency streams. Downloads, guide and issues here.",
+    "stars": "4",
+    "text": "takwerx/cam-depot",
+    "title": "takwerx/cam-depot",
+    "url": "https://github.com/takwerx/cam-depot"
    }
   },
   {
@@ -822,18 +882,6 @@
     "text": "takwerx/map-depot",
     "title": "takwerx/map-depot",
     "url": "https://github.com/takwerx/map-depot"
-   }
-  },
-  {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-05T17:32:23Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "1",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
    }
   },
   {
@@ -872,18 +920,6 @@
    }
   },
   {
-   "key": "takwerx/cam-depot",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-01T23:41:14Z",
-    "description": "ATAK Plugin: Cam Depot — public traffic and wildfire cameras on the ATAK map, with live video where the agency streams. Downloads, guide and issues here.",
-    "stars": "4",
-    "text": "takwerx/cam-depot",
-    "title": "takwerx/cam-depot",
-    "url": "https://github.com/takwerx/cam-depot"
-   }
-  },
-  {
    "key": "takwerx/traffic",
    "source": "tak-github",
    "fields": {
@@ -908,18 +944,6 @@
    }
   },
   {
-   "key": "TX-RX/TAK-XVoice",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-08-31T21:05:40Z",
-    "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
-    "stars": "8",
-    "text": "TX-RX/TAK-XVoice",
-    "title": "TX-RX/TAK-XVoice",
-    "url": "https://github.com/TX-RX/TAK-XVoice"
-   }
-  },
-  {
    "key": "Hellikandra/ATAK-Weather-Plugin",
    "source": "tak-github",
    "fields": {
@@ -934,7 +958,7 @@
    "key": "AkitaEngineering/Akita-MeshTAK",
    "source": "tak-github",
    "fields": {
-    "date": "2026-08-31T07:14:31Z",
+    "date": "2026-09-07T07:12:41Z",
     "description": "The Akita MeshTAK Plugin is a game-changing Android Tactical Assault Kit (ATAK) plugin meticulously crafted to bridge the gap between ATAK and Meshtastic, providing unparalleled communication capabilities in the most challenging and disconnected environments.",
     "stars": "16",
     "text": "AkitaEngineering/Akita-MeshTAK",
@@ -964,18 +988,6 @@
     "text": "takwerx/plss-data",
     "title": "takwerx/plss-data",
     "url": "https://github.com/takwerx/plss-data"
-   }
-  },
-  {
-   "key": "SocietyCharter/HonkTAK",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-08-19T04:34:22Z",
-    "description": "Tactical Goose Awareness System — a local-only ATAK-CIV joke plugin",
-    "stars": "0",
-    "text": "SocietyCharter/HonkTAK",
-    "title": "SocietyCharter/HonkTAK",
-    "url": "https://github.com/SocietyCharter/HonkTAK"
    }
   },
   {
@@ -1119,18 +1131,6 @@
     "text": "swim-fish/atak_tw_coord_plugin",
     "title": "swim-fish/atak_tw_coord_plugin",
     "url": "https://github.com/swim-fish/atak_tw_coord_plugin"
-   }
-  },
-  {
-   "key": "Moicanox/TAK-Server-Provisioner",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-08-02T23:18:02Z",
-    "description": "ATAK-CIV plugin for importing TAK Server certificates and configuration from password-protected provisioning ZIP packages.",
-    "stars": "1",
-    "text": "Moicanox/TAK-Server-Provisioner",
-    "title": "Moicanox/TAK-Server-Provisioner",
-    "url": "https://github.com/Moicanox/TAK-Server-Provisioner"
    }
   },
   {
