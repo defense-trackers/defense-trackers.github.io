@@ -1,7 +1,7 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-09-07T12:41:33Z",
+ "fetched_at": "2026-09-07T21:47:52Z",
  "schema_version": 1,
  "records": [
   {
@@ -106,7 +106,7 @@
    "fields": {
     "date": "2026-08-23T23:01:16Z",
     "description": "PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.",
-    "stars": "252",
+    "stars": "253",
     "text": "snstac/pytak",
     "title": "snstac/pytak",
     "url": "https://github.com/snstac/pytak"
@@ -789,6 +789,30 @@
    }
   },
   {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-07T20:54:58Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "1",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
+   "key": "TX-RX/TAK-XVoice",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-07T06:19:49Z",
+    "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
+    "stars": "9",
+    "text": "TX-RX/TAK-XVoice",
+    "title": "TX-RX/TAK-XVoice",
+    "url": "https://github.com/TX-RX/TAK-XVoice"
+   }
+  },
+  {
    "key": "HardlineLabs/hardline-relay-atak-plugin",
    "source": "tak-github",
    "fields": {
@@ -810,42 +834,6 @@
     "text": "takwerx/fobs",
     "title": "takwerx/fobs",
     "url": "https://github.com/takwerx/fobs"
-   }
-  },
-  {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-07T04:18:59Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "1",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
-   }
-  },
-  {
-   "key": "SocietyCharter/HonkTAK",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-07T02:49:00Z",
-    "description": "Tactical Goose Awareness System — a local-only ATAK-CIV joke plugin",
-    "stars": "0",
-    "text": "SocietyCharter/HonkTAK",
-    "title": "SocietyCharter/HonkTAK",
-    "url": "https://github.com/SocietyCharter/HonkTAK"
-   }
-  },
-  {
-   "key": "TX-RX/TAK-XVoice",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-07T06:19:49Z",
-    "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
-    "stars": "8",
-    "text": "TX-RX/TAK-XVoice",
-    "title": "TX-RX/TAK-XVoice",
-    "url": "https://github.com/TX-RX/TAK-XVoice"
    }
   },
   {
@@ -1131,6 +1119,18 @@
     "text": "swim-fish/atak_tw_coord_plugin",
     "title": "swim-fish/atak_tw_coord_plugin",
     "url": "https://github.com/swim-fish/atak_tw_coord_plugin"
+   }
+  },
+  {
+   "key": "Moicanox/TAK-Server-Provisioner",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-08-02T23:18:02Z",
+    "description": "ATAK-CIV plugin for importing TAK Server certificates and configuration from password-protected provisioning ZIP packages.",
+    "stars": "1",
+    "text": "Moicanox/TAK-Server-Provisioner",
+    "title": "Moicanox/TAK-Server-Provisioner",
+    "url": "https://github.com/Moicanox/TAK-Server-Provisioner"
    }
   },
   {
