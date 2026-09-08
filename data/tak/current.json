@@ -1,16 +1,28 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-09-07T21:47:52Z",
+ "fetched_at": "2026-09-08T11:25:40Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "Audrey-cn/universal-agent-embedding-kit",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-09-08T02:54:55Z",
+    "description": "Model-agnostic, embeddable agent kit — verification, adaptive context, effort routing, cache-aware cost model, cross-platform graded benchmarks. Evidence-first: every metric is red-teamed and tagged on an evidence-strength ladder with honest caveats.",
+    "stars": "0",
+    "text": "Audrey-cn/universal-agent-embedding-kit",
+    "title": "Audrey-cn/universal-agent-embedding-kit",
+    "url": "https://github.com/Audrey-cn/universal-agent-embedding-kit"
+   }
+  },
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
     "date": "2026-09-07T10:18:47Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "75",
+    "stars": "76",
     "text": "takwerx/infra-TAK",
     "title": "takwerx/infra-TAK",
     "url": "https://github.com/takwerx/infra-TAK"
@@ -110,18 +122,6 @@
     "text": "snstac/pytak",
     "title": "snstac/pytak",
     "url": "https://github.com/snstac/pytak"
-   }
-  },
-  {
-   "key": "Audrey-cn/universal-agent-embedding-kit",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-08-22T13:09:57Z",
-    "description": "Model-agnostic, embeddable agent kit — verification, adaptive context, effort routing, cache-aware cost model, cross-platform graded benchmarks. Evidence-first: every metric is red-teamed and tagged on an evidence-strength ladder with honest caveats.",
-    "stars": "0",
-    "text": "Audrey-cn/universal-agent-embedding-kit",
-    "title": "Audrey-cn/universal-agent-embedding-kit",
-    "url": "https://github.com/Audrey-cn/universal-agent-embedding-kit"
    }
   },
   {
@@ -789,15 +789,51 @@
    }
   },
   {
+   "key": "HardlineLabs/hardline-relay-atak-plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-08T02:16:22Z",
+    "description": "Low-bandwidth Meshtastic PLI and native point sharing in ATAK, with offline channel profiles and independent mesh status. A hobby project.",
+    "stars": "0",
+    "text": "HardlineLabs/hardline-relay-atak-plugin",
+    "title": "HardlineLabs/hardline-relay-atak-plugin",
+    "url": "https://github.com/HardlineLabs/hardline-relay-atak-plugin"
+   }
+  },
+  {
+   "key": "besteffortdev/openfire-SAMessage",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-08T02:20:15Z",
+    "description": "Plugins for Openfire 5.0.5 and up that enable communication between openfire user and atak client over multicast.",
+    "stars": "0",
+    "text": "besteffortdev/openfire-SAMessage",
+    "title": "besteffortdev/openfire-SAMessage",
+    "url": "https://github.com/besteffortdev/openfire-SAMessage"
+   }
+  },
+  {
    "key": "takwerx/atak-plugins",
    "source": "tak-github",
    "fields": {
-    "date": "2026-09-07T20:54:58Z",
+    "date": "2026-09-08T00:18:23Z",
     "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
     "stars": "1",
     "text": "takwerx/atak-plugins",
     "title": "takwerx/atak-plugins",
     "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
+   "key": "takwerx/cam-depot",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-07T23:56:53Z",
+    "description": "ATAK Plugin: Cam Depot — public traffic and wildfire cameras on the ATAK map, with live video where the agency streams. Downloads, guide and issues here.",
+    "stars": "4",
+    "text": "takwerx/cam-depot",
+    "title": "takwerx/cam-depot",
+    "url": "https://github.com/takwerx/cam-depot"
    }
   },
   {
@@ -813,18 +849,6 @@
    }
   },
   {
-   "key": "HardlineLabs/hardline-relay-atak-plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-07T04:29:38Z",
-    "description": "Low-bandwidth Meshtastic PLI and native point sharing in ATAK, with offline channel profiles and independent mesh status. A hobby project.",
-    "stars": "0",
-    "text": "HardlineLabs/hardline-relay-atak-plugin",
-    "title": "HardlineLabs/hardline-relay-atak-plugin",
-    "url": "https://github.com/HardlineLabs/hardline-relay-atak-plugin"
-   }
-  },
-  {
    "key": "takwerx/fobs",
    "source": "tak-github",
    "fields": {
@@ -834,18 +858,6 @@
     "text": "takwerx/fobs",
     "title": "takwerx/fobs",
     "url": "https://github.com/takwerx/fobs"
-   }
-  },
-  {
-   "key": "takwerx/cam-depot",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-06T23:48:12Z",
-    "description": "ATAK Plugin: Cam Depot — public traffic and wildfire cameras on the ATAK map, with live video where the agency streams. Downloads, guide and issues here.",
-    "stars": "4",
-    "text": "takwerx/cam-depot",
-    "title": "takwerx/cam-depot",
-    "url": "https://github.com/takwerx/cam-depot"
    }
   },
   {
@@ -1119,18 +1131,6 @@
     "text": "swim-fish/atak_tw_coord_plugin",
     "title": "swim-fish/atak_tw_coord_plugin",
     "url": "https://github.com/swim-fish/atak_tw_coord_plugin"
-   }
-  },
-  {
-   "key": "Moicanox/TAK-Server-Provisioner",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-08-02T23:18:02Z",
-    "description": "ATAK-CIV plugin for importing TAK Server certificates and configuration from password-protected provisioning ZIP packages.",
-    "stars": "1",
-    "text": "Moicanox/TAK-Server-Provisioner",
-    "title": "Moicanox/TAK-Server-Provisioner",
-    "url": "https://github.com/Moicanox/TAK-Server-Provisioner"
    }
   },
   {
