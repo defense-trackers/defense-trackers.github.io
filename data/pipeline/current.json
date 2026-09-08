@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-09-08T11:25:25Z",
+ "fetched_at": "2026-09-08T21:26:00Z",
  "schema_version": 1,
  "records": [
   {
@@ -295,6 +295,19 @@
     "text": "Air Force Basic Research Sciences Conference and Workshop Support",
     "title": "Air Force Basic Research Sciences Conference and Workshop Support",
     "url": "https://www.grants.gov/search-results-detail/363745"
+   }
+  },
+  {
+   "key": "363829",
+   "source": "pipeline-grants",
+   "fields": {
+    "agency": "Air Force Office of Scientific Research",
+    "closes": "12/04/2026",
+    "number": "FA955026S0003",
+    "posted": "09/08/2026",
+    "text": "Air Force Fiscal Year 2027 Young Investigator Program (YIP)",
+    "title": "Air Force Fiscal Year 2027 Young Investigator Program (YIP)",
+    "url": "https://www.grants.gov/search-results-detail/363829"
    }
   },
   {
@@ -620,6 +633,19 @@
    }
   },
   {
+   "key": "1b60ad5b3ca4409793ef59d5a771d896",
+   "source": "pipeline-sam-ai",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA8750  AFRL RIK",
+    "number": "FA875023S7006",
+    "posted": "2026-09-08",
+    "text": "ARTIFICIAL INTELLIGENCE AND NEXT GENERATION DISTRIBUTED COMMAND AND CONTROL",
+    "title": "ARTIFICIAL INTELLIGENCE AND NEXT GENERATION DISTRIBUTED COMMAND AND CONTROL",
+    "type": "Presolicitation",
+    "url": "https://sam.gov/workspace/contract/opp/1b60ad5b3ca4409793ef59d5a771d896/view"
+   }
+  },
+  {
    "key": "74a7dc507af64912bd1c3858d31eea96",
    "source": "pipeline-sam-ai",
    "fields": {
@@ -634,19 +660,6 @@
    }
   },
   {
-   "key": "5cd1dec3f39b44eb87cae4bd15984120",
-   "source": "pipeline-sam-ai",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA8750  AFRL RIK",
-    "number": "FA875023S7006",
-    "posted": "2026-07-01",
-    "text": "ARTIFICIAL INTELLIGENCE AND NEXT GENERATION DISTRIBUTED COMMAND AND CONTROL",
-    "title": "ARTIFICIAL INTELLIGENCE AND NEXT GENERATION DISTRIBUTED COMMAND AND CONTROL",
-    "type": "Presolicitation",
-    "url": "https://sam.gov/workspace/contract/opp/5cd1dec3f39b44eb87cae4bd15984120/view"
-   }
-  },
-  {
    "key": "e68078da34b44580a43f7d97305b3b35",
    "source": "pipeline-sam-autonomy",
    "fields": {
@@ -658,6 +671,21 @@
     "title": "TECHNOLOGY TRANSFER OPPORTUNITY: 3D Lidar for Autonomous Landing Site Selection (GSC-TOPS-353)",
     "type": "Special Notice",
     "url": "https://sam.gov/workspace/contract/opp/e68078da34b44580a43f7d97305b3b35/view"
+   }
+  },
+  {
+   "key": "90ad41faf9b0456e8cecd29c51d22b87",
+   "source": "pipeline-sam-mesh",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.NATIONAL GUARD BUREAU.JFHQ USPFO KS.USPFO KS PROCUREMENT.W7M9 USPFO ACTIVITY KSANG 184",
+    "closes": "2026-09-22T09:00:00-05:00",
+    "number": "W50S7X26Q0024",
+    "posted": "2026-09-08",
+    "setaside": "Small Business Set Aside - Total",
+    "text": "PDBL Mesh Network",
+    "title": "PDBL Mesh Network",
+    "type": "Combined Synopsis/Solicitation",
+    "url": "https://sam.gov/workspace/contract/opp/90ad41faf9b0456e8cecd29c51d22b87/view"
    }
   },
   {
