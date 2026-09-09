@@ -1,9 +1,57 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-09-08T21:26:15Z",
+ "fetched_at": "2026-09-09T11:30:42Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "huaweicloud-samples/government-tak-server",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-09-09T09:29:33Z",
+    "description": "This solution demonstrates how to deploy a serverless TAK Server (Team Awareness Kit) on Huawei Cloud, achieving high availability, auto-scaling, and cost-optimized collaboration platform.",
+    "stars": "0",
+    "text": "huaweicloud-samples/government-tak-server",
+    "title": "huaweicloud-samples/government-tak-server",
+    "url": "https://github.com/huaweicloud-samples/government-tak-server"
+   }
+  },
+  {
+   "key": "engindearing-projects/OmniTAK-iOS",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-09-09T03:15:45Z",
+    "description": "Open-source TAK (Team Awareness Kit) client for iPhone and iPad. Swift + SwiftUI. Apache 2.0.",
+    "stars": "7",
+    "text": "engindearing-projects/OmniTAK-iOS",
+    "title": "engindearing-projects/OmniTAK-iOS",
+    "url": "https://github.com/engindearing-projects/OmniTAK-iOS"
+   }
+  },
+  {
+   "key": "engindearing-projects/OmniTAK-Android",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-09-09T02:50:52Z",
+    "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
+    "stars": "19",
+    "text": "engindearing-projects/OmniTAK-Android",
+    "title": "engindearing-projects/OmniTAK-Android",
+    "url": "https://github.com/engindearing-projects/OmniTAK-Android"
+   }
+  },
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-09-08T22:06:29Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "77",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
   {
    "key": "Audrey-cn/universal-agent-embedding-kit",
    "source": "tak-cot",
@@ -14,18 +62,6 @@
     "text": "Audrey-cn/universal-agent-embedding-kit",
     "title": "Audrey-cn/universal-agent-embedding-kit",
     "url": "https://github.com/Audrey-cn/universal-agent-embedding-kit"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-09-07T10:18:47Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "76",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -68,36 +104,12 @@
    "key": "joshuafuller/SRTM2TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-09-03T01:37:31Z",
+    "date": "2026-09-09T03:21:42Z",
     "description": "Progressive Web App to download and package SRTM elevation data for ATAK (Android Team Awareness Kit). Features offline caching, concurrent downloads, and automatic ZIP packaging for direct import into ATAK.",
     "stars": "10",
     "text": "joshuafuller/SRTM2TAK",
     "title": "joshuafuller/SRTM2TAK",
     "url": "https://github.com/joshuafuller/SRTM2TAK"
-   }
-  },
-  {
-   "key": "engindearing-projects/OmniTAK-Android",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-09-01T21:00:29Z",
-    "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
-    "stars": "19",
-    "text": "engindearing-projects/OmniTAK-Android",
-    "title": "engindearing-projects/OmniTAK-Android",
-    "url": "https://github.com/engindearing-projects/OmniTAK-Android"
-   }
-  },
-  {
-   "key": "engindearing-projects/OmniTAK-iOS",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-09-08T17:14:51Z",
-    "description": "Open-source TAK (Team Awareness Kit) client for iPhone and iPad. Swift + SwiftUI. Apache 2.0.",
-    "stars": "7",
-    "text": "engindearing-projects/OmniTAK-iOS",
-    "title": "engindearing-projects/OmniTAK-iOS",
-    "url": "https://github.com/engindearing-projects/OmniTAK-iOS"
    }
   },
   {
@@ -789,10 +801,46 @@
    }
   },
   {
+   "key": "Hellikandra/ATAK-Plugin-MapFavorites",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-09T10:29:34Z",
+    "description": "ATAK Plugin which provide map favorite on MapView directly",
+    "stars": "0",
+    "text": "Hellikandra/ATAK-Plugin-MapFavorites",
+    "title": "Hellikandra/ATAK-Plugin-MapFavorites",
+    "url": "https://github.com/Hellikandra/ATAK-Plugin-MapFavorites"
+   }
+  },
+  {
+   "key": "Hellikandra/ATAK-Plugin-Hats",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-09T08:38:59Z",
+    "description": "Managing multiple profile over ATAK.",
+    "stars": "0",
+    "text": "Hellikandra/ATAK-Plugin-Hats",
+    "title": "Hellikandra/ATAK-Plugin-Hats",
+    "url": "https://github.com/Hellikandra/ATAK-Plugin-Hats"
+   }
+  },
+  {
+   "key": "lcoriolan/PICKETCUAS-SWARM",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-09T05:46:25Z",
+    "description": "PICKET ACOUSTINT — acoustic detection plugin for ATAK: on-device sound classification and acoustic bearing cueing",
+    "stars": "0",
+    "text": "lcoriolan/PICKETCUAS-SWARM",
+    "title": "lcoriolan/PICKETCUAS-SWARM",
+    "url": "https://github.com/lcoriolan/PICKETCUAS-SWARM"
+   }
+  },
+  {
    "key": "HardlineLabs/hardline-relay-atak-plugin",
    "source": "tak-github",
    "fields": {
-    "date": "2026-09-08T02:16:22Z",
+    "date": "2026-09-09T05:35:32Z",
     "description": "Low-bandwidth Meshtastic PLI and native point sharing in ATAK, with offline channel profiles and independent mesh status. A hobby project.",
     "stars": "0",
     "text": "HardlineLabs/hardline-relay-atak-plugin",
@@ -801,10 +849,22 @@
    }
   },
   {
+   "key": "takwerx/feature-layer",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-09T05:06:54Z",
+    "description": "ATAK Plugin: Feature Layer — live ArcGIS feature layers from NIFC, SARCOP, CA Air Intel and your own org, with NWCG symbology. Downloads, guide and issues here.",
+    "stars": "0",
+    "text": "takwerx/feature-layer",
+    "title": "takwerx/feature-layer",
+    "url": "https://github.com/takwerx/feature-layer"
+   }
+  },
+  {
    "key": "besteffortdev/openfire-SAMessage",
    "source": "tak-github",
    "fields": {
-    "date": "2026-09-08T02:20:15Z",
+    "date": "2026-09-08T23:27:04Z",
     "description": "Plugins for Openfire 5.0.5 and up that enable communication between openfire user and atak client over multicast.",
     "stars": "0",
     "text": "besteffortdev/openfire-SAMessage",
@@ -948,7 +1008,7 @@
    "source": "tak-github",
    "fields": {
     "date": "2026-08-30T19:29:11Z",
-    "stars": "53",
+    "stars": "54",
     "text": "Hellikandra/ATAK-Weather-Plugin",
     "title": "Hellikandra/ATAK-Weather-Plugin",
     "url": "https://github.com/Hellikandra/ATAK-Weather-Plugin"
@@ -1084,53 +1144,6 @@
     "text": "joshuafuller/atak-plugin-skill",
     "title": "joshuafuller/atak-plugin-skill",
     "url": "https://github.com/joshuafuller/atak-plugin-skill"
-   }
-  },
-  {
-   "key": "Cloud-RF/SOOTHSAYER-ATAK-plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-08-07T18:14:04Z",
-    "description": "ATAK plugin for SOOTHSAYER",
-    "stars": "15",
-    "text": "Cloud-RF/SOOTHSAYER-ATAK-plugin",
-    "title": "Cloud-RF/SOOTHSAYER-ATAK-plugin",
-    "url": "https://github.com/Cloud-RF/SOOTHSAYER-ATAK-plugin"
-   }
-  },
-  {
-   "key": "clptak/cloudtak-plugin-search-containment",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-08-05T18:16:55Z",
-    "description": "Plugin to behave similar to ATAK's Chokepoint.  Leverages OSM  layer in CloudTAK to identify containment points at travel corridors to contain a search area.",
-    "stars": "1",
-    "text": "clptak/cloudtak-plugin-search-containment",
-    "title": "clptak/cloudtak-plugin-search-containment",
-    "url": "https://github.com/clptak/cloudtak-plugin-search-containment"
-   }
-  },
-  {
-   "key": "gridbasedotnet/meshcore-TAK",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-08-03T18:08:31Z",
-    "description": "ATAK plugin for MeshCore LoRa mesh radios — off-grid position, chat and CoT with no TAK server, no cell service, and no amateur licence. GPL-3.0, with a normative wire spec and golden test vectors.",
-    "stars": "3",
-    "text": "gridbasedotnet/meshcore-TAK",
-    "title": "gridbasedotnet/meshcore-TAK",
-    "url": "https://github.com/gridbasedotnet/meshcore-TAK"
-   }
-  },
-  {
-   "key": "swim-fish/atak_tw_coord_plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-08-03T14:23:00Z",
-    "stars": "4",
-    "text": "swim-fish/atak_tw_coord_plugin",
-    "title": "swim-fish/atak_tw_coord_plugin",
-    "url": "https://github.com/swim-fish/atak_tw_coord_plugin"
    }
   },
   {

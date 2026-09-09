@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-09-08T21:26:18Z",
+ "fetched_at": "2026-09-09T11:30:48Z",
  "schema_version": 1,
  "records": [
   {
@@ -81,7 +81,7 @@
    "source": "transition-prototype",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "2.1117756249e+08",
+    "amount": "2.1178140945e+08",
     "description": "TECHNICAL SUPPORT FOR PROTOTYPE INTEGRATION FACILITY (PIF)",
     "text": "BOOZ ALLEN HAMILTON INC",
     "title": "BOOZ ALLEN HAMILTON INC",
@@ -665,7 +665,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "20209106383",
+    "amount": "20212225804",
     "award_id": "N0002412C2115",
     "description": "SSN 792 LONG LEAD TIME MATERIAL",
     "text": "ELECTRIC BOAT CORPORATION",
@@ -964,7 +964,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "8.31960906683e+09",
+    "amount": "8.31960965283e+09",
     "award_id": "N0002423C2307",
     "description": "CONSTRUCTION OF DDG 51 SHIPS FY23-27",
     "text": "HUNTINGTON INGALLS INCORPORATED",
@@ -1115,6 +1115,19 @@
    }
   },
   {
+   "key": "CONT_AWD_FA863418C2701_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "7.00848239576e+09",
+    "award_id": "FA863418C2701",
+    "description": "F-15, FMS, F-15QA AIR VEHICLE DEVELOPMENT",
+    "text": "THE BOEING COMPANY",
+    "title": "THE BOEING COMPANY",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA863418C2701_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_N0001914C0002_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -1128,24 +1141,11 @@
    }
   },
   {
-   "key": "CONT_AWD_FA863418C2701_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "6.98888239576e+09",
-    "award_id": "FA863418C2701",
-    "description": "F-15, FMS, F-15QA AIR VEHICLE DEVELOPMENT",
-    "text": "THE BOEING COMPANY",
-    "title": "THE BOEING COMPANY",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_FA863418C2701_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
    "key": "CONT_AWD_N0002418C2307_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "6.94780155074e+09",
+    "amount": "6.94816417774e+09",
     "award_id": "N0002418C2307",
     "description": "FY18-FY22 DDG 51 CLASS SHIP CONSTRUCTION",
     "text": "HUNTINGTON INGALLS INCORPORATED",
