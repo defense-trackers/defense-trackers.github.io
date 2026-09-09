@@ -1,7 +1,7 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-09-09T11:30:42Z",
+ "fetched_at": "2026-09-09T21:12:42Z",
  "schema_version": 1,
  "records": [
   {
@@ -134,18 +134,6 @@
     "text": "snstac/pytak",
     "title": "snstac/pytak",
     "url": "https://github.com/snstac/pytak"
-   }
-  },
-  {
-   "key": "felixross66/claude-ai-coding-kit-2026",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-08-13T21:38:14Z",
-    "description": "Claude Code consistency layer for AI coding teams, with shared guidelines, stack-aware skills, and review automation in a 2026 plugin suite.",
-    "stars": "1",
-    "text": "felixross66/claude-ai-coding-kit-2026",
-    "title": "felixross66/claude-ai-coding-kit-2026",
-    "url": "https://github.com/felixross66/claude-ai-coding-kit-2026"
    }
   },
   {
@@ -370,7 +358,7 @@
    "fields": {
     "date": "2024-10-29T11:52:00Z",
     "description": "Situational Awareness Server compatible with TAK clients",
-    "stars": "955",
+    "stars": "956",
     "text": "FreeTAKTeam/FreeTakServer",
     "title": "FreeTAKTeam/FreeTakServer",
     "url": "https://github.com/FreeTAKTeam/FreeTakServer"
@@ -561,7 +549,7 @@
    "fields": {
     "date": "2026-06-12T14:49:22Z",
     "description": "A framework to support digital engineering in the python language",
-    "stars": "11",
+    "stars": "12",
     "text": "FreeTAKTeam/DigitalPy",
     "title": "FreeTAKTeam/DigitalPy",
     "url": "https://github.com/FreeTAKTeam/DigitalPy"
@@ -801,6 +789,30 @@
    }
   },
   {
+   "key": "takwerx/evac-zone",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-09T20:42:05Z",
+    "description": "ATAK Plugin: Evac Zone — evacuation zones from the agencies that publish them, drawn in one status color language. Downloads, guide and issues here.",
+    "stars": "0",
+    "text": "takwerx/evac-zone",
+    "title": "takwerx/evac-zone",
+    "url": "https://github.com/takwerx/evac-zone"
+   }
+  },
+  {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-09T20:46:42Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "1",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
    "key": "Hellikandra/ATAK-Plugin-MapFavorites",
    "source": "tak-github",
    "fields": {
@@ -830,7 +842,7 @@
    "fields": {
     "date": "2026-09-09T05:46:25Z",
     "description": "PICKET ACOUSTINT — acoustic detection plugin for ATAK: on-device sound classification and acoustic bearing cueing",
-    "stars": "0",
+    "stars": "3",
     "text": "lcoriolan/PICKETCUAS-SWARM",
     "title": "lcoriolan/PICKETCUAS-SWARM",
     "url": "https://github.com/lcoriolan/PICKETCUAS-SWARM"
@@ -849,18 +861,6 @@
    }
   },
   {
-   "key": "takwerx/feature-layer",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-09T05:06:54Z",
-    "description": "ATAK Plugin: Feature Layer — live ArcGIS feature layers from NIFC, SARCOP, CA Air Intel and your own org, with NWCG symbology. Downloads, guide and issues here.",
-    "stars": "0",
-    "text": "takwerx/feature-layer",
-    "title": "takwerx/feature-layer",
-    "url": "https://github.com/takwerx/feature-layer"
-   }
-  },
-  {
    "key": "besteffortdev/openfire-SAMessage",
    "source": "tak-github",
    "fields": {
@@ -873,24 +873,12 @@
    }
   },
   {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-08T00:18:23Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "1",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
-   }
-  },
-  {
    "key": "takwerx/cam-depot",
    "source": "tak-github",
    "fields": {
     "date": "2026-09-07T23:56:53Z",
     "description": "ATAK Plugin: Cam Depot — public traffic and wildfire cameras on the ATAK map, with live video where the agency streams. Downloads, guide and issues here.",
-    "stars": "4",
+    "stars": "5",
     "text": "takwerx/cam-depot",
     "title": "takwerx/cam-depot",
     "url": "https://github.com/takwerx/cam-depot"
@@ -938,7 +926,7 @@
    "fields": {
     "date": "2026-09-05T17:31:46Z",
     "description": "ATAK Plugin: Map Depot — download elevation, base maps and offline public-lands maps from inside ATAK. Downloads, guide and issues here.",
-    "stars": "8",
+    "stars": "9",
     "text": "takwerx/map-depot",
     "title": "takwerx/map-depot",
     "url": "https://github.com/takwerx/map-depot"

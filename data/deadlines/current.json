@@ -1,7 +1,7 @@
 {
  "source": "deadlines",
  "tracker": "deadlines",
- "fetched_at": "2026-09-09T11:30:48Z",
+ "fetched_at": "2026-09-09T21:12:45Z",
  "schema_version": 1,
  "records": [
   {
@@ -577,7 +577,7 @@
    }
   },
   {
-   "key": "close-74a7dc507af64912bd1c3858d31eea96",
+   "key": "close-f79068dd4b6b43baba8d658707e7e59f",
    "source": "deadlines-solicitations",
    "fields": {
     "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR HQ.NAVAL INFORMATION WARFARE SYSTEMS",
@@ -586,7 +586,20 @@
     "from": "pipeline",
     "text": "Generative Artificial Intelligence (GenAI) Electronic Performance Support System (EPSS) under CSO N0003925S001. ",
     "title": "Generative Artificial Intelligence (GenAI) Electronic Performance Support System (EPSS) under CSO N0003925S001. ",
-    "url": "https://sam.gov/workspace/contract/opp/74a7dc507af64912bd1c3858d31eea96/view"
+    "url": "https://sam.gov/workspace/contract/opp/f79068dd4b6b43baba8d658707e7e59f/view"
+   }
+  },
+  {
+   "key": "close-7628d8b2851d420d939c29c32d43872c",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE SPECIAL OPERATIONS COMMAND.FA4855  27 SOCONS LGC",
+    "closes": "2026-09-14",
+    "date": "2026-09-14",
+    "from": "pipeline",
+    "text": "Autonomous Robots Targeting System",
+    "title": "Autonomous Robots Targeting System",
+    "url": "https://sam.gov/workspace/contract/opp/7628d8b2851d420d939c29c32d43872c/view"
    }
   },
   {

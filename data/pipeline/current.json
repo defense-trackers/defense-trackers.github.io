@@ -1,7 +1,7 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-09-09T11:30:26Z",
+ "fetched_at": "2026-09-09T21:12:25Z",
  "schema_version": 1,
  "records": [
   {
@@ -620,6 +620,20 @@
    }
   },
   {
+   "key": "f79068dd4b6b43baba8d658707e7e59f",
+   "source": "pipeline-sam-ai",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR HQ.NAVAL INFORMATION WARFARE SYSTEMS",
+    "closes": "2026-09-17T14:00:00-07:00",
+    "number": "N0003926R9450",
+    "posted": "2026-09-09",
+    "text": "Generative Artificial Intelligence (GenAI) Electronic Performance Support System (EPSS) under CSO N0003925S001. ",
+    "title": "Generative Artificial Intelligence (GenAI) Electronic Performance Support System (EPSS) under CSO N0003925S001. ",
+    "type": "Solicitation",
+    "url": "https://sam.gov/workspace/contract/opp/f79068dd4b6b43baba8d658707e7e59f/view"
+   }
+  },
+  {
    "key": "1b60ad5b3ca4409793ef59d5a771d896",
    "source": "pipeline-sam-ai",
    "fields": {
@@ -633,17 +647,18 @@
    }
   },
   {
-   "key": "74a7dc507af64912bd1c3858d31eea96",
-   "source": "pipeline-sam-ai",
+   "key": "7628d8b2851d420d939c29c32d43872c",
+   "source": "pipeline-sam-autonomy",
    "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR HQ.NAVAL INFORMATION WARFARE SYSTEMS",
-    "closes": "2026-09-17T14:00:00-07:00",
-    "number": "N0003926R9450",
-    "posted": "2026-09-02",
-    "text": "Generative Artificial Intelligence (GenAI) Electronic Performance Support System (EPSS) under CSO N0003925S001. ",
-    "title": "Generative Artificial Intelligence (GenAI) Electronic Performance Support System (EPSS) under CSO N0003925S001. ",
-    "type": "Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/74a7dc507af64912bd1c3858d31eea96/view"
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE SPECIAL OPERATIONS COMMAND.FA4855  27 SOCONS LGC",
+    "closes": "2026-09-14T13:00:00-06:00",
+    "number": "FA485526P0034",
+    "posted": "2026-09-09",
+    "setaside": "8(a) Sole Source (FAR 19.8)",
+    "text": "Autonomous Robots Targeting System",
+    "title": "Autonomous Robots Targeting System",
+    "type": "Special Notice",
+    "url": "https://sam.gov/workspace/contract/opp/7628d8b2851d420d939c29c32d43872c/view"
    }
   },
   {
