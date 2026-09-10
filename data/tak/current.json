@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-09-10T11:26:54Z",
+ "fetched_at": "2026-09-10T21:14:02Z",
  "schema_version": 1,
  "records": [
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-09-10T02:17:24Z",
+    "date": "2026-09-10T20:50:53Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "78",
     "text": "takwerx/infra-TAK",
@@ -713,7 +713,7 @@
    "fields": {
     "date": "2026-09-02T10:45:54Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
-    "stars": "33",
+    "stars": "34",
     "text": "FreeTAKTeam/LXMF-rs",
     "title": "FreeTAKTeam/LXMF-rs",
     "url": "https://github.com/FreeTAKTeam/LXMF-rs"
@@ -789,27 +789,51 @@
    }
   },
   {
-   "key": "takwerx/feature-layer",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-10T03:31:10Z",
-    "description": "ATAK Plugin: Feature Layer — live ArcGIS feature layers from NIFC, SARCOP, CA Air Intel and your own org, with NWCG symbology. Downloads, guide and issues here.",
-    "stars": "0",
-    "text": "takwerx/feature-layer",
-    "title": "takwerx/feature-layer",
-    "url": "https://github.com/takwerx/feature-layer"
-   }
-  },
-  {
    "key": "takwerx/atak-plugins",
    "source": "tak-github",
    "fields": {
-    "date": "2026-09-10T03:38:34Z",
+    "date": "2026-09-10T20:32:59Z",
     "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
     "stars": "1",
     "text": "takwerx/atak-plugins",
     "title": "takwerx/atak-plugins",
     "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
+   "key": "lcoriolan/PICKETCUAS-SWARM",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-10T19:26:23Z",
+    "description": "PICKET SWARM: distributed acoustic detection plugin for ATAK — on-device sound classification, acoustic bearing, and multi-phone synthetic-aperture array cross-fixing on the map.",
+    "stars": "3",
+    "text": "lcoriolan/PICKETCUAS-SWARM",
+    "title": "lcoriolan/PICKETCUAS-SWARM",
+    "url": "https://github.com/lcoriolan/PICKETCUAS-SWARM"
+   }
+  },
+  {
+   "key": "lcoriolan/PICKETCUAS-SNOOPY",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-10T19:24:11Z",
+    "description": "PICKET SNOOPY: passive, receive-only RF/ESM survey plugin for ATAK — spectrum awareness, drone Remote ID (ASTM F3411) decode, and non-cooperative emitter bearing on the map.",
+    "stars": "0",
+    "text": "lcoriolan/PICKETCUAS-SNOOPY",
+    "title": "lcoriolan/PICKETCUAS-SNOOPY",
+    "url": "https://github.com/lcoriolan/PICKETCUAS-SNOOPY"
+   }
+  },
+  {
+   "key": "takwerx/feature-layer",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-10T03:31:10Z",
+    "description": "ATAK Plugin: Feature Layer — live ArcGIS feature layers from NIFC, SARCOP, CA Air Intel and your own org, with NWCG symbology. Downloads, guide and issues here.",
+    "stars": "1",
+    "text": "takwerx/feature-layer",
+    "title": "takwerx/feature-layer",
+    "url": "https://github.com/takwerx/feature-layer"
    }
   },
   {
@@ -842,7 +866,7 @@
    "fields": {
     "date": "2026-09-09T20:42:05Z",
     "description": "ATAK Plugin: Evac Zone — evacuation zones from the agencies that publish them, drawn in one status color language. Downloads, guide and issues here.",
-    "stars": "0",
+    "stars": "1",
     "text": "takwerx/evac-zone",
     "title": "takwerx/evac-zone",
     "url": "https://github.com/takwerx/evac-zone"
@@ -854,7 +878,7 @@
    "fields": {
     "date": "2026-09-09T10:29:34Z",
     "description": "ATAK Plugin which provide map favorite on MapView directly",
-    "stars": "0",
+    "stars": "1",
     "text": "Hellikandra/ATAK-Plugin-MapFavorites",
     "title": "Hellikandra/ATAK-Plugin-MapFavorites",
     "url": "https://github.com/Hellikandra/ATAK-Plugin-MapFavorites"
@@ -866,22 +890,10 @@
    "fields": {
     "date": "2026-09-09T08:38:59Z",
     "description": "Managing multiple profile over ATAK.",
-    "stars": "0",
+    "stars": "1",
     "text": "Hellikandra/ATAK-Plugin-Hats",
     "title": "Hellikandra/ATAK-Plugin-Hats",
     "url": "https://github.com/Hellikandra/ATAK-Plugin-Hats"
-   }
-  },
-  {
-   "key": "lcoriolan/PICKETCUAS-SWARM",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-09T05:46:25Z",
-    "description": "PICKET ACOUSTINT — acoustic detection plugin for ATAK: on-device sound classification and acoustic bearing cueing",
-    "stars": "3",
-    "text": "lcoriolan/PICKETCUAS-SWARM",
-    "title": "lcoriolan/PICKETCUAS-SWARM",
-    "url": "https://github.com/lcoriolan/PICKETCUAS-SWARM"
    }
   },
   {
@@ -973,7 +985,7 @@
    "source": "tak-github",
    "fields": {
     "date": "2026-09-04T16:12:49Z",
-    "stars": "9",
+    "stars": "10",
     "text": "jpat-12/TAK-PluginSuite-ATAK_ICU",
     "title": "jpat-12/TAK-PluginSuite-ATAK_ICU",
     "url": "https://github.com/jpat-12/TAK-PluginSuite-ATAK_ICU"
@@ -1120,18 +1132,6 @@
     "text": "Moicanox/Praetorian-Tools-ATAK-Plugin",
     "title": "Moicanox/Praetorian-Tools-ATAK-Plugin",
     "url": "https://github.com/Moicanox/Praetorian-Tools-ATAK-Plugin"
-   }
-  },
-  {
-   "key": "joshuafuller/atak-plugin-dev",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-08-08T21:16:07Z",
-    "description": "Dockerised ATAK plugin build environment: build, sideload and run instrumented tests against ATAK-CIV on an emulator, without setting up a host toolchain.",
-    "stars": "1",
-    "text": "joshuafuller/atak-plugin-dev",
-    "title": "joshuafuller/atak-plugin-dev",
-    "url": "https://github.com/joshuafuller/atak-plugin-dev"
    }
   },
   {
