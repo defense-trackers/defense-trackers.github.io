@@ -1,9 +1,151 @@
 {
  "source": "pipeline",
  "tracker": "pipeline",
- "fetched_at": "2026-09-09T21:12:25Z",
+ "fetched_at": "2026-09-10T11:26:38Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "f79068dd4b6b43baba8d658707e7e59f",
+   "source": "pipeline-sam-ai",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR HQ.NAVAL INFORMATION WARFARE SYSTEMS",
+    "closes": "2026-09-17T14:00:00-07:00",
+    "number": "N0003926R9450",
+    "posted": "2026-09-09",
+    "text": "Generative Artificial Intelligence (GenAI) Electronic Performance Support System (EPSS) under CSO N0003925S001. ",
+    "title": "Generative Artificial Intelligence (GenAI) Electronic Performance Support System (EPSS) under CSO N0003925S001. ",
+    "type": "Solicitation",
+    "url": "https://sam.gov/workspace/contract/opp/f79068dd4b6b43baba8d658707e7e59f/view"
+   }
+  },
+  {
+   "key": "1b60ad5b3ca4409793ef59d5a771d896",
+   "source": "pipeline-sam-ai",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA8750  AFRL RIK",
+    "number": "FA875023S7006",
+    "posted": "2026-09-08",
+    "text": "ARTIFICIAL INTELLIGENCE AND NEXT GENERATION DISTRIBUTED COMMAND AND CONTROL",
+    "title": "ARTIFICIAL INTELLIGENCE AND NEXT GENERATION DISTRIBUTED COMMAND AND CONTROL",
+    "type": "Presolicitation",
+    "url": "https://sam.gov/workspace/contract/opp/1b60ad5b3ca4409793ef59d5a771d896/view"
+   }
+  },
+  {
+   "key": "7628d8b2851d420d939c29c32d43872c",
+   "source": "pipeline-sam-autonomy",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE SPECIAL OPERATIONS COMMAND.FA4855  27 SOCONS LGC",
+    "closes": "2026-09-14T13:00:00-06:00",
+    "number": "FA485526P0034",
+    "posted": "2026-09-09",
+    "setaside": "8(a) Sole Source (FAR 19.8)",
+    "text": "Autonomous Robots Targeting System",
+    "title": "Autonomous Robots Targeting System",
+    "type": "Special Notice",
+    "url": "https://sam.gov/workspace/contract/opp/7628d8b2851d420d939c29c32d43872c/view"
+   }
+  },
+  {
+   "key": "e68078da34b44580a43f7d97305b3b35",
+   "source": "pipeline-sam-autonomy",
+   "fields": {
+    "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
+    "closes": "2027-08-24T15:00:00-05:00",
+    "number": "T2P-GSFC-00073 ",
+    "posted": "2026-08-24",
+    "text": "TECHNOLOGY TRANSFER OPPORTUNITY: 3D Lidar for Autonomous Landing Site Selection (GSC-TOPS-353)",
+    "title": "TECHNOLOGY TRANSFER OPPORTUNITY: 3D Lidar for Autonomous Landing Site Selection (GSC-TOPS-353)",
+    "type": "Special Notice",
+    "url": "https://sam.gov/workspace/contract/opp/e68078da34b44580a43f7d97305b3b35/view"
+   }
+  },
+  {
+   "key": "90ad41faf9b0456e8cecd29c51d22b87",
+   "source": "pipeline-sam-mesh",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.NATIONAL GUARD BUREAU.JFHQ USPFO KS.USPFO KS PROCUREMENT.W7M9 USPFO ACTIVITY KSANG 184",
+    "closes": "2026-09-22T09:00:00-05:00",
+    "number": "W50S7X26Q0024",
+    "posted": "2026-09-08",
+    "setaside": "Small Business Set Aside - Total",
+    "text": "PDBL Mesh Network",
+    "title": "PDBL Mesh Network",
+    "type": "Combined Synopsis/Solicitation",
+    "url": "https://sam.gov/workspace/contract/opp/90ad41faf9b0456e8cecd29c51d22b87/view"
+   }
+  },
+  {
+   "key": "8fc4045217f64e1c80bb9160b12a3716",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR HQ.NAVAL INFORMATION WARFARE SYSTEMS",
+    "closes": "2026-10-30T10:00:00-07:00",
+    "number": "N0003926RR002",
+    "posted": "2026-09-08",
+    "text": "Medium Unmanned Surface Vessel (MUSV) Phase II Integration and Testing",
+    "title": "Medium Unmanned Surface Vessel (MUSV) Phase II Integration and Testing",
+    "type": "Presolicitation",
+    "url": "https://sam.gov/workspace/contract/opp/8fc4045217f64e1c80bb9160b12a3716/view"
+   }
+  },
+  {
+   "key": "ab80e1bb451c429bb291347ada117652",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.SCO ALEXANDRIA.ENGINEER CENTER SUPPORT ACT HUMPHREYS.W4LD USA HECSA",
+    "closes": "2026-09-09T13:00:00-04:00",
+    "number": "W912HQ26S0071",
+    "posted": "2026-09-02",
+    "text": "UNMANNED AIRCRAFT SYSTEMS (UAS) FOR USACE",
+    "title": "UNMANNED AIRCRAFT SYSTEMS (UAS) FOR USACE",
+    "type": "Sources Sought",
+    "url": "https://sam.gov/workspace/contract/opp/ab80e1bb451c429bb291347ada117652/view"
+   }
+  },
+  {
+   "key": "84a93ec285a5491cba3bb22d7906cb09",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.SCO ALEXANDRIA.ENGINEER RESEARCH AND DEVELOPMENT CENTER.W2R2 USA ENGR R \u0026 D CTR",
+    "closes": "2026-09-09T12:00:00-05:00",
+    "number": "W912HZ26QA048",
+    "posted": "2026-09-02",
+    "setaside": "Small Business Set Aside - Total",
+    "text": "Vessel Inspection Tool (Unmanned Aerial System)",
+    "title": "Vessel Inspection Tool (Unmanned Aerial System)",
+    "type": "Combined Synopsis/Solicitation",
+    "url": "https://sam.gov/workspace/contract/opp/84a93ec285a5491cba3bb22d7906cb09/view"
+   }
+  },
+  {
+   "key": "231668c988f04e459fc4a911d89adaf9",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA8750  AFRL RIK",
+    "number": "FA8750-25-S-7004",
+    "posted": "2026-08-07",
+    "text": "Multi-Domain Force Applications and Traffic Management for Unmanned Aircraft Systems (M-FAT)",
+    "title": "Multi-Domain Force Applications and Traffic Management for Unmanned Aircraft Systems (M-FAT)",
+    "type": "Presolicitation",
+    "url": "https://sam.gov/workspace/contract/opp/231668c988f04e459fc4a911d89adaf9/view"
+   }
+  },
+  {
+   "key": "da82da9604cb462cb1f612cbaa42366c",
+   "source": "pipeline-sam-unmanned",
+   "fields": {
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.USMC.MARCOR SYSCOM.COMMANDER",
+    "closes": "2026-09-11T12:00:00-04:00",
+    "number": "M67854-26-I-5206",
+    "posted": "2026-08-05",
+    "setaside": "No Set aside used",
+    "text": "5.56mm Counter-small Unmanned Aircraft System (C-sUAS) Ammunition",
+    "title": "5.56mm Counter-small Unmanned Aircraft System (C-sUAS) Ammunition",
+    "type": "Sources Sought",
+    "url": "https://sam.gov/workspace/contract/opp/da82da9604cb462cb1f612cbaa42366c/view"
+   }
+  },
   {
    "key": "339728",
    "source": "pipeline-autonomy",
@@ -480,6 +622,19 @@
    }
   },
   {
+   "key": "355499",
+   "source": "pipeline-grants",
+   "fields": {
+    "agency": "Air Force -- Research Lab",
+    "closes": "07/18/2029",
+    "number": "RDK-RAD-FOA-2024",
+    "posted": "07/18/2024",
+    "text": "Research and Development (RAD) Directed Energy (RD) University Assistance Instruments",
+    "title": "Research and Development (RAD) Directed Energy (RD) University Assistance Instruments",
+    "url": "https://www.grants.gov/search-results-detail/355499"
+   }
+  },
+  {
    "key": "347858",
    "source": "pipeline-logistics",
    "fields": {
@@ -617,148 +772,6 @@
     "text": "STARBASE Wright Patt",
     "title": "STARBASE Wright Patt",
     "url": "https://www.grants.gov/search-results-detail/329806"
-   }
-  },
-  {
-   "key": "f79068dd4b6b43baba8d658707e7e59f",
-   "source": "pipeline-sam-ai",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR HQ.NAVAL INFORMATION WARFARE SYSTEMS",
-    "closes": "2026-09-17T14:00:00-07:00",
-    "number": "N0003926R9450",
-    "posted": "2026-09-09",
-    "text": "Generative Artificial Intelligence (GenAI) Electronic Performance Support System (EPSS) under CSO N0003925S001. ",
-    "title": "Generative Artificial Intelligence (GenAI) Electronic Performance Support System (EPSS) under CSO N0003925S001. ",
-    "type": "Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/f79068dd4b6b43baba8d658707e7e59f/view"
-   }
-  },
-  {
-   "key": "1b60ad5b3ca4409793ef59d5a771d896",
-   "source": "pipeline-sam-ai",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA8750  AFRL RIK",
-    "number": "FA875023S7006",
-    "posted": "2026-09-08",
-    "text": "ARTIFICIAL INTELLIGENCE AND NEXT GENERATION DISTRIBUTED COMMAND AND CONTROL",
-    "title": "ARTIFICIAL INTELLIGENCE AND NEXT GENERATION DISTRIBUTED COMMAND AND CONTROL",
-    "type": "Presolicitation",
-    "url": "https://sam.gov/workspace/contract/opp/1b60ad5b3ca4409793ef59d5a771d896/view"
-   }
-  },
-  {
-   "key": "7628d8b2851d420d939c29c32d43872c",
-   "source": "pipeline-sam-autonomy",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE SPECIAL OPERATIONS COMMAND.FA4855  27 SOCONS LGC",
-    "closes": "2026-09-14T13:00:00-06:00",
-    "number": "FA485526P0034",
-    "posted": "2026-09-09",
-    "setaside": "8(a) Sole Source (FAR 19.8)",
-    "text": "Autonomous Robots Targeting System",
-    "title": "Autonomous Robots Targeting System",
-    "type": "Special Notice",
-    "url": "https://sam.gov/workspace/contract/opp/7628d8b2851d420d939c29c32d43872c/view"
-   }
-  },
-  {
-   "key": "e68078da34b44580a43f7d97305b3b35",
-   "source": "pipeline-sam-autonomy",
-   "fields": {
-    "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
-    "closes": "2027-08-24T15:00:00-05:00",
-    "number": "T2P-GSFC-00073 ",
-    "posted": "2026-08-24",
-    "text": "TECHNOLOGY TRANSFER OPPORTUNITY: 3D Lidar for Autonomous Landing Site Selection (GSC-TOPS-353)",
-    "title": "TECHNOLOGY TRANSFER OPPORTUNITY: 3D Lidar for Autonomous Landing Site Selection (GSC-TOPS-353)",
-    "type": "Special Notice",
-    "url": "https://sam.gov/workspace/contract/opp/e68078da34b44580a43f7d97305b3b35/view"
-   }
-  },
-  {
-   "key": "90ad41faf9b0456e8cecd29c51d22b87",
-   "source": "pipeline-sam-mesh",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.NATIONAL GUARD BUREAU.JFHQ USPFO KS.USPFO KS PROCUREMENT.W7M9 USPFO ACTIVITY KSANG 184",
-    "closes": "2026-09-22T09:00:00-05:00",
-    "number": "W50S7X26Q0024",
-    "posted": "2026-09-08",
-    "setaside": "Small Business Set Aside - Total",
-    "text": "PDBL Mesh Network",
-    "title": "PDBL Mesh Network",
-    "type": "Combined Synopsis/Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/90ad41faf9b0456e8cecd29c51d22b87/view"
-   }
-  },
-  {
-   "key": "8fc4045217f64e1c80bb9160b12a3716",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR HQ.NAVAL INFORMATION WARFARE SYSTEMS",
-    "closes": "2026-10-30T10:00:00-07:00",
-    "number": "N0003926RR002",
-    "posted": "2026-09-08",
-    "text": "Medium Unmanned Surface Vessel (MUSV) Phase II Integration and Testing",
-    "title": "Medium Unmanned Surface Vessel (MUSV) Phase II Integration and Testing",
-    "type": "Presolicitation",
-    "url": "https://sam.gov/workspace/contract/opp/8fc4045217f64e1c80bb9160b12a3716/view"
-   }
-  },
-  {
-   "key": "ab80e1bb451c429bb291347ada117652",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.SCO ALEXANDRIA.ENGINEER CENTER SUPPORT ACT HUMPHREYS.W4LD USA HECSA",
-    "closes": "2026-09-09T13:00:00-04:00",
-    "number": "W912HQ26S0071",
-    "posted": "2026-09-02",
-    "text": "UNMANNED AIRCRAFT SYSTEMS (UAS) FOR USACE",
-    "title": "UNMANNED AIRCRAFT SYSTEMS (UAS) FOR USACE",
-    "type": "Sources Sought",
-    "url": "https://sam.gov/workspace/contract/opp/ab80e1bb451c429bb291347ada117652/view"
-   }
-  },
-  {
-   "key": "84a93ec285a5491cba3bb22d7906cb09",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.SCO ALEXANDRIA.ENGINEER RESEARCH AND DEVELOPMENT CENTER.W2R2 USA ENGR R \u0026 D CTR",
-    "closes": "2026-09-09T12:00:00-05:00",
-    "number": "W912HZ26QA048",
-    "posted": "2026-09-02",
-    "setaside": "Small Business Set Aside - Total",
-    "text": "Vessel Inspection Tool (Unmanned Aerial System)",
-    "title": "Vessel Inspection Tool (Unmanned Aerial System)",
-    "type": "Combined Synopsis/Solicitation",
-    "url": "https://sam.gov/workspace/contract/opp/84a93ec285a5491cba3bb22d7906cb09/view"
-   }
-  },
-  {
-   "key": "231668c988f04e459fc4a911d89adaf9",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA8750  AFRL RIK",
-    "number": "FA8750-25-S-7004",
-    "posted": "2026-08-07",
-    "text": "Multi-Domain Force Applications and Traffic Management for Unmanned Aircraft Systems (M-FAT)",
-    "title": "Multi-Domain Force Applications and Traffic Management for Unmanned Aircraft Systems (M-FAT)",
-    "type": "Presolicitation",
-    "url": "https://sam.gov/workspace/contract/opp/231668c988f04e459fc4a911d89adaf9/view"
-   }
-  },
-  {
-   "key": "da82da9604cb462cb1f612cbaa42366c",
-   "source": "pipeline-sam-unmanned",
-   "fields": {
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.USMC.MARCOR SYSCOM.COMMANDER",
-    "closes": "2026-09-11T12:00:00-04:00",
-    "number": "M67854-26-I-5206",
-    "posted": "2026-08-05",
-    "setaside": "No Set aside used",
-    "text": "5.56mm Counter-small Unmanned Aircraft System (C-sUAS) Ammunition",
-    "title": "5.56mm Counter-small Unmanned Aircraft System (C-sUAS) Ammunition",
-    "type": "Sources Sought",
-    "url": "https://sam.gov/workspace/contract/opp/da82da9604cb462cb1f612cbaa42366c/view"
    }
   },
   {

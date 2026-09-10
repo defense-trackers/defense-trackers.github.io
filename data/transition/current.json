@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-09-09T21:12:45Z",
+ "fetched_at": "2026-09-10T11:26:57Z",
  "schema_version": 1,
  "records": [
   {
@@ -149,6 +149,18 @@
    }
   },
   {
+   "key": "CONT_AWD_FA880625CB001_9700_-NONE-_-NONE-",
+   "source": "transition-prototype",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1.1237450768e+08",
+    "description": "TO PROTOTYPE AND DELIVER PROCESSES FOR THE SPACE COMMAND AND CONTROL MISSION AREA WITHIN BATTLE MANAGEMENT COMMAND, CONTROL, AND COMMUNICATIONS EXECUTIVE PORTFOLIO.",
+    "text": "MODERN TECHNOLOGY SOLUTIONS, INC.",
+    "title": "MODERN TECHNOLOGY SOLUTIONS, INC.",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA880625CB001_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_N0001422C1042_9700_-NONE-_-NONE-",
    "source": "transition-prototype",
    "fields": {
@@ -254,18 +266,6 @@
     "text": "INTUITIVE RESEARCH AND TECHNOLOGY CORPORATION",
     "title": "INTUITIVE RESEARCH AND TECHNOLOGY CORPORATION",
     "url": "https://www.usaspending.gov/award/CONT_AWD_FA248720F4310_9700_FA248718D4300_9700/"
-   }
-  },
-  {
-   "key": "CONT_AWD_FA880625CB001_9700_-NONE-_-NONE-",
-   "source": "transition-prototype",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "4.526243912e+07",
-    "description": "TO PROTOTYPE AND DELIVER PROCESSES FOR THE SPACE COMMAND AND CONTROL MISSION AREA WITHIN BATTLE MANAGEMENT COMMAND, CONTROL, AND COMMUNICATIONS EXECUTIVE PORTFOLIO.",
-    "text": "MODERN TECHNOLOGY SOLUTIONS, INC.",
-    "title": "MODERN TECHNOLOGY SOLUTIONS, INC.",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_FA880625CB001_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -934,6 +934,19 @@
    }
   },
   {
+   "key": "CONT_AWD_HT940223C0002_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "8.5307933799e+09",
+    "award_id": "HT940223C0002",
+    "description": "TRICARE MANAGED CARE SUPPORT SERVICES CONTRACT, 5TH GENERATION WEST REGION",
+    "text": "TRIWEST HEALTHCARE ALLIANCE CORP",
+    "title": "TRIWEST HEALTHCARE ALLIANCE CORP",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_HT940223C0002_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_N0001918C1037_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -944,19 +957,6 @@
     "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
     "title": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
     "url": "https://www.usaspending.gov/award/CONT_AWD_N0001918C1037_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_HT940223C0002_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "8.4046084152e+09",
-    "award_id": "HT940223C0002",
-    "description": "TRICARE MANAGED CARE SUPPORT SERVICES CONTRACT, 5TH GENERATION WEST REGION",
-    "text": "TRIWEST HEALTHCARE ALLIANCE CORP",
-    "title": "TRIWEST HEALTHCARE ALLIANCE CORP",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_HT940223C0002_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -1119,7 +1119,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "7.00848239576e+09",
+    "amount": "7.00885539576e+09",
     "award_id": "FA863418C2701",
     "description": "F-15, FMS, F-15QA AIR VEHICLE DEVELOPMENT",
     "text": "THE BOEING COMPANY",
@@ -1145,7 +1145,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "6.94816417774e+09",
+    "amount": "6.95439017774e+09",
     "award_id": "N0002418C2307",
     "description": "FY18-FY22 DDG 51 CLASS SHIP CONSTRUCTION",
     "text": "HUNTINGTON INGALLS INCORPORATED",
