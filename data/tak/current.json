@@ -1,19 +1,31 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-09-10T21:14:02Z",
+ "fetched_at": "2026-09-11T11:28:49Z",
  "schema_version": 1,
  "records": [
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-09-10T20:50:53Z",
+    "date": "2026-09-11T02:51:43Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "78",
     "text": "takwerx/infra-TAK",
     "title": "takwerx/infra-TAK",
     "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
+  {
+   "key": "joshuafuller/SRTM2TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-09-10T23:17:49Z",
+    "description": "Progressive Web App to download and package SRTM elevation data for ATAK (Android Team Awareness Kit). Features offline caching, concurrent downloads, and automatic ZIP packaging for direct import into ATAK.",
+    "stars": "10",
+    "text": "joshuafuller/SRTM2TAK",
+    "title": "joshuafuller/SRTM2TAK",
+    "url": "https://github.com/joshuafuller/SRTM2TAK"
    }
   },
   {
@@ -98,18 +110,6 @@
     "text": "rixau/atak-reactive",
     "title": "rixau/atak-reactive",
     "url": "https://github.com/rixau/atak-reactive"
-   }
-  },
-  {
-   "key": "joshuafuller/SRTM2TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-09-09T03:21:42Z",
-    "description": "Progressive Web App to download and package SRTM elevation data for ATAK (Android Team Awareness Kit). Features offline caching, concurrent downloads, and automatic ZIP packaging for direct import into ATAK.",
-    "stars": "10",
-    "text": "joshuafuller/SRTM2TAK",
-    "title": "joshuafuller/SRTM2TAK",
-    "url": "https://github.com/joshuafuller/SRTM2TAK"
    }
   },
   {
@@ -711,7 +711,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-09-02T10:45:54Z",
+    "date": "2026-09-11T11:26:59Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "34",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -789,10 +789,22 @@
    }
   },
   {
+   "key": "takwerx/feature-layer",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-11T09:02:18Z",
+    "description": "ATAK Plugin: Feature Layer — live ArcGIS feature layers from NIFC, SARCOP, CA Air Intel and your own org, with NWCG symbology. Downloads, guide and issues here.",
+    "stars": "1",
+    "text": "takwerx/feature-layer",
+    "title": "takwerx/feature-layer",
+    "url": "https://github.com/takwerx/feature-layer"
+   }
+  },
+  {
    "key": "takwerx/atak-plugins",
    "source": "tak-github",
    "fields": {
-    "date": "2026-09-10T20:32:59Z",
+    "date": "2026-09-11T09:06:27Z",
     "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
     "stars": "1",
     "text": "takwerx/atak-plugins",
@@ -804,9 +816,9 @@
    "key": "lcoriolan/PICKETCUAS-SWARM",
    "source": "tak-github",
    "fields": {
-    "date": "2026-09-10T19:26:23Z",
+    "date": "2026-09-11T06:18:27Z",
     "description": "PICKET SWARM: distributed acoustic detection plugin for ATAK — on-device sound classification, acoustic bearing, and multi-phone synthetic-aperture array cross-fixing on the map.",
-    "stars": "3",
+    "stars": "4",
     "text": "lcoriolan/PICKETCUAS-SWARM",
     "title": "lcoriolan/PICKETCUAS-SWARM",
     "url": "https://github.com/lcoriolan/PICKETCUAS-SWARM"
@@ -816,24 +828,12 @@
    "key": "lcoriolan/PICKETCUAS-SNOOPY",
    "source": "tak-github",
    "fields": {
-    "date": "2026-09-10T19:24:11Z",
+    "date": "2026-09-11T05:47:37Z",
     "description": "PICKET SNOOPY: passive, receive-only RF/ESM survey plugin for ATAK — spectrum awareness, drone Remote ID (ASTM F3411) decode, and non-cooperative emitter bearing on the map.",
-    "stars": "0",
+    "stars": "6",
     "text": "lcoriolan/PICKETCUAS-SNOOPY",
     "title": "lcoriolan/PICKETCUAS-SNOOPY",
     "url": "https://github.com/lcoriolan/PICKETCUAS-SNOOPY"
-   }
-  },
-  {
-   "key": "takwerx/feature-layer",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-10T03:31:10Z",
-    "description": "ATAK Plugin: Feature Layer — live ArcGIS feature layers from NIFC, SARCOP, CA Air Intel and your own org, with NWCG symbology. Downloads, guide and issues here.",
-    "stars": "1",
-    "text": "takwerx/feature-layer",
-    "title": "takwerx/feature-layer",
-    "url": "https://github.com/takwerx/feature-layer"
    }
   },
   {
@@ -1068,7 +1068,7 @@
    "fields": {
     "date": "2026-08-17T23:29:58Z",
     "description": "AIS and ADS-B plugin for ATAK",
-    "stars": "36",
+    "stars": "37",
     "text": "VCWG/Air-Sea",
     "title": "VCWG/Air-Sea",
     "url": "https://github.com/VCWG/Air-Sea"

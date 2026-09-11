@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-09-10T21:14:05Z",
+ "fetched_at": "2026-09-11T11:28:52Z",
  "schema_version": 1,
  "records": [
   {
@@ -165,7 +165,7 @@
    "source": "transition-prototype",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "9.913346323e+07",
+    "amount": "9.953346323e+07",
     "description": "RAPID AND AFFORDABLE SOFTWARE DEVELOPMENT SUPPORTING DISTRIBUTED MARITIME OPERATIONS (DMO). IDT HAS STOOD UP A PROTOTYPE DEVELOPMENT ENVIRONMENT THAT NOT ONLY ALLOWS FOR RAPID AND AFFORDABLE SOFTWARE DEVELOPMENT, BUT ALSO ALLOWS FOR SIMULTANEOUSLY M",
     "text": "INNOVATIVE DEFENSE TECHNOLOGIES, LLC",
     "title": "INNOVATIVE DEFENSE TECHNOLOGIES, LLC",
@@ -254,18 +254,6 @@
     "text": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC",
     "title": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_FA881919F1003_9700_FA881918D0009_9700/"
-   }
-  },
-  {
-   "key": "CONT_AWD_FA248720F4310_9700_FA248718D4300_9700",
-   "source": "transition-prototype",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "4.779565735e+07",
-    "description": "TEST\u0026EVALUATION TECHNOLOGIES, ARMAMENTS, AND SPECTRUM (TETRAS), RNRE PROTOTYPE\u0026DEVELOPMENT II",
-    "text": "INTUITIVE RESEARCH AND TECHNOLOGY CORPORATION",
-    "title": "INTUITIVE RESEARCH AND TECHNOLOGY CORPORATION",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_FA248720F4310_9700_FA248718D4300_9700/"
    }
   },
   {
@@ -557,6 +545,18 @@
    }
   },
   {
+   "key": "CONT_AWD_N6133121F3009_9700_N0017819D8049_9700",
+   "source": "transition-prototype",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1.959006898e+07",
+    "description": "TECHNICAL SUPPORT SERVICES TO NAVAL SURFACE WARFARE CENTER PANAMA CITY DIVISION PROTOTYPE FABRICATION SHOPS",
+    "text": "AKIMA MISSION OPTIMIZATION LLC",
+    "title": "AKIMA MISSION OPTIMIZATION LLC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_N6133121F3009_9700_N0017819D8049_9700/"
+   }
+  },
+  {
    "key": "CONT_AWD_HT940216C0001_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -704,7 +704,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "1.49119411119e+10",
+    "amount": "1.492555026948e+10",
     "award_id": "N0002418C2130",
     "description": "NAVAL NUCLEAR LABORATORY",
     "text": "FLUOR MARINE PROPULSION, LLC",
