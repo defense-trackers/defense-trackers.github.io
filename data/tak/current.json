@@ -1,9 +1,21 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-09-11T11:28:49Z",
+ "fetched_at": "2026-09-11T21:19:23Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "rixau/atak-reactive",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-09-11T18:34:14Z",
+    "description": "Build ATAK (Android Team Awareness Kit) plugin UIs with React and TypeScript. Typed WebView bridge, hot reload, incremental adoption.",
+    "stars": "2",
+    "text": "rixau/atak-reactive",
+    "title": "rixau/atak-reactive",
+    "url": "https://github.com/rixau/atak-reactive"
+   }
+  },
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
@@ -58,7 +70,7 @@
    "fields": {
     "date": "2026-09-09T02:50:52Z",
     "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
-    "stars": "19",
+    "stars": "20",
     "text": "engindearing-projects/OmniTAK-Android",
     "title": "engindearing-projects/OmniTAK-Android",
     "url": "https://github.com/engindearing-projects/OmniTAK-Android"
@@ -98,18 +110,6 @@
     "text": "snstac/dronecot",
     "title": "snstac/dronecot",
     "url": "https://github.com/snstac/dronecot"
-   }
-  },
-  {
-   "key": "rixau/atak-reactive",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-09-04T14:54:39Z",
-    "description": "Build ATAK (Android Team Awareness Kit) plugin UIs with React and TypeScript. Typed WebView bridge, hot reload, incremental adoption.",
-    "stars": "2",
-    "text": "rixau/atak-reactive",
-    "title": "rixau/atak-reactive",
-    "url": "https://github.com/rixau/atak-reactive"
    }
   },
   {
@@ -630,7 +630,7 @@
    "fields": {
     "date": "2026-08-13T17:54:34Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
-    "stars": "104",
+    "stars": "105",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
     "title": "FreeTAKTeam/Reticulum-Community-Hub",
     "url": "https://github.com/FreeTAKTeam/Reticulum-Community-Hub"
@@ -711,9 +711,9 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-09-11T11:26:59Z",
+    "date": "2026-09-11T13:32:18Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
-    "stars": "34",
+    "stars": "36",
     "text": "FreeTAKTeam/LXMF-rs",
     "title": "FreeTAKTeam/LXMF-rs",
     "url": "https://github.com/FreeTAKTeam/LXMF-rs"
@@ -786,6 +786,18 @@
     "text": "FreeTAKTeam/rpp-spec",
     "title": "FreeTAKTeam/rpp-spec",
     "url": "https://github.com/FreeTAKTeam/rpp-spec"
+   }
+  },
+  {
+   "key": "BUTTERGANG/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-11T16:17:44Z",
+    "description": "Public tier of atak-plugins — open-licensed / clean-room ATAK-CIV plugins rebuilt by BUTTERGANG. Private tier (SDK-derived scaffolds + protected-IP remixes): atak-plugins-private.",
+    "stars": "0",
+    "text": "BUTTERGANG/atak-plugins",
+    "title": "BUTTERGANG/atak-plugins",
+    "url": "https://github.com/BUTTERGANG/atak-plugins"
    }
   },
   {
@@ -1120,18 +1132,6 @@
     "text": "meshtastic/pluginmeshtastic",
     "title": "meshtastic/pluginmeshtastic",
     "url": "https://github.com/meshtastic/pluginmeshtastic"
-   }
-  },
-  {
-   "key": "Moicanox/Praetorian-Tools-ATAK-Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-08-09T11:45:53Z",
-    "description": "Release repository for Praetorian Tools for ATAK-CIV, providing logistics reporting and ATP formatted messaging compatible with Praetorian C2 Vehicle.",
-    "stars": "1",
-    "text": "Moicanox/Praetorian-Tools-ATAK-Plugin",
-    "title": "Moicanox/Praetorian-Tools-ATAK-Plugin",
-    "url": "https://github.com/Moicanox/Praetorian-Tools-ATAK-Plugin"
    }
   },
   {
