@@ -1,31 +1,31 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-09-11T21:19:23Z",
+ "fetched_at": "2026-09-12T10:53:40Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-09-12T07:29:39Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "79",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
   {
    "key": "rixau/atak-reactive",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-09-11T18:34:14Z",
+    "date": "2026-09-12T00:38:24Z",
     "description": "Build ATAK (Android Team Awareness Kit) plugin UIs with React and TypeScript. Typed WebView bridge, hot reload, incremental adoption.",
     "stars": "2",
     "text": "rixau/atak-reactive",
     "title": "rixau/atak-reactive",
     "url": "https://github.com/rixau/atak-reactive"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-09-11T02:51:43Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "78",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -214,7 +214,7 @@
    "fields": {
     "date": "2026-03-26T22:29:34Z",
     "description": "RTAK V2 brings the decentralized versatility of the Reticulum Network Stack to the Android Team Awareness Kit by serving as a bridge between it and RNS' secure heterogenous mesh networking stack.",
-    "stars": "8",
+    "stars": "9",
     "text": "C2A2-at-Florida-Atlantic-University/RTAK-V2",
     "title": "C2A2-at-Florida-Atlantic-University/RTAK-V2",
     "url": "https://github.com/C2A2-at-Florida-Atlantic-University/RTAK-V2"
@@ -789,6 +789,18 @@
    }
   },
   {
+   "key": "DrLexus11/urban-tak",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-12T07:24:35Z",
+    "description": "ATAK dense urban disaster response coordination plugin",
+    "stars": "0",
+    "text": "DrLexus11/urban-tak",
+    "title": "DrLexus11/urban-tak",
+    "url": "https://github.com/DrLexus11/urban-tak"
+   }
+  },
+  {
    "key": "BUTTERGANG/atak-plugins",
    "source": "tak-github",
    "fields": {
@@ -912,7 +924,7 @@
    "key": "HardlineLabs/hardline-relay-atak-plugin",
    "source": "tak-github",
    "fields": {
-    "date": "2026-09-09T05:35:32Z",
+    "date": "2026-09-12T04:32:30Z",
     "description": "Low-bandwidth Meshtastic PLI and native point sharing in ATAK, with offline channel profiles and independent mesh status. A hobby project.",
     "stars": "0",
     "text": "HardlineLabs/hardline-relay-atak-plugin",
@@ -1104,7 +1116,7 @@
    "fields": {
     "date": "2026-08-15T02:49:29Z",
     "description": "ATAK Plugin that pulls position data from APRSdroid into ATAK",
-    "stars": "3",
+    "stars": "2",
     "text": "kd2var/aprsdroid-atak-plugin",
     "title": "kd2var/aprsdroid-atak-plugin",
     "url": "https://github.com/kd2var/aprsdroid-atak-plugin"
@@ -1120,18 +1132,6 @@
     "text": "frrojas92/DF_ESCTEL",
     "title": "frrojas92/DF_ESCTEL",
     "url": "https://github.com/frrojas92/DF_ESCTEL"
-   }
-  },
-  {
-   "key": "meshtastic/pluginmeshtastic",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-08-09T13:37:50Z",
-    "description": "A standalone Meshtastic plugin for ATAK",
-    "stars": "26",
-    "text": "meshtastic/pluginmeshtastic",
-    "title": "meshtastic/pluginmeshtastic",
-    "url": "https://github.com/meshtastic/pluginmeshtastic"
    }
   },
   {

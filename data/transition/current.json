@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-09-11T21:19:26Z",
+ "fetched_at": "2026-09-12T10:53:42Z",
  "schema_version": 1,
  "records": [
   {
@@ -613,7 +613,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "31078526826",
+    "amount": "31193149004",
     "award_id": "N0002417C2117",
     "description": "COLUMBIA CLASS DESIGN COMPLETION",
     "text": "ELECTRIC BOAT CORPORATION",
@@ -743,7 +743,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "1.279528867285e+10",
+    "amount": "1.279749756385e+10",
     "award_id": "N0002416C2116",
     "description": "CVN 80 ENGINEERING EFFORTS AND STEEL",
     "text": "HUNTINGTON INGALLS INC",
@@ -986,18 +986,6 @@
    }
   },
   {
-   "key": "CONT_AWD_N0001904C3146_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "7.63372988876e+09",
-    "award_id": "N0001904C3146",
-    "text": "THE BOEING COMPANY",
-    "title": "THE BOEING COMPANY",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_N0001904C3146_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
    "key": "CONT_AWD_N0001920C0011_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -1203,6 +1191,18 @@
     "text": "OSHKOSH DEFENSE LLC",
     "title": "OSHKOSH DEFENSE LLC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W56HZV15C0095_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_N0001906C0081_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "6.10328553196e+09",
+    "award_id": "N0001906C0081",
+    "text": "SIKORSKY AIRCRAFT CORPORATION",
+    "title": "SIKORSKY AIRCRAFT CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_N0001906C0081_9700_-NONE-_-NONE-/"
    }
   }
  ]
