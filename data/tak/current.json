@@ -1,31 +1,31 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-09-14T12:56:49Z",
+ "fetched_at": "2026-09-14T22:05:38Z",
  "schema_version": 1,
  "records": [
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-09-14T02:36:10Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "79",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
-   }
-  },
   {
    "key": "rixau/atak-reactive",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-09-12T18:39:26Z",
+    "date": "2026-09-14T16:12:44Z",
     "description": "Build ATAK (Android Team Awareness Kit) plugin UIs with React and TypeScript. Typed WebView bridge, hot reload, incremental adoption.",
     "stars": "2",
     "text": "rixau/atak-reactive",
     "title": "rixau/atak-reactive",
     "url": "https://github.com/rixau/atak-reactive"
+   }
+  },
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-09-14T15:03:50Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "79",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -789,6 +789,30 @@
    }
   },
   {
+   "key": "takwerx/feature-layer",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-14T13:34:43Z",
+    "description": "ATAK Plugin: Feature Layer — live ArcGIS feature layers from NIFC, SARCOP, CA Air Intel and your own org, with NWCG symbology. Downloads, guide and issues here.",
+    "stars": "1",
+    "text": "takwerx/feature-layer",
+    "title": "takwerx/feature-layer",
+    "url": "https://github.com/takwerx/feature-layer"
+   }
+  },
+  {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-14T13:37:28Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "1",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
    "key": "Hellikandra/ATAK-Plugin-KMLReplay",
    "source": "tak-github",
    "fields": {
@@ -837,24 +861,12 @@
    }
   },
   {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-12T17:00:38Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "1",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
-   }
-  },
-  {
    "key": "takwerx/comms",
    "source": "tak-github",
    "fields": {
     "date": "2026-09-12T16:44:51Z",
     "description": "ATAK Plugin: Comms — mountaintop radio sites, the nets on each and the tone that opens them. Downloads, guide and issues here.",
-    "stars": "1",
+    "stars": "2",
     "text": "takwerx/comms",
     "title": "takwerx/comms",
     "url": "https://github.com/takwerx/comms"
@@ -882,18 +894,6 @@
     "text": "BUTTERGANG/atak-plugins",
     "title": "BUTTERGANG/atak-plugins",
     "url": "https://github.com/BUTTERGANG/atak-plugins"
-   }
-  },
-  {
-   "key": "takwerx/feature-layer",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-11T09:02:18Z",
-    "description": "ATAK Plugin: Feature Layer — live ArcGIS feature layers from NIFC, SARCOP, CA Air Intel and your own org, with NWCG symbology. Downloads, guide and issues here.",
-    "stars": "1",
-    "text": "takwerx/feature-layer",
-    "title": "takwerx/feature-layer",
-    "url": "https://github.com/takwerx/feature-layer"
    }
   },
   {
@@ -960,7 +960,7 @@
    "key": "Hellikandra/ATAK-Plugin-Hats",
    "source": "tak-github",
    "fields": {
-    "date": "2026-09-09T08:38:59Z",
+    "date": "2026-09-14T14:51:44Z",
     "description": "Managing multiple profile over ATAK.",
     "stars": "1",
     "text": "Hellikandra/ATAK-Plugin-Hats",
