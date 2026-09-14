@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-09-13T21:09:27Z",
+ "fetched_at": "2026-09-14T12:56:49Z",
  "schema_version": 1,
  "records": [
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-09-13T17:33:55Z",
+    "date": "2026-09-14T02:36:10Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "79",
     "text": "takwerx/infra-TAK",
@@ -789,10 +789,34 @@
    }
   },
   {
+   "key": "Hellikandra/ATAK-Plugin-KMLReplay",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-14T09:53:57Z",
+    "description": "ATAK Plugin which provide the possibility to replay time stamped KML file",
+    "stars": "0",
+    "text": "Hellikandra/ATAK-Plugin-KMLReplay",
+    "title": "Hellikandra/ATAK-Plugin-KMLReplay",
+    "url": "https://github.com/Hellikandra/ATAK-Plugin-KMLReplay"
+   }
+  },
+  {
+   "key": "Hellikandra/ATAK-Plugin-ERT",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-14T08:23:35Z",
+    "description": "ATAK Plugin Emergency Time Response provide the capability to coordinate units and get ETA to an emergency.",
+    "stars": "0",
+    "text": "Hellikandra/ATAK-Plugin-ERT",
+    "title": "Hellikandra/ATAK-Plugin-ERT",
+    "url": "https://github.com/Hellikandra/ATAK-Plugin-ERT"
+   }
+  },
+  {
    "key": "AkitaEngineering/Akita-MeshTAK",
    "source": "tak-github",
    "fields": {
-    "date": "2026-09-13T20:42:37Z",
+    "date": "2026-09-14T07:12:29Z",
     "description": "The Akita MeshTAK Plugin is a game-changing Android Tactical Assault Kit (ATAK) plugin meticulously crafted to bridge the gap between ATAK and Meshtastic, providing unparalleled communication capabilities in the most challenging and disconnected environments.",
     "stars": "16",
     "text": "AkitaEngineering/Akita-MeshTAK",
@@ -984,7 +1008,7 @@
    "key": "TX-RX/TAK-XVoice",
    "source": "tak-github",
    "fields": {
-    "date": "2026-09-08T14:00:19Z",
+    "date": "2026-09-14T06:20:35Z",
     "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
     "stars": "10",
     "text": "TX-RX/TAK-XVoice",
@@ -1108,30 +1132,6 @@
     "text": "takwerx/plss-data",
     "title": "takwerx/plss-data",
     "url": "https://github.com/takwerx/plss-data"
-   }
-  },
-  {
-   "key": "VCWG/Air-Sea",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-08-17T23:29:58Z",
-    "description": "AIS and ADS-B plugin for ATAK",
-    "stars": "37",
-    "text": "VCWG/Air-Sea",
-    "title": "VCWG/Air-Sea",
-    "url": "https://github.com/VCWG/Air-Sea"
-   }
-  },
-  {
-   "key": "CopIXus/PlowTAK",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-08-16T03:17:02Z",
-    "description": "PlowTAK — ATAK plugin for snow plow fleet coverage tracking during winter storms (CopIX)",
-    "stars": "2",
-    "text": "CopIXus/PlowTAK",
-    "title": "CopIXus/PlowTAK",
-    "url": "https://github.com/CopIXus/PlowTAK"
    }
   },
   {
