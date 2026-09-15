@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-09-15T11:51:24Z",
+ "fetched_at": "2026-09-15T21:47:29Z",
  "schema_version": 1,
  "records": [
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-09-15T03:03:33Z",
+    "date": "2026-09-15T21:19:11Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "79",
     "text": "takwerx/infra-TAK",
@@ -20,7 +20,7 @@
    "key": "rixau/atak-reactive",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-09-14T16:12:44Z",
+    "date": "2026-09-15T21:09:52Z",
     "description": "Build ATAK (Android Team Awareness Kit) plugin UIs with React and TypeScript. Typed WebView bridge, hot reload, incremental adoption.",
     "stars": "2",
     "text": "rixau/atak-reactive",
@@ -570,7 +570,7 @@
    "key": "FreeTAKTeam/DigitalArchitectureFramework",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-08-25T21:33:09Z",
+    "date": "2026-09-15T20:27:27Z",
     "description": "The Digital Architecture Framework (DAF),  is a set modeling tools for Digital Engineering. ",
     "stars": "8",
     "text": "FreeTAKTeam/DigitalArchitectureFramework",
@@ -711,9 +711,9 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-09-12T18:36:01Z",
+    "date": "2026-09-15T18:06:15Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
-    "stars": "36",
+    "stars": "37",
     "text": "FreeTAKTeam/LXMF-rs",
     "title": "FreeTAKTeam/LXMF-rs",
     "url": "https://github.com/FreeTAKTeam/LXMF-rs"
@@ -786,6 +786,18 @@
     "text": "FreeTAKTeam/rpp-spec",
     "title": "FreeTAKTeam/rpp-spec",
     "url": "https://github.com/FreeTAKTeam/rpp-spec"
+   }
+  },
+  {
+   "key": "takwerx/dozer-country",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-15T19:34:11Z",
+    "description": "ATAK Plugin: Dozer Country — where a dozer can work, shaded on the map against the S-232 slope limits. Downloads, guide and issues here.",
+    "stars": "0",
+    "text": "takwerx/dozer-country",
+    "title": "takwerx/dozer-country",
+    "url": "https://github.com/takwerx/dozer-country"
    }
   },
   {
@@ -1056,7 +1068,7 @@
    "key": "jpat-12/TAK-PluginSuite-ATAK_ICU",
    "source": "tak-github",
    "fields": {
-    "date": "2026-09-04T16:12:49Z",
+    "date": "2026-09-15T20:24:19Z",
     "stars": "10",
     "text": "jpat-12/TAK-PluginSuite-ATAK_ICU",
     "title": "jpat-12/TAK-PluginSuite-ATAK_ICU",
@@ -1120,18 +1132,6 @@
     "text": "onemindos/atak-plugin-omhud",
     "title": "onemindos/atak-plugin-omhud",
     "url": "https://github.com/onemindos/atak-plugin-omhud"
-   }
-  },
-  {
-   "key": "takwerx/plss-data",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-08-20T20:12:40Z",
-    "description": "Data packs (not a plugin) for the ATAK PLSS Grid plugin — downloaded by the plugin at runtime. Derived from BLM National PLSS CadNSDI (US public domain).",
-    "stars": "0",
-    "text": "takwerx/plss-data",
-    "title": "takwerx/plss-data",
-    "url": "https://github.com/takwerx/plss-data"
    }
   },
   {
