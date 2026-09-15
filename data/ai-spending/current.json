@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-09-14T22:04:00Z",
+ "fetched_at": "2026-09-15T11:49:47Z",
  "schema_version": 1,
  "records": [
   {
@@ -170,6 +170,18 @@
     "text": "CACI, INC. - FEDERAL",
     "title": "CACI, INC. - FEDERAL",
     "url": "https://www.usaspending.gov/award/CONT_AWD_FA865023C7318_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_W912HZ26CA026_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "11716059",
+    "description": "HPE AI FACTORY FOR TRANSFORMATIVE ARTIFICIAL INTELLIGENCE/MACHINE LEARNING HIGH-PERFORMANCE COMPUTING.",
+    "text": "HEWLETT PACKARD ENTERPRISE CO",
+    "title": "HEWLETT PACKARD ENTERPRISE CO",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W912HZ26CA026_9700_-NONE-_-NONE-/"
    }
   },
   {

@@ -1,9 +1,21 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-09-14T22:05:38Z",
+ "fetched_at": "2026-09-15T11:51:24Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-09-15T03:03:33Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "79",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
   {
    "key": "rixau/atak-reactive",
    "source": "tak-cot",
@@ -17,24 +29,12 @@
    }
   },
   {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-09-14T15:03:50Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "79",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
-   }
-  },
-  {
    "key": "joshuafuller/SRTM2TAK",
    "source": "tak-cot",
    "fields": {
     "date": "2026-09-10T23:17:49Z",
     "description": "Progressive Web App to download and package SRTM elevation data for ATAK (Android Team Awareness Kit). Features offline caching, concurrent downloads, and automatic ZIP packaging for direct import into ATAK.",
-    "stars": "10",
+    "stars": "11",
     "text": "joshuafuller/SRTM2TAK",
     "title": "joshuafuller/SRTM2TAK",
     "url": "https://github.com/joshuafuller/SRTM2TAK"
@@ -250,7 +250,7 @@
    "fields": {
     "date": "2026-01-03T17:29:00Z",
     "description": "C++ Client Library for Team Awareness Kit (TAK)",
-    "stars": "0",
+    "stars": "1",
     "text": "jwdinius/taktile",
     "title": "jwdinius/taktile",
     "url": "https://github.com/jwdinius/taktile"
@@ -630,7 +630,7 @@
    "fields": {
     "date": "2026-08-13T17:54:34Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
-    "stars": "105",
+    "stars": "106",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
     "title": "FreeTAKTeam/Reticulum-Community-Hub",
     "url": "https://github.com/FreeTAKTeam/Reticulum-Community-Hub"
@@ -748,7 +748,7 @@
    "fields": {
     "date": "2026-09-02T15:30:18Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
-    "stars": "30",
+    "stars": "31",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
     "title": "FreeTAKTeam/reticulum_mobile_emergency_management",
     "url": "https://github.com/FreeTAKTeam/reticulum_mobile_emergency_management"
@@ -789,6 +789,30 @@
    }
   },
   {
+   "key": "takwerx/comms",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-15T03:00:08Z",
+    "description": "ATAK Plugin: Comms — mountaintop radio sites, the nets on each and the tone that opens them. Downloads, guide and issues here.",
+    "stars": "2",
+    "text": "takwerx/comms",
+    "title": "takwerx/comms",
+    "url": "https://github.com/takwerx/comms"
+   }
+  },
+  {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-15T03:00:53Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "1",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
    "key": "takwerx/feature-layer",
    "source": "tak-github",
    "fields": {
@@ -798,18 +822,6 @@
     "text": "takwerx/feature-layer",
     "title": "takwerx/feature-layer",
     "url": "https://github.com/takwerx/feature-layer"
-   }
-  },
-  {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-14T13:37:28Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "1",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
    }
   },
   {
@@ -858,18 +870,6 @@
     "text": "DrLexus11/reticulum-atak",
     "title": "DrLexus11/reticulum-atak",
     "url": "https://github.com/DrLexus11/reticulum-atak"
-   }
-  },
-  {
-   "key": "takwerx/comms",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-12T16:44:51Z",
-    "description": "ATAK Plugin: Comms — mountaintop radio sites, the nets on each and the tone that opens them. Downloads, guide and issues here.",
-    "stars": "2",
-    "text": "takwerx/comms",
-    "title": "takwerx/comms",
-    "url": "https://github.com/takwerx/comms"
    }
   },
   {
@@ -1104,7 +1104,7 @@
    "source": "tak-github",
    "fields": {
     "date": "2026-08-30T19:29:11Z",
-    "stars": "54",
+    "stars": "55",
     "text": "Hellikandra/ATAK-Weather-Plugin",
     "title": "Hellikandra/ATAK-Weather-Plugin",
     "url": "https://github.com/Hellikandra/ATAK-Weather-Plugin"
