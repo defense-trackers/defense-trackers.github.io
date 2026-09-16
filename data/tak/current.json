@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-09-16T11:48:14Z",
+ "fetched_at": "2026-09-16T21:46:26Z",
  "schema_version": 1,
  "records": [
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-09-16T00:49:25Z",
+    "date": "2026-09-16T17:15:21Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "79",
     "text": "takwerx/infra-TAK",
@@ -20,7 +20,7 @@
    "key": "rixau/atak-reactive",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-09-15T23:27:57Z",
+    "date": "2026-09-16T21:30:42Z",
     "description": "Build ATAK (Android Team Awareness Kit) plugin UIs with React and TypeScript. Typed WebView bridge, hot reload, incremental adoption.",
     "stars": "2",
     "text": "rixau/atak-reactive",
@@ -58,7 +58,7 @@
    "fields": {
     "date": "2026-09-09T03:15:45Z",
     "description": "Open-source TAK (Team Awareness Kit) client for iPhone and iPad. Swift + SwiftUI. Apache 2.0.",
-    "stars": "7",
+    "stars": "8",
     "text": "engindearing-projects/OmniTAK-iOS",
     "title": "engindearing-projects/OmniTAK-iOS",
     "url": "https://github.com/engindearing-projects/OmniTAK-iOS"
@@ -358,7 +358,7 @@
    "fields": {
     "date": "2024-10-29T11:52:00Z",
     "description": "Situational Awareness Server compatible with TAK clients",
-    "stars": "957",
+    "stars": "958",
     "text": "FreeTAKTeam/FreeTakServer",
     "title": "FreeTAKTeam/FreeTakServer",
     "url": "https://github.com/FreeTAKTeam/FreeTakServer"
@@ -630,7 +630,7 @@
    "fields": {
     "date": "2026-08-13T17:54:34Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
-    "stars": "106",
+    "stars": "107",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
     "title": "FreeTAKTeam/Reticulum-Community-Hub",
     "url": "https://github.com/FreeTAKTeam/Reticulum-Community-Hub"
@@ -789,12 +789,24 @@
    }
   },
   {
+   "key": "Hellikandra/ATAK-Plugin-ERT",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-16T20:34:14Z",
+    "description": "ATAK Plugin Emergency Time Response provide the capability to coordinate units and get ETA to an emergency.",
+    "stars": "1",
+    "text": "Hellikandra/ATAK-Plugin-ERT",
+    "title": "Hellikandra/ATAK-Plugin-ERT",
+    "url": "https://github.com/Hellikandra/ATAK-Plugin-ERT"
+   }
+  },
+  {
    "key": "takwerx/dozer-country",
    "source": "tak-github",
    "fields": {
-    "date": "2026-09-16T00:47:48Z",
+    "date": "2026-09-16T16:04:06Z",
     "description": "ATAK Plugin: Dozer Country — where a dozer can work, shaded on the map against the S-232 slope limits. Downloads, guide and issues here.",
-    "stars": "0",
+    "stars": "1",
     "text": "takwerx/dozer-country",
     "title": "takwerx/dozer-country",
     "url": "https://github.com/takwerx/dozer-country"
@@ -804,7 +816,7 @@
    "key": "takwerx/atak-plugins",
    "source": "tak-github",
    "fields": {
-    "date": "2026-09-16T00:50:55Z",
+    "date": "2026-09-16T16:07:07Z",
     "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
     "stars": "1",
     "text": "takwerx/atak-plugins",
@@ -818,7 +830,7 @@
    "fields": {
     "date": "2026-09-15T03:00:08Z",
     "description": "ATAK Plugin: Comms — mountaintop radio sites, the nets on each and the tone that opens them. Downloads, guide and issues here.",
-    "stars": "2",
+    "stars": "3",
     "text": "takwerx/comms",
     "title": "takwerx/comms",
     "url": "https://github.com/takwerx/comms"
@@ -846,18 +858,6 @@
     "text": "Hellikandra/ATAK-Plugin-KMLReplay",
     "title": "Hellikandra/ATAK-Plugin-KMLReplay",
     "url": "https://github.com/Hellikandra/ATAK-Plugin-KMLReplay"
-   }
-  },
-  {
-   "key": "Hellikandra/ATAK-Plugin-ERT",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-14T08:23:35Z",
-    "description": "ATAK Plugin Emergency Time Response provide the capability to coordinate units and get ETA to an emergency.",
-    "stars": "0",
-    "text": "Hellikandra/ATAK-Plugin-ERT",
-    "title": "Hellikandra/ATAK-Plugin-ERT",
-    "url": "https://github.com/Hellikandra/ATAK-Plugin-ERT"
    }
   },
   {
@@ -926,7 +926,7 @@
    "fields": {
     "date": "2026-09-11T05:47:37Z",
     "description": "PICKET SNOOPY: passive, receive-only RF/ESM survey plugin for ATAK — spectrum awareness, drone Remote ID (ASTM F3411) decode, and non-cooperative emitter bearing on the map.",
-    "stars": "7",
+    "stars": "8",
     "text": "lcoriolan/PICKETCUAS-SNOOPY",
     "title": "lcoriolan/PICKETCUAS-SNOOPY",
     "url": "https://github.com/lcoriolan/PICKETCUAS-SNOOPY"
@@ -938,7 +938,7 @@
    "fields": {
     "date": "2026-09-10T02:36:04Z",
     "description": "ATAK Plugin: TAKwerx Market — install and update takwerx plugins from inside ATAK. Downloads, guide and issues here.",
-    "stars": "8",
+    "stars": "9",
     "text": "takwerx/takwerx-market",
     "title": "takwerx/takwerx-market",
     "url": "https://github.com/takwerx/takwerx-market"
@@ -1010,7 +1010,7 @@
    "fields": {
     "date": "2026-09-07T23:56:53Z",
     "description": "ATAK Plugin: Cam Depot — public traffic and wildfire cameras on the ATAK map, with live video where the agency streams. Downloads, guide and issues here.",
-    "stars": "5",
+    "stars": "6",
     "text": "takwerx/cam-depot",
     "title": "takwerx/cam-depot",
     "url": "https://github.com/takwerx/cam-depot"
@@ -1034,7 +1034,7 @@
    "fields": {
     "date": "2026-09-07T04:17:55Z",
     "description": "ATAK Plugin: FOBS — Field Observation Survey: walk, draw, import, split and join a perimeter into an ATAK shape, live to a Data Sync feed. Downloads, guide and issues here.",
-    "stars": "0",
+    "stars": "1",
     "text": "takwerx/fobs",
     "title": "takwerx/fobs",
     "url": "https://github.com/takwerx/fobs"
@@ -1093,7 +1093,7 @@
    "fields": {
     "date": "2026-09-01T01:22:01Z",
     "description": "ATAK Plugin: Traffic — live traffic overlay drawn over your own base map, kept refreshing while the map sits still. Downloads, guide and issues here.",
-    "stars": "12",
+    "stars": "13",
     "text": "takwerx/traffic",
     "title": "takwerx/traffic",
     "url": "https://github.com/takwerx/traffic"
@@ -1105,7 +1105,7 @@
    "fields": {
     "date": "2026-09-01T01:21:55Z",
     "description": "ATAK Plugin: PLSS Grid — township, range and section overlay from BLM survey data. Downloads, guide and issues here.",
-    "stars": "2",
+    "stars": "3",
     "text": "takwerx/plss-grid",
     "title": "takwerx/plss-grid",
     "url": "https://github.com/takwerx/plss-grid"

@@ -1,7 +1,7 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-09-16T11:47:44Z",
+ "fetched_at": "2026-09-16T21:45:55Z",
  "schema_version": 1,
  "records": [
   {
@@ -250,7 +250,7 @@
    "fields": {
     "date": "2026-09-15T15:14:57Z",
     "description": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.",
-    "stars": "2511",
+    "stars": "2510",
     "text": "cisagov/Malcolm",
     "title": "cisagov/Malcolm",
     "url": "https://github.com/cisagov/Malcolm"
@@ -308,7 +308,7 @@
    "key": "cisagov/ioc-scanner",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-08-05T19:59:10Z",
+    "date": "2026-09-16T18:12:41Z",
     "description": "Search a filesystem for indicators of compromise (IoC).",
     "stars": "87",
     "text": "cisagov/ioc-scanner",
@@ -344,7 +344,7 @@
    "key": "cisagov/pca-gophish-composition",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-08-06T14:09:36Z",
+    "date": "2026-09-16T19:22:40Z",
     "description": "Phishing campaign docker composition for Gophish",
     "stars": "45",
     "text": "cisagov/pca-gophish-composition",
@@ -572,7 +572,7 @@
    "key": "idaholab/moose",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-09-16T09:08:48Z",
+    "date": "2026-09-16T21:40:35Z",
     "description": "Multiphysics Object Oriented Simulation Environment",
     "stars": "2349",
     "text": "idaholab/moose",
@@ -632,7 +632,7 @@
    "key": "idaholab/EMRALD",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-09-09T13:41:29Z",
+    "date": "2026-09-16T14:48:17Z",
     "description": "Event Modeling Risk Assessment using Linked Diagrams (EMRALD) is a software tool developed at INL for researching the capabilities of dynamic PRA (Probabilistic Risk Assessment). In order to promote the effective use of dynamic PRA by the general community, EMRALD focuses on the following key aspects: Simplifying the modeling process by providing a structure that corresponds to traditional PRA modeling methods Providing a user interface (UI) that makes it easy for the user to model and visualize complex interactions Allowing the user to couple with other analysis applications such as physics based simulations. This includes one-way communication for most applications and two-way loose coupling for customizable applications Providing the sequence and timing of events that lead to the specified outcomes when calculating results Traditional aspects of components with basic events, fault trees, and event trees are all captured in a dynamic framework of state diagrams, which are displayed ",
     "stars": "32",
     "text": "idaholab/EMRALD",
@@ -799,7 +799,7 @@
    "key": "llnl/Caliper",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-09-14T17:13:30Z",
+    "date": "2026-09-16T15:58:33Z",
     "description": "Caliper is an instrumentation and performance profiling library",
     "stars": "420",
     "text": "llnl/Caliper",
@@ -835,7 +835,7 @@
    "key": "llnl/RAJA",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-09-15T22:51:44Z",
+    "date": "2026-09-16T16:15:53Z",
     "description": "RAJA Performance Portability Layer (C++)",
     "stars": "598",
     "text": "llnl/RAJA",
@@ -884,7 +884,7 @@
    "fields": {
     "date": "2026-08-05T22:57:18Z",
     "description": "Cyber Threat Intelligence Repository expressed in STIX 2.0",
-    "stars": "2139",
+    "stars": "2140",
     "text": "mitre/cti",
     "title": "mitre/cti",
     "url": "https://github.com/mitre/cti"
@@ -1014,7 +1014,7 @@
    "key": "nasa/trick",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-09-15T20:46:39Z",
+    "date": "2026-09-16T15:09:20Z",
     "description": "Trick Simulation Environment.  Trick provides a common set of simulation capabilities and utilities to build simulations automatically.",
     "stars": "169",
     "text": "nasa/trick",
@@ -1038,7 +1038,7 @@
    "key": "nasa/earthdata-search",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-09-15T20:12:01Z",
+    "date": "2026-09-16T21:11:10Z",
     "description": "Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.",
     "stars": "824",
     "text": "nasa/earthdata-search",
@@ -1086,7 +1086,7 @@
    "key": "nasa/Common-Metadata-Repository",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-09-16T09:06:22Z",
+    "date": "2026-09-16T17:49:49Z",
     "description": "The Common Metadata Repository (CMR) is a high-performance, high-quality, continuously evolving metadata system that catalogs Earth Science data and associated service metadata records. These metadata records are registered, modified, discovered, and accessed through programmatic interfaces leveraging standard protocols and APIs.",
     "stars": "396",
     "text": "nasa/Common-Metadata-Repository",
@@ -1136,7 +1136,7 @@
    "fields": {
     "date": "2026-09-15T14:36:15Z",
     "description": "Hootenanny conflates multiple maps into a single seamless map.",
-    "stars": "390",
+    "stars": "391",
     "text": "ngageoint/hootenanny",
     "title": "ngageoint/hootenanny",
     "url": "https://github.com/ngageoint/hootenanny"
@@ -1206,7 +1206,7 @@
    "key": "nsacyber/HIRS",
    "source": "oss-nsacyber",
    "fields": {
-    "date": "2026-09-15T19:57:12Z",
+    "date": "2026-09-16T21:31:28Z",
     "description": "Trusted Computing based services supporting TPM provisioning and supply chain validation concepts. #nsacyber",
     "stars": "213",
     "text": "nsacyber/HIRS",
@@ -1266,7 +1266,7 @@
    "key": "ORNL/HeCBench",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-09-15T15:14:54Z",
+    "date": "2026-09-16T20:17:07Z",
     "stars": "305",
     "text": "ORNL/HeCBench",
     "title": "ORNL/HeCBench",
@@ -1327,7 +1327,7 @@
    "fields": {
     "date": "2026-08-12T19:18:36Z",
     "description": "Runtime provenance for AI and scientific workflows—capture, enrich, and query workflow data via observability adapters and code annotation across edge, cloud, and HPC.",
-    "stars": "33",
+    "stars": "34",
     "text": "ORNL/flowcept",
     "title": "ORNL/flowcept",
     "url": "https://github.com/ORNL/flowcept"
@@ -1337,7 +1337,7 @@
    "key": "ORNL/superneuroabm",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-09-04T20:59:21Z",
+    "date": "2026-09-16T17:59:05Z",
     "description": "A GPU-based multi-agent simulation framework for neuromorphic computing",
     "stars": "8",
     "text": "ORNL/superneuroabm",
@@ -1351,7 +1351,7 @@
    "fields": {
     "date": "2026-09-01T13:44:17Z",
     "description": "A continuum physics code for additive manufacturing built on OpenFOAM",
-    "stars": "73",
+    "stars": "74",
     "text": "ORNL/AdditiveFOAM",
     "title": "ORNL/AdditiveFOAM",
     "url": "https://github.com/ORNL/AdditiveFOAM"
@@ -1361,7 +1361,7 @@
    "key": "ORNL/GridKit",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-09-16T00:17:14Z",
+    "date": "2026-09-16T21:30:18Z",
     "description": "Modeling framework for power systems simulations and analysis.",
     "stars": "27",
     "text": "ORNL/GridKit",
