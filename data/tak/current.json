@@ -1,9 +1,21 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-09-18T11:23:20Z",
+ "fetched_at": "2026-09-18T21:16:53Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-09-18T18:23:48Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "79",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
   {
    "key": "rixau/atak-reactive",
    "source": "tak-cot",
@@ -14,18 +26,6 @@
     "text": "rixau/atak-reactive",
     "title": "rixau/atak-reactive",
     "url": "https://github.com/rixau/atak-reactive"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-09-18T10:27:52Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "79",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -70,7 +70,7 @@
    "fields": {
     "date": "2026-09-09T02:50:52Z",
     "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
-    "stars": "20",
+    "stars": "21",
     "text": "engindearing-projects/OmniTAK-Android",
     "title": "engindearing-projects/OmniTAK-Android",
     "url": "https://github.com/engindearing-projects/OmniTAK-Android"
@@ -214,7 +214,7 @@
    "fields": {
     "date": "2026-03-26T22:29:34Z",
     "description": "RTAK V2 brings the decentralized versatility of the Reticulum Network Stack to the Android Team Awareness Kit by serving as a bridge between it and RNS' secure heterogenous mesh networking stack.",
-    "stars": "9",
+    "stars": "10",
     "text": "C2A2-at-Florida-Atlantic-University/RTAK-V2",
     "title": "C2A2-at-Florida-Atlantic-University/RTAK-V2",
     "url": "https://github.com/C2A2-at-Florida-Atlantic-University/RTAK-V2"
@@ -687,7 +687,7 @@
    "key": "FreeTAKTeam/staged-recipes",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-07-14T14:22:43Z",
+    "date": "2026-09-18T16:55:14Z",
     "description": "A place to submit conda recipes before they become fully fledged conda-forge feedstocks",
     "stars": "0",
     "text": "FreeTAKTeam/staged-recipes",
@@ -786,6 +786,18 @@
     "text": "FreeTAKTeam/rpp-spec",
     "title": "FreeTAKTeam/rpp-spec",
     "url": "https://github.com/FreeTAKTeam/rpp-spec"
+   }
+  },
+  {
+   "key": "timretout/atak-zenoh-plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-18T15:12:34Z",
+    "description": "Zenoh plugin for ATAK",
+    "stars": "0",
+    "text": "timretout/atak-zenoh-plugin",
+    "title": "timretout/atak-zenoh-plugin",
+    "url": "https://github.com/timretout/atak-zenoh-plugin"
    }
   },
   {
@@ -1120,18 +1132,6 @@
     "text": "Hellikandra/ATAK-Weather-Plugin",
     "title": "Hellikandra/ATAK-Weather-Plugin",
     "url": "https://github.com/Hellikandra/ATAK-Weather-Plugin"
-   }
-  },
-  {
-   "key": "onemindos/atak-plugin-omhud",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-08-21T04:07:53Z",
-    "description": "OneMind HUD (OMHud) — tactical AR overlay plugin for ATAK",
-    "stars": "0",
-    "text": "onemindos/atak-plugin-omhud",
-    "title": "onemindos/atak-plugin-omhud",
-    "url": "https://github.com/onemindos/atak-plugin-omhud"
    }
   },
   {
