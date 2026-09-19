@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-09-18T21:17:12Z",
+ "fetched_at": "2026-09-19T11:06:43Z",
  "schema_version": 1,
  "records": [
   {
@@ -117,7 +117,7 @@
    "source": "transition-prototype",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "1.2057505935e+08",
+    "amount": "1.2049219574e+08",
     "description": "RESEARCH AND DEVELOPMENT EFFORT TO DESIGN AND DEVELOP PROTOTYPES TO ARTIFICIAL INTELLIGENCE/MACHINE LEARNING ALGORITHMS.",
     "text": "ECS FEDERAL, LLC",
     "title": "ECS FEDERAL, LLC",
@@ -129,7 +129,7 @@
    "source": "transition-prototype",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "1.1237450768e+08",
+    "amount": "1.1238400768e+08",
     "description": "TO PROTOTYPE AND DELIVER PROCESSES FOR THE SPACE COMMAND AND CONTROL MISSION AREA WITHIN BATTLE MANAGEMENT COMMAND, CONTROL, AND COMMUNICATIONS EXECUTIVE PORTFOLIO.",
     "text": "MODERN TECHNOLOGY SOLUTIONS, INC.",
     "title": "MODERN TECHNOLOGY SOLUTIONS, INC.",
@@ -170,18 +170,6 @@
     "text": "THE BOEING COMPANY",
     "title": "THE BOEING COMPANY",
     "url": "https://www.usaspending.gov/award/CONT_AWD_N0002421C6412_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_FA852216C0007_9700_-NONE-_-NONE-",
-   "source": "transition-prototype",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "66385840",
-    "description": "IGF::OT::IGF ENGINEERING SERVICES FOR FORM, FIT AND FUNCTION INTERFACE (FFFI) REDESIGN OF THE AN/ALQ-172 LINE REPLACEABLE UNIT# 1 (LRU-1). INCLUDES DEVELOPMENT OF DATA AND MANUFACTURING AND DELIVERY OF PROTOTYPES.",
-    "text": "L3HARRIS TECHNOLOGIES, INC.",
-    "title": "L3HARRIS TECHNOLOGIES, INC.",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_FA852216C0007_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -545,6 +533,18 @@
    }
   },
   {
+   "key": "CONT_AWD_FA875026FB005_9700_FA875021D1100_9700",
+   "source": "transition-prototype",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "18344627",
+    "description": "THE OBJECTIVE OF THIS EFFORT IS TO PROCURE, INTEGRATE, DEPLOY, AND SUSTAIN PROTOTYPE AND LOW-RATE INITIAL PRODUCTION (LRIP) UNMANNED AIRCRAFT SYSTEM (UAS) AND COUNTER UAS SOLUTIONS SUCH AS THE SMALL UNCREWED AIR DEFENSE SYSTEM (SUADS).",
+    "text": "BOOZ ALLEN HAMILTON INC",
+    "title": "BOOZ ALLEN HAMILTON INC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA875026FB005_9700_FA875021D1100_9700/"
+   }
+  },
+  {
    "key": "CONT_AWD_HT940216C0001_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -640,7 +640,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "2.348280806607e+10",
+    "amount": "2.348445136007e+10",
     "award_id": "HT940216C0002",
     "description": "IGF::OT::IGF  MANAGED CARE SUPPORT SERVICES IN SUPPORT OF THE TRICARE PROGRAM",
     "text": "HEALTH NET FEDERAL SERVICES, LLC",
@@ -692,7 +692,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "1.492555026948e+10",
+    "amount": "1.496108993248e+10",
     "award_id": "N0002418C2130",
     "description": "NAVAL NUCLEAR LABORATORY",
     "text": "FLUOR MARINE PROPULSION, LLC",
@@ -857,6 +857,19 @@
    }
   },
   {
+   "key": "CONT_AWD_HT940223C0002_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "9.2297848619e+09",
+    "award_id": "HT940223C0002",
+    "description": "TRICARE MANAGED CARE SUPPORT SERVICES CONTRACT, 5TH GENERATION WEST REGION",
+    "text": "TRIWEST HEALTHCARE ALLIANCE CORP",
+    "title": "TRIWEST HEALTHCARE ALLIANCE CORP",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_HT940223C0002_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_HQ014717C0032_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -922,19 +935,6 @@
    }
   },
   {
-   "key": "CONT_AWD_HT940223C0002_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "8.5297848619e+09",
-    "award_id": "HT940223C0002",
-    "description": "TRICARE MANAGED CARE SUPPORT SERVICES CONTRACT, 5TH GENERATION WEST REGION",
-    "text": "TRIWEST HEALTHCARE ALLIANCE CORP",
-    "title": "TRIWEST HEALTHCARE ALLIANCE CORP",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_HT940223C0002_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
    "key": "CONT_AWD_N0001918C1037_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -952,7 +952,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "8.31961603383e+09",
+    "amount": "8.31962576983e+09",
     "award_id": "N0002423C2307",
     "description": "CONSTRUCTION OF DDG 51 SHIPS FY23-27",
     "text": "HUNTINGTON INGALLS INCORPORATED",
@@ -1121,7 +1121,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "6.95439017774e+09",
+    "amount": "6.95510116174e+09",
     "award_id": "N0002418C2307",
     "description": "FY18-FY22 DDG 51 CLASS SHIP CONSTRUCTION",
     "text": "HUNTINGTON INGALLS INCORPORATED",
