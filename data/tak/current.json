@@ -1,7 +1,7 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-09-20T11:31:25Z",
+ "fetched_at": "2026-09-20T21:05:09Z",
  "schema_version": 1,
  "records": [
   {
@@ -711,7 +711,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-09-15T18:06:15Z",
+    "date": "2026-09-20T15:47:40Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "37",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -789,22 +789,10 @@
    }
   },
   {
-   "key": "joshuafuller/atak-plugin-preflight",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-19T19:26:29Z",
-    "description": "Agent-first source preflight checks for ATAK plugins before Third Party Pipeline submission",
-    "stars": "0",
-    "text": "joshuafuller/atak-plugin-preflight",
-    "title": "joshuafuller/atak-plugin-preflight",
-    "url": "https://github.com/joshuafuller/atak-plugin-preflight"
-   }
-  },
-  {
    "key": "takwerx/feature-layer",
    "source": "tak-github",
    "fields": {
-    "date": "2026-09-19T18:53:50Z",
+    "date": "2026-09-20T20:16:54Z",
     "description": "ATAK Plugin: Feature Layer — live ArcGIS feature layers from NIFC, SARCOP, CA Air Intel and your own org, with NWCG symbology. Downloads, guide and issues here.",
     "stars": "1",
     "text": "takwerx/feature-layer",
@@ -816,12 +804,24 @@
    "key": "takwerx/atak-plugins",
    "source": "tak-github",
    "fields": {
-    "date": "2026-09-19T18:55:59Z",
+    "date": "2026-09-20T20:46:40Z",
     "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
     "stars": "1",
     "text": "takwerx/atak-plugins",
     "title": "takwerx/atak-plugins",
     "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
+   "key": "joshuafuller/atak-plugin-preflight",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-19T19:26:29Z",
+    "description": "Agent-first source preflight checks for ATAK plugins before Third Party Pipeline submission",
+    "stars": "0",
+    "text": "joshuafuller/atak-plugin-preflight",
+    "title": "joshuafuller/atak-plugin-preflight",
+    "url": "https://github.com/joshuafuller/atak-plugin-preflight"
    }
   },
   {
@@ -962,7 +962,7 @@
    "fields": {
     "date": "2026-09-10T02:36:04Z",
     "description": "ATAK Plugin: TAKwerx Market — install and update takwerx plugins from inside ATAK. Downloads, guide and issues here.",
-    "stars": "9",
+    "stars": "10",
     "text": "takwerx/takwerx-market",
     "title": "takwerx/takwerx-market",
     "url": "https://github.com/takwerx/takwerx-market"
