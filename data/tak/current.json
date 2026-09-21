@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-09-21T12:56:16Z",
+ "fetched_at": "2026-09-21T22:15:30Z",
  "schema_version": 1,
  "records": [
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-09-20T05:04:49Z",
+    "date": "2026-09-21T21:50:49Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "79",
     "text": "takwerx/infra-TAK",
@@ -70,7 +70,7 @@
    "fields": {
     "date": "2026-09-09T03:15:45Z",
     "description": "Open-source TAK (Team Awareness Kit) client for iPhone and iPad. Swift + SwiftUI. Apache 2.0.",
-    "stars": "8",
+    "stars": "9",
     "text": "engindearing-projects/OmniTAK-iOS",
     "title": "engindearing-projects/OmniTAK-iOS",
     "url": "https://github.com/engindearing-projects/OmniTAK-iOS"
@@ -713,7 +713,7 @@
    "fields": {
     "date": "2026-09-21T00:38:23Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
-    "stars": "37",
+    "stars": "38",
     "text": "FreeTAKTeam/LXMF-rs",
     "title": "FreeTAKTeam/LXMF-rs",
     "url": "https://github.com/FreeTAKTeam/LXMF-rs"
@@ -789,10 +789,34 @@
    }
   },
   {
+   "key": "clptak/cloudtak-plugin-search-containment",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-21T14:14:45Z",
+    "description": "Plugin to behave similar to ATAK's Chokepoint.  Leverages OSM  layer in CloudTAK to identify containment points at travel corridors to contain a search area.",
+    "stars": "1",
+    "text": "clptak/cloudtak-plugin-search-containment",
+    "title": "clptak/cloudtak-plugin-search-containment",
+    "url": "https://github.com/clptak/cloudtak-plugin-search-containment"
+   }
+  },
+  {
+   "key": "takwerx/takwerx-market",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-21T13:07:49Z",
+    "description": "ATAK Plugin: TAKwerx Market — install and update takwerx plugins from inside ATAK. Downloads, guide and issues here.",
+    "stars": "10",
+    "text": "takwerx/takwerx-market",
+    "title": "takwerx/takwerx-market",
+    "url": "https://github.com/takwerx/takwerx-market"
+   }
+  },
+  {
    "key": "takwerx/atak-plugins",
    "source": "tak-github",
    "fields": {
-    "date": "2026-09-21T10:58:57Z",
+    "date": "2026-09-21T13:09:42Z",
     "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
     "stars": "1",
     "text": "takwerx/atak-plugins",
@@ -806,7 +830,7 @@
    "fields": {
     "date": "2026-09-21T04:59:15Z",
     "description": "Arachne ATAK plugin: create secure groups over the internet without a TAK Server, VPN, certificates, or networking expertise.",
-    "stars": "0",
+    "stars": "1",
     "text": "arachne-systems/arachne-atak",
     "title": "arachne-systems/arachne-atak",
     "url": "https://github.com/arachne-systems/arachne-atak"
@@ -1041,18 +1065,6 @@
    }
   },
   {
-   "key": "takwerx/takwerx-market",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-10T02:36:04Z",
-    "description": "ATAK Plugin: TAKwerx Market — install and update takwerx plugins from inside ATAK. Downloads, guide and issues here.",
-    "stars": "10",
-    "text": "takwerx/takwerx-market",
-    "title": "takwerx/takwerx-market",
-    "url": "https://github.com/takwerx/takwerx-market"
-   }
-  },
-  {
    "key": "Hellikandra/ATAK-Plugin-MapFavorites",
    "source": "tak-github",
    "fields": {
@@ -1122,17 +1134,6 @@
     "text": "RyanR3/TakVideoWall",
     "title": "RyanR3/TakVideoWall",
     "url": "https://github.com/RyanR3/TakVideoWall"
-   }
-  },
-  {
-   "key": "jpat-12/TAK-PluginSuite-ATAK_ICU",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-15T20:24:19Z",
-    "stars": "10",
-    "text": "jpat-12/TAK-PluginSuite-ATAK_ICU",
-    "title": "jpat-12/TAK-PluginSuite-ATAK_ICU",
-    "url": "https://github.com/jpat-12/TAK-PluginSuite-ATAK_ICU"
    }
   },
   {
