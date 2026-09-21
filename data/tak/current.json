@@ -1,7 +1,7 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-09-20T21:05:09Z",
+ "fetched_at": "2026-09-21T12:56:16Z",
  "schema_version": 1,
  "records": [
   {
@@ -94,7 +94,7 @@
    "fields": {
     "date": "2026-09-06T17:34:32Z",
     "description": "A comprehensive web application for bridging tracking devices and services to TAK (Team Awareness Kit) servers.",
-    "stars": "39",
+    "stars": "41",
     "text": "trakbridge/trakbridge",
     "title": "trakbridge/trakbridge",
     "url": "https://github.com/trakbridge/trakbridge"
@@ -166,7 +166,7 @@
    "fields": {
     "date": "2026-06-23T08:24:02Z",
     "description": "Drive ATAK (Android Team Awareness Kit) and its plugins over adb without blind taps: CLI + MCP server (uvx-installable).",
-    "stars": "3",
+    "stars": "4",
     "text": "newtypeind/atak-mcp",
     "title": "newtypeind/atak-mcp",
     "url": "https://github.com/newtypeind/atak-mcp"
@@ -310,7 +310,7 @@
    "fields": {
     "date": "2025-07-06T16:42:40Z",
     "description": "A structured, plug-and-play instruction kit to enhance Gemini CLI's coding output with framework-specific, scalable, and team-aligned guidelines — enabling project-aware AI development.",
-    "stars": "24",
+    "stars": "23",
     "text": "abhinavkumar985/code-instructions-kit",
     "title": "abhinavkumar985/code-instructions-kit",
     "url": "https://github.com/abhinavkumar985/code-instructions-kit"
@@ -711,7 +711,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-09-20T15:47:40Z",
+    "date": "2026-09-21T00:38:23Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "37",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -789,6 +789,126 @@
    }
   },
   {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-21T10:58:57Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "1",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
+   "key": "arachne-systems/arachne-atak",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-21T04:59:15Z",
+    "description": "Arachne ATAK plugin: create secure groups over the internet without a TAK Server, VPN, certificates, or networking expertise.",
+    "stars": "0",
+    "text": "arachne-systems/arachne-atak",
+    "title": "arachne-systems/arachne-atak",
+    "url": "https://github.com/arachne-systems/arachne-atak"
+   }
+  },
+  {
+   "key": "takwerx/map-depot",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-21T02:30:51Z",
+    "description": "ATAK Plugin: Map Depot — download elevation, base maps and offline public-lands maps from inside ATAK. Downloads, guide and issues here.",
+    "stars": "10",
+    "text": "takwerx/map-depot",
+    "title": "takwerx/map-depot",
+    "url": "https://github.com/takwerx/map-depot"
+   }
+  },
+  {
+   "key": "takwerx/dozer-country",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-21T02:19:00Z",
+    "description": "ATAK Plugin: Dozer Country — where a dozer can work, shaded on the map against the S-232 slope limits. Downloads, guide and issues here.",
+    "stars": "1",
+    "text": "takwerx/dozer-country",
+    "title": "takwerx/dozer-country",
+    "url": "https://github.com/takwerx/dozer-country"
+   }
+  },
+  {
+   "key": "takwerx/plss-grid",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-21T02:11:41Z",
+    "description": "ATAK Plugin: PLSS Grid — township, range and section overlay from BLM survey data. Downloads, guide and issues here.",
+    "stars": "3",
+    "text": "takwerx/plss-grid",
+    "title": "takwerx/plss-grid",
+    "url": "https://github.com/takwerx/plss-grid"
+   }
+  },
+  {
+   "key": "takwerx/cam-depot",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-21T01:56:01Z",
+    "description": "ATAK Plugin: Cam Depot — public traffic and wildfire cameras on the ATAK map, with live video where the agency streams. Downloads, guide and issues here.",
+    "stars": "6",
+    "text": "takwerx/cam-depot",
+    "title": "takwerx/cam-depot",
+    "url": "https://github.com/takwerx/cam-depot"
+   }
+  },
+  {
+   "key": "takwerx/comms",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-21T01:10:35Z",
+    "description": "ATAK Plugin: Comms — mountaintop radio sites, the nets on each and the tone that opens them. Downloads, guide and issues here.",
+    "stars": "3",
+    "text": "takwerx/comms",
+    "title": "takwerx/comms",
+    "url": "https://github.com/takwerx/comms"
+   }
+  },
+  {
+   "key": "takwerx/fobs",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-21T00:31:40Z",
+    "description": "ATAK Plugin: FOBS — Field Observation Survey: walk, draw, import, split and join a perimeter into an ATAK shape, live to a Data Sync feed. Downloads, guide and issues here.",
+    "stars": "2",
+    "text": "takwerx/fobs",
+    "title": "takwerx/fobs",
+    "url": "https://github.com/takwerx/fobs"
+   }
+  },
+  {
+   "key": "takwerx/evac-zone",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-20T23:51:47Z",
+    "description": "ATAK Plugin: Evac Zone — evacuation zones from the agencies that publish them, drawn in one status color language. Downloads, guide and issues here.",
+    "stars": "1",
+    "text": "takwerx/evac-zone",
+    "title": "takwerx/evac-zone",
+    "url": "https://github.com/takwerx/evac-zone"
+   }
+  },
+  {
+   "key": "takwerx/traffic",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-20T21:34:22Z",
+    "description": "ATAK Plugin: Traffic — live traffic overlay drawn over your own base map, kept refreshing while the map sits still. Downloads, guide and issues here.",
+    "stars": "13",
+    "text": "takwerx/traffic",
+    "title": "takwerx/traffic",
+    "url": "https://github.com/takwerx/traffic"
+   }
+  },
+  {
    "key": "takwerx/feature-layer",
    "source": "tak-github",
    "fields": {
@@ -798,18 +918,6 @@
     "text": "takwerx/feature-layer",
     "title": "takwerx/feature-layer",
     "url": "https://github.com/takwerx/feature-layer"
-   }
-  },
-  {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-20T20:46:40Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "1",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
    }
   },
   {
@@ -849,30 +957,6 @@
    }
   },
   {
-   "key": "takwerx/dozer-country",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-16T16:04:06Z",
-    "description": "ATAK Plugin: Dozer Country — where a dozer can work, shaded on the map against the S-232 slope limits. Downloads, guide and issues here.",
-    "stars": "1",
-    "text": "takwerx/dozer-country",
-    "title": "takwerx/dozer-country",
-    "url": "https://github.com/takwerx/dozer-country"
-   }
-  },
-  {
-   "key": "takwerx/comms",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-15T03:00:08Z",
-    "description": "ATAK Plugin: Comms — mountaintop radio sites, the nets on each and the tone that opens them. Downloads, guide and issues here.",
-    "stars": "3",
-    "text": "takwerx/comms",
-    "title": "takwerx/comms",
-    "url": "https://github.com/takwerx/comms"
-   }
-  },
-  {
    "key": "Hellikandra/ATAK-Plugin-KMLReplay",
    "source": "tak-github",
    "fields": {
@@ -888,7 +972,7 @@
    "key": "AkitaEngineering/Akita-MeshTAK",
    "source": "tak-github",
    "fields": {
-    "date": "2026-09-14T07:12:29Z",
+    "date": "2026-09-21T07:11:58Z",
     "description": "The Akita MeshTAK Plugin is a game-changing Android Tactical Assault Kit (ATAK) plugin meticulously crafted to bridge the gap between ATAK and Meshtastic, providing unparalleled communication capabilities in the most challenging and disconnected environments.",
     "stars": "16",
     "text": "AkitaEngineering/Akita-MeshTAK",
@@ -969,18 +1053,6 @@
    }
   },
   {
-   "key": "takwerx/evac-zone",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-09T20:42:05Z",
-    "description": "ATAK Plugin: Evac Zone — evacuation zones from the agencies that publish them, drawn in one status color language. Downloads, guide and issues here.",
-    "stars": "1",
-    "text": "takwerx/evac-zone",
-    "title": "takwerx/evac-zone",
-    "url": "https://github.com/takwerx/evac-zone"
-   }
-  },
-  {
    "key": "Hellikandra/ATAK-Plugin-MapFavorites",
    "source": "tak-github",
    "fields": {
@@ -1029,18 +1101,6 @@
    }
   },
   {
-   "key": "takwerx/cam-depot",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-07T23:56:53Z",
-    "description": "ATAK Plugin: Cam Depot — public traffic and wildfire cameras on the ATAK map, with live video where the agency streams. Downloads, guide and issues here.",
-    "stars": "6",
-    "text": "takwerx/cam-depot",
-    "title": "takwerx/cam-depot",
-    "url": "https://github.com/takwerx/cam-depot"
-   }
-  },
-  {
    "key": "TX-RX/TAK-XVoice",
    "source": "tak-github",
    "fields": {
@@ -1050,18 +1110,6 @@
     "text": "TX-RX/TAK-XVoice",
     "title": "TX-RX/TAK-XVoice",
     "url": "https://github.com/TX-RX/TAK-XVoice"
-   }
-  },
-  {
-   "key": "takwerx/fobs",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-07T04:17:55Z",
-    "description": "ATAK Plugin: FOBS — Field Observation Survey: walk, draw, import, split and join a perimeter into an ATAK shape, live to a Data Sync feed. Downloads, guide and issues here.",
-    "stars": "2",
-    "text": "takwerx/fobs",
-    "title": "takwerx/fobs",
-    "url": "https://github.com/takwerx/fobs"
    }
   },
   {
@@ -1077,18 +1125,6 @@
    }
   },
   {
-   "key": "takwerx/map-depot",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-05T17:31:46Z",
-    "description": "ATAK Plugin: Map Depot — download elevation, base maps and offline public-lands maps from inside ATAK. Downloads, guide and issues here.",
-    "stars": "10",
-    "text": "takwerx/map-depot",
-    "title": "takwerx/map-depot",
-    "url": "https://github.com/takwerx/map-depot"
-   }
-  },
-  {
    "key": "jpat-12/TAK-PluginSuite-ATAK_ICU",
    "source": "tak-github",
    "fields": {
@@ -1097,42 +1133,6 @@
     "text": "jpat-12/TAK-PluginSuite-ATAK_ICU",
     "title": "jpat-12/TAK-PluginSuite-ATAK_ICU",
     "url": "https://github.com/jpat-12/TAK-PluginSuite-ATAK_ICU"
-   }
-  },
-  {
-   "key": "jxtngx/cursor-kotlin-factory",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-04T09:51:53Z",
-    "description": "Factory for Kotlin + Jetpack Compose. Default track: ATAK-CIV / CivTAK plugin.",
-    "stars": "0",
-    "text": "jxtngx/cursor-kotlin-factory",
-    "title": "jxtngx/cursor-kotlin-factory",
-    "url": "https://github.com/jxtngx/cursor-kotlin-factory"
-   }
-  },
-  {
-   "key": "takwerx/traffic",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-01T01:22:01Z",
-    "description": "ATAK Plugin: Traffic — live traffic overlay drawn over your own base map, kept refreshing while the map sits still. Downloads, guide and issues here.",
-    "stars": "13",
-    "text": "takwerx/traffic",
-    "title": "takwerx/traffic",
-    "url": "https://github.com/takwerx/traffic"
-   }
-  },
-  {
-   "key": "takwerx/plss-grid",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-01T01:21:55Z",
-    "description": "ATAK Plugin: PLSS Grid — township, range and section overlay from BLM survey data. Downloads, guide and issues here.",
-    "stars": "3",
-    "text": "takwerx/plss-grid",
-    "title": "takwerx/plss-grid",
-    "url": "https://github.com/takwerx/plss-grid"
    }
   },
   {
