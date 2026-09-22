@@ -1,16 +1,16 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-09-22T11:46:21Z",
+ "fetched_at": "2026-09-22T21:41:09Z",
  "schema_version": 1,
  "records": [
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-09-22T05:07:48Z",
+    "date": "2026-09-22T18:22:48Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "78",
+    "stars": "79",
     "text": "takwerx/infra-TAK",
     "title": "takwerx/infra-TAK",
     "url": "https://github.com/takwerx/infra-TAK"
@@ -56,7 +56,7 @@
    "key": "rixau/atak-reactive",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-09-18T23:16:42Z",
+    "date": "2026-09-22T14:41:32Z",
     "description": "Build ATAK (Android Team Awareness Kit) plugin UIs with React and TypeScript. Typed WebView bridge, hot reload, incremental adoption.",
     "stars": "2",
     "text": "rixau/atak-reactive",
@@ -358,7 +358,7 @@
    "fields": {
     "date": "2024-10-29T11:52:00Z",
     "description": "Situational Awareness Server compatible with TAK clients",
-    "stars": "959",
+    "stars": "960",
     "text": "FreeTAKTeam/FreeTakServer",
     "title": "FreeTAKTeam/FreeTakServer",
     "url": "https://github.com/FreeTAKTeam/FreeTakServer"
@@ -711,7 +711,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-09-21T00:38:23Z",
+    "date": "2026-09-22T21:39:39Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "38",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -724,7 +724,7 @@
    "source": "tak-freetak",
    "fields": {
     "date": "2026-02-15T15:33:46Z",
-    "stars": "16",
+    "stars": "17",
     "text": "FreeTAKTeam/Reticulum_Meshtastic_Integration",
     "title": "FreeTAKTeam/Reticulum_Meshtastic_Integration",
     "url": "https://github.com/FreeTAKTeam/Reticulum_Meshtastic_Integration"
@@ -786,6 +786,17 @@
     "text": "FreeTAKTeam/rpp-spec",
     "title": "FreeTAKTeam/rpp-spec",
     "url": "https://github.com/FreeTAKTeam/rpp-spec"
+   }
+  },
+  {
+   "key": "Hellikandra/ATAK-Weather-Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-22T20:52:03Z",
+    "stars": "55",
+    "text": "Hellikandra/ATAK-Weather-Plugin",
+    "title": "Hellikandra/ATAK-Weather-Plugin",
+    "url": "https://github.com/Hellikandra/ATAK-Weather-Plugin"
    }
   },
   {
@@ -1122,18 +1133,6 @@
     "text": "TX-RX/TAK-XVoice",
     "title": "TX-RX/TAK-XVoice",
     "url": "https://github.com/TX-RX/TAK-XVoice"
-   }
-  },
-  {
-   "key": "RyanR3/TakVideoWall",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-06T04:17:16Z",
-    "description": "ATAK plugin for simultaneous multi-stream video monitoring: adaptive 2×2 paged grid, CoT-based feed discovery, snap-to-sender map integration.",
-    "stars": "5",
-    "text": "RyanR3/TakVideoWall",
-    "title": "RyanR3/TakVideoWall",
-    "url": "https://github.com/RyanR3/TakVideoWall"
    }
   },
   {
