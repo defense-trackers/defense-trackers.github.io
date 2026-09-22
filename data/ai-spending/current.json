@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-09-21T22:13:53Z",
+ "fetched_at": "2026-09-22T11:44:40Z",
  "schema_version": 1,
  "records": [
   {
@@ -213,7 +213,7 @@
    "source": "ai-spending-contracts",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "1.012400864e+07",
+    "amount": "1.024590174e+07",
     "description": "CHIEF DIGITAL AND ARTIFICIAL INTELLIGENCE OFFICE SUPPLY CHAIN RISK EVALUATION ENVIRONMENT PLATFORM DEVELOPMENT SUPPORT.",
     "text": "LMI CONSULTING, LLC",
     "title": "LMI CONSULTING, LLC",
@@ -530,6 +530,18 @@
     "text": "DCS CORPORATION",
     "title": "DCS CORPORATION",
     "url": "https://www.usaspending.gov/award/CONT_AWD_FA865023F6535_9700_FA865020D6207_9700/"
+   }
+  },
+  {
+   "key": "CONT_AWD_HR001125CE017_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "2521683",
+    "description": "ARTIFICIAL INTELLIGENCE QUANTIFIED (AIQ)",
+    "text": "KITWARE INC",
+    "title": "KITWARE INC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_HR001125CE017_9700_-NONE-_-NONE-/"
    }
   },
   {

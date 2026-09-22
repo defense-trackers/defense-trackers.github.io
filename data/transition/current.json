@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-09-21T22:15:39Z",
+ "fetched_at": "2026-09-22T11:46:24Z",
  "schema_version": 1,
  "records": [
   {
@@ -134,6 +134,18 @@
     "text": "MODERN TECHNOLOGY SOLUTIONS, INC.",
     "title": "MODERN TECHNOLOGY SOLUTIONS, INC.",
     "url": "https://www.usaspending.gov/award/CONT_AWD_FA880625CB001_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_0017_9700_HQ014712D0003_9700",
+   "source": "transition-prototype",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1.0526641874e+08",
+    "description": "IGF::OT::IGF  THE PURPOSE OF THIS TO IS TO ASSESS CHANGES REQUIRED TO COMMAND AND CONTROL, BATTLE MANAGEMENT AND COMMUNICATIONS (C2BMC) SPIRAL 8.2 (S8.2) FOR INCREMENT 6 TO INCLUDE:  SENSOR MANAGEMENT OF THE LONG RANGE DISCRIMINATION RADAR (LRDR);  PROVIDE SYSTEM TRACK AND DISCRIMINATION DATA TO GROUND-BASED MIDCOURSE DEFENSE (GMD);  DESIGN AND PROTOTYPE INITIAL ALGORITHMS;  PROVIDE ENGINEERING SUPPORT OF THE GOVERNMENT-PROVIDED INTERFACE DEFINITION FOR LRDR MANAGEMENT AND SYSTEM TRACK DATA TO GMD (INCLUDING DEVELOPMENT-LAB TO DEVELOPMENT-LAB TESTING);  AND EXECUTION OF A SUCCESSFUL PDR FOR C2BMC SPIRAL 8.2-5 (S8.2-5).",
+    "text": "LOCKHEED MARTIN CORPORATION",
+    "title": "LOCKHEED MARTIN CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_0017_9700_HQ014712D0003_9700/"
    }
   },
   {
@@ -489,7 +501,7 @@
    "source": "transition-prototype",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "2.004297595e+07",
+    "amount": "2.17146432e+07",
     "description": "ENGINEERING \u0026 TECHNICAL SUPPORT SERVICES, FIELD ENGINEERING, INTEGRATED LOGISTICS SUPPORT, CONFIGURATION MANAGEMENT, MANAGEMENT SUPPORT, DATA MANAGEMENT SUPPORT, \u0026 PROTOTYPE FABRICATION FOR THE WEAPONS SYSTEMS DIVISION",
     "text": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
     "title": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
@@ -530,18 +542,6 @@
     "text": "GENERAL DYNAMICS LAND SYSTEMS INC.",
     "title": "GENERAL DYNAMICS LAND SYSTEMS INC.",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W56HZV24C0030_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_FA875026FB005_9700_FA875021D1100_9700",
-   "source": "transition-prototype",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "18344627",
-    "description": "THE OBJECTIVE OF THIS EFFORT IS TO PROCURE, INTEGRATE, DEPLOY, AND SUSTAIN PROTOTYPE AND LOW-RATE INITIAL PRODUCTION (LRIP) UNMANNED AIRCRAFT SYSTEM (UAS) AND COUNTER UAS SOLUTIONS SUCH AS THE SMALL UNCREWED AIR DEFENSE SYSTEM (SUADS).",
-    "text": "BOOZ ALLEN HAMILTON INC",
-    "title": "BOOZ ALLEN HAMILTON INC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_FA875026FB005_9700_FA875021D1100_9700/"
    }
   },
   {
@@ -939,7 +939,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "8.48735806067e+09",
+    "amount": "8.48882056067e+09",
     "award_id": "N0001918C1037",
     "description": "E-2D ADVANCED HAWKEYE AIRCRAFT (FRP-7)",
     "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
@@ -1121,7 +1121,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "6.95510116174e+09",
+    "amount": "6.95511771474e+09",
     "award_id": "N0002418C2307",
     "description": "FY18-FY22 DDG 51 CLASS SHIP CONSTRUCTION",
     "text": "HUNTINGTON INGALLS INCORPORATED",
