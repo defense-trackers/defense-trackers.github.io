@@ -1,7 +1,7 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-09-23T11:44:31Z",
+ "fetched_at": "2026-09-23T21:48:52Z",
  "schema_version": 1,
  "records": [
   {
@@ -92,7 +92,7 @@
    "key": "cisagov/cyhy_amis",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-09-17T15:47:38Z",
+    "date": "2026-09-23T18:30:42Z",
     "description": "AWS infrastructure for Cyber Hygiene and BOD 18-01 scanning",
     "stars": "24",
     "text": "cisagov/cyhy_amis",
@@ -128,7 +128,7 @@
    "key": "cisagov/cyhy-reports",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-09-22T19:42:02Z",
+    "date": "2026-09-23T14:47:21Z",
     "description": "Code to generate Cyber Hygiene (CyHy) reports",
     "stars": "13",
     "text": "cisagov/cyhy-reports",
@@ -248,7 +248,7 @@
    "key": "cisagov/Malcolm",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-09-19T01:47:19Z",
+    "date": "2026-09-23T19:20:35Z",
     "description": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.",
     "stars": "2527",
     "text": "cisagov/Malcolm",
@@ -286,7 +286,7 @@
    "fields": {
     "date": "2026-09-21T17:55:42Z",
     "description": "Cybersecurity Evaluation Tool",
-    "stars": "1897",
+    "stars": "1898",
     "text": "cisagov/cset",
     "title": "cisagov/cset",
     "url": "https://github.com/cisagov/cset"
@@ -368,7 +368,7 @@
    "key": "cisagov/skeleton-docker",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-09-02T14:34:01Z",
+    "date": "2026-09-23T17:46:31Z",
     "description": "A skeleton project for quickly getting a new cisagov Docker container started.",
     "stars": "22",
     "text": "cisagov/skeleton-docker",
@@ -572,7 +572,7 @@
    "key": "idaholab/moose",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-09-23T09:37:09Z",
+    "date": "2026-09-23T21:33:02Z",
     "description": "Multiphysics Object Oriented Simulation Environment",
     "stars": "2353",
     "text": "idaholab/moose",
@@ -608,7 +608,7 @@
    "key": "idaholab/Malcolm",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-08-25T22:26:09Z",
+    "date": "2026-09-23T19:20:27Z",
     "description": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.",
     "stars": "484",
     "text": "idaholab/Malcolm",
@@ -634,7 +634,7 @@
    "fields": {
     "date": "2026-09-16T14:48:17Z",
     "description": "Event Modeling Risk Assessment using Linked Diagrams (EMRALD) is a software tool developed at INL for researching the capabilities of dynamic PRA (Probabilistic Risk Assessment). In order to promote the effective use of dynamic PRA by the general community, EMRALD focuses on the following key aspects: Simplifying the modeling process by providing a structure that corresponds to traditional PRA modeling methods Providing a user interface (UI) that makes it easy for the user to model and visualize complex interactions Allowing the user to couple with other analysis applications such as physics based simulations. This includes one-way communication for most applications and two-way loose coupling for customizable applications Providing the sequence and timing of events that lead to the specified outcomes when calculating results Traditional aspects of components with basic events, fault trees, and event trees are all captured in a dynamic framework of state diagrams, which are displayed ",
-    "stars": "32",
+    "stars": "33",
     "text": "idaholab/EMRALD",
     "title": "idaholab/EMRALD",
     "url": "https://github.com/idaholab/EMRALD"
@@ -668,7 +668,7 @@
    "key": "idaholab/malamute",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-09-22T08:59:58Z",
+    "date": "2026-09-23T17:08:12Z",
     "description": "Advanced manufacturing modeling and simulation",
     "stars": "22",
     "text": "idaholab/malamute",
@@ -835,7 +835,7 @@
    "key": "llnl/RAJA",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-09-22T21:58:17Z",
+    "date": "2026-09-23T18:20:18Z",
     "description": "RAJA Performance Portability Layer (C++)",
     "stars": "599",
     "text": "llnl/RAJA",
@@ -858,7 +858,7 @@
    "key": "llnl/GridDyn",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-09-22T12:02:18Z",
+    "date": "2026-09-23T19:10:32Z",
     "description": "GridDyn is an open-source power transmission simulation software package",
     "stars": "63",
     "text": "llnl/GridDyn",
@@ -1014,9 +1014,9 @@
    "key": "nasa/trick",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-09-22T18:29:44Z",
+    "date": "2026-09-23T21:11:18Z",
     "description": "Trick Simulation Environment.  Trick provides a common set of simulation capabilities and utilities to build simulations automatically.",
-    "stars": "172",
+    "stars": "173",
     "text": "nasa/trick",
     "title": "nasa/trick",
     "url": "https://github.com/nasa/trick"
@@ -1026,9 +1026,9 @@
    "key": "nasa/openmct",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-09-23T08:50:06Z",
+    "date": "2026-09-23T15:43:35Z",
     "description": "A web based mission control framework. ",
-    "stars": "13131",
+    "stars": "13132",
     "text": "nasa/openmct",
     "title": "nasa/openmct",
     "url": "https://github.com/nasa/openmct"
@@ -1038,7 +1038,7 @@
    "key": "nasa/earthdata-search",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-09-22T17:05:47Z",
+    "date": "2026-09-23T20:54:36Z",
     "description": "Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.",
     "stars": "827",
     "text": "nasa/earthdata-search",
@@ -1064,7 +1064,7 @@
    "fields": {
     "date": "2026-09-18T01:30:34Z",
     "description": "Astronomy Picture of the Day API service",
-    "stars": "1086",
+    "stars": "1087",
     "text": "nasa/apod-api",
     "title": "nasa/apod-api",
     "url": "https://github.com/nasa/apod-api"
@@ -1086,7 +1086,7 @@
    "key": "nasa/Common-Metadata-Repository",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-09-22T19:10:42Z",
+    "date": "2026-09-23T15:43:25Z",
     "description": "The Common Metadata Repository (CMR) is a high-performance, high-quality, continuously evolving metadata system that catalogs Earth Science data and associated service metadata records. These metadata records are registered, modified, discovered, and accessed through programmatic interfaces leveraging standard protocols and APIs.",
     "stars": "398",
     "text": "nasa/Common-Metadata-Repository",
@@ -1134,7 +1134,7 @@
    "key": "ngageoint/hootenanny",
    "source": "oss-ngageoint",
    "fields": {
-    "date": "2026-09-22T13:51:18Z",
+    "date": "2026-09-23T12:46:55Z",
     "description": "Hootenanny conflates multiple maps into a single seamless map.",
     "stars": "392",
     "text": "ngageoint/hootenanny",
@@ -1361,7 +1361,7 @@
    "key": "ORNL/GridKit",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-09-23T08:45:17Z",
+    "date": "2026-09-23T19:08:31Z",
     "description": "Modeling framework for power systems simulations and analysis.",
     "stars": "27",
     "text": "ORNL/GridKit",
@@ -1445,7 +1445,7 @@
    "key": "sandialabs/snl-quest",
    "source": "oss-sandialabs",
    "fields": {
-    "date": "2026-08-13T19:40:43Z",
+    "date": "2026-09-23T20:22:19Z",
     "description": "An open source, Python-based software platform for energy storage simulation and analysis developed by Sandia National Laboratories.",
     "stars": "159",
     "text": "sandialabs/snl-quest",
@@ -1493,7 +1493,7 @@
    "key": "usnistgov/fipy",
    "source": "oss-usnistgov",
    "fields": {
-    "date": "2026-09-18T14:13:50Z",
+    "date": "2026-09-23T21:31:18Z",
     "description": "FiPy is a Finite Volume PDE solver written in Python",
     "stars": "641",
     "text": "usnistgov/fipy",
