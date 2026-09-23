@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-09-22T21:39:38Z",
+ "fetched_at": "2026-09-23T11:43:30Z",
  "schema_version": 1,
  "records": [
   {
@@ -509,6 +509,18 @@
    }
   },
   {
+   "key": "CONT_AWD_W911QX25FA054_9700_W911QX25DA011_9700",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "2882872",
+    "description": "ARTIFICIAL INTELLIGENCE SUPPORT FOR BASIC AND APPLIED RESEARCH OF THE ARMY RESEARCH LABORATORY",
+    "text": "SCALE AI, INC.",
+    "title": "SCALE AI, INC.",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W911QX25FA054_9700_W911QX25DA011_9700/"
+   }
+  },
+  {
    "key": "CONT_AWD_SP470125C0049_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
@@ -545,18 +557,6 @@
    }
   },
   {
-   "key": "CONT_AWD_W911QX25FA054_9700_W911QX25DA011_9700",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "2416184",
-    "description": "ARTIFICIAL INTELLIGENCE SUPPORT FOR BASIC AND APPLIED RESEARCH OF THE ARMY RESEARCH LABORATORY",
-    "text": "SCALE AI, INC.",
-    "title": "SCALE AI, INC.",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W911QX25FA054_9700_W911QX25DA011_9700/"
-   }
-  },
-  {
    "key": "CONT_AWD_W9128Z25C5002_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
@@ -566,6 +566,42 @@
     "text": "TRENCHANT ANALYTICS LLC",
     "title": "TRENCHANT ANALYTICS LLC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W9128Z25C5002_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_W56KGU24C0023_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "2391033",
+    "description": "CPFF BAA AWARD FOR COLLABORATIVE ARTIFICIAL INTELLIGENCE TASK EXECUTION ENGINE FOR DISTRIBUTED ELECTRONIC WARFARE (CAITEE-DEW)",
+    "text": "SYSTEMS \u0026 TECHNOLOGY RESEARCH LLC",
+    "title": "SYSTEMS \u0026 TECHNOLOGY RESEARCH LLC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W56KGU24C0023_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_N0017325C2428_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "2.35174063e+06",
+    "description": "HUMAN SYSTEMS INTEGRATION CONSIDERATIONS WITH ARTIFICIAL INTELLIGENCE / MACHINE LEARNING TECHNOLOGIES",
+    "text": "STRATEGIC ANALYSIS, INC.",
+    "title": "STRATEGIC ANALYSIS, INC.",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_N0017325C2428_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_HR001126CE029_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "2313263",
+    "description": "SECURING ARTIFICIAL INTELLIGENCE FOR BATTLEFIELD EFFECTIVE ROBUSTNESS (SABER)",
+    "text": "LOCKHEED MARTIN CORPORATION",
+    "title": "LOCKHEED MARTIN CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_HR001126CE029_9700_-NONE-_-NONE-/"
    }
   },
   {
