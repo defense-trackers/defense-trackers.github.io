@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-09-24T11:54:08Z",
+ "fetched_at": "2026-09-24T21:50:18Z",
  "schema_version": 1,
  "records": [
   {
    "key": "microtak/microtak-server",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-09-23T22:37:31Z",
+    "date": "2026-09-24T18:41:30Z",
     "description": "A lightweight, mesh-federated TAK (Team Awareness Kit) server written in Rust",
     "stars": "0",
     "text": "microtak/microtak-server",
@@ -454,7 +454,7 @@
    "fields": {
     "date": "2022-11-06T13:11:28Z",
     "description": "DJI drone flying app with integrations for FreeTAKServer. Looking for a maitainer!",
-    "stars": "128",
+    "stars": "129",
     "text": "FreeTAKTeam/FreeTAKUAS",
     "title": "FreeTAKTeam/FreeTAKUAS",
     "url": "https://github.com/FreeTAKTeam/FreeTAKUAS"
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-09-24T11:53:01Z",
+    "date": "2026-09-24T21:46:58Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "38",
     "text": "FreeTAKTeam/LXMF-rs",
