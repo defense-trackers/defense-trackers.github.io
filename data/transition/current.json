@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-09-24T21:50:46Z",
+ "fetched_at": "2026-09-25T11:58:40Z",
  "schema_version": 1,
  "records": [
   {
@@ -413,18 +413,6 @@
    }
   },
   {
-   "key": "CONT_AWD_W31P4Q25F0257_9700_W31P4Q24D0001_9700",
-   "source": "transition-prototype",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "2.909554539e+07",
-    "description": "TASK ORDER TO AWARD ENGINEERING SERVICE MEMORANDUM 26.04.01 \"SPIRAL 3 ALTERNATE SEEKER PROTOTYPE EFFORT\" UNDER THE JAVELIN ENGINEERING SERVICE CONTRACT.",
-    "text": "RAYTHEON/LOCKHEED MARTIN JAVELIN JV",
-    "title": "RAYTHEON/LOCKHEED MARTIN JAVELIN JV",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W31P4Q25F0257_9700_W31P4Q24D0001_9700/"
-   }
-  },
-  {
    "key": "CONT_AWD_N0017319F3001_9700_N0017814D7965_9700",
    "source": "transition-prototype",
    "fields": {
@@ -602,6 +590,18 @@
     "text": "F3EA INC",
     "title": "F3EA INC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W900KK26FA024_9700_W900KK20D0005_9700/"
+   }
+  },
+  {
+   "key": "CONT_AWD_N6660424FC426_9700_N6660424DC419_9700",
+   "source": "transition-prototype",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1.509053522e+07",
+    "description": "ENGINEERING SERVICES FOR THE NEXT GENERATION ATTACK SUBMARINE, THE FULL SPECTRUM UNDERSEA WARFARE INNOVATIVE NAVAL PROTOTYPE, AND THE COMPACT RAPID ATTACK WEAPON.",
+    "text": "SONALYSTS INC",
+    "title": "SONALYSTS INC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_N6660424FC426_9700_N6660424DC419_9700/"
    }
   },
   {
@@ -1012,7 +1012,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "8.31962576983e+09",
+    "amount": "8.31962582883e+09",
     "award_id": "N0002423C2307",
     "description": "CONSTRUCTION OF DDG 51 SHIPS FY23-27",
     "text": "HUNTINGTON INGALLS INCORPORATED",
@@ -1031,6 +1031,18 @@
     "text": "LOCKHEED MARTIN CORPORATION",
     "title": "LOCKHEED MARTIN CORPORATION",
     "url": "https://www.usaspending.gov/award/CONT_AWD_N0001924C0039_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_N0001904C3146_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "7.63372988876e+09",
+    "award_id": "N0001904C3146",
+    "text": "THE BOEING COMPANY",
+    "title": "THE BOEING COMPANY",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_N0001904C3146_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -1155,7 +1167,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "7.01145539576e+09",
+    "amount": "7.01400958176e+09",
     "award_id": "FA863418C2701",
     "description": "F-15, FMS, F-15QA AIR VEHICLE DEVELOPMENT",
     "text": "THE BOEING COMPANY",
@@ -1239,18 +1251,6 @@
     "text": "OSHKOSH DEFENSE LLC",
     "title": "OSHKOSH DEFENSE LLC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W56HZV15C0095_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_N0001906C0081_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "6.10328553196e+09",
-    "award_id": "N0001906C0081",
-    "text": "SIKORSKY AIRCRAFT CORPORATION",
-    "title": "SIKORSKY AIRCRAFT CORPORATION",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_N0001906C0081_9700_-NONE-_-NONE-/"
    }
   }
  ]

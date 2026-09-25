@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-09-24T21:50:18Z",
+ "fetched_at": "2026-09-25T11:58:37Z",
  "schema_version": 1,
  "records": [
   {
    "key": "microtak/microtak-server",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-09-24T18:41:30Z",
+    "date": "2026-09-24T23:04:59Z",
     "description": "A lightweight, mesh-federated TAK (Team Awareness Kit) server written in Rust",
     "stars": "0",
     "text": "microtak/microtak-server",
@@ -34,7 +34,7 @@
    "fields": {
     "date": "2026-09-22T18:22:48Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "79",
+    "stars": "80",
     "text": "takwerx/infra-TAK",
     "title": "takwerx/infra-TAK",
     "url": "https://github.com/takwerx/infra-TAK"
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-09-24T21:46:58Z",
+    "date": "2026-09-25T11:58:26Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "38",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -863,7 +863,7 @@
    "key": "takwerx/atak-plugins",
    "source": "tak-github",
    "fields": {
-    "date": "2026-09-22T03:18:30Z",
+    "date": "2026-09-25T08:23:41Z",
     "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
     "stars": "1",
     "text": "takwerx/atak-plugins",
