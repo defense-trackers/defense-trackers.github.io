@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-09-25T11:58:37Z",
+ "fetched_at": "2026-09-25T21:52:09Z",
  "schema_version": 1,
  "records": [
   {
    "key": "microtak/microtak-server",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-09-24T23:04:59Z",
+    "date": "2026-09-25T16:44:32Z",
     "description": "A lightweight, mesh-federated TAK (Team Awareness Kit) server written in Rust",
     "stars": "0",
     "text": "microtak/microtak-server",
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-09-25T11:58:26Z",
+    "date": "2026-09-25T20:34:01Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "38",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -801,6 +801,42 @@
    }
   },
   {
+   "key": "aegorsuch/atak-plugin-houndmaster",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-25T20:55:33Z",
+    "description": "Bloodhound order management",
+    "stars": "3",
+    "text": "aegorsuch/atak-plugin-houndmaster",
+    "title": "aegorsuch/atak-plugin-houndmaster",
+    "url": "https://github.com/aegorsuch/atak-plugin-houndmaster"
+   }
+  },
+  {
+   "key": "takwerx/atak-plugin-pipeline",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-25T13:31:03Z",
+    "description": "How takwerx builds ATAK plugins and gets them through TAK's third-party signing pipeline, as a Claude Code skill. No SDK included.",
+    "stars": "3",
+    "text": "takwerx/atak-plugin-pipeline",
+    "title": "takwerx/atak-plugin-pipeline",
+    "url": "https://github.com/takwerx/atak-plugin-pipeline"
+   }
+  },
+  {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-25T13:32:02Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "1",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
    "key": "jxtngx/cursor-kotlin-factory",
    "source": "tak-github",
    "fields": {
@@ -829,7 +865,7 @@
    "source": "tak-github",
    "fields": {
     "date": "2026-09-22T20:52:03Z",
-    "stars": "55",
+    "stars": "56",
     "text": "Hellikandra/ATAK-Weather-Plugin",
     "title": "Hellikandra/ATAK-Weather-Plugin",
     "url": "https://github.com/Hellikandra/ATAK-Weather-Plugin"
@@ -857,18 +893,6 @@
     "text": "takwerx/takwerx-market",
     "title": "takwerx/takwerx-market",
     "url": "https://github.com/takwerx/takwerx-market"
-   }
-  },
-  {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-25T08:23:41Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "1",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
    }
   },
   {
@@ -1121,30 +1145,6 @@
     "text": "Hellikandra/ATAK-Plugin-Hats",
     "title": "Hellikandra/ATAK-Plugin-Hats",
     "url": "https://github.com/Hellikandra/ATAK-Plugin-Hats"
-   }
-  },
-  {
-   "key": "HardlineLabs/hardline-relay-atak-plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-12T04:32:30Z",
-    "description": "Low-bandwidth Meshtastic PLI and native point sharing in ATAK, with offline channel profiles and independent mesh status. A hobby project.",
-    "stars": "0",
-    "text": "HardlineLabs/hardline-relay-atak-plugin",
-    "title": "HardlineLabs/hardline-relay-atak-plugin",
-    "url": "https://github.com/HardlineLabs/hardline-relay-atak-plugin"
-   }
-  },
-  {
-   "key": "besteffortdev/openfire-SAMessage",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-08T23:27:04Z",
-    "description": "Plugins for Openfire 5.0.5 and up that enable communication between openfire user and atak client over multicast.",
-    "stars": "0",
-    "text": "besteffortdev/openfire-SAMessage",
-    "title": "besteffortdev/openfire-SAMessage",
-    "url": "https://github.com/besteffortdev/openfire-SAMessage"
    }
   },
   {

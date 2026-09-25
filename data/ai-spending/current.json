@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-09-25T11:57:06Z",
+ "fetched_at": "2026-09-25T21:50:35Z",
  "schema_version": 1,
  "records": [
   {
@@ -141,7 +141,7 @@
    "source": "ai-spending-contracts",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "1.375317386e+07",
+    "amount": "1.427961407e+07",
     "description": "COMMERCIAL SOLUTIONS OPENING FOR RESEARCH AND DEVELOPMENT FOR SYSTEM-WIDE TEST AND EVALUATION (T\u0026E) AND APPLIED ARTIFICIAL INTELLIGENCE (AI) AND MACHINE LEARNING (ML), TASK ORDER #1.",
     "text": "MORSECORP, INC",
     "title": "MORSECORP, INC",
@@ -377,6 +377,18 @@
    }
   },
   {
+   "key": "CONT_AWD_FA864923P1087_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "5247681",
+    "description": "F2D-8670 ODIN FINANCIAL MANAGEMENT - ARTIFICIAL INTELLIGENCE ENABLED EXECUTION PLAN \u0026 BUDGET",
+    "text": "ILLUMINATION WORKS, LLC",
+    "title": "ILLUMINATION WORKS, LLC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA864923P1087_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_FA875126C0001_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
@@ -434,18 +446,6 @@
     "text": "SHIPCOM FEDERAL SOLUTIONS LLC",
     "title": "SHIPCOM FEDERAL SOLUTIONS LLC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_FA860924CB002_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_FA864923P1087_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "4248050",
-    "description": "F2D-8670 ODIN FINANCIAL MANAGEMENT - ARTIFICIAL INTELLIGENCE ENABLED EXECUTION PLAN \u0026 BUDGET",
-    "text": "ILLUMINATION WORKS, LLC",
-    "title": "ILLUMINATION WORKS, LLC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_FA864923P1087_9700_-NONE-_-NONE-/"
    }
   },
   {
