@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-09-25T21:50:35Z",
+ "fetched_at": "2026-09-26T11:29:40Z",
  "schema_version": 1,
  "records": [
   {
@@ -242,18 +242,6 @@
     "text": "INTERNATIONAL BUSINESS MACHINES CORPORATION",
     "title": "INTERNATIONAL BUSINESS MACHINES CORPORATION",
     "url": "https://www.usaspending.gov/award/CONT_AWD_FA875024CB040_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_FA830725CB031_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "9511740",
-    "description": "MIXMODE SBIR PHASE III - ARTIFICIAL INTELLIGENCE FOR NETWORK VISIBILITY AND REAL-TIME THREAT DETECTION FOR PROTECTION OF DATA, NETWORKS, NET-CENTRIC CAPABILITIES, AND OTHER DESIGNATED SYSTEMS RESPONDING TO ATTACKS AGAINST FRIENDLY NETWORKS.",
-    "text": "MIXMODE INC",
-    "title": "MIXMODE INC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_FA830725CB031_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -602,6 +590,18 @@
     "text": "LOCKHEED MARTIN CORPORATION",
     "title": "LOCKHEED MARTIN CORPORATION",
     "url": "https://www.usaspending.gov/award/CONT_AWD_HR001126CE029_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_HQ003423F0294_9700_HQ003418D0005_9700",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "2.12405813e+06",
+    "description": "CHIEF DIGITAL AND ARTIFICIAL INTELLIGENCE OFFICE'S SUPPORT SERVICES",
+    "text": "UNIVERSITY OF MARYLAND, COLLEGE PARK",
+    "title": "UNIVERSITY OF MARYLAND, COLLEGE PARK",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_HQ003423F0294_9700_HQ003418D0005_9700/"
    }
   },
   {

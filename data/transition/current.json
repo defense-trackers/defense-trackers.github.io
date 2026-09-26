@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-09-25T21:53:00Z",
+ "fetched_at": "2026-09-26T11:31:11Z",
  "schema_version": 1,
  "records": [
   {
@@ -57,7 +57,7 @@
    "source": "transition-prototype",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "276498755",
+    "amount": "285342653",
     "description": "HAMMERHEAD PROTOTYPE",
     "text": "GENERAL DYNAMICS MISSION SYSTEMS, INC.",
     "title": "GENERAL DYNAMICS MISSION SYSTEMS, INC.",
@@ -713,7 +713,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "20212422353",
+    "amount": "20392422353",
     "award_id": "N0002412C2115",
     "description": "SSN 792 LONG LEAD TIME MATERIAL",
     "text": "ELECTRIC BOAT CORPORATION",
@@ -774,6 +774,19 @@
    }
   },
   {
+   "key": "CONT_AWD_N0002416C2116_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1.342355168985e+10",
+    "award_id": "N0002416C2116",
+    "description": "CVN 80 ENGINEERING EFFORTS AND STEEL",
+    "text": "HUNTINGTON INGALLS INC",
+    "title": "HUNTINGTON INGALLS INC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_N0002416C2116_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_HT940212C0001_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -784,19 +797,6 @@
     "text": "UNITEDHEALTH MILITARY \u0026 VETERANS SERVICES, LLC",
     "title": "UNITEDHEALTH MILITARY \u0026 VETERANS SERVICES, LLC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_HT940212C0001_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_N0002416C2116_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "1.279760856385e+10",
-    "award_id": "N0002416C2116",
-    "description": "CVN 80 ENGINEERING EFFORTS AND STEEL",
-    "text": "HUNTINGTON INGALLS INC",
-    "title": "HUNTINGTON INGALLS INC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_N0002416C2116_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -999,7 +999,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "8.48882056067e+09",
+    "amount": "8.49462056067e+09",
     "award_id": "N0001918C1037",
     "description": "E-2D ADVANCED HAWKEYE AIRCRAFT (FRP-7)",
     "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
@@ -1063,7 +1063,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "7.47576315172e+09",
+    "amount": "7.4767759102e+09",
     "award_id": "FA881018C0005",
     "description": "NEXT GENERATION OVERHEAD PERSISTENT INFRARED GEOSYNCHRONOUS EARTH ORBIT SPACE VEHICLE 1-3 PHASE 1",
     "text": "LOCKHEED MARTIN CORP",
@@ -1193,7 +1193,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "6.95511771474e+09",
+    "amount": "6.95738100874e+09",
     "award_id": "N0002418C2307",
     "description": "FY18-FY22 DDG 51 CLASS SHIP CONSTRUCTION",
     "text": "HUNTINGTON INGALLS INCORPORATED",
