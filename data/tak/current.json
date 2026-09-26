@@ -1,7 +1,7 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-09-26T11:31:08Z",
+ "fetched_at": "2026-09-26T21:35:34Z",
  "schema_version": 1,
  "records": [
   {
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-09-26T10:05:38Z",
+    "date": "2026-09-26T19:37:59Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "38",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -801,15 +801,38 @@
    }
   },
   {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-26T19:24:19Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "1",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
    "key": "aegorsuch/atak-plugin-houndmaster",
    "source": "tak-github",
    "fields": {
-    "date": "2026-09-25T20:55:33Z",
+    "date": "2026-09-26T18:12:24Z",
     "description": "Bloodhound order management",
     "stars": "3",
     "text": "aegorsuch/atak-plugin-houndmaster",
     "title": "aegorsuch/atak-plugin-houndmaster",
     "url": "https://github.com/aegorsuch/atak-plugin-houndmaster"
+   }
+  },
+  {
+   "key": "shigeki7299/ATAK_Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-26T16:16:59Z",
+    "stars": "0",
+    "text": "shigeki7299/ATAK_Plugin",
+    "title": "shigeki7299/ATAK_Plugin",
+    "url": "https://github.com/shigeki7299/ATAK_Plugin"
    }
   },
   {
@@ -822,18 +845,6 @@
     "text": "takwerx/atak-plugin-pipeline",
     "title": "takwerx/atak-plugin-pipeline",
     "url": "https://github.com/takwerx/atak-plugin-pipeline"
-   }
-  },
-  {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-25T13:32:02Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "1",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
    }
   },
   {
@@ -1105,7 +1116,7 @@
    "fields": {
     "date": "2026-09-11T06:18:27Z",
     "description": "PICKET SWARM: distributed acoustic detection plugin for ATAK — on-device sound classification, acoustic bearing, and multi-phone synthetic-aperture array cross-fixing on the map.",
-    "stars": "4",
+    "stars": "5",
     "text": "lcoriolan/PICKETCUAS-SWARM",
     "title": "lcoriolan/PICKETCUAS-SWARM",
     "url": "https://github.com/lcoriolan/PICKETCUAS-SWARM"
@@ -1117,7 +1128,7 @@
    "fields": {
     "date": "2026-09-11T05:47:37Z",
     "description": "PICKET SNOOPY: passive, receive-only RF/ESM survey plugin for ATAK — spectrum awareness, drone Remote ID (ASTM F3411) decode, and non-cooperative emitter bearing on the map.",
-    "stars": "8",
+    "stars": "9",
     "text": "lcoriolan/PICKETCUAS-SNOOPY",
     "title": "lcoriolan/PICKETCUAS-SNOOPY",
     "url": "https://github.com/lcoriolan/PICKETCUAS-SNOOPY"
@@ -1133,18 +1144,6 @@
     "text": "Hellikandra/ATAK-Plugin-MapFavorites",
     "title": "Hellikandra/ATAK-Plugin-MapFavorites",
     "url": "https://github.com/Hellikandra/ATAK-Plugin-MapFavorites"
-   }
-  },
-  {
-   "key": "Hellikandra/ATAK-Plugin-Hats",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-14T14:51:44Z",
-    "description": "Managing multiple profile over ATAK.",
-    "stars": "1",
-    "text": "Hellikandra/ATAK-Plugin-Hats",
-    "title": "Hellikandra/ATAK-Plugin-Hats",
-    "url": "https://github.com/Hellikandra/ATAK-Plugin-Hats"
    }
   },
   {
