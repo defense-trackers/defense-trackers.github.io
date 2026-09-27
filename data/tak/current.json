@@ -1,9 +1,33 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-09-26T21:35:34Z",
+ "fetched_at": "2026-09-27T12:09:31Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "rixau/atak-reactive",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-09-27T01:35:18Z",
+    "description": "Build ATAK (Android Team Awareness Kit) plugin UIs with React and TypeScript. Typed WebView bridge, hot reload, incremental adoption.",
+    "stars": "2",
+    "text": "rixau/atak-reactive",
+    "title": "rixau/atak-reactive",
+    "url": "https://github.com/rixau/atak-reactive"
+   }
+  },
+  {
+   "key": "joshuafuller/SRTM2TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-09-26T23:29:06Z",
+    "description": "Progressive Web App to download and package SRTM elevation data for ATAK (Android Team Awareness Kit). Features offline caching, concurrent downloads, and automatic ZIP packaging for direct import into ATAK.",
+    "stars": "11",
+    "text": "joshuafuller/SRTM2TAK",
+    "title": "joshuafuller/SRTM2TAK",
+    "url": "https://github.com/joshuafuller/SRTM2TAK"
+   }
+  },
   {
    "key": "microtak/microtak-server",
    "source": "tak-cot",
@@ -17,22 +41,10 @@
    }
   },
   {
-   "key": "rixau/atak-reactive",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-09-25T23:14:46Z",
-    "description": "Build ATAK (Android Team Awareness Kit) plugin UIs with React and TypeScript. Typed WebView bridge, hot reload, incremental adoption.",
-    "stars": "2",
-    "text": "rixau/atak-reactive",
-    "title": "rixau/atak-reactive",
-    "url": "https://github.com/rixau/atak-reactive"
-   }
-  },
-  {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-09-22T18:22:48Z",
+    "date": "2026-09-27T06:29:22Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "80",
     "text": "takwerx/infra-TAK",
@@ -74,18 +86,6 @@
     "text": "Audrey-cn/universal-agent-embedding-kit",
     "title": "Audrey-cn/universal-agent-embedding-kit",
     "url": "https://github.com/Audrey-cn/universal-agent-embedding-kit"
-   }
-  },
-  {
-   "key": "joshuafuller/SRTM2TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-09-10T23:17:49Z",
-    "description": "Progressive Web App to download and package SRTM elevation data for ATAK (Android Team Awareness Kit). Features offline caching, concurrent downloads, and automatic ZIP packaging for direct import into ATAK.",
-    "stars": "11",
-    "text": "joshuafuller/SRTM2TAK",
-    "title": "joshuafuller/SRTM2TAK",
-    "url": "https://github.com/joshuafuller/SRTM2TAK"
    }
   },
   {
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-09-26T19:37:59Z",
+    "date": "2026-09-27T06:30:26Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "38",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -801,15 +801,51 @@
    }
   },
   {
+   "key": "takwerx/cursorwerx",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-27T07:41:31Z",
+    "description": "ATAK Plugin: Cursorwerx — makes ATAK work with a mouse or trackpad: wheel zoom at the cursor, wheel scrolling in panes, click-drag panning, a Back button. Downloads, guide and issues here.",
+    "stars": "0",
+    "text": "takwerx/cursorwerx",
+    "title": "takwerx/cursorwerx",
+    "url": "https://github.com/takwerx/cursorwerx"
+   }
+  },
+  {
    "key": "takwerx/atak-plugins",
    "source": "tak-github",
    "fields": {
-    "date": "2026-09-26T19:24:19Z",
+    "date": "2026-09-27T07:43:32Z",
     "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
     "stars": "1",
     "text": "takwerx/atak-plugins",
     "title": "takwerx/atak-plugins",
     "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
+   "key": "takwerx/traffic",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-27T04:27:09Z",
+    "description": "ATAK Plugin: Traffic — live traffic overlay drawn over your own base map, kept refreshing while the map sits still. Downloads, guide and issues here.",
+    "stars": "13",
+    "text": "takwerx/traffic",
+    "title": "takwerx/traffic",
+    "url": "https://github.com/takwerx/traffic"
+   }
+  },
+  {
+   "key": "takwerx/ipaws-alerts",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-26T22:24:23Z",
+    "description": "ATAK Plugin: IPAWS Alerts — public emergency and weather alerts on the map, filtered on your device. Downloads, guide and issues here.",
+    "stars": "3",
+    "text": "takwerx/ipaws-alerts",
+    "title": "takwerx/ipaws-alerts",
+    "url": "https://github.com/takwerx/ipaws-alerts"
    }
   },
   {
@@ -863,7 +899,7 @@
    "key": "arachne-systems/arachne-atak",
    "source": "tak-github",
    "fields": {
-    "date": "2026-09-23T06:43:05Z",
+    "date": "2026-09-27T07:36:41Z",
     "description": "Arachne ATAK plugin: a secure mesh between ATAK devices",
     "stars": "1",
     "text": "arachne-systems/arachne-atak",
@@ -912,7 +948,7 @@
    "fields": {
     "date": "2026-09-21T02:30:51Z",
     "description": "ATAK Plugin: Map Depot — download elevation, base maps and offline public-lands maps from inside ATAK. Downloads, guide and issues here.",
-    "stars": "10",
+    "stars": "11",
     "text": "takwerx/map-depot",
     "title": "takwerx/map-depot",
     "url": "https://github.com/takwerx/map-depot"
@@ -988,18 +1024,6 @@
     "text": "takwerx/evac-zone",
     "title": "takwerx/evac-zone",
     "url": "https://github.com/takwerx/evac-zone"
-   }
-  },
-  {
-   "key": "takwerx/traffic",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-20T21:34:22Z",
-    "description": "ATAK Plugin: Traffic — live traffic overlay drawn over your own base map, kept refreshing while the map sits still. Downloads, guide and issues here.",
-    "stars": "13",
-    "text": "takwerx/traffic",
-    "title": "takwerx/traffic",
-    "url": "https://github.com/takwerx/traffic"
    }
   },
   {
@@ -1120,30 +1144,6 @@
     "text": "lcoriolan/PICKETCUAS-SWARM",
     "title": "lcoriolan/PICKETCUAS-SWARM",
     "url": "https://github.com/lcoriolan/PICKETCUAS-SWARM"
-   }
-  },
-  {
-   "key": "lcoriolan/PICKETCUAS-SNOOPY",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-11T05:47:37Z",
-    "description": "PICKET SNOOPY: passive, receive-only RF/ESM survey plugin for ATAK — spectrum awareness, drone Remote ID (ASTM F3411) decode, and non-cooperative emitter bearing on the map.",
-    "stars": "9",
-    "text": "lcoriolan/PICKETCUAS-SNOOPY",
-    "title": "lcoriolan/PICKETCUAS-SNOOPY",
-    "url": "https://github.com/lcoriolan/PICKETCUAS-SNOOPY"
-   }
-  },
-  {
-   "key": "Hellikandra/ATAK-Plugin-MapFavorites",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-09T10:29:34Z",
-    "description": "ATAK Plugin which provide map favorite on MapView directly",
-    "stars": "1",
-    "text": "Hellikandra/ATAK-Plugin-MapFavorites",
-    "title": "Hellikandra/ATAK-Plugin-MapFavorites",
-    "url": "https://github.com/Hellikandra/ATAK-Plugin-MapFavorites"
    }
   },
   {
