@@ -1,14 +1,26 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-09-27T12:09:31Z",
+ "fetched_at": "2026-09-27T21:38:22Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-09-27T20:19:14Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "80",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
   {
    "key": "rixau/atak-reactive",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-09-27T01:35:18Z",
+    "date": "2026-09-27T15:45:07Z",
     "description": "Build ATAK (Android Team Awareness Kit) plugin UIs with React and TypeScript. Typed WebView bridge, hot reload, incremental adoption.",
     "stars": "2",
     "text": "rixau/atak-reactive",
@@ -38,18 +50,6 @@
     "text": "microtak/microtak-server",
     "title": "microtak/microtak-server",
     "url": "https://github.com/microtak/microtak-server"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-09-27T06:29:22Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "80",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -689,7 +689,7 @@
    "fields": {
     "date": "2025-02-02T20:34:54Z",
     "description": "integration between FreeTAKServer and Meshtastic using MQTT and Node red ",
-    "stars": "14",
+    "stars": "15",
     "text": "FreeTAKTeam/FreeTAKHub_meshtastic",
     "title": "FreeTAKTeam/FreeTAKHub_meshtastic",
     "url": "https://github.com/FreeTAKTeam/FreeTAKHub_meshtastic"
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-09-27T06:30:26Z",
+    "date": "2026-09-27T20:25:27Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "38",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -801,6 +801,78 @@
    }
   },
   {
+   "key": "FreeTAKTeam/YARA",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2026-09-27T21:24:20Z",
+    "description": "Yet Another Reticulum Application (aka MeschChat-RS)",
+    "stars": "0",
+    "text": "FreeTAKTeam/YARA",
+    "title": "FreeTAKTeam/YARA",
+    "url": "https://github.com/FreeTAKTeam/YARA"
+   }
+  },
+  {
+   "key": "ke8tqb/HBC-ATAK-Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-27T21:27:26Z",
+    "description": "Implements HBC protocol for a streamline ATAK plugin",
+    "stars": "0",
+    "text": "ke8tqb/HBC-ATAK-Plugin",
+    "title": "ke8tqb/HBC-ATAK-Plugin",
+    "url": "https://github.com/ke8tqb/HBC-ATAK-Plugin"
+   }
+  },
+  {
+   "key": "aegorsuch/atak-plugin-houndmaster",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-27T21:30:37Z",
+    "description": "Bloodhound order management",
+    "stars": "3",
+    "text": "aegorsuch/atak-plugin-houndmaster",
+    "title": "aegorsuch/atak-plugin-houndmaster",
+    "url": "https://github.com/aegorsuch/atak-plugin-houndmaster"
+   }
+  },
+  {
+   "key": "mighkel/ATAK-Plugin-KestrelWx",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-27T17:39:10Z",
+    "description": "ATAK Plugin: Kestrel Wx — live Kestrel 5500FWL fire weather readings on the ATAK map, shared with your team. Downloads, guide and issues here.",
+    "stars": "3",
+    "text": "mighkel/ATAK-Plugin-KestrelWx",
+    "title": "mighkel/ATAK-Plugin-KestrelWx",
+    "url": "https://github.com/mighkel/ATAK-Plugin-KestrelWx"
+   }
+  },
+  {
+   "key": "takwerx/ipaws-alerts",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-27T15:35:41Z",
+    "description": "ATAK Plugin: IPAWS Alerts — public emergency and weather alerts on the map, filtered on your device. Downloads, guide and issues here.",
+    "stars": "4",
+    "text": "takwerx/ipaws-alerts",
+    "title": "takwerx/ipaws-alerts",
+    "url": "https://github.com/takwerx/ipaws-alerts"
+   }
+  },
+  {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-27T15:35:42Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "1",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
    "key": "takwerx/cursorwerx",
    "source": "tak-github",
    "fields": {
@@ -813,18 +885,6 @@
    }
   },
   {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-27T07:43:32Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "1",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
-   }
-  },
-  {
    "key": "takwerx/traffic",
    "source": "tak-github",
    "fields": {
@@ -834,30 +894,6 @@
     "text": "takwerx/traffic",
     "title": "takwerx/traffic",
     "url": "https://github.com/takwerx/traffic"
-   }
-  },
-  {
-   "key": "takwerx/ipaws-alerts",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-26T22:24:23Z",
-    "description": "ATAK Plugin: IPAWS Alerts — public emergency and weather alerts on the map, filtered on your device. Downloads, guide and issues here.",
-    "stars": "3",
-    "text": "takwerx/ipaws-alerts",
-    "title": "takwerx/ipaws-alerts",
-    "url": "https://github.com/takwerx/ipaws-alerts"
-   }
-  },
-  {
-   "key": "aegorsuch/atak-plugin-houndmaster",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-26T18:12:24Z",
-    "description": "Bloodhound order management",
-    "stars": "3",
-    "text": "aegorsuch/atak-plugin-houndmaster",
-    "title": "aegorsuch/atak-plugin-houndmaster",
-    "url": "https://github.com/aegorsuch/atak-plugin-houndmaster"
    }
   },
   {
@@ -1120,30 +1156,6 @@
     "text": "DrLexus11/urban-tak",
     "title": "DrLexus11/urban-tak",
     "url": "https://github.com/DrLexus11/urban-tak"
-   }
-  },
-  {
-   "key": "BUTTERGANG/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-11T16:17:44Z",
-    "description": "Public tier of atak-plugins — open-licensed / clean-room ATAK-CIV plugins rebuilt by BUTTERGANG. Private tier (SDK-derived scaffolds + protected-IP remixes): atak-plugins-private.",
-    "stars": "0",
-    "text": "BUTTERGANG/atak-plugins",
-    "title": "BUTTERGANG/atak-plugins",
-    "url": "https://github.com/BUTTERGANG/atak-plugins"
-   }
-  },
-  {
-   "key": "lcoriolan/PICKETCUAS-SWARM",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-11T06:18:27Z",
-    "description": "PICKET SWARM: distributed acoustic detection plugin for ATAK — on-device sound classification, acoustic bearing, and multi-phone synthetic-aperture array cross-fixing on the map.",
-    "stars": "5",
-    "text": "lcoriolan/PICKETCUAS-SWARM",
-    "title": "lcoriolan/PICKETCUAS-SWARM",
-    "url": "https://github.com/lcoriolan/PICKETCUAS-SWARM"
    }
   },
   {
