@@ -3,6 +3,23 @@
 <title>tak changelog</title>
 <link>https://defense-trackers.github.io/tracker.html?t=tak</link>
 <description>Change events for tak. Append-only, hash-chained.</description>
+<item><title>[added] openTAKpickList</title><guid isPermaLink="false">tak-openTAKpickList-2026-09-28T23:31:44Z</guid><pubDate>Mon, 28 Sep 2026 23:31:44 +0000</pubDate></item>
+<item><title>[added] FreeTAKServer</title><guid isPermaLink="false">tak-FreeTAKServer-2026-09-28T23:31:44Z</guid><pubDate>Mon, 28 Sep 2026 23:31:44 +0000</pubDate></item>
+<item><title>[changed] takwerx/signal-df</title><guid isPermaLink="false">tak-takwerx/signal-df-2026-09-28T23:31:44Z</guid><pubDate>Mon, 28 Sep 2026 23:31:44 +0000</pubDate></item>
+<item><title>[changed] takwerx/atak-plugins</title><guid isPermaLink="false">tak-takwerx/atak-plugins-2026-09-28T23:31:44Z</guid><pubDate>Mon, 28 Sep 2026 23:31:44 +0000</pubDate></item>
+<item><title>[changed] takwerx/atmosphere</title><guid isPermaLink="false">tak-takwerx/atmosphere-2026-09-28T23:31:44Z</guid><pubDate>Mon, 28 Sep 2026 23:31:44 +0000</pubDate></item>
+<item><title>[added] rixau/atak-reactive</title><guid isPermaLink="false">tak-rixau/atak-reactive-2026-09-28T23:31:44Z</guid><pubDate>Mon, 28 Sep 2026 23:31:44 +0000</pubDate></item>
+<item><title>[changed] FreeTAKTeam/Reticulum_Meshtastic_Integration</title><guid isPermaLink="false">tak-FreeTAKTeam/Reticulum_Meshtastic_Integration-2026-09-28T23:31:42Z</guid><pubDate>Mon, 28 Sep 2026 23:31:42 +0000</pubDate></item>
+<item><title>[changed] FreeTAKTeam/LXMF-rs</title><guid isPermaLink="false">tak-FreeTAKTeam/LXMF-rs-2026-09-28T23:31:42Z</guid><pubDate>Mon, 28 Sep 2026 23:31:42 +0000</pubDate></item>
+<item><title>[changed] FreeTAKTeam/Reticulum-Community-Hub</title><guid isPermaLink="false">tak-FreeTAKTeam/Reticulum-Community-Hub-2026-09-28T23:31:42Z</guid><pubDate>Mon, 28 Sep 2026 23:31:42 +0000</pubDate></item>
+<item><title>[changed] FreeTAKTeam/FreeTakServer</title><guid isPermaLink="false">tak-FreeTAKTeam/FreeTakServer-2026-09-28T23:31:42Z</guid><pubDate>Mon, 28 Sep 2026 23:31:42 +0000</pubDate></item>
+<item><title>[removed] vanguarda-app/Loki</title><guid isPermaLink="false">tak-vanguarda-app/Loki-2026-09-28T23:31:39Z</guid><pubDate>Mon, 28 Sep 2026 23:31:39 +0000</pubDate></item>
+<item><title>[changed] C2A2-at-Florida-Atlantic-University/RTAK-V2</title><guid isPermaLink="false">tak-C2A2-at-Florida-Atlantic-University/RTAK-V2-2026-09-28T23:31:39Z</guid><pubDate>Mon, 28 Sep 2026 23:31:39 +0000</pubDate></item>
+<item><title>[added] valmojr/Loki</title><guid isPermaLink="false">tak-valmojr/Loki-2026-09-28T23:31:39Z</guid><pubDate>Mon, 28 Sep 2026 23:31:39 +0000</pubDate></item>
+<item><title>[changed] engindearing-projects/OmniTAK-Android</title><guid isPermaLink="false">tak-engindearing-projects/OmniTAK-Android-2026-09-28T23:31:39Z</guid><pubDate>Mon, 28 Sep 2026 23:31:39 +0000</pubDate></item>
+<item><title>[changed] engindearing-projects/OmniTAK-iOS</title><guid isPermaLink="false">tak-engindearing-projects/OmniTAK-iOS-2026-09-28T23:31:39Z</guid><pubDate>Mon, 28 Sep 2026 23:31:39 +0000</pubDate></item>
+<item><title>[changed] rixau/atak-reactive</title><guid isPermaLink="false">tak-rixau/atak-reactive-2026-09-28T23:31:39Z</guid><pubDate>Mon, 28 Sep 2026 23:31:39 +0000</pubDate></item>
+<item><title>[changed] microtak/microtak-server</title><guid isPermaLink="false">tak-microtak/microtak-server-2026-09-28T23:31:39Z</guid><pubDate>Mon, 28 Sep 2026 23:31:39 +0000</pubDate></item>
 <item><title>[added] openTAKpickList</title><guid isPermaLink="false">tak-openTAKpickList-2026-09-28T14:04:14Z</guid><pubDate>Mon, 28 Sep 2026 14:04:14 +0000</pubDate></item>
 <item><title>[added] FreeTAKServer</title><guid isPermaLink="false">tak-FreeTAKServer-2026-09-28T14:04:14Z</guid><pubDate>Mon, 28 Sep 2026 14:04:14 +0000</pubDate></item>
 <item><title>[removed] DrLexus11/urban-tak</title><guid isPermaLink="false">tak-DrLexus11/urban-tak-2026-09-28T14:04:14Z</guid><pubDate>Mon, 28 Sep 2026 14:04:14 +0000</pubDate></item>
@@ -36,21 +53,4 @@
 <item><title>[changed] takwerx/infra-TAK</title><guid isPermaLink="false">tak-takwerx/infra-TAK-2026-09-27T21:38:16Z</guid><pubDate>Sun, 27 Sep 2026 21:38:16 +0000</pubDate></item>
 <item><title>[added] openTAKpickList</title><guid isPermaLink="false">tak-openTAKpickList-2026-09-27T12:09:31Z</guid><pubDate>Sun, 27 Sep 2026 12:09:31 +0000</pubDate></item>
 <item><title>[added] FreeTAKServer</title><guid isPermaLink="false">tak-FreeTAKServer-2026-09-27T12:09:31Z</guid><pubDate>Sun, 27 Sep 2026 12:09:31 +0000</pubDate></item>
-<item><title>[removed] lcoriolan/PICKETCUAS-SNOOPY</title><guid isPermaLink="false">tak-lcoriolan/PICKETCUAS-SNOOPY-2026-09-27T12:09:31Z</guid><pubDate>Sun, 27 Sep 2026 12:09:31 +0000</pubDate></item>
-<item><title>[removed] Hellikandra/ATAK-Plugin-MapFavorites</title><guid isPermaLink="false">tak-Hellikandra/ATAK-Plugin-MapFavorites-2026-09-27T12:09:31Z</guid><pubDate>Sun, 27 Sep 2026 12:09:31 +0000</pubDate></item>
-<item><title>[changed] takwerx/map-depot</title><guid isPermaLink="false">tak-takwerx/map-depot-2026-09-27T12:09:31Z</guid><pubDate>Sun, 27 Sep 2026 12:09:31 +0000</pubDate></item>
-<item><title>[changed] arachne-systems/arachne-atak</title><guid isPermaLink="false">tak-arachne-systems/arachne-atak-2026-09-27T12:09:31Z</guid><pubDate>Sun, 27 Sep 2026 12:09:31 +0000</pubDate></item>
-<item><title>[added] takwerx/ipaws-alerts</title><guid isPermaLink="false">tak-takwerx/ipaws-alerts-2026-09-27T12:09:31Z</guid><pubDate>Sun, 27 Sep 2026 12:09:31 +0000</pubDate></item>
-<item><title>[added] rixau/atak-reactive</title><guid isPermaLink="false">tak-rixau/atak-reactive-2026-09-27T12:09:31Z</guid><pubDate>Sun, 27 Sep 2026 12:09:31 +0000</pubDate></item>
-<item><title>[changed] takwerx/traffic</title><guid isPermaLink="false">tak-takwerx/traffic-2026-09-27T12:09:31Z</guid><pubDate>Sun, 27 Sep 2026 12:09:31 +0000</pubDate></item>
-<item><title>[changed] takwerx/atak-plugins</title><guid isPermaLink="false">tak-takwerx/atak-plugins-2026-09-27T12:09:31Z</guid><pubDate>Sun, 27 Sep 2026 12:09:31 +0000</pubDate></item>
-<item><title>[added] takwerx/cursorwerx</title><guid isPermaLink="false">tak-takwerx/cursorwerx-2026-09-27T12:09:31Z</guid><pubDate>Sun, 27 Sep 2026 12:09:31 +0000</pubDate></item>
-<item><title>[changed] FreeTAKTeam/LXMF-rs</title><guid isPermaLink="false">tak-FreeTAKTeam/LXMF-rs-2026-09-27T12:09:28Z</guid><pubDate>Sun, 27 Sep 2026 12:09:28 +0000</pubDate></item>
-<item><title>[changed] takwerx/infra-TAK</title><guid isPermaLink="false">tak-takwerx/infra-TAK-2026-09-27T12:09:25Z</guid><pubDate>Sun, 27 Sep 2026 12:09:25 +0000</pubDate></item>
-<item><title>[changed] joshuafuller/SRTM2TAK</title><guid isPermaLink="false">tak-joshuafuller/SRTM2TAK-2026-09-27T12:09:25Z</guid><pubDate>Sun, 27 Sep 2026 12:09:25 +0000</pubDate></item>
-<item><title>[changed] rixau/atak-reactive</title><guid isPermaLink="false">tak-rixau/atak-reactive-2026-09-27T12:09:25Z</guid><pubDate>Sun, 27 Sep 2026 12:09:25 +0000</pubDate></item>
-<item><title>[added] openTAKpickList</title><guid isPermaLink="false">tak-openTAKpickList-2026-09-26T21:35:34Z</guid><pubDate>Sat, 26 Sep 2026 21:35:34 +0000</pubDate></item>
-<item><title>[added] FreeTAKServer</title><guid isPermaLink="false">tak-FreeTAKServer-2026-09-26T21:35:34Z</guid><pubDate>Sat, 26 Sep 2026 21:35:34 +0000</pubDate></item>
-<item><title>[removed] Hellikandra/ATAK-Plugin-Hats</title><guid isPermaLink="false">tak-Hellikandra/ATAK-Plugin-Hats-2026-09-26T21:35:34Z</guid><pubDate>Sat, 26 Sep 2026 21:35:34 +0000</pubDate></item>
-<item><title>[changed] lcoriolan/PICKETCUAS-SNOOPY</title><guid isPermaLink="false">tak-lcoriolan/PICKETCUAS-SNOOPY-2026-09-26T21:35:34Z</guid><pubDate>Sat, 26 Sep 2026 21:35:34 +0000</pubDate></item>
 </channel></rss>

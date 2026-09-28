@@ -1,14 +1,26 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-09-28T14:04:14Z",
+ "fetched_at": "2026-09-28T23:31:44Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "microtak/microtak-server",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-09-28T21:37:13Z",
+    "description": "A lightweight, mesh-federated TAK (Team Awareness Kit) server written in Rust",
+    "stars": "0",
+    "text": "microtak/microtak-server",
+    "title": "microtak/microtak-server",
+    "url": "https://github.com/microtak/microtak-server"
+   }
+  },
   {
    "key": "rixau/atak-reactive",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-09-28T01:50:43Z",
+    "date": "2026-09-28T20:12:53Z",
     "description": "Build ATAK (Android Team Awareness Kit) plugin UIs with React and TypeScript. Typed WebView bridge, hot reload, incremental adoption.",
     "stars": "2",
     "text": "rixau/atak-reactive",
@@ -41,22 +53,10 @@
    }
   },
   {
-   "key": "microtak/microtak-server",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-09-25T16:44:32Z",
-    "description": "A lightweight, mesh-federated TAK (Team Awareness Kit) server written in Rust",
-    "stars": "0",
-    "text": "microtak/microtak-server",
-    "title": "microtak/microtak-server",
-    "url": "https://github.com/microtak/microtak-server"
-   }
-  },
-  {
    "key": "engindearing-projects/OmniTAK-iOS",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-09-22T04:50:07Z",
+    "date": "2026-09-28T23:26:05Z",
     "description": "Open-source TAK (Team Awareness Kit) client for iPhone and iPad. Swift + SwiftUI. Apache 2.0.",
     "stars": "9",
     "text": "engindearing-projects/OmniTAK-iOS",
@@ -68,7 +68,7 @@
    "key": "engindearing-projects/OmniTAK-Android",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-09-22T04:42:33Z",
+    "date": "2026-09-28T23:26:10Z",
     "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
     "stars": "22",
     "text": "engindearing-projects/OmniTAK-Android",
@@ -125,15 +125,15 @@
    }
   },
   {
-   "key": "vanguarda-app/Loki",
+   "key": "valmojr/Loki",
    "source": "tak-cot",
    "fields": {
     "date": "2026-08-24T20:34:59Z",
     "description": "Simulation Suit for Team Awareness Kit environments",
     "stars": "0",
-    "text": "vanguarda-app/Loki",
-    "title": "vanguarda-app/Loki",
-    "url": "https://github.com/vanguarda-app/Loki"
+    "text": "valmojr/Loki",
+    "title": "valmojr/Loki",
+    "url": "https://github.com/valmojr/Loki"
    }
   },
   {
@@ -226,7 +226,7 @@
    "fields": {
     "date": "2026-03-26T22:29:34Z",
     "description": "RTAK V2 brings the decentralized versatility of the Reticulum Network Stack to the Android Team Awareness Kit by serving as a bridge between it and RNS' secure heterogenous mesh networking stack.",
-    "stars": "11",
+    "stars": "12",
     "text": "C2A2-at-Florida-Atlantic-University/RTAK-V2",
     "title": "C2A2-at-Florida-Atlantic-University/RTAK-V2",
     "url": "https://github.com/C2A2-at-Florida-Atlantic-University/RTAK-V2"
@@ -370,7 +370,7 @@
    "fields": {
     "date": "2024-10-29T11:52:00Z",
     "description": "Situational Awareness Server compatible with TAK clients",
-    "stars": "961",
+    "stars": "963",
     "text": "FreeTAKTeam/FreeTakServer",
     "title": "FreeTAKTeam/FreeTakServer",
     "url": "https://github.com/FreeTAKTeam/FreeTakServer"
@@ -642,7 +642,7 @@
    "fields": {
     "date": "2026-08-13T17:54:34Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
-    "stars": "108",
+    "stars": "109",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
     "title": "FreeTAKTeam/Reticulum-Community-Hub",
     "url": "https://github.com/FreeTAKTeam/Reticulum-Community-Hub"
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-09-27T20:25:27Z",
+    "date": "2026-09-28T23:07:06Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "38",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -736,7 +736,7 @@
    "source": "tak-freetak",
    "fields": {
     "date": "2026-02-15T15:33:46Z",
-    "stars": "17",
+    "stars": "18",
     "text": "FreeTAKTeam/Reticulum_Meshtastic_Integration",
     "title": "FreeTAKTeam/Reticulum_Meshtastic_Integration",
     "url": "https://github.com/FreeTAKTeam/Reticulum_Meshtastic_Integration"
@@ -813,22 +813,22 @@
    }
   },
   {
-   "key": "aegorsuch/atak-plugin-houndmaster",
+   "key": "takwerx/atmosphere",
    "source": "tak-github",
    "fields": {
-    "date": "2026-09-28T10:34:40Z",
-    "description": "Bloodhound order management",
-    "stars": "3",
-    "text": "aegorsuch/atak-plugin-houndmaster",
-    "title": "aegorsuch/atak-plugin-houndmaster",
-    "url": "https://github.com/aegorsuch/atak-plugin-houndmaster"
+    "date": "2026-09-28T18:02:04Z",
+    "description": "ATAK Plugin: Atmosphere — fire and hazmat weather on the map: the forecast at a point, radar, satellite, wind, rain, smoke, rivers and the sea. Downloads, guide and issues here.",
+    "stars": "0",
+    "text": "takwerx/atmosphere",
+    "title": "takwerx/atmosphere",
+    "url": "https://github.com/takwerx/atmosphere"
    }
   },
   {
    "key": "takwerx/atak-plugins",
    "source": "tak-github",
    "fields": {
-    "date": "2026-09-28T13:37:04Z",
+    "date": "2026-09-28T18:06:37Z",
     "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
     "stars": "1",
     "text": "takwerx/atak-plugins",
@@ -840,7 +840,7 @@
    "key": "takwerx/signal-df",
    "source": "tak-github",
    "fields": {
-    "date": "2026-09-28T05:57:52Z",
+    "date": "2026-09-28T16:52:07Z",
     "description": "ATAK Plugin: Signal DF — RF direction-finding bearings from a KrakenSDR on the ATAK map. Downloads, guide and issues here.",
     "stars": "0",
     "text": "takwerx/signal-df",
@@ -849,15 +849,15 @@
    }
   },
   {
-   "key": "takwerx/atmosphere",
+   "key": "aegorsuch/atak-plugin-houndmaster",
    "source": "tak-github",
    "fields": {
-    "date": "2026-09-28T05:21:11Z",
-    "description": "ATAK Plugin: Atmosphere — fire and hazmat weather on the map: the forecast at a point, radar, satellite, wind, rain, smoke, rivers and the sea. Downloads, guide and issues here.",
-    "stars": "0",
-    "text": "takwerx/atmosphere",
-    "title": "takwerx/atmosphere",
-    "url": "https://github.com/takwerx/atmosphere"
+    "date": "2026-09-28T10:34:40Z",
+    "description": "Bloodhound order management",
+    "stars": "3",
+    "text": "aegorsuch/atak-plugin-houndmaster",
+    "title": "aegorsuch/atak-plugin-houndmaster",
+    "url": "https://github.com/aegorsuch/atak-plugin-houndmaster"
    }
   },
   {
