@@ -1,9 +1,21 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-09-27T21:38:22Z",
+ "fetched_at": "2026-09-28T14:04:14Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "rixau/atak-reactive",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-09-28T01:50:43Z",
+    "description": "Build ATAK (Android Team Awareness Kit) plugin UIs with React and TypeScript. Typed WebView bridge, hot reload, incremental adoption.",
+    "stars": "2",
+    "text": "rixau/atak-reactive",
+    "title": "rixau/atak-reactive",
+    "url": "https://github.com/rixau/atak-reactive"
+   }
+  },
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
@@ -14,18 +26,6 @@
     "text": "takwerx/infra-TAK",
     "title": "takwerx/infra-TAK",
     "url": "https://github.com/takwerx/infra-TAK"
-   }
-  },
-  {
-   "key": "rixau/atak-reactive",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-09-27T15:45:07Z",
-    "description": "Build ATAK (Android Team Awareness Kit) plugin UIs with React and TypeScript. Typed WebView bridge, hot reload, incremental adoption.",
-    "stars": "2",
-    "text": "rixau/atak-reactive",
-    "title": "rixau/atak-reactive",
-    "url": "https://github.com/rixau/atak-reactive"
    }
   },
   {
@@ -226,7 +226,7 @@
    "fields": {
     "date": "2026-03-26T22:29:34Z",
     "description": "RTAK V2 brings the decentralized versatility of the Reticulum Network Stack to the Android Team Awareness Kit by serving as a bridge between it and RNS' secure heterogenous mesh networking stack.",
-    "stars": "10",
+    "stars": "11",
     "text": "C2A2-at-Florida-Atlantic-University/RTAK-V2",
     "title": "C2A2-at-Florida-Atlantic-University/RTAK-V2",
     "url": "https://github.com/C2A2-at-Florida-Atlantic-University/RTAK-V2"
@@ -804,7 +804,7 @@
    "key": "FreeTAKTeam/YARA",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-09-27T21:24:20Z",
+    "date": "2026-09-27T21:48:55Z",
     "description": "Yet Another Reticulum Application (aka MeschChat-RS)",
     "stars": "0",
     "text": "FreeTAKTeam/YARA",
@@ -813,22 +813,10 @@
    }
   },
   {
-   "key": "ke8tqb/HBC-ATAK-Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-27T21:27:26Z",
-    "description": "Implements HBC protocol for a streamline ATAK plugin",
-    "stars": "0",
-    "text": "ke8tqb/HBC-ATAK-Plugin",
-    "title": "ke8tqb/HBC-ATAK-Plugin",
-    "url": "https://github.com/ke8tqb/HBC-ATAK-Plugin"
-   }
-  },
-  {
    "key": "aegorsuch/atak-plugin-houndmaster",
    "source": "tak-github",
    "fields": {
-    "date": "2026-09-27T21:30:37Z",
+    "date": "2026-09-28T10:34:40Z",
     "description": "Bloodhound order management",
     "stars": "3",
     "text": "aegorsuch/atak-plugin-houndmaster",
@@ -837,15 +825,75 @@
    }
   },
   {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-28T13:37:04Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "1",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
+   "key": "takwerx/signal-df",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-28T05:57:52Z",
+    "description": "ATAK Plugin: Signal DF — RF direction-finding bearings from a KrakenSDR on the ATAK map. Downloads, guide and issues here.",
+    "stars": "0",
+    "text": "takwerx/signal-df",
+    "title": "takwerx/signal-df",
+    "url": "https://github.com/takwerx/signal-df"
+   }
+  },
+  {
+   "key": "takwerx/atmosphere",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-28T05:21:11Z",
+    "description": "ATAK Plugin: Atmosphere — fire and hazmat weather on the map: the forecast at a point, radar, satellite, wind, rain, smoke, rivers and the sea. Downloads, guide and issues here.",
+    "stars": "0",
+    "text": "takwerx/atmosphere",
+    "title": "takwerx/atmosphere",
+    "url": "https://github.com/takwerx/atmosphere"
+   }
+  },
+  {
    "key": "mighkel/ATAK-Plugin-KestrelWx",
    "source": "tak-github",
    "fields": {
-    "date": "2026-09-27T17:39:10Z",
+    "date": "2026-09-28T01:55:37Z",
     "description": "ATAK Plugin: Kestrel Wx — live Kestrel 5500FWL fire weather readings on the ATAK map, shared with your team. Downloads, guide and issues here.",
     "stars": "3",
     "text": "mighkel/ATAK-Plugin-KestrelWx",
     "title": "mighkel/ATAK-Plugin-KestrelWx",
     "url": "https://github.com/mighkel/ATAK-Plugin-KestrelWx"
+   }
+  },
+  {
+   "key": "takwerx/cursorwerx",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-27T23:29:40Z",
+    "description": "ATAK Plugin: Cursorwerx — makes ATAK work with a mouse or trackpad: wheel zoom at the cursor, wheel scrolling in panes, click-drag panning, a Back button. Downloads, guide and issues here.",
+    "stars": "1",
+    "text": "takwerx/cursorwerx",
+    "title": "takwerx/cursorwerx",
+    "url": "https://github.com/takwerx/cursorwerx"
+   }
+  },
+  {
+   "key": "ke8tqb/HBC-ATAK-Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-27T21:27:26Z",
+    "description": "Implements HBC protocol for a streamline ATAK plugin",
+    "stars": "1",
+    "text": "ke8tqb/HBC-ATAK-Plugin",
+    "title": "ke8tqb/HBC-ATAK-Plugin",
+    "url": "https://github.com/ke8tqb/HBC-ATAK-Plugin"
    }
   },
   {
@@ -858,30 +906,6 @@
     "text": "takwerx/ipaws-alerts",
     "title": "takwerx/ipaws-alerts",
     "url": "https://github.com/takwerx/ipaws-alerts"
-   }
-  },
-  {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-27T15:35:42Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "1",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
-   }
-  },
-  {
-   "key": "takwerx/cursorwerx",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-27T07:41:31Z",
-    "description": "ATAK Plugin: Cursorwerx — makes ATAK work with a mouse or trackpad: wheel zoom at the cursor, wheel scrolling in panes, click-drag panning, a Back button. Downloads, guide and issues here.",
-    "stars": "0",
-    "text": "takwerx/cursorwerx",
-    "title": "takwerx/cursorwerx",
-    "url": "https://github.com/takwerx/cursorwerx"
    }
   },
   {
@@ -1126,36 +1150,12 @@
    "key": "AkitaEngineering/Akita-MeshTAK",
    "source": "tak-github",
    "fields": {
-    "date": "2026-09-21T07:11:58Z",
+    "date": "2026-09-28T07:11:43Z",
     "description": "The Akita MeshTAK Plugin is a game-changing Android Tactical Assault Kit (ATAK) plugin meticulously crafted to bridge the gap between ATAK and Meshtastic, providing unparalleled communication capabilities in the most challenging and disconnected environments.",
     "stars": "16",
     "text": "AkitaEngineering/Akita-MeshTAK",
     "title": "AkitaEngineering/Akita-MeshTAK",
     "url": "https://github.com/AkitaEngineering/Akita-MeshTAK"
-   }
-  },
-  {
-   "key": "DrLexus11/reticulum-atak",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-13T07:14:33Z",
-    "description": "ATAK reticulum mesh plugin",
-    "stars": "0",
-    "text": "DrLexus11/reticulum-atak",
-    "title": "DrLexus11/reticulum-atak",
-    "url": "https://github.com/DrLexus11/reticulum-atak"
-   }
-  },
-  {
-   "key": "DrLexus11/urban-tak",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-12T07:24:35Z",
-    "description": "ATAK dense urban disaster response coordination plugin",
-    "stars": "0",
-    "text": "DrLexus11/urban-tak",
-    "title": "DrLexus11/urban-tak",
-    "url": "https://github.com/DrLexus11/urban-tak"
    }
   },
   {
