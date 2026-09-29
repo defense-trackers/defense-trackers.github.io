@@ -1,7 +1,7 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-09-29T13:00:22Z",
+ "fetched_at": "2026-09-29T22:37:42Z",
  "schema_version": 1,
  "records": [
   {
@@ -813,6 +813,30 @@
    }
   },
   {
+   "key": "SyracuseUniversity/PET",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-29T20:52:57Z",
+    "description": "Provable Evidence Tracing (PET): A two-part system, ATAK plugin plus ledger gateway, that fingerprints forestry supply chain data with SHA-256 and anchors it to a blockchain for tamper-evident chain of custody. Research prototype, Dynamic Sustainability Lab, Syracuse University.",
+    "stars": "0",
+    "text": "SyracuseUniversity/PET",
+    "title": "SyracuseUniversity/PET",
+    "url": "https://github.com/SyracuseUniversity/PET"
+   }
+  },
+  {
+   "key": "mighkel/ATAK-Plugin-KestrelWx",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-29T20:26:45Z",
+    "description": "ATAK Plugin: Kestrel Wx — live Kestrel 5500FWL fire weather readings on the ATAK map, shared with your team. Downloads, guide and issues here.",
+    "stars": "3",
+    "text": "mighkel/ATAK-Plugin-KestrelWx",
+    "title": "mighkel/ATAK-Plugin-KestrelWx",
+    "url": "https://github.com/mighkel/ATAK-Plugin-KestrelWx"
+   }
+  },
+  {
    "key": "takwerx/atmosphere",
    "source": "tak-github",
    "fields": {
@@ -861,18 +885,6 @@
    }
   },
   {
-   "key": "mighkel/ATAK-Plugin-KestrelWx",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-28T01:55:37Z",
-    "description": "ATAK Plugin: Kestrel Wx — live Kestrel 5500FWL fire weather readings on the ATAK map, shared with your team. Downloads, guide and issues here.",
-    "stars": "3",
-    "text": "mighkel/ATAK-Plugin-KestrelWx",
-    "title": "mighkel/ATAK-Plugin-KestrelWx",
-    "url": "https://github.com/mighkel/ATAK-Plugin-KestrelWx"
-   }
-  },
-  {
    "key": "takwerx/cursorwerx",
    "source": "tak-github",
    "fields": {
@@ -890,7 +902,7 @@
    "fields": {
     "date": "2026-09-27T21:27:26Z",
     "description": "Implements HBC protocol for a streamline ATAK plugin",
-    "stars": "1",
+    "stars": "3",
     "text": "ke8tqb/HBC-ATAK-Plugin",
     "title": "ke8tqb/HBC-ATAK-Plugin",
     "url": "https://github.com/ke8tqb/HBC-ATAK-Plugin"
@@ -1144,18 +1156,6 @@
     "text": "Hellikandra/ATAK-Plugin-KMLReplay",
     "title": "Hellikandra/ATAK-Plugin-KMLReplay",
     "url": "https://github.com/Hellikandra/ATAK-Plugin-KMLReplay"
-   }
-  },
-  {
-   "key": "AkitaEngineering/Akita-MeshTAK",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-28T07:11:43Z",
-    "description": "The Akita MeshTAK Plugin is a game-changing Android Tactical Assault Kit (ATAK) plugin meticulously crafted to bridge the gap between ATAK and Meshtastic, providing unparalleled communication capabilities in the most challenging and disconnected environments.",
-    "stars": "16",
-    "text": "AkitaEngineering/Akita-MeshTAK",
-    "title": "AkitaEngineering/Akita-MeshTAK",
-    "url": "https://github.com/AkitaEngineering/Akita-MeshTAK"
    }
   },
   {
