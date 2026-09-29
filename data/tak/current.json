@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-09-28T23:31:44Z",
+ "fetched_at": "2026-09-29T13:00:22Z",
  "schema_version": 1,
  "records": [
   {
    "key": "microtak/microtak-server",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-09-28T21:37:13Z",
+    "date": "2026-09-29T12:22:49Z",
     "description": "A lightweight, mesh-federated TAK (Team Awareness Kit) server written in Rust",
     "stars": "0",
     "text": "microtak/microtak-server",
@@ -34,7 +34,7 @@
    "fields": {
     "date": "2026-09-27T20:19:14Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "80",
+    "stars": "81",
     "text": "takwerx/infra-TAK",
     "title": "takwerx/infra-TAK",
     "url": "https://github.com/takwerx/infra-TAK"
@@ -68,7 +68,7 @@
    "key": "engindearing-projects/OmniTAK-Android",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-09-28T23:26:10Z",
+    "date": "2026-09-29T01:46:12Z",
     "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
     "stars": "22",
     "text": "engindearing-projects/OmniTAK-Android",
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-09-28T23:07:06Z",
+    "date": "2026-09-29T00:06:33Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "38",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -748,7 +748,7 @@
    "fields": {
     "date": "2026-02-16T17:47:11Z",
     "description": "AsyncAPI-first Reticulum/LXMF framework in Rust",
-    "stars": "1",
+    "stars": "2",
     "text": "FreeTAKTeam/Reticulum_AsyncAPI_rs",
     "title": "FreeTAKTeam/Reticulum_AsyncAPI_rs",
     "url": "https://github.com/FreeTAKTeam/Reticulum_AsyncAPI_rs"
