@@ -9191,3 +9191,40 @@
 {"ts":"2026-09-30T12:40:45Z","source":"model-ops-llamacpp","type":"removed","key":"b11261","summary":"b11261","prev":"cd3fa27bf8510060102f439ced3d6084fa72c9b6114083b7e8dc630e07303b66"}
 {"ts":"2026-09-30T12:40:45Z","source":"model-ops-llamacpp","type":"removed","key":"b11262","summary":"b11262","prev":"eb6358a4951d4e96de38d0ac829eeac422c1de95be64f4569d0e9baf5a36bf94"}
 {"ts":"2026-09-30T12:40:45Z","source":"model-ops-llamacpp","type":"removed","key":"b11263","summary":"b11263","prev":"92e6fd9401aee1b0945707671f730eca3084a8099966e9a7e1791cfed2594565"}
+{"ts":"2026-09-30T22:37:41Z","source":"model-ops-gov","type":"added","key":"Gemma (open weights)","summary":"Gemma (open weights)","prev":"43ef1e2362aa8078ac80cc69f13d90c92bd5f47991e763e4c7e2fa1aa14ec0ce"}
+{"ts":"2026-09-30T22:37:41Z","source":"model-ops-gov","type":"added","key":"Mistral (open-weight releases)","summary":"Mistral (open-weight releases)","prev":"c90ee842d0f6d4a294dd7286055e6d3080accdcfce32bc40e11be199a4064d24"}
+{"ts":"2026-09-30T22:37:41Z","source":"model-ops-gov","type":"added","key":"Nomic Embed","summary":"Nomic Embed","prev":"9622995319fc9676b65945a4b00125f2c64d872c07c3c2731865c1a6f7dcf42c"}
+{"ts":"2026-09-30T22:37:42Z","source":"model-ops-hf","type":"changed","key":"openai-community/gpt2","summary":"openai-community/gpt2","prev":"119b7f3547a7c8ffe3bd99bd4c26c5859eb467b25e991b174432839ae702fae8"}
+{"ts":"2026-09-30T22:37:42Z","source":"model-ops-hf","type":"changed","key":"openai/gpt-oss-20b","summary":"openai/gpt-oss-20b","prev":"93e760d322b850f807df4797b660bcbe7c03749a4ac170b15457ce0d90993187"}
+{"ts":"2026-09-30T22:37:42Z","source":"model-ops-hf","type":"changed","key":"meta-llama/Llama-3.1-8B-Instruct","summary":"meta-llama/Llama-3.1-8B-Instruct","prev":"f7571969824f32588f7e66c1d4b41d5a3766b83d6f91bf9984f690f02bca4b42"}
+{"ts":"2026-09-30T22:37:42Z","source":"model-ops-hf","type":"changed","key":"ornith-ai/Ornith-1.5-9B-GGUF","summary":"ornith-ai/Ornith-1.5-9B-GGUF","prev":"2ea50d3c85687976eb8a263a9014253aa573ced3b8f53c004c1fcb2a61e95ead"}
+{"ts":"2026-09-30T22:37:42Z","source":"model-ops-hf","type":"changed","key":"openai/gpt-oss-120b","summary":"openai/gpt-oss-120b","prev":"9fe1e23576b8314ad7cf22b7df9e885f8ffb179c0791a6c45487fa0470d7a9c3"}
+{"ts":"2026-09-30T22:37:42Z","source":"model-ops-hf","type":"changed","key":"HuggingFaceTB/SmolLM2-135M-Instruct","summary":"HuggingFaceTB/SmolLM2-135M-Instruct","prev":"fcd4021b6a6db78819b43ae1b5540273ec4d34cfd93f9d04c15bc9804fc7f40a"}
+{"ts":"2026-09-30T22:37:42Z","source":"model-ops-hf","type":"changed","key":"HuggingFaceTB/SmolLM2-135M","summary":"HuggingFaceTB/SmolLM2-135M","prev":"95bbbdc85578f87842d720e96d913368e9898076ce9b3a8a3e22a48c8859cd3c"}
+{"ts":"2026-09-30T22:37:42Z","source":"model-ops-hf","type":"changed","key":"mistralai/Mistral-7B-Instruct-v0.2","summary":"mistralai/Mistral-7B-Instruct-v0.2","prev":"bcad1daa063da0e9bba70765382a80955df199617b89e1a48543103a61e3b584"}
+{"ts":"2026-09-30T22:37:42Z","source":"model-ops-hf","type":"changed","key":"nvidia/Gemma-4-31B-IT-NVFP4","summary":"nvidia/Gemma-4-31B-IT-NVFP4","prev":"360e5bc49968c510b7cee0a7c3c80479fd2cecb01969a7e4bf6762b0af4ee914"}
+{"ts":"2026-09-30T22:37:42Z","source":"model-ops-hf","type":"changed","key":"meta-llama/Llama-3.2-3B-Instruct","summary":"meta-llama/Llama-3.2-3B-Instruct","prev":"52750fa704f152d4374e6388ea109226762d60c4cf1171f04d6ca9cfe7e2546e"}
+{"ts":"2026-09-30T22:37:42Z","source":"model-ops-hf","type":"changed","key":"TinyLlama/TinyLlama-1.1B-Chat-v1.0","summary":"TinyLlama/TinyLlama-1.1B-Chat-v1.0","prev":"3344fce29d8fe32df69bb617c2ea8ebe96816ed18c02fcf6e8d7ed3266164e3b"}
+{"ts":"2026-09-30T22:37:42Z","source":"model-ops-hf","type":"changed","key":"zai-org/GLM-5.3","summary":"zai-org/GLM-5.3","prev":"37c619d40d8840bb227d2800874f5543c3e08a6d4c74f105c89fb7ea2329e2d9"}
+{"ts":"2026-09-30T22:37:42Z","source":"model-ops-hf","type":"changed","key":"MiniMaxAI/MiniMax-M2.7","summary":"MiniMaxAI/MiniMax-M2.7","prev":"050a1f9fabff6fae249fac8f5f2a52a31636a9994cfdd1a6482c5e178ee9f642"}
+{"ts":"2026-09-30T22:37:42Z","source":"model-ops-hf","type":"changed","key":"google/gemma-2-9b-it","summary":"google/gemma-2-9b-it","prev":"6add3054a70e19dd39707982de896f4f241a3aa253e5e46b1dcdb3cd07b97a1b"}
+{"ts":"2026-09-30T22:37:42Z","source":"model-ops-hf","type":"changed","key":"LiquidAI/LFM2.5-2.6B-GGUF","summary":"LiquidAI/LFM2.5-2.6B-GGUF","prev":"b8d9ffa52ed7cd55738680d96453fd4b6164942ba683e106c762c85450307d6c"}
+{"ts":"2026-09-30T22:37:42Z","source":"model-ops-hf","type":"changed","key":"meta-llama/Meta-Llama-3-8B-Instruct","summary":"meta-llama/Meta-Llama-3-8B-Instruct","prev":"3ed1dfe0b4743fa76abf9b6cdbdb1365c362f68c0ecea3cf1a8572162d33c38f"}
+{"ts":"2026-09-30T22:37:42Z","source":"model-ops-hf","type":"changed","key":"dots-studio/dots.ocr","summary":"dots-studio/dots.ocr","prev":"f4a0524cbfecbc490f180a11ca6d3aac3f7215debcb98161952ceb7ab21399fa"}
+{"ts":"2026-09-30T22:37:42Z","source":"model-ops-hf","type":"changed","key":"unsloth/GLM-5.3-Flash-GGUF","summary":"unsloth/GLM-5.3-Flash-GGUF","prev":"3f0942d01cfb6f26725e4cbf7d82df2d675d180304a786a963de9e594fadd90e"}
+{"ts":"2026-09-30T22:37:45Z","source":"model-ops-llamacpp","type":"added","key":"b11303","summary":"b11303","prev":"e5224ecd606e280ab8aebee2b0083f81c40e65f19faa6590fe9d78ebeddda9a0"}
+{"ts":"2026-09-30T22:37:45Z","source":"model-ops-llamacpp","type":"added","key":"b11302","summary":"b11302","prev":"8240ca9b8f874a7c14ad7a62bb6e77e7ab1b84c7c19b7a9ccfd1125ad63e8789"}
+{"ts":"2026-09-30T22:37:45Z","source":"model-ops-llamacpp","type":"added","key":"b11301","summary":"b11301","prev":"b6923ba7a48f8f155597e7b43d0a5b1da4118b29ad37faa9b77595a7bc4af2f8"}
+{"ts":"2026-09-30T22:37:45Z","source":"model-ops-llamacpp","type":"added","key":"b11299","summary":"b11299","prev":"b0f5de523b21343f10f91295a1fe663b89da410fc5d79333969f0fdf6dfade5f"}
+{"ts":"2026-09-30T22:37:45Z","source":"model-ops-llamacpp","type":"added","key":"b11298","summary":"b11298","prev":"336f5e2887b86c04ef56197dbd2ea3ba601a3e30bbe4e8c7578335505ac5c933"}
+{"ts":"2026-09-30T22:37:45Z","source":"model-ops-llamacpp","type":"added","key":"b11297","summary":"b11297","prev":"af240e186df0e759c3a19d5e855d8bad71f4e51e3f6fc2a344578d4cb7da0452"}
+{"ts":"2026-09-30T22:37:45Z","source":"model-ops-llamacpp","type":"added","key":"b11295","summary":"b11295","prev":"8232b95217fb97566eeea4ff815d3ba485e78735554857c6e178da11c0c4c70a"}
+{"ts":"2026-09-30T22:37:45Z","source":"model-ops-llamacpp","type":"added","key":"b11294","summary":"b11294","prev":"b7e21a553cd0e745c1343bc7cd60cec29125740296bcd9a4e6a9c07b8cbfb136"}
+{"ts":"2026-09-30T22:37:45Z","source":"model-ops-llamacpp","type":"removed","key":"b11275","summary":"b11275","prev":"6b377fd2354a505ac58aa87d25ae33d954d1f41ea4f2143b659d10a186c73a8a"}
+{"ts":"2026-09-30T22:37:45Z","source":"model-ops-llamacpp","type":"removed","key":"b11276","summary":"b11276","prev":"72860396863b7d3c13a7f04a73ed1ce555f0cb50286efae8399493eda0c2fd24"}
+{"ts":"2026-09-30T22:37:45Z","source":"model-ops-llamacpp","type":"removed","key":"b11277","summary":"b11277","prev":"f1a0a20b11ca9f85872ec9178b9c5cf2706c3d8e6f517aea7fcc52ab7d589bd2"}
+{"ts":"2026-09-30T22:37:45Z","source":"model-ops-llamacpp","type":"removed","key":"b11278","summary":"b11278","prev":"838023abac311d4e7c3b794aeb0aac660acb4eb17b335718069aa74a9cd04e0a"}
+{"ts":"2026-09-30T22:37:45Z","source":"model-ops-llamacpp","type":"removed","key":"b11279","summary":"b11279","prev":"609ca05e032e5bf7209f3c85df310d3c802279dda0f2267910ef0b8e1b2ba375"}
+{"ts":"2026-09-30T22:37:45Z","source":"model-ops-llamacpp","type":"removed","key":"b11280","summary":"b11280","prev":"4110079bedaae1c1280a345aedee821487a2ade7a62d34dbf3960cbfaa80cf69"}
+{"ts":"2026-09-30T22:37:45Z","source":"model-ops-llamacpp","type":"removed","key":"b11282","summary":"b11282","prev":"6d36e1c32c1851aee4ec27ccf0d3ce3d64e089cf726c6f9b9a794fd12fd4515c"}
+{"ts":"2026-09-30T22:37:45Z","source":"model-ops-llamacpp","type":"removed","key":"b11284","summary":"b11284","prev":"b48770062a028c3fee53e54fd95f6c9093f439854982eadef717839b4d71a254"}

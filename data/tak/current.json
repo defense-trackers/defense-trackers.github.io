@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-09-30T12:42:17Z",
+ "fetched_at": "2026-09-30T22:39:08Z",
  "schema_version": 1,
  "records": [
   {
    "key": "hkaanturgut/spec-kit-fleetwise",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-09-30T03:01:54Z",
+    "date": "2026-09-30T20:59:01Z",
     "description": "Spec-driven development with GitHub Spec Kit on a brownfield .NET app: live demo, team playbook, and a state-aware Spec Kit workflow.",
     "stars": "0",
     "text": "hkaanturgut/spec-kit-fleetwise",
@@ -44,7 +44,7 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-09-27T20:19:14Z",
+    "date": "2026-09-30T20:39:16Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "81",
     "text": "takwerx/infra-TAK",
@@ -640,9 +640,9 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-08-13T17:54:34Z",
+    "date": "2026-09-30T20:24:11Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
-    "stars": "109",
+    "stars": "110",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
     "title": "FreeTAKTeam/Reticulum-Community-Hub",
     "url": "https://github.com/FreeTAKTeam/Reticulum-Community-Hub"
@@ -758,7 +758,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-09-02T15:30:18Z",
+    "date": "2026-09-30T14:09:20Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "31",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -804,12 +804,48 @@
    "key": "FreeTAKTeam/YARA",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-09-27T21:48:55Z",
+    "date": "2026-09-30T14:09:25Z",
     "description": "Yet Another Reticulum Application (aka MeschChat-RS)",
     "stars": "0",
     "text": "FreeTAKTeam/YARA",
     "title": "FreeTAKTeam/YARA",
     "url": "https://github.com/FreeTAKTeam/YARA"
+   }
+  },
+  {
+   "key": "clptak/cloudtak-plugin-search-containment",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-30T20:26:18Z",
+    "description": "Plugin to behave similar to ATAK's Chokepoint.  Leverages OSM  layer in CloudTAK to identify containment points at travel corridors to contain a search area.",
+    "stars": "1",
+    "text": "clptak/cloudtak-plugin-search-containment",
+    "title": "clptak/cloudtak-plugin-search-containment",
+    "url": "https://github.com/clptak/cloudtak-plugin-search-containment"
+   }
+  },
+  {
+   "key": "aegorsuch/atak-plugin-firecone",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-30T19:57:45Z",
+    "description": "Firecone ATAK plugin (secondary GitHub repository; TAK Forge is canonical)",
+    "stars": "1",
+    "text": "aegorsuch/atak-plugin-firecone",
+    "title": "aegorsuch/atak-plugin-firecone",
+    "url": "https://github.com/aegorsuch/atak-plugin-firecone"
+   }
+  },
+  {
+   "key": "aegorsuch/atak-plugin-houndmaster",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-30T18:44:56Z",
+    "description": "Bloodhound order management",
+    "stars": "3",
+    "text": "aegorsuch/atak-plugin-houndmaster",
+    "title": "aegorsuch/atak-plugin-houndmaster",
+    "url": "https://github.com/aegorsuch/atak-plugin-houndmaster"
    }
   },
   {
@@ -857,18 +893,6 @@
     "text": "shigeki7299/ATAK_Plugin",
     "title": "shigeki7299/ATAK_Plugin",
     "url": "https://github.com/shigeki7299/ATAK_Plugin"
-   }
-  },
-  {
-   "key": "aegorsuch/atak-plugin-houndmaster",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-30T03:27:30Z",
-    "description": "Bloodhound order management",
-    "stars": "3",
-    "text": "aegorsuch/atak-plugin-houndmaster",
-    "title": "aegorsuch/atak-plugin-houndmaster",
-    "url": "https://github.com/aegorsuch/atak-plugin-houndmaster"
    }
   },
   {
@@ -973,7 +997,7 @@
    "fields": {
     "date": "2026-09-25T13:31:03Z",
     "description": "How takwerx builds ATAK plugins and gets them through TAK's third-party signing pipeline, as a Claude Code skill. No SDK included.",
-    "stars": "5",
+    "stars": "6",
     "text": "takwerx/atak-plugin-pipeline",
     "title": "takwerx/atak-plugin-pipeline",
     "url": "https://github.com/takwerx/atak-plugin-pipeline"
@@ -1012,18 +1036,6 @@
     "text": "Hellikandra/ATAK-Weather-Plugin",
     "title": "Hellikandra/ATAK-Weather-Plugin",
     "url": "https://github.com/Hellikandra/ATAK-Weather-Plugin"
-   }
-  },
-  {
-   "key": "clptak/cloudtak-plugin-search-containment",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-21T14:14:45Z",
-    "description": "Plugin to behave similar to ATAK's Chokepoint.  Leverages OSM  layer in CloudTAK to identify containment points at travel corridors to contain a search area.",
-    "stars": "1",
-    "text": "clptak/cloudtak-plugin-search-containment",
-    "title": "clptak/cloudtak-plugin-search-containment",
-    "url": "https://github.com/clptak/cloudtak-plugin-search-containment"
    }
   },
   {
@@ -1144,18 +1156,6 @@
     "text": "joshuafuller/atak-plugin-preflight",
     "title": "joshuafuller/atak-plugin-preflight",
     "url": "https://github.com/joshuafuller/atak-plugin-preflight"
-   }
-  },
-  {
-   "key": "timretout/atak-zenoh-plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-18T15:12:34Z",
-    "description": "Zenoh plugin for ATAK",
-    "stars": "0",
-    "text": "timretout/atak-zenoh-plugin",
-    "title": "timretout/atak-zenoh-plugin",
-    "url": "https://github.com/timretout/atak-zenoh-plugin"
    }
   },
   {
