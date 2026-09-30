@@ -1,7 +1,7 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-09-29T22:37:13Z",
+ "fetched_at": "2026-09-30T12:41:47Z",
  "schema_version": 1,
  "records": [
   {
@@ -130,7 +130,7 @@
    "fields": {
     "date": "2026-09-23T14:47:21Z",
     "description": "Code to generate Cyber Hygiene (CyHy) reports",
-    "stars": "13",
+    "stars": "14",
     "text": "cisagov/cyhy-reports",
     "title": "cisagov/cyhy-reports",
     "url": "https://github.com/cisagov/cyhy-reports"
@@ -250,7 +250,7 @@
    "fields": {
     "date": "2026-09-29T20:48:28Z",
     "description": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.",
-    "stars": "2534",
+    "stars": "2535",
     "text": "cisagov/Malcolm",
     "title": "cisagov/Malcolm",
     "url": "https://github.com/cisagov/Malcolm"
@@ -286,7 +286,7 @@
    "fields": {
     "date": "2026-09-28T21:04:43Z",
     "description": "Cybersecurity Evaluation Tool",
-    "stars": "1901",
+    "stars": "1902",
     "text": "cisagov/cset",
     "title": "cisagov/cset",
     "url": "https://github.com/cisagov/cset"
@@ -310,7 +310,7 @@
    "fields": {
     "date": "2026-09-16T18:12:41Z",
     "description": "Search a filesystem for indicators of compromise (IoC).",
-    "stars": "87",
+    "stars": "88",
     "text": "cisagov/ioc-scanner",
     "title": "cisagov/ioc-scanner",
     "url": "https://github.com/cisagov/ioc-scanner"
@@ -430,7 +430,7 @@
    "fields": {
     "date": "2026-08-26T18:54:00Z",
     "description": "This project can be used to create AMIs based on Kali Linux, a penetration testing distribution.",
-    "stars": "23",
+    "stars": "24",
     "text": "cisagov/kali-packer",
     "title": "cisagov/kali-packer",
     "url": "https://github.com/cisagov/kali-packer"
@@ -574,7 +574,7 @@
    "fields": {
     "date": "2026-09-29T02:26:20Z",
     "description": "Multiphysics Object Oriented Simulation Environment",
-    "stars": "2363",
+    "stars": "2364",
     "text": "idaholab/moose",
     "title": "idaholab/moose",
     "url": "https://github.com/idaholab/moose"
@@ -787,7 +787,7 @@
    "key": "llnl/conduit",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-09-29T20:13:51Z",
+    "date": "2026-09-30T02:48:19Z",
     "description": "Simplified Data Exchange for HPC Simulations",
     "stars": "247",
     "text": "llnl/conduit",
@@ -858,7 +858,7 @@
    "key": "llnl/GridDyn",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-09-29T22:35:08Z",
+    "date": "2026-09-30T02:44:48Z",
     "description": "GridDyn is an open-source power transmission simulation software package",
     "stars": "63",
     "text": "llnl/GridDyn",
@@ -1026,9 +1026,9 @@
    "key": "nasa/openmct",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-09-26T00:14:11Z",
+    "date": "2026-09-29T23:45:28Z",
     "description": "A web based mission control framework. ",
-    "stars": "13140",
+    "stars": "13142",
     "text": "nasa/openmct",
     "title": "nasa/openmct",
     "url": "https://github.com/nasa/openmct"
@@ -1076,7 +1076,7 @@
    "fields": {
     "date": "2026-03-31T21:15:45Z",
     "description": "An easy and convenient package to create technical LaTeX documents.",
-    "stars": "274",
+    "stars": "275",
     "text": "nasa/nasa-latex-docs",
     "title": "nasa/nasa-latex-docs",
     "url": "https://github.com/nasa/nasa-latex-docs"
@@ -1098,7 +1098,7 @@
    "key": "nasa/Common-Metadata-Repository",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-09-29T19:23:48Z",
+    "date": "2026-09-30T12:06:52Z",
     "description": "The Common Metadata Repository (CMR) is a high-performance, high-quality, continuously evolving metadata system that catalogs Earth Science data and associated service metadata records. These metadata records are registered, modified, discovered, and accessed through programmatic interfaces leveraging standard protocols and APIs.",
     "stars": "397",
     "text": "nasa/Common-Metadata-Repository",
@@ -1218,7 +1218,7 @@
    "key": "nsacyber/HIRS",
    "source": "oss-nsacyber",
    "fields": {
-    "date": "2026-09-29T18:30:14Z",
+    "date": "2026-09-29T22:58:54Z",
     "description": "Trusted Computing based services supporting TPM provisioning and supply chain validation concepts. #nsacyber",
     "stars": "212",
     "text": "nsacyber/HIRS",
@@ -1230,7 +1230,7 @@
    "key": "nsacyber/paccor",
    "source": "oss-nsacyber",
    "fields": {
-    "date": "2026-09-24T18:37:30Z",
+    "date": "2026-09-30T09:39:33Z",
     "description": "The Platform Attribute Certificate Creator can gather component details, create, sign, and validate the TCG-defined Platform Certificate. #nsacyber",
     "stars": "77",
     "text": "nsacyber/paccor",
@@ -1339,7 +1339,7 @@
    "fields": {
     "date": "2026-08-12T19:18:36Z",
     "description": "Runtime provenance for AI and scientific workflows—capture, enrich, and query workflow data via observability adapters and code annotation across edge, cloud, and HPC.",
-    "stars": "37",
+    "stars": "38",
     "text": "ORNL/flowcept",
     "title": "ORNL/flowcept",
     "url": "https://github.com/ORNL/flowcept"
@@ -1373,7 +1373,7 @@
    "key": "ORNL/GridKit",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-09-29T22:32:17Z",
+    "date": "2026-09-30T00:43:10Z",
     "description": "Modeling framework for power systems simulations and analysis.",
     "stars": "27",
     "text": "ORNL/GridKit",

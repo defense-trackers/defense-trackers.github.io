@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-09-29T22:36:12Z",
+ "fetched_at": "2026-09-30T12:40:38Z",
  "schema_version": 1,
  "records": [
   {
@@ -29,6 +29,18 @@
    }
   },
   {
+   "key": "CONT_AWD_W909MY26F0009_9700_W909MY26D0002_9700",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "4.186817115e+07",
+    "description": "CYBER ANALYTICS AND DETECTION (CAD) OMNIBUS PROCUREMENT FOR MAINTENANCE, DEVELOPMENT, AND ARTIFICIAL INTELLIGENCE/MACHINE LEARNING (AI/ML) INTEGRATION.",
+    "text": "ENLIGHTEN IT CONSULTING LLC",
+    "title": "ENLIGHTEN IT CONSULTING LLC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W909MY26F0009_9700_W909MY26D0002_9700/"
+   }
+  },
+  {
    "key": "CONT_AWD_W911QX22C0029_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
@@ -50,18 +62,6 @@
     "text": "BYTECUBED, LLC",
     "title": "BYTECUBED, LLC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W519TC25F0241_9700_W52P1J22G0174_9700/"
-   }
-  },
-  {
-   "key": "CONT_AWD_W909MY26F0009_9700_W909MY26D0002_9700",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "3.417983595e+07",
-    "description": "CYBER ANALYTICS AND DETECTION (CAD) OMNIBUS PROCUREMENT FOR MAINTENANCE, DEVELOPMENT, AND ARTIFICIAL INTELLIGENCE/MACHINE LEARNING (AI/ML) INTEGRATION.",
-    "text": "ENLIGHTEN IT CONSULTING LLC",
-    "title": "ENLIGHTEN IT CONSULTING LLC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W909MY26F0009_9700_W909MY26D0002_9700/"
    }
   },
   {
@@ -309,7 +309,7 @@
    "source": "ai-spending-contracts",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "6.72864452e+06",
+    "amount": "6.89764452e+06",
     "description": "DEVELOPMENT, MATURATION, AND INTEGRATION OF TECHNOLOGY FOR ARTIFICIAL INTELLIGENCE (AI)-ASSISTED TARGETING, RAPID FIRES DECONFLICTION, AND DYNAMIC AIRSPACE MANAGEMENT",
     "text": "RAYTHEON COMPANY",
     "title": "RAYTHEON COMPANY",

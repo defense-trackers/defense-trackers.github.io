@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-09-29T22:37:45Z",
+ "fetched_at": "2026-09-30T12:42:20Z",
  "schema_version": 1,
  "records": [
   {
@@ -533,6 +533,18 @@
    }
   },
   {
+   "key": "CONT_AWD_FA807520F0084_9700_FA807518D0014_9700",
+   "source": "transition-prototype",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1.871136541e+07",
+    "description": "OPERATIONAL, TECHNICAL, ENGINEERING, AND TRANSITION ANALYSIS FOR DEVELOPMENT AND DEPLOYMENT OF EMERGING CAPABILITIES AND PROTOTYPES FOR LAND, AIR, SPACE, AND PORT\u0026COASTAL SURVEILLANCE PROGRAMS",
+    "text": "AMENTUM SERVICES, INC.",
+    "title": "AMENTUM SERVICES, INC.",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA807520F0084_9700_FA807518D0014_9700/"
+   }
+  },
+  {
    "key": "CONT_AWD_FA875026FB005_9700_FA875021D1100_9700",
    "source": "transition-prototype",
    "fields": {
@@ -581,23 +593,11 @@
    }
   },
   {
-   "key": "CONT_AWD_W900KK26FA024_9700_W900KK20D0005_9700",
-   "source": "transition-prototype",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "1.518583646e+07",
-    "description": "SOF RAPTOR IV - BWI -NON-PERSONAL RESEARCH AND DEVELOPMENT (R AND D) SERVICES TO DESIGN, DEVELOP, PROTOTYPE, INTEGRATE, EXPERIMENT WITH, DEMONSTRATE, AND TRANSITION BLUE WATER INSTRUMENTATION (BWI) CAPABILITIES",
-    "text": "F3EA INC",
-    "title": "F3EA INC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W900KK26FA024_9700_W900KK20D0005_9700/"
-   }
-  },
-  {
    "key": "CONT_AWD_N6660424FC426_9700_N6660424DC419_9700",
    "source": "transition-prototype",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "1.509053522e+07",
+    "amount": "1.524053522e+07",
     "description": "ENGINEERING SERVICES FOR THE NEXT GENERATION ATTACK SUBMARINE, THE FULL SPECTRUM UNDERSEA WARFARE INNOVATIVE NAVAL PROTOTYPE, AND THE COMPACT RAPID ATTACK WEAPON.",
     "text": "SONALYSTS INC",
     "title": "SONALYSTS INC",
@@ -797,19 +797,6 @@
     "text": "UNITEDHEALTH MILITARY \u0026 VETERANS SERVICES, LLC",
     "title": "UNITEDHEALTH MILITARY \u0026 VETERANS SERVICES, LLC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_HT940212C0001_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_0005_9700_W52P1J07D0008_9700",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "1.256863613095e+10",
-    "award_id": "0005",
-    "description": "LOGCAP IV SERVICES AFGHANISTAN",
-    "text": "FLUOR INTERCONTINENTAL, INC",
-    "title": "FLUOR INTERCONTINENTAL, INC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_0005_9700_W52P1J07D0008_9700/"
    }
   },
   {
@@ -1150,6 +1137,19 @@
    }
   },
   {
+   "key": "CONT_AWD_FA863418C2701_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "7.04131097026e+09",
+    "award_id": "FA863418C2701",
+    "description": "F-15, FMS, F-15QA AIR VEHICLE DEVELOPMENT",
+    "text": "THE BOEING COMPANY",
+    "title": "THE BOEING COMPANY",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA863418C2701_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_N0001917C0015_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -1160,19 +1160,6 @@
     "text": "BELL BOEING JOINT PROJECT OFFICE",
     "title": "BELL BOEING JOINT PROJECT OFFICE",
     "url": "https://www.usaspending.gov/award/CONT_AWD_N0001917C0015_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_FA863418C2701_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "7.01465958176e+09",
-    "award_id": "FA863418C2701",
-    "description": "F-15, FMS, F-15QA AIR VEHICLE DEVELOPMENT",
-    "text": "THE BOEING COMPANY",
-    "title": "THE BOEING COMPANY",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_FA863418C2701_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -1251,6 +1238,18 @@
     "text": "OSHKOSH DEFENSE LLC",
     "title": "OSHKOSH DEFENSE LLC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W56HZV15C0095_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_N0001906C0081_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "6.10328553196e+09",
+    "award_id": "N0001906C0081",
+    "text": "SIKORSKY AIRCRAFT CORPORATION",
+    "title": "SIKORSKY AIRCRAFT CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_N0001906C0081_9700_-NONE-_-NONE-/"
    }
   }
  ]

@@ -1,9 +1,21 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-09-29T22:37:42Z",
+ "fetched_at": "2026-09-30T12:42:17Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "hkaanturgut/spec-kit-fleetwise",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-09-30T03:01:54Z",
+    "description": "Spec-driven development with GitHub Spec Kit on a brownfield .NET app: live demo, team playbook, and a state-aware Spec Kit workflow.",
+    "stars": "0",
+    "text": "hkaanturgut/spec-kit-fleetwise",
+    "title": "hkaanturgut/spec-kit-fleetwise",
+    "url": "https://github.com/hkaanturgut/spec-kit-fleetwise"
+   }
+  },
   {
    "key": "microtak/microtak-server",
    "source": "tak-cot",
@@ -350,18 +362,6 @@
     "text": "clptak/node-red-contrib-tfr2cot",
     "title": "clptak/node-red-contrib-tfr2cot",
     "url": "https://github.com/clptak/node-red-contrib-tfr2cot"
-   }
-  },
-  {
-   "key": "v-fol/atak-signal-bot",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2024-12-15T20:17:51Z",
-    "description": "A Signal bot that sends geolocation and target information (CoT) to an ATAK (Android Team Awareness Kit) client",
-    "stars": "8",
-    "text": "v-fol/atak-signal-bot",
-    "title": "v-fol/atak-signal-bot",
-    "url": "https://github.com/v-fol/atak-signal-bot"
    }
   },
   {
@@ -813,6 +813,77 @@
    }
   },
   {
+   "key": "takwerx/signal-df",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-30T11:59:52Z",
+    "description": "ATAK Plugin: Signal DF — RF direction-finding bearings from a KrakenSDR on the ATAK map. Downloads, guide and issues here.",
+    "stars": "0",
+    "text": "takwerx/signal-df",
+    "title": "takwerx/signal-df",
+    "url": "https://github.com/takwerx/signal-df"
+   }
+  },
+  {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-30T12:03:30Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "1",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
+   "key": "toygar/MeshGrid-ATAK-Distribution",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-30T08:20:28Z",
+    "description": "Deployment scripts, configurations, and tools for running ATAK over MeshGrid communication protocols.",
+    "stars": "1",
+    "text": "toygar/MeshGrid-ATAK-Distribution",
+    "title": "toygar/MeshGrid-ATAK-Distribution",
+    "url": "https://github.com/toygar/MeshGrid-ATAK-Distribution"
+   }
+  },
+  {
+   "key": "shigeki7299/ATAK_Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-30T05:52:53Z",
+    "stars": "0",
+    "text": "shigeki7299/ATAK_Plugin",
+    "title": "shigeki7299/ATAK_Plugin",
+    "url": "https://github.com/shigeki7299/ATAK_Plugin"
+   }
+  },
+  {
+   "key": "aegorsuch/atak-plugin-houndmaster",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-30T03:27:30Z",
+    "description": "Bloodhound order management",
+    "stars": "3",
+    "text": "aegorsuch/atak-plugin-houndmaster",
+    "title": "aegorsuch/atak-plugin-houndmaster",
+    "url": "https://github.com/aegorsuch/atak-plugin-houndmaster"
+   }
+  },
+  {
+   "key": "AkitaEngineering/Akita-MeshTAK",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-30T00:47:30Z",
+    "description": "The Akita MeshTAK Plugin is a game-changing Android Tactical Assault Kit (ATAK) plugin meticulously crafted to bridge the gap between ATAK and Meshtastic, providing unparalleled communication capabilities in the most challenging and disconnected environments.",
+    "stars": "16",
+    "text": "AkitaEngineering/Akita-MeshTAK",
+    "title": "AkitaEngineering/Akita-MeshTAK",
+    "url": "https://github.com/AkitaEngineering/Akita-MeshTAK"
+   }
+  },
+  {
    "key": "SyracuseUniversity/PET",
    "source": "tak-github",
    "fields": {
@@ -828,7 +899,7 @@
    "key": "mighkel/ATAK-Plugin-KestrelWx",
    "source": "tak-github",
    "fields": {
-    "date": "2026-09-29T20:26:45Z",
+    "date": "2026-09-30T02:40:19Z",
     "description": "ATAK Plugin: Kestrel Wx — live Kestrel 5500FWL fire weather readings on the ATAK map, shared with your team. Downloads, guide and issues here.",
     "stars": "3",
     "text": "mighkel/ATAK-Plugin-KestrelWx",
@@ -846,42 +917,6 @@
     "text": "takwerx/atmosphere",
     "title": "takwerx/atmosphere",
     "url": "https://github.com/takwerx/atmosphere"
-   }
-  },
-  {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-28T18:06:37Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "1",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
-   }
-  },
-  {
-   "key": "takwerx/signal-df",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-28T16:52:07Z",
-    "description": "ATAK Plugin: Signal DF — RF direction-finding bearings from a KrakenSDR on the ATAK map. Downloads, guide and issues here.",
-    "stars": "0",
-    "text": "takwerx/signal-df",
-    "title": "takwerx/signal-df",
-    "url": "https://github.com/takwerx/signal-df"
-   }
-  },
-  {
-   "key": "aegorsuch/atak-plugin-houndmaster",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-28T10:34:40Z",
-    "description": "Bloodhound order management",
-    "stars": "3",
-    "text": "aegorsuch/atak-plugin-houndmaster",
-    "title": "aegorsuch/atak-plugin-houndmaster",
-    "url": "https://github.com/aegorsuch/atak-plugin-houndmaster"
    }
   },
   {
@@ -930,17 +965,6 @@
     "text": "takwerx/traffic",
     "title": "takwerx/traffic",
     "url": "https://github.com/takwerx/traffic"
-   }
-  },
-  {
-   "key": "shigeki7299/ATAK_Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-26T16:16:59Z",
-    "stars": "0",
-    "text": "shigeki7299/ATAK_Plugin",
-    "title": "shigeki7299/ATAK_Plugin",
-    "url": "https://github.com/shigeki7299/ATAK_Plugin"
    }
   },
   {
@@ -1132,30 +1156,6 @@
     "text": "timretout/atak-zenoh-plugin",
     "title": "timretout/atak-zenoh-plugin",
     "url": "https://github.com/timretout/atak-zenoh-plugin"
-   }
-  },
-  {
-   "key": "Hellikandra/ATAK-Plugin-ERT",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-16T20:34:14Z",
-    "description": "ATAK Plugin Emergency Time Response provide the capability to coordinate units and get ETA to an emergency.",
-    "stars": "1",
-    "text": "Hellikandra/ATAK-Plugin-ERT",
-    "title": "Hellikandra/ATAK-Plugin-ERT",
-    "url": "https://github.com/Hellikandra/ATAK-Plugin-ERT"
-   }
-  },
-  {
-   "key": "Hellikandra/ATAK-Plugin-KMLReplay",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-14T09:53:57Z",
-    "description": "ATAK Plugin which provide the possibility to replay time stamped KML file",
-    "stars": "0",
-    "text": "Hellikandra/ATAK-Plugin-KMLReplay",
-    "title": "Hellikandra/ATAK-Plugin-KMLReplay",
-    "url": "https://github.com/Hellikandra/ATAK-Plugin-KMLReplay"
    }
   },
   {
