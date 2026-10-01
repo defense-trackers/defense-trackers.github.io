@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-09-30T22:39:14Z",
+ "fetched_at": "2026-10-01T13:25:41Z",
  "schema_version": 1,
  "records": [
   {
@@ -81,7 +81,7 @@
    "source": "transition-prototype",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "188309476",
+    "amount": "188417815",
     "description": "OPERATIONAL, TECHNICAL, ENGINEERING, AND TRANSITION ANALYSIS FOR DEVELOPMENT AND DEPLOYMENT OF EMERGING CAPABILITIES AND PROTOTYPES FOR COUNTERING - UNMANNED SYSTEMS THREATS",
     "text": "AMENTUM SERVICES, INC.",
     "title": "AMENTUM SERVICES, INC.",
@@ -713,7 +713,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "20392422353",
+    "amount": "20393414585",
     "award_id": "N0002412C2115",
     "description": "SSN 792 LONG LEAD TIME MATERIAL",
     "text": "ELECTRIC BOAT CORPORATION",
@@ -752,7 +752,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "1.496108993248e+10",
+    "amount": "1.497775306248e+10",
     "award_id": "N0002418C2130",
     "description": "NAVAL NUCLEAR LABORATORY",
     "text": "FLUOR MARINE PROPULSION, LLC",
@@ -778,7 +778,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "1.342355168985e+10",
+    "amount": "1.342433668985e+10",
     "award_id": "N0002416C2116",
     "description": "CVN 80 ENGINEERING EFFORTS AND STEEL",
     "text": "HUNTINGTON INGALLS INC",
@@ -895,7 +895,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "9.37153386169e+09",
+    "amount": "9.37215129116e+09",
     "award_id": "HT940223C0001",
     "description": "TRICARE MANAGED CARE SUPPORT SERVICES CONTRACT, 5TH GENERATION EAST REGION",
     "text": "HUMANA GOVERNMENT BUSINESS INC",
@@ -953,19 +953,6 @@
     "text": "LOCKHEED MARTIN CORPORATION",
     "title": "LOCKHEED MARTIN CORPORATION",
     "url": "https://www.usaspending.gov/award/CONT_AWD_FA861108C2897_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_N0001918C1021_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "8.68865490689e+09",
-    "award_id": "N0001918C1021",
-    "description": "LOT 12 AAC LONG LEAD FOR PROPULSION SYSTEMS",
-    "text": "RTX CORPORATION",
-    "title": "RTX CORPORATION",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_N0001918C1021_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -1124,19 +1111,6 @@
    }
   },
   {
-   "key": "CONT_AWD_N0002424C2110_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "7099818031",
-    "award_id": "N0002424C2110",
-    "description": "SSN 814 \u0026 SSN 815 LONG LEAD TIME MATERIAL",
-    "text": "ELECTRIC BOAT CORPORATION",
-    "title": "ELECTRIC BOAT CORPORATION",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_N0002424C2110_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
    "key": "CONT_AWD_FA863418C2701_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -1206,7 +1180,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "6589838761",
+    "amount": "6589906685",
     "award_id": "N0002423C2305",
     "description": "CONSTRUCTION OF DDG 51 SHIPS FY23-27",
     "text": "BATH IRON WORKS CORPORATION",
@@ -1225,6 +1199,19 @@
     "text": "THE BOEING COMPANY",
     "title": "THE BOEING COMPANY",
     "url": "https://www.usaspending.gov/award/CONT_AWD_HQ014712C0004_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_N0002424C2110_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "6339762942",
+    "award_id": "N0002424C2110",
+    "description": "SSN 814 \u0026 SSN 815 LONG LEAD TIME MATERIAL",
+    "text": "ELECTRIC BOAT CORPORATION",
+    "title": "ELECTRIC BOAT CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_N0002424C2110_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -1250,6 +1237,19 @@
     "text": "SIKORSKY AIRCRAFT CORPORATION",
     "title": "SIKORSKY AIRCRAFT CORPORATION",
     "url": "https://www.usaspending.gov/award/CONT_AWD_N0001906C0081_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_N0001913C0008_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "6.03535836947e+09",
+    "award_id": "N0001913C0008",
+    "description": "F-35 LRIP 8 AAC",
+    "text": "LOCKHEED MARTIN CORPORATION",
+    "title": "LOCKHEED MARTIN CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_N0001913C0008_9700_-NONE-_-NONE-/"
    }
   }
  ]

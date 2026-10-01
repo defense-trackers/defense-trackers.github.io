@@ -1,9 +1,21 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-09-30T22:39:08Z",
+ "fetched_at": "2026-10-01T13:25:34Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-01T11:55:05Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "81",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
   {
    "key": "hkaanturgut/spec-kit-fleetwise",
    "source": "tak-cot",
@@ -38,18 +50,6 @@
     "text": "rixau/atak-reactive",
     "title": "rixau/atak-reactive",
     "url": "https://github.com/rixau/atak-reactive"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-09-30T20:39:16Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "81",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -813,6 +813,30 @@
    }
   },
   {
+   "key": "takwerx/atmosphere",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-01T02:17:52Z",
+    "description": "ATAK Plugin: Atmosphere — fire and hazmat weather on the map: the forecast at a point, radar, satellite, wind, rain, smoke, rivers and the sea. Downloads, guide and issues here.",
+    "stars": "0",
+    "text": "takwerx/atmosphere",
+    "title": "takwerx/atmosphere",
+    "url": "https://github.com/takwerx/atmosphere"
+   }
+  },
+  {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-01T02:22:08Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "1",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
    "key": "clptak/cloudtak-plugin-search-containment",
    "source": "tak-github",
    "fields": {
@@ -830,7 +854,7 @@
    "fields": {
     "date": "2026-09-30T19:57:45Z",
     "description": "Firecone ATAK plugin (secondary GitHub repository; TAK Forge is canonical)",
-    "stars": "1",
+    "stars": "2",
     "text": "aegorsuch/atak-plugin-firecone",
     "title": "aegorsuch/atak-plugin-firecone",
     "url": "https://github.com/aegorsuch/atak-plugin-firecone"
@@ -858,18 +882,6 @@
     "text": "takwerx/signal-df",
     "title": "takwerx/signal-df",
     "url": "https://github.com/takwerx/signal-df"
-   }
-  },
-  {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-30T12:03:30Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "1",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
    }
   },
   {
@@ -929,18 +941,6 @@
     "text": "mighkel/ATAK-Plugin-KestrelWx",
     "title": "mighkel/ATAK-Plugin-KestrelWx",
     "url": "https://github.com/mighkel/ATAK-Plugin-KestrelWx"
-   }
-  },
-  {
-   "key": "takwerx/atmosphere",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-28T18:02:04Z",
-    "description": "ATAK Plugin: Atmosphere — fire and hazmat weather on the map: the forecast at a point, radar, satellite, wind, rain, smoke, rivers and the sea. Downloads, guide and issues here.",
-    "stars": "0",
-    "text": "takwerx/atmosphere",
-    "title": "takwerx/atmosphere",
-    "url": "https://github.com/takwerx/atmosphere"
    }
   },
   {
@@ -1056,7 +1056,7 @@
    "fields": {
     "date": "2026-09-21T02:30:51Z",
     "description": "ATAK Plugin: Map Depot — download elevation, base maps and offline public-lands maps from inside ATAK. Downloads, guide and issues here.",
-    "stars": "11",
+    "stars": "12",
     "text": "takwerx/map-depot",
     "title": "takwerx/map-depot",
     "url": "https://github.com/takwerx/map-depot"
