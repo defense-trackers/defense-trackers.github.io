@@ -1,7 +1,7 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-10-01T22:55:29Z",
+ "fetched_at": "2026-10-02T12:43:39Z",
  "schema_version": 1,
  "records": [
   {
@@ -572,7 +572,7 @@
    "key": "idaholab/moose",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-10-01T21:35:40Z",
+    "date": "2026-10-01T23:33:38Z",
     "description": "Multiphysics Object Oriented Simulation Environment",
     "stars": "2366",
     "text": "idaholab/moose",
@@ -858,7 +858,7 @@
    "key": "llnl/GridDyn",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-10-01T16:04:15Z",
+    "date": "2026-10-02T12:28:35Z",
     "description": "GridDyn is an open-source power transmission simulation software package",
     "stars": "63",
     "text": "llnl/GridDyn",
@@ -912,18 +912,6 @@
     "text": "mitre/cis-aws-foundations-hardening",
     "title": "mitre/cis-aws-foundations-hardening",
     "url": "https://github.com/mitre/cis-aws-foundations-hardening"
-   }
-  },
-  {
-   "key": "mitre/webhdfs",
-   "source": "oss-mitre",
-   "fields": {
-    "date": "2025-10-02T07:30:38Z",
-    "description": "Interface with WebHDFS Service in a Cluster-Neutral Way",
-    "stars": "4",
-    "text": "mitre/webhdfs",
-    "title": "mitre/webhdfs",
-    "url": "https://github.com/mitre/webhdfs"
    }
   },
   {
@@ -1014,7 +1002,7 @@
    "key": "nasa/trick",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-10-01T22:22:34Z",
+    "date": "2026-10-01T23:59:41Z",
     "description": "Trick Simulation Environment.  Trick provides a common set of simulation capabilities and utilities to build simulations automatically.",
     "stars": "175",
     "text": "nasa/trick",
@@ -1028,7 +1016,7 @@
    "fields": {
     "date": "2026-09-29T23:45:28Z",
     "description": "A web based mission control framework. ",
-    "stars": "13145",
+    "stars": "13146",
     "text": "nasa/openmct",
     "title": "nasa/openmct",
     "url": "https://github.com/nasa/openmct"
@@ -1064,7 +1052,7 @@
    "fields": {
     "date": "2026-09-18T01:30:34Z",
     "description": "Astronomy Picture of the Day API service",
-    "stars": "1091",
+    "stars": "1092",
     "text": "nasa/apod-api",
     "title": "nasa/apod-api",
     "url": "https://github.com/nasa/apod-api"
@@ -1230,7 +1218,7 @@
    "key": "nsacyber/paccor",
    "source": "oss-nsacyber",
    "fields": {
-    "date": "2026-09-30T21:55:30Z",
+    "date": "2026-10-02T02:26:39Z",
     "description": "The Platform Attribute Certificate Creator can gather component details, create, sign, and validate the TCG-defined Platform Certificate. #nsacyber",
     "stars": "78",
     "text": "nsacyber/paccor",
@@ -1289,7 +1277,7 @@
    "key": "ORNL/HydraGNN",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-10-01T17:24:26Z",
+    "date": "2026-10-02T02:23:13Z",
     "description": "Distributed PyTorch implementation of multi-headed graph convolutional neural networks",
     "stars": "127",
     "text": "ORNL/HydraGNN",
@@ -1373,7 +1361,7 @@
    "key": "ORNL/GridKit",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-10-01T22:06:39Z",
+    "date": "2026-10-02T04:24:32Z",
     "description": "Modeling framework for power systems simulations and analysis.",
     "stars": "27",
     "text": "ORNL/GridKit",
