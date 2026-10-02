@@ -1,9 +1,21 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-02T12:44:09Z",
+ "fetched_at": "2026-10-02T22:34:57Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-02T15:41:10Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "82",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
   {
    "key": "rixau/atak-reactive",
    "source": "tak-cot",
@@ -14,18 +26,6 @@
     "text": "rixau/atak-reactive",
     "title": "rixau/atak-reactive",
     "url": "https://github.com/rixau/atak-reactive"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-10-02T03:58:28Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "82",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -582,7 +582,7 @@
    "key": "FreeTAKTeam/DigitalArchitectureFramework",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-09-15T20:27:27Z",
+    "date": "2026-10-02T16:55:22Z",
     "description": "The Digital Architecture Framework (DAF),  is a set modeling tools for Digital Engineering. ",
     "stars": "8",
     "text": "FreeTAKTeam/DigitalArchitectureFramework",
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/staged-recipes",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-09-23T19:23:49Z",
+    "date": "2026-10-02T17:04:21Z",
     "description": "A place to submit conda recipes before they become fully fledged conda-forge feedstocks",
     "stars": "0",
     "text": "FreeTAKTeam/staged-recipes",
@@ -813,26 +813,38 @@
    }
   },
   {
-   "key": "DrLexus11/reticulum-atak",
+   "key": "ke8tqb/HBC-ATAK-Plugin",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-02T12:27:45Z",
-    "description": "ATAK reticulum mesh plugin",
-    "stars": "0",
-    "text": "DrLexus11/reticulum-atak",
-    "title": "DrLexus11/reticulum-atak",
-    "url": "https://github.com/DrLexus11/reticulum-atak"
+    "date": "2026-10-02T21:42:38Z",
+    "description": "Implements HBC protocol for a streamline ATAK plugin",
+    "stars": "3",
+    "text": "ke8tqb/HBC-ATAK-Plugin",
+    "title": "ke8tqb/HBC-ATAK-Plugin",
+    "url": "https://github.com/ke8tqb/HBC-ATAK-Plugin"
    }
   },
   {
    "key": "Jarnsen/ATAK-Jarnsen-Mrs-Plugin",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-02T09:46:45Z",
+    "date": "2026-10-02T17:00:50Z",
     "stars": "0",
     "text": "Jarnsen/ATAK-Jarnsen-Mrs-Plugin",
     "title": "Jarnsen/ATAK-Jarnsen-Mrs-Plugin",
     "url": "https://github.com/Jarnsen/ATAK-Jarnsen-Mrs-Plugin"
+   }
+  },
+  {
+   "key": "DrLexus11/reticulum-atak",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-02T13:25:53Z",
+    "description": "ATAK reticulum mesh plugin",
+    "stars": "0",
+    "text": "DrLexus11/reticulum-atak",
+    "title": "DrLexus11/reticulum-atak",
+    "url": "https://github.com/DrLexus11/reticulum-atak"
    }
   },
   {
@@ -885,7 +897,7 @@
    "key": "clptak/cloudtak-plugin-search-containment",
    "source": "tak-github",
    "fields": {
-    "date": "2026-09-30T20:26:18Z",
+    "date": "2026-10-02T19:03:20Z",
     "description": "Plugin to behave similar to ATAK's Chokepoint.  Leverages OSM  layer in CloudTAK to identify containment points at travel corridors to contain a search area.",
     "stars": "1",
     "text": "clptak/cloudtak-plugin-search-containment",
@@ -987,18 +999,6 @@
     "text": "takwerx/cursorwerx",
     "title": "takwerx/cursorwerx",
     "url": "https://github.com/takwerx/cursorwerx"
-   }
-  },
-  {
-   "key": "ke8tqb/HBC-ATAK-Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-27T21:27:26Z",
-    "description": "Implements HBC protocol for a streamline ATAK plugin",
-    "stars": "3",
-    "text": "ke8tqb/HBC-ATAK-Plugin",
-    "title": "ke8tqb/HBC-ATAK-Plugin",
-    "url": "https://github.com/ke8tqb/HBC-ATAK-Plugin"
    }
   },
   {
