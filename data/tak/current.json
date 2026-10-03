@@ -1,9 +1,21 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-02T22:34:57Z",
+ "fetched_at": "2026-10-03T11:45:33Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "engindearing-projects/OmniTAK-Android",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-03T04:12:42Z",
+    "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
+    "stars": "22",
+    "text": "engindearing-projects/OmniTAK-Android",
+    "title": "engindearing-projects/OmniTAK-Android",
+    "url": "https://github.com/engindearing-projects/OmniTAK-Android"
+   }
+  },
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
@@ -20,7 +32,7 @@
    "key": "rixau/atak-reactive",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-02T12:35:44Z",
+    "date": "2026-10-03T11:37:11Z",
     "description": "Build ATAK (Android Team Awareness Kit) plugin UIs with React and TypeScript. Typed WebView bridge, hot reload, incremental adoption.",
     "stars": "2",
     "text": "rixau/atak-reactive",
@@ -68,24 +80,12 @@
    "key": "engindearing-projects/OmniTAK-iOS",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-09-28T23:26:05Z",
+    "date": "2026-10-03T06:11:15Z",
     "description": "Open-source TAK (Team Awareness Kit) client for iPhone and iPad. Swift + SwiftUI. Apache 2.0.",
     "stars": "9",
     "text": "engindearing-projects/OmniTAK-iOS",
     "title": "engindearing-projects/OmniTAK-iOS",
     "url": "https://github.com/engindearing-projects/OmniTAK-iOS"
-   }
-  },
-  {
-   "key": "engindearing-projects/OmniTAK-Android",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-09-29T01:46:12Z",
-    "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
-    "stars": "22",
-    "text": "engindearing-projects/OmniTAK-Android",
-    "title": "engindearing-projects/OmniTAK-Android",
-    "url": "https://github.com/engindearing-projects/OmniTAK-Android"
    }
   },
   {
@@ -190,7 +190,7 @@
    "fields": {
     "date": "2026-06-23T08:24:02Z",
     "description": "Drive ATAK (Android Team Awareness Kit) and its plugins over adb without blind taps: CLI + MCP server (uvx-installable).",
-    "stars": "4",
+    "stars": "5",
     "text": "newtypeind/atak-mcp",
     "title": "newtypeind/atak-mcp",
     "url": "https://github.com/newtypeind/atak-mcp"
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/staged-recipes",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-02T17:04:21Z",
+    "date": "2026-10-02T23:59:16Z",
     "description": "A place to submit conda recipes before they become fully fledged conda-forge feedstocks",
     "stars": "0",
     "text": "FreeTAKTeam/staged-recipes",
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-09-29T00:06:33Z",
+    "date": "2026-10-03T11:21:58Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "38",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -813,22 +813,10 @@
    }
   },
   {
-   "key": "ke8tqb/HBC-ATAK-Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-02T21:42:38Z",
-    "description": "Implements HBC protocol for a streamline ATAK plugin",
-    "stars": "3",
-    "text": "ke8tqb/HBC-ATAK-Plugin",
-    "title": "ke8tqb/HBC-ATAK-Plugin",
-    "url": "https://github.com/ke8tqb/HBC-ATAK-Plugin"
-   }
-  },
-  {
    "key": "Jarnsen/ATAK-Jarnsen-Mrs-Plugin",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-02T17:00:50Z",
+    "date": "2026-10-03T09:43:54Z",
     "stars": "0",
     "text": "Jarnsen/ATAK-Jarnsen-Mrs-Plugin",
     "title": "Jarnsen/ATAK-Jarnsen-Mrs-Plugin",
@@ -839,12 +827,24 @@
    "key": "DrLexus11/reticulum-atak",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-02T13:25:53Z",
+    "date": "2026-10-03T07:41:07Z",
     "description": "ATAK reticulum mesh plugin",
     "stars": "0",
     "text": "DrLexus11/reticulum-atak",
     "title": "DrLexus11/reticulum-atak",
     "url": "https://github.com/DrLexus11/reticulum-atak"
+   }
+  },
+  {
+   "key": "ke8tqb/HBC-ATAK-Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-02T21:42:38Z",
+    "description": "Implements HBC protocol for a streamline ATAK plugin",
+    "stars": "3",
+    "text": "ke8tqb/HBC-ATAK-Plugin",
+    "title": "ke8tqb/HBC-ATAK-Plugin",
+    "url": "https://github.com/ke8tqb/HBC-ATAK-Plugin"
    }
   },
   {
@@ -897,7 +897,7 @@
    "key": "clptak/cloudtak-plugin-search-containment",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-02T19:03:20Z",
+    "date": "2026-10-03T01:47:38Z",
     "description": "Plugin to behave similar to ATAK's Chokepoint.  Leverages OSM  layer in CloudTAK to identify containment points at travel corridors to contain a search area.",
     "stars": "1",
     "text": "clptak/cloudtak-plugin-search-containment",
@@ -1066,7 +1066,7 @@
    "source": "tak-github",
    "fields": {
     "date": "2026-09-22T20:52:03Z",
-    "stars": "56",
+    "stars": "57",
     "text": "Hellikandra/ATAK-Weather-Plugin",
     "title": "Hellikandra/ATAK-Weather-Plugin",
     "url": "https://github.com/Hellikandra/ATAK-Weather-Plugin"

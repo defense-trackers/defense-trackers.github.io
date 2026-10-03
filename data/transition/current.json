@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-10-02T22:34:59Z",
+ "fetched_at": "2026-10-03T11:45:36Z",
  "schema_version": 1,
  "records": [
   {
@@ -635,7 +635,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "34923769778",
+    "amount": "34923898025",
     "award_id": "N0002417C2100",
     "description": "SSN 802 AND 803 LONG LEAD TIME MATERIAL",
     "text": "ELECTRIC BOAT CORPORATION",
@@ -687,7 +687,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "24587934868",
+    "amount": "24588054059",
     "award_id": "N0001923C0003",
     "description": "THE PURPOSE OF THIS CONTRACT IS TO AWARD LONG LEAD FUNDING FOR F-35A, F-35B, AND F-35C AIRCRAFT FOR U.S. SERVICES, NON-DOD PARTNERS, AND FMS CUSTOMERS",
     "text": "LOCKHEED MARTIN CORPORATION",
@@ -995,6 +995,19 @@
    }
   },
   {
+   "key": "CONT_AWD_N0001921C0020_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "7.9466334345e+09",
+    "award_id": "N0001921C0020",
+    "description": "FY21-23 GLOBAL F-35 AIR SYSTEM SUSTAINMENT",
+    "text": "LOCKHEED MARTIN CORPORATION",
+    "title": "LOCKHEED MARTIN CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_N0001921C0020_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_N0001924C0039_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -1176,6 +1189,19 @@
    }
   },
   {
+   "key": "CONT_AWD_N0001923C0030_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "6.64405726333e+09",
+    "award_id": "N0001923C0030",
+    "description": "LOT 18 PNR/TOOLING",
+    "text": "RTX CORPORATION",
+    "title": "RTX CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_N0001923C0030_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_N0002423C2305_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -1225,31 +1251,6 @@
     "text": "OSHKOSH DEFENSE LLC",
     "title": "OSHKOSH DEFENSE LLC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W56HZV15C0095_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_N0001906C0081_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "6.10328553196e+09",
-    "award_id": "N0001906C0081",
-    "text": "SIKORSKY AIRCRAFT CORPORATION",
-    "title": "SIKORSKY AIRCRAFT CORPORATION",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_N0001906C0081_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_N0001913C0008_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "6.03535836947e+09",
-    "award_id": "N0001913C0008",
-    "description": "F-35 LRIP 8 AAC",
-    "text": "LOCKHEED MARTIN CORPORATION",
-    "title": "LOCKHEED MARTIN CORPORATION",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_N0001913C0008_9700_-NONE-_-NONE-/"
    }
   }
  ]
