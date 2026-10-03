@@ -1,9 +1,33 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-03T11:45:33Z",
+ "fetched_at": "2026-10-03T21:50:51Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "rixau/atak-reactive",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-03T19:14:31Z",
+    "description": "Build ATAK (Android Team Awareness Kit) plugin UIs with React and TypeScript. Typed WebView bridge, hot reload, incremental adoption.",
+    "stars": "2",
+    "text": "rixau/atak-reactive",
+    "title": "rixau/atak-reactive",
+    "url": "https://github.com/rixau/atak-reactive"
+   }
+  },
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-03T13:47:51Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "82",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
   {
    "key": "engindearing-projects/OmniTAK-Android",
    "source": "tak-cot",
@@ -14,30 +38,6 @@
     "text": "engindearing-projects/OmniTAK-Android",
     "title": "engindearing-projects/OmniTAK-Android",
     "url": "https://github.com/engindearing-projects/OmniTAK-Android"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-10-02T15:41:10Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "82",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
-   }
-  },
-  {
-   "key": "rixau/atak-reactive",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-10-03T11:37:11Z",
-    "description": "Build ATAK (Android Team Awareness Kit) plugin UIs with React and TypeScript. Typed WebView bridge, hot reload, incremental adoption.",
-    "stars": "2",
-    "text": "rixau/atak-reactive",
-    "title": "rixau/atak-reactive",
-    "url": "https://github.com/rixau/atak-reactive"
    }
   },
   {
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-03T11:21:58Z",
+    "date": "2026-10-03T14:41:34Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "38",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -813,10 +813,21 @@
    }
   },
   {
+   "key": "czediker/RAR-ATAK-Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-03T21:35:34Z",
+    "stars": "0",
+    "text": "czediker/RAR-ATAK-Plugin",
+    "title": "czediker/RAR-ATAK-Plugin",
+    "url": "https://github.com/czediker/RAR-ATAK-Plugin"
+   }
+  },
+  {
    "key": "Jarnsen/ATAK-Jarnsen-Mrs-Plugin",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-03T09:43:54Z",
+    "date": "2026-10-03T16:53:04Z",
     "stars": "0",
     "text": "Jarnsen/ATAK-Jarnsen-Mrs-Plugin",
     "title": "Jarnsen/ATAK-Jarnsen-Mrs-Plugin",
@@ -897,7 +908,7 @@
    "key": "clptak/cloudtak-plugin-search-containment",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-03T01:47:38Z",
+    "date": "2026-10-03T19:02:25Z",
     "description": "Plugin to behave similar to ATAK's Chokepoint.  Leverages OSM  layer in CloudTAK to identify containment points at travel corridors to contain a search area.",
     "stars": "1",
     "text": "clptak/cloudtak-plugin-search-containment",
@@ -1142,18 +1153,6 @@
     "text": "takwerx/comms",
     "title": "takwerx/comms",
     "url": "https://github.com/takwerx/comms"
-   }
-  },
-  {
-   "key": "takwerx/fobs",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-21T00:31:40Z",
-    "description": "ATAK Plugin: FOBS — Field Observation Survey: walk, draw, import, split and join a perimeter into an ATAK shape, live to a Data Sync feed. Downloads, guide and issues here.",
-    "stars": "2",
-    "text": "takwerx/fobs",
-    "title": "takwerx/fobs",
-    "url": "https://github.com/takwerx/fobs"
    }
   },
   {

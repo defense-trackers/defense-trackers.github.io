@@ -1,9 +1,249 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-10-03T11:45:04Z",
+ "fetched_at": "2026-10-03T21:50:23Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "mitre/FMACM",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2026-06-30T19:27:32Z",
+    "description": "An aircraft dynamics and control model for closed-loop RTCA requirements testing.",
+    "stars": "15",
+    "text": "mitre/FMACM",
+    "title": "mitre/FMACM",
+    "url": "https://github.com/mitre/FMACM"
+   }
+  },
+  {
+   "key": "mitre/cti",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2026-08-05T22:57:18Z",
+    "description": "Cyber Threat Intelligence Repository expressed in STIX 2.0",
+    "stars": "2151",
+    "text": "mitre/cti",
+    "title": "mitre/cti",
+    "url": "https://github.com/mitre/cti"
+   }
+  },
+  {
+   "key": "mitre/aws-foundations-cis-baseline",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2025-12-14T20:57:23Z",
+    "description": "InSpec profile to validate your VPC to the standards of the CIS Amazon Web Services Foundations Benchmark",
+    "stars": "76",
+    "text": "mitre/aws-foundations-cis-baseline",
+    "title": "mitre/aws-foundations-cis-baseline",
+    "url": "https://github.com/mitre/aws-foundations-cis-baseline"
+   }
+  },
+  {
+   "key": "mitre/cis-aws-foundations-hardening",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2025-12-14T20:57:24Z",
+    "description": "(WIP) A terraform / kitchen-terraform hardening baseline for the cis-aws-foundations-baseline",
+    "stars": "24",
+    "text": "mitre/cis-aws-foundations-hardening",
+    "title": "mitre/cis-aws-foundations-hardening",
+    "url": "https://github.com/mitre/cis-aws-foundations-hardening"
+   }
+  },
+  {
+   "key": "mitre/vulcan",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2026-09-25T03:53:21Z",
+    "description": "A web application to streamline the development of STIGs from SRGs",
+    "stars": "87",
+    "text": "mitre/vulcan",
+    "title": "mitre/vulcan",
+    "url": "https://github.com/mitre/vulcan"
+   }
+  },
+  {
+   "key": "mitre/apache-tomcat-7-cis-baseline",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2025-12-14T21:09:29Z",
+    "description": "(WIP) (ALPHA) InSpec Profile for the CIS Apache Tomcat v7 Benchmark",
+    "stars": "3",
+    "text": "mitre/apache-tomcat-7-cis-baseline",
+    "title": "mitre/apache-tomcat-7-cis-baseline",
+    "url": "https://github.com/mitre/apache-tomcat-7-cis-baseline"
+   }
+  },
+  {
+   "key": "mitre/ansible-cis-tomcat-hardening",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2025-10-13T23:20:52Z",
+    "description": "WIP Ansible playbook for hardening a tomcat instance to the CIS Tomcat Benchmark v1.0.1",
+    "stars": "7",
+    "text": "mitre/ansible-cis-tomcat-hardening",
+    "title": "mitre/ansible-cis-tomcat-hardening",
+    "url": "https://github.com/mitre/ansible-cis-tomcat-hardening"
+   }
+  },
+  {
+   "key": "mitre/apache-tomcat-8-cis-baseline",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2025-12-15T02:53:28Z",
+    "description": "(WIP) (Alpha) InSpec profile for CIS Apache Tomcat v8 Benchmark",
+    "stars": "6",
+    "text": "mitre/apache-tomcat-8-cis-baseline",
+    "title": "mitre/apache-tomcat-8-cis-baseline",
+    "url": "https://github.com/mitre/apache-tomcat-8-cis-baseline"
+   }
+  },
+  {
+   "key": "mitre/ansible-cis-docker-ce-hardening",
+   "source": "oss-mitre",
+   "fields": {
+    "date": "2025-10-13T23:19:28Z",
+    "description": "(WIP) An ansible playbook to harden a docker host to the CIS CE Benchmark requirements",
+    "stars": "31",
+    "text": "mitre/ansible-cis-docker-ce-hardening",
+    "title": "mitre/ansible-cis-docker-ce-hardening",
+    "url": "https://github.com/mitre/ansible-cis-docker-ce-hardening"
+   }
+  },
+  {
+   "key": "nasa/Open-Source-Catalog",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2026-07-13T19:47:24Z",
+    "description": "Contains the NASA open source software catalog for automatic deployment to code.nasa.gov",
+    "stars": "350",
+    "text": "nasa/Open-Source-Catalog",
+    "title": "nasa/Open-Source-Catalog",
+    "url": "https://github.com/nasa/Open-Source-Catalog"
+   }
+  },
+  {
+   "key": "nasa/PyAMPR",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2025-11-18T19:16:11Z",
+    "description": "Python Advanced Microwave Precipitation Radiometer Data Toolkit (PyAMPR)",
+    "stars": "26",
+    "text": "nasa/PyAMPR",
+    "title": "nasa/PyAMPR",
+    "url": "https://github.com/nasa/PyAMPR"
+   }
+  },
+  {
+   "key": "nasa/trick",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2026-10-02T16:20:52Z",
+    "description": "Trick Simulation Environment.  Trick provides a common set of simulation capabilities and utilities to build simulations automatically.",
+    "stars": "175",
+    "text": "nasa/trick",
+    "title": "nasa/trick",
+    "url": "https://github.com/nasa/trick"
+   }
+  },
+  {
+   "key": "nasa/openmct",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2026-09-29T23:45:28Z",
+    "description": "A web based mission control framework. ",
+    "stars": "13150",
+    "text": "nasa/openmct",
+    "title": "nasa/openmct",
+    "url": "https://github.com/nasa/openmct"
+   }
+  },
+  {
+   "key": "nasa/earthdata-search",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2026-10-02T19:48:02Z",
+    "description": "Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.",
+    "stars": "825",
+    "text": "nasa/earthdata-search",
+    "title": "nasa/earthdata-search",
+    "url": "https://github.com/nasa/earthdata-search"
+   }
+  },
+  {
+   "key": "nasa/edsc-echoforms",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2026-05-29T22:56:34Z",
+    "description": "A React component implementing the ECHO Forms specification.",
+    "stars": "9",
+    "text": "nasa/edsc-echoforms",
+    "title": "nasa/edsc-echoforms",
+    "url": "https://github.com/nasa/edsc-echoforms"
+   }
+  },
+  {
+   "key": "nasa/apod-api",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2026-09-18T01:30:34Z",
+    "description": "Astronomy Picture of the Day API service",
+    "stars": "1091",
+    "text": "nasa/apod-api",
+    "title": "nasa/apod-api",
+    "url": "https://github.com/nasa/apod-api"
+   }
+  },
+  {
+   "key": "nasa/nasa-latex-docs",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2026-03-31T21:15:45Z",
+    "description": "An easy and convenient package to create technical LaTeX documents.",
+    "stars": "273",
+    "text": "nasa/nasa-latex-docs",
+    "title": "nasa/nasa-latex-docs",
+    "url": "https://github.com/nasa/nasa-latex-docs"
+   }
+  },
+  {
+   "key": "nasa/icarous",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2026-09-28T19:26:23Z",
+    "description": "ICAROUS  is a software architecture for the development of UAS applications",
+    "stars": "179",
+    "text": "nasa/icarous",
+    "title": "nasa/icarous",
+    "url": "https://github.com/nasa/icarous"
+   }
+  },
+  {
+   "key": "nasa/Common-Metadata-Repository",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2026-10-02T12:49:45Z",
+    "description": "The Common Metadata Repository (CMR) is a high-performance, high-quality, continuously evolving metadata system that catalogs Earth Science data and associated service metadata records. These metadata records are registered, modified, discovered, and accessed through programmatic interfaces leveraging standard protocols and APIs.",
+    "stars": "397",
+    "text": "nasa/Common-Metadata-Repository",
+    "title": "nasa/Common-Metadata-Repository",
+    "url": "https://github.com/nasa/Common-Metadata-Repository"
+   }
+  },
+  {
+   "key": "nasa/TrickFMI",
+   "source": "oss-nasa",
+   "fields": {
+    "date": "2026-09-10T12:53:30Z",
+    "description": "A Functional Mockup Interface (FMI) Standard Implementation for Trick Base Models and Simulations",
+    "stars": "25",
+    "text": "nasa/TrickFMI",
+    "title": "nasa/TrickFMI",
+    "url": "https://github.com/nasa/TrickFMI"
+   }
+  },
   {
    "key": "cisagov/pshtt",
    "source": "oss-cisagov",
@@ -858,252 +1098,12 @@
    "key": "llnl/GridDyn",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-10-03T00:54:19Z",
+    "date": "2026-10-03T19:14:50Z",
     "description": "GridDyn is an open-source power transmission simulation software package",
     "stars": "63",
     "text": "llnl/GridDyn",
     "title": "llnl/GridDyn",
     "url": "https://github.com/llnl/GridDyn"
-   }
-  },
-  {
-   "key": "mitre/FMACM",
-   "source": "oss-mitre",
-   "fields": {
-    "date": "2026-06-30T19:27:32Z",
-    "description": "An aircraft dynamics and control model for closed-loop RTCA requirements testing.",
-    "stars": "15",
-    "text": "mitre/FMACM",
-    "title": "mitre/FMACM",
-    "url": "https://github.com/mitre/FMACM"
-   }
-  },
-  {
-   "key": "mitre/cti",
-   "source": "oss-mitre",
-   "fields": {
-    "date": "2026-08-05T22:57:18Z",
-    "description": "Cyber Threat Intelligence Repository expressed in STIX 2.0",
-    "stars": "2151",
-    "text": "mitre/cti",
-    "title": "mitre/cti",
-    "url": "https://github.com/mitre/cti"
-   }
-  },
-  {
-   "key": "mitre/aws-foundations-cis-baseline",
-   "source": "oss-mitre",
-   "fields": {
-    "date": "2025-12-14T20:57:23Z",
-    "description": "InSpec profile to validate your VPC to the standards of the CIS Amazon Web Services Foundations Benchmark",
-    "stars": "76",
-    "text": "mitre/aws-foundations-cis-baseline",
-    "title": "mitre/aws-foundations-cis-baseline",
-    "url": "https://github.com/mitre/aws-foundations-cis-baseline"
-   }
-  },
-  {
-   "key": "mitre/cis-aws-foundations-hardening",
-   "source": "oss-mitre",
-   "fields": {
-    "date": "2025-12-14T20:57:24Z",
-    "description": "(WIP) A terraform / kitchen-terraform hardening baseline for the cis-aws-foundations-baseline",
-    "stars": "24",
-    "text": "mitre/cis-aws-foundations-hardening",
-    "title": "mitre/cis-aws-foundations-hardening",
-    "url": "https://github.com/mitre/cis-aws-foundations-hardening"
-   }
-  },
-  {
-   "key": "mitre/vulcan",
-   "source": "oss-mitre",
-   "fields": {
-    "date": "2026-09-25T03:53:21Z",
-    "description": "A web application to streamline the development of STIGs from SRGs",
-    "stars": "87",
-    "text": "mitre/vulcan",
-    "title": "mitre/vulcan",
-    "url": "https://github.com/mitre/vulcan"
-   }
-  },
-  {
-   "key": "mitre/apache-tomcat-7-cis-baseline",
-   "source": "oss-mitre",
-   "fields": {
-    "date": "2025-12-14T21:09:29Z",
-    "description": "(WIP) (ALPHA) InSpec Profile for the CIS Apache Tomcat v7 Benchmark",
-    "stars": "3",
-    "text": "mitre/apache-tomcat-7-cis-baseline",
-    "title": "mitre/apache-tomcat-7-cis-baseline",
-    "url": "https://github.com/mitre/apache-tomcat-7-cis-baseline"
-   }
-  },
-  {
-   "key": "mitre/ansible-cis-tomcat-hardening",
-   "source": "oss-mitre",
-   "fields": {
-    "date": "2025-10-13T23:20:52Z",
-    "description": "WIP Ansible playbook for hardening a tomcat instance to the CIS Tomcat Benchmark v1.0.1",
-    "stars": "7",
-    "text": "mitre/ansible-cis-tomcat-hardening",
-    "title": "mitre/ansible-cis-tomcat-hardening",
-    "url": "https://github.com/mitre/ansible-cis-tomcat-hardening"
-   }
-  },
-  {
-   "key": "mitre/apache-tomcat-8-cis-baseline",
-   "source": "oss-mitre",
-   "fields": {
-    "date": "2025-12-15T02:53:28Z",
-    "description": "(WIP) (Alpha) InSpec profile for CIS Apache Tomcat v8 Benchmark",
-    "stars": "6",
-    "text": "mitre/apache-tomcat-8-cis-baseline",
-    "title": "mitre/apache-tomcat-8-cis-baseline",
-    "url": "https://github.com/mitre/apache-tomcat-8-cis-baseline"
-   }
-  },
-  {
-   "key": "mitre/ansible-cis-docker-ce-hardening",
-   "source": "oss-mitre",
-   "fields": {
-    "date": "2025-10-13T23:19:28Z",
-    "description": "(WIP) An ansible playbook to harden a docker host to the CIS CE Benchmark requirements",
-    "stars": "31",
-    "text": "mitre/ansible-cis-docker-ce-hardening",
-    "title": "mitre/ansible-cis-docker-ce-hardening",
-    "url": "https://github.com/mitre/ansible-cis-docker-ce-hardening"
-   }
-  },
-  {
-   "key": "nasa/Open-Source-Catalog",
-   "source": "oss-nasa",
-   "fields": {
-    "date": "2026-07-13T19:47:24Z",
-    "description": "Contains the NASA open source software catalog for automatic deployment to code.nasa.gov",
-    "stars": "350",
-    "text": "nasa/Open-Source-Catalog",
-    "title": "nasa/Open-Source-Catalog",
-    "url": "https://github.com/nasa/Open-Source-Catalog"
-   }
-  },
-  {
-   "key": "nasa/PyAMPR",
-   "source": "oss-nasa",
-   "fields": {
-    "date": "2025-11-18T19:16:11Z",
-    "description": "Python Advanced Microwave Precipitation Radiometer Data Toolkit (PyAMPR)",
-    "stars": "26",
-    "text": "nasa/PyAMPR",
-    "title": "nasa/PyAMPR",
-    "url": "https://github.com/nasa/PyAMPR"
-   }
-  },
-  {
-   "key": "nasa/trick",
-   "source": "oss-nasa",
-   "fields": {
-    "date": "2026-10-02T16:20:52Z",
-    "description": "Trick Simulation Environment.  Trick provides a common set of simulation capabilities and utilities to build simulations automatically.",
-    "stars": "175",
-    "text": "nasa/trick",
-    "title": "nasa/trick",
-    "url": "https://github.com/nasa/trick"
-   }
-  },
-  {
-   "key": "nasa/openmct",
-   "source": "oss-nasa",
-   "fields": {
-    "date": "2026-09-29T23:45:28Z",
-    "description": "A web based mission control framework. ",
-    "stars": "13150",
-    "text": "nasa/openmct",
-    "title": "nasa/openmct",
-    "url": "https://github.com/nasa/openmct"
-   }
-  },
-  {
-   "key": "nasa/earthdata-search",
-   "source": "oss-nasa",
-   "fields": {
-    "date": "2026-10-02T19:48:02Z",
-    "description": "Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.",
-    "stars": "825",
-    "text": "nasa/earthdata-search",
-    "title": "nasa/earthdata-search",
-    "url": "https://github.com/nasa/earthdata-search"
-   }
-  },
-  {
-   "key": "nasa/edsc-echoforms",
-   "source": "oss-nasa",
-   "fields": {
-    "date": "2026-05-29T22:56:34Z",
-    "description": "A React component implementing the ECHO Forms specification.",
-    "stars": "9",
-    "text": "nasa/edsc-echoforms",
-    "title": "nasa/edsc-echoforms",
-    "url": "https://github.com/nasa/edsc-echoforms"
-   }
-  },
-  {
-   "key": "nasa/apod-api",
-   "source": "oss-nasa",
-   "fields": {
-    "date": "2026-09-18T01:30:34Z",
-    "description": "Astronomy Picture of the Day API service",
-    "stars": "1091",
-    "text": "nasa/apod-api",
-    "title": "nasa/apod-api",
-    "url": "https://github.com/nasa/apod-api"
-   }
-  },
-  {
-   "key": "nasa/nasa-latex-docs",
-   "source": "oss-nasa",
-   "fields": {
-    "date": "2026-03-31T21:15:45Z",
-    "description": "An easy and convenient package to create technical LaTeX documents.",
-    "stars": "273",
-    "text": "nasa/nasa-latex-docs",
-    "title": "nasa/nasa-latex-docs",
-    "url": "https://github.com/nasa/nasa-latex-docs"
-   }
-  },
-  {
-   "key": "nasa/icarous",
-   "source": "oss-nasa",
-   "fields": {
-    "date": "2026-09-28T19:26:23Z",
-    "description": "ICAROUS  is a software architecture for the development of UAS applications",
-    "stars": "179",
-    "text": "nasa/icarous",
-    "title": "nasa/icarous",
-    "url": "https://github.com/nasa/icarous"
-   }
-  },
-  {
-   "key": "nasa/Common-Metadata-Repository",
-   "source": "oss-nasa",
-   "fields": {
-    "date": "2026-10-02T12:49:45Z",
-    "description": "The Common Metadata Repository (CMR) is a high-performance, high-quality, continuously evolving metadata system that catalogs Earth Science data and associated service metadata records. These metadata records are registered, modified, discovered, and accessed through programmatic interfaces leveraging standard protocols and APIs.",
-    "stars": "397",
-    "text": "nasa/Common-Metadata-Repository",
-    "title": "nasa/Common-Metadata-Repository",
-    "url": "https://github.com/nasa/Common-Metadata-Repository"
-   }
-  },
-  {
-   "key": "nasa/TrickFMI",
-   "source": "oss-nasa",
-   "fields": {
-    "date": "2026-09-10T12:53:30Z",
-    "description": "A Functional Mockup Interface (FMI) Standard Implementation for Trick Base Models and Simulations",
-    "stars": "25",
-    "text": "nasa/TrickFMI",
-    "title": "nasa/TrickFMI",
-    "url": "https://github.com/nasa/TrickFMI"
    }
   },
   {
@@ -1481,7 +1481,7 @@
    "key": "usnistgov/fipy",
    "source": "oss-usnistgov",
    "fields": {
-    "date": "2026-10-03T02:53:43Z",
+    "date": "2026-10-03T17:12:52Z",
     "description": "FiPy is a Finite Volume PDE solver written in Python",
     "stars": "641",
     "text": "usnistgov/fipy",
