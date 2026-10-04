@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-03T21:50:51Z",
+ "fetched_at": "2026-10-04T12:28:31Z",
  "schema_version": 1,
  "records": [
   {
    "key": "rixau/atak-reactive",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-03T19:14:31Z",
+    "date": "2026-10-04T04:12:59Z",
     "description": "Build ATAK (Android Team Awareness Kit) plugin UIs with React and TypeScript. Typed WebView bridge, hot reload, incremental adoption.",
     "stars": "2",
     "text": "rixau/atak-reactive",
@@ -17,27 +17,39 @@
    }
   },
   {
-   "key": "takwerx/infra-TAK",
+   "key": "engindearing-projects/OmniTAK-iOS",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-03T13:47:51Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "82",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
+    "date": "2026-10-04T09:04:27Z",
+    "description": "Open-source TAK (Team Awareness Kit) client for iPhone and iPad. Swift + SwiftUI. Apache 2.0.",
+    "stars": "9",
+    "text": "engindearing-projects/OmniTAK-iOS",
+    "title": "engindearing-projects/OmniTAK-iOS",
+    "url": "https://github.com/engindearing-projects/OmniTAK-iOS"
    }
   },
   {
    "key": "engindearing-projects/OmniTAK-Android",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-03T04:12:42Z",
+    "date": "2026-10-04T05:23:39Z",
     "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
     "stars": "22",
     "text": "engindearing-projects/OmniTAK-Android",
     "title": "engindearing-projects/OmniTAK-Android",
     "url": "https://github.com/engindearing-projects/OmniTAK-Android"
+   }
+  },
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-04T01:53:40Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "82",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -74,18 +86,6 @@
     "text": "joshuafuller/SRTM2TAK",
     "title": "joshuafuller/SRTM2TAK",
     "url": "https://github.com/joshuafuller/SRTM2TAK"
-   }
-  },
-  {
-   "key": "engindearing-projects/OmniTAK-iOS",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-10-03T06:11:15Z",
-    "description": "Open-source TAK (Team Awareness Kit) client for iPhone and iPad. Swift + SwiftUI. Apache 2.0.",
-    "stars": "9",
-    "text": "engindearing-projects/OmniTAK-iOS",
-    "title": "engindearing-projects/OmniTAK-iOS",
-    "url": "https://github.com/engindearing-projects/OmniTAK-iOS"
    }
   },
   {
@@ -813,10 +813,44 @@
    }
   },
   {
+   "key": "Swiss-Mesh-Sat/sos-bridge",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-04T12:28:17Z",
+    "description": "ATAK-CIV plugin that triggers the ATAK emergency alert from SOS Flashlight: two taps to alert your team over the TAK network, including Meshtastic.",
+    "stars": "0",
+    "text": "Swiss-Mesh-Sat/sos-bridge",
+    "title": "Swiss-Mesh-Sat/sos-bridge",
+    "url": "https://github.com/Swiss-Mesh-Sat/sos-bridge"
+   }
+  },
+  {
+   "key": "Jarnsen/ATAK-Jarnsen-Mrs-Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-04T12:03:22Z",
+    "stars": "0",
+    "text": "Jarnsen/ATAK-Jarnsen-Mrs-Plugin",
+    "title": "Jarnsen/ATAK-Jarnsen-Mrs-Plugin",
+    "url": "https://github.com/Jarnsen/ATAK-Jarnsen-Mrs-Plugin"
+   }
+  },
+  {
+   "key": "shigeki7299/ATAK_Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-04T11:11:15Z",
+    "stars": "0",
+    "text": "shigeki7299/ATAK_Plugin",
+    "title": "shigeki7299/ATAK_Plugin",
+    "url": "https://github.com/shigeki7299/ATAK_Plugin"
+   }
+  },
+  {
    "key": "czediker/RAR-ATAK-Plugin",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-03T21:35:34Z",
+    "date": "2026-10-04T05:32:47Z",
     "stars": "0",
     "text": "czediker/RAR-ATAK-Plugin",
     "title": "czediker/RAR-ATAK-Plugin",
@@ -824,14 +858,15 @@
    }
   },
   {
-   "key": "Jarnsen/ATAK-Jarnsen-Mrs-Plugin",
+   "key": "Crank-Git/ATAKMapDownloader",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-03T16:53:04Z",
-    "stars": "0",
-    "text": "Jarnsen/ATAK-Jarnsen-Mrs-Plugin",
-    "title": "Jarnsen/ATAK-Jarnsen-Mrs-Plugin",
-    "url": "https://github.com/Jarnsen/ATAK-Jarnsen-Mrs-Plugin"
+    "date": "2026-10-04T04:30:51Z",
+    "description": "Download map tiles from various sources and create MBTiles databases for ATAK. Includes CLI tools, web interface, and support for 30+ MOBAC XML map sources.",
+    "stars": "4",
+    "text": "Crank-Git/ATAKMapDownloader",
+    "title": "Crank-Git/ATAKMapDownloader",
+    "url": "https://github.com/Crank-Git/ATAKMapDownloader"
    }
   },
   {
@@ -850,23 +885,12 @@
    "key": "ke8tqb/HBC-ATAK-Plugin",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-02T21:42:38Z",
+    "date": "2026-10-03T23:15:37Z",
     "description": "Implements HBC protocol for a streamline ATAK plugin",
     "stars": "3",
     "text": "ke8tqb/HBC-ATAK-Plugin",
     "title": "ke8tqb/HBC-ATAK-Plugin",
     "url": "https://github.com/ke8tqb/HBC-ATAK-Plugin"
-   }
-  },
-  {
-   "key": "shigeki7299/ATAK_Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-02T09:41:16Z",
-    "stars": "0",
-    "text": "shigeki7299/ATAK_Plugin",
-    "title": "shigeki7299/ATAK_Plugin",
-    "url": "https://github.com/shigeki7299/ATAK_Plugin"
    }
   },
   {
@@ -1129,30 +1153,6 @@
     "text": "takwerx/plss-grid",
     "title": "takwerx/plss-grid",
     "url": "https://github.com/takwerx/plss-grid"
-   }
-  },
-  {
-   "key": "takwerx/cam-depot",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-21T01:56:01Z",
-    "description": "ATAK Plugin: Cam Depot — public traffic and wildfire cameras on the ATAK map, with live video where the agency streams. Downloads, guide and issues here.",
-    "stars": "6",
-    "text": "takwerx/cam-depot",
-    "title": "takwerx/cam-depot",
-    "url": "https://github.com/takwerx/cam-depot"
-   }
-  },
-  {
-   "key": "takwerx/comms",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-21T01:10:35Z",
-    "description": "ATAK Plugin: Comms — mountaintop radio sites, the nets on each and the tone that opens them. Downloads, guide and issues here.",
-    "stars": "3",
-    "text": "takwerx/comms",
-    "title": "takwerx/comms",
-    "url": "https://github.com/takwerx/comms"
    }
   },
   {
