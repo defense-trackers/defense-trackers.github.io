@@ -1,14 +1,26 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-04T12:28:31Z",
+ "fetched_at": "2026-10-04T21:57:49Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "Exonical/tak-rs",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-04T20:50:17Z",
+    "description": "Rust implementation of Team Awareness Kit",
+    "stars": "0",
+    "text": "Exonical/tak-rs",
+    "title": "Exonical/tak-rs",
+    "url": "https://github.com/Exonical/tak-rs"
+   }
+  },
   {
    "key": "rixau/atak-reactive",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-04T04:12:59Z",
+    "date": "2026-10-04T17:59:23Z",
     "description": "Build ATAK (Android Team Awareness Kit) plugin UIs with React and TypeScript. Typed WebView bridge, hot reload, incremental adoption.",
     "stars": "2",
     "text": "rixau/atak-reactive",
@@ -353,18 +365,6 @@
    }
   },
   {
-   "key": "clptak/node-red-contrib-tfr2cot",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2025-03-30T14:13:42Z",
-    "description": "Requests TFR List for a given state from https://tfr.faa.gov/ and creates cursor-on-target (CoT) polygon messages sent to a Team Awareness Kit (TAK) Server or network",
-    "stars": "1",
-    "text": "clptak/node-red-contrib-tfr2cot",
-    "title": "clptak/node-red-contrib-tfr2cot",
-    "url": "https://github.com/clptak/node-red-contrib-tfr2cot"
-   }
-  },
-  {
    "key": "FreeTAKTeam/FreeTakServer",
    "source": "tak-freetak",
    "fields": {
@@ -640,7 +640,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-09-30T20:24:11Z",
+    "date": "2026-10-04T19:48:35Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "110",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-03T14:41:34Z",
+    "date": "2026-10-04T21:57:21Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "38",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -813,26 +813,37 @@
    }
   },
   {
-   "key": "Swiss-Mesh-Sat/sos-bridge",
+   "key": "czediker/RAR-ATAK-Plugin",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-04T12:28:17Z",
-    "description": "ATAK-CIV plugin that triggers the ATAK emergency alert from SOS Flashlight: two taps to alert your team over the TAK network, including Meshtastic.",
+    "date": "2026-10-04T21:22:45Z",
     "stars": "0",
-    "text": "Swiss-Mesh-Sat/sos-bridge",
-    "title": "Swiss-Mesh-Sat/sos-bridge",
-    "url": "https://github.com/Swiss-Mesh-Sat/sos-bridge"
+    "text": "czediker/RAR-ATAK-Plugin",
+    "title": "czediker/RAR-ATAK-Plugin",
+    "url": "https://github.com/czediker/RAR-ATAK-Plugin"
    }
   },
   {
    "key": "Jarnsen/ATAK-Jarnsen-Mrs-Plugin",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-04T12:03:22Z",
+    "date": "2026-10-04T18:00:40Z",
     "stars": "0",
     "text": "Jarnsen/ATAK-Jarnsen-Mrs-Plugin",
     "title": "Jarnsen/ATAK-Jarnsen-Mrs-Plugin",
     "url": "https://github.com/Jarnsen/ATAK-Jarnsen-Mrs-Plugin"
+   }
+  },
+  {
+   "key": "Swiss-Mesh-Sat/sos-bridge",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-04T14:24:02Z",
+    "description": "ATAK-CIV plugin that triggers the ATAK emergency alert from SOS Flashlight: two taps to alert your team over the TAK network, including Meshtastic.",
+    "stars": "0",
+    "text": "Swiss-Mesh-Sat/sos-bridge",
+    "title": "Swiss-Mesh-Sat/sos-bridge",
+    "url": "https://github.com/Swiss-Mesh-Sat/sos-bridge"
    }
   },
   {
@@ -844,17 +855,6 @@
     "text": "shigeki7299/ATAK_Plugin",
     "title": "shigeki7299/ATAK_Plugin",
     "url": "https://github.com/shigeki7299/ATAK_Plugin"
-   }
-  },
-  {
-   "key": "czediker/RAR-ATAK-Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-04T05:32:47Z",
-    "stars": "0",
-    "text": "czediker/RAR-ATAK-Plugin",
-    "title": "czediker/RAR-ATAK-Plugin",
-    "url": "https://github.com/czediker/RAR-ATAK-Plugin"
    }
   },
   {
@@ -922,7 +922,7 @@
    "source": "tak-github",
    "fields": {
     "date": "2026-10-01T06:23:13Z",
-    "stars": "1",
+    "stars": "2",
     "text": "Ascent-Integrated-Tech/WearTAK-ATAK-Plugin",
     "title": "Ascent-Integrated-Tech/WearTAK-ATAK-Plugin",
     "url": "https://github.com/Ascent-Integrated-Tech/WearTAK-ATAK-Plugin"
@@ -932,7 +932,7 @@
    "key": "clptak/cloudtak-plugin-search-containment",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-03T19:02:25Z",
+    "date": "2026-10-04T16:02:06Z",
     "description": "Plugin to behave similar to ATAK's Chokepoint.  Leverages OSM  layer in CloudTAK to identify containment points at travel corridors to contain a search area.",
     "stars": "1",
     "text": "clptak/cloudtak-plugin-search-containment",
