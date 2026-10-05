@@ -1,9 +1,45 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-04T21:57:49Z",
+ "fetched_at": "2026-10-05T14:49:19Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "engindearing-projects/OmniTAK-iOS",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-05T13:14:05Z",
+    "description": "Open-source TAK (Team Awareness Kit) client for iPhone and iPad. Swift + SwiftUI. Apache 2.0.",
+    "stars": "9",
+    "text": "engindearing-projects/OmniTAK-iOS",
+    "title": "engindearing-projects/OmniTAK-iOS",
+    "url": "https://github.com/engindearing-projects/OmniTAK-iOS"
+   }
+  },
+  {
+   "key": "engindearing-projects/OmniTAK-Android",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-05T13:03:43Z",
+    "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
+    "stars": "22",
+    "text": "engindearing-projects/OmniTAK-Android",
+    "title": "engindearing-projects/OmniTAK-Android",
+    "url": "https://github.com/engindearing-projects/OmniTAK-Android"
+   }
+  },
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-05T02:14:24Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "82",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
   {
    "key": "Exonical/tak-rs",
    "source": "tak-cot",
@@ -26,42 +62,6 @@
     "text": "rixau/atak-reactive",
     "title": "rixau/atak-reactive",
     "url": "https://github.com/rixau/atak-reactive"
-   }
-  },
-  {
-   "key": "engindearing-projects/OmniTAK-iOS",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-10-04T09:04:27Z",
-    "description": "Open-source TAK (Team Awareness Kit) client for iPhone and iPad. Swift + SwiftUI. Apache 2.0.",
-    "stars": "9",
-    "text": "engindearing-projects/OmniTAK-iOS",
-    "title": "engindearing-projects/OmniTAK-iOS",
-    "url": "https://github.com/engindearing-projects/OmniTAK-iOS"
-   }
-  },
-  {
-   "key": "engindearing-projects/OmniTAK-Android",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-10-04T05:23:39Z",
-    "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
-    "stars": "22",
-    "text": "engindearing-projects/OmniTAK-Android",
-    "title": "engindearing-projects/OmniTAK-Android",
-    "url": "https://github.com/engindearing-projects/OmniTAK-Android"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-10-04T01:53:40Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "82",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -640,9 +640,9 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-04T19:48:35Z",
+    "date": "2026-10-05T14:44:46Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
-    "stars": "110",
+    "stars": "109",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
     "title": "FreeTAKTeam/Reticulum-Community-Hub",
     "url": "https://github.com/FreeTAKTeam/Reticulum-Community-Hub"
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/staged-recipes",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-02T23:59:16Z",
+    "date": "2026-10-05T14:05:32Z",
     "description": "A place to submit conda recipes before they become fully fledged conda-forge feedstocks",
     "stars": "0",
     "text": "FreeTAKTeam/staged-recipes",
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-04T21:57:21Z",
+    "date": "2026-10-05T14:09:30Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "38",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -813,21 +813,21 @@
    }
   },
   {
-   "key": "czediker/RAR-ATAK-Plugin",
+   "key": "shigeki7299/ATAK_Plugin",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-04T21:22:45Z",
+    "date": "2026-10-05T14:36:36Z",
     "stars": "0",
-    "text": "czediker/RAR-ATAK-Plugin",
-    "title": "czediker/RAR-ATAK-Plugin",
-    "url": "https://github.com/czediker/RAR-ATAK-Plugin"
+    "text": "shigeki7299/ATAK_Plugin",
+    "title": "shigeki7299/ATAK_Plugin",
+    "url": "https://github.com/shigeki7299/ATAK_Plugin"
    }
   },
   {
    "key": "Jarnsen/ATAK-Jarnsen-Mrs-Plugin",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-04T18:00:40Z",
+    "date": "2026-10-05T12:35:13Z",
     "stars": "0",
     "text": "Jarnsen/ATAK-Jarnsen-Mrs-Plugin",
     "title": "Jarnsen/ATAK-Jarnsen-Mrs-Plugin",
@@ -838,7 +838,7 @@
    "key": "Swiss-Mesh-Sat/sos-bridge",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-04T14:24:02Z",
+    "date": "2026-10-05T01:14:59Z",
     "description": "ATAK-CIV plugin that triggers the ATAK emergency alert from SOS Flashlight: two taps to alert your team over the TAK network, including Meshtastic.",
     "stars": "0",
     "text": "Swiss-Mesh-Sat/sos-bridge",
@@ -847,14 +847,14 @@
    }
   },
   {
-   "key": "shigeki7299/ATAK_Plugin",
+   "key": "czediker/RAR-ATAK-Plugin",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-04T11:11:15Z",
+    "date": "2026-10-04T21:57:58Z",
     "stars": "0",
-    "text": "shigeki7299/ATAK_Plugin",
-    "title": "shigeki7299/ATAK_Plugin",
-    "url": "https://github.com/shigeki7299/ATAK_Plugin"
+    "text": "czediker/RAR-ATAK-Plugin",
+    "title": "czediker/RAR-ATAK-Plugin",
+    "url": "https://github.com/czediker/RAR-ATAK-Plugin"
    }
   },
   {
@@ -922,7 +922,7 @@
    "source": "tak-github",
    "fields": {
     "date": "2026-10-01T06:23:13Z",
-    "stars": "2",
+    "stars": "3",
     "text": "Ascent-Integrated-Tech/WearTAK-ATAK-Plugin",
     "title": "Ascent-Integrated-Tech/WearTAK-ATAK-Plugin",
     "url": "https://github.com/Ascent-Integrated-Tech/WearTAK-ATAK-Plugin"
@@ -932,7 +932,7 @@
    "key": "clptak/cloudtak-plugin-search-containment",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-04T16:02:06Z",
+    "date": "2026-10-04T23:25:39Z",
     "description": "Plugin to behave similar to ATAK's Chokepoint.  Leverages OSM  layer in CloudTAK to identify containment points at travel corridors to contain a search area.",
     "stars": "1",
     "text": "clptak/cloudtak-plugin-search-containment",
