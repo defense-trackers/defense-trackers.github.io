@@ -1,14 +1,26 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-05T14:49:19Z",
+ "fetched_at": "2026-10-06T00:21:27Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "engindearing-projects/OmniTAK-Android",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-05T16:59:17Z",
+    "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
+    "stars": "23",
+    "text": "engindearing-projects/OmniTAK-Android",
+    "title": "engindearing-projects/OmniTAK-Android",
+    "url": "https://github.com/engindearing-projects/OmniTAK-Android"
+   }
+  },
   {
    "key": "engindearing-projects/OmniTAK-iOS",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-05T13:14:05Z",
+    "date": "2026-10-05T22:04:22Z",
     "description": "Open-source TAK (Team Awareness Kit) client for iPhone and iPad. Swift + SwiftUI. Apache 2.0.",
     "stars": "9",
     "text": "engindearing-projects/OmniTAK-iOS",
@@ -17,22 +29,10 @@
    }
   },
   {
-   "key": "engindearing-projects/OmniTAK-Android",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-10-05T13:03:43Z",
-    "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
-    "stars": "22",
-    "text": "engindearing-projects/OmniTAK-Android",
-    "title": "engindearing-projects/OmniTAK-Android",
-    "url": "https://github.com/engindearing-projects/OmniTAK-Android"
-   }
-  },
-  {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-05T02:14:24Z",
+    "date": "2026-10-05T22:26:09Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "82",
     "text": "takwerx/infra-TAK",
@@ -640,7 +640,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-05T14:44:46Z",
+    "date": "2026-10-05T21:45:10Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "109",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/staged-recipes",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-05T14:05:32Z",
+    "date": "2026-10-05T18:09:43Z",
     "description": "A place to submit conda recipes before they become fully fledged conda-forge feedstocks",
     "stars": "0",
     "text": "FreeTAKTeam/staged-recipes",
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-05T14:09:30Z",
+    "date": "2026-10-05T20:37:48Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "38",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -813,10 +813,22 @@
    }
   },
   {
+   "key": "anniekatz/nav-with",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-05T22:35:49Z",
+    "description": "\"Navigate with...\" ATAK plugin",
+    "stars": "0",
+    "text": "anniekatz/nav-with",
+    "title": "anniekatz/nav-with",
+    "url": "https://github.com/anniekatz/nav-with"
+   }
+  },
+  {
    "key": "shigeki7299/ATAK_Plugin",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-05T14:36:36Z",
+    "date": "2026-10-05T15:07:14Z",
     "stars": "0",
     "text": "shigeki7299/ATAK_Plugin",
     "title": "shigeki7299/ATAK_Plugin",
@@ -1049,6 +1061,18 @@
    }
   },
   {
+   "key": "arachne-systems/arachne-atak",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-09-27T07:36:41Z",
+    "description": "Arachne ATAK plugin: a secure mesh between ATAK devices",
+    "stars": "2",
+    "text": "arachne-systems/arachne-atak",
+    "title": "arachne-systems/arachne-atak",
+    "url": "https://github.com/arachne-systems/arachne-atak"
+   }
+  },
+  {
    "key": "takwerx/traffic",
    "source": "tak-github",
    "fields": {
@@ -1082,18 +1106,6 @@
     "text": "jxtngx/cursor-kotlin-factory",
     "title": "jxtngx/cursor-kotlin-factory",
     "url": "https://github.com/jxtngx/cursor-kotlin-factory"
-   }
-  },
-  {
-   "key": "arachne-systems/arachne-atak",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-27T07:36:41Z",
-    "description": "Arachne ATAK plugin: a secure mesh between ATAK devices",
-    "stars": "1",
-    "text": "arachne-systems/arachne-atak",
-    "title": "arachne-systems/arachne-atak",
-    "url": "https://github.com/arachne-systems/arachne-atak"
    }
   },
   {
@@ -1141,18 +1153,6 @@
     "text": "takwerx/dozer-country",
     "title": "takwerx/dozer-country",
     "url": "https://github.com/takwerx/dozer-country"
-   }
-  },
-  {
-   "key": "takwerx/plss-grid",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-21T02:11:41Z",
-    "description": "ATAK Plugin: PLSS Grid — township, range and section overlay from BLM survey data. Downloads, guide and issues here.",
-    "stars": "3",
-    "text": "takwerx/plss-grid",
-    "title": "takwerx/plss-grid",
-    "url": "https://github.com/takwerx/plss-grid"
    }
   },
   {

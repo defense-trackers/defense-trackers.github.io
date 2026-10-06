@@ -2,8 +2,8 @@
  "ai-spending-contracts": {
   "tracker": "ai-spending",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:47:43Z",
-  "last_success": "2026-10-05T14:47:43Z",
+  "last_attempt": "2026-10-06T00:19:52Z",
+  "last_success": "2026-10-06T00:19:52Z",
   "cadence_hours": 168,
   "count": 50,
   "message": "+0 -0 ~0"
@@ -11,8 +11,8 @@
  "ai-spending-recipients": {
   "tracker": "ai-spending",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:47:44Z",
-  "last_success": "2026-10-05T14:47:44Z",
+  "last_attempt": "2026-10-06T00:19:53Z",
+  "last_success": "2026-10-06T00:19:53Z",
   "cadence_hours": 168,
   "count": 50,
   "message": "+49 -0 ~0"
@@ -20,8 +20,8 @@
  "ai-spending-subagency": {
   "tracker": "ai-spending",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:47:46Z",
-  "last_success": "2026-10-05T14:47:46Z",
+  "last_attempt": "2026-10-06T00:19:55Z",
+  "last_success": "2026-10-06T00:19:55Z",
   "cadence_hours": 168,
   "count": 14,
   "message": "+14 -0 ~0"
@@ -29,8 +29,8 @@
  "authorizations-fedramp": {
   "tracker": "authorizations",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:47:47Z",
-  "last_success": "2026-10-05T14:47:47Z",
+  "last_attempt": "2026-10-06T00:19:56Z",
+  "last_success": "2026-10-06T00:19:56Z",
   "cadence_hours": 24,
   "count": 3,
   "message": "+0 -0 ~0"
@@ -38,8 +38,8 @@
  "authorizations-fedramp-ai": {
   "tracker": "authorizations",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:47:48Z",
-  "last_success": "2026-10-05T14:47:48Z",
+  "last_attempt": "2026-10-06T00:19:58Z",
+  "last_success": "2026-10-06T00:19:58Z",
   "cadence_hours": 24,
   "count": 182,
   "message": "+6 -0 ~0"
@@ -47,8 +47,8 @@
  "blue-uas-cleared": {
   "tracker": "blue-uas",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:47:48Z",
-  "last_success": "2026-10-05T14:47:48Z",
+  "last_attempt": "2026-10-06T00:19:58Z",
+  "last_success": "2026-10-06T00:19:58Z",
   "cadence_hours": 168,
   "count": 10,
   "message": "+9 -0 ~0"
@@ -56,8 +56,8 @@
  "blue-uas-parts": {
   "tracker": "blue-uas",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:47:48Z",
-  "last_success": "2026-10-05T14:47:48Z",
+  "last_attempt": "2026-10-06T00:19:58Z",
+  "last_success": "2026-10-06T00:19:58Z",
   "cadence_hours": 168,
   "count": 16,
   "message": "+15 -0 ~0"
@@ -65,8 +65,8 @@
  "deadlines-events": {
   "tracker": "deadlines",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:47:48Z",
-  "last_success": "2026-10-05T14:47:48Z",
+  "last_attempt": "2026-10-06T00:19:58Z",
+  "last_success": "2026-10-06T00:19:58Z",
   "cadence_hours": 168,
   "count": 5,
   "message": "+0 -0 ~0"
@@ -74,17 +74,17 @@
  "deadlines-solicitations": {
   "tracker": "deadlines",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:49:21Z",
-  "last_success": "2026-10-05T14:49:21Z",
+  "last_attempt": "2026-10-06T00:21:29Z",
+  "last_success": "2026-10-06T00:21:29Z",
   "cadence_hours": 24,
-  "count": 39,
-  "message": "+0 -0 ~0"
+  "count": 38,
+  "message": "+0 -1 ~0"
  },
  "model-ops-gov": {
   "tracker": "model-ops",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:47:48Z",
-  "last_success": "2026-10-05T14:47:48Z",
+  "last_attempt": "2026-10-06T00:19:58Z",
+  "last_success": "2026-10-06T00:19:58Z",
   "cadence_hours": 168,
   "count": 4,
   "message": "+3 -0 ~0"
@@ -92,26 +92,26 @@
  "model-ops-hf": {
   "tracker": "model-ops",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:47:50Z",
-  "last_success": "2026-10-05T14:47:50Z",
+  "last_attempt": "2026-10-06T00:19:59Z",
+  "last_success": "2026-10-06T00:19:59Z",
   "cadence_hours": 24,
   "count": 39,
-  "message": "+0 -1 ~39"
+  "message": "+0 -0 ~14"
  },
  "model-ops-llamacpp": {
   "tracker": "model-ops",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:47:53Z",
-  "last_success": "2026-10-05T14:47:53Z",
+  "last_attempt": "2026-10-06T00:20:02Z",
+  "last_success": "2026-10-06T00:20:02Z",
   "cadence_hours": 24,
   "count": 8,
-  "message": "+8 -8 ~0"
+  "message": "+5 -5 ~0"
  },
  "model-ops-mlc": {
   "tracker": "model-ops",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:47:55Z",
-  "last_success": "2026-10-05T14:47:55Z",
+  "last_attempt": "2026-10-06T00:20:04Z",
+  "last_success": "2026-10-06T00:20:04Z",
   "cadence_hours": 24,
   "count": 1,
   "message": "+0 -0 ~0"
@@ -119,17 +119,17 @@
  "model-ops-ollama": {
   "tracker": "model-ops",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:47:58Z",
-  "last_success": "2026-10-05T14:47:58Z",
+  "last_attempt": "2026-10-06T00:20:07Z",
+  "last_success": "2026-10-06T00:20:07Z",
   "cadence_hours": 24,
   "count": 8,
-  "message": "+1 -1 ~0"
+  "message": "+0 -0 ~0"
  },
  "model-ops-sglang": {
   "tracker": "model-ops",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:48:00Z",
-  "last_success": "2026-10-05T14:48:00Z",
+  "last_attempt": "2026-10-06T00:20:10Z",
+  "last_success": "2026-10-06T00:20:10Z",
   "cadence_hours": 24,
   "count": 8,
   "message": "+0 -0 ~0"
@@ -137,8 +137,8 @@
  "model-ops-tensorrt": {
   "tracker": "model-ops",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:48:03Z",
-  "last_success": "2026-10-05T14:48:03Z",
+  "last_attempt": "2026-10-06T00:20:12Z",
+  "last_success": "2026-10-06T00:20:12Z",
   "cadence_hours": 24,
   "count": 8,
   "message": "+0 -0 ~0"
@@ -146,8 +146,8 @@
  "model-ops-tgi": {
   "tracker": "model-ops",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:48:05Z",
-  "last_success": "2026-10-05T14:48:05Z",
+  "last_attempt": "2026-10-06T00:20:15Z",
+  "last_success": "2026-10-06T00:20:15Z",
   "cadence_hours": 24,
   "count": 8,
   "message": "+0 -0 ~0"
@@ -155,17 +155,17 @@
  "model-ops-vllm": {
   "tracker": "model-ops",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:48:08Z",
-  "last_success": "2026-10-05T14:48:08Z",
+  "last_attempt": "2026-10-06T00:20:17Z",
+  "last_success": "2026-10-06T00:20:17Z",
   "cadence_hours": 24,
   "count": 8,
-  "message": "+1 -1 ~0"
+  "message": "+0 -0 ~0"
  },
  "nipr-matrix": {
   "tracker": "nipr-matrix",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:48:08Z",
-  "last_success": "2026-10-05T14:48:08Z",
+  "last_attempt": "2026-10-06T00:20:17Z",
+  "last_success": "2026-10-06T00:20:17Z",
   "cadence_hours": 168,
   "count": 13,
   "message": "+11 -0 ~0"
@@ -173,17 +173,17 @@
  "oss-cisagov": {
   "tracker": "oss-index",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:48:13Z",
-  "last_success": "2026-10-05T14:48:13Z",
+  "last_attempt": "2026-10-06T00:20:22Z",
+  "last_success": "2026-10-06T00:20:22Z",
   "cadence_hours": 24,
   "count": 47,
-  "message": "+0 -0 ~1"
+  "message": "+0 -0 ~3"
  },
  "oss-idaholab": {
   "tracker": "oss-index",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:48:16Z",
-  "last_success": "2026-10-05T14:48:16Z",
+  "last_attempt": "2026-10-06T00:20:25Z",
+  "last_success": "2026-10-06T00:20:25Z",
   "cadence_hours": 24,
   "count": 11,
   "message": "+0 -0 ~1"
@@ -191,53 +191,53 @@
  "oss-lanl": {
   "tracker": "oss-index",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:48:20Z",
-  "last_success": "2026-10-05T14:48:20Z",
+  "last_attempt": "2026-10-06T00:20:28Z",
+  "last_success": "2026-10-06T00:20:28Z",
   "cadence_hours": 24,
   "count": 3,
-  "message": "+0 -0 ~0"
+  "message": "+0 -0 ~1"
  },
  "oss-llnl": {
   "tracker": "oss-index",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:48:24Z",
-  "last_success": "2026-10-05T14:48:24Z",
+  "last_attempt": "2026-10-06T00:20:31Z",
+  "last_success": "2026-10-06T00:20:31Z",
   "cadence_hours": 24,
   "count": 11,
-  "message": "+0 -0 ~1"
+  "message": "+0 -0 ~4"
  },
  "oss-mitre": {
   "tracker": "oss-index",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:48:27Z",
-  "last_success": "2026-10-05T14:48:27Z",
+  "last_attempt": "2026-10-06T00:20:35Z",
+  "last_success": "2026-10-06T00:20:35Z",
   "cadence_hours": 24,
   "count": 9,
-  "message": "+0 -0 ~0"
+  "message": "+0 -0 ~1"
  },
  "oss-nasa": {
   "tracker": "oss-index",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:48:31Z",
-  "last_success": "2026-10-05T14:48:31Z",
+  "last_attempt": "2026-10-06T00:20:38Z",
+  "last_success": "2026-10-06T00:20:38Z",
   "cadence_hours": 24,
   "count": 11,
-  "message": "+0 -0 ~5"
+  "message": "+0 -0 ~4"
  },
  "oss-ngageoint": {
   "tracker": "oss-index",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:48:35Z",
-  "last_success": "2026-10-05T14:48:35Z",
+  "last_attempt": "2026-10-06T00:20:44Z",
+  "last_success": "2026-10-06T00:20:44Z",
   "cadence_hours": 24,
   "count": 7,
-  "message": "+0 -0 ~1"
+  "message": "+0 -0 ~2"
  },
  "oss-nsacyber": {
   "tracker": "oss-index",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:48:38Z",
-  "last_success": "2026-10-05T14:48:38Z",
+  "last_attempt": "2026-10-06T00:20:47Z",
+  "last_success": "2026-10-06T00:20:47Z",
   "cadence_hours": 24,
   "count": 4,
   "message": "+0 -0 ~0"
@@ -245,17 +245,17 @@
  "oss-ornl": {
   "tracker": "oss-index",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:48:41Z",
-  "last_success": "2026-10-05T14:48:41Z",
+  "last_attempt": "2026-10-06T00:20:50Z",
+  "last_success": "2026-10-06T00:20:50Z",
   "cadence_hours": 24,
   "count": 11,
-  "message": "+0 -0 ~1"
+  "message": "+0 -0 ~2"
  },
  "oss-sandialabs": {
   "tracker": "oss-index",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:48:45Z",
-  "last_success": "2026-10-05T14:48:45Z",
+  "last_attempt": "2026-10-06T00:20:53Z",
+  "last_success": "2026-10-06T00:20:53Z",
   "cadence_hours": 24,
   "count": 8,
   "message": "+0 -0 ~0"
@@ -263,8 +263,8 @@
  "oss-usnistgov": {
   "tracker": "oss-index",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:48:48Z",
-  "last_success": "2026-10-05T14:48:48Z",
+  "last_attempt": "2026-10-06T00:20:57Z",
+  "last_success": "2026-10-06T00:20:57Z",
   "cadence_hours": 24,
   "count": 3,
   "message": "+0 -0 ~0"
@@ -272,8 +272,8 @@
  "pipeline-autonomy": {
   "tracker": "pipeline",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:48:50Z",
-  "last_success": "2026-10-05T14:48:50Z",
+  "last_attempt": "2026-10-06T00:20:58Z",
+  "last_success": "2026-10-06T00:20:58Z",
   "cadence_hours": 24,
   "count": 6,
   "message": "+2 -0 ~0"
@@ -281,8 +281,8 @@
  "pipeline-comms": {
   "tracker": "pipeline",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:48:51Z",
-  "last_success": "2026-10-05T14:48:51Z",
+  "last_attempt": "2026-10-06T00:20:59Z",
+  "last_success": "2026-10-06T00:20:59Z",
   "cadence_hours": 24,
   "count": 15,
   "message": "+12 -0 ~0"
@@ -290,17 +290,17 @@
  "pipeline-cyber": {
   "tracker": "pipeline",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:48:52Z",
-  "last_success": "2026-10-05T14:48:52Z",
+  "last_attempt": "2026-10-06T00:21:00Z",
+  "last_success": "2026-10-06T00:21:00Z",
   "cadence_hours": 24,
-  "count": 2,
-  "message": "+0 -0 ~0"
+  "count": 1,
+  "message": "+0 -1 ~0"
  },
  "pipeline-grants": {
   "tracker": "pipeline",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:48:53Z",
-  "last_success": "2026-10-05T14:48:53Z",
+  "last_attempt": "2026-10-06T00:21:02Z",
+  "last_success": "2026-10-06T00:21:02Z",
   "cadence_hours": 24,
   "count": 36,
   "message": "+10 -0 ~0"
@@ -308,8 +308,8 @@
  "pipeline-logistics": {
   "tracker": "pipeline",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:48:54Z",
-  "last_success": "2026-10-05T14:48:54Z",
+  "last_attempt": "2026-10-06T00:21:03Z",
+  "last_success": "2026-10-06T00:21:03Z",
   "cadence_hours": 24,
   "count": 25,
   "message": "+18 -0 ~0"
@@ -317,8 +317,8 @@
  "pipeline-ml": {
   "tracker": "pipeline",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:48:56Z",
-  "last_success": "2026-10-05T14:48:56Z",
+  "last_attempt": "2026-10-06T00:21:04Z",
+  "last_success": "2026-10-06T00:21:04Z",
   "cadence_hours": 24,
   "count": 23,
   "message": "+20 -0 ~0"
@@ -326,40 +326,40 @@
  "pipeline-sam-ai": {
   "tracker": "pipeline",
   "state": "degraded",
-  "last_attempt": "2026-10-05T14:48:58Z",
+  "last_attempt": "2026-10-06T00:21:06Z",
   "last_success": "2026-09-09T21:12:18Z",
   "cadence_hours": 24,
-  "message": "http 401 from https://api.sam.gov/prod/opportunities/v2/search?limit=100\u0026postedFrom=04%2F08%2F2026\u0026postedTo=10%2F05%2F2026\u0026title=artificial+intelligence"
+  "message": "http 401 from https://api.sam.gov/prod/opportunities/v2/search?limit=100\u0026postedFrom=04%2F09%2F2026\u0026postedTo=10%2F06%2F2026\u0026title=artificial+intelligence"
  },
  "pipeline-sam-autonomy": {
   "tracker": "pipeline",
   "state": "degraded",
-  "last_attempt": "2026-10-05T14:48:59Z",
+  "last_attempt": "2026-10-06T00:21:07Z",
   "last_success": "2026-09-09T21:12:20Z",
   "cadence_hours": 24,
-  "message": "http 401 from https://api.sam.gov/prod/opportunities/v2/search?limit=100\u0026postedFrom=04%2F08%2F2026\u0026postedTo=10%2F05%2F2026\u0026title=autonomous"
+  "message": "http 401 from https://api.sam.gov/prod/opportunities/v2/search?limit=100\u0026postedFrom=04%2F09%2F2026\u0026postedTo=10%2F06%2F2026\u0026title=autonomous"
  },
  "pipeline-sam-mesh": {
   "tracker": "pipeline",
   "state": "degraded",
-  "last_attempt": "2026-10-05T14:49:01Z",
+  "last_attempt": "2026-10-06T00:21:09Z",
   "last_success": "2026-09-09T21:12:22Z",
   "cadence_hours": 24,
-  "message": "http 401 from https://api.sam.gov/prod/opportunities/v2/search?limit=100\u0026postedFrom=04%2F08%2F2026\u0026postedTo=10%2F05%2F2026\u0026title=mesh+network"
+  "message": "http 401 from https://api.sam.gov/prod/opportunities/v2/search?limit=100\u0026postedFrom=04%2F09%2F2026\u0026postedTo=10%2F06%2F2026\u0026title=mesh+network"
  },
  "pipeline-sam-unmanned": {
   "tracker": "pipeline",
   "state": "degraded",
-  "last_attempt": "2026-10-05T14:49:02Z",
+  "last_attempt": "2026-10-06T00:21:10Z",
   "last_success": "2026-09-09T21:12:24Z",
   "cadence_hours": 24,
-  "message": "http 401 from https://api.sam.gov/prod/opportunities/v2/search?limit=100\u0026postedFrom=04%2F08%2F2026\u0026postedTo=10%2F05%2F2026\u0026title=unmanned"
+  "message": "http 401 from https://api.sam.gov/prod/opportunities/v2/search?limit=100\u0026postedFrom=04%2F09%2F2026\u0026postedTo=10%2F06%2F2026\u0026title=unmanned"
  },
  "pipeline-unmanned": {
   "tracker": "pipeline",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:49:03Z",
-  "last_success": "2026-10-05T14:49:03Z",
+  "last_attempt": "2026-10-06T00:21:12Z",
+  "last_success": "2026-10-06T00:21:12Z",
   "cadence_hours": 24,
   "count": 7,
   "message": "+6 -0 ~0"
@@ -367,8 +367,8 @@
  "policy-eo": {
   "tracker": "policy",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:49:05Z",
-  "last_success": "2026-10-05T14:49:05Z",
+  "last_attempt": "2026-10-06T00:21:13Z",
+  "last_success": "2026-10-06T00:21:13Z",
   "cadence_hours": 24,
   "count": 7,
   "message": "+6 -0 ~0"
@@ -376,8 +376,8 @@
  "policy-fedreg": {
   "tracker": "policy",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:49:07Z",
-  "last_success": "2026-10-05T14:49:07Z",
+  "last_attempt": "2026-10-06T00:21:15Z",
+  "last_success": "2026-10-06T00:21:15Z",
   "cadence_hours": 24,
   "count": 61,
   "message": "+0 -0 ~0"
@@ -385,8 +385,8 @@
  "programs": {
   "tracker": "programs",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:49:07Z",
-  "last_success": "2026-10-05T14:49:07Z",
+  "last_attempt": "2026-10-06T00:21:16Z",
+  "last_success": "2026-10-06T00:21:16Z",
   "cadence_hours": 168,
   "count": 16,
   "message": "+4 -0 ~0"
@@ -394,17 +394,17 @@
  "research-nsf": {
   "tracker": "research-funding",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:49:09Z",
-  "last_success": "2026-10-05T14:49:09Z",
+  "last_attempt": "2026-10-06T00:21:18Z",
+  "last_success": "2026-10-06T00:21:18Z",
   "cadence_hours": 168,
-  "count": 11,
-  "message": "+1 -1 ~0"
+  "count": 9,
+  "message": "+2 -4 ~0"
  },
  "tak-cot": {
   "tracker": "tak",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:49:13Z",
-  "last_success": "2026-10-05T14:49:13Z",
+  "last_attempt": "2026-10-06T00:21:21Z",
+  "last_success": "2026-10-06T00:21:21Z",
   "cadence_hours": 24,
   "count": 30,
   "message": "+0 -0 ~3"
@@ -412,8 +412,8 @@
  "tak-freetak": {
   "tracker": "tak",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:49:16Z",
-  "last_success": "2026-10-05T14:49:16Z",
+  "last_attempt": "2026-10-06T00:21:24Z",
+  "last_success": "2026-10-06T00:21:24Z",
   "cadence_hours": 24,
   "count": 38,
   "message": "+0 -0 ~3"
@@ -421,17 +421,17 @@
  "tak-github": {
   "tracker": "tak",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:49:19Z",
-  "last_success": "2026-10-05T14:49:19Z",
+  "last_attempt": "2026-10-06T00:21:26Z",
+  "last_success": "2026-10-06T00:21:26Z",
   "cadence_hours": 24,
   "count": 30,
-  "message": "+1 -0 ~6"
+  "message": "+2 -1 ~2"
  },
  "tak-sdk-compat": {
   "tracker": "tak",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:49:19Z",
-  "last_success": "2026-10-05T14:49:19Z",
+  "last_attempt": "2026-10-06T00:21:27Z",
+  "last_success": "2026-10-06T00:21:27Z",
   "cadence_hours": 168,
   "count": 3,
   "message": "+2 -0 ~0"
@@ -439,8 +439,8 @@
  "transition-prototype": {
   "tracker": "transition",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:49:20Z",
-  "last_success": "2026-10-05T14:49:20Z",
+  "last_attempt": "2026-10-06T00:21:28Z",
+  "last_success": "2026-10-06T00:21:28Z",
   "cadence_hours": 168,
   "count": 50,
   "message": "+0 -0 ~0"
@@ -448,8 +448,8 @@
  "transition-usaspending": {
   "tracker": "transition",
   "state": "ok",
-  "last_attempt": "2026-10-05T14:49:21Z",
-  "last_success": "2026-10-05T14:49:21Z",
+  "last_attempt": "2026-10-06T00:21:29Z",
+  "last_success": "2026-10-06T00:21:29Z",
   "cadence_hours": 168,
   "count": 50,
   "message": "+0 -0 ~0"
