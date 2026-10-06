@@ -1,26 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-06T00:21:27Z",
+ "fetched_at": "2026-10-06T13:24:15Z",
  "schema_version": 1,
  "records": [
-  {
-   "key": "engindearing-projects/OmniTAK-Android",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-10-05T16:59:17Z",
-    "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
-    "stars": "23",
-    "text": "engindearing-projects/OmniTAK-Android",
-    "title": "engindearing-projects/OmniTAK-Android",
-    "url": "https://github.com/engindearing-projects/OmniTAK-Android"
-   }
-  },
   {
    "key": "engindearing-projects/OmniTAK-iOS",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-05T22:04:22Z",
+    "date": "2026-10-06T02:49:35Z",
     "description": "Open-source TAK (Team Awareness Kit) client for iPhone and iPad. Swift + SwiftUI. Apache 2.0.",
     "stars": "9",
     "text": "engindearing-projects/OmniTAK-iOS",
@@ -32,12 +20,24 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-05T22:26:09Z",
+    "date": "2026-10-06T01:20:27Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "82",
     "text": "takwerx/infra-TAK",
     "title": "takwerx/infra-TAK",
     "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
+  {
+   "key": "engindearing-projects/OmniTAK-Android",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-06T03:12:05Z",
+    "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
+    "stars": "23",
+    "text": "engindearing-projects/OmniTAK-Android",
+    "title": "engindearing-projects/OmniTAK-Android",
+    "url": "https://github.com/engindearing-projects/OmniTAK-Android"
    }
   },
   {
@@ -640,7 +640,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-05T21:45:10Z",
+    "date": "2026-10-06T13:00:07Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "109",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-05T20:37:48Z",
+    "date": "2026-10-06T12:53:58Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "38",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -758,7 +758,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-09-30T14:09:20Z",
+    "date": "2026-10-06T12:33:18Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "31",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -813,6 +813,41 @@
    }
   },
   {
+   "key": "Jarnsen/ATAK-Jarnsen-Mrs-Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-06T07:38:28Z",
+    "stars": "0",
+    "text": "Jarnsen/ATAK-Jarnsen-Mrs-Plugin",
+    "title": "Jarnsen/ATAK-Jarnsen-Mrs-Plugin",
+    "url": "https://github.com/Jarnsen/ATAK-Jarnsen-Mrs-Plugin"
+   }
+  },
+  {
+   "key": "takwerx/cam-depot",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-06T02:56:08Z",
+    "description": "ATAK Plugin: Cam Depot — public traffic and wildfire cameras on the ATAK map, with live video where the agency streams. Downloads, guide and issues here.",
+    "stars": "6",
+    "text": "takwerx/cam-depot",
+    "title": "takwerx/cam-depot",
+    "url": "https://github.com/takwerx/cam-depot"
+   }
+  },
+  {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-06T03:00:42Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "3",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
    "key": "anniekatz/nav-with",
    "source": "tak-github",
    "fields": {
@@ -833,17 +868,6 @@
     "text": "shigeki7299/ATAK_Plugin",
     "title": "shigeki7299/ATAK_Plugin",
     "url": "https://github.com/shigeki7299/ATAK_Plugin"
-   }
-  },
-  {
-   "key": "Jarnsen/ATAK-Jarnsen-Mrs-Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-05T12:35:13Z",
-    "stars": "0",
-    "text": "Jarnsen/ATAK-Jarnsen-Mrs-Plugin",
-    "title": "Jarnsen/ATAK-Jarnsen-Mrs-Plugin",
-    "url": "https://github.com/Jarnsen/ATAK-Jarnsen-Mrs-Plugin"
    }
   },
   {
@@ -915,18 +939,6 @@
     "text": "takwerx/atmosphere",
     "title": "takwerx/atmosphere",
     "url": "https://github.com/takwerx/atmosphere"
-   }
-  },
-  {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-02T03:57:01Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "3",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
    }
   },
   {
@@ -1141,18 +1153,6 @@
     "text": "takwerx/map-depot",
     "title": "takwerx/map-depot",
     "url": "https://github.com/takwerx/map-depot"
-   }
-  },
-  {
-   "key": "takwerx/dozer-country",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-21T02:19:00Z",
-    "description": "ATAK Plugin: Dozer Country — where a dozer can work, shaded on the map against the S-232 slope limits. Downloads, guide and issues here.",
-    "stars": "1",
-    "text": "takwerx/dozer-country",
-    "title": "takwerx/dozer-country",
-    "url": "https://github.com/takwerx/dozer-country"
    }
   },
   {
