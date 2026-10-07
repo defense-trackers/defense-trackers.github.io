@@ -1,7 +1,7 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-07T13:32:04Z",
+ "fetched_at": "2026-10-07T23:20:43Z",
  "schema_version": 1,
  "records": [
   {
@@ -22,7 +22,7 @@
    "fields": {
     "date": "2026-10-06T01:20:27Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "82",
+    "stars": "83",
     "text": "takwerx/infra-TAK",
     "title": "takwerx/infra-TAK",
     "url": "https://github.com/takwerx/infra-TAK"
@@ -370,7 +370,7 @@
    "fields": {
     "date": "2024-10-29T11:52:00Z",
     "description": "Situational Awareness Server compatible with TAK clients",
-    "stars": "964",
+    "stars": "963",
     "text": "FreeTAKTeam/FreeTakServer",
     "title": "FreeTAKTeam/FreeTakServer",
     "url": "https://github.com/FreeTAKTeam/FreeTakServer"
@@ -382,7 +382,7 @@
    "fields": {
     "date": "2025-05-30T12:09:19Z",
     "description": "FreeTAKServer Web User Interface project",
-    "stars": "39",
+    "stars": "40",
     "text": "FreeTAKTeam/UI",
     "title": "FreeTAKTeam/UI",
     "url": "https://github.com/FreeTAKTeam/UI"
@@ -582,7 +582,7 @@
    "key": "FreeTAKTeam/DigitalArchitectureFramework",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-02T16:55:22Z",
+    "date": "2026-10-07T14:24:11Z",
     "description": "The Digital Architecture Framework (DAF),  is a set modeling tools for Digital Engineering. ",
     "stars": "8",
     "text": "FreeTAKTeam/DigitalArchitectureFramework",
@@ -640,7 +640,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-07T11:24:44Z",
+    "date": "2026-10-07T20:25:23Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "109",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-06T12:53:58Z",
+    "date": "2026-10-07T20:06:30Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "38",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -758,7 +758,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-06T12:33:18Z",
+    "date": "2026-10-07T18:29:48Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "31",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -813,6 +813,66 @@
    }
   },
   {
+   "key": "FreeTAKTeam/atn-rangefinder",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2026-10-07T20:22:08Z",
+    "description": "ATN rangefinder protocol research, REM integration planning, and synthetic fixtures",
+    "stars": "0",
+    "text": "FreeTAKTeam/atn-rangefinder",
+    "title": "FreeTAKTeam/atn-rangefinder",
+    "url": "https://github.com/FreeTAKTeam/atn-rangefinder"
+   }
+  },
+  {
+   "key": "takwerx/uas-flight-plan",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-07T23:02:15Z",
+    "description": "ATAK Plugin: UAS Flight Plan — launch point ground elevation, the ceiling an area needs or what a given ceiling does to it, with terrain islands and FAA obstacles. Downloads, guide and issues here.",
+    "stars": "0",
+    "text": "takwerx/uas-flight-plan",
+    "title": "takwerx/uas-flight-plan",
+    "url": "https://github.com/takwerx/uas-flight-plan"
+   }
+  },
+  {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-07T23:08:02Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "3",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
+   "key": "takwerx/takwerx-market",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-07T19:20:27Z",
+    "description": "ATAK Plugin: TAKwerx Market — install and update takwerx plugins from inside ATAK. Downloads, guide and issues here.",
+    "stars": "10",
+    "text": "takwerx/takwerx-market",
+    "title": "takwerx/takwerx-market",
+    "url": "https://github.com/takwerx/takwerx-market"
+   }
+  },
+  {
+   "key": "takwerx/map-depot",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-07T17:56:03Z",
+    "description": "ATAK Plugin: Map Depot — download elevation, base maps and offline public-lands maps from inside ATAK. Downloads, guide and issues here.",
+    "stars": "12",
+    "text": "takwerx/map-depot",
+    "title": "takwerx/map-depot",
+    "url": "https://github.com/takwerx/map-depot"
+   }
+  },
+  {
    "key": "takwerx/feature-layer",
    "source": "tak-github",
    "fields": {
@@ -825,22 +885,10 @@
    }
   },
   {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-07T13:29:56Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "3",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
-   }
-  },
-  {
    "key": "PoggyBobby/EMCON-Sentinel",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-07T13:24:05Z",
+    "date": "2026-10-07T14:10:16Z",
     "description": "EMCON Sentinel — ATAK-CIV plugin that warns drone operators when adversary RF direction-finding assets are about to fix their position. Three-tier sensing (phone, MAVLink C2, RTL-SDR) + Friis path-loss + dwell-time composite risk + directional displacement candidates. Army xTech 2026.",
     "stars": "1",
     "text": "PoggyBobby/EMCON-Sentinel",
@@ -1118,42 +1166,6 @@
     "text": "arachne-systems/arachne-atak",
     "title": "arachne-systems/arachne-atak",
     "url": "https://github.com/arachne-systems/arachne-atak"
-   }
-  },
-  {
-   "key": "takwerx/traffic",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-27T04:27:09Z",
-    "description": "ATAK Plugin: Traffic — live traffic overlay drawn over your own base map, kept refreshing while the map sits still. Downloads, guide and issues here.",
-    "stars": "13",
-    "text": "takwerx/traffic",
-    "title": "takwerx/traffic",
-    "url": "https://github.com/takwerx/traffic"
-   }
-  },
-  {
-   "key": "takwerx/atak-plugin-pipeline",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-25T13:31:03Z",
-    "description": "How takwerx builds ATAK plugins and gets them through TAK's third-party signing pipeline, as a Claude Code skill. No SDK included.",
-    "stars": "8",
-    "text": "takwerx/atak-plugin-pipeline",
-    "title": "takwerx/atak-plugin-pipeline",
-    "url": "https://github.com/takwerx/atak-plugin-pipeline"
-   }
-  },
-  {
-   "key": "jxtngx/cursor-kotlin-factory",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-23T21:37:09Z",
-    "description": "Factory for Kotlin + Jetpack Compose. Default track: ATAK-CIV / CivTAK plugin.",
-    "stars": "0",
-    "text": "jxtngx/cursor-kotlin-factory",
-    "title": "jxtngx/cursor-kotlin-factory",
-    "url": "https://github.com/jxtngx/cursor-kotlin-factory"
    }
   },
   {
