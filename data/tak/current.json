@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-06T22:49:13Z",
+ "fetched_at": "2026-10-07T13:32:04Z",
  "schema_version": 1,
  "records": [
   {
    "key": "engindearing-projects/OmniTAK-iOS",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-06T22:32:22Z",
+    "date": "2026-10-07T01:33:36Z",
     "description": "Open-source TAK (Team Awareness Kit) client for iPhone and iPad. Swift + SwiftUI. Apache 2.0.",
     "stars": "9",
     "text": "engindearing-projects/OmniTAK-iOS",
@@ -32,7 +32,7 @@
    "key": "engindearing-projects/OmniTAK-Android",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-06T22:03:40Z",
+    "date": "2026-10-07T01:44:45Z",
     "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
     "stars": "23",
     "text": "engindearing-projects/OmniTAK-Android",
@@ -640,7 +640,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-06T20:48:57Z",
+    "date": "2026-10-07T11:24:44Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "109",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -813,6 +813,78 @@
    }
   },
   {
+   "key": "takwerx/feature-layer",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-07T13:31:03Z",
+    "description": "ATAK Plugin: Feature Layer — live ArcGIS feature layers from NIFC, SARCOP, CA Air Intel and your own org, with NWCG symbology. Downloads, guide and issues here.",
+    "stars": "1",
+    "text": "takwerx/feature-layer",
+    "title": "takwerx/feature-layer",
+    "url": "https://github.com/takwerx/feature-layer"
+   }
+  },
+  {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-07T13:29:56Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "3",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
+   "key": "PoggyBobby/EMCON-Sentinel",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-07T13:24:05Z",
+    "description": "EMCON Sentinel — ATAK-CIV plugin that warns drone operators when adversary RF direction-finding assets are about to fix their position. Three-tier sensing (phone, MAVLink C2, RTL-SDR) + Friis path-loss + dwell-time composite risk + directional displacement candidates. Army xTech 2026.",
+    "stars": "1",
+    "text": "PoggyBobby/EMCON-Sentinel",
+    "title": "PoggyBobby/EMCON-Sentinel",
+    "url": "https://github.com/PoggyBobby/EMCON-Sentinel"
+   }
+  },
+  {
+   "key": "ke8tqb/HBC-ATAK-Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-07T02:33:00Z",
+    "description": "Implements HBC protocol for a streamline ATAK plugin",
+    "stars": "5",
+    "text": "ke8tqb/HBC-ATAK-Plugin",
+    "title": "ke8tqb/HBC-ATAK-Plugin",
+    "url": "https://github.com/ke8tqb/HBC-ATAK-Plugin"
+   }
+  },
+  {
+   "key": "atakmaps/TAK-MESHCORE",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-07T02:13:33Z",
+    "description": "ATAK MeshCore plugin",
+    "stars": "53",
+    "text": "atakmaps/TAK-MESHCORE",
+    "title": "atakmaps/TAK-MESHCORE",
+    "url": "https://github.com/atakmaps/TAK-MESHCORE"
+   }
+  },
+  {
+   "key": "takwerx/atmosphere",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-07T00:08:04Z",
+    "description": "ATAK Plugin: Atmosphere — fire and hazmat weather on the map: the forecast at a point, radar, satellite, wind, rain, smoke, rivers and the sea. Downloads, guide and issues here.",
+    "stars": "1",
+    "text": "takwerx/atmosphere",
+    "title": "takwerx/atmosphere",
+    "url": "https://github.com/takwerx/atmosphere"
+   }
+  },
+  {
    "key": "Jarnsen/ATAK-Jarnsen-Mrs-Plugin",
    "source": "tak-github",
    "fields": {
@@ -833,18 +905,6 @@
     "text": "takwerx/cam-depot",
     "title": "takwerx/cam-depot",
     "url": "https://github.com/takwerx/cam-depot"
-   }
-  },
-  {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-06T03:00:42Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "3",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
    }
   },
   {
@@ -906,18 +966,6 @@
    }
   },
   {
-   "key": "ke8tqb/HBC-ATAK-Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-03T23:15:37Z",
-    "description": "Implements HBC protocol for a streamline ATAK plugin",
-    "stars": "4",
-    "text": "ke8tqb/HBC-ATAK-Plugin",
-    "title": "ke8tqb/HBC-ATAK-Plugin",
-    "url": "https://github.com/ke8tqb/HBC-ATAK-Plugin"
-   }
-  },
-  {
    "key": "DrLexus11/reticulum-atak",
    "source": "tak-github",
    "fields": {
@@ -927,18 +975,6 @@
     "text": "DrLexus11/reticulum-atak",
     "title": "DrLexus11/reticulum-atak",
     "url": "https://github.com/DrLexus11/reticulum-atak"
-   }
-  },
-  {
-   "key": "takwerx/atmosphere",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-02T03:51:14Z",
-    "description": "ATAK Plugin: Atmosphere — fire and hazmat weather on the map: the forecast at a point, radar, satellite, wind, rain, smoke, rivers and the sea. Downloads, guide and issues here.",
-    "stars": "1",
-    "text": "takwerx/atmosphere",
-    "title": "takwerx/atmosphere",
-    "url": "https://github.com/takwerx/atmosphere"
    }
   },
   {
@@ -1102,7 +1138,7 @@
    "fields": {
     "date": "2026-09-25T13:31:03Z",
     "description": "How takwerx builds ATAK plugins and gets them through TAK's third-party signing pipeline, as a Claude Code skill. No SDK included.",
-    "stars": "6",
+    "stars": "8",
     "text": "takwerx/atak-plugin-pipeline",
     "title": "takwerx/atak-plugin-pipeline",
     "url": "https://github.com/takwerx/atak-plugin-pipeline"
@@ -1118,41 +1154,6 @@
     "text": "jxtngx/cursor-kotlin-factory",
     "title": "jxtngx/cursor-kotlin-factory",
     "url": "https://github.com/jxtngx/cursor-kotlin-factory"
-   }
-  },
-  {
-   "key": "Hellikandra/ATAK-Weather-Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-22T20:52:03Z",
-    "stars": "57",
-    "text": "Hellikandra/ATAK-Weather-Plugin",
-    "title": "Hellikandra/ATAK-Weather-Plugin",
-    "url": "https://github.com/Hellikandra/ATAK-Weather-Plugin"
-   }
-  },
-  {
-   "key": "takwerx/takwerx-market",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-21T13:07:49Z",
-    "description": "ATAK Plugin: TAKwerx Market — install and update takwerx plugins from inside ATAK. Downloads, guide and issues here.",
-    "stars": "10",
-    "text": "takwerx/takwerx-market",
-    "title": "takwerx/takwerx-market",
-    "url": "https://github.com/takwerx/takwerx-market"
-   }
-  },
-  {
-   "key": "takwerx/map-depot",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-21T02:30:51Z",
-    "description": "ATAK Plugin: Map Depot — download elevation, base maps and offline public-lands maps from inside ATAK. Downloads, guide and issues here.",
-    "stars": "12",
-    "text": "takwerx/map-depot",
-    "title": "takwerx/map-depot",
-    "url": "https://github.com/takwerx/map-depot"
    }
   },
   {

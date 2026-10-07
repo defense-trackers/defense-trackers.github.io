@@ -1,7 +1,7 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-10-06T22:48:43Z",
+ "fetched_at": "2026-10-07T13:31:33Z",
  "schema_version": 1,
  "records": [
   {
@@ -68,7 +68,7 @@
    "key": "cisagov/orchestrator",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-08-28T18:03:12Z",
+    "date": "2026-10-07T05:23:08Z",
     "description": "Orchestrate gatherer, scanner, saver, and trustymail_reporter",
     "stars": "21",
     "text": "cisagov/orchestrator",
@@ -80,7 +80,7 @@
    "key": "cisagov/trustymail_reporter",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-10-05T18:28:02Z",
+    "date": "2026-10-06T23:14:39Z",
     "description": "Generate Trustworthy Email reports based on scan data",
     "stars": "13",
     "text": "cisagov/trustymail_reporter",
@@ -250,7 +250,7 @@
    "fields": {
     "date": "2026-10-06T21:26:14Z",
     "description": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.",
-    "stars": "2539",
+    "stars": "2541",
     "text": "cisagov/Malcolm",
     "title": "cisagov/Malcolm",
     "url": "https://github.com/cisagov/Malcolm"
@@ -572,7 +572,7 @@
    "key": "idaholab/moose",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-10-06T21:38:04Z",
+    "date": "2026-10-07T12:59:39Z",
     "description": "Multiphysics Object Oriented Simulation Environment",
     "stars": "2373",
     "text": "idaholab/moose",
@@ -634,7 +634,7 @@
    "fields": {
     "date": "2026-10-06T19:43:50Z",
     "description": "Event Modeling Risk Assessment using Linked Diagrams (EMRALD) is a software tool developed at INL for researching the capabilities of dynamic PRA (Probabilistic Risk Assessment). In order to promote the effective use of dynamic PRA by the general community, EMRALD focuses on the following key aspects: Simplifying the modeling process by providing a structure that corresponds to traditional PRA modeling methods Providing a user interface (UI) that makes it easy for the user to model and visualize complex interactions Allowing the user to couple with other analysis applications such as physics based simulations. This includes one-way communication for most applications and two-way loose coupling for customizable applications Providing the sequence and timing of events that lead to the specified outcomes when calculating results Traditional aspects of components with basic events, fault trees, and event trees are all captured in a dynamic framework of state diagrams, which are displayed ",
-    "stars": "35",
+    "stars": "36",
     "text": "idaholab/EMRALD",
     "title": "idaholab/EMRALD",
     "url": "https://github.com/idaholab/EMRALD"
@@ -763,7 +763,7 @@
    "key": "llnl/Spindle",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-10-02T17:17:03Z",
+    "date": "2026-10-07T00:34:13Z",
     "description": "Scalable dynamic library and python loading in HPC environments",
     "stars": "110",
     "text": "llnl/Spindle",
@@ -835,7 +835,7 @@
    "key": "llnl/RAJA",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-10-06T15:23:00Z",
+    "date": "2026-10-07T09:23:27Z",
     "description": "RAJA Performance Portability Layer (C++)",
     "stars": "601",
     "text": "llnl/RAJA",
@@ -1014,9 +1014,9 @@
    "key": "nasa/openmct",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-09-29T23:45:28Z",
+    "date": "2026-10-07T04:00:37Z",
     "description": "A web based mission control framework. ",
-    "stars": "13153",
+    "stars": "13155",
     "text": "nasa/openmct",
     "title": "nasa/openmct",
     "url": "https://github.com/nasa/openmct"
@@ -1086,7 +1086,7 @@
    "key": "nasa/Common-Metadata-Repository",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-10-06T20:43:58Z",
+    "date": "2026-10-07T12:55:06Z",
     "description": "The Common Metadata Repository (CMR) is a high-performance, high-quality, continuously evolving metadata system that catalogs Earth Science data and associated service metadata records. These metadata records are registered, modified, discovered, and accessed through programmatic interfaces leveraging standard protocols and APIs.",
     "stars": "398",
     "text": "nasa/Common-Metadata-Repository",
@@ -1134,7 +1134,7 @@
    "key": "ngageoint/hootenanny",
    "source": "oss-ngageoint",
    "fields": {
-    "date": "2026-10-06T14:55:09Z",
+    "date": "2026-10-07T11:42:43Z",
     "description": "Hootenanny conflates multiple maps into a single seamless map.",
     "stars": "394",
     "text": "ngageoint/hootenanny",
