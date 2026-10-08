@@ -1,9 +1,21 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-07T23:20:43Z",
+ "fetched_at": "2026-10-08T13:38:06Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-08T10:21:36Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "83",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
   {
    "key": "engindearing-projects/OmniTAK-iOS",
    "source": "tak-cot",
@@ -14,18 +26,6 @@
     "text": "engindearing-projects/OmniTAK-iOS",
     "title": "engindearing-projects/OmniTAK-iOS",
     "url": "https://github.com/engindearing-projects/OmniTAK-iOS"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-10-06T01:20:27Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "83",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -640,7 +640,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-07T20:25:23Z",
+    "date": "2026-10-08T11:18:03Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "109",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -825,6 +825,30 @@
    }
   },
   {
+   "key": "ke8tqb/HBC-ATAK-Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-08T01:53:05Z",
+    "description": "Implements HBC protocol for a streamline ATAK plugin",
+    "stars": "6",
+    "text": "ke8tqb/HBC-ATAK-Plugin",
+    "title": "ke8tqb/HBC-ATAK-Plugin",
+    "url": "https://github.com/ke8tqb/HBC-ATAK-Plugin"
+   }
+  },
+  {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-07T23:08:02Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "4",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
    "key": "takwerx/uas-flight-plan",
    "source": "tak-github",
    "fields": {
@@ -834,18 +858,6 @@
     "text": "takwerx/uas-flight-plan",
     "title": "takwerx/uas-flight-plan",
     "url": "https://github.com/takwerx/uas-flight-plan"
-   }
-  },
-  {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-07T23:08:02Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "3",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
    }
   },
   {
@@ -894,18 +906,6 @@
     "text": "PoggyBobby/EMCON-Sentinel",
     "title": "PoggyBobby/EMCON-Sentinel",
     "url": "https://github.com/PoggyBobby/EMCON-Sentinel"
-   }
-  },
-  {
-   "key": "ke8tqb/HBC-ATAK-Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-07T02:33:00Z",
-    "description": "Implements HBC protocol for a streamline ATAK plugin",
-    "stars": "5",
-    "text": "ke8tqb/HBC-ATAK-Plugin",
-    "title": "ke8tqb/HBC-ATAK-Plugin",
-    "url": "https://github.com/ke8tqb/HBC-ATAK-Plugin"
    }
   },
   {
@@ -1029,7 +1029,7 @@
    "key": "Ascent-Integrated-Tech/WearTAK-ATAK-Plugin",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-01T06:23:13Z",
+    "date": "2026-10-08T10:54:06Z",
     "stars": "3",
     "text": "Ascent-Integrated-Tech/WearTAK-ATAK-Plugin",
     "title": "Ascent-Integrated-Tech/WearTAK-ATAK-Plugin",

@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-10-07T23:20:46Z",
+ "fetched_at": "2026-10-08T13:38:09Z",
  "schema_version": 1,
  "records": [
   {
@@ -93,7 +93,7 @@
    "source": "transition-prototype",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "1.6576858634e+08",
+    "amount": "1.6723306178e+08",
     "description": "PROVIDE ANALYSIS TO INCLUDE DESIGN, DEVELOP, INTEGRATE, AND TEST AN AEGIS BMD MISSION PLANNER MODEL PROTOTYPE WHICH INCLUDES THE CERBERUS PROJECT IN ACCORDANCE WITH THE SOW, SECTION J, AND EXECUTING THE COMBAT SYSTEMS TASK ORDER TASKS. PSC AC23 EXPENDITURE TYPE 255.0 R\u0026D",
     "text": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC",
     "title": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC",
@@ -429,7 +429,7 @@
    "source": "transition-prototype",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "2.784563586e+07",
+    "amount": "2.840060586e+07",
     "description": "ENGINEERING AND TECHNICAL SUPPORT FOR THE TEST AND EVALUATION AND PROTOTYPE FABRICATION DIVISION",
     "text": "BEVILACQUA RESEARCH CORPORATION",
     "title": "BEVILACQUA RESEARCH CORPORATION",
@@ -557,6 +557,18 @@
    }
   },
   {
+   "key": "CONT_AWD_N0017825F3010_9700_N0017819D8822_9700",
+   "source": "transition-prototype",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1.725565556e+07",
+    "description": "PROTOTYPE AND ENGINEER DEVELOPMENT MODEL (EDM)",
+    "text": "W R SYSTEMS LTD.",
+    "title": "W R SYSTEMS LTD.",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_N0017825F3010_9700_N0017819D8822_9700/"
+   }
+  },
+  {
    "key": "CONT_AWD_FA945320C5000_9700_-NONE-_-NONE-",
    "source": "transition-prototype",
    "fields": {
@@ -590,18 +602,6 @@
     "text": "BEVILACQUA RESEARCH CORPORATION",
     "title": "BEVILACQUA RESEARCH CORPORATION",
     "url": "https://www.usaspending.gov/award/CONT_AWD_N6133117F3002_9700_N0017812D6793_9700/"
-   }
-  },
-  {
-   "key": "CONT_AWD_N6660424FC426_9700_N6660424DC419_9700",
-   "source": "transition-prototype",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "1.524053522e+07",
-    "description": "ENGINEERING SERVICES FOR THE NEXT GENERATION ATTACK SUBMARINE, THE FULL SPECTRUM UNDERSEA WARFARE INNOVATIVE NAVAL PROTOTYPE, AND THE COMPACT RAPID ATTACK WEAPON.",
-    "text": "SONALYSTS INC",
-    "title": "SONALYSTS INC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_N6660424FC426_9700_N6660424DC419_9700/"
    }
   },
   {
@@ -661,7 +661,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "31193149004",
+    "amount": "31392519039",
     "award_id": "N0002417C2117",
     "description": "COLUMBIA CLASS DESIGN COMPLETION",
     "text": "ELECTRIC BOAT CORPORATION",
@@ -778,7 +778,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "1.342433668985e+10",
+    "amount": "1.342673668985e+10",
     "award_id": "N0002416C2116",
     "description": "CVN 80 ENGINEERING EFFORTS AND STEEL",
     "text": "HUNTINGTON INGALLS INC",

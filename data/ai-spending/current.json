@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-10-07T23:18:59Z",
+ "fetched_at": "2026-10-08T13:36:31Z",
  "schema_version": 1,
  "records": [
   {
@@ -89,6 +89,18 @@
    }
   },
   {
+   "key": "CONT_AWD_W911QX25C0005_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1.898360968e+07",
+    "description": "BROAD AGENCY ANNOUNCEMENT CONTRACT FOR RESEARCH, DEVELOPMENT, TEST, AND EVALUATION OF ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING-ENABLING TECHNOLOGIES FOR EXPEDITIONARY MANEUVER AND AIR/GROUND RECONNAISSANCE.",
+    "text": "METRON INCORPORATED",
+    "title": "METRON INCORPORATED",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W911QX25C0005_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_W911QX24C0009_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
@@ -98,18 +110,6 @@
     "text": "EXPEDITION TECHNOLOGY, LLC",
     "title": "EXPEDITION TECHNOLOGY, LLC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W911QX24C0009_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_W911QX25C0005_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "1.711054393e+07",
-    "description": "BROAD AGENCY ANNOUNCEMENT CONTRACT FOR RESEARCH, DEVELOPMENT, TEST, AND EVALUATION OF ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING-ENABLING TECHNOLOGIES FOR EXPEDITIONARY MANEUVER AND AIR/GROUND RECONNAISSANCE.",
-    "text": "METRON INCORPORATED",
-    "title": "METRON INCORPORATED",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W911QX25C0005_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -249,7 +249,7 @@
    "source": "ai-spending-contracts",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "9081400",
+    "amount": "9320800",
     "description": "DESIGN-BUILD (DB) CONSTRUCTION OF ARTIFICIAL INTELLIGENCE MANUFACTURING RESEARCH CAPABILITY CENTER (AIMR-2C) BUILDING 653 LOCATED AT WPAFB, OHIO.",
     "text": "BUTT CONSTRUCTION COMPANY, INCORPORATED",
     "title": "BUTT CONSTRUCTION COMPANY, INCORPORATED",
