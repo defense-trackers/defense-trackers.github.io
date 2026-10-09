@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-08T23:35:07Z",
+ "fetched_at": "2026-10-09T13:25:10Z",
  "schema_version": 1,
  "records": [
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-08T22:54:41Z",
+    "date": "2026-10-09T11:20:42Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "83",
     "text": "takwerx/infra-TAK",
@@ -478,7 +478,7 @@
    "fields": {
     "date": "2025-02-04T19:39:23Z",
     "description": "this repository contains the Ansible code that is used by the ZeroTouch installer",
-    "stars": "43",
+    "stars": "44",
     "text": "FreeTAKTeam/FreeTAKHub-Installation",
     "title": "FreeTAKTeam/FreeTAKHub-Installation",
     "url": "https://github.com/FreeTAKTeam/FreeTAKHub-Installation"
@@ -760,7 +760,7 @@
    "fields": {
     "date": "2026-10-07T18:29:48Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
-    "stars": "31",
+    "stars": "32",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
     "title": "FreeTAKTeam/reticulum_mobile_emergency_management",
     "url": "https://github.com/FreeTAKTeam/reticulum_mobile_emergency_management"
@@ -825,6 +825,54 @@
    }
   },
   {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-09T13:18:32Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "4",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
+   "key": "takwerx/air-aware",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-09T11:50:34Z",
+    "description": "ATAK Plugin: AirAware — airspace awareness: restrictions, airspace classes, special use, UAS ceilings, obstacles and airfield conditions, with a UAS flight planner. Downloads, guide and issues here.",
+    "stars": "0",
+    "text": "takwerx/air-aware",
+    "title": "takwerx/air-aware",
+    "url": "https://github.com/takwerx/air-aware"
+   }
+  },
+  {
+   "key": "takwerx/cursorwerx",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-09T11:07:20Z",
+    "description": "ATAK Plugin: Cursorwerx — makes ATAK work with a mouse or trackpad: wheel zoom at the cursor, wheel scrolling in panes, click-drag panning, a Back button. Downloads, guide and issues here.",
+    "stars": "1",
+    "text": "takwerx/cursorwerx",
+    "title": "takwerx/cursorwerx",
+    "url": "https://github.com/takwerx/cursorwerx"
+   }
+  },
+  {
+   "key": "RyanR3/TRACE",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-09T03:43:19Z",
+    "description": "T.R.A.C.E. — Terrain Radio Azimuth Coverage Estimator: ATAK plugin for radio antenna site planning (VHF/UHF/MANET, USGS terrain + tree data)",
+    "stars": "2",
+    "text": "RyanR3/TRACE",
+    "title": "RyanR3/TRACE",
+    "url": "https://github.com/RyanR3/TRACE"
+   }
+  },
+  {
    "key": "ke8tqb/HBC-ATAK-Plugin",
    "source": "tak-github",
    "fields": {
@@ -837,24 +885,12 @@
    }
   },
   {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-07T23:08:02Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "4",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
-   }
-  },
-  {
    "key": "takwerx/uas-flight-plan",
    "source": "tak-github",
    "fields": {
     "date": "2026-10-07T23:02:15Z",
     "description": "ATAK Plugin: UAS Flight Plan — launch point ground elevation, the ceiling an area needs or what a given ceiling does to it, with terrain islands and FAA obstacles. Downloads, guide and issues here.",
-    "stars": "0",
+    "stars": "1",
     "text": "takwerx/uas-flight-plan",
     "title": "takwerx/uas-flight-plan",
     "url": "https://github.com/takwerx/uas-flight-plan"
@@ -1130,42 +1166,6 @@
     "text": "mighkel/ATAK-Plugin-KestrelWx",
     "title": "mighkel/ATAK-Plugin-KestrelWx",
     "url": "https://github.com/mighkel/ATAK-Plugin-KestrelWx"
-   }
-  },
-  {
-   "key": "takwerx/cursorwerx",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-27T23:29:40Z",
-    "description": "ATAK Plugin: Cursorwerx — makes ATAK work with a mouse or trackpad: wheel zoom at the cursor, wheel scrolling in panes, click-drag panning, a Back button. Downloads, guide and issues here.",
-    "stars": "1",
-    "text": "takwerx/cursorwerx",
-    "title": "takwerx/cursorwerx",
-    "url": "https://github.com/takwerx/cursorwerx"
-   }
-  },
-  {
-   "key": "takwerx/ipaws-alerts",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-27T15:35:41Z",
-    "description": "ATAK Plugin: IPAWS Alerts — public emergency and weather alerts on the map, filtered on your device. Downloads, guide and issues here.",
-    "stars": "4",
-    "text": "takwerx/ipaws-alerts",
-    "title": "takwerx/ipaws-alerts",
-    "url": "https://github.com/takwerx/ipaws-alerts"
-   }
-  },
-  {
-   "key": "arachne-systems/arachne-atak",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-09-27T07:36:41Z",
-    "description": "Arachne ATAK plugin: a secure mesh between ATAK devices",
-    "stars": "2",
-    "text": "arachne-systems/arachne-atak",
-    "title": "arachne-systems/arachne-atak",
-    "url": "https://github.com/arachne-systems/arachne-atak"
    }
   },
   {

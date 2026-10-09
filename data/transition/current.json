@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-10-08T23:35:10Z",
+ "fetched_at": "2026-10-09T13:25:20Z",
  "schema_version": 1,
  "records": [
   {
@@ -461,6 +461,18 @@
    }
   },
   {
+   "key": "CONT_AWD_W911SR26FA017_9700_W911SR26DA002_9700",
+   "source": "transition-prototype",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "2.438543634e+07",
+    "description": "THIS EFFORT IS TO ANALYZE, DESIGN, DEVELOP, ENHANCE, TEST, DEPLOY, PROCURE AND SUSTAIN PROTOTYPE TECHNOLOGIES AND SENSORS THAT LEVERAGE INFORMATION AND CAPABILITIES TO EXPLOIT COMMUNICATIONS OF TARGET CAPABILITIES AND SUPPORT COMMANDERS AND USERS.",
+    "text": "ROGUE SIGNAL PROCESSING CORP",
+    "title": "ROGUE SIGNAL PROCESSING CORP",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W911SR26FA017_9700_W911SR26DA002_9700/"
+   }
+  },
+  {
    "key": "CONT_AWD_W56KGU21F0004_9700_W56KGU19D0002_9700",
    "source": "transition-prototype",
    "fields": {
@@ -593,18 +605,6 @@
    }
   },
   {
-   "key": "CONT_AWD_N6133117F3002_9700_N0017812D6793_9700",
-   "source": "transition-prototype",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "1.524205065e+07",
-    "description": "IGF::OT::IGF ENGINEERING AND TECHNICAL SUPPORT FOR THE TEST AND EVALUATION  AND PROTOTYPE FABRICATION DIVISION",
-    "text": "BEVILACQUA RESEARCH CORPORATION",
-    "title": "BEVILACQUA RESEARCH CORPORATION",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_N6133117F3002_9700_N0017812D6793_9700/"
-   }
-  },
-  {
    "key": "CONT_AWD_HT940216C0001_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -661,7 +661,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "31392519039",
+    "amount": "31491519039",
     "award_id": "N0002417C2117",
     "description": "COLUMBIA CLASS DESIGN COMPLETION",
     "text": "ELECTRIC BOAT CORPORATION",
@@ -713,7 +713,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "20393414585",
+    "amount": "20393455474",
     "award_id": "N0002412C2115",
     "description": "SSN 792 LONG LEAD TIME MATERIAL",
     "text": "ELECTRIC BOAT CORPORATION",
@@ -1012,7 +1012,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "7706436170",
+    "amount": "7810421297",
     "award_id": "N0001924C0039",
     "description": "CY24 AVSC SUPPLY SUPPORT",
     "text": "LOCKHEED MARTIN CORPORATION",
