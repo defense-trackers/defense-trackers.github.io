@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-09T22:55:36Z",
+ "fetched_at": "2026-10-10T12:39:05Z",
  "schema_version": 1,
  "records": [
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-09T22:28:02Z",
+    "date": "2026-10-10T00:24:10Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "83",
     "text": "takwerx/infra-TAK",
@@ -56,7 +56,7 @@
    "key": "rixau/atak-reactive",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-04T17:59:23Z",
+    "date": "2026-10-09T23:55:24Z",
     "description": "Build ATAK (Android Team Awareness Kit) plugin UIs with React and TypeScript. Typed WebView bridge, hot reload, incremental adoption.",
     "stars": "2",
     "text": "rixau/atak-reactive",
@@ -640,7 +640,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-09T21:06:53Z",
+    "date": "2026-10-10T11:15:04Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "109",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-09T22:46:31Z",
+    "date": "2026-10-09T23:02:48Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "38",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -825,15 +825,39 @@
    }
   },
   {
+   "key": "takwerx/air-aware",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-10T03:25:07Z",
+    "description": "ATAK Plugin: AirAware — airspace awareness: restrictions, airspace classes, special use, UAS ceilings, obstacles and airfield conditions, with a UAS flight planner. Downloads, guide and issues here.",
+    "stars": "0",
+    "text": "takwerx/air-aware",
+    "title": "takwerx/air-aware",
+    "url": "https://github.com/takwerx/air-aware"
+   }
+  },
+  {
    "key": "takwerx/atak-plugins",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-09T22:53:14Z",
+    "date": "2026-10-10T03:30:19Z",
     "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
     "stars": "4",
     "text": "takwerx/atak-plugins",
     "title": "takwerx/atak-plugins",
     "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
+   "key": "ke8tqb/HBC-ATAK-Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-10T01:09:17Z",
+    "description": "Implements HBC protocol for a streamline ATAK plugin",
+    "stars": "6",
+    "text": "ke8tqb/HBC-ATAK-Plugin",
+    "title": "ke8tqb/HBC-ATAK-Plugin",
+    "url": "https://github.com/ke8tqb/HBC-ATAK-Plugin"
    }
   },
   {
@@ -853,7 +877,7 @@
    "fields": {
     "date": "2026-10-09T21:13:56Z",
     "description": "ATAK Plugin: UAS Flight Plan — launch point ground elevation, the ceiling an area needs or what a given ceiling does to it, with terrain islands and FAA obstacles. Downloads, guide and issues here.",
-    "stars": "2",
+    "stars": "3",
     "text": "takwerx/uas-flight-plan",
     "title": "takwerx/uas-flight-plan",
     "url": "https://github.com/takwerx/uas-flight-plan"
@@ -1052,39 +1076,15 @@
    }
   },
   {
-   "key": "takwerx/air-aware",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-09T21:09:20Z",
-    "description": "ATAK Plugin: AirAware — airspace awareness: restrictions, airspace classes, special use, UAS ceilings, obstacles and airfield conditions, with a UAS flight planner. Downloads, guide and issues here.",
-    "stars": "0",
-    "text": "takwerx/air-aware",
-    "title": "takwerx/air-aware",
-    "url": "https://github.com/takwerx/air-aware"
-   }
-  },
-  {
    "key": "RyanR3/TRACE",
    "source": "tak-github",
    "fields": {
     "date": "2026-10-09T03:43:19Z",
     "description": "T.R.A.C.E. — Terrain Radio Azimuth Coverage Estimator: ATAK plugin for radio antenna site planning (VHF/UHF/MANET, USGS terrain + tree data)",
-    "stars": "4",
+    "stars": "5",
     "text": "RyanR3/TRACE",
     "title": "RyanR3/TRACE",
     "url": "https://github.com/RyanR3/TRACE"
-   }
-  },
-  {
-   "key": "ke8tqb/HBC-ATAK-Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-08T01:53:05Z",
-    "description": "Implements HBC protocol for a streamline ATAK plugin",
-    "stars": "6",
-    "text": "ke8tqb/HBC-ATAK-Plugin",
-    "title": "ke8tqb/HBC-ATAK-Plugin",
-    "url": "https://github.com/ke8tqb/HBC-ATAK-Plugin"
    }
   },
   {
