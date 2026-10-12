@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-11T22:29:35Z",
+ "fetched_at": "2026-10-12T15:35:46Z",
  "schema_version": 1,
  "records": [
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-11T22:29:11Z",
+    "date": "2026-10-12T04:16:26Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "85",
     "text": "takwerx/infra-TAK",
@@ -62,6 +62,18 @@
     "text": "rixau/atak-reactive",
     "title": "rixau/atak-reactive",
     "url": "https://github.com/rixau/atak-reactive"
+   }
+  },
+  {
+   "key": "snstac/pytak",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-01T23:18:34Z",
+    "description": "PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.",
+    "stars": "256",
+    "text": "snstac/pytak",
+    "title": "snstac/pytak",
+    "url": "https://github.com/snstac/pytak"
    }
   },
   {
@@ -158,18 +170,6 @@
     "text": "valmojr/Loki",
     "title": "valmojr/Loki",
     "url": "https://github.com/valmojr/Loki"
-   }
-  },
-  {
-   "key": "snstac/pytak",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-10-01T23:18:34Z",
-    "description": "PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.",
-    "stars": "255",
-    "text": "snstac/pytak",
-    "title": "snstac/pytak",
-    "url": "https://github.com/snstac/pytak"
    }
   },
   {
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/staged-recipes",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-08T16:43:28Z",
+    "date": "2026-10-12T14:15:58Z",
     "description": "A place to submit conda recipes before they become fully fledged conda-forge feedstocks",
     "stars": "0",
     "text": "FreeTAKTeam/staged-recipes",
@@ -825,6 +825,53 @@
    }
   },
   {
+   "key": "shigeki7299/ATAK_Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-12T15:31:32Z",
+    "stars": "0",
+    "text": "shigeki7299/ATAK_Plugin",
+    "title": "shigeki7299/ATAK_Plugin",
+    "url": "https://github.com/shigeki7299/ATAK_Plugin"
+   }
+  },
+  {
+   "key": "besteffortdev/openfire-SAMessage",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-12T06:18:39Z",
+    "description": "Plugins for Openfire 5.0.5 and up that enable communication between openfire user and atak client over multicast.",
+    "stars": "0",
+    "text": "besteffortdev/openfire-SAMessage",
+    "title": "besteffortdev/openfire-SAMessage",
+    "url": "https://github.com/besteffortdev/openfire-SAMessage"
+   }
+  },
+  {
+   "key": "tcmouratec/atakhrf1",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-12T02:49:32Z",
+    "description": "ATAK plugin: HackRF One spectrum analyzer, drone/RF detection and RSSI direction finding on Android, with CoT output to the TAK map",
+    "stars": "0",
+    "text": "tcmouratec/atakhrf1",
+    "title": "tcmouratec/atakhrf1",
+    "url": "https://github.com/tcmouratec/atakhrf1"
+   }
+  },
+  {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-12T00:15:58Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "5",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
    "key": "takwerx/atmosphere",
    "source": "tak-github",
    "fields": {
@@ -834,18 +881,6 @@
     "text": "takwerx/atmosphere",
     "title": "takwerx/atmosphere",
     "url": "https://github.com/takwerx/atmosphere"
-   }
-  },
-  {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-11T17:44:22Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "5",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
    }
   },
   {
@@ -894,17 +929,6 @@
     "text": "takwerx/air-aware",
     "title": "takwerx/air-aware",
     "url": "https://github.com/takwerx/air-aware"
-   }
-  },
-  {
-   "key": "shigeki7299/ATAK_Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-09T21:47:04Z",
-    "stars": "0",
-    "text": "shigeki7299/ATAK_Plugin",
-    "title": "shigeki7299/ATAK_Plugin",
-    "url": "https://github.com/shigeki7299/ATAK_Plugin"
    }
   },
   {
@@ -1156,29 +1180,6 @@
     "text": "anniekatz/nav-with",
     "title": "anniekatz/nav-with",
     "url": "https://github.com/anniekatz/nav-with"
-   }
-  },
-  {
-   "key": "Swiss-Mesh-Sat/sos-bridge",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-05T01:14:59Z",
-    "description": "ATAK-CIV plugin that triggers the ATAK emergency alert from SOS Flashlight: two taps to alert your team over the TAK network, including Meshtastic.",
-    "stars": "0",
-    "text": "Swiss-Mesh-Sat/sos-bridge",
-    "title": "Swiss-Mesh-Sat/sos-bridge",
-    "url": "https://github.com/Swiss-Mesh-Sat/sos-bridge"
-   }
-  },
-  {
-   "key": "czediker/RAR-ATAK-Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-04T21:57:58Z",
-    "stars": "0",
-    "text": "czediker/RAR-ATAK-Plugin",
-    "title": "czediker/RAR-ATAK-Plugin",
-    "url": "https://github.com/czediker/RAR-ATAK-Plugin"
    }
   },
   {
