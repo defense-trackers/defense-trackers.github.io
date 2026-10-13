@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-12T15:35:46Z",
+ "fetched_at": "2026-10-13T00:59:51Z",
  "schema_version": 1,
  "records": [
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-12T04:16:26Z",
+    "date": "2026-10-13T00:47:47Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "85",
     "text": "takwerx/infra-TAK",
@@ -640,7 +640,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-11T16:20:17Z",
+    "date": "2026-10-13T00:13:21Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "109",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -825,6 +825,90 @@
    }
   },
   {
+   "key": "ke8tqb/HBC-ATAK-Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-13T00:50:13Z",
+    "description": "Implements HBC protocol for a streamline ATAK plugin",
+    "stars": "6",
+    "text": "ke8tqb/HBC-ATAK-Plugin",
+    "title": "ke8tqb/HBC-ATAK-Plugin",
+    "url": "https://github.com/ke8tqb/HBC-ATAK-Plugin"
+   }
+  },
+  {
+   "key": "cfd2474/TAK_Beacon",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-13T00:50:01Z",
+    "description": "ATAK Plugin: TAK Beacon — keeps reporting your position to your TAK server when ATAK is closed. Downloads, guide and issues here.",
+    "stars": "1",
+    "text": "cfd2474/TAK_Beacon",
+    "title": "cfd2474/TAK_Beacon",
+    "url": "https://github.com/cfd2474/TAK_Beacon"
+   }
+  },
+  {
+   "key": "gustavtraff/tmm-sensor-planner",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-12T21:26:06Z",
+    "description": "ATAK Plugin",
+    "stars": "0",
+    "text": "gustavtraff/tmm-sensor-planner",
+    "title": "gustavtraff/tmm-sensor-planner",
+    "url": "https://github.com/gustavtraff/tmm-sensor-planner"
+   }
+  },
+  {
+   "key": "takwerx/map-depot",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-12T19:48:34Z",
+    "description": "ATAK Plugin: Map Depot — download elevation, base maps and offline public-lands maps from inside ATAK. Downloads, guide and issues here.",
+    "stars": "13",
+    "text": "takwerx/map-depot",
+    "title": "takwerx/map-depot",
+    "url": "https://github.com/takwerx/map-depot"
+   }
+  },
+  {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-12T19:56:14Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "5",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
+   "key": "takwerx/cam-depot",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-12T18:19:54Z",
+    "description": "ATAK Plugin: Cam Depot — public traffic and wildfire cameras on the ATAK map, with live video where the agency streams. Downloads, guide and issues here.",
+    "stars": "7",
+    "text": "takwerx/cam-depot",
+    "title": "takwerx/cam-depot",
+    "url": "https://github.com/takwerx/cam-depot"
+   }
+  },
+  {
+   "key": "buie-byte/tak-air-track-intelligence",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-12T17:06:23Z",
+    "description": "A multi-platform aircraft tracking and intelligence plugin for WebTAK, ATAK-CIV, and ATAK-MIL. Integrates local ADS-B receivers and FlightAware data to provide real-time aircraft tracking, military/civilian identification, fixed-wing/rotary-wing classification, and commercial airline/operator information.",
+    "stars": "0",
+    "text": "buie-byte/tak-air-track-intelligence",
+    "title": "buie-byte/tak-air-track-intelligence",
+    "url": "https://github.com/buie-byte/tak-air-track-intelligence"
+   }
+  },
+  {
    "key": "shigeki7299/ATAK_Plugin",
    "source": "tak-github",
    "fields": {
@@ -857,18 +941,6 @@
     "text": "tcmouratec/atakhrf1",
     "title": "tcmouratec/atakhrf1",
     "url": "https://github.com/tcmouratec/atakhrf1"
-   }
-  },
-  {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-12T00:15:58Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "5",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
    }
   },
   {
@@ -908,24 +980,12 @@
    }
   },
   {
-   "key": "ke8tqb/HBC-ATAK-Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-10T17:47:05Z",
-    "description": "Implements HBC protocol for a streamline ATAK plugin",
-    "stars": "6",
-    "text": "ke8tqb/HBC-ATAK-Plugin",
-    "title": "ke8tqb/HBC-ATAK-Plugin",
-    "url": "https://github.com/ke8tqb/HBC-ATAK-Plugin"
-   }
-  },
-  {
    "key": "takwerx/air-aware",
    "source": "tak-github",
    "fields": {
     "date": "2026-10-10T03:25:07Z",
     "description": "ATAK Plugin: AirAware — airspace awareness: restrictions, airspace classes, special use, UAS ceilings, obstacles and airfield conditions, with a UAS flight planner. Downloads, guide and issues here.",
-    "stars": "1",
+    "stars": "2",
     "text": "takwerx/air-aware",
     "title": "takwerx/air-aware",
     "url": "https://github.com/takwerx/air-aware"
@@ -1001,18 +1061,6 @@
     "text": "takwerx/plss-data",
     "title": "takwerx/plss-data",
     "url": "https://github.com/takwerx/plss-data"
-   }
-  },
-  {
-   "key": "takwerx/map-depot",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-09T21:12:26Z",
-    "description": "ATAK Plugin: Map Depot — download elevation, base maps and offline public-lands maps from inside ATAK. Downloads, guide and issues here.",
-    "stars": "13",
-    "text": "takwerx/map-depot",
-    "title": "takwerx/map-depot",
-    "url": "https://github.com/takwerx/map-depot"
    }
   },
   {
@@ -1100,18 +1148,6 @@
    }
   },
   {
-   "key": "takwerx/cam-depot",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-09T21:10:39Z",
-    "description": "ATAK Plugin: Cam Depot — public traffic and wildfire cameras on the ATAK map, with live video where the agency streams. Downloads, guide and issues here.",
-    "stars": "7",
-    "text": "takwerx/cam-depot",
-    "title": "takwerx/cam-depot",
-    "url": "https://github.com/takwerx/cam-depot"
-   }
-  },
-  {
    "key": "takwerx/atak-plugin-pipeline",
    "source": "tak-github",
    "fields": {
@@ -1145,41 +1181,6 @@
     "text": "PoggyBobby/EMCON-Sentinel",
     "title": "PoggyBobby/EMCON-Sentinel",
     "url": "https://github.com/PoggyBobby/EMCON-Sentinel"
-   }
-  },
-  {
-   "key": "atakmaps/TAK-MESHCORE",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-07T02:13:33Z",
-    "description": "ATAK MeshCore plugin",
-    "stars": "53",
-    "text": "atakmaps/TAK-MESHCORE",
-    "title": "atakmaps/TAK-MESHCORE",
-    "url": "https://github.com/atakmaps/TAK-MESHCORE"
-   }
-  },
-  {
-   "key": "Jarnsen/ATAK-Jarnsen-Mrs-Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-06T07:38:28Z",
-    "stars": "0",
-    "text": "Jarnsen/ATAK-Jarnsen-Mrs-Plugin",
-    "title": "Jarnsen/ATAK-Jarnsen-Mrs-Plugin",
-    "url": "https://github.com/Jarnsen/ATAK-Jarnsen-Mrs-Plugin"
-   }
-  },
-  {
-   "key": "anniekatz/nav-with",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-05T22:35:49Z",
-    "description": "\"Navigate with...\" ATAK plugin",
-    "stars": "0",
-    "text": "anniekatz/nav-with",
-    "title": "anniekatz/nav-with",
-    "url": "https://github.com/anniekatz/nav-with"
    }
   },
   {
