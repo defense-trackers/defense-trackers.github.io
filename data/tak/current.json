@@ -1,7 +1,7 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-13T14:19:00Z",
+ "fetched_at": "2026-10-13T23:08:52Z",
  "schema_version": 1,
  "records": [
   {
@@ -32,7 +32,7 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-13T11:15:22Z",
+    "date": "2026-10-13T23:04:16Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "85",
     "text": "takwerx/infra-TAK",
@@ -310,7 +310,7 @@
    "fields": {
     "date": "2025-12-13T19:36:30Z",
     "description": "Linux-based Team Awareness Kit",
-    "stars": "3",
+    "stars": "2",
     "text": "catsmells/LTAK",
     "title": "catsmells/LTAK",
     "url": "https://github.com/catsmells/LTAK"
@@ -640,7 +640,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-13T11:56:47Z",
+    "date": "2026-10-13T20:27:25Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "109",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -758,7 +758,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-13T13:12:15Z",
+    "date": "2026-10-13T20:27:50Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "32",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -825,15 +825,63 @@
    }
   },
   {
+   "key": "takwerx/takwerx-market",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-13T23:03:14Z",
+    "description": "ATAK Plugin: TAKwerx Market — install and update takwerx plugins from inside ATAK. Downloads, guide and issues here.",
+    "stars": "11",
+    "text": "takwerx/takwerx-market",
+    "title": "takwerx/takwerx-market",
+    "url": "https://github.com/takwerx/takwerx-market"
+   }
+  },
+  {
+   "key": "gustavtraff/tmm-sensor-planner",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-13T22:47:23Z",
+    "description": "ATAK Plugin",
+    "stars": "0",
+    "text": "gustavtraff/tmm-sensor-planner",
+    "title": "gustavtraff/tmm-sensor-planner",
+    "url": "https://github.com/gustavtraff/tmm-sensor-planner"
+   }
+  },
+  {
    "key": "cfd2474/TAK_Beacon",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-13T14:18:42Z",
+    "date": "2026-10-13T21:31:58Z",
     "description": "ATAK Plugin: TAK Beacon — keeps reporting your position to your TAK server when ATAK is closed. Downloads, guide and issues here.",
-    "stars": "1",
+    "stars": "2",
     "text": "cfd2474/TAK_Beacon",
     "title": "cfd2474/TAK_Beacon",
     "url": "https://github.com/cfd2474/TAK_Beacon"
+   }
+  },
+  {
+   "key": "tcmouratec/takvox",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-13T19:11:33Z",
+    "description": "**Push-to-talk voice channels and video calls for ATAK-CIV, on a media server you host yourself (LiveKit).** No cloud account, no third-party service: the plugin talks to your own server.",
+    "stars": "0",
+    "text": "tcmouratec/takvox",
+    "title": "tcmouratec/takvox",
+    "url": "https://github.com/tcmouratec/takvox"
+   }
+  },
+  {
+   "key": "tcmouratec/atakhrf1",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-13T18:16:58Z",
+    "description": "ATAK plugin: HackRF One spectrum analyzer, drone/RF detection and RSSI direction finding on Android, with CoT output to the TAK map",
+    "stars": "0",
+    "text": "tcmouratec/atakhrf1",
+    "title": "tcmouratec/atakhrf1",
+    "url": "https://github.com/tcmouratec/atakhrf1"
    }
   },
   {
@@ -861,18 +909,6 @@
    }
   },
   {
-   "key": "takwerx/takwerx-market",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-13T03:51:17Z",
-    "description": "ATAK Plugin: TAKwerx Market — install and update takwerx plugins from inside ATAK. Downloads, guide and issues here.",
-    "stars": "11",
-    "text": "takwerx/takwerx-market",
-    "title": "takwerx/takwerx-market",
-    "url": "https://github.com/takwerx/takwerx-market"
-   }
-  },
-  {
    "key": "ke8tqb/HBC-ATAK-Plugin",
    "source": "tak-github",
    "fields": {
@@ -882,18 +918,6 @@
     "text": "ke8tqb/HBC-ATAK-Plugin",
     "title": "ke8tqb/HBC-ATAK-Plugin",
     "url": "https://github.com/ke8tqb/HBC-ATAK-Plugin"
-   }
-  },
-  {
-   "key": "gustavtraff/tmm-sensor-planner",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-12T21:26:06Z",
-    "description": "ATAK Plugin",
-    "stars": "0",
-    "text": "gustavtraff/tmm-sensor-planner",
-    "title": "gustavtraff/tmm-sensor-planner",
-    "url": "https://github.com/gustavtraff/tmm-sensor-planner"
    }
   },
   {
@@ -953,18 +977,6 @@
     "text": "besteffortdev/openfire-SAMessage",
     "title": "besteffortdev/openfire-SAMessage",
     "url": "https://github.com/besteffortdev/openfire-SAMessage"
-   }
-  },
-  {
-   "key": "tcmouratec/atakhrf1",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-12T02:49:32Z",
-    "description": "ATAK plugin: HackRF One spectrum analyzer, drone/RF detection and RSSI direction finding on Android, with CoT output to the TAK map",
-    "stars": "0",
-    "text": "tcmouratec/atakhrf1",
-    "title": "tcmouratec/atakhrf1",
-    "url": "https://github.com/tcmouratec/atakhrf1"
    }
   },
   {
@@ -1169,18 +1181,6 @@
     "text": "RyanR3/TRACE",
     "title": "RyanR3/TRACE",
     "url": "https://github.com/RyanR3/TRACE"
-   }
-  },
-  {
-   "key": "PoggyBobby/EMCON-Sentinel",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-07T14:10:16Z",
-    "description": "EMCON Sentinel — ATAK-CIV plugin that warns drone operators when adversary RF direction-finding assets are about to fix their position. Three-tier sensing (phone, MAVLink C2, RTL-SDR) + Friis path-loss + dwell-time composite risk + directional displacement candidates. Army xTech 2026.",
-    "stars": "1",
-    "text": "PoggyBobby/EMCON-Sentinel",
-    "title": "PoggyBobby/EMCON-Sentinel",
-    "url": "https://github.com/PoggyBobby/EMCON-Sentinel"
    }
   },
   {
