@@ -1,14 +1,38 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-13T00:59:51Z",
+ "fetched_at": "2026-10-13T14:19:00Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "yanxiang223/government-tak-server",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-13T07:28:42Z",
+    "description": "This solution demonstrates how to deploy a serverless TAK Server (Team Awareness Kit) on Huawei Cloud, achieving high availability, auto-scaling, and cost-optimized collaboration platform.",
+    "stars": "1",
+    "text": "yanxiang223/government-tak-server",
+    "title": "yanxiang223/government-tak-server",
+    "url": "https://github.com/yanxiang223/government-tak-server"
+   }
+  },
+  {
+   "key": "joshuafuller/SRTM2TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-13T02:03:33Z",
+    "description": "Progressive Web App to download and package SRTM elevation data for ATAK (Android Team Awareness Kit). Features offline caching, concurrent downloads, and automatic ZIP packaging for direct import into ATAK.",
+    "stars": "11",
+    "text": "joshuafuller/SRTM2TAK",
+    "title": "joshuafuller/SRTM2TAK",
+    "url": "https://github.com/joshuafuller/SRTM2TAK"
+   }
+  },
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-13T00:47:47Z",
+    "date": "2026-10-13T11:15:22Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "85",
     "text": "takwerx/infra-TAK",
@@ -101,18 +125,6 @@
    }
   },
   {
-   "key": "joshuafuller/SRTM2TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-09-26T23:29:06Z",
-    "description": "Progressive Web App to download and package SRTM elevation data for ATAK (Android Team Awareness Kit). Features offline caching, concurrent downloads, and automatic ZIP packaging for direct import into ATAK.",
-    "stars": "11",
-    "text": "joshuafuller/SRTM2TAK",
-    "title": "joshuafuller/SRTM2TAK",
-    "url": "https://github.com/joshuafuller/SRTM2TAK"
-   }
-  },
-  {
    "key": "Audrey-cn/universal-agent-embedding-kit",
    "source": "tak-cot",
    "fields": {
@@ -178,7 +190,7 @@
    "fields": {
     "date": "2026-07-30T15:37:33Z",
     "description": "SwiftTAK (Team Awareness Kit) is a Swift Package for exchanging information with TAK Products",
-    "stars": "29",
+    "stars": "30",
     "text": "flighttactics/SwiftTAK",
     "title": "flighttactics/SwiftTAK",
     "url": "https://github.com/flighttactics/SwiftTAK"
@@ -353,24 +365,12 @@
    }
   },
   {
-   "key": "JShadowNull/TAK-Manager",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2025-04-02T19:43:50Z",
-    "description": "A comprehensive TAK Server management solution providing a modern web interface for managing and monitoring TAK (Team Awareness Kit) servers.",
-    "stars": "24",
-    "text": "JShadowNull/TAK-Manager",
-    "title": "JShadowNull/TAK-Manager",
-    "url": "https://github.com/JShadowNull/TAK-Manager"
-   }
-  },
-  {
    "key": "FreeTAKTeam/FreeTakServer",
    "source": "tak-freetak",
    "fields": {
     "date": "2024-10-29T11:52:00Z",
     "description": "Situational Awareness Server compatible with TAK clients",
-    "stars": "963",
+    "stars": "964",
     "text": "FreeTAKTeam/FreeTakServer",
     "title": "FreeTAKTeam/FreeTakServer",
     "url": "https://github.com/FreeTAKTeam/FreeTakServer"
@@ -640,7 +640,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-13T00:13:21Z",
+    "date": "2026-10-13T11:56:47Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "109",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -758,7 +758,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-10T23:24:52Z",
+    "date": "2026-10-13T13:12:15Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "32",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -825,27 +825,63 @@
    }
   },
   {
-   "key": "ke8tqb/HBC-ATAK-Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-13T00:50:13Z",
-    "description": "Implements HBC protocol for a streamline ATAK plugin",
-    "stars": "6",
-    "text": "ke8tqb/HBC-ATAK-Plugin",
-    "title": "ke8tqb/HBC-ATAK-Plugin",
-    "url": "https://github.com/ke8tqb/HBC-ATAK-Plugin"
-   }
-  },
-  {
    "key": "cfd2474/TAK_Beacon",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-13T00:50:01Z",
+    "date": "2026-10-13T14:18:42Z",
     "description": "ATAK Plugin: TAK Beacon — keeps reporting your position to your TAK server when ATAK is closed. Downloads, guide and issues here.",
     "stars": "1",
     "text": "cfd2474/TAK_Beacon",
     "title": "cfd2474/TAK_Beacon",
     "url": "https://github.com/cfd2474/TAK_Beacon"
+   }
+  },
+  {
+   "key": "takwerx/atmosphere",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-13T04:09:03Z",
+    "description": "ATAK Plugin: Atmosphere — fire and hazmat weather on the map: the forecast at a point, radar, satellite, wind, rain, smoke, rivers and the sea. Downloads, guide and issues here.",
+    "stars": "2",
+    "text": "takwerx/atmosphere",
+    "title": "takwerx/atmosphere",
+    "url": "https://github.com/takwerx/atmosphere"
+   }
+  },
+  {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-13T04:15:25Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "5",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
+   "key": "takwerx/takwerx-market",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-13T03:51:17Z",
+    "description": "ATAK Plugin: TAKwerx Market — install and update takwerx plugins from inside ATAK. Downloads, guide and issues here.",
+    "stars": "11",
+    "text": "takwerx/takwerx-market",
+    "title": "takwerx/takwerx-market",
+    "url": "https://github.com/takwerx/takwerx-market"
+   }
+  },
+  {
+   "key": "ke8tqb/HBC-ATAK-Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-13T00:50:13Z",
+    "description": "Implements HBC protocol for a streamline ATAK plugin",
+    "stars": "9",
+    "text": "ke8tqb/HBC-ATAK-Plugin",
+    "title": "ke8tqb/HBC-ATAK-Plugin",
+    "url": "https://github.com/ke8tqb/HBC-ATAK-Plugin"
    }
   },
   {
@@ -870,18 +906,6 @@
     "text": "takwerx/map-depot",
     "title": "takwerx/map-depot",
     "url": "https://github.com/takwerx/map-depot"
-   }
-  },
-  {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-12T19:56:14Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "5",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
    }
   },
   {
@@ -944,18 +968,6 @@
    }
   },
   {
-   "key": "takwerx/atmosphere",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-11T17:44:40Z",
-    "description": "ATAK Plugin: Atmosphere — fire and hazmat weather on the map: the forecast at a point, radar, satellite, wind, rain, smoke, rivers and the sea. Downloads, guide and issues here.",
-    "stars": "2",
-    "text": "takwerx/atmosphere",
-    "title": "takwerx/atmosphere",
-    "url": "https://github.com/takwerx/atmosphere"
-   }
-  },
-  {
    "key": "9M2PJU/ATAK-Civ-Plugins",
    "source": "tak-github",
    "fields": {
@@ -1013,18 +1025,6 @@
     "text": "takwerx/traffic",
     "title": "takwerx/traffic",
     "url": "https://github.com/takwerx/traffic"
-   }
-  },
-  {
-   "key": "takwerx/takwerx-market",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-09T21:13:37Z",
-    "description": "ATAK Plugin: TAKwerx Market — install and update takwerx plugins from inside ATAK. Downloads, guide and issues here.",
-    "stars": "11",
-    "text": "takwerx/takwerx-market",
-    "title": "takwerx/takwerx-market",
-    "url": "https://github.com/takwerx/takwerx-market"
    }
   },
   {
