@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-10-13T23:07:23Z",
+ "fetched_at": "2026-10-14T11:59:01Z",
  "schema_version": 1,
  "records": [
   {
@@ -185,6 +185,18 @@
    }
   },
   {
+   "key": "CONT_AWD_SP470125C0100_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "11364624",
+    "description": "PROCUREMENT INTEGRATED ENTERPRISE ENVIRONMENT ARTIFICIAL INTELLIGENCE MACHINE LEARNING TRANSFORMATION",
+    "text": "CREDENCE MANAGEMENT SOLUTIONS LIMITED LIABILITY COMPANY",
+    "title": "CREDENCE MANAGEMENT SOLUTIONS LIMITED LIABILITY COMPANY",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_SP470125C0100_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_FA703726F0033_9700_FA703726D0002_9700",
    "source": "ai-spending-contracts",
    "fields": {
@@ -266,18 +278,6 @@
     "text": "PALANTIR USG INC",
     "title": "PALANTIR USG INC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_HQ085426PE001_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_SP470125C0100_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "8.2754784e+06",
-    "description": "PROCUREMENT INTEGRATED ENTERPRISE ENVIRONMENT ARTIFICIAL INTELLIGENCE MACHINE LEARNING TRANSFORMATION",
-    "text": "CREDENCE MANAGEMENT SOLUTIONS LIMITED LIABILITY COMPANY",
-    "title": "CREDENCE MANAGEMENT SOLUTIONS LIMITED LIABILITY COMPANY",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_SP470125C0100_9700_-NONE-_-NONE-/"
    }
   },
   {

@@ -1,9 +1,33 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-13T23:08:52Z",
+ "fetched_at": "2026-10-14T12:00:37Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "flighttactics/SwiftTAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-14T05:26:06Z",
+    "description": "SwiftTAK (Team Awareness Kit) is a Swift Package for exchanging information with TAK Products",
+    "stars": "30",
+    "text": "flighttactics/SwiftTAK",
+    "title": "flighttactics/SwiftTAK",
+    "url": "https://github.com/flighttactics/SwiftTAK"
+   }
+  },
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-14T02:27:34Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "85",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
   {
    "key": "yanxiang223/government-tak-server",
    "source": "tak-cot",
@@ -26,18 +50,6 @@
     "text": "joshuafuller/SRTM2TAK",
     "title": "joshuafuller/SRTM2TAK",
     "url": "https://github.com/joshuafuller/SRTM2TAK"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-10-13T23:04:16Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "85",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -182,18 +194,6 @@
     "text": "valmojr/Loki",
     "title": "valmojr/Loki",
     "url": "https://github.com/valmojr/Loki"
-   }
-  },
-  {
-   "key": "flighttactics/SwiftTAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-07-30T15:37:33Z",
-    "description": "SwiftTAK (Team Awareness Kit) is a Swift Package for exchanging information with TAK Products",
-    "stars": "30",
-    "text": "flighttactics/SwiftTAK",
-    "title": "flighttactics/SwiftTAK",
-    "url": "https://github.com/flighttactics/SwiftTAK"
    }
   },
   {
@@ -825,12 +825,48 @@
    }
   },
   {
+   "key": "engindearing-projects/omni-HUD",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-14T06:16:14Z",
+    "description": "open source plugin for HUD management within ATAK",
+    "stars": "5",
+    "text": "engindearing-projects/omni-HUD",
+    "title": "engindearing-projects/omni-HUD",
+    "url": "https://github.com/engindearing-projects/omni-HUD"
+   }
+  },
+  {
+   "key": "tcmouratec/atakhrf1",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-14T03:42:15Z",
+    "description": "ATAK plugin: HackRF One spectrum analyzer, drone/RF detection and RSSI direction finding on Android, with CoT output to the TAK map",
+    "stars": "0",
+    "text": "tcmouratec/atakhrf1",
+    "title": "tcmouratec/atakhrf1",
+    "url": "https://github.com/tcmouratec/atakhrf1"
+   }
+  },
+  {
+   "key": "ke8tqb/HBC-ATAK-Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-14T02:51:26Z",
+    "description": "Implements HBC protocol for a streamline ATAK plugin",
+    "stars": "10",
+    "text": "ke8tqb/HBC-ATAK-Plugin",
+    "title": "ke8tqb/HBC-ATAK-Plugin",
+    "url": "https://github.com/ke8tqb/HBC-ATAK-Plugin"
+   }
+  },
+  {
    "key": "takwerx/takwerx-market",
    "source": "tak-github",
    "fields": {
     "date": "2026-10-13T23:03:14Z",
     "description": "ATAK Plugin: TAKwerx Market — install and update takwerx plugins from inside ATAK. Downloads, guide and issues here.",
-    "stars": "11",
+    "stars": "12",
     "text": "takwerx/takwerx-market",
     "title": "takwerx/takwerx-market",
     "url": "https://github.com/takwerx/takwerx-market"
@@ -852,7 +888,7 @@
    "key": "cfd2474/TAK_Beacon",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-13T21:31:58Z",
+    "date": "2026-10-13T23:58:21Z",
     "description": "ATAK Plugin: TAK Beacon — keeps reporting your position to your TAK server when ATAK is closed. Downloads, guide and issues here.",
     "stars": "2",
     "text": "cfd2474/TAK_Beacon",
@@ -870,18 +906,6 @@
     "text": "tcmouratec/takvox",
     "title": "tcmouratec/takvox",
     "url": "https://github.com/tcmouratec/takvox"
-   }
-  },
-  {
-   "key": "tcmouratec/atakhrf1",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-13T18:16:58Z",
-    "description": "ATAK plugin: HackRF One spectrum analyzer, drone/RF detection and RSSI direction finding on Android, with CoT output to the TAK map",
-    "stars": "0",
-    "text": "tcmouratec/atakhrf1",
-    "title": "tcmouratec/atakhrf1",
-    "url": "https://github.com/tcmouratec/atakhrf1"
    }
   },
   {
@@ -906,18 +930,6 @@
     "text": "takwerx/atak-plugins",
     "title": "takwerx/atak-plugins",
     "url": "https://github.com/takwerx/atak-plugins"
-   }
-  },
-  {
-   "key": "ke8tqb/HBC-ATAK-Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-13T00:50:13Z",
-    "description": "Implements HBC protocol for a streamline ATAK plugin",
-    "stars": "9",
-    "text": "ke8tqb/HBC-ATAK-Plugin",
-    "title": "ke8tqb/HBC-ATAK-Plugin",
-    "url": "https://github.com/ke8tqb/HBC-ATAK-Plugin"
    }
   },
   {
@@ -1169,18 +1181,6 @@
     "text": "takwerx/atak-plugin-pipeline",
     "title": "takwerx/atak-plugin-pipeline",
     "url": "https://github.com/takwerx/atak-plugin-pipeline"
-   }
-  },
-  {
-   "key": "RyanR3/TRACE",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-09T03:43:19Z",
-    "description": "T.R.A.C.E. — Terrain Radio Azimuth Coverage Estimator: ATAK plugin for radio antenna site planning (VHF/UHF/MANET, USGS terrain + tree data)",
-    "stars": "5",
-    "text": "RyanR3/TRACE",
-    "title": "RyanR3/TRACE",
-    "url": "https://github.com/RyanR3/TRACE"
    }
   },
   {

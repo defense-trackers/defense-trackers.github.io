@@ -1,7 +1,7 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-10-13T23:08:23Z",
+ "fetched_at": "2026-10-14T12:00:06Z",
  "schema_version": 1,
  "records": [
   {
@@ -572,9 +572,9 @@
    "key": "idaholab/moose",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-10-13T22:46:27Z",
+    "date": "2026-10-14T08:14:19Z",
     "description": "Multiphysics Object Oriented Simulation Environment",
-    "stars": "2381",
+    "stars": "2382",
     "text": "idaholab/moose",
     "title": "idaholab/moose",
     "url": "https://github.com/idaholab/moose"
@@ -928,18 +928,6 @@
    }
   },
   {
-   "key": "mitre/ansible-cis-tomcat-hardening",
-   "source": "oss-mitre",
-   "fields": {
-    "date": "2025-10-13T23:20:52Z",
-    "description": "WIP Ansible playbook for hardening a tomcat instance to the CIS Tomcat Benchmark v1.0.1",
-    "stars": "7",
-    "text": "mitre/ansible-cis-tomcat-hardening",
-    "title": "mitre/ansible-cis-tomcat-hardening",
-    "url": "https://github.com/mitre/ansible-cis-tomcat-hardening"
-   }
-  },
-  {
    "key": "mitre/apache-tomcat-8-cis-baseline",
    "source": "oss-mitre",
    "fields": {
@@ -949,18 +937,6 @@
     "text": "mitre/apache-tomcat-8-cis-baseline",
     "title": "mitre/apache-tomcat-8-cis-baseline",
     "url": "https://github.com/mitre/apache-tomcat-8-cis-baseline"
-   }
-  },
-  {
-   "key": "mitre/ansible-cis-docker-ce-hardening",
-   "source": "oss-mitre",
-   "fields": {
-    "date": "2025-10-13T23:19:28Z",
-    "description": "(WIP) An ansible playbook to harden a docker host to the CIS CE Benchmark requirements",
-    "stars": "31",
-    "text": "mitre/ansible-cis-docker-ce-hardening",
-    "title": "mitre/ansible-cis-docker-ce-hardening",
-    "url": "https://github.com/mitre/ansible-cis-docker-ce-hardening"
    }
   },
   {
@@ -1005,7 +981,7 @@
    "fields": {
     "date": "2026-10-07T23:03:38Z",
     "description": "A web based mission control framework. ",
-    "stars": "13168",
+    "stars": "13169",
     "text": "nasa/openmct",
     "title": "nasa/openmct",
     "url": "https://github.com/nasa/openmct"
@@ -1017,7 +993,7 @@
    "fields": {
     "date": "2026-10-13T17:00:15Z",
     "description": "Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.",
-    "stars": "826",
+    "stars": "827",
     "text": "nasa/earthdata-search",
     "title": "nasa/earthdata-search",
     "url": "https://github.com/nasa/earthdata-search"
@@ -1065,7 +1041,7 @@
    "fields": {
     "date": "2026-09-28T19:26:23Z",
     "description": "ICAROUS  is a software architecture for the development of UAS applications",
-    "stars": "179",
+    "stars": "180",
     "text": "nasa/icarous",
     "title": "nasa/icarous",
     "url": "https://github.com/nasa/icarous"
@@ -1075,7 +1051,7 @@
    "key": "nasa/Common-Metadata-Repository",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-10-13T22:18:59Z",
+    "date": "2026-10-14T10:25:30Z",
     "description": "The Common Metadata Repository (CMR) is a high-performance, high-quality, continuously evolving metadata system that catalogs Earth Science data and associated service metadata records. These metadata records are registered, modified, discovered, and accessed through programmatic interfaces leveraging standard protocols and APIs.",
     "stars": "399",
     "text": "nasa/Common-Metadata-Repository",
@@ -1326,7 +1302,7 @@
    "key": "ORNL/superneuroabm",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-09-17T19:28:09Z",
+    "date": "2026-10-14T00:11:23Z",
     "description": "A GPU-based multi-agent simulation framework for neuromorphic computing",
     "stars": "8",
     "text": "ORNL/superneuroabm",
@@ -1350,7 +1326,7 @@
    "key": "ORNL/GridKit",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-10-13T22:05:39Z",
+    "date": "2026-10-13T23:45:26Z",
     "description": "Modeling framework for power systems simulations and analysis.",
     "stars": "27",
     "text": "ORNL/GridKit",
