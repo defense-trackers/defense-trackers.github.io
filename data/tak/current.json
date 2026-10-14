@@ -1,7 +1,7 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-14T12:00:37Z",
+ "fetched_at": "2026-10-14T21:57:45Z",
  "schema_version": 1,
  "records": [
   {
@@ -20,9 +20,9 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-14T02:27:34Z",
+    "date": "2026-10-14T20:57:39Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "85",
+    "stars": "86",
     "text": "takwerx/infra-TAK",
     "title": "takwerx/infra-TAK",
     "url": "https://github.com/takwerx/infra-TAK"
@@ -370,7 +370,7 @@
    "fields": {
     "date": "2024-10-29T11:52:00Z",
     "description": "Situational Awareness Server compatible with TAK clients",
-    "stars": "964",
+    "stars": "965",
     "text": "FreeTAKTeam/FreeTakServer",
     "title": "FreeTAKTeam/FreeTakServer",
     "url": "https://github.com/FreeTAKTeam/FreeTakServer"
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/staged-recipes",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-12T14:15:58Z",
+    "date": "2026-10-14T14:02:56Z",
     "description": "A place to submit conda recipes before they become fully fledged conda-forge feedstocks",
     "stars": "0",
     "text": "FreeTAKTeam/staged-recipes",
@@ -822,6 +822,17 @@
     "text": "FreeTAKTeam/atn-rangefinder",
     "title": "FreeTAKTeam/atn-rangefinder",
     "url": "https://github.com/FreeTAKTeam/atn-rangefinder"
+   }
+  },
+  {
+   "key": "Ascent-Integrated-Tech/WearTAK-ATAK-Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-14T20:11:53Z",
+    "stars": "3",
+    "text": "Ascent-Integrated-Tech/WearTAK-ATAK-Plugin",
+    "title": "Ascent-Integrated-Tech/WearTAK-ATAK-Plugin",
+    "url": "https://github.com/Ascent-Integrated-Tech/WearTAK-ATAK-Plugin"
    }
   },
   {
@@ -1169,18 +1180,6 @@
     "text": "takwerx/comms",
     "title": "takwerx/comms",
     "url": "https://github.com/takwerx/comms"
-   }
-  },
-  {
-   "key": "takwerx/atak-plugin-pipeline",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-09T21:09:29Z",
-    "description": "How takwerx builds ATAK plugins and gets them through TAK's third-party signing pipeline, as a Claude Code skill. No SDK included.",
-    "stars": "8",
-    "text": "takwerx/atak-plugin-pipeline",
-    "title": "takwerx/atak-plugin-pipeline",
-    "url": "https://github.com/takwerx/atak-plugin-pipeline"
    }
   },
   {
