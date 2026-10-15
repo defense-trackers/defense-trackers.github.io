@@ -1,7 +1,7 @@
 {
  "source": "authorizations",
  "tracker": "authorizations",
- "fetched_at": "2026-10-14T21:56:16Z",
+ "fetched_at": "2026-10-15T11:35:48Z",
  "schema_version": 1,
  "records": [
   {
@@ -1137,20 +1137,6 @@
    }
   },
   {
-   "key": "FR2524349489",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Fortreum, LLC",
-    "date": "2026-02-10T20:00:00.000Z",
-    "impact": "Moderate",
-    "model": "SaaS",
-    "status": "FedRAMP Authorized",
-    "text": "IBM Data Services for Government",
-    "title": "IBM Data Services for Government",
-    "url": "ibm.com"
-   }
-  },
-  {
    "key": "FR2504062150",
    "source": "authorizations-fedramp-ai",
    "fields": {
@@ -1162,6 +1148,20 @@
     "text": "IBM Federal ATOM",
     "title": "IBM Federal ATOM",
     "url": "https://ibm-atom.com/"
+   }
+  },
+  {
+   "key": "FR2524349489",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Fortreum, LLC",
+    "date": "2026-02-10T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "IBM Data Services for Government",
+    "title": "IBM Data Services for Government",
+    "url": "ibm.com"
    }
   },
   {
@@ -1190,20 +1190,6 @@
     "text": "NetSfere Enterprise",
     "title": "NetSfere Enterprise",
     "url": "https://netsfere.com/fedramp"
-   }
-  },
-  {
-   "key": "FR2321143030",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "First Information Technology Services, Inc.",
-    "date": "Not Active",
-    "impact": "Moderate",
-    "model": "SaaS",
-    "status": "FedRAMP Ready",
-    "text": "Content Manager Records Management Application (RMA) Cloud Service Offering (CSO)",
-    "title": "Content Manager Records Management Application (RMA) Cloud Service Offering (CSO)",
-    "url": "https://www.info-first.com/content-manager-msaas.html"
    }
   },
   {
@@ -1542,20 +1528,6 @@
    }
   },
   {
-   "key": "FR2215946050",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2024-08-21T20:00:00.000Z",
-    "impact": "Moderate",
-    "model": "PaaS, SaaS",
-    "status": "FedRAMP Authorized",
-    "text": "ITMX Platform featuring Service \u0026 Asset Management, Universal Discovery, CMDB and Project \u0026 Portfolio Management",
-    "title": "ITMX Platform featuring Service \u0026 Asset Management, Universal Discovery, CMDB and Project \u0026 Portfolio Management",
-    "url": "https://www.opentext.com/products/observability-service-management-cloud"
-   }
-  },
-  {
    "key": "FR2203732438",
    "source": "authorizations-fedramp-ai",
    "fields": {
@@ -1567,6 +1539,20 @@
     "text": "OpenText Cloud for Government",
     "title": "OpenText Cloud for Government",
     "url": "https://www.opentext.com/products/content-management-for-government#services-section"
+   }
+  },
+  {
+   "key": "FR2215946050",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2024-08-21T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "PaaS, SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "ITMX Platform featuring Service \u0026 Asset Management, Universal Discovery, CMDB and Project \u0026 Portfolio Management",
+    "title": "ITMX Platform featuring Service \u0026 Asset Management, Universal Discovery, CMDB and Project \u0026 Portfolio Management",
+    "url": "https://www.opentext.com/products/observability-service-management-cloud"
    }
   },
   {
@@ -2058,14 +2044,14 @@
    }
   },
   {
-   "key": "FR2531434700",
+   "key": "FR2531434700XL",
    "source": "authorizations-fedramp-ai",
    "fields": {
     "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
-    "impact": "Moderate",
+    "date": "2025-09-17T20:00:00.000Z",
+    "impact": "20x Low",
     "model": "SaaS",
-    "status": "Agency In Process",
+    "status": "FedRAMP Authorized",
     "text": "Palette VerteX",
     "title": "Palette VerteX",
     "url": "https://www.spectrocloud.com/"
@@ -2378,16 +2364,16 @@
    }
   },
   {
-   "key": "FR2421252644",
+   "key": "FR2421252636",
    "source": "authorizations-fedramp-ai",
    "fields": {
     "assessor": "Schellman Compliance, LLC",
-    "date": "2025-06-16T20:00:00.000Z",
+    "date": "2025-05-14T20:00:00.000Z",
     "impact": "Moderate",
     "model": "SaaS",
     "status": "FedRAMP Authorized",
-    "text": "Varonis DatAdvantage Cloud",
-    "title": "Varonis DatAdvantage Cloud",
+    "text": "Varonis Data Security Platform",
+    "title": "Varonis Data Security Platform",
     "url": "https://www.varonis.com"
    }
   },

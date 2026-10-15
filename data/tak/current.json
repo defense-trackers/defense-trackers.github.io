@@ -1,9 +1,33 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-14T21:57:45Z",
+ "fetched_at": "2026-10-15T11:37:21Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "Audrey-cn/universal-agent-embedding-kit",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-15T01:00:25Z",
+    "description": "Model-agnostic, embeddable agent kit — verification, adaptive context, effort routing, cache-aware cost model, cross-platform graded benchmarks. Evidence-first: every metric is red-teamed and tagged on an evidence-strength ladder with honest caveats.",
+    "stars": "0",
+    "text": "Audrey-cn/universal-agent-embedding-kit",
+    "title": "Audrey-cn/universal-agent-embedding-kit",
+    "url": "https://github.com/Audrey-cn/universal-agent-embedding-kit"
+   }
+  },
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-15T07:23:45Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "86",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
   {
    "key": "flighttactics/SwiftTAK",
    "source": "tak-cot",
@@ -14,18 +38,6 @@
     "text": "flighttactics/SwiftTAK",
     "title": "flighttactics/SwiftTAK",
     "url": "https://github.com/flighttactics/SwiftTAK"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-10-14T20:57:39Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "86",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -92,7 +104,7 @@
    "key": "rixau/atak-reactive",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-09T23:55:24Z",
+    "date": "2026-10-15T04:21:53Z",
     "description": "Build ATAK (Android Team Awareness Kit) plugin UIs with React and TypeScript. Typed WebView bridge, hot reload, incremental adoption.",
     "stars": "2",
     "text": "rixau/atak-reactive",
@@ -134,18 +146,6 @@
     "text": "microtak/microtak-server",
     "title": "microtak/microtak-server",
     "url": "https://github.com/microtak/microtak-server"
-   }
-  },
-  {
-   "key": "Audrey-cn/universal-agent-embedding-kit",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-09-19T10:32:24Z",
-    "description": "Model-agnostic, embeddable agent kit — verification, adaptive context, effort routing, cache-aware cost model, cross-platform graded benchmarks. Evidence-first: every metric is red-teamed and tagged on an evidence-strength ladder with honest caveats.",
-    "stars": "0",
-    "text": "Audrey-cn/universal-agent-embedding-kit",
-    "title": "Audrey-cn/universal-agent-embedding-kit",
-    "url": "https://github.com/Audrey-cn/universal-agent-embedding-kit"
    }
   },
   {
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-11T02:46:05Z",
+    "date": "2026-10-14T22:08:01Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "38",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -825,6 +825,66 @@
    }
   },
   {
+   "key": "cfd2474/TAK_Beacon",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-15T06:20:17Z",
+    "description": "ATAK Plugin: TAK Beacon — keeps reporting your position to your TAK server when ATAK is closed. Downloads, guide and issues here.",
+    "stars": "2",
+    "text": "cfd2474/TAK_Beacon",
+    "title": "cfd2474/TAK_Beacon",
+    "url": "https://github.com/cfd2474/TAK_Beacon"
+   }
+  },
+  {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-15T02:24:22Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "5",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
+   "key": "RemArrow/geronimo-ecoti",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-15T01:22:31Z",
+    "description": "ECOTI Thermal Fusion for Geronimo (VR): thermal-fusion night vision and a panoramic fusion goggle with an ATAK HUD. A GML plugin.",
+    "stars": "0",
+    "text": "RemArrow/geronimo-ecoti",
+    "title": "RemArrow/geronimo-ecoti",
+    "url": "https://github.com/RemArrow/geronimo-ecoti"
+   }
+  },
+  {
+   "key": "ke8tqb/HBC-ATAK-Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-15T00:22:10Z",
+    "description": "Implements HBC protocol for a streamline ATAK plugin",
+    "stars": "10",
+    "text": "ke8tqb/HBC-ATAK-Plugin",
+    "title": "ke8tqb/HBC-ATAK-Plugin",
+    "url": "https://github.com/ke8tqb/HBC-ATAK-Plugin"
+   }
+  },
+  {
+   "key": "PoggyBobby/EMCON-Sentinel",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-14T22:24:28Z",
+    "description": "EMCON Sentinel — ATAK-CIV plugin that warns drone operators when adversary RF direction-finding assets are about to fix their position. Three-tier sensing (phone, MAVLink C2, RTL-SDR) + Friis path-loss + dwell-time composite risk + directional displacement candidates. Army xTech 2026.",
+    "stars": "2",
+    "text": "PoggyBobby/EMCON-Sentinel",
+    "title": "PoggyBobby/EMCON-Sentinel",
+    "url": "https://github.com/PoggyBobby/EMCON-Sentinel"
+   }
+  },
+  {
    "key": "Ascent-Integrated-Tech/WearTAK-ATAK-Plugin",
    "source": "tak-github",
    "fields": {
@@ -860,18 +920,6 @@
    }
   },
   {
-   "key": "ke8tqb/HBC-ATAK-Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-14T02:51:26Z",
-    "description": "Implements HBC protocol for a streamline ATAK plugin",
-    "stars": "10",
-    "text": "ke8tqb/HBC-ATAK-Plugin",
-    "title": "ke8tqb/HBC-ATAK-Plugin",
-    "url": "https://github.com/ke8tqb/HBC-ATAK-Plugin"
-   }
-  },
-  {
    "key": "takwerx/takwerx-market",
    "source": "tak-github",
    "fields": {
@@ -896,18 +944,6 @@
    }
   },
   {
-   "key": "cfd2474/TAK_Beacon",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-13T23:58:21Z",
-    "description": "ATAK Plugin: TAK Beacon — keeps reporting your position to your TAK server when ATAK is closed. Downloads, guide and issues here.",
-    "stars": "2",
-    "text": "cfd2474/TAK_Beacon",
-    "title": "cfd2474/TAK_Beacon",
-    "url": "https://github.com/cfd2474/TAK_Beacon"
-   }
-  },
-  {
    "key": "tcmouratec/takvox",
    "source": "tak-github",
    "fields": {
@@ -929,18 +965,6 @@
     "text": "takwerx/atmosphere",
     "title": "takwerx/atmosphere",
     "url": "https://github.com/takwerx/atmosphere"
-   }
-  },
-  {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-13T04:15:25Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "5",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
    }
   },
   {
@@ -1156,30 +1180,6 @@
     "text": "takwerx/dozer-country",
     "title": "takwerx/dozer-country",
     "url": "https://github.com/takwerx/dozer-country"
-   }
-  },
-  {
-   "key": "takwerx/cursorwerx",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-09T21:11:07Z",
-    "description": "ATAK Plugin: Cursorwerx — makes ATAK work with a mouse or trackpad: wheel zoom at the cursor, wheel scrolling in panes, click-drag panning, a Back button. Downloads, guide and issues here.",
-    "stars": "2",
-    "text": "takwerx/cursorwerx",
-    "title": "takwerx/cursorwerx",
-    "url": "https://github.com/takwerx/cursorwerx"
-   }
-  },
-  {
-   "key": "takwerx/comms",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-09T21:10:58Z",
-    "description": "ATAK Plugin: Comms — mountaintop radio sites, the nets on each and the tone that opens them. Downloads, guide and issues here.",
-    "stars": "3",
-    "text": "takwerx/comms",
-    "title": "takwerx/comms",
-    "url": "https://github.com/takwerx/comms"
    }
   },
   {

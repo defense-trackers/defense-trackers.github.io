@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-10-14T21:57:48Z",
+ "fetched_at": "2026-10-15T11:37:24Z",
  "schema_version": 1,
  "records": [
   {
@@ -33,7 +33,7 @@
    "source": "transition-prototype",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "3.5023522463e+08",
+    "amount": "3.4875340943e+08",
     "description": "TECHNICAL SUPPORT FOR PROTOTYPE INTEGRATION FACILITY",
     "text": "INTUITIVE RESEARCH AND TECHNOLOGY CORPORATION",
     "title": "INTUITIVE RESEARCH AND TECHNOLOGY CORPORATION",
@@ -233,6 +233,18 @@
    }
   },
   {
+   "key": "CONT_AWD_FA248720F4310_9700_FA248718D4300_9700",
+   "source": "transition-prototype",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "4.778086589e+07",
+    "description": "TEST\u0026EVALUATION TECHNOLOGIES, ARMAMENTS, AND SPECTRUM (TETRAS), RNRE PROTOTYPE\u0026DEVELOPMENT II",
+    "text": "INTUITIVE RESEARCH AND TECHNOLOGY CORPORATION",
+    "title": "INTUITIVE RESEARCH AND TECHNOLOGY CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA248720F4310_9700_FA248718D4300_9700/"
+   }
+  },
+  {
    "key": "CONT_AWD_HQ072723F1100_9700_HQ072716D0001_9700",
    "source": "transition-prototype",
    "fields": {
@@ -389,6 +401,18 @@
    }
   },
   {
+   "key": "CONT_AWD_HQ072723F1410_9700_HQ072716D0004_9700",
+   "source": "transition-prototype",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "32923790",
+    "description": "THE ADVANCED TECHNOLOGY SUPPORT PROGRAM (ATSP) CONTRACT ACQUIRED PROGRESSIVE MICROELECTRONIC CAPABILITY SOLUTIONS FOR ENGINEERING SERVICES TO ANALYZE, DESIGN, AND DEVELOP AN ENGINEERING EVALUATION PROTOTYPE RELATED CIRCUIT CARD ASSEMBLIES.",
+    "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+    "title": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_HQ072723F1410_9700_HQ072716D0004_9700/"
+   }
+  },
+  {
    "key": "CONT_AWD_N0017324F2004_9700_N0017322D2001_9700",
    "source": "transition-prototype",
    "fields": {
@@ -422,18 +446,6 @@
     "text": "TEKLA RESEARCH, INC.",
     "title": "TEKLA RESEARCH, INC.",
     "url": "https://www.usaspending.gov/award/CONT_AWD_N0017319F3001_9700_N0017814D7965_9700/"
-   }
-  },
-  {
-   "key": "CONT_AWD_HQ072723F1410_9700_HQ072716D0004_9700",
-   "source": "transition-prototype",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "30273333",
-    "description": "THE ADVANCED TECHNOLOGY SUPPORT PROGRAM (ATSP) CONTRACT ACQUIRED PROGRESSIVE MICROELECTRONIC CAPABILITY SOLUTIONS FOR ENGINEERING SERVICES TO ANALYZE, DESIGN, AND DEVELOP AN ENGINEERING EVALUATION PROTOTYPE RELATED CIRCUIT CARD ASSEMBLIES.",
-    "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-    "title": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_HQ072723F1410_9700_HQ072716D0004_9700/"
    }
   },
   {
@@ -593,18 +605,6 @@
    }
   },
   {
-   "key": "CONT_AWD_FA945320C5000_9700_-NONE-_-NONE-",
-   "source": "transition-prototype",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "1.713628241e+07",
-    "description": "ADVANCED GLOBAL POSITIONING TECHNOLOGIES (AGT)- FA9453-20-C-5000 -WIDEBAND GPS DIGITAL TRANSMITTER PROTOTYPE SYSTEM AND ARCHITECTURE",
-    "text": "CANYON CONSULTING, LLC",
-    "title": "CANYON CONSULTING, LLC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_FA945320C5000_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
    "key": "CONT_AWD_HT940216C0001_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -713,7 +713,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "20393455474",
+    "amount": "20394165895",
     "award_id": "N0002412C2115",
     "description": "SSN 792 LONG LEAD TIME MATERIAL",
     "text": "ELECTRIC BOAT CORPORATION",
@@ -778,7 +778,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "1.342673668985e+10",
+    "amount": "1.342682897485e+10",
     "award_id": "N0002416C2116",
     "description": "CVN 80 ENGINEERING EFFORTS AND STEEL",
     "text": "HUNTINGTON INGALLS INC",
@@ -1128,7 +1128,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "7.04131097026e+09",
+    "amount": "7.04351097026e+09",
     "award_id": "FA863418C2701",
     "description": "F-15, FMS, F-15QA AIR VEHICLE DEVELOPMENT",
     "text": "THE BOEING COMPANY",
