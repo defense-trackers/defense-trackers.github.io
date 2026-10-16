@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-10-15T21:46:30Z",
+ "fetched_at": "2026-10-16T11:30:13Z",
  "schema_version": 1,
  "records": [
   {
@@ -21,7 +21,7 @@
    "source": "ai-spending-contracts",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "7.84986952e+07",
+    "amount": "8.34986952e+07",
     "description": "CONTRACT TO RESEARCH, DEVELOP, MODIFY, DEPLOY, OPERATE, AND MAINTAIN ARTIFICIAL INTELLIGENCE/MACHINE LEARNING (AI/ML) ALGORITHMS AND MODELS.",
     "text": "ECS FEDERAL, LLC",
     "title": "ECS FEDERAL, LLC",
@@ -257,6 +257,18 @@
    }
   },
   {
+   "key": "CONT_AWD_W911QX26CA003_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "9481000",
+    "description": "BROAD AGENCY ANNOUNCEMENT NAUTILUS ARTIFICIAL INTELLIGENCE RESEARCH AND DEVELOPMENT",
+    "text": "ECS FEDERAL, LLC",
+    "title": "ECS FEDERAL, LLC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W911QX26CA003_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_W912QR26CA010_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
@@ -314,18 +326,6 @@
     "text": "RAYTHEON COMPANY",
     "title": "RAYTHEON COMPANY",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W56KGU24C0026_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_W911QX26CA003_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "5981000",
-    "description": "BROAD AGENCY ANNOUNCEMENT NAUTILUS ARTIFICIAL INTELLIGENCE RESEARCH AND DEVELOPMENT",
-    "text": "ECS FEDERAL, LLC",
-    "title": "ECS FEDERAL, LLC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W911QX26CA003_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -608,7 +608,7 @@
    "key": "806026852",
    "source": "ai-spending-recipients",
    "fields": {
-    "amount": "9.020674276e+07",
+    "amount": "9.870674276e+07",
     "text": "ECS FEDERAL, LLC",
     "title": "ECS FEDERAL, LLC",
     "url": "https://www.usaspending.gov/search"

@@ -1,14 +1,26 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-15T21:48:02Z",
+ "fetched_at": "2026-10-16T11:31:45Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "snstac/pytak",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-15T21:20:37Z",
+    "description": "PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.",
+    "stars": "257",
+    "text": "snstac/pytak",
+    "title": "snstac/pytak",
+    "url": "https://github.com/snstac/pytak"
+   }
+  },
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-15T21:23:40Z",
+    "date": "2026-10-16T05:15:00Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "86",
     "text": "takwerx/infra-TAK",
@@ -113,18 +125,6 @@
    }
   },
   {
-   "key": "snstac/pytak",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-10-15T21:20:37Z",
-    "description": "PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.",
-    "stars": "256",
-    "text": "snstac/pytak",
-    "title": "snstac/pytak",
-    "url": "https://github.com/snstac/pytak"
-   }
-  },
-  {
    "key": "hkaanturgut/spec-kit-fleetwise",
    "source": "tak-cot",
    "fields": {
@@ -176,7 +176,7 @@
    "key": "snstac/dronecot",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-09-05T00:28:11Z",
+    "date": "2026-10-16T04:51:48Z",
     "description": "DroneCOT is software for monitoring and analyzing Direct Remote Identification (DRI), Remote ID (RID) or Open Drone ID (ODID) broadcasts from Uncrewed Aircraft (UA) via the Team Awareness Kit (TAK) ecosystem of products.",
     "stars": "39",
     "text": "snstac/dronecot",
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-15T19:44:48Z",
+    "date": "2026-10-16T02:00:17Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "39",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -758,7 +758,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-15T21:05:53Z",
+    "date": "2026-10-16T10:23:34Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "33",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -837,6 +837,54 @@
    }
   },
   {
+   "key": "gustavtraff/tmm-sensor-planner",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-16T06:23:28Z",
+    "description": "ATAK Plugin",
+    "stars": "0",
+    "text": "gustavtraff/tmm-sensor-planner",
+    "title": "gustavtraff/tmm-sensor-planner",
+    "url": "https://github.com/gustavtraff/tmm-sensor-planner"
+   }
+  },
+  {
+   "key": "takwerx/atmosphere",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-16T02:53:52Z",
+    "description": "ATAK Plugin: Atmosphere — fire and hazmat weather on the map: the forecast at a point, radar, satellite, wind, rain, smoke, rivers and the sea. Downloads, guide and issues here.",
+    "stars": "2",
+    "text": "takwerx/atmosphere",
+    "title": "takwerx/atmosphere",
+    "url": "https://github.com/takwerx/atmosphere"
+   }
+  },
+  {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-16T02:59:16Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "5",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
+   "key": "TX-RX/TAK-XVoice",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-16T00:34:46Z",
+    "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
+    "stars": "10",
+    "text": "TX-RX/TAK-XVoice",
+    "title": "TX-RX/TAK-XVoice",
+    "url": "https://github.com/TX-RX/TAK-XVoice"
+   }
+  },
+  {
    "key": "cfd2474/TAK_Beacon",
    "source": "tak-github",
    "fields": {
@@ -846,18 +894,6 @@
     "text": "cfd2474/TAK_Beacon",
     "title": "cfd2474/TAK_Beacon",
     "url": "https://github.com/cfd2474/TAK_Beacon"
-   }
-  },
-  {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-15T18:58:06Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "5",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
    }
   },
   {
@@ -944,18 +980,6 @@
    }
   },
   {
-   "key": "gustavtraff/tmm-sensor-planner",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-13T22:47:23Z",
-    "description": "ATAK Plugin",
-    "stars": "0",
-    "text": "gustavtraff/tmm-sensor-planner",
-    "title": "gustavtraff/tmm-sensor-planner",
-    "url": "https://github.com/gustavtraff/tmm-sensor-planner"
-   }
-  },
-  {
    "key": "tcmouratec/takvox",
    "source": "tak-github",
    "fields": {
@@ -965,18 +989,6 @@
     "text": "tcmouratec/takvox",
     "title": "tcmouratec/takvox",
     "url": "https://github.com/tcmouratec/takvox"
-   }
-  },
-  {
-   "key": "takwerx/atmosphere",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-13T04:09:03Z",
-    "description": "ATAK Plugin: Atmosphere — fire and hazmat weather on the map: the forecast at a point, radar, satellite, wind, rain, smoke, rivers and the sea. Downloads, guide and issues here.",
-    "stars": "2",
-    "text": "takwerx/atmosphere",
-    "title": "takwerx/atmosphere",
-    "url": "https://github.com/takwerx/atmosphere"
    }
   },
   {
@@ -1044,7 +1056,7 @@
    "fields": {
     "date": "2026-10-11T06:50:49Z",
     "description": "Compilation of ATAK Civ and plugins",
-    "stars": "20",
+    "stars": "21",
     "text": "9M2PJU/ATAK-Civ-Plugins",
     "title": "9M2PJU/ATAK-Civ-Plugins",
     "url": "https://github.com/9M2PJU/ATAK-Civ-Plugins"
@@ -1180,18 +1192,6 @@
     "text": "takwerx/evac-zone",
     "title": "takwerx/evac-zone",
     "url": "https://github.com/takwerx/evac-zone"
-   }
-  },
-  {
-   "key": "takwerx/dozer-country",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-09T21:11:16Z",
-    "description": "ATAK Plugin: Dozer Country — where a dozer can work, shaded on the map against the S-232 slope limits. Downloads, guide and issues here.",
-    "stars": "1",
-    "text": "takwerx/dozer-country",
-    "title": "takwerx/dozer-country",
-    "url": "https://github.com/takwerx/dozer-country"
    }
   },
   {

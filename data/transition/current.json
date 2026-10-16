@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-10-15T21:48:04Z",
+ "fetched_at": "2026-10-16T11:31:48Z",
  "schema_version": 1,
  "records": [
   {
@@ -453,7 +453,7 @@
    "source": "transition-prototype",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "2.840060586e+07",
+    "amount": "2.900060586e+07",
     "description": "ENGINEERING AND TECHNICAL SUPPORT FOR THE TEST AND EVALUATION AND PROTOTYPE FABRICATION DIVISION",
     "text": "BEVILACQUA RESEARCH CORPORATION",
     "title": "BEVILACQUA RESEARCH CORPORATION",
@@ -618,6 +618,19 @@
    }
   },
   {
+   "key": "CONT_AWD_N0002417C2100_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "35737749929",
+    "award_id": "N0002417C2100",
+    "description": "SSN 802 AND 803 LONG LEAD TIME MATERIAL",
+    "text": "ELECTRIC BOAT CORPORATION",
+    "title": "ELECTRIC BOAT CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_N0002417C2100_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_N0001917C0001_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -628,19 +641,6 @@
     "text": "LOCKHEED MARTIN CORPORATION",
     "title": "LOCKHEED MARTIN CORPORATION",
     "url": "https://www.usaspending.gov/award/CONT_AWD_N0001917C0001_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_N0002417C2100_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "34923898025",
-    "award_id": "N0002417C2100",
-    "description": "SSN 802 AND 803 LONG LEAD TIME MATERIAL",
-    "text": "ELECTRIC BOAT CORPORATION",
-    "title": "ELECTRIC BOAT CORPORATION",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_N0002417C2100_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -1137,6 +1137,19 @@
    }
   },
   {
+   "key": "CONT_AWD_N0002424C2110_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "7041693031",
+    "award_id": "N0002424C2110",
+    "description": "SSN 814 \u0026 SSN 815 LONG LEAD TIME MATERIAL",
+    "text": "ELECTRIC BOAT CORPORATION",
+    "title": "ELECTRIC BOAT CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_N0002424C2110_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_N0001917C0015_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -1225,19 +1238,6 @@
     "text": "THE BOEING COMPANY",
     "title": "THE BOEING COMPANY",
     "url": "https://www.usaspending.gov/award/CONT_AWD_HQ014712C0004_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_N0002424C2110_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "6339762942",
-    "award_id": "N0002424C2110",
-    "description": "SSN 814 \u0026 SSN 815 LONG LEAD TIME MATERIAL",
-    "text": "ELECTRIC BOAT CORPORATION",
-    "title": "ELECTRIC BOAT CORPORATION",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_N0002424C2110_9700_-NONE-_-NONE-/"
    }
   },
   {

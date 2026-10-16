@@ -1,9 +1,19 @@
 {
  "source": "authorizations",
  "tracker": "authorizations",
- "fetched_at": "2026-10-15T21:46:32Z",
+ "fetched_at": "2026-10-16T11:30:16Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "FR2508262726",
+   "source": "authorizations-fedramp",
+   "fields": {
+    "date": "2026-10-13T20:00:00.000Z",
+    "status": "Now Authorized",
+    "text": "Dexcom Clarity for Government",
+    "title": "Dexcom Clarity for Government"
+   }
+  },
   {
    "key": "FR2518943913",
    "source": "authorizations-fedramp",
@@ -22,16 +32,6 @@
     "status": "Now Authorized",
     "text": "Bizzdesign GovCloud",
     "title": "Bizzdesign GovCloud"
-   }
-  },
-  {
-   "key": "FR2600545894",
-   "source": "authorizations-fedramp",
-   "fields": {
-    "date": "2026-08-26T20:00:00.000Z",
-    "status": "Now Authorized",
-    "text": "Butterfly Network Ultrasound",
-    "title": "Butterfly Network Ultrasound"
    }
   },
   {
@@ -890,10 +890,10 @@
    "source": "authorizations-fedramp-ai",
    "fields": {
     "assessor": "Schellman Compliance, LLC",
-    "date": "Not Active",
+    "date": "2026-10-13T20:00:00.000Z",
     "impact": "Moderate",
     "model": "SaaS",
-    "status": "FedRAMP In Process",
+    "status": "FedRAMP Authorized",
     "text": "Dexcom Clarity for Government",
     "title": "Dexcom Clarity for Government",
     "url": "https://clarity.dexcom.us/professional/"
