@@ -1,7 +1,7 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-10-16T11:31:15Z",
+ "fetched_at": "2026-10-16T21:43:49Z",
  "schema_version": 1,
  "records": [
   {
@@ -250,7 +250,7 @@
    "fields": {
     "date": "2026-10-15T22:46:30Z",
     "description": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.",
-    "stars": "2546",
+    "stars": "2547",
     "text": "cisagov/Malcolm",
     "title": "cisagov/Malcolm",
     "url": "https://github.com/cisagov/Malcolm"
@@ -572,7 +572,7 @@
    "key": "idaholab/moose",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-10-16T08:13:38Z",
+    "date": "2026-10-16T21:10:55Z",
     "description": "Multiphysics Object Oriented Simulation Environment",
     "stars": "2386",
     "text": "idaholab/moose",
@@ -778,7 +778,7 @@
    "fields": {
     "date": "2026-10-09T23:25:50Z",
     "description": "Simplified Data Exchange for HPC Simulations",
-    "stars": "248",
+    "stars": "249",
     "text": "llnl/conduit",
     "title": "llnl/conduit",
     "url": "https://github.com/llnl/conduit"
@@ -800,7 +800,7 @@
    "key": "llnl/SAMRAI",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-10-14T17:05:22Z",
+    "date": "2026-10-16T21:15:40Z",
     "description": "Structured Adaptive Mesh Refinement Application Infrastructure - a scalable C++ framework for block-structured AMR application development",
     "stars": "250",
     "text": "llnl/SAMRAI",
@@ -826,7 +826,7 @@
    "fields": {
     "date": "2026-10-15T21:15:31Z",
     "description": "RAJA Performance Portability Layer (C++)",
-    "stars": "602",
+    "stars": "603",
     "text": "llnl/RAJA",
     "title": "llnl/RAJA",
     "url": "https://github.com/llnl/RAJA"
@@ -847,7 +847,7 @@
    "key": "llnl/GridDyn",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-10-16T01:25:38Z",
+    "date": "2026-10-16T12:37:18Z",
     "description": "GridDyn is an open-source power transmission simulation software package",
     "stars": "63",
     "text": "llnl/GridDyn",
@@ -873,7 +873,7 @@
    "fields": {
     "date": "2026-10-13T18:55:52Z",
     "description": "Cyber Threat Intelligence Repository expressed in STIX 2.0",
-    "stars": "2154",
+    "stars": "2155",
     "text": "mitre/cti",
     "title": "mitre/cti",
     "url": "https://github.com/mitre/cti"
@@ -967,7 +967,7 @@
    "key": "nasa/trick",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-10-14T20:50:25Z",
+    "date": "2026-10-16T18:48:30Z",
     "description": "Trick Simulation Environment.  Trick provides a common set of simulation capabilities and utilities to build simulations automatically.",
     "stars": "176",
     "text": "nasa/trick",
@@ -981,7 +981,7 @@
    "fields": {
     "date": "2026-10-15T23:06:52Z",
     "description": "A web based mission control framework. ",
-    "stars": "13175",
+    "stars": "13176",
     "text": "nasa/openmct",
     "title": "nasa/openmct",
     "url": "https://github.com/nasa/openmct"
@@ -991,7 +991,7 @@
    "key": "nasa/earthdata-search",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-10-15T21:05:52Z",
+    "date": "2026-10-16T20:37:42Z",
     "description": "Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.",
     "stars": "827",
     "text": "nasa/earthdata-search",
@@ -1051,7 +1051,7 @@
    "key": "nasa/Common-Metadata-Repository",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-10-16T00:47:29Z",
+    "date": "2026-10-16T17:19:32Z",
     "description": "The Common Metadata Repository (CMR) is a high-performance, high-quality, continuously evolving metadata system that catalogs Earth Science data and associated service metadata records. These metadata records are registered, modified, discovered, and accessed through programmatic interfaces leveraging standard protocols and APIs.",
     "stars": "399",
     "text": "nasa/Common-Metadata-Repository",
@@ -1099,7 +1099,7 @@
    "key": "ngageoint/hootenanny",
    "source": "oss-ngageoint",
    "fields": {
-    "date": "2026-10-15T16:05:14Z",
+    "date": "2026-10-16T11:56:54Z",
     "description": "Hootenanny conflates multiple maps into a single seamless map.",
     "stars": "395",
     "text": "ngageoint/hootenanny",
@@ -1171,7 +1171,7 @@
    "key": "nsacyber/HIRS",
    "source": "oss-nsacyber",
    "fields": {
-    "date": "2026-10-15T21:23:10Z",
+    "date": "2026-10-16T16:25:46Z",
     "description": "Trusted Computing based services supporting TPM provisioning and supply chain validation concepts. #nsacyber",
     "stars": "213",
     "text": "nsacyber/HIRS",
@@ -1232,7 +1232,7 @@
    "source": "oss-ornl",
    "fields": {
     "date": "2026-10-15T20:39:16Z",
-    "stars": "309",
+    "stars": "310",
     "text": "ORNL/HeCBench",
     "title": "ORNL/HeCBench",
     "url": "https://github.com/ORNL/HeCBench"
@@ -1302,7 +1302,7 @@
    "key": "ORNL/superneuroabm",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-10-14T00:11:23Z",
+    "date": "2026-10-16T14:56:52Z",
     "description": "A GPU-based multi-agent simulation framework for neuromorphic computing",
     "stars": "8",
     "text": "ORNL/superneuroabm",
@@ -1400,7 +1400,7 @@
    "fields": {
     "date": "2026-10-01T21:14:08Z",
     "description": "An open source, Python-based software platform for energy storage simulation and analysis developed by Sandia National Laboratories.",
-    "stars": "160",
+    "stars": "161",
     "text": "sandialabs/snl-quest",
     "title": "sandialabs/snl-quest",
     "url": "https://github.com/sandialabs/snl-quest"
