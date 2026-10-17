@@ -1,9 +1,45 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-17T10:51:39Z",
+ "fetched_at": "2026-10-17T20:59:23Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "microtak/microtak-server",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-17T20:55:35Z",
+    "description": "A lightweight, mesh-federated TAK (Team Awareness Kit) server written in Rust",
+    "stars": "0",
+    "text": "microtak/microtak-server",
+    "title": "microtak/microtak-server",
+    "url": "https://github.com/microtak/microtak-server"
+   }
+  },
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-17T18:28:40Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "87",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
+  {
+   "key": "Audrey-cn/universal-agent-embedding-kit",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-17T14:08:18Z",
+    "description": "Model-agnostic, embeddable agent kit — verification, adaptive context, effort routing, cache-aware cost model, cross-platform graded benchmarks. Evidence-first: every metric is red-teamed and tagged on an evidence-strength ladder with honest caveats.",
+    "stars": "0",
+    "text": "Audrey-cn/universal-agent-embedding-kit",
+    "title": "Audrey-cn/universal-agent-embedding-kit",
+    "url": "https://github.com/Audrey-cn/universal-agent-embedding-kit"
+   }
+  },
   {
    "key": "snstac/dronecot",
    "source": "tak-cot",
@@ -17,18 +53,6 @@
    }
   },
   {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-10-17T05:04:13Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "87",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
-   }
-  },
-  {
    "key": "snstac/pytak",
    "source": "tak-cot",
    "fields": {
@@ -38,18 +62,6 @@
     "text": "snstac/pytak",
     "title": "snstac/pytak",
     "url": "https://github.com/snstac/pytak"
-   }
-  },
-  {
-   "key": "Audrey-cn/universal-agent-embedding-kit",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-10-15T01:00:25Z",
-    "description": "Model-agnostic, embeddable agent kit — verification, adaptive context, effort routing, cache-aware cost model, cross-platform graded benchmarks. Evidence-first: every metric is red-teamed and tagged on an evidence-strength ladder with honest caveats.",
-    "stars": "0",
-    "text": "Audrey-cn/universal-agent-embedding-kit",
-    "title": "Audrey-cn/universal-agent-embedding-kit",
-    "url": "https://github.com/Audrey-cn/universal-agent-embedding-kit"
    }
   },
   {
@@ -146,18 +158,6 @@
     "text": "hkaanturgut/spec-kit-fleetwise",
     "title": "hkaanturgut/spec-kit-fleetwise",
     "url": "https://github.com/hkaanturgut/spec-kit-fleetwise"
-   }
-  },
-  {
-   "key": "microtak/microtak-server",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-09-29T12:22:49Z",
-    "description": "A lightweight, mesh-federated TAK (Team Awareness Kit) server written in Rust",
-    "stars": "0",
-    "text": "microtak/microtak-server",
-    "title": "microtak/microtak-server",
-    "url": "https://github.com/microtak/microtak-server"
    }
   },
   {
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-16T16:52:40Z",
+    "date": "2026-10-17T20:44:24Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "39",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -837,10 +837,34 @@
    }
   },
   {
+   "key": "besteffortdev/openfire-SAMessage",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-17T19:21:53Z",
+    "description": "Plugins for Openfire 5.0.5 and up that enable communication between openfire user and atak client over multicast.",
+    "stars": "0",
+    "text": "besteffortdev/openfire-SAMessage",
+    "title": "besteffortdev/openfire-SAMessage",
+    "url": "https://github.com/besteffortdev/openfire-SAMessage"
+   }
+  },
+  {
+   "key": "gustavtraff/tmm-sensor-planner",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-17T17:20:13Z",
+    "description": "ATAK Plugin",
+    "stars": "0",
+    "text": "gustavtraff/tmm-sensor-planner",
+    "title": "gustavtraff/tmm-sensor-planner",
+    "url": "https://github.com/gustavtraff/tmm-sensor-planner"
+   }
+  },
+  {
    "key": "cfd2474/TAK_Beacon",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-17T05:21:31Z",
+    "date": "2026-10-17T20:20:54Z",
     "description": "ATAK Plugin: TAK Beacon — keeps reporting your position to your TAK server when ATAK is closed. Downloads, guide and issues here.",
     "stars": "2",
     "text": "cfd2474/TAK_Beacon",
@@ -861,18 +885,6 @@
    }
   },
   {
-   "key": "gustavtraff/tmm-sensor-planner",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-16T23:13:49Z",
-    "description": "ATAK Plugin",
-    "stars": "0",
-    "text": "gustavtraff/tmm-sensor-planner",
-    "title": "gustavtraff/tmm-sensor-planner",
-    "url": "https://github.com/gustavtraff/tmm-sensor-planner"
-   }
-  },
-  {
    "key": "aegorsuch/atak-plugin-firecone",
    "source": "tak-github",
    "fields": {
@@ -890,7 +902,7 @@
    "fields": {
     "date": "2026-10-16T02:53:52Z",
     "description": "ATAK Plugin: Atmosphere — fire and hazmat weather on the map: the forecast at a point, radar, satellite, wind, rain, smoke, rivers and the sea. Downloads, guide and issues here.",
-    "stars": "2",
+    "stars": "3",
     "text": "takwerx/atmosphere",
     "title": "takwerx/atmosphere",
     "url": "https://github.com/takwerx/atmosphere"
@@ -971,7 +983,7 @@
    "key": "engindearing-projects/omni-HUD",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-14T06:16:14Z",
+    "date": "2026-10-17T17:18:47Z",
     "description": "open source plugin for HUD management within ATAK",
     "stars": "5",
     "text": "engindearing-projects/omni-HUD",
@@ -997,7 +1009,7 @@
    "fields": {
     "date": "2026-10-13T23:03:14Z",
     "description": "ATAK Plugin: TAKwerx Market — install and update takwerx plugins from inside ATAK. Downloads, guide and issues here.",
-    "stars": "12",
+    "stars": "13",
     "text": "takwerx/takwerx-market",
     "title": "takwerx/takwerx-market",
     "url": "https://github.com/takwerx/takwerx-market"
@@ -1063,18 +1075,6 @@
    }
   },
   {
-   "key": "besteffortdev/openfire-SAMessage",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-12T06:18:39Z",
-    "description": "Plugins for Openfire 5.0.5 and up that enable communication between openfire user and atak client over multicast.",
-    "stars": "0",
-    "text": "besteffortdev/openfire-SAMessage",
-    "title": "besteffortdev/openfire-SAMessage",
-    "url": "https://github.com/besteffortdev/openfire-SAMessage"
-   }
-  },
-  {
    "key": "9M2PJU/ATAK-Civ-Plugins",
    "source": "tak-github",
    "fields": {
@@ -1104,7 +1104,7 @@
    "fields": {
     "date": "2026-10-10T03:25:07Z",
     "description": "ATAK Plugin: AirAware — airspace awareness: restrictions, airspace classes, special use, UAS ceilings, obstacles and airfield conditions, with a UAS flight planner. Downloads, guide and issues here.",
-    "stars": "2",
+    "stars": "3",
     "text": "takwerx/air-aware",
     "title": "takwerx/air-aware",
     "url": "https://github.com/takwerx/air-aware"
