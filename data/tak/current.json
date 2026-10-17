@@ -1,14 +1,26 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-16T21:44:20Z",
+ "fetched_at": "2026-10-17T10:51:39Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "snstac/dronecot",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-17T06:18:41Z",
+    "description": "DroneCOT is software for monitoring and analyzing Direct Remote Identification (DRI), Remote ID (RID) or Open Drone ID (ODID) broadcasts from Uncrewed Aircraft (UA) via the Team Awareness Kit (TAK) ecosystem of products.",
+    "stars": "40",
+    "text": "snstac/dronecot",
+    "title": "snstac/dronecot",
+    "url": "https://github.com/snstac/dronecot"
+   }
+  },
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-16T16:05:06Z",
+    "date": "2026-10-17T05:04:13Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "87",
     "text": "takwerx/infra-TAK",
@@ -116,7 +128,7 @@
    "key": "rixau/atak-reactive",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-15T04:21:53Z",
+    "date": "2026-10-16T23:14:39Z",
     "description": "Build ATAK (Android Team Awareness Kit) plugin UIs with React and TypeScript. Typed WebView bridge, hot reload, incremental adoption.",
     "stars": "2",
     "text": "rixau/atak-reactive",
@@ -170,18 +182,6 @@
     "text": "trakbridge/trakbridge",
     "title": "trakbridge/trakbridge",
     "url": "https://github.com/trakbridge/trakbridge"
-   }
-  },
-  {
-   "key": "snstac/dronecot",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-10-16T04:51:48Z",
-    "description": "DroneCOT is software for monitoring and analyzing Direct Remote Identification (DRI), Remote ID (RID) or Open Drone ID (ODID) broadcasts from Uncrewed Aircraft (UA) via the Team Awareness Kit (TAK) ecosystem of products.",
-    "stars": "39",
-    "text": "snstac/dronecot",
-    "title": "snstac/dronecot",
-    "url": "https://github.com/snstac/dronecot"
    }
   },
   {
@@ -793,7 +793,7 @@
    "key": "FreeTAKTeam/ReticulumDistributedObject",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-09-10T10:54:02Z",
+    "date": "2026-10-17T08:20:18Z",
     "stars": "0",
     "text": "FreeTAKTeam/ReticulumDistributedObject",
     "title": "FreeTAKTeam/ReticulumDistributedObject",
@@ -804,7 +804,7 @@
    "key": "FreeTAKTeam/rpp-spec",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-08-08T17:49:47Z",
+    "date": "2026-10-17T08:19:15Z",
     "description": "Normative specification for the Reticulum Package Protocol",
     "stars": "0",
     "text": "FreeTAKTeam/rpp-spec",
@@ -837,10 +837,22 @@
    }
   },
   {
+   "key": "cfd2474/TAK_Beacon",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-17T05:21:31Z",
+    "description": "ATAK Plugin: TAK Beacon — keeps reporting your position to your TAK server when ATAK is closed. Downloads, guide and issues here.",
+    "stars": "2",
+    "text": "cfd2474/TAK_Beacon",
+    "title": "cfd2474/TAK_Beacon",
+    "url": "https://github.com/cfd2474/TAK_Beacon"
+   }
+  },
+  {
    "key": "aegorsuch/atak-plugin-houndmaster",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-16T19:51:16Z",
+    "date": "2026-10-17T02:31:47Z",
     "description": "Bloodhound order management",
     "stars": "3",
     "text": "aegorsuch/atak-plugin-houndmaster",
@@ -849,27 +861,27 @@
    }
   },
   {
-   "key": "aegorsuch/atak-plugin-firecone",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-16T19:44:20Z",
-    "description": "Firecone ATAK plugin (secondary GitHub repository; TAK Forge is canonical)",
-    "stars": "2",
-    "text": "aegorsuch/atak-plugin-firecone",
-    "title": "aegorsuch/atak-plugin-firecone",
-    "url": "https://github.com/aegorsuch/atak-plugin-firecone"
-   }
-  },
-  {
    "key": "gustavtraff/tmm-sensor-planner",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-16T16:38:50Z",
+    "date": "2026-10-16T23:13:49Z",
     "description": "ATAK Plugin",
     "stars": "0",
     "text": "gustavtraff/tmm-sensor-planner",
     "title": "gustavtraff/tmm-sensor-planner",
     "url": "https://github.com/gustavtraff/tmm-sensor-planner"
+   }
+  },
+  {
+   "key": "aegorsuch/atak-plugin-firecone",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-16T22:38:51Z",
+    "description": "Firecone ATAK plugin (secondary GitHub repository; TAK Forge is canonical)",
+    "stars": "2",
+    "text": "aegorsuch/atak-plugin-firecone",
+    "title": "aegorsuch/atak-plugin-firecone",
+    "url": "https://github.com/aegorsuch/atak-plugin-firecone"
    }
   },
   {
@@ -906,18 +918,6 @@
     "text": "TX-RX/TAK-XVoice",
     "title": "TX-RX/TAK-XVoice",
     "url": "https://github.com/TX-RX/TAK-XVoice"
-   }
-  },
-  {
-   "key": "cfd2474/TAK_Beacon",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-15T06:20:17Z",
-    "description": "ATAK Plugin: TAK Beacon — keeps reporting your position to your TAK server when ATAK is closed. Downloads, guide and issues here.",
-    "stars": "2",
-    "text": "cfd2474/TAK_Beacon",
-    "title": "cfd2474/TAK_Beacon",
-    "url": "https://github.com/cfd2474/TAK_Beacon"
    }
   },
   {

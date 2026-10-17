@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-10-16T21:44:23Z",
+ "fetched_at": "2026-10-17T10:51:43Z",
  "schema_version": 1,
  "records": [
   {
@@ -843,7 +843,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "1.04786943859e+10",
+    "amount": "1.047526535417e+10",
     "award_id": "W31P4Q20C0023",
     "description": "THE CONTRACT AWARD IS FOR THE FY21/FY22/FY23 BASE AND OPTION PRICING FOR PHASE ARRAY TRACKING RADAR TO INTERCEPT ON TARGET (PATRIOT) ADVANCED CAPABILITY-3 (PAC-3) PRODUCTION REQUIREMENTS FOR THE UNITED STATES (US) AND FOREIGN MILITARY SALES (FMS)",
     "text": "LOCKHEED MARTIN CORPORATION",
@@ -856,7 +856,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "1.018158704543e+10",
+    "amount": "1.031052063543e+10",
     "award_id": "W31P4Q24C0022",
     "description": "EXECUTE PHASED ARRAY TRACKING RADAR TO INTERCEPT ON TARGET (PATRIOT) ADVANCED CAPABILITY-3 (PAC-3) MISSILE PRODUCTION BY PROVIDING INCIDENTAL SERVICES, HARDWARE, FACILITIES, EQUIPMENT, AND TECHNICAL, PLANNING, MANAGEMENT, AND MANUFACTURING EFFORTS.",
     "text": "LOCKHEED MARTIN CORPORATION",
@@ -1012,7 +1012,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "7810421297",
+    "amount": "7811016297",
     "award_id": "N0001924C0039",
     "description": "CY24 AVSC SUPPLY SUPPORT",
     "text": "LOCKHEED MARTIN CORPORATION",
@@ -1111,19 +1111,6 @@
    }
   },
   {
-   "key": "CONT_AWD_N0001911C0083_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "7.18613570516e+09",
-    "award_id": "N0001911C0083",
-    "description": "F-35 LIGHTNING II JOINT STRIKE FIGHTER (JSF) LOW RATE INITIAL PRODUCTION (LRIP) LOT 6 ADVANCE ACQUISITION CONTRACT",
-    "text": "LOCKHEED MARTIN CORPORATION",
-    "title": "LOCKHEED MARTIN CORPORATION",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_N0001911C0083_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
    "key": "CONT_AWD_FA863418C2701_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -1180,7 +1167,7 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "6.95738100874e+09",
+    "amount": "6.95825702674e+09",
     "award_id": "N0002418C2307",
     "description": "FY18-FY22 DDG 51 CLASS SHIP CONSTRUCTION",
     "text": "HUNTINGTON INGALLS INCORPORATED",
@@ -1251,6 +1238,18 @@
     "text": "OSHKOSH DEFENSE LLC",
     "title": "OSHKOSH DEFENSE LLC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W56HZV15C0095_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_N0001906C0081_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "6.10328553196e+09",
+    "award_id": "N0001906C0081",
+    "text": "SIKORSKY AIRCRAFT CORPORATION",
+    "title": "SIKORSKY AIRCRAFT CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_N0001906C0081_9700_-NONE-_-NONE-/"
    }
   }
  ]
