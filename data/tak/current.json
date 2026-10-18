@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-17T20:59:23Z",
+ "fetched_at": "2026-10-18T11:15:16Z",
  "schema_version": 1,
  "records": [
   {
    "key": "microtak/microtak-server",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-17T20:55:35Z",
+    "date": "2026-10-18T09:11:53Z",
     "description": "A lightweight, mesh-federated TAK (Team Awareness Kit) server written in Rust",
     "stars": "0",
     "text": "microtak/microtak-server",
@@ -20,7 +20,7 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-17T18:28:40Z",
+    "date": "2026-10-18T04:03:43Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "87",
     "text": "takwerx/infra-TAK",
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-17T20:44:24Z",
+    "date": "2026-10-18T09:14:49Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "39",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -837,6 +837,42 @@
    }
   },
   {
+   "key": "shigeki7299/ATAK-Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-18T11:14:55Z",
+    "description": "ATAK plugin portfolio for tactical navigation, compass, PTT, MANET, targeting, and field-support tools. Includes Android development and offline operation experiments.",
+    "stars": "0",
+    "text": "shigeki7299/ATAK-Plugin",
+    "title": "shigeki7299/ATAK-Plugin",
+    "url": "https://github.com/shigeki7299/ATAK-Plugin"
+   }
+  },
+  {
+   "key": "gustavtraff/tmm-sensor-planner",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-18T11:01:12Z",
+    "description": "ATAK Plugin",
+    "stars": "0",
+    "text": "gustavtraff/tmm-sensor-planner",
+    "title": "gustavtraff/tmm-sensor-planner",
+    "url": "https://github.com/gustavtraff/tmm-sensor-planner"
+   }
+  },
+  {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-18T04:08:02Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "5",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
    "key": "besteffortdev/openfire-SAMessage",
    "source": "tak-github",
    "fields": {
@@ -849,22 +885,10 @@
    }
   },
   {
-   "key": "gustavtraff/tmm-sensor-planner",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-17T17:20:13Z",
-    "description": "ATAK Plugin",
-    "stars": "0",
-    "text": "gustavtraff/tmm-sensor-planner",
-    "title": "gustavtraff/tmm-sensor-planner",
-    "url": "https://github.com/gustavtraff/tmm-sensor-planner"
-   }
-  },
-  {
    "key": "cfd2474/TAK_Beacon",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-17T20:20:54Z",
+    "date": "2026-10-17T22:13:01Z",
     "description": "ATAK Plugin: TAK Beacon — keeps reporting your position to your TAK server when ATAK is closed. Downloads, guide and issues here.",
     "stars": "2",
     "text": "cfd2474/TAK_Beacon",
@@ -906,18 +930,6 @@
     "text": "takwerx/atmosphere",
     "title": "takwerx/atmosphere",
     "url": "https://github.com/takwerx/atmosphere"
-   }
-  },
-  {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-16T02:59:16Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "5",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
    }
   },
   {
@@ -1061,17 +1073,6 @@
     "text": "buie-byte/tak-air-track-intelligence",
     "title": "buie-byte/tak-air-track-intelligence",
     "url": "https://github.com/buie-byte/tak-air-track-intelligence"
-   }
-  },
-  {
-   "key": "shigeki7299/ATAK_Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-12T15:31:32Z",
-    "stars": "0",
-    "text": "shigeki7299/ATAK_Plugin",
-    "title": "shigeki7299/ATAK_Plugin",
-    "url": "https://github.com/shigeki7299/ATAK_Plugin"
    }
   },
   {
