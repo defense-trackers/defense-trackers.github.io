@@ -1,19 +1,31 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-18T11:15:16Z",
+ "fetched_at": "2026-10-18T21:03:42Z",
  "schema_version": 1,
  "records": [
   {
    "key": "microtak/microtak-server",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-18T09:11:53Z",
+    "date": "2026-10-18T20:53:16Z",
     "description": "A lightweight, mesh-federated TAK (Team Awareness Kit) server written in Rust",
     "stars": "0",
     "text": "microtak/microtak-server",
     "title": "microtak/microtak-server",
     "url": "https://github.com/microtak/microtak-server"
+   }
+  },
+  {
+   "key": "Audrey-cn/universal-agent-embedding-kit",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-18T13:18:01Z",
+    "description": "Model-agnostic, embeddable agent kit — verification, adaptive context, effort routing, cache-aware cost model, cross-platform graded benchmarks. Evidence-first: every metric is red-teamed and tagged on an evidence-strength ladder with honest caveats.",
+    "stars": "0",
+    "text": "Audrey-cn/universal-agent-embedding-kit",
+    "title": "Audrey-cn/universal-agent-embedding-kit",
+    "url": "https://github.com/Audrey-cn/universal-agent-embedding-kit"
    }
   },
   {
@@ -26,18 +38,6 @@
     "text": "takwerx/infra-TAK",
     "title": "takwerx/infra-TAK",
     "url": "https://github.com/takwerx/infra-TAK"
-   }
-  },
-  {
-   "key": "Audrey-cn/universal-agent-embedding-kit",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-10-17T14:08:18Z",
-    "description": "Model-agnostic, embeddable agent kit — verification, adaptive context, effort routing, cache-aware cost model, cross-platform graded benchmarks. Evidence-first: every metric is red-teamed and tagged on an evidence-strength ladder with honest caveats.",
-    "stars": "0",
-    "text": "Audrey-cn/universal-agent-embedding-kit",
-    "title": "Audrey-cn/universal-agent-embedding-kit",
-    "url": "https://github.com/Audrey-cn/universal-agent-embedding-kit"
    }
   },
   {
@@ -394,7 +394,7 @@
    "fields": {
     "date": "2025-09-22T00:48:17Z",
     "description": "FreeTAKServer documentation for end users",
-    "stars": "80",
+    "stars": "81",
     "text": "FreeTAKTeam/FreeTAKServer-User-Docs",
     "title": "FreeTAKTeam/FreeTAKServer-User-Docs",
     "url": "https://github.com/FreeTAKTeam/FreeTAKServer-User-Docs"
@@ -758,7 +758,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-16T18:05:02Z",
+    "date": "2026-10-18T17:01:46Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "33",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -828,7 +828,7 @@
    "key": "FreeTAKTeam/atn-rangefinder",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-07T20:22:08Z",
+    "date": "2026-10-18T17:01:44Z",
     "description": "ATN rangefinder protocol research, REM integration planning, and synthetic fixtures",
     "stars": "0",
     "text": "FreeTAKTeam/atn-rangefinder",
@@ -837,27 +837,51 @@
    }
   },
   {
-   "key": "shigeki7299/ATAK-Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-18T11:14:55Z",
-    "description": "ATAK plugin portfolio for tactical navigation, compass, PTT, MANET, targeting, and field-support tools. Includes Android development and offline operation experiments.",
-    "stars": "0",
-    "text": "shigeki7299/ATAK-Plugin",
-    "title": "shigeki7299/ATAK-Plugin",
-    "url": "https://github.com/shigeki7299/ATAK-Plugin"
-   }
-  },
-  {
    "key": "gustavtraff/tmm-sensor-planner",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-18T11:01:12Z",
+    "date": "2026-10-18T20:49:41Z",
     "description": "ATAK Plugin",
     "stars": "0",
     "text": "gustavtraff/tmm-sensor-planner",
     "title": "gustavtraff/tmm-sensor-planner",
     "url": "https://github.com/gustavtraff/tmm-sensor-planner"
+   }
+  },
+  {
+   "key": "besteffortdev/openfire-SAMessage",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-18T17:17:56Z",
+    "description": "Plugins for Openfire 5.0.5 and up that enable communication between openfire user and atak client over multicast.",
+    "stars": "0",
+    "text": "besteffortdev/openfire-SAMessage",
+    "title": "besteffortdev/openfire-SAMessage",
+    "url": "https://github.com/besteffortdev/openfire-SAMessage"
+   }
+  },
+  {
+   "key": "cfd2474/TAK_Beacon",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-18T16:07:46Z",
+    "description": "ATAK Plugin: TAK Beacon — keeps reporting your position to your TAK server when ATAK is closed. Downloads, guide and issues here.",
+    "stars": "2",
+    "text": "cfd2474/TAK_Beacon",
+    "title": "cfd2474/TAK_Beacon",
+    "url": "https://github.com/cfd2474/TAK_Beacon"
+   }
+  },
+  {
+   "key": "shigeki7299/ATAK-Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-18T12:01:18Z",
+    "description": "ATAK plugin portfolio for tactical navigation, compass, PTT, MANET, targeting, and field-support tools. Includes Android development and offline operation experiments.",
+    "stars": "0",
+    "text": "shigeki7299/ATAK-Plugin",
+    "title": "shigeki7299/ATAK-Plugin",
+    "url": "https://github.com/shigeki7299/ATAK-Plugin"
    }
   },
   {
@@ -873,34 +897,10 @@
    }
   },
   {
-   "key": "besteffortdev/openfire-SAMessage",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-17T19:21:53Z",
-    "description": "Plugins for Openfire 5.0.5 and up that enable communication between openfire user and atak client over multicast.",
-    "stars": "0",
-    "text": "besteffortdev/openfire-SAMessage",
-    "title": "besteffortdev/openfire-SAMessage",
-    "url": "https://github.com/besteffortdev/openfire-SAMessage"
-   }
-  },
-  {
-   "key": "cfd2474/TAK_Beacon",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-17T22:13:01Z",
-    "description": "ATAK Plugin: TAK Beacon — keeps reporting your position to your TAK server when ATAK is closed. Downloads, guide and issues here.",
-    "stars": "2",
-    "text": "cfd2474/TAK_Beacon",
-    "title": "cfd2474/TAK_Beacon",
-    "url": "https://github.com/cfd2474/TAK_Beacon"
-   }
-  },
-  {
    "key": "aegorsuch/atak-plugin-houndmaster",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-17T02:31:47Z",
+    "date": "2026-10-18T18:36:44Z",
     "description": "Bloodhound order management",
     "stars": "3",
     "text": "aegorsuch/atak-plugin-houndmaster",
@@ -912,7 +912,7 @@
    "key": "aegorsuch/atak-plugin-firecone",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-16T22:38:51Z",
+    "date": "2026-10-18T18:38:16Z",
     "description": "Firecone ATAK plugin (secondary GitHub repository; TAK Forge is canonical)",
     "stars": "2",
     "text": "aegorsuch/atak-plugin-firecone",
