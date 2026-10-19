@@ -1,19 +1,31 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-18T21:03:42Z",
+ "fetched_at": "2026-10-19T13:26:46Z",
  "schema_version": 1,
  "records": [
   {
    "key": "microtak/microtak-server",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-18T20:53:16Z",
+    "date": "2026-10-19T07:54:12Z",
     "description": "A lightweight, mesh-federated TAK (Team Awareness Kit) server written in Rust",
     "stars": "0",
     "text": "microtak/microtak-server",
     "title": "microtak/microtak-server",
     "url": "https://github.com/microtak/microtak-server"
+   }
+  },
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-19T01:03:54Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "87",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -26,18 +38,6 @@
     "text": "Audrey-cn/universal-agent-embedding-kit",
     "title": "Audrey-cn/universal-agent-embedding-kit",
     "url": "https://github.com/Audrey-cn/universal-agent-embedding-kit"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-10-18T04:03:43Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "87",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -430,7 +430,7 @@
    "fields": {
     "date": "2022-08-06T13:17:21Z",
     "description": "a list of hardware and software to be used in conjunction with ATAK platform",
-    "stars": "302",
+    "stars": "303",
     "text": "FreeTAKTeam/openTAKpickList",
     "title": "FreeTAKTeam/openTAKpickList",
     "url": "https://github.com/FreeTAKTeam/openTAKpickList"
@@ -549,7 +549,7 @@
    "fields": {
     "date": "2026-05-21T19:32:24Z",
     "description": "A project that host a ATAK plugin that display a PPT button for Mumla Android ",
-    "stars": "29",
+    "stars": "30",
     "text": "FreeTAKTeam/FreeTAKMumla_Plugin",
     "title": "FreeTAKTeam/FreeTAKMumla_Plugin",
     "url": "https://github.com/FreeTAKTeam/FreeTAKMumla_Plugin"
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-18T09:14:49Z",
+    "date": "2026-10-19T00:44:28Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "39",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -758,7 +758,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-18T17:01:46Z",
+    "date": "2026-10-18T23:02:58Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "33",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -837,10 +837,45 @@
    }
   },
   {
+   "key": "CopIXus/PlowTAK",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-19T13:12:29Z",
+    "description": "PlowTAK — ATAK plugin for snow plow fleet coverage tracking during winter storms (CopIX)",
+    "stars": "3",
+    "text": "CopIXus/PlowTAK",
+    "title": "CopIXus/PlowTAK",
+    "url": "https://github.com/CopIXus/PlowTAK"
+   }
+  },
+  {
+   "key": "shigeki7299/ATAK-Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-19T06:06:30Z",
+    "description": "ATAK plugin portfolio for tactical navigation, compass, PTT, MANET, targeting, and field-support tools. Includes Android development and offline operation experiments.",
+    "stars": "0",
+    "text": "shigeki7299/ATAK-Plugin",
+    "title": "shigeki7299/ATAK-Plugin",
+    "url": "https://github.com/shigeki7299/ATAK-Plugin"
+   }
+  },
+  {
+   "key": "Ascent-Integrated-Tech/WearTAK-ATAK-Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-19T00:18:21Z",
+    "stars": "3",
+    "text": "Ascent-Integrated-Tech/WearTAK-ATAK-Plugin",
+    "title": "Ascent-Integrated-Tech/WearTAK-ATAK-Plugin",
+    "url": "https://github.com/Ascent-Integrated-Tech/WearTAK-ATAK-Plugin"
+   }
+  },
+  {
    "key": "gustavtraff/tmm-sensor-planner",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-18T20:49:41Z",
+    "date": "2026-10-18T21:34:42Z",
     "description": "ATAK Plugin",
     "stars": "0",
     "text": "gustavtraff/tmm-sensor-planner",
@@ -870,18 +905,6 @@
     "text": "cfd2474/TAK_Beacon",
     "title": "cfd2474/TAK_Beacon",
     "url": "https://github.com/cfd2474/TAK_Beacon"
-   }
-  },
-  {
-   "key": "shigeki7299/ATAK-Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-18T12:01:18Z",
-    "description": "ATAK plugin portfolio for tactical navigation, compass, PTT, MANET, targeting, and field-support tools. Includes Android development and offline operation experiments.",
-    "stars": "0",
-    "text": "shigeki7299/ATAK-Plugin",
-    "title": "shigeki7299/ATAK-Plugin",
-    "url": "https://github.com/shigeki7299/ATAK-Plugin"
    }
   },
   {
@@ -981,17 +1004,6 @@
    }
   },
   {
-   "key": "Ascent-Integrated-Tech/WearTAK-ATAK-Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-14T20:11:53Z",
-    "stars": "3",
-    "text": "Ascent-Integrated-Tech/WearTAK-ATAK-Plugin",
-    "title": "Ascent-Integrated-Tech/WearTAK-ATAK-Plugin",
-    "url": "https://github.com/Ascent-Integrated-Tech/WearTAK-ATAK-Plugin"
-   }
-  },
-  {
    "key": "engindearing-projects/omni-HUD",
    "source": "tak-github",
    "fields": {
@@ -1081,7 +1093,7 @@
    "fields": {
     "date": "2026-10-11T06:50:49Z",
     "description": "Compilation of ATAK Civ and plugins",
-    "stars": "21",
+    "stars": "22",
     "text": "9M2PJU/ATAK-Civ-Plugins",
     "title": "9M2PJU/ATAK-Civ-Plugins",
     "url": "https://github.com/9M2PJU/ATAK-Civ-Plugins"
@@ -1181,18 +1193,6 @@
     "text": "takwerx/ipaws-alerts",
     "title": "takwerx/ipaws-alerts",
     "url": "https://github.com/takwerx/ipaws-alerts"
-   }
-  },
-  {
-   "key": "takwerx/fobs",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-09T21:11:55Z",
-    "description": "ATAK Plugin: FOBS — Field Observation Survey: walk, draw, import, split and join a perimeter into an ATAK shape, live to a Data Sync feed. Downloads, guide and issues here.",
-    "stars": "2",
-    "text": "takwerx/fobs",
-    "title": "takwerx/fobs",
-    "url": "https://github.com/takwerx/fobs"
    }
   },
   {
