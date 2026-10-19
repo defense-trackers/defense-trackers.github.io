@@ -1,9 +1,21 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-19T13:26:46Z",
+ "fetched_at": "2026-10-19T22:39:44Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-19T22:33:39Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "87",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
   {
    "key": "microtak/microtak-server",
    "source": "tak-cot",
@@ -14,18 +26,6 @@
     "text": "microtak/microtak-server",
     "title": "microtak/microtak-server",
     "url": "https://github.com/microtak/microtak-server"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-10-19T01:03:54Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "87",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/staged-recipes",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-15T12:36:41Z",
+    "date": "2026-10-19T17:18:39Z",
     "description": "A place to submit conda recipes before they become fully fledged conda-forge feedstocks",
     "stars": "0",
     "text": "FreeTAKTeam/staged-recipes",
@@ -758,9 +758,9 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-18T23:02:58Z",
+    "date": "2026-10-19T20:10:47Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
-    "stars": "33",
+    "stars": "35",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
     "title": "FreeTAKTeam/reticulum_mobile_emergency_management",
     "url": "https://github.com/FreeTAKTeam/reticulum_mobile_emergency_management"
@@ -837,10 +837,69 @@
    }
   },
   {
+   "key": "Ascent-Integrated-Tech/atak-plugin-weartak-companion",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-19T22:05:56Z",
+    "stars": "3",
+    "text": "Ascent-Integrated-Tech/atak-plugin-weartak-companion",
+    "title": "Ascent-Integrated-Tech/atak-plugin-weartak-companion",
+    "url": "https://github.com/Ascent-Integrated-Tech/atak-plugin-weartak-companion"
+   }
+  },
+  {
+   "key": "takwerx/atmosphere",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-19T20:56:00Z",
+    "description": "ATAK Plugin: Atmosphere — fire and hazmat weather on the map: the forecast at a point, radar, satellite, wind, rain, smoke, rivers and the sea. Downloads, guide and issues here.",
+    "stars": "3",
+    "text": "takwerx/atmosphere",
+    "title": "takwerx/atmosphere",
+    "url": "https://github.com/takwerx/atmosphere"
+   }
+  },
+  {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-19T21:25:33Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "5",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
+   "key": "takwerx/cursorwerx",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-19T20:08:21Z",
+    "description": "ATAK Plugin: Cursorwerx — makes ATAK work with a mouse or trackpad: wheel zoom at the cursor, wheel scrolling in panes, click-drag panning, a Back button. Downloads, guide and issues here.",
+    "stars": "3",
+    "text": "takwerx/cursorwerx",
+    "title": "takwerx/cursorwerx",
+    "url": "https://github.com/takwerx/cursorwerx"
+   }
+  },
+  {
+   "key": "takwerx/comms",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-19T19:37:11Z",
+    "description": "ATAK Plugin: Comms — mountaintop radio sites, the nets on each and the tone that opens them. Downloads, guide and issues here.",
+    "stars": "3",
+    "text": "takwerx/comms",
+    "title": "takwerx/comms",
+    "url": "https://github.com/takwerx/comms"
+   }
+  },
+  {
    "key": "CopIXus/PlowTAK",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-19T13:12:29Z",
+    "date": "2026-10-19T19:09:46Z",
     "description": "PlowTAK — ATAK plugin for snow plow fleet coverage tracking during winter storms (CopIX)",
     "stars": "3",
     "text": "CopIXus/PlowTAK",
@@ -858,17 +917,6 @@
     "text": "shigeki7299/ATAK-Plugin",
     "title": "shigeki7299/ATAK-Plugin",
     "url": "https://github.com/shigeki7299/ATAK-Plugin"
-   }
-  },
-  {
-   "key": "Ascent-Integrated-Tech/WearTAK-ATAK-Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-19T00:18:21Z",
-    "stars": "3",
-    "text": "Ascent-Integrated-Tech/WearTAK-ATAK-Plugin",
-    "title": "Ascent-Integrated-Tech/WearTAK-ATAK-Plugin",
-    "url": "https://github.com/Ascent-Integrated-Tech/WearTAK-ATAK-Plugin"
    }
   },
   {
@@ -908,18 +956,6 @@
    }
   },
   {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-18T04:08:02Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "5",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
-   }
-  },
-  {
    "key": "aegorsuch/atak-plugin-houndmaster",
    "source": "tak-github",
    "fields": {
@@ -941,18 +977,6 @@
     "text": "aegorsuch/atak-plugin-firecone",
     "title": "aegorsuch/atak-plugin-firecone",
     "url": "https://github.com/aegorsuch/atak-plugin-firecone"
-   }
-  },
-  {
-   "key": "takwerx/atmosphere",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-16T02:53:52Z",
-    "description": "ATAK Plugin: Atmosphere — fire and hazmat weather on the map: the forecast at a point, radar, satellite, wind, rain, smoke, rivers and the sea. Downloads, guide and issues here.",
-    "stars": "3",
-    "text": "takwerx/atmosphere",
-    "title": "takwerx/atmosphere",
-    "url": "https://github.com/takwerx/atmosphere"
    }
   },
   {
@@ -1169,30 +1193,6 @@
     "text": "takwerx/plss-grid",
     "title": "takwerx/plss-grid",
     "url": "https://github.com/takwerx/plss-grid"
-   }
-  },
-  {
-   "key": "takwerx/plss-data",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-09T21:12:50Z",
-    "description": "Data packs (not a plugin) for the ATAK PLSS Grid plugin — downloaded by the plugin at runtime. Derived from BLM National PLSS CadNSDI (US public domain).",
-    "stars": "0",
-    "text": "takwerx/plss-data",
-    "title": "takwerx/plss-data",
-    "url": "https://github.com/takwerx/plss-data"
-   }
-  },
-  {
-   "key": "takwerx/ipaws-alerts",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-09T21:12:16Z",
-    "description": "ATAK Plugin: IPAWS Alerts — public emergency and weather alerts on the map, filtered on your device. Downloads, guide and issues here.",
-    "stars": "5",
-    "text": "takwerx/ipaws-alerts",
-    "title": "takwerx/ipaws-alerts",
-    "url": "https://github.com/takwerx/ipaws-alerts"
    }
   },
   {
