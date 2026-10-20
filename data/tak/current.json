@@ -1,19 +1,31 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-19T22:39:44Z",
+ "fetched_at": "2026-10-20T11:46:08Z",
  "schema_version": 1,
  "records": [
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-19T22:33:39Z",
+    "date": "2026-10-20T07:12:59Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "87",
     "text": "takwerx/infra-TAK",
     "title": "takwerx/infra-TAK",
     "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
+  {
+   "key": "trakbridge/trakbridge",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-19T23:52:43Z",
+    "description": "A comprehensive web application for bridging tracking devices and services to TAK (Team Awareness Kit) servers.",
+    "stars": "41",
+    "text": "trakbridge/trakbridge",
+    "title": "trakbridge/trakbridge",
+    "url": "https://github.com/trakbridge/trakbridge"
    }
   },
   {
@@ -170,18 +182,6 @@
     "text": "huaweicloud-samples/government-tak-server",
     "title": "huaweicloud-samples/government-tak-server",
     "url": "https://github.com/huaweicloud-samples/government-tak-server"
-   }
-  },
-  {
-   "key": "trakbridge/trakbridge",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-09-06T17:34:32Z",
-    "description": "A comprehensive web application for bridging tracking devices and services to TAK (Team Awareness Kit) servers.",
-    "stars": "41",
-    "text": "trakbridge/trakbridge",
-    "title": "trakbridge/trakbridge",
-    "url": "https://github.com/trakbridge/trakbridge"
    }
   },
   {
@@ -370,7 +370,7 @@
    "fields": {
     "date": "2024-10-29T11:52:00Z",
     "description": "Situational Awareness Server compatible with TAK clients",
-    "stars": "965",
+    "stars": "966",
     "text": "FreeTAKTeam/FreeTakServer",
     "title": "FreeTAKTeam/FreeTakServer",
     "url": "https://github.com/FreeTAKTeam/FreeTakServer"
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/staged-recipes",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-19T17:18:39Z",
+    "date": "2026-10-19T23:11:28Z",
     "description": "A place to submit conda recipes before they become fully fledged conda-forge feedstocks",
     "stars": "0",
     "text": "FreeTAKTeam/staged-recipes",
@@ -834,6 +834,18 @@
     "text": "FreeTAKTeam/atn-rangefinder",
     "title": "FreeTAKTeam/atn-rangefinder",
     "url": "https://github.com/FreeTAKTeam/atn-rangefinder"
+   }
+  },
+  {
+   "key": "lcoriolan/PICKETCUAS-SNOOPY",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-20T03:34:47Z",
+    "description": "PICKET SNOOPY: passive, receive-only RF/ESM survey plugin for ATAK — spectrum awareness, drone Remote ID (ASTM F3411) decode, and non-cooperative emitter bearing on the map.",
+    "stars": "10",
+    "text": "lcoriolan/PICKETCUAS-SNOOPY",
+    "title": "lcoriolan/PICKETCUAS-SNOOPY",
+    "url": "https://github.com/lcoriolan/PICKETCUAS-SNOOPY"
    }
   },
   {
@@ -1181,18 +1193,6 @@
     "text": "takwerx/signal-df",
     "title": "takwerx/signal-df",
     "url": "https://github.com/takwerx/signal-df"
-   }
-  },
-  {
-   "key": "takwerx/plss-grid",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-09T21:13:00Z",
-    "description": "ATAK Plugin: PLSS Grid — township, range and section overlay from BLM survey data. Downloads, guide and issues here.",
-    "stars": "3",
-    "text": "takwerx/plss-grid",
-    "title": "takwerx/plss-grid",
-    "url": "https://github.com/takwerx/plss-grid"
    }
   },
   {

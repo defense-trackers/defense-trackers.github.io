@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-10-19T22:39:46Z",
+ "fetched_at": "2026-10-20T11:46:11Z",
  "schema_version": 1,
  "records": [
   {
@@ -525,7 +525,7 @@
    "source": "transition-prototype",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "2.17146432e+07",
+    "amount": "2.183653028e+07",
     "description": "ENGINEERING \u0026 TECHNICAL SUPPORT SERVICES, FIELD ENGINEERING, INTEGRATED LOGISTICS SUPPORT, CONFIGURATION MANAGEMENT, MANAGEMENT SUPPORT, DATA MANAGEMENT SUPPORT, \u0026 PROTOTYPE FABRICATION FOR THE WEAPONS SYSTEMS DIVISION",
     "text": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
     "title": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
@@ -852,6 +852,19 @@
    }
   },
   {
+   "key": "CONT_AWD_HQ014717C0032_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1.044941733507e+10",
+    "award_id": "HQ014717C0032",
+    "description": "HQ0147-17-C-0032 UNDEFINITIZED CONTRACT ACTION (UCA) FOR THAAD INTERCEPTOR LOT 9 PRODUCTION - QTY OF 23",
+    "text": "LOCKHEED MARTIN CORPORATION",
+    "title": "LOCKHEED MARTIN CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_HQ014717C0032_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_W31P4Q24C0022_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -914,19 +927,6 @@
     "text": "TRIWEST HEALTHCARE ALLIANCE CORP",
     "title": "TRIWEST HEALTHCARE ALLIANCE CORP",
     "url": "https://www.usaspending.gov/award/CONT_AWD_HT940223C0002_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_HQ014717C0032_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "9.09517007966e+09",
-    "award_id": "HQ014717C0032",
-    "description": "HQ0147-17-C-0032 UNDEFINITIZED CONTRACT ACTION (UCA) FOR THAAD INTERCEPTOR LOT 9 PRODUCTION - QTY OF 23",
-    "text": "LOCKHEED MARTIN CORPORATION",
-    "title": "LOCKHEED MARTIN CORPORATION",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_HQ014717C0032_9700_-NONE-_-NONE-/"
    }
   },
   {

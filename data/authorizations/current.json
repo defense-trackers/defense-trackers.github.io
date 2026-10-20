@@ -1,7 +1,7 @@
 {
  "source": "authorizations",
  "tracker": "authorizations",
- "fetched_at": "2026-10-19T22:38:14Z",
+ "fetched_at": "2026-10-20T11:44:38Z",
  "schema_version": 1,
  "records": [
   {
@@ -495,20 +495,6 @@
    }
   },
   {
-   "key": "FR2012534927",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2024-03-14T20:00:00.000Z",
-    "impact": "Moderate",
-    "model": "PaaS, SaaS",
-    "status": "FedRAMP Authorized",
-    "text": "Cisco Catalyst SD-WAN for Government (SDWAN-G)",
-    "title": "Cisco Catalyst SD-WAN for Government (SDWAN-G)",
-    "url": "https://www.cisco.com/go/sdwan"
-   }
-  },
-  {
    "key": "FR2523656707",
    "source": "authorizations-fedramp-ai",
    "fields": {
@@ -520,6 +506,20 @@
     "text": "Cisco ThousandEyes for Government",
     "title": "Cisco ThousandEyes for Government",
     "url": "https://www.thousandeyes.com/"
+   }
+  },
+  {
+   "key": "FR2012534927",
+   "source": "authorizations-fedramp-ai",
+   "fields": {
+    "assessor": "Schellman Compliance, LLC",
+    "date": "2024-03-14T20:00:00.000Z",
+    "impact": "Moderate",
+    "model": "PaaS, SaaS",
+    "status": "FedRAMP Authorized",
+    "text": "Cisco Catalyst SD-WAN for Government (SDWAN-G)",
+    "title": "Cisco Catalyst SD-WAN for Government (SDWAN-G)",
+    "url": "https://www.cisco.com/go/sdwan"
    }
   },
   {
