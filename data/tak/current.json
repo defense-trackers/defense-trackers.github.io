@@ -1,9 +1,21 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-20T21:54:02Z",
+ "fetched_at": "2026-10-21T11:57:59Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-21T11:04:18Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "87",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
   {
    "key": "snstac/pytak",
    "source": "tak-cot",
@@ -26,18 +38,6 @@
     "text": "snstac/dronecot",
     "title": "snstac/dronecot",
     "url": "https://github.com/snstac/dronecot"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-10-20T15:13:57Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "87",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -758,7 +758,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-20T19:03:34Z",
+    "date": "2026-10-21T11:06:54Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "35",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -840,12 +840,36 @@
    "key": "gustavtraff/tmm-sensor-planner",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-20T21:21:51Z",
+    "date": "2026-10-21T05:02:54Z",
     "description": "ATAK Plugin",
     "stars": "0",
     "text": "gustavtraff/tmm-sensor-planner",
     "title": "gustavtraff/tmm-sensor-planner",
     "url": "https://github.com/gustavtraff/tmm-sensor-planner"
+   }
+  },
+  {
+   "key": "aegorsuch/atak-plugin-houndmaster",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-21T01:04:08Z",
+    "description": "Bloodhound order management",
+    "stars": "3",
+    "text": "aegorsuch/atak-plugin-houndmaster",
+    "title": "aegorsuch/atak-plugin-houndmaster",
+    "url": "https://github.com/aegorsuch/atak-plugin-houndmaster"
+   }
+  },
+  {
+   "key": "aegorsuch/atak-plugin-firecone",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-21T00:05:31Z",
+    "description": "Firecone ATAK plugin (secondary GitHub repository; TAK Forge is canonical)",
+    "stars": "2",
+    "text": "aegorsuch/atak-plugin-firecone",
+    "title": "aegorsuch/atak-plugin-firecone",
+    "url": "https://github.com/aegorsuch/atak-plugin-firecone"
    }
   },
   {
@@ -977,30 +1001,6 @@
     "text": "cfd2474/TAK_Beacon",
     "title": "cfd2474/TAK_Beacon",
     "url": "https://github.com/cfd2474/TAK_Beacon"
-   }
-  },
-  {
-   "key": "aegorsuch/atak-plugin-houndmaster",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-18T18:36:44Z",
-    "description": "Bloodhound order management",
-    "stars": "3",
-    "text": "aegorsuch/atak-plugin-houndmaster",
-    "title": "aegorsuch/atak-plugin-houndmaster",
-    "url": "https://github.com/aegorsuch/atak-plugin-houndmaster"
-   }
-  },
-  {
-   "key": "aegorsuch/atak-plugin-firecone",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-18T18:38:16Z",
-    "description": "Firecone ATAK plugin (secondary GitHub repository; TAK Forge is canonical)",
-    "stars": "2",
-    "text": "aegorsuch/atak-plugin-firecone",
-    "title": "aegorsuch/atak-plugin-firecone",
-    "url": "https://github.com/aegorsuch/atak-plugin-firecone"
    }
   },
   {
