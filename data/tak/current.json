@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-21T22:00:21Z",
+ "fetched_at": "2026-10-22T12:00:29Z",
  "schema_version": 1,
  "records": [
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-21T21:48:08Z",
+    "date": "2026-10-22T11:55:26Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "87",
     "text": "takwerx/infra-TAK",
@@ -949,7 +949,7 @@
    "fields": {
     "date": "2026-10-19T19:37:11Z",
     "description": "ATAK Plugin: Comms — mountaintop radio sites, the nets on each and the tone that opens them. Downloads, guide and issues here.",
-    "stars": "3",
+    "stars": "4",
     "text": "takwerx/comms",
     "title": "takwerx/comms",
     "url": "https://github.com/takwerx/comms"
@@ -1043,7 +1043,7 @@
    "key": "PoggyBobby/EMCON-Sentinel",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-14T22:24:28Z",
+    "date": "2026-10-21T22:14:15Z",
     "description": "EMCON Sentinel — ATAK-CIV plugin that warns drone operators when adversary RF direction-finding assets are about to fix their position. Three-tier sensing (phone, MAVLink C2, RTL-SDR) + Friis path-loss + dwell-time composite risk + directional displacement candidates. Army xTech 2026.",
     "stars": "2",
     "text": "PoggyBobby/EMCON-Sentinel",
@@ -1081,7 +1081,7 @@
    "fields": {
     "date": "2026-10-13T23:03:14Z",
     "description": "ATAK Plugin: TAKwerx Market — install and update takwerx plugins from inside ATAK. Downloads, guide and issues here.",
-    "stars": "13",
+    "stars": "14",
     "text": "takwerx/takwerx-market",
     "title": "takwerx/takwerx-market",
     "url": "https://github.com/takwerx/takwerx-market"
@@ -1117,7 +1117,7 @@
    "fields": {
     "date": "2026-10-12T18:19:54Z",
     "description": "ATAK Plugin: Cam Depot — public traffic and wildfire cameras on the ATAK map, with live video where the agency streams. Downloads, guide and issues here.",
-    "stars": "7",
+    "stars": "8",
     "text": "takwerx/cam-depot",
     "title": "takwerx/cam-depot",
     "url": "https://github.com/takwerx/cam-depot"

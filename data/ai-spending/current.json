@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-10-21T21:58:46Z",
+ "fetched_at": "2026-10-22T11:58:54Z",
  "schema_version": 1,
  "records": [
   {
@@ -81,7 +81,7 @@
    "source": "ai-spending-contracts",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "2.063211941e+07",
+    "amount": "1.991864873e+07",
     "description": "THIS IS A NON-PERSONAL SERVICES CONTRACT TO PROVIDE INFORMATION TECHNOLOGY, ARTIFICIAL INTELLIGENCE, AND MACHINE LEARNING PROGRAM SUPPORT SERVICES.",
     "text": "LEISNOI PROFESSIONAL SERVICES, LLC",
     "title": "LEISNOI PROFESSIONAL SERVICES, LLC",
@@ -113,6 +113,18 @@
    }
   },
   {
+   "key": "CONT_AWD_FA239125CB010_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1.65356334e+07",
+    "description": "HYBRID ARTIFICIAL INTELLIGENCE AND AUTONOMY RESEARCH AND DEVELOPMENT CONSIDERED OPERATIONALLY RELEVANT AND EXPLAINABLE (HAARDCORE)",
+    "text": "UNIVERSITY OF DAYTON",
+    "title": "UNIVERSITY OF DAYTON",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA239125CB010_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_HR001124C0310_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
@@ -122,18 +134,6 @@
     "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
     "title": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
     "url": "https://www.usaspending.gov/award/CONT_AWD_HR001124C0310_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_FA239125CB010_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "1.45356334e+07",
-    "description": "HYBRID ARTIFICIAL INTELLIGENCE AND AUTONOMY RESEARCH AND DEVELOPMENT CONSIDERED OPERATIONALLY RELEVANT AND EXPLAINABLE (HAARDCORE)",
-    "text": "UNIVERSITY OF DAYTON",
-    "title": "UNIVERSITY OF DAYTON",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_FA239125CB010_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -218,6 +218,18 @@
     "text": "THE TRUSTEES OF THE STEVENS INSTITUTE OF TECHNOLOGY",
     "title": "THE TRUSTEES OF THE STEVENS INSTITUTE OF TECHNOLOGY",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W15QKN24C0004_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_FA830725CB031_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "10304385",
+    "description": "MIXMODE SBIR PHASE III - ARTIFICIAL INTELLIGENCE FOR NETWORK VISIBILITY AND REAL-TIME THREAT DETECTION FOR PROTECTION OF DATA, NETWORKS, NET-CENTRIC CAPABILITIES, AND OTHER DESIGNATED SYSTEMS RESPONDING TO ATTACKS AGAINST FRIENDLY NETWORKS.",
+    "text": "MIXMODE INC",
+    "title": "MIXMODE INC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA830725CB031_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -509,6 +521,18 @@
    }
   },
   {
+   "key": "CONT_AWD_FA875023C0085_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "2752000",
+    "description": "DEVELOPMENT OF ARTIFICIAL INTELLIGENCE \u0026 DEEP LEARNING BASED",
+    "text": "TEXAS A\u0026M UNIVERSITY-CENTRAL TEXAS",
+    "title": "TEXAS A\u0026M UNIVERSITY-CENTRAL TEXAS",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA875023C0085_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_SP470125C0049_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
@@ -578,30 +602,6 @@
     "text": "SYSTEMS \u0026 TECHNOLOGY RESEARCH LLC",
     "title": "SYSTEMS \u0026 TECHNOLOGY RESEARCH LLC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W56KGU24C0023_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_N0017325C2428_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "2.35174063e+06",
-    "description": "HUMAN SYSTEMS INTEGRATION CONSIDERATIONS WITH ARTIFICIAL INTELLIGENCE / MACHINE LEARNING TECHNOLOGIES",
-    "text": "STRATEGIC ANALYSIS, INC.",
-    "title": "STRATEGIC ANALYSIS, INC.",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_N0017325C2428_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_HR001126CE029_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "2313263",
-    "description": "SECURING ARTIFICIAL INTELLIGENCE FOR BATTLEFIELD EFFECTIVE ROBUSTNESS (SABER)",
-    "text": "LOCKHEED MARTIN CORPORATION",
-    "title": "LOCKHEED MARTIN CORPORATION",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_HR001126CE029_9700_-NONE-_-NONE-/"
    }
   },
   {
