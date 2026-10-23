@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-22T21:57:04Z",
+ "fetched_at": "2026-10-23T11:46:12Z",
  "schema_version": 1,
  "records": [
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-22T21:45:32Z",
+    "date": "2026-10-23T11:33:09Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "88",
     "text": "takwerx/infra-TAK",
@@ -26,18 +26,6 @@
     "text": "snstac/pytak",
     "title": "snstac/pytak",
     "url": "https://github.com/snstac/pytak"
-   }
-  },
-  {
-   "key": "snstac/dronecot",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-10-20T14:54:06Z",
-    "description": "DroneCOT is software for monitoring and analyzing Direct Remote Identification (DRI), Remote ID (RID) or Open Drone ID (ODID) broadcasts from Uncrewed Aircraft (UA) via the Team Awareness Kit (TAK) ecosystem of products.",
-    "stars": "41",
-    "text": "snstac/dronecot",
-    "title": "snstac/dronecot",
-    "url": "https://github.com/snstac/dronecot"
    }
   },
   {
@@ -182,6 +170,18 @@
     "text": "huaweicloud-samples/government-tak-server",
     "title": "huaweicloud-samples/government-tak-server",
     "url": "https://github.com/huaweicloud-samples/government-tak-server"
+   }
+  },
+  {
+   "key": "joshuafuller/dronecot",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-09-05T00:40:31Z",
+    "description": "DroneCOT is software for monitoring and analyzing Direct Remote Identification (DRI), Remote ID (RID) or Open Drone ID (ODID) broadcasts from Uncrewed Aircraft (UA) via the Team Awareness Kit (TAK) ecosystem of products.",
+    "stars": "3",
+    "text": "joshuafuller/dronecot",
+    "title": "joshuafuller/dronecot",
+    "url": "https://github.com/joshuafuller/dronecot"
    }
   },
   {
@@ -370,7 +370,7 @@
    "fields": {
     "date": "2024-10-29T11:52:00Z",
     "description": "Situational Awareness Server compatible with TAK clients",
-    "stars": "967",
+    "stars": "968",
     "text": "FreeTAKTeam/FreeTakServer",
     "title": "FreeTAKTeam/FreeTakServer",
     "url": "https://github.com/FreeTAKTeam/FreeTakServer"
@@ -1129,7 +1129,7 @@
    "fields": {
     "date": "2026-10-12T17:06:23Z",
     "description": "A multi-platform aircraft tracking and intelligence plugin for WebTAK, ATAK-CIV, and ATAK-MIL. Integrates local ADS-B receivers and FlightAware data to provide real-time aircraft tracking, military/civilian identification, fixed-wing/rotary-wing classification, and commercial airline/operator information.",
-    "stars": "0",
+    "stars": "1",
     "text": "buie-byte/tak-air-track-intelligence",
     "title": "buie-byte/tak-air-track-intelligence",
     "url": "https://github.com/buie-byte/tak-air-track-intelligence"
@@ -1141,7 +1141,7 @@
    "fields": {
     "date": "2026-10-11T06:50:49Z",
     "description": "Compilation of ATAK Civ and plugins",
-    "stars": "22",
+    "stars": "23",
     "text": "9M2PJU/ATAK-Civ-Plugins",
     "title": "9M2PJU/ATAK-Civ-Plugins",
     "url": "https://github.com/9M2PJU/ATAK-Civ-Plugins"
