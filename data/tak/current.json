@@ -1,31 +1,43 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-23T11:46:12Z",
+ "fetched_at": "2026-10-23T21:42:15Z",
  "schema_version": 1,
  "records": [
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-10-23T11:33:09Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "88",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
-   }
-  },
   {
    "key": "snstac/pytak",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-20T15:13:55Z",
+    "date": "2026-10-23T18:08:22Z",
     "description": "PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.",
     "stars": "257",
     "text": "snstac/pytak",
     "title": "snstac/pytak",
     "url": "https://github.com/snstac/pytak"
+   }
+  },
+  {
+   "key": "joshuafuller/SRTM2TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-23T14:48:24Z",
+    "description": "Progressive Web App to download and package SRTM elevation data for ATAK (Android Team Awareness Kit). Features offline caching, concurrent downloads, and automatic ZIP packaging for direct import into ATAK.",
+    "stars": "11",
+    "text": "joshuafuller/SRTM2TAK",
+    "title": "joshuafuller/SRTM2TAK",
+    "url": "https://github.com/joshuafuller/SRTM2TAK"
+   }
+  },
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-23T21:32:11Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "88",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -86,18 +98,6 @@
     "text": "yanxiang223/government-tak-server",
     "title": "yanxiang223/government-tak-server",
     "url": "https://github.com/yanxiang223/government-tak-server"
-   }
-  },
-  {
-   "key": "joshuafuller/SRTM2TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-10-13T02:03:33Z",
-    "description": "Progressive Web App to download and package SRTM elevation data for ATAK (Android Team Awareness Kit). Features offline caching, concurrent downloads, and automatic ZIP packaging for direct import into ATAK.",
-    "stars": "11",
-    "text": "joshuafuller/SRTM2TAK",
-    "title": "joshuafuller/SRTM2TAK",
-    "url": "https://github.com/joshuafuller/SRTM2TAK"
    }
   },
   {
@@ -640,7 +640,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-15T13:53:59Z",
+    "date": "2026-10-23T11:58:27Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "109",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-19T00:44:28Z",
+    "date": "2026-10-23T16:46:19Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "39",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -758,7 +758,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-21T12:58:03Z",
+    "date": "2026-10-23T18:25:05Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "35",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -837,10 +837,33 @@
    }
   },
   {
+   "key": "Ascent-Integrated-Tech/atak-plugin-weartak-companion",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-23T20:09:04Z",
+    "stars": "3",
+    "text": "Ascent-Integrated-Tech/atak-plugin-weartak-companion",
+    "title": "Ascent-Integrated-Tech/atak-plugin-weartak-companion",
+    "url": "https://github.com/Ascent-Integrated-Tech/atak-plugin-weartak-companion"
+   }
+  },
+  {
+   "key": "aegorsuch/atak-plugin-firecone",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-23T15:25:16Z",
+    "description": "Firecone ATAK plugin (secondary GitHub repository; TAK Forge is canonical)",
+    "stars": "2",
+    "text": "aegorsuch/atak-plugin-firecone",
+    "title": "aegorsuch/atak-plugin-firecone",
+    "url": "https://github.com/aegorsuch/atak-plugin-firecone"
+   }
+  },
+  {
    "key": "gustavtraff/tmm-sensor-planner",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-22T20:26:57Z",
+    "date": "2026-10-23T15:01:25Z",
     "description": "ATAK Plugin",
     "stars": "0",
     "text": "gustavtraff/tmm-sensor-planner",
@@ -852,24 +875,12 @@
    "key": "aegorsuch/atak-plugin-houndmaster",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-21T01:04:08Z",
+    "date": "2026-10-23T15:04:44Z",
     "description": "Bloodhound order management",
     "stars": "3",
     "text": "aegorsuch/atak-plugin-houndmaster",
     "title": "aegorsuch/atak-plugin-houndmaster",
     "url": "https://github.com/aegorsuch/atak-plugin-houndmaster"
-   }
-  },
-  {
-   "key": "aegorsuch/atak-plugin-firecone",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-21T00:05:31Z",
-    "description": "Firecone ATAK plugin (secondary GitHub repository; TAK Forge is canonical)",
-    "stars": "2",
-    "text": "aegorsuch/atak-plugin-firecone",
-    "title": "aegorsuch/atak-plugin-firecone",
-    "url": "https://github.com/aegorsuch/atak-plugin-firecone"
    }
   },
   {
@@ -906,17 +917,6 @@
     "text": "lcoriolan/PICKETCUAS-SNOOPY",
     "title": "lcoriolan/PICKETCUAS-SNOOPY",
     "url": "https://github.com/lcoriolan/PICKETCUAS-SNOOPY"
-   }
-  },
-  {
-   "key": "Ascent-Integrated-Tech/atak-plugin-weartak-companion",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-21T13:12:22Z",
-    "stars": "3",
-    "text": "Ascent-Integrated-Tech/atak-plugin-weartak-companion",
-    "title": "Ascent-Integrated-Tech/atak-plugin-weartak-companion",
-    "url": "https://github.com/Ascent-Integrated-Tech/atak-plugin-weartak-companion"
    }
   },
   {
