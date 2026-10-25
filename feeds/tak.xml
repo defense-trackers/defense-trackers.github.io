@@ -3,6 +3,19 @@
 <title>tak changelog</title>
 <link>https://defense-trackers.github.io/tracker.html?t=tak</link>
 <description>Change events for tak. Append-only, hash-chained.</description>
+<item><title>[added] openTAKpickList</title><guid isPermaLink="false">tak-openTAKpickList-2026-10-25T21:15:49Z</guid><pubDate>Sun, 25 Oct 2026 21:15:49 +0000</pubDate></item>
+<item><title>[added] FreeTAKServer</title><guid isPermaLink="false">tak-FreeTAKServer-2026-10-25T21:15:49Z</guid><pubDate>Sun, 25 Oct 2026 21:15:49 +0000</pubDate></item>
+<item><title>[removed] takwerx/uas-flight-plan</title><guid isPermaLink="false">tak-takwerx/uas-flight-plan-2026-10-25T21:15:49Z</guid><pubDate>Sun, 25 Oct 2026 21:15:49 +0000</pubDate></item>
+<item><title>[removed] takwerx/traffic</title><guid isPermaLink="false">tak-takwerx/traffic-2026-10-25T21:15:49Z</guid><pubDate>Sun, 25 Oct 2026 21:15:49 +0000</pubDate></item>
+<item><title>[changed] 9M2PJU/ATAK-Civ-Plugins</title><guid isPermaLink="false">tak-9M2PJU/ATAK-Civ-Plugins-2026-10-25T21:15:49Z</guid><pubDate>Sun, 25 Oct 2026 21:15:49 +0000</pubDate></item>
+<item><title>[changed] Ascent-Integrated-Tech/atak-plugin-weartak-companion</title><guid isPermaLink="false">tak-Ascent-Integrated-Tech/atak-plugin-weartak-companion-2026-10-25T21:15:49Z</guid><pubDate>Sun, 25 Oct 2026 21:15:49 +0000</pubDate></item>
+<item><title>[added] aegorsuch/atak-plugin-weartak-companion</title><guid isPermaLink="false">tak-aegorsuch/atak-plugin-weartak-companion-2026-10-25T21:15:49Z</guid><pubDate>Sun, 25 Oct 2026 21:15:49 +0000</pubDate></item>
+<item><title>[added] aegorsuch/atak-plugin-physiology-dashboard</title><guid isPermaLink="false">tak-aegorsuch/atak-plugin-physiology-dashboard-2026-10-25T21:15:49Z</guid><pubDate>Sun, 25 Oct 2026 21:15:49 +0000</pubDate></item>
+<item><title>[changed] gustavtraff/tmm-sensor-planner</title><guid isPermaLink="false">tak-gustavtraff/tmm-sensor-planner-2026-10-25T21:15:49Z</guid><pubDate>Sun, 25 Oct 2026 21:15:49 +0000</pubDate></item>
+<item><title>[changed] FreeTAKTeam/R3AKTClient</title><guid isPermaLink="false">tak-FreeTAKTeam/R3AKTClient-2026-10-25T21:15:46Z</guid><pubDate>Sun, 25 Oct 2026 21:15:46 +0000</pubDate></item>
+<item><title>[changed] FreeTAKTeam/reticulum_mobile_emergency_management</title><guid isPermaLink="false">tak-FreeTAKTeam/reticulum_mobile_emergency_management-2026-10-25T21:15:46Z</guid><pubDate>Sun, 25 Oct 2026 21:15:46 +0000</pubDate></item>
+<item><title>[changed] FreeTAKTeam/LXMF-rs</title><guid isPermaLink="false">tak-FreeTAKTeam/LXMF-rs-2026-10-25T21:15:46Z</guid><pubDate>Sun, 25 Oct 2026 21:15:46 +0000</pubDate></item>
+<item><title>[changed] takwerx/infra-TAK</title><guid isPermaLink="false">tak-takwerx/infra-TAK-2026-10-25T21:15:43Z</guid><pubDate>Sun, 25 Oct 2026 21:15:43 +0000</pubDate></item>
 <item><title>[added] openTAKpickList</title><guid isPermaLink="false">tak-openTAKpickList-2026-10-25T11:39:39Z</guid><pubDate>Sun, 25 Oct 2026 11:39:39 +0000</pubDate></item>
 <item><title>[added] FreeTAKServer</title><guid isPermaLink="false">tak-FreeTAKServer-2026-10-25T11:39:39Z</guid><pubDate>Sun, 25 Oct 2026 11:39:39 +0000</pubDate></item>
 <item><title>[changed] ke8tqb/HBC-ATAK-Plugin</title><guid isPermaLink="false">tak-ke8tqb/HBC-ATAK-Plugin-2026-10-25T11:39:39Z</guid><pubDate>Sun, 25 Oct 2026 11:39:39 +0000</pubDate></item>
@@ -40,17 +53,4 @@
 <item><title>[changed] FreeTAKTeam/LXMF-rs</title><guid isPermaLink="false">tak-FreeTAKTeam/LXMF-rs-2026-10-23T21:42:11Z</guid><pubDate>Fri, 23 Oct 2026 21:42:11 +0000</pubDate></item>
 <item><title>[changed] FreeTAKTeam/Reticulum-Community-Hub</title><guid isPermaLink="false">tak-FreeTAKTeam/Reticulum-Community-Hub-2026-10-23T21:42:11Z</guid><pubDate>Fri, 23 Oct 2026 21:42:11 +0000</pubDate></item>
 <item><title>[changed] takwerx/infra-TAK</title><guid isPermaLink="false">tak-takwerx/infra-TAK-2026-10-23T21:42:09Z</guid><pubDate>Fri, 23 Oct 2026 21:42:09 +0000</pubDate></item>
-<item><title>[changed] joshuafuller/SRTM2TAK</title><guid isPermaLink="false">tak-joshuafuller/SRTM2TAK-2026-10-23T21:42:09Z</guid><pubDate>Fri, 23 Oct 2026 21:42:09 +0000</pubDate></item>
-<item><title>[changed] snstac/pytak</title><guid isPermaLink="false">tak-snstac/pytak-2026-10-23T21:42:09Z</guid><pubDate>Fri, 23 Oct 2026 21:42:09 +0000</pubDate></item>
-<item><title>[added] openTAKpickList</title><guid isPermaLink="false">tak-openTAKpickList-2026-10-23T11:46:12Z</guid><pubDate>Fri, 23 Oct 2026 11:46:12 +0000</pubDate></item>
-<item><title>[added] FreeTAKServer</title><guid isPermaLink="false">tak-FreeTAKServer-2026-10-23T11:46:12Z</guid><pubDate>Fri, 23 Oct 2026 11:46:12 +0000</pubDate></item>
-<item><title>[changed] 9M2PJU/ATAK-Civ-Plugins</title><guid isPermaLink="false">tak-9M2PJU/ATAK-Civ-Plugins-2026-10-23T11:46:12Z</guid><pubDate>Fri, 23 Oct 2026 11:46:12 +0000</pubDate></item>
-<item><title>[changed] buie-byte/tak-air-track-intelligence</title><guid isPermaLink="false">tak-buie-byte/tak-air-track-intelligence-2026-10-23T11:46:12Z</guid><pubDate>Fri, 23 Oct 2026 11:46:12 +0000</pubDate></item>
-<item><title>[changed] FreeTAKTeam/FreeTakServer</title><guid isPermaLink="false">tak-FreeTAKTeam/FreeTakServer-2026-10-23T11:46:09Z</guid><pubDate>Fri, 23 Oct 2026 11:46:09 +0000</pubDate></item>
-<item><title>[removed] snstac/dronecot</title><guid isPermaLink="false">tak-snstac/dronecot-2026-10-23T11:46:06Z</guid><pubDate>Fri, 23 Oct 2026 11:46:06 +0000</pubDate></item>
-<item><title>[added] joshuafuller/dronecot</title><guid isPermaLink="false">tak-joshuafuller/dronecot-2026-10-23T11:46:06Z</guid><pubDate>Fri, 23 Oct 2026 11:46:06 +0000</pubDate></item>
-<item><title>[changed] takwerx/infra-TAK</title><guid isPermaLink="false">tak-takwerx/infra-TAK-2026-10-23T11:46:06Z</guid><pubDate>Fri, 23 Oct 2026 11:46:06 +0000</pubDate></item>
-<item><title>[added] openTAKpickList</title><guid isPermaLink="false">tak-openTAKpickList-2026-10-22T21:57:04Z</guid><pubDate>Thu, 22 Oct 2026 21:57:04 +0000</pubDate></item>
-<item><title>[added] FreeTAKServer</title><guid isPermaLink="false">tak-FreeTAKServer-2026-10-22T21:57:04Z</guid><pubDate>Thu, 22 Oct 2026 21:57:04 +0000</pubDate></item>
-<item><title>[changed] gustavtraff/tmm-sensor-planner</title><guid isPermaLink="false">tak-gustavtraff/tmm-sensor-planner-2026-10-22T21:57:04Z</guid><pubDate>Thu, 22 Oct 2026 21:57:04 +0000</pubDate></item>
 </channel></rss>

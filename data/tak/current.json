@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-25T11:39:39Z",
+ "fetched_at": "2026-10-25T21:15:49Z",
  "schema_version": 1,
  "records": [
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-25T11:03:57Z",
+    "date": "2026-10-25T16:41:29Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "88",
     "text": "takwerx/infra-TAK",
@@ -723,9 +723,9 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-24T22:11:22Z",
+    "date": "2026-10-25T20:59:07Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
-    "stars": "39",
+    "stars": "40",
     "text": "FreeTAKTeam/LXMF-rs",
     "title": "FreeTAKTeam/LXMF-rs",
     "url": "https://github.com/FreeTAKTeam/LXMF-rs"
@@ -758,7 +758,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-24T22:07:12Z",
+    "date": "2026-10-25T19:56:50Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "35",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -770,7 +770,7 @@
    "key": "FreeTAKTeam/R3AKTClient",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-07-21T14:29:29Z",
+    "date": "2026-10-25T17:18:47Z",
     "stars": "1",
     "text": "FreeTAKTeam/R3AKTClient",
     "title": "FreeTAKTeam/R3AKTClient",
@@ -840,7 +840,7 @@
    "key": "gustavtraff/tmm-sensor-planner",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-25T10:41:50Z",
+    "date": "2026-10-25T21:09:00Z",
     "description": "ATAK Plugin",
     "stars": "0",
     "text": "gustavtraff/tmm-sensor-planner",
@@ -849,10 +849,34 @@
    }
   },
   {
+   "key": "aegorsuch/atak-plugin-physiology-dashboard",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-25T19:38:25Z",
+    "description": "Public mirror of TAK.gov atak-plugin-physiology dashboard",
+    "stars": "1",
+    "text": "aegorsuch/atak-plugin-physiology-dashboard",
+    "title": "aegorsuch/atak-plugin-physiology-dashboard",
+    "url": "https://github.com/aegorsuch/atak-plugin-physiology-dashboard"
+   }
+  },
+  {
+   "key": "aegorsuch/atak-plugin-weartak-companion",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-25T16:24:41Z",
+    "description": "Public mirror of TAK.gov atak-plugin-weartak-companion",
+    "stars": "1",
+    "text": "aegorsuch/atak-plugin-weartak-companion",
+    "title": "aegorsuch/atak-plugin-weartak-companion",
+    "url": "https://github.com/aegorsuch/atak-plugin-weartak-companion"
+   }
+  },
+  {
    "key": "Ascent-Integrated-Tech/atak-plugin-weartak-companion",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-25T04:22:05Z",
+    "date": "2026-10-25T16:06:13Z",
     "stars": "3",
     "text": "Ascent-Integrated-Tech/atak-plugin-weartak-companion",
     "title": "Ascent-Integrated-Tech/atak-plugin-weartak-companion",
@@ -1141,7 +1165,7 @@
    "fields": {
     "date": "2026-10-11T06:50:49Z",
     "description": "Compilation of ATAK Civ and plugins",
-    "stars": "23",
+    "stars": "24",
     "text": "9M2PJU/ATAK-Civ-Plugins",
     "title": "9M2PJU/ATAK-Civ-Plugins",
     "url": "https://github.com/9M2PJU/ATAK-Civ-Plugins"
@@ -1169,30 +1193,6 @@
     "text": "takwerx/air-aware",
     "title": "takwerx/air-aware",
     "url": "https://github.com/takwerx/air-aware"
-   }
-  },
-  {
-   "key": "takwerx/uas-flight-plan",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-09T21:13:56Z",
-    "description": "ATAK Plugin: UAS Flight Plan — launch point ground elevation, the ceiling an area needs or what a given ceiling does to it, with terrain islands and FAA obstacles. Downloads, guide and issues here.",
-    "stars": "4",
-    "text": "takwerx/uas-flight-plan",
-    "title": "takwerx/uas-flight-plan",
-    "url": "https://github.com/takwerx/uas-flight-plan"
-   }
-  },
-  {
-   "key": "takwerx/traffic",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-09T21:13:47Z",
-    "description": "ATAK Plugin: Traffic — live traffic overlay drawn over your own base map, kept refreshing while the map sits still. Downloads, guide and issues here.",
-    "stars": "14",
-    "text": "takwerx/traffic",
-    "title": "takwerx/traffic",
-    "url": "https://github.com/takwerx/traffic"
    }
   },
   {
