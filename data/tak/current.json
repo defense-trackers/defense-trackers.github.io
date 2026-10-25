@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-24T21:12:33Z",
+ "fetched_at": "2026-10-25T11:39:39Z",
  "schema_version": 1,
  "records": [
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-24T20:44:21Z",
+    "date": "2026-10-25T11:03:57Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "88",
     "text": "takwerx/infra-TAK",
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-24T21:10:37Z",
+    "date": "2026-10-24T22:11:22Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "39",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -758,7 +758,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-24T20:45:52Z",
+    "date": "2026-10-24T22:07:12Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "35",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -837,10 +837,22 @@
    }
   },
   {
+   "key": "gustavtraff/tmm-sensor-planner",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-25T10:41:50Z",
+    "description": "ATAK Plugin",
+    "stars": "0",
+    "text": "gustavtraff/tmm-sensor-planner",
+    "title": "gustavtraff/tmm-sensor-planner",
+    "url": "https://github.com/gustavtraff/tmm-sensor-planner"
+   }
+  },
+  {
    "key": "Ascent-Integrated-Tech/atak-plugin-weartak-companion",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-24T18:40:34Z",
+    "date": "2026-10-25T04:22:05Z",
     "stars": "3",
     "text": "Ascent-Integrated-Tech/atak-plugin-weartak-companion",
     "title": "Ascent-Integrated-Tech/atak-plugin-weartak-companion",
@@ -848,15 +860,39 @@
    }
   },
   {
-   "key": "gustavtraff/tmm-sensor-planner",
+   "key": "takwerx/atmosphere",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-24T19:21:54Z",
-    "description": "ATAK Plugin",
-    "stars": "0",
-    "text": "gustavtraff/tmm-sensor-planner",
-    "title": "gustavtraff/tmm-sensor-planner",
-    "url": "https://github.com/gustavtraff/tmm-sensor-planner"
+    "date": "2026-10-25T03:41:46Z",
+    "description": "ATAK Plugin: Atmosphere — fire and hazmat weather on the map: the forecast at a point, radar, satellite, wind, rain, smoke, rivers and the sea. Downloads, guide and issues here.",
+    "stars": "3",
+    "text": "takwerx/atmosphere",
+    "title": "takwerx/atmosphere",
+    "url": "https://github.com/takwerx/atmosphere"
+   }
+  },
+  {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-25T03:47:12Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "5",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
+   "key": "takwerx/map-depot",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-25T02:43:15Z",
+    "description": "ATAK Plugin: Map Depot — download elevation, base maps and offline public-lands maps from inside ATAK. Downloads, guide and issues here.",
+    "stars": "14",
+    "text": "takwerx/map-depot",
+    "title": "takwerx/map-depot",
+    "url": "https://github.com/takwerx/map-depot"
    }
   },
   {
@@ -884,18 +920,6 @@
    }
   },
   {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-20T19:56:21Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "5",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
-   }
-  },
-  {
    "key": "takwerx/atak-plugin-pipeline",
    "source": "tak-github",
    "fields": {
@@ -913,22 +937,10 @@
    "fields": {
     "date": "2026-10-20T03:34:47Z",
     "description": "PICKET SNOOPY: passive, receive-only RF/ESM survey plugin for ATAK — spectrum awareness, drone Remote ID (ASTM F3411) decode, and non-cooperative emitter bearing on the map.",
-    "stars": "10",
+    "stars": "11",
     "text": "lcoriolan/PICKETCUAS-SNOOPY",
     "title": "lcoriolan/PICKETCUAS-SNOOPY",
     "url": "https://github.com/lcoriolan/PICKETCUAS-SNOOPY"
-   }
-  },
-  {
-   "key": "takwerx/atmosphere",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-19T20:56:00Z",
-    "description": "ATAK Plugin: Atmosphere — fire and hazmat weather on the map: the forecast at a point, radar, satellite, wind, rain, smoke, rivers and the sea. Downloads, guide and issues here.",
-    "stars": "3",
-    "text": "takwerx/atmosphere",
-    "title": "takwerx/atmosphere",
-    "url": "https://github.com/takwerx/atmosphere"
    }
   },
   {
@@ -1033,7 +1045,7 @@
    "fields": {
     "date": "2026-10-15T00:22:10Z",
     "description": "Implements HBC protocol for a streamline ATAK plugin",
-    "stars": "10",
+    "stars": "11",
     "text": "ke8tqb/HBC-ATAK-Plugin",
     "title": "ke8tqb/HBC-ATAK-Plugin",
     "url": "https://github.com/ke8tqb/HBC-ATAK-Plugin"
@@ -1097,18 +1109,6 @@
     "text": "tcmouratec/takvox",
     "title": "tcmouratec/takvox",
     "url": "https://github.com/tcmouratec/takvox"
-   }
-  },
-  {
-   "key": "takwerx/map-depot",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-12T19:48:34Z",
-    "description": "ATAK Plugin: Map Depot — download elevation, base maps and offline public-lands maps from inside ATAK. Downloads, guide and issues here.",
-    "stars": "14",
-    "text": "takwerx/map-depot",
-    "title": "takwerx/map-depot",
-    "url": "https://github.com/takwerx/map-depot"
    }
   },
   {
