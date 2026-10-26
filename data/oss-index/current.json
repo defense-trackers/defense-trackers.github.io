@@ -1,7 +1,7 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-10-26T13:11:46Z",
+ "fetched_at": "2026-10-26T22:53:31Z",
  "schema_version": 1,
  "records": [
   {
@@ -56,7 +56,7 @@
    "key": "cisagov/gatherer",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-10-26T04:09:03Z",
+    "date": "2026-10-26T19:03:28Z",
     "description": "Gather domains as a precursor to scanning",
     "stars": "22",
     "text": "cisagov/gatherer",
@@ -80,7 +80,7 @@
    "key": "cisagov/trustymail_reporter",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-10-25T13:52:50Z",
+    "date": "2026-10-26T19:47:49Z",
     "description": "Generate Trustworthy Email reports based on scan data",
     "stars": "13",
     "text": "cisagov/trustymail_reporter",
@@ -248,9 +248,9 @@
    "key": "cisagov/Malcolm",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-10-23T23:47:34Z",
+    "date": "2026-10-26T14:35:50Z",
     "description": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.",
-    "stars": "2564",
+    "stars": "2565",
     "text": "cisagov/Malcolm",
     "title": "cisagov/Malcolm",
     "url": "https://github.com/cisagov/Malcolm"
@@ -572,7 +572,7 @@
    "key": "idaholab/moose",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-10-26T12:26:12Z",
+    "date": "2026-10-26T16:57:14Z",
     "description": "Multiphysics Object Oriented Simulation Environment: A robust, modern, extendable, finite element/finite volume framework that excels at creating complex multiphysics simulations.",
     "stars": "2395",
     "text": "idaholab/moose",
@@ -586,7 +586,7 @@
    "fields": {
     "date": "2026-10-25T17:22:53Z",
     "description": "RAVEN is a flexible and multi-purpose probabilistic risk analysis, validation and uncertainty quantification, parameter optimization, model reduction and data knowledge-discovering framework.",
-    "stars": "271",
+    "stars": "272",
     "text": "idaholab/raven",
     "title": "idaholab/raven",
     "url": "https://github.com/idaholab/raven"
@@ -608,7 +608,7 @@
    "key": "idaholab/Malcolm",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-10-23T23:52:48Z",
+    "date": "2026-10-26T14:18:42Z",
     "description": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.",
     "stars": "490",
     "text": "idaholab/Malcolm",
@@ -634,7 +634,7 @@
    "fields": {
     "date": "2026-10-12T17:30:58Z",
     "description": "Event Modeling Risk Assessment using Linked Diagrams (EMRALD) is a software tool developed at INL for researching the capabilities of dynamic PRA (Probabilistic Risk Assessment). In order to promote the effective use of dynamic PRA by the general community, EMRALD focuses on the following key aspects: Simplifying the modeling process by providing a structure that corresponds to traditional PRA modeling methods Providing a user interface (UI) that makes it easy for the user to model and visualize complex interactions Allowing the user to couple with other analysis applications such as physics based simulations. This includes one-way communication for most applications and two-way loose coupling for customizable applications Providing the sequence and timing of events that lead to the specified outcomes when calculating results Traditional aspects of components with basic events, fault trees, and event trees are all captured in a dynamic framework of state diagrams, which are displayed ",
-    "stars": "36",
+    "stars": "37",
     "text": "idaholab/EMRALD",
     "title": "idaholab/EMRALD",
     "url": "https://github.com/idaholab/EMRALD"
@@ -704,7 +704,7 @@
    "key": "lanl/LaGriT",
    "source": "oss-lanl",
    "fields": {
-    "date": "2026-10-21T23:51:39Z",
+    "date": "2026-10-26T19:31:47Z",
     "description": "Los Alamos Grid Toolbox (LaGriT) is a library of user callable tools that provide mesh generation, mesh optimization and dynamic mesh maintenance in two and three dimensions.",
     "stars": "135",
     "text": "lanl/LaGriT",
@@ -740,7 +740,7 @@
    "key": "llnl/STAT",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-10-26T13:08:51Z",
+    "date": "2026-10-26T14:17:49Z",
     "description": "STAT - the Stack Trace Analysis Tool",
     "stars": "71",
     "text": "llnl/STAT",
@@ -788,7 +788,7 @@
    "key": "llnl/Caliper",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-10-21T22:22:19Z",
+    "date": "2026-10-26T15:18:59Z",
     "description": "Caliper is an instrumentation and performance profiling library",
     "stars": "421",
     "text": "llnl/Caliper",
@@ -847,7 +847,7 @@
    "key": "llnl/GridDyn",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-10-25T21:49:55Z",
+    "date": "2026-10-26T17:37:26Z",
     "description": "GridDyn is an open-source power transmission simulation software package",
     "stars": "63",
     "text": "llnl/GridDyn",
@@ -967,7 +967,7 @@
    "key": "nasa/trick",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-10-26T06:11:00Z",
+    "date": "2026-10-26T16:18:34Z",
     "description": "Trick Simulation Environment.  Trick provides a common set of simulation capabilities and utilities to build simulations automatically.",
     "stars": "179",
     "text": "nasa/trick",
@@ -991,7 +991,7 @@
    "key": "nasa/earthdata-search",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-10-26T05:55:36Z",
+    "date": "2026-10-26T22:31:26Z",
     "description": "Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.",
     "stars": "829",
     "text": "nasa/earthdata-search",
@@ -1051,7 +1051,7 @@
    "key": "nasa/Common-Metadata-Repository",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-10-23T19:04:41Z",
+    "date": "2026-10-26T14:49:19Z",
     "description": "The Common Metadata Repository (CMR) is a high-performance, high-quality, continuously evolving metadata system that catalogs Earth Science data and associated service metadata records. These metadata records are registered, modified, discovered, and accessed through programmatic interfaces leveraging standard protocols and APIs.",
     "stars": "399",
     "text": "nasa/Common-Metadata-Repository",
@@ -1171,7 +1171,7 @@
    "key": "nsacyber/HIRS",
    "source": "oss-nsacyber",
    "fields": {
-    "date": "2026-10-24T12:10:53Z",
+    "date": "2026-10-26T20:48:27Z",
     "description": "Trusted Computing based services supporting TPM provisioning and supply chain validation concepts. #nsacyber",
     "stars": "214",
     "text": "nsacyber/HIRS",
@@ -1266,7 +1266,7 @@
    "key": "ORNL/CabanaPD",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-09-30T20:55:18Z",
+    "date": "2026-10-26T14:34:08Z",
     "description": "Peridynamics with the Cabana library",
     "stars": "39",
     "text": "ORNL/CabanaPD",
@@ -1302,7 +1302,7 @@
    "key": "ORNL/superneuroabm",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-10-23T16:17:36Z",
+    "date": "2026-10-26T14:47:33Z",
     "description": "A GPU-based multi-agent simulation framework for neuromorphic computing",
     "stars": "8",
     "text": "ORNL/superneuroabm",
@@ -1326,7 +1326,7 @@
    "key": "ORNL/GridKit",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-10-23T15:16:22Z",
+    "date": "2026-10-26T21:46:39Z",
     "description": "Modeling framework for power systems simulations and analysis.",
     "stars": "27",
     "text": "ORNL/GridKit",
@@ -1446,7 +1446,7 @@
    "key": "usnistgov/fipy",
    "source": "oss-usnistgov",
    "fields": {
-    "date": "2026-10-14T19:22:51Z",
+    "date": "2026-10-26T17:33:14Z",
     "description": "FiPy is a Finite Volume PDE solver written in Python",
     "stars": "643",
     "text": "usnistgov/fipy",
