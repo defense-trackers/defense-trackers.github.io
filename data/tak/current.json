@@ -1,14 +1,26 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-25T21:15:49Z",
+ "fetched_at": "2026-10-26T13:12:16Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "manhliemcn4euwlu-source/llm-red-team-starter-kit",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-26T04:06:37Z",
+    "description": "Zero-dependency LLM red-team scanner: 24 attack probes across 9 classes (44/20 in PRO), honest refusal-aware verdicts, Markdown report, x402 USDC + Nano paid tiers",
+    "stars": "0",
+    "text": "manhliemcn4euwlu-source/llm-red-team-starter-kit",
+    "title": "manhliemcn4euwlu-source/llm-red-team-starter-kit",
+    "url": "https://github.com/manhliemcn4euwlu-source/llm-red-team-starter-kit"
+   }
+  },
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-25T16:41:29Z",
+    "date": "2026-10-26T12:38:10Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "88",
     "text": "takwerx/infra-TAK",
@@ -353,18 +365,6 @@
    }
   },
   {
-   "key": "abhinavkumar985/code-instructions-kit",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2025-07-06T16:42:40Z",
-    "description": "A structured, plug-and-play instruction kit to enhance Gemini CLI's coding output with framework-specific, scalable, and team-aligned guidelines — enabling project-aware AI development.",
-    "stars": "23",
-    "text": "abhinavkumar985/code-instructions-kit",
-    "title": "abhinavkumar985/code-instructions-kit",
-    "url": "https://github.com/abhinavkumar985/code-instructions-kit"
-   }
-  },
-  {
    "key": "FreeTAKTeam/FreeTakServer",
    "source": "tak-freetak",
    "fields": {
@@ -640,7 +640,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-23T11:58:27Z",
+    "date": "2026-10-26T13:01:58Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "109",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-25T20:59:07Z",
+    "date": "2026-10-26T13:06:02Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "40",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -758,7 +758,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-25T19:56:50Z",
+    "date": "2026-10-26T12:43:39Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "35",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -828,7 +828,7 @@
    "key": "FreeTAKTeam/atn-rangefinder",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-18T17:01:44Z",
+    "date": "2026-10-26T07:20:13Z",
     "description": "ATN rangefinder protocol research, REM integration planning, and synthetic fixtures",
     "stars": "0",
     "text": "FreeTAKTeam/atn-rangefinder",
@@ -840,7 +840,7 @@
    "key": "gustavtraff/tmm-sensor-planner",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-25T21:09:00Z",
+    "date": "2026-10-25T21:46:12Z",
     "description": "ATAK Plugin",
     "stars": "0",
     "text": "gustavtraff/tmm-sensor-planner",
@@ -899,7 +899,7 @@
    "key": "takwerx/atak-plugins",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-25T03:47:12Z",
+    "date": "2026-10-26T07:35:02Z",
     "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
     "stars": "5",
     "text": "takwerx/atak-plugins",
@@ -1181,18 +1181,6 @@
     "text": "xznhj8129/hermes-atak",
     "title": "xznhj8129/hermes-atak",
     "url": "https://github.com/xznhj8129/hermes-atak"
-   }
-  },
-  {
-   "key": "takwerx/air-aware",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-10T03:25:07Z",
-    "description": "ATAK Plugin: AirAware — airspace awareness: restrictions, airspace classes, special use, UAS ceilings, obstacles and airfield conditions, with a UAS flight planner. Downloads, guide and issues here.",
-    "stars": "3",
-    "text": "takwerx/air-aware",
-    "title": "takwerx/air-aware",
-    "url": "https://github.com/takwerx/air-aware"
    }
   },
   {
