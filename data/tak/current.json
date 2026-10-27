@@ -1,33 +1,9 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-26T22:54:02Z",
+ "fetched_at": "2026-10-27T12:20:18Z",
  "schema_version": 1,
  "records": [
-  {
-   "key": "manhliemcn4euwlu-source/llm-red-team-starter-kit",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-10-26T04:06:37Z",
-    "description": "Zero-dependency LLM red-team scanner: 24 attack probes across 9 classes (44/20 in PRO), honest refusal-aware verdicts, Markdown report, x402 USDC + Nano paid tiers",
-    "stars": "0",
-    "text": "manhliemcn4euwlu-source/llm-red-team-starter-kit",
-    "title": "manhliemcn4euwlu-source/llm-red-team-starter-kit",
-    "url": "https://github.com/manhliemcn4euwlu-source/llm-red-team-starter-kit"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-10-26T22:46:42Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "88",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
-   }
-  },
   {
    "key": "snstac/pytak",
    "source": "tak-cot",
@@ -41,18 +17,6 @@
    }
   },
   {
-   "key": "joshuafuller/SRTM2TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-10-23T14:48:24Z",
-    "description": "Progressive Web App to download and package SRTM elevation data for ATAK (Android Team Awareness Kit). Features offline caching, concurrent downloads, and automatic ZIP packaging for direct import into ATAK.",
-    "stars": "11",
-    "text": "joshuafuller/SRTM2TAK",
-    "title": "joshuafuller/SRTM2TAK",
-    "url": "https://github.com/joshuafuller/SRTM2TAK"
-   }
-  },
-  {
    "key": "trakbridge/trakbridge",
    "source": "tak-cot",
    "fields": {
@@ -62,18 +26,6 @@
     "text": "trakbridge/trakbridge",
     "title": "trakbridge/trakbridge",
     "url": "https://github.com/trakbridge/trakbridge"
-   }
-  },
-  {
-   "key": "microtak/microtak-server",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-10-20T21:37:34Z",
-    "description": "A lightweight, mesh-federated TAK (Team Awareness Kit) server written in Rust",
-    "stars": "0",
-    "text": "microtak/microtak-server",
-    "title": "microtak/microtak-server",
-    "url": "https://github.com/microtak/microtak-server"
    }
   },
   {
@@ -209,18 +161,6 @@
    }
   },
   {
-   "key": "copyleftdev/tak-rs",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-07-19T19:11:47Z",
-    "description": "High-performance Rust kernel for the TAK (Team Awareness Kit) ecosystem — drop-in replacement for the messaging core of the Java TAK Server. Cursor-on-Target (CoT) over mTLS, single-node firehose at 10k+ concurrent clients. Compatible with ATAK, iTAK, WinTAK.",
-    "stars": "4",
-    "text": "copyleftdev/tak-rs",
-    "title": "copyleftdev/tak-rs",
-    "url": "https://github.com/copyleftdev/tak-rs"
-   }
-  },
-  {
    "key": "newtypeind/atak-mcp",
    "source": "tak-cot",
    "fields": {
@@ -278,18 +218,6 @@
     "text": "C2A2-at-Florida-Atlantic-University/RTAK-V2",
     "title": "C2A2-at-Florida-Atlantic-University/RTAK-V2",
     "url": "https://github.com/C2A2-at-Florida-Atlantic-University/RTAK-V2"
-   }
-  },
-  {
-   "key": "xuha233/project-team-kit",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-02-23T19:13:35Z",
-    "description": "A complete, context-aware project handoff and 4-member AI agent team collaboration system with MCP-like interface",
-    "stars": "0",
-    "text": "xuha233/project-team-kit",
-    "title": "xuha233/project-team-kit",
-    "url": "https://github.com/xuha233/project-team-kit"
    }
   },
   {
@@ -362,6 +290,42 @@
     "text": "TAK-NZ/tak-deploy",
     "title": "TAK-NZ/tak-deploy",
     "url": "https://github.com/TAK-NZ/tak-deploy"
+   }
+  },
+  {
+   "key": "abhinavkumar985/code-instructions-kit",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2025-07-06T16:42:40Z",
+    "description": "A structured, plug-and-play instruction kit to enhance Gemini CLI's coding output with framework-specific, scalable, and team-aligned guidelines — enabling project-aware AI development.",
+    "stars": "23",
+    "text": "abhinavkumar985/code-instructions-kit",
+    "title": "abhinavkumar985/code-instructions-kit",
+    "url": "https://github.com/abhinavkumar985/code-instructions-kit"
+   }
+  },
+  {
+   "key": "JShadowNull/TAK-Manager",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2025-04-02T19:43:50Z",
+    "description": "A comprehensive TAK Server management solution providing a modern web interface for managing and monitoring TAK (Team Awareness Kit) servers.",
+    "stars": "24",
+    "text": "JShadowNull/TAK-Manager",
+    "title": "JShadowNull/TAK-Manager",
+    "url": "https://github.com/JShadowNull/TAK-Manager"
+   }
+  },
+  {
+   "key": "clptak/node-red-contrib-tfr2cot",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2025-03-30T14:13:42Z",
+    "description": "Requests TFR List for a given state from https://tfr.faa.gov/ and creates cursor-on-target (CoT) polygon messages sent to a Team Awareness Kit (TAK) Server or network",
+    "stars": "1",
+    "text": "clptak/node-red-contrib-tfr2cot",
+    "title": "clptak/node-red-contrib-tfr2cot",
+    "url": "https://github.com/clptak/node-red-contrib-tfr2cot"
    }
   },
   {
@@ -837,6 +801,77 @@
    }
   },
   {
+   "key": "gustavtraff/tmm-sensor-planner",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-27T11:07:26Z",
+    "description": "ATAK Plugin",
+    "stars": "0",
+    "text": "gustavtraff/tmm-sensor-planner",
+    "title": "gustavtraff/tmm-sensor-planner",
+    "url": "https://github.com/gustavtraff/tmm-sensor-planner"
+   }
+  },
+  {
+   "key": "carlosgt91/icu-ng",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-27T09:21:23Z",
+    "description": "ICU NG: camera streaming plugin for ATAK (RTSP/RTSPS/SRT + MISB 0601 KLV) and its companion app ICU NG Capture",
+    "stars": "0",
+    "text": "carlosgt91/icu-ng",
+    "title": "carlosgt91/icu-ng",
+    "url": "https://github.com/carlosgt91/icu-ng"
+   }
+  },
+  {
+   "key": "Ascent-Integrated-Tech/atak-plugin-weartak-companion",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-27T04:12:31Z",
+    "stars": "3",
+    "text": "Ascent-Integrated-Tech/atak-plugin-weartak-companion",
+    "title": "Ascent-Integrated-Tech/atak-plugin-weartak-companion",
+    "url": "https://github.com/Ascent-Integrated-Tech/atak-plugin-weartak-companion"
+   }
+  },
+  {
+   "key": "takwerx/evac-zone",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-27T04:09:12Z",
+    "description": "ATAK Plugin: Evac Zone — evacuation zones from the agencies that publish them, drawn in one status color language. Downloads, guide and issues here.",
+    "stars": "2",
+    "text": "takwerx/evac-zone",
+    "title": "takwerx/evac-zone",
+    "url": "https://github.com/takwerx/evac-zone"
+   }
+  },
+  {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-27T04:16:00Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "5",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
+   "key": "aegorsuch/atak-plugin-physiology-dashboard",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-27T02:40:58Z",
+    "description": "Public mirror of TAK.gov atak-plugin-physiology dashboard",
+    "stars": "1",
+    "text": "aegorsuch/atak-plugin-physiology-dashboard",
+    "title": "aegorsuch/atak-plugin-physiology-dashboard",
+    "url": "https://github.com/aegorsuch/atak-plugin-physiology-dashboard"
+   }
+  },
+  {
    "key": "cfd2474/TAK_Beacon",
    "source": "tak-github",
    "fields": {
@@ -846,30 +881,6 @@
     "text": "cfd2474/TAK_Beacon",
     "title": "cfd2474/TAK_Beacon",
     "url": "https://github.com/cfd2474/TAK_Beacon"
-   }
-  },
-  {
-   "key": "gustavtraff/tmm-sensor-planner",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-26T19:17:58Z",
-    "description": "ATAK Plugin",
-    "stars": "0",
-    "text": "gustavtraff/tmm-sensor-planner",
-    "title": "gustavtraff/tmm-sensor-planner",
-    "url": "https://github.com/gustavtraff/tmm-sensor-planner"
-   }
-  },
-  {
-   "key": "aegorsuch/atak-plugin-physiology-dashboard",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-25T19:38:25Z",
-    "description": "Public mirror of TAK.gov atak-plugin-physiology dashboard",
-    "stars": "1",
-    "text": "aegorsuch/atak-plugin-physiology-dashboard",
-    "title": "aegorsuch/atak-plugin-physiology-dashboard",
-    "url": "https://github.com/aegorsuch/atak-plugin-physiology-dashboard"
    }
   },
   {
@@ -885,17 +896,6 @@
    }
   },
   {
-   "key": "Ascent-Integrated-Tech/atak-plugin-weartak-companion",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-25T16:06:13Z",
-    "stars": "3",
-    "text": "Ascent-Integrated-Tech/atak-plugin-weartak-companion",
-    "title": "Ascent-Integrated-Tech/atak-plugin-weartak-companion",
-    "url": "https://github.com/Ascent-Integrated-Tech/atak-plugin-weartak-companion"
-   }
-  },
-  {
    "key": "takwerx/atmosphere",
    "source": "tak-github",
    "fields": {
@@ -905,18 +905,6 @@
     "text": "takwerx/atmosphere",
     "title": "takwerx/atmosphere",
     "url": "https://github.com/takwerx/atmosphere"
-   }
-  },
-  {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-26T20:05:59Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "5",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
    }
   },
   {
@@ -1157,30 +1145,6 @@
     "text": "buie-byte/tak-air-track-intelligence",
     "title": "buie-byte/tak-air-track-intelligence",
     "url": "https://github.com/buie-byte/tak-air-track-intelligence"
-   }
-  },
-  {
-   "key": "9M2PJU/ATAK-Civ-Plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-11T06:50:49Z",
-    "description": "Compilation of ATAK Civ and plugins",
-    "stars": "24",
-    "text": "9M2PJU/ATAK-Civ-Plugins",
-    "title": "9M2PJU/ATAK-Civ-Plugins",
-    "url": "https://github.com/9M2PJU/ATAK-Civ-Plugins"
-   }
-  },
-  {
-   "key": "xznhj8129/hermes-atak",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-11T06:09:22Z",
-    "description": "Hermes skill and platform plugin for ATAK and OpenTAKServer integration",
-    "stars": "0",
-    "text": "xznhj8129/hermes-atak",
-    "title": "xznhj8129/hermes-atak",
-    "url": "https://github.com/xznhj8129/hermes-atak"
    }
   },
   {
