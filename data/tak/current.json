@@ -1,14 +1,26 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-27T22:38:31Z",
+ "fetched_at": "2026-10-28T13:03:04Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "joshuafuller/SRTM2TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-28T02:19:46Z",
+    "description": "Progressive Web App to download and package SRTM elevation data for ATAK (Android Team Awareness Kit). Features offline caching, concurrent downloads, and automatic ZIP packaging for direct import into ATAK.",
+    "stars": "12",
+    "text": "joshuafuller/SRTM2TAK",
+    "title": "joshuafuller/SRTM2TAK",
+    "url": "https://github.com/joshuafuller/SRTM2TAK"
+   }
+  },
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-27T22:18:43Z",
+    "date": "2026-10-28T13:02:37Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "89",
     "text": "takwerx/infra-TAK",
@@ -38,18 +50,6 @@
     "text": "snstac/pytak",
     "title": "snstac/pytak",
     "url": "https://github.com/snstac/pytak"
-   }
-  },
-  {
-   "key": "joshuafuller/SRTM2TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-10-23T14:48:24Z",
-    "description": "Progressive Web App to download and package SRTM elevation data for ATAK (Android Team Awareness Kit). Features offline caching, concurrent downloads, and automatic ZIP packaging for direct import into ATAK.",
-    "stars": "12",
-    "text": "joshuafuller/SRTM2TAK",
-    "title": "joshuafuller/SRTM2TAK",
-    "url": "https://github.com/joshuafuller/SRTM2TAK"
    }
   },
   {
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-27T18:05:51Z",
+    "date": "2026-10-28T12:28:35Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "40",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -760,7 +760,7 @@
    "fields": {
     "date": "2026-10-26T12:43:39Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
-    "stars": "35",
+    "stars": "36",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
     "title": "FreeTAKTeam/reticulum_mobile_emergency_management",
     "url": "https://github.com/FreeTAKTeam/reticulum_mobile_emergency_management"
@@ -840,7 +840,7 @@
    "key": "gustavtraff/tmm-sensor-planner",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-27T18:48:33Z",
+    "date": "2026-10-28T10:37:25Z",
     "description": "ATAK Plugin",
     "stars": "0",
     "text": "gustavtraff/tmm-sensor-planner",
