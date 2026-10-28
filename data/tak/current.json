@@ -1,9 +1,33 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-28T13:03:04Z",
+ "fetched_at": "2026-10-28T22:52:36Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-28T22:20:46Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "90",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
+  {
+   "key": "DByte308/AirTAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-28T21:26:04Z",
+    "description": "Fork/mirror of https://git.crashcat.net/3phedra/AirTAK — Airsoft Team Awareness Kit (LoRa mesh firmware + Android app), GPL-3.0-or-later",
+    "stars": "1",
+    "text": "DByte308/AirTAK",
+    "title": "DByte308/AirTAK",
+    "url": "https://github.com/DByte308/AirTAK"
+   }
+  },
   {
    "key": "joshuafuller/SRTM2TAK",
    "source": "tak-cot",
@@ -14,18 +38,6 @@
     "text": "joshuafuller/SRTM2TAK",
     "title": "joshuafuller/SRTM2TAK",
     "url": "https://github.com/joshuafuller/SRTM2TAK"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-10-28T13:02:37Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "89",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -353,18 +365,6 @@
    }
   },
   {
-   "key": "TAK-NZ/tak-deploy",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2025-08-21T18:35:45Z",
-    "description": "One-line installer for TAK (Team Awareness Kit) infrastructure on AWS",
-    "stars": "1",
-    "text": "TAK-NZ/tak-deploy",
-    "title": "TAK-NZ/tak-deploy",
-    "url": "https://github.com/TAK-NZ/tak-deploy"
-   }
-  },
-  {
    "key": "FreeTAKTeam/FreeTakServer",
    "source": "tak-freetak",
    "fields": {
@@ -549,7 +549,7 @@
    "fields": {
     "date": "2026-05-21T19:32:24Z",
     "description": "A project that host a ATAK plugin that display a PPT button for Mumla Android ",
-    "stars": "30",
+    "stars": "31",
     "text": "FreeTAKTeam/FreeTAKMumla_Plugin",
     "title": "FreeTAKTeam/FreeTAKMumla_Plugin",
     "url": "https://github.com/FreeTAKTeam/FreeTAKMumla_Plugin"
@@ -582,7 +582,7 @@
    "key": "FreeTAKTeam/DigitalArchitectureFramework",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-27T21:56:28Z",
+    "date": "2026-10-28T19:04:42Z",
     "description": "The Digital Architecture Framework (DAF),  is a set modeling tools for Digital Engineering. ",
     "stars": "8",
     "text": "FreeTAKTeam/DigitalArchitectureFramework",
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/staged-recipes",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-21T21:59:01Z",
+    "date": "2026-10-28T17:39:36Z",
     "description": "A place to submit conda recipes before they become fully fledged conda-forge feedstocks",
     "stars": "0",
     "text": "FreeTAKTeam/staged-recipes",
@@ -723,9 +723,9 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-28T12:28:35Z",
+    "date": "2026-10-28T21:44:16Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
-    "stars": "40",
+    "stars": "41",
     "text": "FreeTAKTeam/LXMF-rs",
     "title": "FreeTAKTeam/LXMF-rs",
     "url": "https://github.com/FreeTAKTeam/LXMF-rs"
@@ -816,7 +816,7 @@
    "key": "FreeTAKTeam/YARA",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-16T17:43:47Z",
+    "date": "2026-10-28T18:20:19Z",
     "description": "Yet Another Reticulum Application (aka MeschChat-RS)",
     "stars": "0",
     "text": "FreeTAKTeam/YARA",
@@ -837,15 +837,51 @@
    }
   },
   {
+   "key": "RyanR3/TakNearbyDrop",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-28T22:35:30Z",
+    "description": "ATAK plugin: send markers, data packages and files straight to nearby ATAK phones over Bluetooth / Wi-Fi — no server, no mesh",
+    "stars": "1",
+    "text": "RyanR3/TakNearbyDrop",
+    "title": "RyanR3/TakNearbyDrop",
+    "url": "https://github.com/RyanR3/TakNearbyDrop"
+   }
+  },
+  {
    "key": "gustavtraff/tmm-sensor-planner",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-28T10:37:25Z",
+    "date": "2026-10-28T19:14:08Z",
     "description": "ATAK Plugin",
     "stars": "0",
     "text": "gustavtraff/tmm-sensor-planner",
     "title": "gustavtraff/tmm-sensor-planner",
     "url": "https://github.com/gustavtraff/tmm-sensor-planner"
+   }
+  },
+  {
+   "key": "carlosgt91/icu-ng",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-28T18:39:44Z",
+    "description": "ICU NG: camera streaming plugin for ATAK (RTSP/RTSPS/SRT + MISB 0601 KLV) and its companion app ICU NG Capture",
+    "stars": "0",
+    "text": "carlosgt91/icu-ng",
+    "title": "carlosgt91/icu-ng",
+    "url": "https://github.com/carlosgt91/icu-ng"
+   }
+  },
+  {
+   "key": "TX-RX/TAK-XVoice",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-28T14:46:28Z",
+    "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
+    "stars": "10",
+    "text": "TX-RX/TAK-XVoice",
+    "title": "TX-RX/TAK-XVoice",
+    "url": "https://github.com/TX-RX/TAK-XVoice"
    }
   },
   {
@@ -870,18 +906,6 @@
     "text": "aegorsuch/atak-plugin-physiology-dashboard",
     "title": "aegorsuch/atak-plugin-physiology-dashboard",
     "url": "https://github.com/aegorsuch/atak-plugin-physiology-dashboard"
-   }
-  },
-  {
-   "key": "carlosgt91/icu-ng",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-27T09:21:23Z",
-    "description": "ICU NG: camera streaming plugin for ATAK (RTSP/RTSPS/SRT + MISB 0601 KLV) and its companion app ICU NG Capture",
-    "stars": "0",
-    "text": "carlosgt91/icu-ng",
-    "title": "carlosgt91/icu-ng",
-    "url": "https://github.com/carlosgt91/icu-ng"
    }
   },
   {
@@ -1064,18 +1088,6 @@
    }
   },
   {
-   "key": "TX-RX/TAK-XVoice",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-16T00:34:46Z",
-    "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
-    "stars": "10",
-    "text": "TX-RX/TAK-XVoice",
-    "title": "TX-RX/TAK-XVoice",
-    "url": "https://github.com/TX-RX/TAK-XVoice"
-   }
-  },
-  {
    "key": "RemArrow/geronimo-ecoti",
    "source": "tak-github",
    "fields": {
@@ -1103,7 +1115,7 @@
    "key": "PoggyBobby/EMCON-Sentinel",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-21T22:14:15Z",
+    "date": "2026-10-28T22:15:23Z",
     "description": "EMCON Sentinel — ATAK-CIV plugin that warns drone operators when adversary RF direction-finding assets are about to fix their position. Three-tier sensing (phone, MAVLink C2, RTL-SDR) + Friis path-loss + dwell-time composite risk + directional displacement candidates. Army xTech 2026.",
     "stars": "2",
     "text": "PoggyBobby/EMCON-Sentinel",
@@ -1169,18 +1181,6 @@
     "text": "takwerx/cam-depot",
     "title": "takwerx/cam-depot",
     "url": "https://github.com/takwerx/cam-depot"
-   }
-  },
-  {
-   "key": "buie-byte/tak-air-track-intelligence",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-12T17:06:23Z",
-    "description": "A multi-platform aircraft tracking and intelligence plugin for WebTAK, ATAK-CIV, and ATAK-MIL. Integrates local ADS-B receivers and FlightAware data to provide real-time aircraft tracking, military/civilian identification, fixed-wing/rotary-wing classification, and commercial airline/operator information.",
-    "stars": "1",
-    "text": "buie-byte/tak-air-track-intelligence",
-    "title": "buie-byte/tak-air-track-intelligence",
-    "url": "https://github.com/buie-byte/tak-air-track-intelligence"
    }
   },
   {

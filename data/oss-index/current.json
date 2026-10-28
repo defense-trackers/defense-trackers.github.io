@@ -1,7 +1,7 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-10-28T13:02:33Z",
+ "fetched_at": "2026-10-28T22:52:05Z",
  "schema_version": 1,
  "records": [
   {
@@ -248,9 +248,9 @@
    "key": "cisagov/Malcolm",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-10-26T22:53:48Z",
+    "date": "2026-10-28T20:39:38Z",
     "description": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.",
-    "stars": "2568",
+    "stars": "2570",
     "text": "cisagov/Malcolm",
     "title": "cisagov/Malcolm",
     "url": "https://github.com/cisagov/Malcolm"
@@ -286,7 +286,7 @@
    "fields": {
     "date": "2026-10-09T16:09:35Z",
     "description": "Cybersecurity Evaluation Tool",
-    "stars": "1916",
+    "stars": "1917",
     "text": "cisagov/cset",
     "title": "cisagov/cset",
     "url": "https://github.com/cisagov/cset"
@@ -322,7 +322,7 @@
    "fields": {
     "date": "2026-07-07T07:43:26Z",
     "description": "Docker container with a postfix server designed for use during phishing campaigns",
-    "stars": "70",
+    "stars": "71",
     "text": "cisagov/postfix-docker",
     "title": "cisagov/postfix-docker",
     "url": "https://github.com/cisagov/postfix-docker"
@@ -572,9 +572,9 @@
    "key": "idaholab/moose",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-10-28T11:26:28Z",
+    "date": "2026-10-28T22:04:58Z",
     "description": "Multiphysics Object Oriented Simulation Environment: A robust, modern, extendable, finite element/finite volume framework that excels at creating complex multiphysics simulations.",
-    "stars": "2396",
+    "stars": "2397",
     "text": "idaholab/moose",
     "title": "idaholab/moose",
     "url": "https://github.com/idaholab/moose"
@@ -584,7 +584,7 @@
    "key": "idaholab/raven",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-10-25T17:22:53Z",
+    "date": "2026-10-28T19:52:51Z",
     "description": "RAVEN is a flexible and multi-purpose probabilistic risk analysis, validation and uncertainty quantification, parameter optimization, model reduction and data knowledge-discovering framework.",
     "stars": "272",
     "text": "idaholab/raven",
@@ -608,7 +608,7 @@
    "key": "idaholab/Malcolm",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-10-26T22:53:57Z",
+    "date": "2026-10-28T20:39:49Z",
     "description": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.",
     "stars": "492",
     "text": "idaholab/Malcolm",
@@ -701,12 +701,24 @@
    }
   },
   {
+   "key": "lanl/yelpapi",
+   "source": "oss-lanl",
+   "fields": {
+    "date": "2026-10-28T22:04:10Z",
+    "description": "yelpapi is a pure Python implementation of Yelp's public REST APIs (Places, AI, Insights, and Home Services).",
+    "stars": "141",
+    "text": "lanl/yelpapi",
+    "title": "lanl/yelpapi",
+    "url": "https://github.com/lanl/yelpapi"
+   }
+  },
+  {
    "key": "lanl/LaGriT",
    "source": "oss-lanl",
    "fields": {
     "date": "2026-10-27T12:39:40Z",
     "description": "Los Alamos Grid Toolbox (LaGriT) is a library of user callable tools that provide mesh generation, mesh optimization and dynamic mesh maintenance in two and three dimensions.",
-    "stars": "136",
+    "stars": "137",
     "text": "lanl/LaGriT",
     "title": "lanl/LaGriT",
     "url": "https://github.com/lanl/LaGriT"
@@ -776,7 +788,7 @@
    "key": "llnl/conduit",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-10-27T19:09:33Z",
+    "date": "2026-10-28T20:52:42Z",
     "description": "Simplified Data Exchange for HPC Simulations",
     "stars": "250",
     "text": "llnl/conduit",
@@ -800,7 +812,7 @@
    "key": "llnl/SAMRAI",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-10-27T17:37:23Z",
+    "date": "2026-10-28T17:45:40Z",
     "description": "Structured Adaptive Mesh Refinement Application Infrastructure - a scalable C++ framework for block-structured AMR application development",
     "stars": "251",
     "text": "llnl/SAMRAI",
@@ -847,7 +859,7 @@
    "key": "llnl/GridDyn",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-10-28T01:24:03Z",
+    "date": "2026-10-28T19:42:02Z",
     "description": "GridDyn is an open-source power transmission simulation software package",
     "stars": "63",
     "text": "llnl/GridDyn",
@@ -967,7 +979,7 @@
    "key": "nasa/trick",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-10-27T22:41:07Z",
+    "date": "2026-10-28T20:54:35Z",
     "description": "Trick Simulation Environment.  Trick provides a common set of simulation capabilities and utilities to build simulations automatically.",
     "stars": "180",
     "text": "nasa/trick",
@@ -991,7 +1003,7 @@
    "key": "nasa/earthdata-search",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-10-28T02:09:09Z",
+    "date": "2026-10-28T15:18:04Z",
     "description": "Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.",
     "stars": "828",
     "text": "nasa/earthdata-search",
@@ -1051,7 +1063,7 @@
    "key": "nasa/Common-Metadata-Repository",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-10-28T11:26:39Z",
+    "date": "2026-10-28T22:04:47Z",
     "description": "The Common Metadata Repository (CMR) is a high-performance, high-quality, continuously evolving metadata system that catalogs Earth Science data and associated service metadata records. These metadata records are registered, modified, discovered, and accessed through programmatic interfaces leveraging standard protocols and APIs.",
     "stars": "399",
     "text": "nasa/Common-Metadata-Repository",
@@ -1099,9 +1111,9 @@
    "key": "ngageoint/hootenanny",
    "source": "oss-ngageoint",
    "fields": {
-    "date": "2026-10-21T11:22:57Z",
+    "date": "2026-10-28T20:26:26Z",
     "description": "Hootenanny conflates multiple maps into a single seamless map.",
-    "stars": "395",
+    "stars": "396",
     "text": "ngageoint/hootenanny",
     "title": "ngageoint/hootenanny",
     "url": "https://github.com/ngageoint/hootenanny"
@@ -1207,7 +1219,7 @@
    "key": "ORNL/TASMANIAN",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-10-27T23:38:22Z",
+    "date": "2026-10-28T14:22:32Z",
     "description": "The Toolkit for Adaptive Stochastic Modeling and Non-Intrusive ApproximatioN",
     "stars": "78",
     "text": "ORNL/TASMANIAN",
@@ -1302,7 +1314,7 @@
    "key": "ORNL/superneuroabm",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-10-26T14:47:33Z",
+    "date": "2026-10-28T18:18:58Z",
     "description": "A GPU-based multi-agent simulation framework for neuromorphic computing",
     "stars": "8",
     "text": "ORNL/superneuroabm",
@@ -1326,7 +1338,7 @@
    "key": "ORNL/GridKit",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-10-28T06:50:52Z",
+    "date": "2026-10-28T21:44:46Z",
     "description": "Modeling framework for power systems simulations and analysis.",
     "stars": "27",
     "text": "ORNL/GridKit",
@@ -1446,9 +1458,9 @@
    "key": "usnistgov/fipy",
    "source": "oss-usnistgov",
    "fields": {
-    "date": "2026-10-26T17:33:14Z",
+    "date": "2026-10-28T21:00:53Z",
     "description": "FiPy is a Finite Volume PDE solver written in Python",
-    "stars": "644",
+    "stars": "645",
     "text": "usnistgov/fipy",
     "title": "usnistgov/fipy",
     "url": "https://github.com/usnistgov/fipy"
