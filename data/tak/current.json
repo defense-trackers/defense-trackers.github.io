@@ -1,31 +1,31 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-29T13:10:28Z",
+ "fetched_at": "2026-10-29T23:00:02Z",
  "schema_version": 1,
  "records": [
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-10-29T09:04:14Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "90",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
-   }
-  },
   {
    "key": "DByte308/AirTAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-28T21:26:04Z",
+    "date": "2026-10-29T21:56:41Z",
     "description": "Fork/mirror of https://git.crashcat.net/3phedra/AirTAK — Airsoft Team Awareness Kit (LoRa mesh firmware + Android app), GPL-3.0-or-later",
     "stars": "1",
     "text": "DByte308/AirTAK",
     "title": "DByte308/AirTAK",
     "url": "https://github.com/DByte308/AirTAK"
+   }
+  },
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-29T22:28:16Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "90",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -582,7 +582,7 @@
    "key": "FreeTAKTeam/DigitalArchitectureFramework",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-29T12:20:38Z",
+    "date": "2026-10-29T17:19:11Z",
     "description": "The Digital Architecture Framework (DAF),  is a set modeling tools for Digital Engineering. ",
     "stars": "8",
     "text": "FreeTAKTeam/DigitalArchitectureFramework",
@@ -640,7 +640,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-29T00:04:08Z",
+    "date": "2026-10-29T19:48:05Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "109",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-28T23:43:55Z",
+    "date": "2026-10-29T19:11:55Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "41",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -758,7 +758,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-26T12:43:39Z",
+    "date": "2026-10-29T19:52:02Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "36",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -852,7 +852,7 @@
    "key": "gustavtraff/tmm-sensor-planner",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-29T06:16:26Z",
+    "date": "2026-10-29T22:51:48Z",
     "description": "ATAK Plugin",
     "stars": "0",
     "text": "gustavtraff/tmm-sensor-planner",
@@ -876,7 +876,7 @@
    "key": "takwerx/atak-plugins",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-28T23:41:18Z",
+    "date": "2026-10-29T16:13:41Z",
     "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
     "stars": "5",
     "text": "takwerx/atak-plugins",
@@ -890,7 +890,7 @@
    "fields": {
     "date": "2026-10-28T23:10:24Z",
     "description": "ATAK plugin: send markers, data packages and files straight to nearby ATAK phones over Bluetooth / Wi-Fi — no server, no mesh",
-    "stars": "4",
+    "stars": "5",
     "text": "RyanR3/TakNearbyDrop",
     "title": "RyanR3/TakNearbyDrop",
     "url": "https://github.com/RyanR3/TakNearbyDrop"
@@ -926,7 +926,7 @@
    "fields": {
     "date": "2026-10-28T14:46:28Z",
     "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
-    "stars": "10",
+    "stars": "11",
     "text": "TX-RX/TAK-XVoice",
     "title": "TX-RX/TAK-XVoice",
     "url": "https://github.com/TX-RX/TAK-XVoice"
@@ -965,6 +965,18 @@
     "text": "takwerx/evac-zone",
     "title": "takwerx/evac-zone",
     "url": "https://github.com/takwerx/evac-zone"
+   }
+  },
+  {
+   "key": "stpleb/openmanet-field-extension",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-27T02:53:08Z",
+    "description": "Field add-ons for plain OpenMANET nodes: status light, PiSugar power, LoRa fallback, ATAK plugin",
+    "stars": "0",
+    "text": "stpleb/openmanet-field-extension",
+    "title": "stpleb/openmanet-field-extension",
+    "url": "https://github.com/stpleb/openmanet-field-extension"
    }
   },
   {
@@ -1165,22 +1177,10 @@
    "fields": {
     "date": "2026-10-14T03:42:15Z",
     "description": "ATAK plugin: HackRF One spectrum analyzer, drone/RF detection and RSSI direction finding on Android, with CoT output to the TAK map",
-    "stars": "1",
+    "stars": "2",
     "text": "tcmouratec/atakhrf1",
     "title": "tcmouratec/atakhrf1",
     "url": "https://github.com/tcmouratec/atakhrf1"
-   }
-  },
-  {
-   "key": "tcmouratec/takvox",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-13T19:11:33Z",
-    "description": "**Push-to-talk voice channels and video calls for ATAK-CIV, on a media server you host yourself (LiveKit).** No cloud account, no third-party service: the plugin talks to your own server.",
-    "stars": "0",
-    "text": "tcmouratec/takvox",
-    "title": "tcmouratec/takvox",
-    "url": "https://github.com/tcmouratec/takvox"
    }
   },
   {

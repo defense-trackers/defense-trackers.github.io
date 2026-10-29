@@ -1,7 +1,7 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-10-29T13:09:56Z",
+ "fetched_at": "2026-10-29T22:59:31Z",
  "schema_version": 1,
  "records": [
   {
@@ -56,7 +56,7 @@
    "key": "cisagov/gatherer",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-10-29T00:04:58Z",
+    "date": "2026-10-29T13:56:44Z",
     "description": "Gather domains as a precursor to scanning",
     "stars": "22",
     "text": "cisagov/gatherer",
@@ -80,7 +80,7 @@
    "key": "cisagov/trustymail_reporter",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-10-29T02:29:15Z",
+    "date": "2026-10-29T19:02:57Z",
     "description": "Generate Trustworthy Email reports based on scan data",
     "stars": "13",
     "text": "cisagov/trustymail_reporter",
@@ -248,9 +248,9 @@
    "key": "cisagov/Malcolm",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-10-28T20:39:38Z",
+    "date": "2026-10-29T19:43:05Z",
     "description": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.",
-    "stars": "2571",
+    "stars": "2572",
     "text": "cisagov/Malcolm",
     "title": "cisagov/Malcolm",
     "url": "https://github.com/cisagov/Malcolm"
@@ -572,7 +572,7 @@
    "key": "idaholab/moose",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-10-29T09:49:51Z",
+    "date": "2026-10-29T22:36:18Z",
     "description": "Multiphysics Object Oriented Simulation Environment: A robust, modern, extendable, finite element/finite volume framework that excels at creating complex multiphysics simulations.",
     "stars": "2397",
     "text": "idaholab/moose",
@@ -608,7 +608,7 @@
    "key": "idaholab/Malcolm",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-10-28T20:39:49Z",
+    "date": "2026-10-29T19:38:59Z",
     "description": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.",
     "stars": "493",
     "text": "idaholab/Malcolm",
@@ -668,7 +668,7 @@
    "key": "idaholab/malamute",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-10-29T09:45:03Z",
+    "date": "2026-10-29T22:46:53Z",
     "description": "Advanced manufacturing modeling and simulation",
     "stars": "23",
     "text": "idaholab/malamute",
@@ -680,7 +680,7 @@
    "key": "idaholab/salamander",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-10-29T10:38:22Z",
+    "date": "2026-10-29T22:28:04Z",
     "description": "SALAMANDER is an application for performing system-level, engineering scale (i.e., at the scale of centimeters and meters), and microstructure-scale (i.e., at the scale of microns) multiphysics calculations related to magnetic confinement fusion energy systems.",
     "stars": "28",
     "text": "idaholab/salamander",
@@ -859,7 +859,7 @@
    "key": "llnl/GridDyn",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-10-29T04:38:17Z",
+    "date": "2026-10-29T21:40:34Z",
     "description": "GridDyn is an open-source power transmission simulation software package",
     "stars": "63",
     "text": "llnl/GridDyn",
@@ -979,7 +979,7 @@
    "key": "nasa/trick",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-10-28T20:54:35Z",
+    "date": "2026-10-29T21:57:57Z",
     "description": "Trick Simulation Environment.  Trick provides a common set of simulation capabilities and utilities to build simulations automatically.",
     "stars": "180",
     "text": "nasa/trick",
@@ -1063,7 +1063,7 @@
    "key": "nasa/Common-Metadata-Repository",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-10-29T11:00:01Z",
+    "date": "2026-10-29T22:30:52Z",
     "description": "The Common Metadata Repository (CMR) is a high-performance, high-quality, continuously evolving metadata system that catalogs Earth Science data and associated service metadata records. These metadata records are registered, modified, discovered, and accessed through programmatic interfaces leveraging standard protocols and APIs.",
     "stars": "399",
     "text": "nasa/Common-Metadata-Repository",
@@ -1183,9 +1183,9 @@
    "key": "nsacyber/HIRS",
    "source": "oss-nsacyber",
    "fields": {
-    "date": "2026-10-29T12:13:31Z",
+    "date": "2026-10-29T16:31:10Z",
     "description": "Trusted Computing based services supporting TPM provisioning and supply chain validation concepts. #nsacyber",
-    "stars": "214",
+    "stars": "215",
     "text": "nsacyber/HIRS",
     "title": "nsacyber/HIRS",
     "url": "https://github.com/nsacyber/HIRS"
@@ -1209,7 +1209,7 @@
    "fields": {
     "date": "2026-10-27T18:19:51Z",
     "description": "A tool to create TCG Reference Integrity Manifest (RIM) files for use with attestation verifiers like HIRS.",
-    "stars": "8",
+    "stars": "9",
     "text": "nsacyber/RIM-Tool",
     "title": "nsacyber/RIM-Tool",
     "url": "https://github.com/nsacyber/RIM-Tool"
@@ -1219,7 +1219,7 @@
    "key": "ORNL/TASMANIAN",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-10-28T14:22:32Z",
+    "date": "2026-10-29T20:17:49Z",
     "description": "The Toolkit for Adaptive Stochastic Modeling and Non-Intrusive ApproximatioN",
     "stars": "78",
     "text": "ORNL/TASMANIAN",
@@ -1243,7 +1243,7 @@
    "key": "ORNL/HeCBench",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-10-29T11:10:27Z",
+    "date": "2026-10-29T14:49:01Z",
     "stars": "310",
     "text": "ORNL/HeCBench",
     "title": "ORNL/HeCBench",
@@ -1314,7 +1314,7 @@
    "key": "ORNL/superneuroabm",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-10-28T18:18:58Z",
+    "date": "2026-10-29T17:59:30Z",
     "description": "A GPU-based multi-agent simulation framework for neuromorphic computing",
     "stars": "8",
     "text": "ORNL/superneuroabm",
@@ -1338,7 +1338,7 @@
    "key": "ORNL/GridKit",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-10-29T06:24:10Z",
+    "date": "2026-10-29T19:08:53Z",
     "description": "Modeling framework for power systems simulations and analysis.",
     "stars": "27",
     "text": "ORNL/GridKit",
