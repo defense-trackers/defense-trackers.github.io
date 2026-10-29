@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-28T22:52:36Z",
+ "fetched_at": "2026-10-29T13:10:28Z",
  "schema_version": 1,
  "records": [
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-28T22:20:46Z",
+    "date": "2026-10-29T09:04:14Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "90",
     "text": "takwerx/infra-TAK",
@@ -238,7 +238,7 @@
    "fields": {
     "date": "2026-06-23T08:24:02Z",
     "description": "Drive ATAK (Android Team Awareness Kit) and its plugins over adb without blind taps: CLI + MCP server (uvx-installable).",
-    "stars": "5",
+    "stars": "6",
     "text": "newtypeind/atak-mcp",
     "title": "newtypeind/atak-mcp",
     "url": "https://github.com/newtypeind/atak-mcp"
@@ -582,7 +582,7 @@
    "key": "FreeTAKTeam/DigitalArchitectureFramework",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-28T19:04:42Z",
+    "date": "2026-10-29T12:20:38Z",
     "description": "The Digital Architecture Framework (DAF),  is a set modeling tools for Digital Engineering. ",
     "stars": "8",
     "text": "FreeTAKTeam/DigitalArchitectureFramework",
@@ -640,7 +640,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-27T19:19:34Z",
+    "date": "2026-10-29T00:04:08Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "109",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-28T21:44:16Z",
+    "date": "2026-10-28T23:43:55Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "41",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -837,27 +837,75 @@
    }
   },
   {
-   "key": "RyanR3/TakNearbyDrop",
+   "key": "aegorsuch/atak-plugin-physiology-dashboard",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-28T22:35:30Z",
-    "description": "ATAK plugin: send markers, data packages and files straight to nearby ATAK phones over Bluetooth / Wi-Fi — no server, no mesh",
-    "stars": "1",
-    "text": "RyanR3/TakNearbyDrop",
-    "title": "RyanR3/TakNearbyDrop",
-    "url": "https://github.com/RyanR3/TakNearbyDrop"
+    "date": "2026-10-29T11:55:59Z",
+    "description": "Public mirror of TAK.gov atak-plugin-physiology dashboard",
+    "stars": "2",
+    "text": "aegorsuch/atak-plugin-physiology-dashboard",
+    "title": "aegorsuch/atak-plugin-physiology-dashboard",
+    "url": "https://github.com/aegorsuch/atak-plugin-physiology-dashboard"
    }
   },
   {
    "key": "gustavtraff/tmm-sensor-planner",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-28T19:14:08Z",
+    "date": "2026-10-29T06:16:26Z",
     "description": "ATAK Plugin",
     "stars": "0",
     "text": "gustavtraff/tmm-sensor-planner",
     "title": "gustavtraff/tmm-sensor-planner",
     "url": "https://github.com/gustavtraff/tmm-sensor-planner"
+   }
+  },
+  {
+   "key": "takwerx/cam-depot",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-28T23:35:38Z",
+    "description": "ATAK Plugin: Cam Depot — public traffic and wildfire cameras on the ATAK map, with live video where the agency streams. Downloads, guide and issues here.",
+    "stars": "9",
+    "text": "takwerx/cam-depot",
+    "title": "takwerx/cam-depot",
+    "url": "https://github.com/takwerx/cam-depot"
+   }
+  },
+  {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-28T23:41:18Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "5",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
+   "key": "RyanR3/TakNearbyDrop",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-28T23:10:24Z",
+    "description": "ATAK plugin: send markers, data packages and files straight to nearby ATAK phones over Bluetooth / Wi-Fi — no server, no mesh",
+    "stars": "4",
+    "text": "RyanR3/TakNearbyDrop",
+    "title": "RyanR3/TakNearbyDrop",
+    "url": "https://github.com/RyanR3/TakNearbyDrop"
+   }
+  },
+  {
+   "key": "takwerx/takwerx-market",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-28T22:56:22Z",
+    "description": "ATAK Plugin: TAKwerx Market — install and update takwerx plugins from inside ATAK. Downloads, guide and issues here.",
+    "stars": "14",
+    "text": "takwerx/takwerx-market",
+    "title": "takwerx/takwerx-market",
+    "url": "https://github.com/takwerx/takwerx-market"
    }
   },
   {
@@ -888,24 +936,12 @@
    "key": "aegorsuch/atak-plugin-weartak-companion",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-27T13:29:54Z",
+    "date": "2026-10-29T11:56:40Z",
     "description": "Public mirror of TAK.gov atak-plugin-weartak-companion",
     "stars": "2",
     "text": "aegorsuch/atak-plugin-weartak-companion",
     "title": "aegorsuch/atak-plugin-weartak-companion",
     "url": "https://github.com/aegorsuch/atak-plugin-weartak-companion"
-   }
-  },
-  {
-   "key": "aegorsuch/atak-plugin-physiology-dashboard",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-27T13:29:48Z",
-    "description": "Public mirror of TAK.gov atak-plugin-physiology dashboard",
-    "stars": "2",
-    "text": "aegorsuch/atak-plugin-physiology-dashboard",
-    "title": "aegorsuch/atak-plugin-physiology-dashboard",
-    "url": "https://github.com/aegorsuch/atak-plugin-physiology-dashboard"
    }
   },
   {
@@ -929,18 +965,6 @@
     "text": "takwerx/evac-zone",
     "title": "takwerx/evac-zone",
     "url": "https://github.com/takwerx/evac-zone"
-   }
-  },
-  {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-27T04:16:00Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "5",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
    }
   },
   {
@@ -1148,18 +1172,6 @@
    }
   },
   {
-   "key": "takwerx/takwerx-market",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-13T23:03:14Z",
-    "description": "ATAK Plugin: TAKwerx Market — install and update takwerx plugins from inside ATAK. Downloads, guide and issues here.",
-    "stars": "14",
-    "text": "takwerx/takwerx-market",
-    "title": "takwerx/takwerx-market",
-    "url": "https://github.com/takwerx/takwerx-market"
-   }
-  },
-  {
    "key": "tcmouratec/takvox",
    "source": "tak-github",
    "fields": {
@@ -1169,18 +1181,6 @@
     "text": "tcmouratec/takvox",
     "title": "tcmouratec/takvox",
     "url": "https://github.com/tcmouratec/takvox"
-   }
-  },
-  {
-   "key": "takwerx/cam-depot",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-12T18:19:54Z",
-    "description": "ATAK Plugin: Cam Depot — public traffic and wildfire cameras on the ATAK map, with live video where the agency streams. Downloads, guide and issues here.",
-    "stars": "9",
-    "text": "takwerx/cam-depot",
-    "title": "takwerx/cam-depot",
-    "url": "https://github.com/takwerx/cam-depot"
    }
   },
   {
