@@ -1,26 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-30T13:03:20Z",
+ "fetched_at": "2026-10-30T22:41:27Z",
  "schema_version": 1,
  "records": [
-  {
-   "key": "julianr1967/claude-plugin-skills-kit",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-10-30T12:33:20Z",
-    "description": "A consistency layer for Claude Code that gives AI coding teams shared guidelines, stack-aware skills, and automated review in the 2026 release.",
-    "stars": "0",
-    "text": "julianr1967/claude-plugin-skills-kit",
-    "title": "julianr1967/claude-plugin-skills-kit",
-    "url": "https://github.com/julianr1967/claude-plugin-skills-kit"
-   }
-  },
   {
    "key": "DByte308/AirTAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-29T21:56:41Z",
+    "date": "2026-10-30T22:18:33Z",
     "description": "Fork/mirror of https://git.crashcat.net/3phedra/AirTAK — Airsoft Team Awareness Kit (LoRa mesh firmware + Android app), GPL-3.0-or-later",
     "stars": "1",
     "text": "DByte308/AirTAK",
@@ -29,10 +17,22 @@
    }
   },
   {
+   "key": "julianr1967/claude-plugin-skills-kit",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-30T21:47:21Z",
+    "description": "A consistency layer for Claude Code that gives AI coding teams shared guidelines, stack-aware skills, and automated review in the 2026 release.",
+    "stars": "0",
+    "text": "julianr1967/claude-plugin-skills-kit",
+    "title": "julianr1967/claude-plugin-skills-kit",
+    "url": "https://github.com/julianr1967/claude-plugin-skills-kit"
+   }
+  },
+  {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-29T23:02:44Z",
+    "date": "2026-10-30T22:09:43Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "90",
     "text": "takwerx/infra-TAK",
@@ -640,7 +640,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-29T19:48:05Z",
+    "date": "2026-10-30T16:39:25Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "109",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-29T19:11:55Z",
+    "date": "2026-10-30T21:49:26Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "41",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -758,7 +758,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-29T19:52:02Z",
+    "date": "2026-10-30T19:50:05Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "36",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -781,7 +781,7 @@
    "key": "FreeTAKTeam/rem-tactical-trex2",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-20T19:03:31Z",
+    "date": "2026-10-30T19:50:07Z",
     "description": "REM Tactical Zepp OS watch face for Amazfit T-Rex 2 with live compass heading",
     "stars": "0",
     "text": "FreeTAKTeam/rem-tactical-trex2",
@@ -816,7 +816,7 @@
    "key": "FreeTAKTeam/YARA",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-28T18:20:19Z",
+    "date": "2026-10-30T16:03:27Z",
     "description": "Yet Another Reticulum Application (aka MeschChat-RS)",
     "stars": "0",
     "text": "FreeTAKTeam/YARA",
@@ -840,12 +840,24 @@
    "key": "gustavtraff/tmm-sensor-planner",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-30T06:40:26Z",
+    "date": "2026-10-30T22:27:31Z",
     "description": "ATAK Plugin",
     "stars": "0",
     "text": "gustavtraff/tmm-sensor-planner",
     "title": "gustavtraff/tmm-sensor-planner",
     "url": "https://github.com/gustavtraff/tmm-sensor-planner"
+   }
+  },
+  {
+   "key": "niccellular/gadget",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-30T13:46:43Z",
+    "description": "ATAK plugin that loads unsigned/signature-rejected plugins by bypassing AtakPluginRegistry verification",
+    "stars": "17",
+    "text": "niccellular/gadget",
+    "title": "niccellular/gadget",
+    "url": "https://github.com/niccellular/gadget"
    }
   },
   {
@@ -1169,18 +1181,6 @@
     "text": "engindearing-projects/omni-HUD",
     "title": "engindearing-projects/omni-HUD",
     "url": "https://github.com/engindearing-projects/omni-HUD"
-   }
-  },
-  {
-   "key": "tcmouratec/atakhrf1",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-14T03:42:15Z",
-    "description": "ATAK plugin: HackRF One spectrum analyzer, drone/RF detection and RSSI direction finding on Android, with CoT output to the TAK map",
-    "stars": "2",
-    "text": "tcmouratec/atakhrf1",
-    "title": "tcmouratec/atakhrf1",
-    "url": "https://github.com/tcmouratec/atakhrf1"
    }
   },
   {
