@@ -1,7 +1,7 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-10-29T22:59:31Z",
+ "fetched_at": "2026-10-30T13:02:50Z",
  "schema_version": 1,
  "records": [
   {
@@ -22,7 +22,7 @@
    "fields": {
     "date": "2026-10-22T18:45:18Z",
     "description": "Scan domains and return data based on trustworthy email best practices",
-    "stars": "225",
+    "stars": "224",
     "text": "cisagov/trustymail",
     "title": "cisagov/trustymail",
     "url": "https://github.com/cisagov/trustymail"
@@ -250,7 +250,7 @@
    "fields": {
     "date": "2026-10-29T19:43:05Z",
     "description": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.",
-    "stars": "2572",
+    "stars": "2573",
     "text": "cisagov/Malcolm",
     "title": "cisagov/Malcolm",
     "url": "https://github.com/cisagov/Malcolm"
@@ -572,7 +572,7 @@
    "key": "idaholab/moose",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-10-29T22:36:18Z",
+    "date": "2026-10-30T11:14:46Z",
     "description": "Multiphysics Object Oriented Simulation Environment: A robust, modern, extendable, finite element/finite volume framework that excels at creating complex multiphysics simulations.",
     "stars": "2397",
     "text": "idaholab/moose",
@@ -656,7 +656,7 @@
    "key": "idaholab/isopod",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-10-29T09:20:07Z",
+    "date": "2026-10-30T08:47:09Z",
     "description": "isopod, a MOOSE based app for multiphysics PDE constrained optimization",
     "stars": "9",
     "text": "idaholab/isopod",
@@ -668,7 +668,7 @@
    "key": "idaholab/malamute",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-10-29T22:46:53Z",
+    "date": "2026-10-30T09:30:58Z",
     "description": "Advanced manufacturing modeling and simulation",
     "stars": "23",
     "text": "idaholab/malamute",
@@ -680,7 +680,7 @@
    "key": "idaholab/salamander",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-10-29T22:28:04Z",
+    "date": "2026-10-30T09:55:47Z",
     "description": "SALAMANDER is an application for performing system-level, engineering scale (i.e., at the scale of centimeters and meters), and microstructure-scale (i.e., at the scale of microns) multiphysics calculations related to magnetic confinement fusion energy systems.",
     "stars": "28",
     "text": "idaholab/salamander",
@@ -859,7 +859,7 @@
    "key": "llnl/GridDyn",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-10-29T21:40:34Z",
+    "date": "2026-10-30T02:47:33Z",
     "description": "GridDyn is an open-source power transmission simulation software package",
     "stars": "63",
     "text": "llnl/GridDyn",
@@ -979,7 +979,7 @@
    "key": "nasa/trick",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-10-29T21:57:57Z",
+    "date": "2026-10-29T23:06:10Z",
     "description": "Trick Simulation Environment.  Trick provides a common set of simulation capabilities and utilities to build simulations automatically.",
     "stars": "180",
     "text": "nasa/trick",
@@ -993,7 +993,7 @@
    "fields": {
     "date": "2026-10-15T23:06:52Z",
     "description": "A web based mission control framework. ",
-    "stars": "13196",
+    "stars": "13195",
     "text": "nasa/openmct",
     "title": "nasa/openmct",
     "url": "https://github.com/nasa/openmct"
@@ -1063,7 +1063,7 @@
    "key": "nasa/Common-Metadata-Repository",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-10-29T22:30:52Z",
+    "date": "2026-10-30T10:40:31Z",
     "description": "The Common Metadata Repository (CMR) is a high-performance, high-quality, continuously evolving metadata system that catalogs Earth Science data and associated service metadata records. These metadata records are registered, modified, discovered, and accessed through programmatic interfaces leveraging standard protocols and APIs.",
     "stars": "399",
     "text": "nasa/Common-Metadata-Repository",
@@ -1111,7 +1111,7 @@
    "key": "ngageoint/hootenanny",
    "source": "oss-ngageoint",
    "fields": {
-    "date": "2026-10-28T20:26:26Z",
+    "date": "2026-10-30T12:46:58Z",
     "description": "Hootenanny conflates multiple maps into a single seamless map.",
     "stars": "396",
     "text": "ngageoint/hootenanny",
@@ -1207,7 +1207,7 @@
    "key": "nsacyber/RIM-Tool",
    "source": "oss-nsacyber",
    "fields": {
-    "date": "2026-10-27T18:19:51Z",
+    "date": "2026-10-29T23:28:31Z",
     "description": "A tool to create TCG Reference Integrity Manifest (RIM) files for use with attestation verifiers like HIRS.",
     "stars": "9",
     "text": "nsacyber/RIM-Tool",
@@ -1219,7 +1219,7 @@
    "key": "ORNL/TASMANIAN",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-10-29T20:17:49Z",
+    "date": "2026-10-30T00:37:04Z",
     "description": "The Toolkit for Adaptive Stochastic Modeling and Non-Intrusive ApproximatioN",
     "stars": "78",
     "text": "ORNL/TASMANIAN",
@@ -1338,7 +1338,7 @@
    "key": "ORNL/GridKit",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-10-29T19:08:53Z",
+    "date": "2026-10-30T06:55:28Z",
     "description": "Modeling framework for power systems simulations and analysis.",
     "stars": "27",
     "text": "ORNL/GridKit",

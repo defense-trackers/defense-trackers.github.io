@@ -1,9 +1,21 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-29T23:00:02Z",
+ "fetched_at": "2026-10-30T13:03:20Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "julianr1967/claude-plugin-skills-kit",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-30T12:33:20Z",
+    "description": "A consistency layer for Claude Code that gives AI coding teams shared guidelines, stack-aware skills, and automated review in the 2026 release.",
+    "stars": "0",
+    "text": "julianr1967/claude-plugin-skills-kit",
+    "title": "julianr1967/claude-plugin-skills-kit",
+    "url": "https://github.com/julianr1967/claude-plugin-skills-kit"
+   }
+  },
   {
    "key": "DByte308/AirTAK",
    "source": "tak-cot",
@@ -20,7 +32,7 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-29T22:28:16Z",
+    "date": "2026-10-29T23:02:44Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "90",
     "text": "takwerx/infra-TAK",
@@ -350,18 +362,6 @@
     "text": "mardzie/FossTeamAwarenessKit",
     "title": "mardzie/FossTeamAwarenessKit",
     "url": "https://github.com/mardzie/FossTeamAwarenessKit"
-   }
-  },
-  {
-   "key": "alex-podolian-impressit/helloWorldPlugin",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2025-10-03T10:55:51Z",
-    "description": "Playground for getting familiar with Android Team Awareness Kit (ATAK-CIV)",
-    "stars": "0",
-    "text": "alex-podolian-impressit/helloWorldPlugin",
-    "title": "alex-podolian-impressit/helloWorldPlugin",
-    "url": "https://github.com/alex-podolian-impressit/helloWorldPlugin"
    }
   },
   {
@@ -837,6 +837,42 @@
    }
   },
   {
+   "key": "gustavtraff/tmm-sensor-planner",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-30T06:40:26Z",
+    "description": "ATAK Plugin",
+    "stars": "0",
+    "text": "gustavtraff/tmm-sensor-planner",
+    "title": "gustavtraff/tmm-sensor-planner",
+    "url": "https://github.com/gustavtraff/tmm-sensor-planner"
+   }
+  },
+  {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-30T05:31:36Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "5",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
+   "key": "stpleb/openmanet-field-extension",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-29T23:23:23Z",
+    "description": "Field add-ons for plain OpenMANET nodes: status light, PiSugar power, LoRa fallback, ATAK plugin",
+    "stars": "0",
+    "text": "stpleb/openmanet-field-extension",
+    "title": "stpleb/openmanet-field-extension",
+    "url": "https://github.com/stpleb/openmanet-field-extension"
+   }
+  },
+  {
    "key": "aegorsuch/atak-plugin-physiology-dashboard",
    "source": "tak-github",
    "fields": {
@@ -849,18 +885,6 @@
    }
   },
   {
-   "key": "gustavtraff/tmm-sensor-planner",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-29T22:51:48Z",
-    "description": "ATAK Plugin",
-    "stars": "0",
-    "text": "gustavtraff/tmm-sensor-planner",
-    "title": "gustavtraff/tmm-sensor-planner",
-    "url": "https://github.com/gustavtraff/tmm-sensor-planner"
-   }
-  },
-  {
    "key": "takwerx/cam-depot",
    "source": "tak-github",
    "fields": {
@@ -870,18 +894,6 @@
     "text": "takwerx/cam-depot",
     "title": "takwerx/cam-depot",
     "url": "https://github.com/takwerx/cam-depot"
-   }
-  },
-  {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-29T16:13:41Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "5",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
    }
   },
   {
@@ -965,18 +977,6 @@
     "text": "takwerx/evac-zone",
     "title": "takwerx/evac-zone",
     "url": "https://github.com/takwerx/evac-zone"
-   }
-  },
-  {
-   "key": "stpleb/openmanet-field-extension",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-27T02:53:08Z",
-    "description": "Field add-ons for plain OpenMANET nodes: status light, PiSugar power, LoRa fallback, ATAK plugin",
-    "stars": "0",
-    "text": "stpleb/openmanet-field-extension",
-    "title": "stpleb/openmanet-field-extension",
-    "url": "https://github.com/stpleb/openmanet-field-extension"
    }
   },
   {
