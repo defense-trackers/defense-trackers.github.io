@@ -1,26 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-31T12:42:23Z",
+ "fetched_at": "2026-10-31T21:53:40Z",
  "schema_version": 1,
  "records": [
-  {
-   "key": "DByte308/AirTAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-10-31T12:34:02Z",
-    "description": "Fork/mirror of https://git.crashcat.net/3phedra/AirTAK — Airsoft Team Awareness Kit (LoRa mesh firmware + Android app), GPL-3.0-or-later",
-    "stars": "1",
-    "text": "DByte308/AirTAK",
-    "title": "DByte308/AirTAK",
-    "url": "https://github.com/DByte308/AirTAK"
-   }
-  },
   {
    "key": "julianr1967/claude-plugin-skills-kit",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-31T12:24:21Z",
+    "date": "2026-10-31T20:47:25Z",
     "description": "A consistency layer for Claude Code that gives AI coding teams shared guidelines, stack-aware skills, and automated review in the 2026 release.",
     "stars": "0",
     "text": "julianr1967/claude-plugin-skills-kit",
@@ -29,10 +17,22 @@
    }
   },
   {
+   "key": "DByte308/AirTAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-10-31T13:41:31Z",
+    "description": "Fork/mirror of https://git.crashcat.net/3phedra/AirTAK — Airsoft Team Awareness Kit (LoRa mesh firmware + Android app), GPL-3.0-or-later",
+    "stars": "1",
+    "text": "DByte308/AirTAK",
+    "title": "DByte308/AirTAK",
+    "url": "https://github.com/DByte308/AirTAK"
+   }
+  },
+  {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-31T12:09:11Z",
+    "date": "2026-10-31T14:22:35Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "90",
     "text": "takwerx/infra-TAK",
@@ -640,7 +640,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-30T23:41:10Z",
+    "date": "2026-10-31T21:44:01Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "109",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-31T00:24:31Z",
+    "date": "2026-10-31T21:47:27Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "41",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -758,7 +758,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-31T12:18:47Z",
+    "date": "2026-10-31T15:20:54Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "36",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -818,7 +818,7 @@
    "fields": {
     "date": "2026-10-30T16:03:27Z",
     "description": "Yet Another Reticulum Application (aka MeschChat-RS)",
-    "stars": "0",
+    "stars": "1",
     "text": "FreeTAKTeam/YARA",
     "title": "FreeTAKTeam/YARA",
     "url": "https://github.com/FreeTAKTeam/YARA"
@@ -837,6 +837,54 @@
    }
   },
   {
+   "key": "carlosgt91/icu-ng",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-31T20:21:36Z",
+    "description": "ICU NG: camera streaming plugin for ATAK (RTSP/RTSPS/SRT + MISB 0601 KLV) and its companion app ICU NG Capture",
+    "stars": "0",
+    "text": "carlosgt91/icu-ng",
+    "title": "carlosgt91/icu-ng",
+    "url": "https://github.com/carlosgt91/icu-ng"
+   }
+  },
+  {
+   "key": "LinearNetworking/SALUTE",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-31T18:47:30Z",
+    "description": "a Salute Plugin for ATAK and NodeRED for the InfraTAK ecosystem",
+    "stars": "0",
+    "text": "LinearNetworking/SALUTE",
+    "title": "LinearNetworking/SALUTE",
+    "url": "https://github.com/LinearNetworking/SALUTE"
+   }
+  },
+  {
+   "key": "Cloud-RF/Trbotak-plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-31T18:28:26Z",
+    "description": "ATAK plugin for mapping Motorola DMR radios",
+    "stars": "0",
+    "text": "Cloud-RF/Trbotak-plugin",
+    "title": "Cloud-RF/Trbotak-plugin",
+    "url": "https://github.com/Cloud-RF/Trbotak-plugin"
+   }
+  },
+  {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-31T13:55:36Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "6",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
    "key": "takwerx/takwerx-market",
    "source": "tak-github",
    "fields": {
@@ -849,18 +897,6 @@
    }
   },
   {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-31T05:50:17Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "6",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
-   }
-  },
-  {
    "key": "takwerx/map-depot",
    "source": "tak-github",
    "fields": {
@@ -870,18 +906,6 @@
     "text": "takwerx/map-depot",
     "title": "takwerx/map-depot",
     "url": "https://github.com/takwerx/map-depot"
-   }
-  },
-  {
-   "key": "LinearNetworking/SALUTE",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-31T01:53:46Z",
-    "description": "a Salute Plugin for ATAK and NodeRED for the InfraTAK ecosystem",
-    "stars": "0",
-    "text": "LinearNetworking/SALUTE",
-    "title": "LinearNetworking/SALUTE",
-    "url": "https://github.com/LinearNetworking/SALUTE"
    }
   },
   {
@@ -954,18 +978,6 @@
     "text": "RyanR3/TakNearbyDrop",
     "title": "RyanR3/TakNearbyDrop",
     "url": "https://github.com/RyanR3/TakNearbyDrop"
-   }
-  },
-  {
-   "key": "carlosgt91/icu-ng",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-28T18:39:44Z",
-    "description": "ICU NG: camera streaming plugin for ATAK (RTSP/RTSPS/SRT + MISB 0601 KLV) and its companion app ICU NG Capture",
-    "stars": "0",
-    "text": "carlosgt91/icu-ng",
-    "title": "carlosgt91/icu-ng",
-    "url": "https://github.com/carlosgt91/icu-ng"
    }
   },
   {
@@ -1169,18 +1181,6 @@
     "text": "ke8tqb/HBC-ATAK-Plugin",
     "title": "ke8tqb/HBC-ATAK-Plugin",
     "url": "https://github.com/ke8tqb/HBC-ATAK-Plugin"
-   }
-  },
-  {
-   "key": "PoggyBobby/EMCON-Sentinel",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-28T22:15:23Z",
-    "description": "EMCON Sentinel — ATAK-CIV plugin that warns drone operators when adversary RF direction-finding assets are about to fix their position. Three-tier sensing (phone, MAVLink C2, RTL-SDR) + Friis path-loss + dwell-time composite risk + directional displacement candidates. Army xTech 2026.",
-    "stars": "2",
-    "text": "PoggyBobby/EMCON-Sentinel",
-    "title": "PoggyBobby/EMCON-Sentinel",
-    "url": "https://github.com/PoggyBobby/EMCON-Sentinel"
    }
   },
   {
