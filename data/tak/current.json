@@ -1,38 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-10-31T21:53:40Z",
+ "fetched_at": "2026-11-01T13:32:30Z",
  "schema_version": 1,
  "records": [
-  {
-   "key": "julianr1967/claude-plugin-skills-kit",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-10-31T20:47:25Z",
-    "description": "A consistency layer for Claude Code that gives AI coding teams shared guidelines, stack-aware skills, and automated review in the 2026 release.",
-    "stars": "0",
-    "text": "julianr1967/claude-plugin-skills-kit",
-    "title": "julianr1967/claude-plugin-skills-kit",
-    "url": "https://github.com/julianr1967/claude-plugin-skills-kit"
-   }
-  },
-  {
-   "key": "DByte308/AirTAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-10-31T13:41:31Z",
-    "description": "Fork/mirror of https://git.crashcat.net/3phedra/AirTAK — Airsoft Team Awareness Kit (LoRa mesh firmware + Android app), GPL-3.0-or-later",
-    "stars": "1",
-    "text": "DByte308/AirTAK",
-    "title": "DByte308/AirTAK",
-    "url": "https://github.com/DByte308/AirTAK"
-   }
-  },
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-31T14:22:35Z",
+    "date": "2026-11-01T04:04:51Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "90",
     "text": "takwerx/infra-TAK",
@@ -365,6 +341,30 @@
    }
   },
   {
+   "key": "alex-podolian-impressit/helloWorldPlugin",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2025-10-03T10:55:51Z",
+    "description": "Playground for getting familiar with Android Team Awareness Kit (ATAK-CIV)",
+    "stars": "0",
+    "text": "alex-podolian-impressit/helloWorldPlugin",
+    "title": "alex-podolian-impressit/helloWorldPlugin",
+    "url": "https://github.com/alex-podolian-impressit/helloWorldPlugin"
+   }
+  },
+  {
+   "key": "TAK-NZ/tak-deploy",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2025-08-21T18:35:45Z",
+    "description": "One-line installer for TAK (Team Awareness Kit) infrastructure on AWS",
+    "stars": "1",
+    "text": "TAK-NZ/tak-deploy",
+    "title": "TAK-NZ/tak-deploy",
+    "url": "https://github.com/TAK-NZ/tak-deploy"
+   }
+  },
+  {
    "key": "FreeTAKTeam/FreeTakServer",
    "source": "tak-freetak",
    "fields": {
@@ -640,7 +640,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-31T21:44:01Z",
+    "date": "2026-11-01T13:32:18Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "109",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -842,7 +842,7 @@
    "fields": {
     "date": "2026-10-31T20:21:36Z",
     "description": "ICU NG: camera streaming plugin for ATAK (RTSP/RTSPS/SRT + MISB 0601 KLV) and its companion app ICU NG Capture",
-    "stars": "0",
+    "stars": "1",
     "text": "carlosgt91/icu-ng",
     "title": "carlosgt91/icu-ng",
     "url": "https://github.com/carlosgt91/icu-ng"
@@ -1045,7 +1045,7 @@
    "fields": {
     "date": "2026-10-25T03:41:46Z",
     "description": "ATAK Plugin: Atmosphere — fire and hazmat weather on the map: the forecast at a point, radar, satellite, wind, rain, smoke, rivers and the sea. Downloads, guide and issues here.",
-    "stars": "3",
+    "stars": "4",
     "text": "takwerx/atmosphere",
     "title": "takwerx/atmosphere",
     "url": "https://github.com/takwerx/atmosphere"
