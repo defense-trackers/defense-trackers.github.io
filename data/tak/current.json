@@ -1,43 +1,67 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-11-01T22:27:14Z",
+ "fetched_at": "2026-11-02T16:05:17Z",
  "schema_version": 1,
  "records": [
   {
-   "key": "microtak/microtak-server",
+   "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-01T21:12:10Z",
-    "description": "A lightweight, mesh-federated TAK (Team Awareness Kit) server written in Rust",
+    "date": "2026-11-02T15:23:17Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "90",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
+  {
+   "key": "Audrey-cn/universal-agent-embedding-kit",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-11-02T15:18:17Z",
+    "description": "Model-agnostic, embeddable agent kit — verification, adaptive context, effort routing, cache-aware cost model, cross-platform graded benchmarks. Evidence-first: every metric is red-teamed and tagged on an evidence-strength ladder with honest caveats.",
     "stars": "0",
-    "text": "microtak/microtak-server",
-    "title": "microtak/microtak-server",
-    "url": "https://github.com/microtak/microtak-server"
+    "text": "Audrey-cn/universal-agent-embedding-kit",
+    "title": "Audrey-cn/universal-agent-embedding-kit",
+    "url": "https://github.com/Audrey-cn/universal-agent-embedding-kit"
    }
   },
   {
    "key": "DByte308/AirTAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-01T18:34:57Z",
+    "date": "2026-11-02T08:11:58Z",
     "description": "Fork/mirror of https://git.crashcat.net/3phedra/AirTAK — Airsoft Team Awareness Kit (LoRa mesh firmware + Android app), GPL-3.0-or-later",
-    "stars": "0",
+    "stars": "1",
     "text": "DByte308/AirTAK",
     "title": "DByte308/AirTAK",
     "url": "https://github.com/DByte308/AirTAK"
    }
   },
   {
-   "key": "takwerx/infra-TAK",
+   "key": "NorthXLabs/tak-stack",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-01T19:09:09Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "90",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
+    "date": "2026-11-02T01:56:39Z",
+    "description": "Open source tooling and examples for the TAK (Team Awareness Kit) ecosystem, from Cursor on Target basics to working integrations.",
+    "stars": "0",
+    "text": "NorthXLabs/tak-stack",
+    "title": "NorthXLabs/tak-stack",
+    "url": "https://github.com/NorthXLabs/tak-stack"
+   }
+  },
+  {
+   "key": "microtak/microtak-server",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-11-02T00:19:38Z",
+    "description": "A lightweight, mesh-federated TAK (Team Awareness Kit) server written in Rust",
+    "stars": "0",
+    "text": "microtak/microtak-server",
+    "title": "microtak/microtak-server",
+    "url": "https://github.com/microtak/microtak-server"
    }
   },
   {
@@ -68,7 +92,7 @@
    "key": "snstac/pytak",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-23T18:08:22Z",
+    "date": "2026-11-02T04:38:31Z",
     "description": "PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.",
     "stars": "257",
     "text": "snstac/pytak",
@@ -86,18 +110,6 @@
     "text": "trakbridge/trakbridge",
     "title": "trakbridge/trakbridge",
     "url": "https://github.com/trakbridge/trakbridge"
-   }
-  },
-  {
-   "key": "Audrey-cn/universal-agent-embedding-kit",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-10-18T13:18:01Z",
-    "description": "Model-agnostic, embeddable agent kit — verification, adaptive context, effort routing, cache-aware cost model, cross-platform graded benchmarks. Evidence-first: every metric is red-teamed and tagged on an evidence-strength ladder with honest caveats.",
-    "stars": "0",
-    "text": "Audrey-cn/universal-agent-embedding-kit",
-    "title": "Audrey-cn/universal-agent-embedding-kit",
-    "url": "https://github.com/Audrey-cn/universal-agent-embedding-kit"
    }
   },
   {
@@ -350,18 +362,6 @@
     "text": "mardzie/FossTeamAwarenessKit",
     "title": "mardzie/FossTeamAwarenessKit",
     "url": "https://github.com/mardzie/FossTeamAwarenessKit"
-   }
-  },
-  {
-   "key": "alex-podolian-impressit/helloWorldPlugin",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2025-10-03T10:55:51Z",
-    "description": "Playground for getting familiar with Android Team Awareness Kit (ATAK-CIV)",
-    "stars": "0",
-    "text": "alex-podolian-impressit/helloWorldPlugin",
-    "title": "alex-podolian-impressit/helloWorldPlugin",
-    "url": "https://github.com/alex-podolian-impressit/helloWorldPlugin"
    }
   },
   {
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-31T21:47:27Z",
+    "date": "2026-11-02T12:28:36Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "41",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -837,6 +837,78 @@
    }
   },
   {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-02T14:34:20Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "6",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
+   "key": "aegorsuch/atak-plugin-weartak-companion",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-02T13:35:59Z",
+    "description": "Public mirror of TAK.gov atak-plugin-weartak-companion",
+    "stars": "2",
+    "text": "aegorsuch/atak-plugin-weartak-companion",
+    "title": "aegorsuch/atak-plugin-weartak-companion",
+    "url": "https://github.com/aegorsuch/atak-plugin-weartak-companion"
+   }
+  },
+  {
+   "key": "aegorsuch/atak-plugin-physiology-dashboard",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-02T13:35:45Z",
+    "description": "Public mirror of TAK.gov atak-plugin-physiology dashboard",
+    "stars": "2",
+    "text": "aegorsuch/atak-plugin-physiology-dashboard",
+    "title": "aegorsuch/atak-plugin-physiology-dashboard",
+    "url": "https://github.com/aegorsuch/atak-plugin-physiology-dashboard"
+   }
+  },
+  {
+   "key": "aegorsuch/atak-plugin-firecone",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-02T13:42:43Z",
+    "description": "Firecone ATAK plugin (secondary GitHub repository; TAK Forge is canonical)",
+    "stars": "2",
+    "text": "aegorsuch/atak-plugin-firecone",
+    "title": "aegorsuch/atak-plugin-firecone",
+    "url": "https://github.com/aegorsuch/atak-plugin-firecone"
+   }
+  },
+  {
+   "key": "aegorsuch/atak-plugin-houndmaster",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-02T13:42:53Z",
+    "description": "Bloodhound order management",
+    "stars": "3",
+    "text": "aegorsuch/atak-plugin-houndmaster",
+    "title": "aegorsuch/atak-plugin-houndmaster",
+    "url": "https://github.com/aegorsuch/atak-plugin-houndmaster"
+   }
+  },
+  {
+   "key": "TX-RX/TAK-XVoice",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-02T06:23:31Z",
+    "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
+    "stars": "12",
+    "text": "TX-RX/TAK-XVoice",
+    "title": "TX-RX/TAK-XVoice",
+    "url": "https://github.com/TX-RX/TAK-XVoice"
+   }
+  },
+  {
    "key": "carlosgt91/icu-ng",
    "source": "tak-github",
    "fields": {
@@ -870,18 +942,6 @@
     "text": "Cloud-RF/Trbotak-plugin",
     "title": "Cloud-RF/Trbotak-plugin",
     "url": "https://github.com/Cloud-RF/Trbotak-plugin"
-   }
-  },
-  {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-31T13:55:36Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "6",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
    }
   },
   {
@@ -926,7 +986,7 @@
    "fields": {
     "date": "2026-10-30T13:46:43Z",
     "description": "ATAK plugin that loads unsigned/signature-rejected plugins by bypassing AtakPluginRegistry verification",
-    "stars": "17",
+    "stars": "18",
     "text": "niccellular/gadget",
     "title": "niccellular/gadget",
     "url": "https://github.com/niccellular/gadget"
@@ -942,18 +1002,6 @@
     "text": "stpleb/openmanet-field-extension",
     "title": "stpleb/openmanet-field-extension",
     "url": "https://github.com/stpleb/openmanet-field-extension"
-   }
-  },
-  {
-   "key": "aegorsuch/atak-plugin-physiology-dashboard",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-29T11:55:59Z",
-    "description": "Public mirror of TAK.gov atak-plugin-physiology dashboard",
-    "stars": "2",
-    "text": "aegorsuch/atak-plugin-physiology-dashboard",
-    "title": "aegorsuch/atak-plugin-physiology-dashboard",
-    "url": "https://github.com/aegorsuch/atak-plugin-physiology-dashboard"
    }
   },
   {
@@ -978,30 +1026,6 @@
     "text": "RyanR3/TakNearbyDrop",
     "title": "RyanR3/TakNearbyDrop",
     "url": "https://github.com/RyanR3/TakNearbyDrop"
-   }
-  },
-  {
-   "key": "TX-RX/TAK-XVoice",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-28T14:46:28Z",
-    "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
-    "stars": "11",
-    "text": "TX-RX/TAK-XVoice",
-    "title": "TX-RX/TAK-XVoice",
-    "url": "https://github.com/TX-RX/TAK-XVoice"
-   }
-  },
-  {
-   "key": "aegorsuch/atak-plugin-weartak-companion",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-29T11:56:40Z",
-    "description": "Public mirror of TAK.gov atak-plugin-weartak-companion",
-    "stars": "2",
-    "text": "aegorsuch/atak-plugin-weartak-companion",
-    "title": "aegorsuch/atak-plugin-weartak-companion",
-    "url": "https://github.com/aegorsuch/atak-plugin-weartak-companion"
    }
   },
   {
@@ -1049,30 +1073,6 @@
     "text": "takwerx/atmosphere",
     "title": "takwerx/atmosphere",
     "url": "https://github.com/takwerx/atmosphere"
-   }
-  },
-  {
-   "key": "aegorsuch/atak-plugin-firecone",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-23T15:25:16Z",
-    "description": "Firecone ATAK plugin (secondary GitHub repository; TAK Forge is canonical)",
-    "stars": "2",
-    "text": "aegorsuch/atak-plugin-firecone",
-    "title": "aegorsuch/atak-plugin-firecone",
-    "url": "https://github.com/aegorsuch/atak-plugin-firecone"
-   }
-  },
-  {
-   "key": "aegorsuch/atak-plugin-houndmaster",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-23T15:04:44Z",
-    "description": "Bloodhound order management",
-    "stars": "3",
-    "text": "aegorsuch/atak-plugin-houndmaster",
-    "title": "aegorsuch/atak-plugin-houndmaster",
-    "url": "https://github.com/aegorsuch/atak-plugin-houndmaster"
    }
   },
   {
