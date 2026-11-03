@@ -12111,3 +12111,37 @@
 {"ts":"2026-11-03T14:23:04Z","source":"model-ops-llamacpp","type":"removed","key":"b12059","summary":"b12059","prev":"35d87c658b8796f0642369f04d8c71b26f3ebc6d710cb64d3d8c6ea7c7333a53"}
 {"ts":"2026-11-03T14:23:09Z","source":"model-ops-ollama","type":"added","key":"v0.40.14","summary":"v0.40.14","prev":"69f9a0230d111a4fbb78fc588f27549fbf9a8f19cbbc15b1cde53f3f9b5a2633"}
 {"ts":"2026-11-03T14:23:09Z","source":"model-ops-ollama","type":"removed","key":"v0.40.6","summary":"v0.40.6","prev":"299efc677c6187446a33800c08fce0bb8216d7bee029f1f0a206b60a1432effb"}
+{"ts":"2026-11-03T23:40:50Z","source":"model-ops-gov","type":"added","key":"Gemma (open weights)","summary":"Gemma (open weights)","prev":"ed75815c45dc8ddc771402d04638b3546ac294858d20f6fba0e3e40b7d27aaf0"}
+{"ts":"2026-11-03T23:40:50Z","source":"model-ops-gov","type":"added","key":"Mistral (open-weight releases)","summary":"Mistral (open-weight releases)","prev":"cebcc44d51ea725042637dd0270436be030fbc43379e9f733af722dc61871c8c"}
+{"ts":"2026-11-03T23:40:50Z","source":"model-ops-gov","type":"added","key":"Nomic Embed","summary":"Nomic Embed","prev":"58cb5813d2022952985a73687f4db769e7602f0df88a07c4ffbbd89eef49ba88"}
+{"ts":"2026-11-03T23:40:51Z","source":"model-ops-hf","type":"changed","key":"openai/gpt-oss-20b","summary":"openai/gpt-oss-20b","prev":"d6beef9cdbbbed3e43e7b95a17d675e1a963ccdf280df535a4c81527057be661"}
+{"ts":"2026-11-03T23:40:51Z","source":"model-ops-hf","type":"changed","key":"ornith-ai/Ornith-1.5-9B-GGUF","summary":"ornith-ai/Ornith-1.5-9B-GGUF","prev":"0d8c9bfa89aa1048737d6730599731e7c4b1c01e606b606ef14f37145b03df0b"}
+{"ts":"2026-11-03T23:40:51Z","source":"model-ops-hf","type":"changed","key":"meta-llama/Llama-3.1-8B-Instruct","summary":"meta-llama/Llama-3.1-8B-Instruct","prev":"3a82d4e8e040c3c05af9aa36d48ce0fa39596de1fadfaef3d3528c759ee99ea1"}
+{"ts":"2026-11-03T23:40:51Z","source":"model-ops-hf","type":"changed","key":"ornith-ai/Ornith-1.5-35B-A3B-GGUF","summary":"ornith-ai/Ornith-1.5-35B-A3B-GGUF","prev":"ad273328078fca60a1cd3825cad98eb2f743defd9b23e2a905511898a89d77f3"}
+{"ts":"2026-11-03T23:40:51Z","source":"model-ops-hf","type":"changed","key":"openai/gpt-oss-120b","summary":"openai/gpt-oss-120b","prev":"fab64630f102bf57ffbdba698a78cc961c7137b063b2fb0fb6ab2aea1ae39925"}
+{"ts":"2026-11-03T23:40:51Z","source":"model-ops-hf","type":"changed","key":"farbodtavakkoli/OTel-2.0-Decision-26B-A4B-4bit","summary":"farbodtavakkoli/OTel-2.0-Decision-26B-A4B-4bit","prev":"4e726242ce2c6ff756241ad8b5a1690a1c77095a7df1c2daf7984cff0afd0ad2"}
+{"ts":"2026-11-03T23:40:51Z","source":"model-ops-hf","type":"changed","key":"zai-org/GLM-5.3","summary":"zai-org/GLM-5.3","prev":"c54d55275ac66f0b9fd66a1266357983d32b5054be679cd2f1b66a5234100a2f"}
+{"ts":"2026-11-03T23:40:51Z","source":"model-ops-hf","type":"changed","key":"meta-llama/Llama-3.2-1B-Instruct","summary":"meta-llama/Llama-3.2-1B-Instruct","prev":"11bd028de823b07b4254cabf137a50873b840d62e909e32a047a0977fe4014fc"}
+{"ts":"2026-11-03T23:40:51Z","source":"model-ops-hf","type":"changed","key":"ornith-ai/Ornith-1.5-397B-GGUF","summary":"ornith-ai/Ornith-1.5-397B-GGUF","prev":"2afe698f8575eb8b682233b1d7688bf98738130a75921537f2366427489de04c"}
+{"ts":"2026-11-03T23:40:51Z","source":"model-ops-hf","type":"changed","key":"nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16","summary":"nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16","prev":"528eaf04f61a71762352ce098143868a69303f1d09b8a8a8e373b3e432210b0d"}
+{"ts":"2026-11-03T23:40:51Z","source":"model-ops-hf","type":"changed","key":"openbmb/MiniCPM5-2B","summary":"openbmb/MiniCPM5-2B","prev":"0ec13128847e461a1a78c48a380cbbf0c420a19e6a0a32bde6682b3f6727abe8"}
+{"ts":"2026-11-03T23:40:51Z","source":"model-ops-hf","type":"changed","key":"nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4","summary":"nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4","prev":"aeeb6e3c88541618ab29f94e2f6969face5491adb9210742d65d2987ee80951f"}
+{"ts":"2026-11-03T23:40:51Z","source":"model-ops-hf","type":"changed","key":"meta-llama/Llama-3.2-3B-Instruct","summary":"meta-llama/Llama-3.2-3B-Instruct","prev":"6a046de7b1ff1b53efa7e143af7a336d9369b4f9de12d8a53682c9bca30de73d"}
+{"ts":"2026-11-03T23:40:54Z","source":"model-ops-llamacpp","type":"added","key":"b12083","summary":"b12083","prev":"24d7e31a825d95f9a08ee814c86397dfcf3fc6e9c89256f37c84f40eda7c130c"}
+{"ts":"2026-11-03T23:40:54Z","source":"model-ops-llamacpp","type":"added","key":"b12081","summary":"b12081","prev":"36113cc74d423fe49b9ec4595b9c88374ead14acf8be1ffd0767e02d8f3569ed"}
+{"ts":"2026-11-03T23:40:54Z","source":"model-ops-llamacpp","type":"added","key":"b12080","summary":"b12080","prev":"82f2f7cfbf0928b5634b616b91d55033301938c488bdd338ca439effce7ebde9"}
+{"ts":"2026-11-03T23:40:54Z","source":"model-ops-llamacpp","type":"added","key":"b12079","summary":"b12079","prev":"ed4b40120a3c158a1a6dbd08706a2b930ff49405038382404496ff8be02a1c14"}
+{"ts":"2026-11-03T23:40:54Z","source":"model-ops-llamacpp","type":"added","key":"b12078","summary":"b12078","prev":"f1e93fa150639d1ad900623afb7559544a59d65a4807c8ce8104fe7ade05805f"}
+{"ts":"2026-11-03T23:40:54Z","source":"model-ops-llamacpp","type":"added","key":"b12077","summary":"b12077","prev":"a63e1b37698e17ac86601394353b44a54d3704da230f94d3ae5d554f9fa77058"}
+{"ts":"2026-11-03T23:40:54Z","source":"model-ops-llamacpp","type":"added","key":"b12076","summary":"b12076","prev":"907b14bbe95bf10e6818c4a4078beb44a201f73cb47f420da457ed10fafb636d"}
+{"ts":"2026-11-03T23:40:54Z","source":"model-ops-llamacpp","type":"added","key":"b12074","summary":"b12074","prev":"9645edad237e291be9647fbd61da7cda3c08a398c6fcac845c053de12613cc5c"}
+{"ts":"2026-11-03T23:40:54Z","source":"model-ops-llamacpp","type":"removed","key":"b12060","summary":"b12060","prev":"165b28faae106f5174bec0f568680b3dac1f83ef077499a81d586077407a8ff8"}
+{"ts":"2026-11-03T23:40:54Z","source":"model-ops-llamacpp","type":"removed","key":"b12061","summary":"b12061","prev":"68ab50327e27482859eb547babd76dceeb470bde089d7e8f164525319b7f53cc"}
+{"ts":"2026-11-03T23:40:54Z","source":"model-ops-llamacpp","type":"removed","key":"b12063","summary":"b12063","prev":"97770c7fcac0358133e346e17554e606ecf9d159d5ca74eba2a5801b1fc6e5dc"}
+{"ts":"2026-11-03T23:40:54Z","source":"model-ops-llamacpp","type":"removed","key":"b12064","summary":"b12064","prev":"99d69b3d4e6737fec292e7468ca686fe94f0a0132af22a48b6f8325ce06be54a"}
+{"ts":"2026-11-03T23:40:54Z","source":"model-ops-llamacpp","type":"removed","key":"b12065","summary":"b12065","prev":"fcd346c602293ee5e47ed7f160f39c5ec026edcb4e54f1d6a4ef7124c9b29b6f"}
+{"ts":"2026-11-03T23:40:54Z","source":"model-ops-llamacpp","type":"removed","key":"b12066","summary":"b12066","prev":"e6cca334d4f9df8de423809f57f9f3d80c2abe46fbed21ca7bb7a94097710b22"}
+{"ts":"2026-11-03T23:40:54Z","source":"model-ops-llamacpp","type":"removed","key":"b12068","summary":"b12068","prev":"bb906d8cd6abbf981c47aef7b2ca674261378de436aed0c2efa722336eefc6c0"}
+{"ts":"2026-11-03T23:40:54Z","source":"model-ops-llamacpp","type":"removed","key":"b12069","summary":"b12069","prev":"6a46873b5faf2fdf9666a0234309e4a55d74f87bbdc6c85792987292a25d5c92"}
+{"ts":"2026-11-03T23:40:59Z","source":"model-ops-ollama","type":"added","key":"v0.40.15-rc0","summary":"v0.40.15","prev":"045aa760e554d259250a93e88228675e0526802139b2458a5fb45e477afe8987"}
+{"ts":"2026-11-03T23:40:59Z","source":"model-ops-ollama","type":"removed","key":"v0.40.7","summary":"v0.40.7","prev":"f6c295a303729cc0b3b80a5048970b6fd3f54da8a4fe31882ac6d2a02302f83a"}

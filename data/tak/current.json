@@ -1,7 +1,7 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-11-03T14:24:36Z",
+ "fetched_at": "2026-11-03T23:42:20Z",
  "schema_version": 1,
  "records": [
   {
@@ -56,7 +56,7 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-03T12:23:24Z",
+    "date": "2026-11-03T19:09:46Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "91",
     "text": "takwerx/infra-TAK",
@@ -640,7 +640,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-01T13:32:18Z",
+    "date": "2026-11-03T21:26:25Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "109",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-03T14:21:49Z",
+    "date": "2026-11-03T15:22:50Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "41",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -834,6 +834,17 @@
     "text": "FreeTAKTeam/atn-rangefinder",
     "title": "FreeTAKTeam/atn-rangefinder",
     "url": "https://github.com/FreeTAKTeam/atn-rangefinder"
+   }
+  },
+  {
+   "key": "Ben-Holman12/ATAK-EW-Communications-Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-03T18:58:26Z",
+    "stars": "0",
+    "text": "Ben-Holman12/ATAK-EW-Communications-Plugin",
+    "title": "Ben-Holman12/ATAK-EW-Communications-Plugin",
+    "url": "https://github.com/Ben-Holman12/ATAK-EW-Communications-Plugin"
    }
   },
   {
@@ -1169,18 +1180,6 @@
     "text": "besteffortdev/openfire-SAMessage",
     "title": "besteffortdev/openfire-SAMessage",
     "url": "https://github.com/besteffortdev/openfire-SAMessage"
-   }
-  },
-  {
-   "key": "RemArrow/geronimo-ecoti",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-15T01:22:31Z",
-    "description": "ECOTI Thermal Fusion for Geronimo (VR): thermal-fusion night vision and a panoramic fusion goggle with an ATAK HUD. A GML plugin.",
-    "stars": "0",
-    "text": "RemArrow/geronimo-ecoti",
-    "title": "RemArrow/geronimo-ecoti",
-    "url": "https://github.com/RemArrow/geronimo-ecoti"
    }
   },
   {
