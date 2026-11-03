@@ -1,7 +1,7 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-11-02T16:04:46Z",
+ "fetched_at": "2026-11-03T01:17:46Z",
  "schema_version": 1,
  "records": [
   {
@@ -80,7 +80,7 @@
    "key": "cisagov/trustymail_reporter",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-11-01T16:22:40Z",
+    "date": "2026-11-02T23:39:24Z",
     "description": "Generate Trustworthy Email reports based on scan data",
     "stars": "13",
     "text": "cisagov/trustymail_reporter",
@@ -286,7 +286,7 @@
    "fields": {
     "date": "2026-10-09T16:09:35Z",
     "description": "Cybersecurity Evaluation Tool",
-    "stars": "1918",
+    "stars": "1919",
     "text": "cisagov/cset",
     "title": "cisagov/cset",
     "url": "https://github.com/cisagov/cset"
@@ -500,7 +500,7 @@
    "key": "cisagov/prescup-web",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-10-01T17:36:37Z",
+    "date": "2026-11-02T17:07:16Z",
     "description": "President's Cup Cybersecurity Competition landing page",
     "stars": "4",
     "text": "cisagov/prescup-web",
@@ -572,7 +572,7 @@
    "key": "idaholab/moose",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-11-02T14:19:43Z",
+    "date": "2026-11-03T00:23:41Z",
     "description": "Multiphysics Object Oriented Simulation Environment: A robust, modern, extendable, finite element/finite volume framework that excels at creating complex multiphysics simulations.",
     "stars": "2401",
     "text": "idaholab/moose",
@@ -610,7 +610,7 @@
    "fields": {
     "date": "2026-10-29T19:38:59Z",
     "description": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.",
-    "stars": "495",
+    "stars": "496",
     "text": "idaholab/Malcolm",
     "title": "idaholab/Malcolm",
     "url": "https://github.com/idaholab/Malcolm"
@@ -656,7 +656,7 @@
    "key": "idaholab/isopod",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-10-31T05:59:53Z",
+    "date": "2026-11-02T23:40:24Z",
     "description": "isopod, a MOOSE based app for multiphysics PDE constrained optimization",
     "stars": "9",
     "text": "idaholab/isopod",
@@ -668,7 +668,7 @@
    "key": "idaholab/malamute",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-10-31T05:49:57Z",
+    "date": "2026-11-03T00:10:27Z",
     "description": "Advanced manufacturing modeling and simulation",
     "stars": "23",
     "text": "idaholab/malamute",
@@ -680,7 +680,7 @@
    "key": "idaholab/salamander",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-10-31T23:32:04Z",
+    "date": "2026-11-03T01:05:20Z",
     "description": "SALAMANDER is an application for performing system-level, engineering scale (i.e., at the scale of centimeters and meters), and microstructure-scale (i.e., at the scale of microns) multiphysics calculations related to magnetic confinement fusion energy systems.",
     "stars": "28",
     "text": "idaholab/salamander",
@@ -716,7 +716,7 @@
    "key": "lanl/LaGriT",
    "source": "oss-lanl",
    "fields": {
-    "date": "2026-11-02T13:29:36Z",
+    "date": "2026-11-02T21:38:24Z",
     "description": "Los Alamos Grid Toolbox (LaGriT) is a library of user callable tools that provide mesh generation, mesh optimization and dynamic mesh maintenance in two and three dimensions.",
     "stars": "138",
     "text": "lanl/LaGriT",
@@ -788,7 +788,7 @@
    "key": "llnl/conduit",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-11-01T22:09:44Z",
+    "date": "2026-11-02T23:21:42Z",
     "description": "Simplified Data Exchange for HPC Simulations",
     "stars": "250",
     "text": "llnl/conduit",
@@ -802,7 +802,7 @@
    "fields": {
     "date": "2026-10-26T15:18:59Z",
     "description": "Caliper is an instrumentation and performance profiling library",
-    "stars": "421",
+    "stars": "422",
     "text": "llnl/Caliper",
     "title": "llnl/Caliper",
     "url": "https://github.com/llnl/Caliper"
@@ -836,7 +836,7 @@
    "key": "llnl/RAJA",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-10-23T17:40:23Z",
+    "date": "2026-11-03T01:14:15Z",
     "description": "RAJA Performance Portability Layer (C++)",
     "stars": "604",
     "text": "llnl/RAJA",
@@ -979,7 +979,7 @@
    "key": "nasa/trick",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-11-02T15:34:26Z",
+    "date": "2026-11-02T23:46:13Z",
     "description": "Trick Simulation Environment.  Trick provides a common set of simulation capabilities and utilities to build simulations automatically.",
     "stars": "180",
     "text": "nasa/trick",
@@ -1003,7 +1003,7 @@
    "key": "nasa/earthdata-search",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-11-02T07:31:38Z",
+    "date": "2026-11-02T22:51:58Z",
     "description": "Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.",
     "stars": "828",
     "text": "nasa/earthdata-search",
@@ -1029,7 +1029,7 @@
    "fields": {
     "date": "2026-10-06T05:10:54Z",
     "description": "Astronomy Picture of the Day API service",
-    "stars": "1096",
+    "stars": "1095",
     "text": "nasa/apod-api",
     "title": "nasa/apod-api",
     "url": "https://github.com/nasa/apod-api"
@@ -1063,7 +1063,7 @@
    "key": "nasa/Common-Metadata-Repository",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-11-02T15:48:30Z",
+    "date": "2026-11-02T22:12:25Z",
     "description": "The Common Metadata Repository (CMR) is a high-performance, high-quality, continuously evolving metadata system that catalogs Earth Science data and associated service metadata records. These metadata records are registered, modified, discovered, and accessed through programmatic interfaces leveraging standard protocols and APIs.",
     "stars": "399",
     "text": "nasa/Common-Metadata-Repository",
@@ -1183,7 +1183,7 @@
    "key": "nsacyber/HIRS",
    "source": "oss-nsacyber",
    "fields": {
-    "date": "2026-10-30T20:02:03Z",
+    "date": "2026-11-02T21:01:42Z",
     "description": "Trusted Computing based services supporting TPM provisioning and supply chain validation concepts. #nsacyber",
     "stars": "216",
     "text": "nsacyber/HIRS",
@@ -1219,7 +1219,7 @@
    "key": "ORNL/TASMANIAN",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-11-01T00:22:39Z",
+    "date": "2026-11-03T00:09:24Z",
     "description": "The Toolkit for Adaptive Stochastic Modeling and Non-Intrusive ApproximatioN",
     "stars": "78",
     "text": "ORNL/TASMANIAN",
@@ -1314,7 +1314,7 @@
    "key": "ORNL/superneuroabm",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-10-31T01:16:40Z",
+    "date": "2026-11-02T22:45:53Z",
     "description": "A GPU-based multi-agent simulation framework for neuromorphic computing",
     "stars": "8",
     "text": "ORNL/superneuroabm",
@@ -1328,7 +1328,7 @@
    "fields": {
     "date": "2026-09-21T15:34:26Z",
     "description": "A continuum physics code for additive manufacturing built on OpenFOAM",
-    "stars": "79",
+    "stars": "80",
     "text": "ORNL/AdditiveFOAM",
     "title": "ORNL/AdditiveFOAM",
     "url": "https://github.com/ORNL/AdditiveFOAM"
@@ -1338,12 +1338,24 @@
    "key": "ORNL/GridKit",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-11-02T15:56:35Z",
+    "date": "2026-11-03T01:04:16Z",
     "description": "Modeling framework for power systems simulations and analysis.",
     "stars": "27",
     "text": "ORNL/GridKit",
     "title": "ORNL/GridKit",
     "url": "https://github.com/ORNL/GridKit"
+   }
+  },
+  {
+   "key": "sandialabs/scot",
+   "source": "oss-sandialabs",
+   "fields": {
+    "date": "2026-11-02T22:51:09Z",
+    "description": "Sandia Cyber Omni Tracker (SCOT)",
+    "stars": "254",
+    "text": "sandialabs/scot",
+    "title": "sandialabs/scot",
+    "url": "https://github.com/sandialabs/scot"
    }
   },
   {
@@ -1458,7 +1470,7 @@
    "key": "usnistgov/fipy",
    "source": "oss-usnistgov",
    "fields": {
-    "date": "2026-10-30T17:05:53Z",
+    "date": "2026-11-02T22:24:37Z",
     "description": "FiPy is a Finite Volume PDE solver written in Python",
     "stars": "645",
     "text": "usnistgov/fipy",

@@ -1,16 +1,40 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-11-02T16:05:17Z",
+ "fetched_at": "2026-11-03T01:18:18Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "DByte308/AirTAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-11-02T20:58:45Z",
+    "description": "Fork/mirror of https://git.crashcat.net/3phedra/AirTAK — Airsoft Team Awareness Kit (LoRa mesh firmware + Android app), GPL-3.0-or-later",
+    "stars": "1",
+    "text": "DByte308/AirTAK",
+    "title": "DByte308/AirTAK",
+    "url": "https://github.com/DByte308/AirTAK"
+   }
+  },
+  {
+   "key": "microtak/microtak-server",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-11-02T18:32:34Z",
+    "description": "A lightweight, mesh-federated TAK (Team Awareness Kit) server written in Rust",
+    "stars": "0",
+    "text": "microtak/microtak-server",
+    "title": "microtak/microtak-server",
+    "url": "https://github.com/microtak/microtak-server"
+   }
+  },
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-02T15:23:17Z",
+    "date": "2026-11-03T01:00:23Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "90",
+    "stars": "91",
     "text": "takwerx/infra-TAK",
     "title": "takwerx/infra-TAK",
     "url": "https://github.com/takwerx/infra-TAK"
@@ -29,18 +53,6 @@
    }
   },
   {
-   "key": "DByte308/AirTAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-11-02T08:11:58Z",
-    "description": "Fork/mirror of https://git.crashcat.net/3phedra/AirTAK — Airsoft Team Awareness Kit (LoRa mesh firmware + Android app), GPL-3.0-or-later",
-    "stars": "1",
-    "text": "DByte308/AirTAK",
-    "title": "DByte308/AirTAK",
-    "url": "https://github.com/DByte308/AirTAK"
-   }
-  },
-  {
    "key": "NorthXLabs/tak-stack",
    "source": "tak-cot",
    "fields": {
@@ -50,18 +62,6 @@
     "text": "NorthXLabs/tak-stack",
     "title": "NorthXLabs/tak-stack",
     "url": "https://github.com/NorthXLabs/tak-stack"
-   }
-  },
-  {
-   "key": "microtak/microtak-server",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-11-02T00:19:38Z",
-    "description": "A lightweight, mesh-federated TAK (Team Awareness Kit) server written in Rust",
-    "stars": "0",
-    "text": "microtak/microtak-server",
-    "title": "microtak/microtak-server",
-    "url": "https://github.com/microtak/microtak-server"
    }
   },
   {
@@ -582,7 +582,7 @@
    "key": "FreeTAKTeam/DigitalArchitectureFramework",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-01T20:11:46Z",
+    "date": "2026-11-03T00:38:38Z",
     "description": "The Digital Architecture Framework (DAF),  is a set modeling tools for Digital Engineering. ",
     "stars": "8",
     "text": "FreeTAKTeam/DigitalArchitectureFramework",
@@ -840,7 +840,7 @@
    "key": "takwerx/atak-plugins",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-02T14:34:20Z",
+    "date": "2026-11-03T01:00:18Z",
     "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
     "stars": "6",
     "text": "takwerx/atak-plugins",

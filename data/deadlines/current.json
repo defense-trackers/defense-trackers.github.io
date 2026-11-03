@@ -1,7 +1,7 @@
 {
  "source": "deadlines",
  "tracker": "deadlines",
- "fetched_at": "2026-11-02T16:05:20Z",
+ "fetched_at": "2026-11-03T01:18:20Z",
  "schema_version": 1,
  "records": [
   {
@@ -304,6 +304,19 @@
    }
   },
   {
+   "key": "close-364172",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "Air Force Office of Scientific Research",
+    "closes": "2027-04-02",
+    "date": "2027-04-02",
+    "from": "pipeline",
+    "text": "AFRL/AFOSR Fiscal Year (FY) 2027 University Center for High-Speed Aerothermoelasticity",
+    "title": "AFRL/AFOSR Fiscal Year (FY) 2027 University Center for High-Speed Aerothermoelasticity",
+    "url": "https://www.grants.gov/search-results-detail/364172"
+   }
+  },
+  {
    "key": "close-360258",
    "source": "deadlines-solicitations",
    "fields": {
@@ -366,19 +379,6 @@
     "text": "Fiscal Year (FY) 2027 Department of War (DoW) Defense University Research Instrumentation Program (DURIP)",
     "title": "Fiscal Year (FY) 2027 Department of War (DoW) Defense University Research Instrumentation Program (DURIP)",
     "url": "https://www.grants.gov/search-results-detail/363379"
-   }
-  },
-  {
-   "key": "close-364172",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "Air Force Office of Scientific Research",
-    "closes": "2027-04-02",
-    "date": "2027-04-02",
-    "from": "pipeline",
-    "text": "AFRL/AFOSR Fiscal Year (FY) 2027 University Center for High-Speed Aerothermoelasticity",
-    "title": "AFRL/AFOSR Fiscal Year (FY) 2027 University Center for High-Speed Aerothermoelasticity",
-    "url": "https://www.grants.gov/search-results-detail/364172"
    }
   },
   {
