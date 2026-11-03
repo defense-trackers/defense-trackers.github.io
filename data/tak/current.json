@@ -1,9 +1,33 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-11-03T01:18:18Z",
+ "fetched_at": "2026-11-03T14:24:36Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "matteskes/macTAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-11-03T08:05:57Z",
+    "description": "macTAK - A Team Awareness Kit client for macOS",
+    "stars": "3",
+    "text": "matteskes/macTAK",
+    "title": "matteskes/macTAK",
+    "url": "https://github.com/matteskes/macTAK"
+   }
+  },
+  {
+   "key": "rsihare93/team-knowledge-kit",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-11-03T03:56:45Z",
+    "description": "A reusable kit that compiles a team's code, wiki, tickets, documents and transcripts into a reviewed, time-aware knowledge base for AI coding assistants. Design and plan.",
+    "stars": "0",
+    "text": "rsihare93/team-knowledge-kit",
+    "title": "rsihare93/team-knowledge-kit",
+    "url": "https://github.com/rsihare93/team-knowledge-kit"
+   }
+  },
   {
    "key": "DByte308/AirTAK",
    "source": "tak-cot",
@@ -32,7 +56,7 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-03T01:00:23Z",
+    "date": "2026-11-03T12:23:24Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "91",
     "text": "takwerx/infra-TAK",
@@ -341,30 +365,6 @@
    }
   },
   {
-   "key": "catsmells/LTAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2025-12-13T19:36:30Z",
-    "description": "Linux-based Team Awareness Kit",
-    "stars": "2",
-    "text": "catsmells/LTAK",
-    "title": "catsmells/LTAK",
-    "url": "https://github.com/catsmells/LTAK"
-   }
-  },
-  {
-   "key": "mardzie/FossTeamAwarenessKit",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2025-12-12T14:21:44Z",
-    "description": "FOSSTAK helps you and your team coordinate your operations and plans.",
-    "stars": "0",
-    "text": "mardzie/FossTeamAwarenessKit",
-    "title": "mardzie/FossTeamAwarenessKit",
-    "url": "https://github.com/mardzie/FossTeamAwarenessKit"
-   }
-  },
-  {
    "key": "FreeTAKTeam/FreeTakServer",
    "source": "tak-freetak",
    "fields": {
@@ -582,7 +582,7 @@
    "key": "FreeTAKTeam/DigitalArchitectureFramework",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-03T00:38:38Z",
+    "date": "2026-11-03T01:47:50Z",
     "description": "The Digital Architecture Framework (DAF),  is a set modeling tools for Digital Engineering. ",
     "stars": "8",
     "text": "FreeTAKTeam/DigitalArchitectureFramework",
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-02T12:28:36Z",
+    "date": "2026-11-03T14:21:49Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "41",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -816,7 +816,7 @@
    "key": "FreeTAKTeam/YARA",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-30T16:03:27Z",
+    "date": "2026-11-03T14:18:49Z",
     "description": "Yet Another Reticulum Application (aka MeschChat-RS)",
     "stars": "1",
     "text": "FreeTAKTeam/YARA",
@@ -837,15 +837,39 @@
    }
   },
   {
+   "key": "takwerx/takwerx-market",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-03T06:49:50Z",
+    "description": "ATAK Plugin: TAKwerx Market — install and update takwerx plugins from inside ATAK. Downloads, guide and issues here.",
+    "stars": "15",
+    "text": "takwerx/takwerx-market",
+    "title": "takwerx/takwerx-market",
+    "url": "https://github.com/takwerx/takwerx-market"
+   }
+  },
+  {
    "key": "takwerx/atak-plugins",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-03T01:00:18Z",
+    "date": "2026-11-03T06:51:35Z",
     "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
     "stars": "6",
     "text": "takwerx/atak-plugins",
     "title": "takwerx/atak-plugins",
     "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
+   "key": "takwerx/uas-flight-plan",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-03T06:16:38Z",
+    "description": "ATAK Plugin: UAS Flight Plan — launch point ground elevation, the ceiling an area needs or what a given ceiling does to it, with terrain islands and FAA obstacles. Downloads, guide and issues here.",
+    "stars": "5",
+    "text": "takwerx/uas-flight-plan",
+    "title": "takwerx/uas-flight-plan",
+    "url": "https://github.com/takwerx/uas-flight-plan"
    }
   },
   {
@@ -938,22 +962,10 @@
    "fields": {
     "date": "2026-10-31T18:28:26Z",
     "description": "ATAK plugin for mapping Motorola DMR radios",
-    "stars": "0",
+    "stars": "1",
     "text": "Cloud-RF/Trbotak-plugin",
     "title": "Cloud-RF/Trbotak-plugin",
     "url": "https://github.com/Cloud-RF/Trbotak-plugin"
-   }
-  },
-  {
-   "key": "takwerx/takwerx-market",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-31T07:44:58Z",
-    "description": "ATAK Plugin: TAKwerx Market — install and update takwerx plugins from inside ATAK. Downloads, guide and issues here.",
-    "stars": "15",
-    "text": "takwerx/takwerx-market",
-    "title": "takwerx/takwerx-market",
-    "url": "https://github.com/takwerx/takwerx-market"
    }
   },
   {
@@ -1169,18 +1181,6 @@
     "text": "RemArrow/geronimo-ecoti",
     "title": "RemArrow/geronimo-ecoti",
     "url": "https://github.com/RemArrow/geronimo-ecoti"
-   }
-  },
-  {
-   "key": "ke8tqb/HBC-ATAK-Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-15T00:22:10Z",
-    "description": "Implements HBC protocol for a streamline ATAK plugin",
-    "stars": "11",
-    "text": "ke8tqb/HBC-ATAK-Plugin",
-    "title": "ke8tqb/HBC-ATAK-Plugin",
-    "url": "https://github.com/ke8tqb/HBC-ATAK-Plugin"
    }
   },
   {
