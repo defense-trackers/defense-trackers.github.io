@@ -1,31 +1,19 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-11-03T23:42:20Z",
+ "fetched_at": "2026-11-04T14:41:32Z",
  "schema_version": 1,
  "records": [
   {
    "key": "matteskes/macTAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-03T08:05:57Z",
+    "date": "2026-11-04T07:39:32Z",
     "description": "macTAK - A Team Awareness Kit client for macOS",
     "stars": "3",
     "text": "matteskes/macTAK",
     "title": "matteskes/macTAK",
     "url": "https://github.com/matteskes/macTAK"
-   }
-  },
-  {
-   "key": "rsihare93/team-knowledge-kit",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-11-03T03:56:45Z",
-    "description": "A reusable kit that compiles a team's code, wiki, tickets, documents and transcripts into a reviewed, time-aware knowledge base for AI coding assistants. Design and plan.",
-    "stars": "0",
-    "text": "rsihare93/team-knowledge-kit",
-    "title": "rsihare93/team-knowledge-kit",
-    "url": "https://github.com/rsihare93/team-knowledge-kit"
    }
   },
   {
@@ -56,7 +44,7 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-03T19:09:46Z",
+    "date": "2026-11-04T13:17:59Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "91",
     "text": "takwerx/infra-TAK",
@@ -68,7 +56,7 @@
    "key": "Audrey-cn/universal-agent-embedding-kit",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-02T15:18:17Z",
+    "date": "2026-11-04T10:15:52Z",
     "description": "Model-agnostic, embeddable agent kit — verification, adaptive context, effort routing, cache-aware cost model, cross-platform graded benchmarks. Evidence-first: every metric is red-teamed and tagged on an evidence-strength ladder with honest caveats.",
     "stars": "0",
     "text": "Audrey-cn/universal-agent-embedding-kit",
@@ -82,7 +70,7 @@
    "fields": {
     "date": "2026-11-02T01:56:39Z",
     "description": "Open source tooling and examples for the TAK (Team Awareness Kit) ecosystem, from Cursor on Target basics to working integrations.",
-    "stars": "0",
+    "stars": "1",
     "text": "NorthXLabs/tak-stack",
     "title": "NorthXLabs/tak-stack",
     "url": "https://github.com/NorthXLabs/tak-stack"
@@ -365,6 +353,18 @@
    }
   },
   {
+   "key": "catsmells/LTAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2025-12-13T19:36:30Z",
+    "description": "Linux-based Team Awareness Kit",
+    "stars": "2",
+    "text": "catsmells/LTAK",
+    "title": "catsmells/LTAK",
+    "url": "https://github.com/catsmells/LTAK"
+   }
+  },
+  {
    "key": "FreeTAKTeam/FreeTakServer",
    "source": "tak-freetak",
    "fields": {
@@ -640,9 +640,9 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-03T21:26:25Z",
+    "date": "2026-11-04T08:40:26Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
-    "stars": "109",
+    "stars": "110",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
     "title": "FreeTAKTeam/Reticulum-Community-Hub",
     "url": "https://github.com/FreeTAKTeam/Reticulum-Community-Hub"
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/staged-recipes",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-28T17:39:36Z",
+    "date": "2026-11-03T23:50:59Z",
     "description": "A place to submit conda recipes before they become fully fledged conda-forge feedstocks",
     "stars": "0",
     "text": "FreeTAKTeam/staged-recipes",
@@ -816,7 +816,7 @@
    "key": "FreeTAKTeam/YARA",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-03T14:18:49Z",
+    "date": "2026-11-04T12:47:37Z",
     "description": "Yet Another Reticulum Application (aka MeschChat-RS)",
     "stars": "1",
     "text": "FreeTAKTeam/YARA",
@@ -834,6 +834,42 @@
     "text": "FreeTAKTeam/atn-rangefinder",
     "title": "FreeTAKTeam/atn-rangefinder",
     "url": "https://github.com/FreeTAKTeam/atn-rangefinder"
+   }
+  },
+  {
+   "key": "C4-Raven/c4raven-clear-plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-04T05:50:38Z",
+    "description": "C4 Raven Remote Clear ATAK-CIV plugin: signed remote Clear Content command from the C4 Raven server",
+    "stars": "0",
+    "text": "C4-Raven/c4raven-clear-plugin",
+    "title": "C4-Raven/c4raven-clear-plugin",
+    "url": "https://github.com/C4-Raven/c4raven-clear-plugin"
+   }
+  },
+  {
+   "key": "takwerx/feature-layer",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-04T03:28:02Z",
+    "description": "ATAK Plugin: Feature Layer — live ArcGIS feature layers from NIFC, SARCOP, CA Air Intel and your own org, with NWCG symbology. Downloads, guide and issues here.",
+    "stars": "2",
+    "text": "takwerx/feature-layer",
+    "title": "takwerx/feature-layer",
+    "url": "https://github.com/takwerx/feature-layer"
+   }
+  },
+  {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-04T03:32:17Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "6",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
    }
   },
   {
@@ -857,18 +893,6 @@
     "text": "takwerx/takwerx-market",
     "title": "takwerx/takwerx-market",
     "url": "https://github.com/takwerx/takwerx-market"
-   }
-  },
-  {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-03T06:51:35Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "6",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
    }
   },
   {
@@ -1156,30 +1180,6 @@
     "text": "CopIXus/PlowTAK",
     "title": "CopIXus/PlowTAK",
     "url": "https://github.com/CopIXus/PlowTAK"
-   }
-  },
-  {
-   "key": "shigeki7299/ATAK-Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-19T06:06:30Z",
-    "description": "ATAK plugin portfolio for tactical navigation, compass, PTT, MANET, targeting, and field-support tools. Includes Android development and offline operation experiments.",
-    "stars": "0",
-    "text": "shigeki7299/ATAK-Plugin",
-    "title": "shigeki7299/ATAK-Plugin",
-    "url": "https://github.com/shigeki7299/ATAK-Plugin"
-   }
-  },
-  {
-   "key": "besteffortdev/openfire-SAMessage",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-18T17:17:56Z",
-    "description": "Plugins for Openfire 5.0.5 and up that enable communication between openfire user and atak client over multicast.",
-    "stars": "0",
-    "text": "besteffortdev/openfire-SAMessage",
-    "title": "besteffortdev/openfire-SAMessage",
-    "url": "https://github.com/besteffortdev/openfire-SAMessage"
    }
   },
   {

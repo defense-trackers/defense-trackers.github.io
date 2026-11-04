@@ -1,43 +1,31 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-11-03T23:40:47Z",
+ "fetched_at": "2026-11-04T14:39:59Z",
  "schema_version": 1,
  "records": [
-  {
-   "key": "CONT_AWD_W911QX20C0023_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "1.2049219574e+08",
-    "description": "RESEARCH AND DEVELOPMENT EFFORT TO DESIGN AND DEVELOP PROTOTYPES TO ARTIFICIAL INTELLIGENCE/MACHINE LEARNING ALGORITHMS.",
-    "text": "ECS FEDERAL, LLC",
-    "title": "ECS FEDERAL, LLC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W911QX20C0023_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_W911QX25C0002_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "8.34986952e+07",
-    "description": "CONTRACT TO RESEARCH, DEVELOP, MODIFY, DEPLOY, OPERATE, AND MAINTAIN ARTIFICIAL INTELLIGENCE/MACHINE LEARNING (AI/ML) ALGORITHMS AND MODELS.",
-    "text": "ECS FEDERAL, LLC",
-    "title": "ECS FEDERAL, LLC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W911QX25C0002_9700_-NONE-_-NONE-/"
-   }
-  },
   {
    "key": "CONT_AWD_W909MY26F0009_9700_W909MY26D0002_9700",
    "source": "ai-spending-contracts",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "4.257024044e+07",
+    "amount": "8.514048088e+07",
     "description": "CYBER ANALYTICS AND DETECTION (CAD) OMNIBUS PROCUREMENT FOR MAINTENANCE, DEVELOPMENT, AND ARTIFICIAL INTELLIGENCE/MACHINE LEARNING (AI/ML) INTEGRATION.",
     "text": "ENLIGHTEN, LLC",
     "title": "ENLIGHTEN, LLC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W909MY26F0009_9700_W909MY26D0002_9700/"
+   }
+  },
+  {
+   "key": "CONT_AWD_W56KGU25C0004_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "42225150",
+    "description": "DEVELOPMENT OF ADVANCED DATA-DRIVEN COGNITIVE DECISION AIDS AND THE ASSOCIATED TOOLS/INFRASTRUCTURE TO DEMONSTRATE THESE AIDS. ARTIFICIAL INTELLIGENCE BASED SYSTEM FRAMEWORK AND ENABLING TOOLS TO SUPPORT THE IMPLEMENTATION OF MACHINE LEARNING (ML).",
+    "text": "CAMGIAN CORPORATION",
+    "title": "CAMGIAN CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W56KGU25C0004_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -53,27 +41,15 @@
    }
   },
   {
-   "key": "CONT_AWD_W519TC25F0241_9700_W52P1J22G0174_9700",
+   "key": "CONT_AWD_W15QKN24C0004_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "3.457137528e+07",
-    "description": "12MONTH BASE PERIOD 12MONTH OP. EST ACCELERATING DATA AND ARTIFICIAL INTELLIGENCE(ADA)INCIDENT RESPONSE(IR)TEAMS SUPPORT DATA DRIVEN DECISION MAKING TO SCALE DATA, ANALYTICS, AND AI AT THE CHIEF DIGITAL AND ARTIFICIAL INTELLIGENCE (AI) OFFICE (CDAO)",
-    "text": "BYTECUBED, LLC",
-    "title": "BYTECUBED, LLC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W519TC25F0241_9700_W52P1J22G0174_9700/"
-   }
-  },
-  {
-   "key": "CONT_AWD_W56KGU25C0004_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "21112575",
-    "description": "DEVELOPMENT OF ADVANCED DATA-DRIVEN COGNITIVE DECISION AIDS AND THE ASSOCIATED TOOLS/INFRASTRUCTURE TO DEMONSTRATE THESE AIDS. ARTIFICIAL INTELLIGENCE BASED SYSTEM FRAMEWORK AND ENABLING TOOLS TO SUPPORT THE IMPLEMENTATION OF MACHINE LEARNING (ML).",
-    "text": "CAMGIAN CORPORATION",
-    "title": "CAMGIAN CORPORATION",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W56KGU25C0004_9700_-NONE-_-NONE-/"
+    "amount": "20968992",
+    "description": "QUANTUM \u0026 ARTIFICIAL INTELLIGENCE TECHNOLOGIES FOR NEXT GENERATION ARMAMENT SYSTEMS",
+    "text": "THE TRUSTEES OF THE STEVENS INSTITUTE OF TECHNOLOGY",
+    "title": "THE TRUSTEES OF THE STEVENS INSTITUTE OF TECHNOLOGY",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W15QKN24C0004_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -125,18 +101,6 @@
    }
   },
   {
-   "key": "CONT_AWD_HR001124C0310_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "15915495",
-    "description": "ARTIFICIAL INTELLIGENCE REINFORCEMENTS (AIR)",
-    "text": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-    "title": "NORTHROP GRUMMAN SYSTEMS CORPORATION",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_HR001124C0310_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
    "key": "CONT_AWD_W911QX25F0024_9700_W911QX25D0007_9700",
    "source": "ai-spending-contracts",
    "fields": {
@@ -146,6 +110,18 @@
     "text": "MORSECORP, INC",
     "title": "MORSECORP, INC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W911QX25F0024_9700_W911QX25D0007_9700/"
+   }
+  },
+  {
+   "key": "CONT_AWD_W56KGU24C0026_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1.379528904e+07",
+    "description": "DEVELOPMENT, MATURATION, AND INTEGRATION OF TECHNOLOGY FOR ARTIFICIAL INTELLIGENCE (AI)-ASSISTED TARGETING, RAPID FIRES DECONFLICTION, AND DYNAMIC AIRSPACE MANAGEMENT",
+    "text": "RAYTHEON COMPANY",
+    "title": "RAYTHEON COMPANY",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W56KGU24C0026_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -209,42 +185,6 @@
    }
   },
   {
-   "key": "CONT_AWD_W15QKN24C0004_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "10484496",
-    "description": "QUANTUM \u0026 ARTIFICIAL INTELLIGENCE TECHNOLOGIES FOR NEXT GENERATION ARMAMENT SYSTEMS",
-    "text": "THE TRUSTEES OF THE STEVENS INSTITUTE OF TECHNOLOGY",
-    "title": "THE TRUSTEES OF THE STEVENS INSTITUTE OF TECHNOLOGY",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W15QKN24C0004_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_FA830725CB031_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "10304385",
-    "description": "MIXMODE SBIR PHASE III - ARTIFICIAL INTELLIGENCE FOR NETWORK VISIBILITY AND REAL-TIME THREAT DETECTION FOR PROTECTION OF DATA, NETWORKS, NET-CENTRIC CAPABILITIES, AND OTHER DESIGNATED SYSTEMS RESPONDING TO ATTACKS AGAINST FRIENDLY NETWORKS.",
-    "text": "MIXMODE INC",
-    "title": "MIXMODE INC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_FA830725CB031_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_HQ003424F0362_9700_GS00Q14OADU141_4732",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "1.024590174e+07",
-    "description": "CHIEF DIGITAL AND ARTIFICIAL INTELLIGENCE OFFICE SUPPLY CHAIN RISK EVALUATION ENVIRONMENT PLATFORM DEVELOPMENT SUPPORT.",
-    "text": "LMI CONSULTING, LLC",
-    "title": "LMI CONSULTING, LLC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_HQ003424F0362_9700_GS00Q14OADU141_4732/"
-   }
-  },
-  {
    "key": "CONT_AWD_HR001124C0309_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
@@ -266,30 +206,6 @@
     "text": "INTERNATIONAL BUSINESS MACHINES CORPORATION",
     "title": "INTERNATIONAL BUSINESS MACHINES CORPORATION",
     "url": "https://www.usaspending.gov/award/CONT_AWD_FA875024CB040_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_W911QX26CA003_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "9481000",
-    "description": "BROAD AGENCY ANNOUNCEMENT NAUTILUS ARTIFICIAL INTELLIGENCE RESEARCH AND DEVELOPMENT",
-    "text": "ECS FEDERAL, LLC",
-    "title": "ECS FEDERAL, LLC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W911QX26CA003_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_W912QR26CA010_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "9320800",
-    "description": "DESIGN-BUILD (DB) CONSTRUCTION OF ARTIFICIAL INTELLIGENCE MANUFACTURING RESEARCH CAPABILITY CENTER (AIMR-2C) BUILDING 653 LOCATED AT WPAFB, OHIO.",
-    "text": "BUTT CONSTRUCTION COMPANY, INCORPORATED",
-    "title": "BUTT CONSTRUCTION COMPANY, INCORPORATED",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W912QR26CA010_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -326,42 +242,6 @@
     "text": "LOCKHEED MARTIN CORP",
     "title": "LOCKHEED MARTIN CORP",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W911QX24C0010_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_W56KGU24C0026_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "6.89764452e+06",
-    "description": "DEVELOPMENT, MATURATION, AND INTEGRATION OF TECHNOLOGY FOR ARTIFICIAL INTELLIGENCE (AI)-ASSISTED TARGETING, RAPID FIRES DECONFLICTION, AND DYNAMIC AIRSPACE MANAGEMENT",
-    "text": "RAYTHEON COMPANY",
-    "title": "RAYTHEON COMPANY",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W56KGU24C0026_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_N0002420F8032_9700_N0002413D6400_9700",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "5.94108932e+06",
-    "description": "MAVEN FOLLOW ON AND JOINT ARTIFICIAL INTELLIGENCE CENTER",
-    "text": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC",
-    "title": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_N0002420F8032_9700_N0002413D6400_9700/"
-   }
-  },
-  {
-   "key": "CONT_AWD_FA489026C0006_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "5.72130872e+06",
-    "description": "THIS REQUIREMENT PROVIDES ENTERPRISE-LEVEL SERVICES TO ACCELERATE THE ADOPTION, TRAINING, GOVERNANCE, AND OPERATIONAL INTEGRATION OF ARTIFICIAL INTELLIGENCE (AI) AND ROBOTIC PROCESS AUTOMATION (RPA) CAPABILITIES ACROSS ACC.",
-    "text": "KONIAG IT SYSTEMS, LLC",
-    "title": "KONIAG IT SYSTEMS, LLC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_FA489026C0006_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -413,15 +293,27 @@
    }
   },
   {
-   "key": "CONT_AWD_FA875021C1509_9700_-NONE-_-NONE-",
+   "key": "CONT_AWD_W9128Z25C5002_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "4971495",
-    "description": "ARTIFICIAL INTELLIGENCE/MACHINE LEARNING-ENABLED AUTONOMOUS",
-    "text": "GEORGIA TECH APPLIED RESEARCH CORP",
-    "title": "GEORGIA TECH APPLIED RESEARCH CORP",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_FA875021C1509_9700_-NONE-_-NONE-/"
+    "amount": "4820000",
+    "description": "ARTIFICIAL INTELLIGENCE SMART CONTRACTING INITIATIVE PILOT",
+    "text": "TRENCHANT ANALYTICS LLC",
+    "title": "TRENCHANT ANALYTICS LLC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W9128Z25C5002_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_W56KGU24C0023_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "4782066",
+    "description": "CPFF BAA AWARD FOR COLLABORATIVE ARTIFICIAL INTELLIGENCE TASK EXECUTION ENGINE FOR DISTRIBUTED ELECTRONIC WARFARE (CAITEE-DEW)",
+    "text": "SYSTEMS \u0026 TECHNOLOGY RESEARCH LLC",
+    "title": "SYSTEMS \u0026 TECHNOLOGY RESEARCH LLC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W56KGU24C0023_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -449,18 +341,6 @@
    }
   },
   {
-   "key": "CONT_AWD_W912CG24C0002_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "3.81768207e+06",
-    "description": "ARTIFICIAL INTELLIGENCE FOR MODELING AND SIMULATION",
-    "text": "ACCELINT AI, LLC",
-    "title": "ACCELINT AI, LLC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W912CG24C0002_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
    "key": "CONT_AWD_HQ003425FE453_9700_HQ003424D0003_9700",
    "source": "ai-spending-contracts",
    "fields": {
@@ -482,18 +362,6 @@
     "text": "CACI, INC. - FEDERAL",
     "title": "CACI, INC. - FEDERAL",
     "url": "https://www.usaspending.gov/award/CONT_AWD_FA875024CB037_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_W911QX23C0003_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "3.10805756e+06",
-    "description": "ARTIFICIAL INTELLIGENCE/MACHINE LEARNING - BASE YEAR PLUS THREE (3) OPTION YEARS",
-    "text": "CALNET INC",
-    "title": "CALNET INC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W911QX23C0003_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -581,27 +449,159 @@
    }
   },
   {
-   "key": "CONT_AWD_W9128Z25C5002_9700_-NONE-_-NONE-",
+   "key": "CONT_AWD_HR001126CE029_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "2410000",
-    "description": "ARTIFICIAL INTELLIGENCE SMART CONTRACTING INITIATIVE PILOT",
-    "text": "TRENCHANT ANALYTICS LLC",
-    "title": "TRENCHANT ANALYTICS LLC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W9128Z25C5002_9700_-NONE-_-NONE-/"
+    "amount": "2313263",
+    "description": "SECURING ARTIFICIAL INTELLIGENCE FOR BATTLEFIELD EFFECTIVE ROBUSTNESS (SABER)",
+    "text": "LOCKHEED MARTIN CORPORATION",
+    "title": "LOCKHEED MARTIN CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_HR001126CE029_9700_-NONE-_-NONE-/"
    }
   },
   {
-   "key": "CONT_AWD_W56KGU24C0023_9700_-NONE-_-NONE-",
+   "key": "CONT_AWD_FA857126C0027_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "2391033",
-    "description": "CPFF BAA AWARD FOR COLLABORATIVE ARTIFICIAL INTELLIGENCE TASK EXECUTION ENGINE FOR DISTRIBUTED ELECTRONIC WARFARE (CAITEE-DEW)",
-    "text": "SYSTEMS \u0026 TECHNOLOGY RESEARCH LLC",
-    "title": "SYSTEMS \u0026 TECHNOLOGY RESEARCH LLC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W56KGU24C0023_9700_-NONE-_-NONE-/"
+    "amount": "2095000",
+    "description": "THIS IS SMALL BUSINESS INNOVATIVE RESEARCH (SBIR) PHASE III REQUIREMENT ARISING UNDER SBIR TOPIC AF221-DCSO1, ARTIFICIAL INTELLIGENCE / MACHINE LEARNING-ENABLED DATA FABRIC (COMPANY SHIPCOM FEDERAL SOLUTIONS DBA SHIPCOM AI).",
+    "text": "SHIPCOM FEDERAL SOLUTIONS LLC",
+    "title": "SHIPCOM FEDERAL SOLUTIONS LLC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA857126C0027_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_W911SR25C0004_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "2.09149004e+06",
+    "description": "WILL ENGAGE EXPERT OPTICAL, ELECTRICAL, AND SIGNAL PROCESSING ENGINEERS TO DEVELOP AN ARTIFICIAL INTELLIGENCE (AI) ANALYSIS ENGINE THAT PROCESSES LIGHT DETECTION",
+    "text": "SPECTRAL SENSOR SOLUTIONS, LLC",
+    "title": "SPECTRAL SENSOR SOLUTIONS, LLC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W911SR25C0004_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_FA865825CB001_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "2.08054625e+06",
+    "description": "CONTRACT ESTABLISHING SUPPORT FROM THE UNIVERSITY OF FLORIDA (UF) TO ASSESS WEAPON EFFICACY TO EXPAND CAPABILITIES OF MACHINE LEARNING (ML) TECHNOLOGIES ON CURRENT OPERATIONS TO RUN EXPERIMENTS AND TEST ON ARTIFICIAL INTELLIGENCE (AI) SYSTEMS.",
+    "text": "UNIVERSITY OF FLORIDA",
+    "title": "UNIVERSITY OF FLORIDA",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA865825CB001_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_W5170125CA290_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1.99997164e+06",
+    "description": "TOPIC A224-016 - ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING (AI/ML) POWERED PLATFORM FOR ARMY ASSET TRACEABILITY, PREDICTIVE MAINTENANCE, AND QUALITY TRACKING",
+    "text": "R-DEX SYSTEMS, INC.",
+    "title": "R-DEX SYSTEMS, INC.",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W5170125CA290_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_HQ086026CE012_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1958007",
+    "description": "ACTIVE PHYSICS-INFORMED GENERATIVE ARTIFICIAL INTELLIGENCE HYPERSONIC",
+    "text": "CORNERSTONE RESEARCH GROUP INC",
+    "title": "CORNERSTONE RESEARCH GROUP INC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_HQ086026CE012_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_FA865124FB014_9700_FA865121D0062_9700",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1932900",
+    "description": "ARTIFICIAL INTELLIGENCE, DEEP LEARNING, AND MACHINE LEARNING FOR MUNITIONS AUTONOMOUS TARGET ACQUISITION",
+    "text": "DYNETICS, INC.",
+    "title": "DYNETICS, INC.",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA865124FB014_9700_FA865121D0062_9700/"
+   }
+  },
+  {
+   "key": "CONT_AWD_HQ003425FE152_9700_HQ003424D0023_9700",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1.85978677e+06",
+    "description": "PROVIDE OUTCOMES AND FINDINGS THAT INFORM THE DEPARTMENT ABOUT THE FEASIBILITY, PERFORMANCE, RISKS, AND ATTENDANT INVESTMENT STRATEGIES ASSOCIATED WITH FRONTIER ARTIFICIAL INTELLIGENCE CAPABILITIES.",
+    "text": "THE TRUSTEES OF THE STEVENS INSTITUTE OF TECHNOLOGY",
+    "title": "THE TRUSTEES OF THE STEVENS INSTITUTE OF TECHNOLOGY",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_HQ003425FE152_9700_HQ003424D0023_9700/"
+   }
+  },
+  {
+   "key": "CONT_AWD_FA875026CB005_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1799804",
+    "description": "EVALUATING DATA STRATEGIES IN TRAINING ARTIFICIAL INTELLIGENCE (AI) SOLUTIONS FOR SPACE COMMAND AND CONTROL (C2)",
+    "text": "COHERE SOLUTIONS LLC",
+    "title": "COHERE SOLUTIONS LLC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA875026CB005_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_FA864924P1099_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1799694",
+    "description": "EPAS - EVERY PLATFORM AN ARTIFICIAL INTELLIGENCE SENTINELCC",
+    "text": "ADVANCED SIMULATION RESEARCH INC",
+    "title": "ADVANCED SIMULATION RESEARCH INC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA864924P1099_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_FA864925P0493_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1788872",
+    "description": "DEDICATED COUNTER UNMANNED AERIAL SYSTEMS OPPOSING FORCES UTILIZING ARTIFICIAL INTELLIGENCE/MACHINE LEARNING: CORTEX",
+    "text": "GAMBIT DEFENSE, INC.",
+    "title": "GAMBIT DEFENSE, INC.",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA864925P0493_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_FA875024CB117_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1764695",
+    "description": "ARTIFICIAL INTELLIGENCE COMMAND AND CONTROL (AIC2)",
+    "text": "BAE SYSTEMS INFORMATION AND ELECTRONIC SYSTEMS INTEGRATION INC.",
+    "title": "BAE SYSTEMS INFORMATION AND ELECTRONIC SYSTEMS INTEGRATION INC.",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_FA875024CB117_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_W5170126CA114_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1.76368714e+06",
+    "description": "HAWKEYE DQ, WHICH IS AN ARTIFICIAL INTELLIGENCE, IMPACT LEVEL 5 DATA QUALITY PLATFORM THAT WILL IMPROVE ACCURACY, COMPLETENESS, AND AUDITABILITY OF ARMY HUMAN RESOURCES AND PAYROLL DATA IN THE ARMY INTEGRATED PERSONNEL AND PAY SYSTEM.",
+    "text": "ARCH SYSTEMS LLC",
+    "title": "ARCH SYSTEMS LLC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W5170126CA114_9700_-NONE-_-NONE-/"
    }
   },
   {
