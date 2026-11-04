@@ -1,7 +1,7 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-11-04T14:41:03Z",
+ "fetched_at": "2026-11-04T23:56:27Z",
  "schema_version": 1,
  "records": [
   {
@@ -65,10 +65,22 @@
    }
   },
   {
+   "key": "cisagov/lambda_functions",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-11-04T19:16:19Z",
+    "description": "Generate AWS Lambda environment zip files for use by cisagov/domain-scan",
+    "stars": "12",
+    "text": "cisagov/lambda_functions",
+    "title": "cisagov/lambda_functions",
+    "url": "https://github.com/cisagov/lambda_functions"
+   }
+  },
+  {
    "key": "cisagov/orchestrator",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-11-04T05:23:14Z",
+    "date": "2026-11-04T14:56:54Z",
     "description": "Orchestrate gatherer, scanner, saver, and trustymail_reporter",
     "stars": "21",
     "text": "cisagov/orchestrator",
@@ -250,7 +262,7 @@
    "fields": {
     "date": "2026-11-03T17:55:55Z",
     "description": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.",
-    "stars": "2583",
+    "stars": "2584",
     "text": "cisagov/Malcolm",
     "title": "cisagov/Malcolm",
     "url": "https://github.com/cisagov/Malcolm"
@@ -572,7 +584,7 @@
    "key": "idaholab/moose",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-11-04T04:06:26Z",
+    "date": "2026-11-04T18:51:26Z",
     "description": "Multiphysics Object Oriented Simulation Environment: A robust, modern, extendable, finite element/finite volume framework that excels at creating complex multiphysics simulations.",
     "stars": "2400",
     "text": "idaholab/moose",
@@ -610,7 +622,7 @@
    "fields": {
     "date": "2026-11-03T17:55:37Z",
     "description": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.",
-    "stars": "496",
+    "stars": "497",
     "text": "idaholab/Malcolm",
     "title": "idaholab/Malcolm",
     "url": "https://github.com/idaholab/Malcolm"
@@ -668,7 +680,7 @@
    "key": "idaholab/malamute",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-11-03T00:10:27Z",
+    "date": "2026-11-04T21:09:11Z",
     "description": "Advanced manufacturing modeling and simulation",
     "stars": "23",
     "text": "idaholab/malamute",
@@ -716,7 +728,7 @@
    "key": "lanl/LaGriT",
    "source": "oss-lanl",
    "fields": {
-    "date": "2026-11-04T14:17:31Z",
+    "date": "2026-11-04T22:13:43Z",
     "description": "Los Alamos Grid Toolbox (LaGriT) is a library of user callable tools that provide mesh generation, mesh optimization and dynamic mesh maintenance in two and three dimensions.",
     "stars": "138",
     "text": "lanl/LaGriT",
@@ -752,7 +764,7 @@
    "key": "llnl/STAT",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-11-04T13:42:48Z",
+    "date": "2026-11-04T17:18:38Z",
     "description": "STAT - the Stack Trace Analysis Tool",
     "stars": "71",
     "text": "llnl/STAT",
@@ -788,7 +800,7 @@
    "key": "llnl/conduit",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-11-02T23:21:42Z",
+    "date": "2026-11-04T21:09:49Z",
     "description": "Simplified Data Exchange for HPC Simulations",
     "stars": "250",
     "text": "llnl/conduit",
@@ -859,7 +871,7 @@
    "key": "llnl/GridDyn",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-11-04T14:27:58Z",
+    "date": "2026-11-04T16:53:17Z",
     "description": "GridDyn is an open-source power transmission simulation software package",
     "stars": "63",
     "text": "llnl/GridDyn",
@@ -979,7 +991,7 @@
    "key": "nasa/trick",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-11-04T14:32:29Z",
+    "date": "2026-11-04T21:18:00Z",
     "description": "Trick Simulation Environment.  Trick provides a common set of simulation capabilities and utilities to build simulations automatically.",
     "stars": "180",
     "text": "nasa/trick",
@@ -1003,9 +1015,9 @@
    "key": "nasa/earthdata-search",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-11-03T23:30:03Z",
+    "date": "2026-11-04T17:49:12Z",
     "description": "Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.",
-    "stars": "828",
+    "stars": "829",
     "text": "nasa/earthdata-search",
     "title": "nasa/earthdata-search",
     "url": "https://github.com/nasa/earthdata-search"
@@ -1063,7 +1075,7 @@
    "key": "nasa/Common-Metadata-Repository",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-11-04T10:40:00Z",
+    "date": "2026-11-04T16:52:47Z",
     "description": "The Common Metadata Repository (CMR) is a high-performance, high-quality, continuously evolving metadata system that catalogs Earth Science data and associated service metadata records. These metadata records are registered, modified, discovered, and accessed through programmatic interfaces leveraging standard protocols and APIs.",
     "stars": "399",
     "text": "nasa/Common-Metadata-Repository",
@@ -1183,7 +1195,7 @@
    "key": "nsacyber/HIRS",
    "source": "oss-nsacyber",
    "fields": {
-    "date": "2026-11-04T14:23:12Z",
+    "date": "2026-11-04T18:25:27Z",
     "description": "Trusted Computing based services supporting TPM provisioning and supply chain validation concepts. #nsacyber",
     "stars": "216",
     "text": "nsacyber/HIRS",
@@ -1219,7 +1231,7 @@
    "key": "ORNL/TASMANIAN",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-11-03T16:25:28Z",
+    "date": "2026-11-04T18:40:21Z",
     "description": "The Toolkit for Adaptive Stochastic Modeling and Non-Intrusive ApproximatioN",
     "stars": "78",
     "text": "ORNL/TASMANIAN",
@@ -1243,7 +1255,7 @@
    "key": "ORNL/HeCBench",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-11-04T14:16:17Z",
+    "date": "2026-11-04T14:41:49Z",
     "stars": "310",
     "text": "ORNL/HeCBench",
     "title": "ORNL/HeCBench",
@@ -1254,7 +1266,7 @@
    "key": "ORNL/HydraGNN",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-11-03T19:16:29Z",
+    "date": "2026-11-04T17:24:54Z",
     "description": "Distributed PyTorch implementation of multi-headed graph convolutional neural networks",
     "stars": "128",
     "text": "ORNL/HydraGNN",
@@ -1278,7 +1290,7 @@
    "key": "ORNL/CabanaPD",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-10-26T14:34:08Z",
+    "date": "2026-11-04T18:49:09Z",
     "description": "Peridynamics with the Cabana library",
     "stars": "39",
     "text": "ORNL/CabanaPD",
@@ -1304,7 +1316,7 @@
    "fields": {
     "date": "2026-08-12T19:18:36Z",
     "description": "Runtime provenance for AI and scientific workflows—capture, enrich, and query workflow data via observability adapters and code annotation across edge, cloud, and HPC.",
-    "stars": "42",
+    "stars": "43",
     "text": "ORNL/flowcept",
     "title": "ORNL/flowcept",
     "url": "https://github.com/ORNL/flowcept"
@@ -1314,7 +1326,7 @@
    "key": "ORNL/superneuroabm",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-11-02T22:45:53Z",
+    "date": "2026-11-04T23:10:01Z",
     "description": "A GPU-based multi-agent simulation framework for neuromorphic computing",
     "stars": "8",
     "text": "ORNL/superneuroabm",
@@ -1338,7 +1350,7 @@
    "key": "ORNL/GridKit",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-11-03T22:50:54Z",
+    "date": "2026-11-04T22:18:52Z",
     "description": "Modeling framework for power systems simulations and analysis.",
     "stars": "27",
     "text": "ORNL/GridKit",

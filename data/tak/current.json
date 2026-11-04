@@ -1,19 +1,43 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-11-04T14:41:32Z",
+ "fetched_at": "2026-11-04T23:56:56Z",
  "schema_version": 1,
  "records": [
   {
    "key": "matteskes/macTAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-04T07:39:32Z",
+    "date": "2026-11-04T22:56:06Z",
     "description": "macTAK - A Team Awareness Kit client for macOS",
     "stars": "3",
     "text": "matteskes/macTAK",
     "title": "matteskes/macTAK",
     "url": "https://github.com/matteskes/macTAK"
+   }
+  },
+  {
+   "key": "NorthXLabs/tak-stack",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-11-04T21:54:55Z",
+    "description": "Open source tooling and examples for the TAK (Team Awareness Kit) ecosystem, from Cursor on Target basics to a working TAK Server. Companion code for the NorthX Labs TAK article series: https://northxlabs.com/articles/tak/",
+    "stars": "1",
+    "text": "NorthXLabs/tak-stack",
+    "title": "NorthXLabs/tak-stack",
+    "url": "https://github.com/NorthXLabs/tak-stack"
+   }
+  },
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-11-04T21:04:30Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "91",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -41,18 +65,6 @@
    }
   },
   {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-11-04T13:17:59Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "91",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
-   }
-  },
-  {
    "key": "Audrey-cn/universal-agent-embedding-kit",
    "source": "tak-cot",
    "fields": {
@@ -62,18 +74,6 @@
     "text": "Audrey-cn/universal-agent-embedding-kit",
     "title": "Audrey-cn/universal-agent-embedding-kit",
     "url": "https://github.com/Audrey-cn/universal-agent-embedding-kit"
-   }
-  },
-  {
-   "key": "NorthXLabs/tak-stack",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-11-02T01:56:39Z",
-    "description": "Open source tooling and examples for the TAK (Team Awareness Kit) ecosystem, from Cursor on Target basics to working integrations.",
-    "stars": "1",
-    "text": "NorthXLabs/tak-stack",
-    "title": "NorthXLabs/tak-stack",
-    "url": "https://github.com/NorthXLabs/tak-stack"
    }
   },
   {
@@ -699,7 +699,7 @@
    "key": "FreeTAKTeam/staged-recipes",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-03T23:50:59Z",
+    "date": "2026-11-04T15:42:16Z",
     "description": "A place to submit conda recipes before they become fully fledged conda-forge feedstocks",
     "stars": "0",
     "text": "FreeTAKTeam/staged-recipes",
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-03T15:22:50Z",
+    "date": "2026-11-04T22:56:43Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "41",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -758,7 +758,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-31T15:20:54Z",
+    "date": "2026-11-04T23:45:51Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "36",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -816,7 +816,7 @@
    "key": "FreeTAKTeam/YARA",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-04T12:47:37Z",
+    "date": "2026-11-04T15:10:34Z",
     "description": "Yet Another Reticulum Application (aka MeschChat-RS)",
     "stars": "1",
     "text": "FreeTAKTeam/YARA",
@@ -834,6 +834,30 @@
     "text": "FreeTAKTeam/atn-rangefinder",
     "title": "FreeTAKTeam/atn-rangefinder",
     "url": "https://github.com/FreeTAKTeam/atn-rangefinder"
+   }
+  },
+  {
+   "key": "gustavtraff/tmm-sensor-planner",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-04T23:56:39Z",
+    "description": "ATAK Plugin",
+    "stars": "0",
+    "text": "gustavtraff/tmm-sensor-planner",
+    "title": "gustavtraff/tmm-sensor-planner",
+    "url": "https://github.com/gustavtraff/tmm-sensor-planner"
+   }
+  },
+  {
+   "key": "s2underground/HAZ-TAK",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-04T15:01:39Z",
+    "description": "HAZMAT Response ATAK Plugin",
+    "stars": "2",
+    "text": "s2underground/HAZ-TAK",
+    "title": "s2underground/HAZ-TAK",
+    "url": "https://github.com/s2underground/HAZ-TAK"
    }
   },
   {
@@ -925,7 +949,7 @@
    "fields": {
     "date": "2026-11-02T13:35:45Z",
     "description": "Public mirror of TAK.gov atak-plugin-physiology dashboard",
-    "stars": "2",
+    "stars": "3",
     "text": "aegorsuch/atak-plugin-physiology-dashboard",
     "title": "aegorsuch/atak-plugin-physiology-dashboard",
     "url": "https://github.com/aegorsuch/atak-plugin-physiology-dashboard"
@@ -1013,18 +1037,6 @@
     "text": "takwerx/map-depot",
     "title": "takwerx/map-depot",
     "url": "https://github.com/takwerx/map-depot"
-   }
-  },
-  {
-   "key": "gustavtraff/tmm-sensor-planner",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-30T23:05:59Z",
-    "description": "ATAK Plugin",
-    "stars": "0",
-    "text": "gustavtraff/tmm-sensor-planner",
-    "title": "gustavtraff/tmm-sensor-planner",
-    "url": "https://github.com/gustavtraff/tmm-sensor-planner"
    }
   },
   {
@@ -1168,18 +1180,6 @@
     "text": "takwerx/comms",
     "title": "takwerx/comms",
     "url": "https://github.com/takwerx/comms"
-   }
-  },
-  {
-   "key": "CopIXus/PlowTAK",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-19T19:09:46Z",
-    "description": "PlowTAK — ATAK plugin for snow plow fleet coverage tracking during winter storms (CopIX)",
-    "stars": "3",
-    "text": "CopIXus/PlowTAK",
-    "title": "CopIXus/PlowTAK",
-    "url": "https://github.com/CopIXus/PlowTAK"
    }
   },
   {
