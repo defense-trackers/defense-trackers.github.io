@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-11-04T23:56:56Z",
+ "fetched_at": "2026-11-05T14:45:29Z",
  "schema_version": 1,
  "records": [
   {
    "key": "matteskes/macTAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-04T22:56:06Z",
+    "date": "2026-11-05T14:42:35Z",
     "description": "macTAK - A Team Awareness Kit client for macOS",
     "stars": "3",
     "text": "matteskes/macTAK",
@@ -32,7 +32,7 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-04T21:04:30Z",
+    "date": "2026-11-05T14:14:22Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "91",
     "text": "takwerx/infra-TAK",
@@ -725,7 +725,7 @@
    "fields": {
     "date": "2026-11-04T22:56:43Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
-    "stars": "41",
+    "stars": "42",
     "text": "FreeTAKTeam/LXMF-rs",
     "title": "FreeTAKTeam/LXMF-rs",
     "url": "https://github.com/FreeTAKTeam/LXMF-rs"
@@ -758,7 +758,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-04T23:45:51Z",
+    "date": "2026-11-05T14:17:15Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "36",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -840,7 +840,7 @@
    "key": "gustavtraff/tmm-sensor-planner",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-04T23:56:39Z",
+    "date": "2026-11-05T13:51:09Z",
     "description": "ATAK Plugin",
     "stars": "0",
     "text": "gustavtraff/tmm-sensor-planner",
@@ -849,12 +849,48 @@
    }
   },
   {
+   "key": "GPTmadeit/convoy",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-05T08:23:25Z",
+    "description": "ATAK's own map on your Android Auto screen: a plugin inside ATAK plus a small car app",
+    "stars": "1",
+    "text": "GPTmadeit/convoy",
+    "title": "GPTmadeit/convoy",
+    "url": "https://github.com/GPTmadeit/convoy"
+   }
+  },
+  {
+   "key": "takwerx/firecast",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-05T02:41:14Z",
+    "description": "ATAK Plugin: FireCast — satellite heat detections and a fire spread model that runs on the device, with buildings and people reached. Downloads, guide and issues here.",
+    "stars": "0",
+    "text": "takwerx/firecast",
+    "title": "takwerx/firecast",
+    "url": "https://github.com/takwerx/firecast"
+   }
+  },
+  {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-05T02:47:15Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "6",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
    "key": "s2underground/HAZ-TAK",
    "source": "tak-github",
    "fields": {
     "date": "2026-11-04T15:01:39Z",
     "description": "HAZMAT Response ATAK Plugin",
-    "stars": "2",
+    "stars": "3",
     "text": "s2underground/HAZ-TAK",
     "title": "s2underground/HAZ-TAK",
     "url": "https://github.com/s2underground/HAZ-TAK"
@@ -885,18 +921,6 @@
    }
   },
   {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-04T03:32:17Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "6",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
-   }
-  },
-  {
    "key": "Ben-Holman12/ATAK-EW-Communications-Plugin",
    "source": "tak-github",
    "fields": {
@@ -913,7 +937,7 @@
    "fields": {
     "date": "2026-11-03T06:49:50Z",
     "description": "ATAK Plugin: TAKwerx Market — install and update takwerx plugins from inside ATAK. Downloads, guide and issues here.",
-    "stars": "15",
+    "stars": "16",
     "text": "takwerx/takwerx-market",
     "title": "takwerx/takwerx-market",
     "url": "https://github.com/takwerx/takwerx-market"
@@ -1156,30 +1180,6 @@
     "text": "lcoriolan/PICKETCUAS-SNOOPY",
     "title": "lcoriolan/PICKETCUAS-SNOOPY",
     "url": "https://github.com/lcoriolan/PICKETCUAS-SNOOPY"
-   }
-  },
-  {
-   "key": "takwerx/cursorwerx",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-19T20:08:21Z",
-    "description": "ATAK Plugin: Cursorwerx — makes ATAK work with a mouse or trackpad: wheel zoom at the cursor, wheel scrolling in panes, click-drag panning, a Back button. Downloads, guide and issues here.",
-    "stars": "3",
-    "text": "takwerx/cursorwerx",
-    "title": "takwerx/cursorwerx",
-    "url": "https://github.com/takwerx/cursorwerx"
-   }
-  },
-  {
-   "key": "takwerx/comms",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-19T19:37:11Z",
-    "description": "ATAK Plugin: Comms — mountaintop radio sites, the nets on each and the tone that opens them. Downloads, guide and issues here.",
-    "stars": "4",
-    "text": "takwerx/comms",
-    "title": "takwerx/comms",
-    "url": "https://github.com/takwerx/comms"
    }
   },
   {
