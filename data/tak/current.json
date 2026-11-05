@@ -1,19 +1,31 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-11-05T14:45:29Z",
+ "fetched_at": "2026-11-05T23:52:09Z",
  "schema_version": 1,
  "records": [
   {
    "key": "matteskes/macTAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-05T14:42:35Z",
+    "date": "2026-11-05T23:39:13Z",
     "description": "macTAK - A Team Awareness Kit client for macOS",
     "stars": "3",
     "text": "matteskes/macTAK",
     "title": "matteskes/macTAK",
     "url": "https://github.com/matteskes/macTAK"
+   }
+  },
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-11-05T23:08:41Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "92",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -26,18 +38,6 @@
     "text": "NorthXLabs/tak-stack",
     "title": "NorthXLabs/tak-stack",
     "url": "https://github.com/NorthXLabs/tak-stack"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-11-05T14:14:22Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "91",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-04T22:56:43Z",
+    "date": "2026-11-05T17:58:48Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "42",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -758,7 +758,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-05T14:17:15Z",
+    "date": "2026-11-05T15:31:45Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "36",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -840,7 +840,7 @@
    "key": "gustavtraff/tmm-sensor-planner",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-05T13:51:09Z",
+    "date": "2026-11-05T23:48:52Z",
     "description": "ATAK Plugin",
     "stars": "0",
     "text": "gustavtraff/tmm-sensor-planner",
@@ -937,7 +937,7 @@
    "fields": {
     "date": "2026-11-03T06:49:50Z",
     "description": "ATAK Plugin: TAKwerx Market — install and update takwerx plugins from inside ATAK. Downloads, guide and issues here.",
-    "stars": "16",
+    "stars": "17",
     "text": "takwerx/takwerx-market",
     "title": "takwerx/takwerx-market",
     "url": "https://github.com/takwerx/takwerx-market"
@@ -956,12 +956,24 @@
    }
   },
   {
+   "key": "aegorsuch/atak-plugin-firecone",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-02T13:42:43Z",
+    "description": "Firecone ATAK plugin (secondary GitHub repository; TAK Forge is canonical)",
+    "stars": "3",
+    "text": "aegorsuch/atak-plugin-firecone",
+    "title": "aegorsuch/atak-plugin-firecone",
+    "url": "https://github.com/aegorsuch/atak-plugin-firecone"
+   }
+  },
+  {
    "key": "aegorsuch/atak-plugin-weartak-companion",
    "source": "tak-github",
    "fields": {
     "date": "2026-11-02T13:35:59Z",
     "description": "Public mirror of TAK.gov atak-plugin-weartak-companion",
-    "stars": "2",
+    "stars": "3",
     "text": "aegorsuch/atak-plugin-weartak-companion",
     "title": "aegorsuch/atak-plugin-weartak-companion",
     "url": "https://github.com/aegorsuch/atak-plugin-weartak-companion"
@@ -973,22 +985,10 @@
    "fields": {
     "date": "2026-11-02T13:35:45Z",
     "description": "Public mirror of TAK.gov atak-plugin-physiology dashboard",
-    "stars": "3",
+    "stars": "4",
     "text": "aegorsuch/atak-plugin-physiology-dashboard",
     "title": "aegorsuch/atak-plugin-physiology-dashboard",
     "url": "https://github.com/aegorsuch/atak-plugin-physiology-dashboard"
-   }
-  },
-  {
-   "key": "aegorsuch/atak-plugin-firecone",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-02T13:42:43Z",
-    "description": "Firecone ATAK plugin (secondary GitHub repository; TAK Forge is canonical)",
-    "stars": "2",
-    "text": "aegorsuch/atak-plugin-firecone",
-    "title": "aegorsuch/atak-plugin-firecone",
-    "url": "https://github.com/aegorsuch/atak-plugin-firecone"
    }
   },
   {
@@ -1064,6 +1064,18 @@
    }
   },
   {
+   "key": "takwerx/atak-plugin-pipeline",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-30T23:07:06Z",
+    "description": "How takwerx builds ATAK plugins and gets them through TAK's third-party signing pipeline, as a Claude Code skill. No SDK included.",
+    "stars": "9",
+    "text": "takwerx/atak-plugin-pipeline",
+    "title": "takwerx/atak-plugin-pipeline",
+    "url": "https://github.com/takwerx/atak-plugin-pipeline"
+   }
+  },
+  {
    "key": "niccellular/gadget",
    "source": "tak-github",
    "fields": {
@@ -1093,7 +1105,7 @@
    "fields": {
     "date": "2026-10-28T23:35:38Z",
     "description": "ATAK Plugin: Cam Depot — public traffic and wildfire cameras on the ATAK map, with live video where the agency streams. Downloads, guide and issues here.",
-    "stars": "9",
+    "stars": "10",
     "text": "takwerx/cam-depot",
     "title": "takwerx/cam-depot",
     "url": "https://github.com/takwerx/cam-depot"
@@ -1105,7 +1117,7 @@
    "fields": {
     "date": "2026-10-28T23:10:24Z",
     "description": "ATAK plugin: send markers, data packages and files straight to nearby ATAK phones over Bluetooth / Wi-Fi — no server, no mesh",
-    "stars": "5",
+    "stars": "6",
     "text": "RyanR3/TakNearbyDrop",
     "title": "RyanR3/TakNearbyDrop",
     "url": "https://github.com/RyanR3/TakNearbyDrop"
@@ -1116,7 +1128,7 @@
    "source": "tak-github",
    "fields": {
     "date": "2026-10-27T04:12:31Z",
-    "stars": "3",
+    "stars": "4",
     "text": "Ascent-Integrated-Tech/atak-plugin-weartak-companion",
     "title": "Ascent-Integrated-Tech/atak-plugin-weartak-companion",
     "url": "https://github.com/Ascent-Integrated-Tech/atak-plugin-weartak-companion"
@@ -1156,18 +1168,6 @@
     "text": "takwerx/atmosphere",
     "title": "takwerx/atmosphere",
     "url": "https://github.com/takwerx/atmosphere"
-   }
-  },
-  {
-   "key": "takwerx/atak-plugin-pipeline",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-30T23:07:06Z",
-    "description": "How takwerx builds ATAK plugins and gets them through TAK's third-party signing pipeline, as a Claude Code skill. No SDK included.",
-    "stars": "8",
-    "text": "takwerx/atak-plugin-pipeline",
-    "title": "takwerx/atak-plugin-pipeline",
-    "url": "https://github.com/takwerx/atak-plugin-pipeline"
    }
   },
   {
