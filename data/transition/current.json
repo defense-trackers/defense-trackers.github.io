@@ -1,7 +1,7 @@
 {
  "source": "transition",
  "tracker": "transition",
- "fetched_at": "2026-11-05T23:52:11Z",
+ "fetched_at": "2026-11-06T14:22:40Z",
  "schema_version": 1,
  "records": [
   {
@@ -26,6 +26,18 @@
     "text": "GENERAL DYNAMICS LAND SYSTEMS INC.",
     "title": "GENERAL DYNAMICS LAND SYSTEMS INC.",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W56HZV23C0025_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_W31P4Q21FB004_9700_GS00F008DA_4732",
+   "source": "transition-prototype",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "4.2902017733e+08",
+    "description": "TECHNICAL SUPPORT FOR PROTOTYPE INTEGRATION FACILITY (PIF)",
+    "text": "BOOZ ALLEN HAMILTON INC",
+    "title": "BOOZ ALLEN HAMILTON INC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W31P4Q21FB004_9700_GS00F008DA_4732/"
    }
   },
   {
@@ -62,18 +74,6 @@
     "text": "GENERAL DYNAMICS MISSION SYSTEMS, INC.",
     "title": "GENERAL DYNAMICS MISSION SYSTEMS, INC.",
     "url": "https://www.usaspending.gov/award/CONT_AWD_N0002421C6425_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_W31P4Q21FB004_9700_GS00F008DA_4732",
-   "source": "transition-prototype",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "2.1254522803e+08",
-    "description": "TECHNICAL SUPPORT FOR PROTOTYPE INTEGRATION FACILITY (PIF)",
-    "text": "BOOZ ALLEN HAMILTON INC",
-    "title": "BOOZ ALLEN HAMILTON INC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W31P4Q21FB004_9700_GS00F008DA_4732/"
    }
   },
   {
@@ -709,6 +709,45 @@
    }
   },
   {
+   "key": "CONT_AWD_W58RGZ12C0008_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "2.320496027042e+10",
+    "award_id": "W58RGZ12C0008",
+    "description": "MULTI SERVICE, 5 YR, MULTI-YR CONTRACT FOR H-60 HELICOPTERS. FY2012 FY2016 PRODUCTION CONTRACT FOR ARMY/NAVY/FMS UH/HH/MH-60 HELICOPTERS TO INCLUDE PROCUREMENT OF UP TO 916 EACH AIRCRAFT AND RELATED SUPPORT, SERVICES, SYSTEMS/PROJECT MANAGEMENT, PUBLICATIONS, AND TECHNICAL DATA. FMS COUNTRIES INCLUDE SAUDI ARABIAN NATIONAL GUARD (SANG), TAIWAN, THAILAND AND ROYAL AUSTRALIAN NAVY (RAN).",
+    "text": "SIKORSKY AIRCRAFT CORPORATION",
+    "title": "SIKORSKY AIRCRAFT CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ12C0008_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_W31P4Q20C0023_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "2.095053070834e+10",
+    "award_id": "W31P4Q20C0023",
+    "description": "THE CONTRACT AWARD IS FOR THE FY21/FY22/FY23 BASE AND OPTION PRICING FOR PHASE ARRAY TRACKING RADAR TO INTERCEPT ON TARGET (PATRIOT) ADVANCED CAPABILITY-3 (PAC-3) PRODUCTION REQUIREMENTS FOR THE UNITED STATES (US) AND FOREIGN MILITARY SALES (FMS)",
+    "text": "LOCKHEED MARTIN CORPORATION",
+    "title": "LOCKHEED MARTIN CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W31P4Q20C0023_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_W31P4Q24C0022_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "2.06215234299e+10",
+    "award_id": "W31P4Q24C0022",
+    "description": "EXECUTE PHASED ARRAY TRACKING RADAR TO INTERCEPT ON TARGET (PATRIOT) ADVANCED CAPABILITY-3 (PAC-3) MISSILE PRODUCTION BY PROVIDING INCIDENTAL SERVICES, HARDWARE, FACILITIES, EQUIPMENT, AND TECHNICAL, PLANNING, MANAGEMENT, AND MANUFACTURING EFFORTS.",
+    "text": "LOCKHEED MARTIN CORPORATION",
+    "title": "LOCKHEED MARTIN CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W31P4Q24C0022_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_N0002412C2115_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -758,6 +797,19 @@
     "text": "FLUOR MARINE PROPULSION, LLC",
     "title": "FLUOR MARINE PROPULSION, LLC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_N0002418C2130_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_W58RGZ16C0023_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1.494656098546e+10",
+    "award_id": "W58RGZ16C0023",
+    "description": "W58RGZ-16-C-0023 IS FOR THE AWARD OF ADVANCE PROCUREMENT IN THE AMOUNT OF $184,930,000.00 TO SUPPORT LOT 7 FULL RATE PRODUCTION LONG LEAD ITEMS.",
+    "text": "THE BOEING COMPANY",
+    "title": "THE BOEING COMPANY",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ16C0023_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -813,6 +865,32 @@
    }
   },
   {
+   "key": "CONT_AWD_W56HZV15C0095_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1.220844198204e+10",
+    "award_id": "W56HZV15C0095",
+    "description": "THE CONTRACT INCLUDES FIRM FIXED PRICE (FFP) CONTACT LINE ITEM NUMBERS (CLIN) FOR VEHICLES, TRAILERS, KITS (PACKAGED AND INSTALLED), TEST HARDWARE AND SUPPORT, VEHICLE REFURBISHMENT, SYSTEMS ENGINEERING/ PROGRAM MANAGEMENT (SEPM), STORAGE AND MAINTENANCE OF VEHICLES, VEHICLE REFURBISHMENT, INTEGRATED PRODUCT SUPPORT (IPS), AND A TECHNICAL DATA PACKAGE (TDP).  THE CONTRACT ALSO INCLUDES COST PLUS FIXED FEE (CPFF) CLINS FOR SYSTEM TECHNICAL SUPPORT (STS), TOTAL PACKAGE FIELDING (TPF), AND INTERIM CONTRACTOR SUPPORT (ICS).  THE CONTRACT CONTAINS PROVISIONS FOR AN ECONOMIC PRICE ADJUSTMENT (EPA) FOR MATERIAL FLUCTUATIONS FOR THE VEHICLES PROCURED IN OPTION PERIODS SIX, SEVEN, AND EIGHT.",
+    "text": "OSHKOSH DEFENSE LLC",
+    "title": "OSHKOSH DEFENSE LLC",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W56HZV15C0095_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_W31P4Q15C0022_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1.120609887911e+10",
+    "award_id": "W31P4Q15C0022",
+    "description": "TEN FIRE UNITS FOR QATAR",
+    "text": "RAYTHEON COMPANY",
+    "title": "RAYTHEON COMPANY",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W31P4Q15C0022_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_FA863412C2651_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -823,6 +901,19 @@
     "text": "THE BOEING COMPANY",
     "title": "THE BOEING COMPANY",
     "url": "https://www.usaspending.gov/award/CONT_AWD_FA863412C2651_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_W58RGZ17C0009_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "1.117116166174e+10",
+    "award_id": "W58RGZ17C0009",
+    "description": "W58RGZ-17-C-0009 MY IX BLACK HAWK PRODUCTION CONTRACT AWARD.",
+    "text": "SIKORSKY AIRCRAFT CORPORATION",
+    "title": "SIKORSKY AIRCRAFT CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ17C0009_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -839,19 +930,6 @@
    }
   },
   {
-   "key": "CONT_AWD_W31P4Q20C0023_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "1.047526535417e+10",
-    "award_id": "W31P4Q20C0023",
-    "description": "THE CONTRACT AWARD IS FOR THE FY21/FY22/FY23 BASE AND OPTION PRICING FOR PHASE ARRAY TRACKING RADAR TO INTERCEPT ON TARGET (PATRIOT) ADVANCED CAPABILITY-3 (PAC-3) PRODUCTION REQUIREMENTS FOR THE UNITED STATES (US) AND FOREIGN MILITARY SALES (FMS)",
-    "text": "LOCKHEED MARTIN CORPORATION",
-    "title": "LOCKHEED MARTIN CORPORATION",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W31P4Q20C0023_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
    "key": "CONT_AWD_HQ014717C0032_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -862,19 +940,6 @@
     "text": "LOCKHEED MARTIN CORPORATION",
     "title": "LOCKHEED MARTIN CORPORATION",
     "url": "https://www.usaspending.gov/award/CONT_AWD_HQ014717C0032_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_W31P4Q24C0022_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "1.031052063543e+10",
-    "award_id": "W31P4Q24C0022",
-    "description": "EXECUTE PHASED ARRAY TRACKING RADAR TO INTERCEPT ON TARGET (PATRIOT) ADVANCED CAPABILITY-3 (PAC-3) MISSILE PRODUCTION BY PROVIDING INCIDENTAL SERVICES, HARDWARE, FACILITIES, EQUIPMENT, AND TECHNICAL, PLANNING, MANAGEMENT, AND MANUFACTURING EFFORTS.",
-    "text": "LOCKHEED MARTIN CORPORATION",
-    "title": "LOCKHEED MARTIN CORPORATION",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W31P4Q24C0022_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -917,6 +982,19 @@
    }
   },
   {
+   "key": "CONT_AWD_W58RGZ13C0002_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "9.72847689178e+09",
+    "award_id": "W58RGZ13C0002",
+    "description": "CH-47F CARGO HELICOPTER MULTIYEAR II.  34 NEW BUILD HELICOPTERS AND 121 RENEW HELICOPTERS.",
+    "text": "THE BOEING COMPANY",
+    "title": "THE BOEING COMPANY",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ13C0002_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
    "key": "CONT_AWD_W52P1J10C0062_9700_-NONE-_-NONE-",
    "source": "transition-usaspending",
    "fields": {
@@ -927,6 +1005,19 @@
     "text": "V2X SYSTEMS LLC",
     "title": "V2X SYSTEMS LLC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W52P1J10C0062_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_W31P4Q26C0013_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "9522000000",
+    "award_id": "W31P4Q26C0013",
+    "description": "EXECUTE PHASED ARRAY TRACKING RADAR TO INTERCEPT ON TARGET (PATRIOT) ADVANCED CAPABILITY-3 (PAC-3) MISSILE PRODUCTION BY PROVIDING INCIDENTAL SERVICES, HARDWARE, FACILITIES, EQUIPMENT, AND TECHNICAL, PLANNING, MANAGEMENT, AND MANUFACTURING EFFORTS.",
+    "text": "LOCKHEED MARTIN CORPORATION",
+    "title": "LOCKHEED MARTIN CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W31P4Q26C0013_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -953,6 +1044,19 @@
     "text": "TRIWEST HEALTHCARE ALLIANCE CORP",
     "title": "TRIWEST HEALTHCARE ALLIANCE CORP",
     "url": "https://www.usaspending.gov/award/CONT_AWD_HT940223C0002_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_W31P4Q19C0011_9700_-NONE-_-NONE-",
+   "source": "transition-usaspending",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "9.16611483776e+09",
+    "award_id": "W31P4Q19C0011",
+    "description": "W31P4Q-19-C-0011 PAC-3 PRODUCTION CONTRACT FOR THE FY19/20 US/FMS REQUIREMENTS, WHICH INCLUDES: MSE\u0026CRI MISSILES, LMKS AND OTHER GROUND SUPPORT FOR PATRIOT/PAC-3 WEAPON.",
+    "text": "LOCKHEED MARTIN CORPORATION",
+    "title": "LOCKHEED MARTIN CORPORATION",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_W31P4Q19C0011_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -1102,25 +1206,12 @@
    "source": "transition-usaspending",
    "fields": {
     "agency": "Department of Defense",
-    "amount": "7.4767759102e+09",
+    "amount": "7.4797759102e+09",
     "award_id": "FA881018C0005",
     "description": "NEXT GENERATION OVERHEAD PERSISTENT INFRARED GEOSYNCHRONOUS EARTH ORBIT SPACE VEHICLE 1-3 PHASE 1",
     "text": "LOCKHEED MARTIN CORP",
     "title": "LOCKHEED MARTIN CORP",
     "url": "https://www.usaspending.gov/award/CONT_AWD_FA881018C0005_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_W58RGZ16C0023_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "7.47324201731e+09",
-    "award_id": "W58RGZ16C0023",
-    "description": "W58RGZ-16-C-0023 IS FOR THE AWARD OF ADVANCE PROCUREMENT IN THE AMOUNT OF $184,930,000.00 TO SUPPORT LOT 7 FULL RATE PRODUCTION LONG LEAD ITEMS.",
-    "text": "THE BOEING COMPANY",
-    "title": "THE BOEING COMPANY",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ16C0023_9700_-NONE-_-NONE-/"
    }
   },
   {
@@ -1160,97 +1251,6 @@
     "text": "LOCKHEED MARTIN CORPORATION",
     "title": "LOCKHEED MARTIN CORPORATION",
     "url": "https://www.usaspending.gov/award/CONT_AWD_FA868224CB001_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_FA863418C2701_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "7.04351097026e+09",
-    "award_id": "FA863418C2701",
-    "description": "F-15, FMS, F-15QA AIR VEHICLE DEVELOPMENT",
-    "text": "THE BOEING COMPANY",
-    "title": "THE BOEING COMPANY",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_FA863418C2701_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_N0002424C2110_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "7041693031",
-    "award_id": "N0002424C2110",
-    "description": "SSN 814 \u0026 SSN 815 LONG LEAD TIME MATERIAL",
-    "text": "ELECTRIC BOAT CORPORATION",
-    "title": "ELECTRIC BOAT CORPORATION",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_N0002424C2110_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_N0001917C0015_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "7.03992246087e+09",
-    "award_id": "N0001917C0015",
-    "description": "CMV-22 PRODUCTION LOT 22 LONG LEAD-TIME ITEMS",
-    "text": "BELL BOEING JOINT PROJECT OFFICE",
-    "title": "BELL BOEING JOINT PROJECT OFFICE",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_N0001917C0015_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_N0001914C0002_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "6.99836207051e+09",
-    "award_id": "N0001914C0002",
-    "description": "LRIP 9 AIRCRAFT AAC",
-    "text": "LOCKHEED MARTIN CORPORATION",
-    "title": "LOCKHEED MARTIN CORPORATION",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_N0001914C0002_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_N0002418C2307_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "6.95899517374e+09",
-    "award_id": "N0002418C2307",
-    "description": "FY18-FY22 DDG 51 CLASS SHIP CONSTRUCTION",
-    "text": "HUNTINGTON INGALLS INCORPORATED",
-    "title": "HUNTINGTON INGALLS INCORPORATED",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_N0002418C2307_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_N0002408C2110_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "6.65103875511e+09",
-    "award_id": "N0002408C2110",
-    "description": "TAS::17 1611::TAS CVN 78 SHIP CONSTRUCTION",
-    "text": "HUNTINGTON INGALLS INC",
-    "title": "HUNTINGTON INGALLS INC",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_N0002408C2110_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
-   "key": "CONT_AWD_N0001923C0030_9700_-NONE-_-NONE-",
-   "source": "transition-usaspending",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "6.64405726333e+09",
-    "award_id": "N0001923C0030",
-    "description": "LOT 18 PNR/TOOLING",
-    "text": "RTX CORPORATION",
-    "title": "RTX CORPORATION",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_N0001923C0030_9700_-NONE-_-NONE-/"
    }
   }
  ]

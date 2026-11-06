@@ -1,7 +1,7 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-11-05T23:51:37Z",
+ "fetched_at": "2026-11-06T14:22:07Z",
  "schema_version": 1,
  "records": [
   {
@@ -46,7 +46,7 @@
    "fields": {
     "date": "2026-07-29T14:45:02Z",
     "description": "Automated pshtt, trustymail, and sslyze scanning",
-    "stars": "32",
+    "stars": "31",
     "text": "cisagov/scanner",
     "title": "cisagov/scanner",
     "url": "https://github.com/cisagov/scanner"
@@ -142,7 +142,7 @@
    "fields": {
     "date": "2026-10-14T19:46:11Z",
     "description": "Code to generate Cyber Hygiene (CyHy) reports",
-    "stars": "14",
+    "stars": "13",
     "text": "cisagov/cyhy-reports",
     "title": "cisagov/cyhy-reports",
     "url": "https://github.com/cisagov/cyhy-reports"
@@ -262,7 +262,7 @@
    "fields": {
     "date": "2026-11-03T17:55:55Z",
     "description": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.",
-    "stars": "2586",
+    "stars": "2589",
     "text": "cisagov/Malcolm",
     "title": "cisagov/Malcolm",
     "url": "https://github.com/cisagov/Malcolm"
@@ -290,6 +290,18 @@
     "text": "cisagov/ansible-role-nessus",
     "title": "cisagov/ansible-role-nessus",
     "url": "https://github.com/cisagov/ansible-role-nessus"
+   }
+  },
+  {
+   "key": "cisagov/cset",
+   "source": "oss-cisagov",
+   "fields": {
+    "date": "2026-11-06T13:17:01Z",
+    "description": "Cybersecurity Evaluation Tool",
+    "stars": "9",
+    "text": "cisagov/cset",
+    "title": "cisagov/cset",
+    "url": "https://github.com/cisagov/cset"
    }
   },
   {
@@ -322,7 +334,7 @@
    "fields": {
     "date": "2026-07-07T07:43:26Z",
     "description": "Docker container with a postfix server designed for use during phishing campaigns",
-    "stars": "71",
+    "stars": "70",
     "text": "cisagov/postfix-docker",
     "title": "cisagov/postfix-docker",
     "url": "https://github.com/cisagov/postfix-docker"
@@ -334,7 +346,7 @@
    "fields": {
     "date": "2026-07-07T22:52:43Z",
     "description": "Docker container for the gophish phishing framework.",
-    "stars": "55",
+    "stars": "54",
     "text": "cisagov/gophish-docker",
     "title": "cisagov/gophish-docker",
     "url": "https://github.com/cisagov/gophish-docker"
@@ -370,7 +382,7 @@
    "fields": {
     "date": "2026-11-05T23:47:37Z",
     "description": "A skeleton project for quickly getting a new cisagov Docker container started.",
-    "stars": "22",
+    "stars": "21",
     "text": "cisagov/skeleton-docker",
     "title": "cisagov/skeleton-docker",
     "url": "https://github.com/cisagov/skeleton-docker"
@@ -418,7 +430,7 @@
    "fields": {
     "date": "2026-11-05T18:59:23Z",
     "description": "Certbot container that stores its configuration in an AWS S3 bucket",
-    "stars": "16",
+    "stars": "15",
     "text": "cisagov/certboto-docker",
     "title": "cisagov/certboto-docker",
     "url": "https://github.com/cisagov/certboto-docker"
@@ -572,9 +584,9 @@
    "key": "idaholab/moose",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-11-05T23:37:03Z",
+    "date": "2026-11-06T06:10:38Z",
     "description": "Multiphysics Object Oriented Simulation Environment: A robust, modern, extendable, finite element/finite volume framework that excels at creating complex multiphysics simulations.",
-    "stars": "2401",
+    "stars": "2402",
     "text": "idaholab/moose",
     "title": "idaholab/moose",
     "url": "https://github.com/idaholab/moose"
@@ -680,7 +692,7 @@
    "key": "idaholab/salamander",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-11-04T13:43:16Z",
+    "date": "2026-11-06T14:08:46Z",
     "description": "SALAMANDER is an application for performing system-level, engineering scale (i.e., at the scale of centimeters and meters), and microstructure-scale (i.e., at the scale of microns) multiphysics calculations related to magnetic confinement fusion energy systems.",
     "stars": "28",
     "text": "idaholab/salamander",
@@ -716,7 +728,7 @@
    "key": "lanl/LaGriT",
    "source": "oss-lanl",
    "fields": {
-    "date": "2026-11-05T13:27:37Z",
+    "date": "2026-11-06T13:21:10Z",
     "description": "Los Alamos Grid Toolbox (LaGriT) is a library of user callable tools that provide mesh generation, mesh optimization and dynamic mesh maintenance in two and three dimensions.",
     "stars": "138",
     "text": "lanl/LaGriT",
@@ -859,7 +871,7 @@
    "key": "llnl/GridDyn",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-11-05T14:40:53Z",
+    "date": "2026-11-06T13:42:34Z",
     "description": "GridDyn is an open-source power transmission simulation software package",
     "stars": "63",
     "text": "llnl/GridDyn",
@@ -885,7 +897,7 @@
    "fields": {
     "date": "2026-11-05T16:33:31Z",
     "description": "Cyber Threat Intelligence Repository expressed in STIX 2.0",
-    "stars": "2160",
+    "stars": "2161",
     "text": "mitre/cti",
     "title": "mitre/cti",
     "url": "https://github.com/mitre/cti"
@@ -921,7 +933,7 @@
    "fields": {
     "date": "2026-11-01T23:06:52Z",
     "description": "A web application to streamline the development of STIGs from SRGs",
-    "stars": "88",
+    "stars": "87",
     "text": "mitre/vulcan",
     "title": "mitre/vulcan",
     "url": "https://github.com/mitre/vulcan"
@@ -993,7 +1005,7 @@
    "fields": {
     "date": "2026-10-15T23:06:52Z",
     "description": "A web based mission control framework. ",
-    "stars": "13203",
+    "stars": "13205",
     "text": "nasa/openmct",
     "title": "nasa/openmct",
     "url": "https://github.com/nasa/openmct"
@@ -1041,7 +1053,7 @@
    "fields": {
     "date": "2026-03-31T21:15:45Z",
     "description": "An easy and convenient package to create technical LaTeX documents.",
-    "stars": "276",
+    "stars": "277",
     "text": "nasa/nasa-latex-docs",
     "title": "nasa/nasa-latex-docs",
     "url": "https://github.com/nasa/nasa-latex-docs"
@@ -1183,7 +1195,7 @@
    "key": "nsacyber/HIRS",
    "source": "oss-nsacyber",
    "fields": {
-    "date": "2026-11-05T19:25:28Z",
+    "date": "2026-11-06T13:06:43Z",
     "description": "Trusted Computing based services supporting TPM provisioning and supply chain validation concepts. #nsacyber",
     "stars": "216",
     "text": "nsacyber/HIRS",
@@ -1338,7 +1350,7 @@
    "key": "ORNL/GridKit",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-11-05T21:25:37Z",
+    "date": "2026-11-06T06:10:55Z",
     "description": "Modeling framework for power systems simulations and analysis.",
     "stars": "27",
     "text": "ORNL/GridKit",
@@ -1472,7 +1484,7 @@
    "fields": {
     "date": "2026-11-02T22:24:37Z",
     "description": "FiPy is a Finite Volume PDE solver written in Python",
-    "stars": "646",
+    "stars": "647",
     "text": "usnistgov/fipy",
     "title": "usnistgov/fipy",
     "url": "https://github.com/usnistgov/fipy"
