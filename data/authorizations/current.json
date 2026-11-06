@@ -1,7 +1,7 @@
 {
  "source": "authorizations",
  "tracker": "authorizations",
- "fetched_at": "2026-11-06T14:21:04Z",
+ "fetched_at": "2026-11-06T23:30:30Z",
  "schema_version": 1,
  "records": [
   {
@@ -2459,20 +2459,6 @@
     "text": "Zoom for Government",
     "title": "Zoom for Government",
     "url": "https://www.zoomgov.com/"
-   }
-  },
-  {
-   "key": "FR2219763604",
-   "source": "authorizations-fedramp-ai",
-   "fields": {
-    "assessor": "Schellman Compliance, LLC",
-    "date": "2022-11-07T20:00:00.000Z",
-    "impact": "Moderate",
-    "model": "SaaS",
-    "status": "FedRAMP Authorized",
-    "text": "Zscaler Private Access - Government (Zero Trust Exchange - VPN Replacement)",
-    "title": "Zscaler Private Access - Government (Zero Trust Exchange - VPN Replacement)",
-    "url": "https://www.zscaler.com/"
    }
   }
  ]
