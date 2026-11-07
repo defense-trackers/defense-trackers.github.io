@@ -1,31 +1,31 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-11-07T13:12:05Z",
+ "fetched_at": "2026-11-07T22:19:38Z",
  "schema_version": 1,
  "records": [
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-11-07T12:08:20Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "93",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
-   }
-  },
   {
    "key": "matteskes/macTAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-07T05:33:13Z",
+    "date": "2026-11-07T22:04:05Z",
     "description": "macTAK - A Team Awareness Kit client for macOS",
     "stars": "4",
     "text": "matteskes/macTAK",
     "title": "matteskes/macTAK",
     "url": "https://github.com/matteskes/macTAK"
+   }
+  },
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-11-07T20:08:42Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "93",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -370,7 +370,7 @@
    "fields": {
     "date": "2024-10-29T11:52:00Z",
     "description": "Situational Awareness Server compatible with TAK clients",
-    "stars": "967",
+    "stars": "966",
     "text": "FreeTAKTeam/FreeTakServer",
     "title": "FreeTAKTeam/FreeTakServer",
     "url": "https://github.com/FreeTAKTeam/FreeTakServer"
@@ -640,7 +640,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-06T21:34:23Z",
+    "date": "2026-11-07T21:18:44Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "111",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-07T01:36:45Z",
+    "date": "2026-11-07T22:18:56Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "43",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -828,7 +828,7 @@
    "key": "FreeTAKTeam/atn-rangefinder",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-26T07:20:13Z",
+    "date": "2026-11-07T19:58:31Z",
     "description": "ATN rangefinder protocol research, REM integration planning, and synthetic fixtures",
     "stars": "0",
     "text": "FreeTAKTeam/atn-rangefinder",
@@ -1021,7 +1021,7 @@
    "fields": {
     "date": "2026-11-02T06:23:31Z",
     "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
-    "stars": "12",
+    "stars": "13",
     "text": "TX-RX/TAK-XVoice",
     "title": "TX-RX/TAK-XVoice",
     "url": "https://github.com/TX-RX/TAK-XVoice"
@@ -1139,7 +1139,7 @@
    "key": "Ascent-Integrated-Tech/atak-plugin-weartak-companion",
    "source": "tak-github",
    "fields": {
-    "date": "2026-10-27T04:12:31Z",
+    "date": "2026-11-07T19:25:38Z",
     "stars": "4",
     "text": "Ascent-Integrated-Tech/atak-plugin-weartak-companion",
     "title": "Ascent-Integrated-Tech/atak-plugin-weartak-companion",
