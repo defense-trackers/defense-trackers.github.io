@@ -1,19 +1,43 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-11-07T22:19:38Z",
+ "fetched_at": "2026-11-08T13:35:27Z",
  "schema_version": 1,
  "records": [
   {
    "key": "matteskes/macTAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-07T22:04:05Z",
+    "date": "2026-11-08T06:10:40Z",
     "description": "macTAK - A Team Awareness Kit client for macOS",
     "stars": "4",
     "text": "matteskes/macTAK",
     "title": "matteskes/macTAK",
     "url": "https://github.com/matteskes/macTAK"
+   }
+  },
+  {
+   "key": "rixau/atak-reactive",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-11-08T04:59:15Z",
+    "description": "Build ATAK (Android Team Awareness Kit) plugin UIs with React and TypeScript. Typed WebView bridge, hot reload, incremental adoption.",
+    "stars": "2",
+    "text": "rixau/atak-reactive",
+    "title": "rixau/atak-reactive",
+    "url": "https://github.com/rixau/atak-reactive"
+   }
+  },
+  {
+   "key": "NorthXLabs/tak-stack",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-11-08T04:32:08Z",
+    "description": "Open source tooling and examples for the TAK (Team Awareness Kit) ecosystem, from Cursor on Target basics to a working TAK Server. Companion code for the NorthX Labs TAK article series: https://northxlabs.com/articles/tak/",
+    "stars": "1",
+    "text": "NorthXLabs/tak-stack",
+    "title": "NorthXLabs/tak-stack",
+    "url": "https://github.com/NorthXLabs/tak-stack"
    }
   },
   {
@@ -38,18 +62,6 @@
     "text": "Audrey-cn/universal-agent-embedding-kit",
     "title": "Audrey-cn/universal-agent-embedding-kit",
     "url": "https://github.com/Audrey-cn/universal-agent-embedding-kit"
-   }
-  },
-  {
-   "key": "NorthXLabs/tak-stack",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-11-04T21:54:55Z",
-    "description": "Open source tooling and examples for the TAK (Team Awareness Kit) ecosystem, from Cursor on Target basics to a working TAK Server. Companion code for the NorthX Labs TAK article series: https://northxlabs.com/articles/tak/",
-    "stars": "1",
-    "text": "NorthXLabs/tak-stack",
-    "title": "NorthXLabs/tak-stack",
-    "url": "https://github.com/NorthXLabs/tak-stack"
    }
   },
   {
@@ -182,18 +194,6 @@
     "text": "Exonical/tak-rs",
     "title": "Exonical/tak-rs",
     "url": "https://github.com/Exonical/tak-rs"
-   }
-  },
-  {
-   "key": "rixau/atak-reactive",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-10-23T23:15:07Z",
-    "description": "Build ATAK (Android Team Awareness Kit) plugin UIs with React and TypeScript. Typed WebView bridge, hot reload, incremental adoption.",
-    "stars": "2",
-    "text": "rixau/atak-reactive",
-    "title": "rixau/atak-reactive",
-    "url": "https://github.com/rixau/atak-reactive"
    }
   },
   {
@@ -640,7 +640,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-07T21:18:44Z",
+    "date": "2026-11-08T06:44:04Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "111",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-07T22:18:56Z",
+    "date": "2026-11-08T06:31:41Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "43",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -840,12 +840,48 @@
    "key": "gustavtraff/tmm-sensor-planner",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-07T03:51:36Z",
+    "date": "2026-11-08T03:39:56Z",
     "description": "ATAK Plugin",
     "stars": "0",
     "text": "gustavtraff/tmm-sensor-planner",
     "title": "gustavtraff/tmm-sensor-planner",
     "url": "https://github.com/gustavtraff/tmm-sensor-planner"
+   }
+  },
+  {
+   "key": "aegorsuch/atak-plugin-houndmaster",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-07T23:37:14Z",
+    "description": "Bloodhound order management",
+    "stars": "2",
+    "text": "aegorsuch/atak-plugin-houndmaster",
+    "title": "aegorsuch/atak-plugin-houndmaster",
+    "url": "https://github.com/aegorsuch/atak-plugin-houndmaster"
+   }
+  },
+  {
+   "key": "takwerx/lces",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-07T23:02:26Z",
+    "description": "ATAK Plugin: LCES — the wildland fire IRPG one tap away, and Lessons Learned Center incidents on the map where they happened. Downloads, guide and issues here.",
+    "stars": "1",
+    "text": "takwerx/lces",
+    "title": "takwerx/lces",
+    "url": "https://github.com/takwerx/lces"
+   }
+  },
+  {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-07T23:04:33Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "6",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
    }
   },
   {
@@ -858,18 +894,6 @@
     "text": "takwerx/traffic",
     "title": "takwerx/traffic",
     "url": "https://github.com/takwerx/traffic"
-   }
-  },
-  {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-06T04:04:24Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "6",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
    }
   },
   {
@@ -902,7 +926,7 @@
    "fields": {
     "date": "2026-11-04T15:01:39Z",
     "description": "HAZMAT Response ATAK Plugin",
-    "stars": "4",
+    "stars": "5",
     "text": "s2underground/HAZ-TAK",
     "title": "s2underground/HAZ-TAK",
     "url": "https://github.com/s2underground/HAZ-TAK"
@@ -965,18 +989,6 @@
     "text": "takwerx/uas-flight-plan",
     "title": "takwerx/uas-flight-plan",
     "url": "https://github.com/takwerx/uas-flight-plan"
-   }
-  },
-  {
-   "key": "aegorsuch/atak-plugin-houndmaster",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-02T13:42:53Z",
-    "description": "Bloodhound order management",
-    "stars": "2",
-    "text": "aegorsuch/atak-plugin-houndmaster",
-    "title": "aegorsuch/atak-plugin-houndmaster",
-    "url": "https://github.com/aegorsuch/atak-plugin-houndmaster"
    }
   },
   {
@@ -1168,18 +1180,6 @@
     "text": "cfd2474/TAK_Beacon",
     "title": "cfd2474/TAK_Beacon",
     "url": "https://github.com/cfd2474/TAK_Beacon"
-   }
-  },
-  {
-   "key": "takwerx/atmosphere",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-25T03:41:46Z",
-    "description": "ATAK Plugin: Atmosphere — fire and hazmat weather on the map: the forecast at a point, radar, satellite, wind, rain, smoke, rivers and the sea. Downloads, guide and issues here.",
-    "stars": "4",
-    "text": "takwerx/atmosphere",
-    "title": "takwerx/atmosphere",
-    "url": "https://github.com/takwerx/atmosphere"
    }
   },
   {
