@@ -1,31 +1,31 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-11-09T16:30:39Z",
+ "fetched_at": "2026-11-10T01:47:13Z",
  "schema_version": 1,
  "records": [
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-11-09T16:00:14Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "95",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
-   }
-  },
   {
    "key": "matteskes/macTAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-09T04:37:22Z",
+    "date": "2026-11-10T01:42:22Z",
     "description": "macTAK - A Team Awareness Kit client for macOS",
     "stars": "4",
     "text": "matteskes/macTAK",
     "title": "matteskes/macTAK",
     "url": "https://github.com/matteskes/macTAK"
+   }
+  },
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-11-10T00:03:08Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "95",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -582,7 +582,7 @@
    "key": "FreeTAKTeam/DigitalArchitectureFramework",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-09T14:32:14Z",
+    "date": "2026-11-09T17:19:34Z",
     "description": "The Digital Architecture Framework (DAF),  is a set modeling tools for Digital Engineering. ",
     "stars": "8",
     "text": "FreeTAKTeam/DigitalArchitectureFramework",
@@ -640,7 +640,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-09T13:50:29Z",
+    "date": "2026-11-09T20:06:50Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "113",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-09T14:56:40Z",
+    "date": "2026-11-10T01:43:39Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "44",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -842,7 +842,7 @@
    "fields": {
     "date": "2026-11-09T15:23:44Z",
     "description": "TRAINING USE ONLY / 訓練用 — ATAK-CIV plugin for JTAC role training in milsim",
-    "stars": "0",
+    "stars": "1",
     "text": "Hidemas-Suzuki-aka-ZIEK/jtak-training-plugin",
     "title": "Hidemas-Suzuki-aka-ZIEK/jtak-training-plugin",
     "url": "https://github.com/Hidemas-Suzuki-aka-ZIEK/jtak-training-plugin"
@@ -888,7 +888,7 @@
    "key": "danielciscoswart/MESHCORE-ATAK-Plugin",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-08T23:52:07Z",
+    "date": "2026-11-10T01:44:19Z",
     "description": "Plugin for ATAK",
     "stars": "0",
     "text": "danielciscoswart/MESHCORE-ATAK-Plugin",
@@ -950,7 +950,7 @@
    "fields": {
     "date": "2026-11-05T02:41:14Z",
     "description": "ATAK Plugin: FireCast — satellite heat detections and a fire spread model that runs on the device, with buildings and people reached. Downloads, guide and issues here.",
-    "stars": "1",
+    "stars": "2",
     "text": "takwerx/firecast",
     "title": "takwerx/firecast",
     "url": "https://github.com/takwerx/firecast"
