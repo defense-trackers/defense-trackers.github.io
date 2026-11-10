@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-11-10T01:47:13Z",
+ "fetched_at": "2026-11-10T14:59:32Z",
  "schema_version": 1,
  "records": [
   {
    "key": "matteskes/macTAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-10T01:42:22Z",
+    "date": "2026-11-10T06:10:30Z",
     "description": "macTAK - A Team Awareness Kit client for macOS",
     "stars": "4",
     "text": "matteskes/macTAK",
@@ -20,7 +20,7 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-10T00:03:08Z",
+    "date": "2026-11-10T14:13:48Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "95",
     "text": "takwerx/infra-TAK",
@@ -370,7 +370,7 @@
    "fields": {
     "date": "2024-10-29T11:52:00Z",
     "description": "Situational Awareness Server compatible with TAK clients",
-    "stars": "967",
+    "stars": "968",
     "text": "FreeTAKTeam/FreeTakServer",
     "title": "FreeTAKTeam/FreeTakServer",
     "url": "https://github.com/FreeTAKTeam/FreeTakServer"
@@ -582,7 +582,7 @@
    "key": "FreeTAKTeam/DigitalArchitectureFramework",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-09T17:19:34Z",
+    "date": "2026-11-10T14:00:03Z",
     "description": "The Digital Architecture Framework (DAF),  is a set modeling tools for Digital Engineering. ",
     "stars": "8",
     "text": "FreeTAKTeam/DigitalArchitectureFramework",
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-10T01:43:39Z",
+    "date": "2026-11-10T01:56:47Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "44",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -758,7 +758,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-05T15:31:45Z",
+    "date": "2026-11-10T14:01:21Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "37",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -793,7 +793,7 @@
    "key": "FreeTAKTeam/ReticulumDistributedObject",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-10-17T08:20:18Z",
+    "date": "2026-11-10T14:22:27Z",
     "stars": "1",
     "text": "FreeTAKTeam/ReticulumDistributedObject",
     "title": "FreeTAKTeam/ReticulumDistributedObject",
@@ -837,12 +837,48 @@
    }
   },
   {
+   "key": "FreeTAKTeam/r3akt-uas",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2026-11-10T13:54:07Z",
+    "description": "Independent R3AKT DJI flying application using shared Rust libraries, RCH telemetry, REM-compatible radar and markers, and separate video streaming.",
+    "stars": "0",
+    "text": "FreeTAKTeam/r3akt-uas",
+    "title": "FreeTAKTeam/r3akt-uas",
+    "url": "https://github.com/FreeTAKTeam/r3akt-uas"
+   }
+  },
+  {
+   "key": "danielciscoswart/MESHCORE-ATAK-Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-10T13:02:03Z",
+    "description": "Plugin for ATAK",
+    "stars": "0",
+    "text": "danielciscoswart/MESHCORE-ATAK-Plugin",
+    "title": "danielciscoswart/MESHCORE-ATAK-Plugin",
+    "url": "https://github.com/danielciscoswart/MESHCORE-ATAK-Plugin"
+   }
+  },
+  {
+   "key": "cfd2474/TAK_Beacon",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-10T02:51:54Z",
+    "description": "ATAK Plugin: TAK Beacon — keeps reporting your position to your TAK server when ATAK is closed. Downloads, guide and issues here.",
+    "stars": "2",
+    "text": "cfd2474/TAK_Beacon",
+    "title": "cfd2474/TAK_Beacon",
+    "url": "https://github.com/cfd2474/TAK_Beacon"
+   }
+  },
+  {
    "key": "Hidemas-Suzuki-aka-ZIEK/jtak-training-plugin",
    "source": "tak-github",
    "fields": {
     "date": "2026-11-09T15:23:44Z",
     "description": "TRAINING USE ONLY / 訓練用 — ATAK-CIV plugin for JTAC role training in milsim",
-    "stars": "1",
+    "stars": "3",
     "text": "Hidemas-Suzuki-aka-ZIEK/jtak-training-plugin",
     "title": "Hidemas-Suzuki-aka-ZIEK/jtak-training-plugin",
     "url": "https://github.com/Hidemas-Suzuki-aka-ZIEK/jtak-training-plugin"
@@ -882,18 +918,6 @@
     "text": "gustavtraff/tmm-sensor-planner",
     "title": "gustavtraff/tmm-sensor-planner",
     "url": "https://github.com/gustavtraff/tmm-sensor-planner"
-   }
-  },
-  {
-   "key": "danielciscoswart/MESHCORE-ATAK-Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-10T01:44:19Z",
-    "description": "Plugin for ATAK",
-    "stars": "0",
-    "text": "danielciscoswart/MESHCORE-ATAK-Plugin",
-    "title": "danielciscoswart/MESHCORE-ATAK-Plugin",
-    "url": "https://github.com/danielciscoswart/MESHCORE-ATAK-Plugin"
    }
   },
   {
@@ -1105,7 +1129,7 @@
    "fields": {
     "date": "2026-10-31T05:43:26Z",
     "description": "ATAK Plugin: Map Depot — download elevation, base maps and offline public-lands maps from inside ATAK. Downloads, guide and issues here.",
-    "stars": "14",
+    "stars": "15",
     "text": "takwerx/map-depot",
     "title": "takwerx/map-depot",
     "url": "https://github.com/takwerx/map-depot"
@@ -1169,17 +1193,6 @@
     "text": "RyanR3/TakNearbyDrop",
     "title": "RyanR3/TakNearbyDrop",
     "url": "https://github.com/RyanR3/TakNearbyDrop"
-   }
-  },
-  {
-   "key": "Ascent-Integrated-Tech/atak-plugin-weartak-companion",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-07T19:25:38Z",
-    "stars": "4",
-    "text": "Ascent-Integrated-Tech/atak-plugin-weartak-companion",
-    "title": "Ascent-Integrated-Tech/atak-plugin-weartak-companion",
-    "url": "https://github.com/Ascent-Integrated-Tech/atak-plugin-weartak-companion"
    }
   },
   {
