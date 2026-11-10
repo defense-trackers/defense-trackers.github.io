@@ -1,7 +1,7 @@
 {
  "source": "deadlines",
  "tracker": "deadlines",
- "fetched_at": "2026-11-10T14:59:35Z",
+ "fetched_at": "2026-11-10T23:44:57Z",
  "schema_version": 1,
  "records": [
   {
@@ -278,6 +278,19 @@
    }
   },
   {
+   "key": "close-363829",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "Air Force Office of Scientific Research",
+    "closes": "2026-12-11",
+    "date": "2026-12-11",
+    "from": "pipeline",
+    "text": "Air Force Fiscal Year 2027 Young Investigator Program (YIP)",
+    "title": "Air Force Fiscal Year 2027 Young Investigator Program (YIP)",
+    "url": "https://www.grants.gov/search-results-detail/363829"
+   }
+  },
+  {
    "key": "close-363745",
    "source": "deadlines-solicitations",
    "fields": {
@@ -314,19 +327,6 @@
     "text": "Continuing Human Enabling Enhancing Restoring and Sustaining",
     "title": "Continuing Human Enabling Enhancing Restoring and Sustaining",
     "url": "https://www.grants.gov/search-results-detail/360258"
-   }
-  },
-  {
-   "key": "close-363829",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "Air Force Office of Scientific Research",
-    "closes": "2026-12-04",
-    "date": "2026-12-04",
-    "from": "pipeline",
-    "text": "Air Force Fiscal Year 2027 Young Investigator Program (YIP)",
-    "title": "Air Force Fiscal Year 2027 Young Investigator Program (YIP)",
-    "url": "https://www.grants.gov/search-results-detail/363829"
    }
   },
   {

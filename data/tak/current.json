@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-11-10T14:59:32Z",
+ "fetched_at": "2026-11-10T23:44:55Z",
  "schema_version": 1,
  "records": [
   {
    "key": "matteskes/macTAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-10T06:10:30Z",
+    "date": "2026-11-10T23:42:46Z",
     "description": "macTAK - A Team Awareness Kit client for macOS",
     "stars": "4",
     "text": "matteskes/macTAK",
@@ -17,10 +17,22 @@
    }
   },
   {
+   "key": "microtak/microtak-server",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-11-10T19:58:30Z",
+    "description": "A lightweight, mesh-federated TAK (Team Awareness Kit) server written in Rust",
+    "stars": "0",
+    "text": "microtak/microtak-server",
+    "title": "microtak/microtak-server",
+    "url": "https://github.com/microtak/microtak-server"
+   }
+  },
+  {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-10T14:13:48Z",
+    "date": "2026-11-10T23:28:25Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "95",
     "text": "takwerx/infra-TAK",
@@ -74,18 +86,6 @@
     "text": "DByte308/AirTAK",
     "title": "DByte308/AirTAK",
     "url": "https://github.com/DByte308/AirTAK"
-   }
-  },
-  {
-   "key": "microtak/microtak-server",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-11-02T18:32:34Z",
-    "description": "A lightweight, mesh-federated TAK (Team Awareness Kit) server written in Rust",
-    "stars": "0",
-    "text": "microtak/microtak-server",
-    "title": "microtak/microtak-server",
-    "url": "https://github.com/microtak/microtak-server"
    }
   },
   {
@@ -640,7 +640,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-09T20:06:50Z",
+    "date": "2026-11-10T23:30:34Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "113",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -758,7 +758,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-10T14:01:21Z",
+    "date": "2026-11-10T20:24:14Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "37",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -840,7 +840,7 @@
    "key": "FreeTAKTeam/r3akt-uas",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-10T13:54:07Z",
+    "date": "2026-11-10T22:56:00Z",
     "description": "Independent R3AKT DJI flying application using shared Rust libraries, RCH telemetry, REM-compatible radar and markers, and separate video streaming.",
     "stars": "0",
     "text": "FreeTAKTeam/r3akt-uas",
@@ -849,10 +849,34 @@
    }
   },
   {
+   "key": "vipersq/Casualty_kit_TAK_CIV",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-10T22:26:15Z",
+    "description": "ATAK plugin for casualty reporting: digital TCCC card (DD1380), MARCH treatments, vitals alerts, MIST and 9-line MEDEVAC over CoT",
+    "stars": "0",
+    "text": "vipersq/Casualty_kit_TAK_CIV",
+    "title": "vipersq/Casualty_kit_TAK_CIV",
+    "url": "https://github.com/vipersq/Casualty_kit_TAK_CIV"
+   }
+  },
+  {
+   "key": "gustavtraff/tmm-sensor-planner",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-10T19:52:55Z",
+    "description": "ATAK Plugin",
+    "stars": "0",
+    "text": "gustavtraff/tmm-sensor-planner",
+    "title": "gustavtraff/tmm-sensor-planner",
+    "url": "https://github.com/gustavtraff/tmm-sensor-planner"
+   }
+  },
+  {
    "key": "danielciscoswart/MESHCORE-ATAK-Plugin",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-10T13:02:03Z",
+    "date": "2026-11-10T18:06:53Z",
     "description": "Plugin for ATAK",
     "stars": "0",
     "text": "danielciscoswart/MESHCORE-ATAK-Plugin",
@@ -906,18 +930,6 @@
     "text": "takwerx/atak-plugins",
     "title": "takwerx/atak-plugins",
     "url": "https://github.com/takwerx/atak-plugins"
-   }
-  },
-  {
-   "key": "gustavtraff/tmm-sensor-planner",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-09T00:45:44Z",
-    "description": "ATAK Plugin",
-    "stars": "0",
-    "text": "gustavtraff/tmm-sensor-planner",
-    "title": "gustavtraff/tmm-sensor-planner",
-    "url": "https://github.com/gustavtraff/tmm-sensor-planner"
    }
   },
   {
@@ -1181,18 +1193,6 @@
     "text": "takwerx/cam-depot",
     "title": "takwerx/cam-depot",
     "url": "https://github.com/takwerx/cam-depot"
-   }
-  },
-  {
-   "key": "RyanR3/TakNearbyDrop",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-28T23:10:24Z",
-    "description": "ATAK plugin: send markers, data packages and files straight to nearby ATAK phones over Bluetooth / Wi-Fi — no server, no mesh",
-    "stars": "6",
-    "text": "RyanR3/TakNearbyDrop",
-    "title": "RyanR3/TakNearbyDrop",
-    "url": "https://github.com/RyanR3/TakNearbyDrop"
    }
   },
   {
