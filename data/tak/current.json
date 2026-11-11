@@ -1,19 +1,43 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-11-10T23:44:55Z",
+ "fetched_at": "2026-11-11T14:30:23Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "DByte308/AirTAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-11-11T09:30:57Z",
+    "description": "Fork/mirror of https://git.crashcat.net/3phedra/AirTAK — Airsoft Team Awareness Kit (LoRa mesh firmware + Android app), GPL-3.0-or-later",
+    "stars": "1",
+    "text": "DByte308/AirTAK",
+    "title": "DByte308/AirTAK",
+    "url": "https://github.com/DByte308/AirTAK"
+   }
+  },
   {
    "key": "matteskes/macTAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-10T23:42:46Z",
+    "date": "2026-11-11T06:34:01Z",
     "description": "macTAK - A Team Awareness Kit client for macOS",
     "stars": "4",
     "text": "matteskes/macTAK",
     "title": "matteskes/macTAK",
     "url": "https://github.com/matteskes/macTAK"
+   }
+  },
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-11-11T14:21:09Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "95",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -26,18 +50,6 @@
     "text": "microtak/microtak-server",
     "title": "microtak/microtak-server",
     "url": "https://github.com/microtak/microtak-server"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-11-10T23:28:25Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "95",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -74,18 +86,6 @@
     "text": "Audrey-cn/universal-agent-embedding-kit",
     "title": "Audrey-cn/universal-agent-embedding-kit",
     "url": "https://github.com/Audrey-cn/universal-agent-embedding-kit"
-   }
-  },
-  {
-   "key": "DByte308/AirTAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-11-02T20:58:45Z",
-    "description": "Fork/mirror of https://git.crashcat.net/3phedra/AirTAK — Airsoft Team Awareness Kit (LoRa mesh firmware + Android app), GPL-3.0-or-later",
-    "stars": "1",
-    "text": "DByte308/AirTAK",
-    "title": "DByte308/AirTAK",
-    "url": "https://github.com/DByte308/AirTAK"
    }
   },
   {
@@ -640,7 +640,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-10T23:30:34Z",
+    "date": "2026-11-11T13:30:24Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "113",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-10T01:56:47Z",
+    "date": "2026-11-11T12:59:55Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "44",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -758,7 +758,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-10T20:24:14Z",
+    "date": "2026-11-11T00:43:24Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "37",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -828,7 +828,7 @@
    "key": "FreeTAKTeam/atn-rangefinder",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-07T19:58:31Z",
+    "date": "2026-11-11T00:21:46Z",
     "description": "ATN rangefinder protocol research, REM integration planning, and synthetic fixtures",
     "stars": "0",
     "text": "FreeTAKTeam/atn-rangefinder",
@@ -840,7 +840,7 @@
    "key": "FreeTAKTeam/r3akt-uas",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-10T22:56:00Z",
+    "date": "2026-11-11T12:23:28Z",
     "description": "Independent R3AKT DJI flying application using shared Rust libraries, RCH telemetry, REM-compatible radar and markers, and separate video streaming.",
     "stars": "0",
     "text": "FreeTAKTeam/r3akt-uas",
@@ -852,12 +852,47 @@
    "key": "vipersq/Casualty_kit_TAK_CIV",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-10T22:26:15Z",
-    "description": "ATAK plugin for casualty reporting: digital TCCC card (DD1380), MARCH treatments, vitals alerts, MIST and 9-line MEDEVAC over CoT",
+    "date": "2026-11-11T12:11:08Z",
+    "description": "ATAK plugin for casualty reporting: TCCC card (DD1380) with tappable body diagram, MARCH treatments, vitals alerts, status map markers, MIST and 9-line MEDEVAC over CoT",
     "stars": "0",
     "text": "vipersq/Casualty_kit_TAK_CIV",
     "title": "vipersq/Casualty_kit_TAK_CIV",
     "url": "https://github.com/vipersq/Casualty_kit_TAK_CIV"
+   }
+  },
+  {
+   "key": "Hidemas-Suzuki-aka-ZIEK/jtak-training-plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-11T07:38:01Z",
+    "description": "TRAINING USE ONLY / 訓練用 — ATAK-CIV plugin for JTAC role training in milsim",
+    "stars": "3",
+    "text": "Hidemas-Suzuki-aka-ZIEK/jtak-training-plugin",
+    "title": "Hidemas-Suzuki-aka-ZIEK/jtak-training-plugin",
+    "url": "https://github.com/Hidemas-Suzuki-aka-ZIEK/jtak-training-plugin"
+   }
+  },
+  {
+   "key": "DrLexus11/reticulum-atak",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-11T12:42:47Z",
+    "description": "ATAK reticulum mesh plugin",
+    "stars": "0",
+    "text": "DrLexus11/reticulum-atak",
+    "title": "DrLexus11/reticulum-atak",
+    "url": "https://github.com/DrLexus11/reticulum-atak"
+   }
+  },
+  {
+   "key": "jpat-12/TAK-PluginSuite-ATAK_ICU",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-11T03:52:23Z",
+    "stars": "10",
+    "text": "jpat-12/TAK-PluginSuite-ATAK_ICU",
+    "title": "jpat-12/TAK-PluginSuite-ATAK_ICU",
+    "url": "https://github.com/jpat-12/TAK-PluginSuite-ATAK_ICU"
    }
   },
   {
@@ -878,7 +913,7 @@
    "fields": {
     "date": "2026-11-10T18:06:53Z",
     "description": "Plugin for ATAK",
-    "stars": "0",
+    "stars": "1",
     "text": "danielciscoswart/MESHCORE-ATAK-Plugin",
     "title": "danielciscoswart/MESHCORE-ATAK-Plugin",
     "url": "https://github.com/danielciscoswart/MESHCORE-ATAK-Plugin"
@@ -897,18 +932,6 @@
    }
   },
   {
-   "key": "Hidemas-Suzuki-aka-ZIEK/jtak-training-plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-09T15:23:44Z",
-    "description": "TRAINING USE ONLY / 訓練用 — ATAK-CIV plugin for JTAC role training in milsim",
-    "stars": "3",
-    "text": "Hidemas-Suzuki-aka-ZIEK/jtak-training-plugin",
-    "title": "Hidemas-Suzuki-aka-ZIEK/jtak-training-plugin",
-    "url": "https://github.com/Hidemas-Suzuki-aka-ZIEK/jtak-training-plugin"
-   }
-  },
-  {
    "key": "takwerx/feature-layer",
    "source": "tak-github",
    "fields": {
@@ -924,7 +947,7 @@
    "key": "takwerx/atak-plugins",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-09T05:48:00Z",
+    "date": "2026-11-11T04:34:07Z",
     "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
     "stars": "6",
     "text": "takwerx/atak-plugins",
@@ -1169,30 +1192,6 @@
     "text": "niccellular/gadget",
     "title": "niccellular/gadget",
     "url": "https://github.com/niccellular/gadget"
-   }
-  },
-  {
-   "key": "stpleb/openmanet-field-extension",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-29T23:23:23Z",
-    "description": "Field add-ons for plain OpenMANET nodes: status light, PiSugar power, LoRa fallback, ATAK plugin",
-    "stars": "0",
-    "text": "stpleb/openmanet-field-extension",
-    "title": "stpleb/openmanet-field-extension",
-    "url": "https://github.com/stpleb/openmanet-field-extension"
-   }
-  },
-  {
-   "key": "takwerx/cam-depot",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-28T23:35:38Z",
-    "description": "ATAK Plugin: Cam Depot — public traffic and wildfire cameras on the ATAK map, with live video where the agency streams. Downloads, guide and issues here.",
-    "stars": "10",
-    "text": "takwerx/cam-depot",
-    "title": "takwerx/cam-depot",
-    "url": "https://github.com/takwerx/cam-depot"
    }
   },
   {
