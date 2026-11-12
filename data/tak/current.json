@@ -1,9 +1,21 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-11-11T14:30:23Z",
+ "fetched_at": "2026-11-12T01:01:10Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-11-11T22:04:01Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "95",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
   {
    "key": "DByte308/AirTAK",
    "source": "tak-cot",
@@ -26,18 +38,6 @@
     "text": "matteskes/macTAK",
     "title": "matteskes/macTAK",
     "url": "https://github.com/matteskes/macTAK"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-11-11T14:21:09Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "95",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -94,7 +94,7 @@
    "fields": {
     "date": "2026-11-02T04:38:31Z",
     "description": "PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.",
-    "stars": "256",
+    "stars": "257",
     "text": "snstac/pytak",
     "title": "snstac/pytak",
     "url": "https://github.com/snstac/pytak"
@@ -430,7 +430,7 @@
    "fields": {
     "date": "2022-08-06T13:17:21Z",
     "description": "a list of hardware and software to be used in conjunction with ATAK platform",
-    "stars": "304",
+    "stars": "305",
     "text": "FreeTAKTeam/openTAKpickList",
     "title": "FreeTAKTeam/openTAKpickList",
     "url": "https://github.com/FreeTAKTeam/openTAKpickList"
@@ -640,7 +640,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-11T13:30:24Z",
+    "date": "2026-11-11T20:58:58Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "113",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-11T12:59:55Z",
+    "date": "2026-11-11T16:21:43Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "44",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -840,12 +840,48 @@
    "key": "FreeTAKTeam/r3akt-uas",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-11T12:23:28Z",
+    "date": "2026-11-11T21:16:15Z",
     "description": "Independent R3AKT DJI flying application using shared Rust libraries, RCH telemetry, REM-compatible radar and markers, and separate video streaming.",
     "stars": "0",
     "text": "FreeTAKTeam/r3akt-uas",
     "title": "FreeTAKTeam/r3akt-uas",
     "url": "https://github.com/FreeTAKTeam/r3akt-uas"
+   }
+  },
+  {
+   "key": "vipersq/TakRequest",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-11T21:32:48Z",
+    "description": "ATAK plugin: a request and reporting board for transport (air/sea/land), resupply, SITREP and ACE, shared over CoT with an approval workflow and exercise/MILSIM modes. Not a targeting or fire-support tool.",
+    "stars": "0",
+    "text": "vipersq/TakRequest",
+    "title": "vipersq/TakRequest",
+    "url": "https://github.com/vipersq/TakRequest"
+   }
+  },
+  {
+   "key": "apexcsfc/takassist-releases",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-11T21:21:30Z",
+    "description": "Downloads for TAK Assist, an offline LLM plugin for ATAK",
+    "stars": "0",
+    "text": "apexcsfc/takassist-releases",
+    "title": "apexcsfc/takassist-releases",
+    "url": "https://github.com/apexcsfc/takassist-releases"
+   }
+  },
+  {
+   "key": "apexcsfc/takassist",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-11T21:09:56Z",
+    "description": "ATAK-CIV plugin that runs a language model on the phone, fully offline",
+    "stars": "0",
+    "text": "apexcsfc/takassist",
+    "title": "apexcsfc/takassist",
+    "url": "https://github.com/apexcsfc/takassist"
    }
   },
   {
@@ -876,7 +912,7 @@
    "key": "DrLexus11/reticulum-atak",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-11T12:42:47Z",
+    "date": "2026-11-11T15:44:05Z",
     "description": "ATAK reticulum mesh plugin",
     "stars": "0",
     "text": "DrLexus11/reticulum-atak",
@@ -899,7 +935,7 @@
    "key": "gustavtraff/tmm-sensor-planner",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-10T19:52:55Z",
+    "date": "2026-11-12T00:58:59Z",
     "description": "ATAK Plugin",
     "stars": "0",
     "text": "gustavtraff/tmm-sensor-planner",
@@ -997,7 +1033,7 @@
    "fields": {
     "date": "2026-11-05T08:23:25Z",
     "description": "ATAK's own map on your Android Auto screen: a plugin inside ATAK plus a small car app",
-    "stars": "1",
+    "stars": "2",
     "text": "GPTmadeit/convoy",
     "title": "GPTmadeit/convoy",
     "url": "https://github.com/GPTmadeit/convoy"
@@ -1021,7 +1057,7 @@
    "fields": {
     "date": "2026-11-04T15:01:39Z",
     "description": "HAZMAT Response ATAK Plugin",
-    "stars": "5",
+    "stars": "6",
     "text": "s2underground/HAZ-TAK",
     "title": "s2underground/HAZ-TAK",
     "url": "https://github.com/s2underground/HAZ-TAK"
@@ -1156,42 +1192,6 @@
     "text": "Cloud-RF/Trbotak-plugin",
     "title": "Cloud-RF/Trbotak-plugin",
     "url": "https://github.com/Cloud-RF/Trbotak-plugin"
-   }
-  },
-  {
-   "key": "takwerx/map-depot",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-31T05:43:26Z",
-    "description": "ATAK Plugin: Map Depot — download elevation, base maps and offline public-lands maps from inside ATAK. Downloads, guide and issues here.",
-    "stars": "15",
-    "text": "takwerx/map-depot",
-    "title": "takwerx/map-depot",
-    "url": "https://github.com/takwerx/map-depot"
-   }
-  },
-  {
-   "key": "takwerx/atak-plugin-pipeline",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-30T23:07:06Z",
-    "description": "How takwerx builds ATAK plugins and gets them through TAK's third-party signing pipeline, as a Claude Code skill. No SDK included.",
-    "stars": "9",
-    "text": "takwerx/atak-plugin-pipeline",
-    "title": "takwerx/atak-plugin-pipeline",
-    "url": "https://github.com/takwerx/atak-plugin-pipeline"
-   }
-  },
-  {
-   "key": "niccellular/gadget",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-30T13:46:43Z",
-    "description": "ATAK plugin that loads unsigned/signature-rejected plugins by bypassing AtakPluginRegistry verification",
-    "stars": "18",
-    "text": "niccellular/gadget",
-    "title": "niccellular/gadget",
-    "url": "https://github.com/niccellular/gadget"
    }
   },
   {
