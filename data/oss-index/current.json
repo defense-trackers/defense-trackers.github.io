@@ -1,7 +1,7 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-11-12T15:21:59Z",
+ "fetched_at": "2026-11-12T23:53:48Z",
  "schema_version": 1,
  "records": [
   {
@@ -56,7 +56,7 @@
    "key": "cisagov/gatherer",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-11-10T19:29:27Z",
+    "date": "2026-11-12T20:23:45Z",
     "description": "Gather domains as a precursor to scanning",
     "stars": "22",
     "text": "cisagov/gatherer",
@@ -80,7 +80,7 @@
    "key": "cisagov/orchestrator",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-11-11T14:19:21Z",
+    "date": "2026-11-12T21:06:40Z",
     "description": "Orchestrate gatherer, scanner, saver, and trustymail_reporter",
     "stars": "21",
     "text": "cisagov/orchestrator",
@@ -92,7 +92,7 @@
    "key": "cisagov/trustymail_reporter",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-11-09T04:46:11Z",
+    "date": "2026-11-12T16:30:38Z",
     "description": "Generate Trustworthy Email reports based on scan data",
     "stars": "13",
     "text": "cisagov/trustymail_reporter",
@@ -260,9 +260,9 @@
    "key": "cisagov/Malcolm",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-11-11T23:02:08Z",
+    "date": "2026-11-12T15:44:45Z",
     "description": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.",
-    "stars": "2596",
+    "stars": "2597",
     "text": "cisagov/Malcolm",
     "title": "cisagov/Malcolm",
     "url": "https://github.com/cisagov/Malcolm"
@@ -584,7 +584,7 @@
    "key": "idaholab/moose",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-11-12T09:12:39Z",
+    "date": "2026-11-12T21:43:51Z",
     "description": "Multiphysics Object Oriented Simulation Environment: A robust, modern, extendable, finite element/finite volume framework that excels at creating complex multiphysics simulations.",
     "stars": "2406",
     "text": "idaholab/moose",
@@ -620,7 +620,7 @@
    "key": "idaholab/Malcolm",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-11-11T22:01:45Z",
+    "date": "2026-11-12T15:44:36Z",
     "description": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.",
     "stars": "497",
     "text": "idaholab/Malcolm",
@@ -991,7 +991,7 @@
    "key": "nasa/trick",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-11-11T18:45:29Z",
+    "date": "2026-11-12T21:49:57Z",
     "description": "Trick Simulation Environment.  Trick provides a common set of simulation capabilities and utilities to build simulations automatically.",
     "stars": "183",
     "text": "nasa/trick",
@@ -1003,7 +1003,7 @@
    "key": "nasa/openmct",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-11-12T01:18:24Z",
+    "date": "2026-11-12T16:50:09Z",
     "description": "A web based mission control framework. ",
     "stars": "13213",
     "text": "nasa/openmct",
@@ -1015,7 +1015,7 @@
    "key": "nasa/earthdata-search",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-11-11T19:38:11Z",
+    "date": "2026-11-12T21:55:09Z",
     "description": "Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.",
     "stars": "830",
     "text": "nasa/earthdata-search",
@@ -1075,7 +1075,7 @@
    "key": "nasa/Common-Metadata-Repository",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-11-10T22:34:33Z",
+    "date": "2026-11-12T16:42:39Z",
     "description": "The Common Metadata Repository (CMR) is a high-performance, high-quality, continuously evolving metadata system that catalogs Earth Science data and associated service metadata records. These metadata records are registered, modified, discovered, and accessed through programmatic interfaces leveraging standard protocols and APIs.",
     "stars": "402",
     "text": "nasa/Common-Metadata-Repository",
@@ -1195,7 +1195,7 @@
    "key": "nsacyber/HIRS",
    "source": "oss-nsacyber",
    "fields": {
-    "date": "2026-11-12T14:19:41Z",
+    "date": "2026-11-12T17:47:33Z",
     "description": "Trusted Computing based services supporting TPM provisioning and supply chain validation concepts. #nsacyber",
     "stars": "216",
     "text": "nsacyber/HIRS",
@@ -1255,7 +1255,7 @@
    "key": "ORNL/HeCBench",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-11-10T15:09:42Z",
+    "date": "2026-11-12T23:39:50Z",
     "stars": "310",
     "text": "ORNL/HeCBench",
     "title": "ORNL/HeCBench",
@@ -1350,7 +1350,7 @@
    "key": "ORNL/GridKit",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-11-12T00:52:37Z",
+    "date": "2026-11-12T23:17:47Z",
     "description": "Modeling framework for power systems simulations and analysis.",
     "stars": "27",
     "text": "ORNL/GridKit",

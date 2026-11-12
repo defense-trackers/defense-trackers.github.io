@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-11-12T15:22:33Z",
+ "fetched_at": "2026-11-12T23:54:19Z",
  "schema_version": 1,
  "records": [
   {
    "key": "matteskes/macTAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-12T15:20:58Z",
+    "date": "2026-11-12T22:18:21Z",
     "description": "macTAK - A Team Awareness Kit client for macOS",
     "stars": "4",
     "text": "matteskes/macTAK",
@@ -20,7 +20,7 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-12T15:21:36Z",
+    "date": "2026-11-12T20:39:15Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "96",
     "text": "takwerx/infra-TAK",
@@ -430,7 +430,7 @@
    "fields": {
     "date": "2022-08-06T13:17:21Z",
     "description": "a list of hardware and software to be used in conjunction with ATAK platform",
-    "stars": "305",
+    "stars": "304",
     "text": "FreeTAKTeam/openTAKpickList",
     "title": "FreeTAKTeam/openTAKpickList",
     "url": "https://github.com/FreeTAKTeam/openTAKpickList"
@@ -849,6 +849,66 @@
    }
   },
   {
+   "key": "TX-RX/TAK-XVoice",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-12T23:52:43Z",
+    "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
+    "stars": "14",
+    "text": "TX-RX/TAK-XVoice",
+    "title": "TX-RX/TAK-XVoice",
+    "url": "https://github.com/TX-RX/TAK-XVoice"
+   }
+  },
+  {
+   "key": "gustavtraff/tmm-sensor-planner",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-12T23:35:20Z",
+    "description": "ATAK Plugin",
+    "stars": "0",
+    "text": "gustavtraff/tmm-sensor-planner",
+    "title": "gustavtraff/tmm-sensor-planner",
+    "url": "https://github.com/gustavtraff/tmm-sensor-planner"
+   }
+  },
+  {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-12T19:25:31Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "6",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
+   "key": "takwerx/iwi",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-12T18:51:58Z",
+    "description": "ATAK Plugin: IWI — report and manage a medical emergency on a wildland fire, the NWCG Medical Incident Report in place of the military 9-line. Downloads, guide and issues here.",
+    "stars": "0",
+    "text": "takwerx/iwi",
+    "title": "takwerx/iwi",
+    "url": "https://github.com/takwerx/iwi"
+   }
+  },
+  {
+   "key": "carlosgt91/icu-ng",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-12T16:59:46Z",
+    "description": "ICU NG: camera streaming plugin for ATAK (RTSP/RTSPS/SRT + MISB 0601 KLV) and its companion app ICU NG Capture",
+    "stars": "1",
+    "text": "carlosgt91/icu-ng",
+    "title": "carlosgt91/icu-ng",
+    "url": "https://github.com/carlosgt91/icu-ng"
+   }
+  },
+  {
    "key": "DrLexus11/reticulum-atak",
    "source": "tak-github",
    "fields": {
@@ -858,18 +918,6 @@
     "text": "DrLexus11/reticulum-atak",
     "title": "DrLexus11/reticulum-atak",
     "url": "https://github.com/DrLexus11/reticulum-atak"
-   }
-  },
-  {
-   "key": "gustavtraff/tmm-sensor-planner",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-12T09:50:15Z",
-    "description": "ATAK Plugin",
-    "stars": "0",
-    "text": "gustavtraff/tmm-sensor-planner",
-    "title": "gustavtraff/tmm-sensor-planner",
-    "url": "https://github.com/gustavtraff/tmm-sensor-planner"
    }
   },
   {
@@ -949,7 +997,7 @@
    "fields": {
     "date": "2026-11-10T18:06:53Z",
     "description": "Plugin for ATAK",
-    "stars": "1",
+    "stars": "2",
     "text": "danielciscoswart/MESHCORE-ATAK-Plugin",
     "title": "danielciscoswart/MESHCORE-ATAK-Plugin",
     "url": "https://github.com/danielciscoswart/MESHCORE-ATAK-Plugin"
@@ -977,18 +1025,6 @@
     "text": "takwerx/feature-layer",
     "title": "takwerx/feature-layer",
     "url": "https://github.com/takwerx/feature-layer"
-   }
-  },
-  {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-11T04:34:07Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "6",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
    }
   },
   {
@@ -1090,7 +1126,7 @@
    "key": "takwerx/takwerx-market",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-03T06:49:50Z",
+    "date": "2026-11-12T18:33:17Z",
     "description": "ATAK Plugin: TAKwerx Market — install and update takwerx plugins from inside ATAK. Downloads, guide and issues here.",
     "stars": "18",
     "text": "takwerx/takwerx-market",
@@ -1147,30 +1183,6 @@
    }
   },
   {
-   "key": "TX-RX/TAK-XVoice",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-09T06:27:44Z",
-    "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
-    "stars": "14",
-    "text": "TX-RX/TAK-XVoice",
-    "title": "TX-RX/TAK-XVoice",
-    "url": "https://github.com/TX-RX/TAK-XVoice"
-   }
-  },
-  {
-   "key": "carlosgt91/icu-ng",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-31T20:21:36Z",
-    "description": "ICU NG: camera streaming plugin for ATAK (RTSP/RTSPS/SRT + MISB 0601 KLV) and its companion app ICU NG Capture",
-    "stars": "1",
-    "text": "carlosgt91/icu-ng",
-    "title": "carlosgt91/icu-ng",
-    "url": "https://github.com/carlosgt91/icu-ng"
-   }
-  },
-  {
    "key": "LinearNetworking/SALUTE",
    "source": "tak-github",
    "fields": {
@@ -1180,18 +1192,6 @@
     "text": "LinearNetworking/SALUTE",
     "title": "LinearNetworking/SALUTE",
     "url": "https://github.com/LinearNetworking/SALUTE"
-   }
-  },
-  {
-   "key": "Cloud-RF/Trbotak-plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-31T18:28:26Z",
-    "description": "ATAK plugin for mapping Motorola DMR radios",
-    "stars": "2",
-    "text": "Cloud-RF/Trbotak-plugin",
-    "title": "Cloud-RF/Trbotak-plugin",
-    "url": "https://github.com/Cloud-RF/Trbotak-plugin"
    }
   },
   {
