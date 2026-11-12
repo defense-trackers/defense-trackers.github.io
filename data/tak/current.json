@@ -1,16 +1,28 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-11-12T01:01:10Z",
+ "fetched_at": "2026-11-12T15:22:33Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "matteskes/macTAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-11-12T15:20:58Z",
+    "description": "macTAK - A Team Awareness Kit client for macOS",
+    "stars": "4",
+    "text": "matteskes/macTAK",
+    "title": "matteskes/macTAK",
+    "url": "https://github.com/matteskes/macTAK"
+   }
+  },
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-11T22:04:01Z",
+    "date": "2026-11-12T15:21:36Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "95",
+    "stars": "96",
     "text": "takwerx/infra-TAK",
     "title": "takwerx/infra-TAK",
     "url": "https://github.com/takwerx/infra-TAK"
@@ -26,18 +38,6 @@
     "text": "DByte308/AirTAK",
     "title": "DByte308/AirTAK",
     "url": "https://github.com/DByte308/AirTAK"
-   }
-  },
-  {
-   "key": "matteskes/macTAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-11-11T06:34:01Z",
-    "description": "macTAK - A Team Awareness Kit client for macOS",
-    "stars": "4",
-    "text": "matteskes/macTAK",
-    "title": "matteskes/macTAK",
-    "url": "https://github.com/matteskes/macTAK"
    }
   },
   {
@@ -849,12 +849,36 @@
    }
   },
   {
+   "key": "DrLexus11/reticulum-atak",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-12T06:50:31Z",
+    "description": "ATAK reticulum mesh plugin",
+    "stars": "0",
+    "text": "DrLexus11/reticulum-atak",
+    "title": "DrLexus11/reticulum-atak",
+    "url": "https://github.com/DrLexus11/reticulum-atak"
+   }
+  },
+  {
+   "key": "gustavtraff/tmm-sensor-planner",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-12T09:50:15Z",
+    "description": "ATAK Plugin",
+    "stars": "0",
+    "text": "gustavtraff/tmm-sensor-planner",
+    "title": "gustavtraff/tmm-sensor-planner",
+    "url": "https://github.com/gustavtraff/tmm-sensor-planner"
+   }
+  },
+  {
    "key": "vipersq/TakRequest",
    "source": "tak-github",
    "fields": {
     "date": "2026-11-11T21:32:48Z",
     "description": "ATAK plugin: a request and reporting board for transport (air/sea/land), resupply, SITREP and ACE, shared over CoT with an approval workflow and exercise/MILSIM modes. Not a targeting or fire-support tool.",
-    "stars": "0",
+    "stars": "1",
     "text": "vipersq/TakRequest",
     "title": "vipersq/TakRequest",
     "url": "https://github.com/vipersq/TakRequest"
@@ -866,7 +890,7 @@
    "fields": {
     "date": "2026-11-11T21:21:30Z",
     "description": "Downloads for TAK Assist, an offline LLM plugin for ATAK",
-    "stars": "0",
+    "stars": "1",
     "text": "apexcsfc/takassist-releases",
     "title": "apexcsfc/takassist-releases",
     "url": "https://github.com/apexcsfc/takassist-releases"
@@ -878,7 +902,7 @@
    "fields": {
     "date": "2026-11-11T21:09:56Z",
     "description": "ATAK-CIV plugin that runs a language model on the phone, fully offline",
-    "stars": "0",
+    "stars": "1",
     "text": "apexcsfc/takassist",
     "title": "apexcsfc/takassist",
     "url": "https://github.com/apexcsfc/takassist"
@@ -890,7 +914,7 @@
    "fields": {
     "date": "2026-11-11T12:11:08Z",
     "description": "ATAK plugin for casualty reporting: TCCC card (DD1380) with tappable body diagram, MARCH treatments, vitals alerts, status map markers, MIST and 9-line MEDEVAC over CoT",
-    "stars": "0",
+    "stars": "3",
     "text": "vipersq/Casualty_kit_TAK_CIV",
     "title": "vipersq/Casualty_kit_TAK_CIV",
     "url": "https://github.com/vipersq/Casualty_kit_TAK_CIV"
@@ -902,22 +926,10 @@
    "fields": {
     "date": "2026-11-11T07:38:01Z",
     "description": "TRAINING USE ONLY / 訓練用 — ATAK-CIV plugin for JTAC role training in milsim",
-    "stars": "3",
+    "stars": "4",
     "text": "Hidemas-Suzuki-aka-ZIEK/jtak-training-plugin",
     "title": "Hidemas-Suzuki-aka-ZIEK/jtak-training-plugin",
     "url": "https://github.com/Hidemas-Suzuki-aka-ZIEK/jtak-training-plugin"
-   }
-  },
-  {
-   "key": "DrLexus11/reticulum-atak",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-11T15:44:05Z",
-    "description": "ATAK reticulum mesh plugin",
-    "stars": "0",
-    "text": "DrLexus11/reticulum-atak",
-    "title": "DrLexus11/reticulum-atak",
-    "url": "https://github.com/DrLexus11/reticulum-atak"
    }
   },
   {
@@ -929,18 +941,6 @@
     "text": "jpat-12/TAK-PluginSuite-ATAK_ICU",
     "title": "jpat-12/TAK-PluginSuite-ATAK_ICU",
     "url": "https://github.com/jpat-12/TAK-PluginSuite-ATAK_ICU"
-   }
-  },
-  {
-   "key": "gustavtraff/tmm-sensor-planner",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-12T00:58:59Z",
-    "description": "ATAK Plugin",
-    "stars": "0",
-    "text": "gustavtraff/tmm-sensor-planner",
-    "title": "gustavtraff/tmm-sensor-planner",
-    "url": "https://github.com/gustavtraff/tmm-sensor-planner"
    }
   },
   {
@@ -1188,7 +1188,7 @@
    "fields": {
     "date": "2026-10-31T18:28:26Z",
     "description": "ATAK plugin for mapping Motorola DMR radios",
-    "stars": "1",
+    "stars": "2",
     "text": "Cloud-RF/Trbotak-plugin",
     "title": "Cloud-RF/Trbotak-plugin",
     "url": "https://github.com/Cloud-RF/Trbotak-plugin"
