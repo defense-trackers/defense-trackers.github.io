@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-11-13T14:41:08Z",
+ "fetched_at": "2026-11-13T23:54:39Z",
  "schema_version": 1,
  "records": [
   {
    "key": "matteskes/macTAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-13T06:22:19Z",
+    "date": "2026-11-13T22:40:07Z",
     "description": "macTAK - A Team Awareness Kit client for macOS",
     "stars": "4",
     "text": "matteskes/macTAK",
@@ -20,7 +20,7 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-13T02:10:44Z",
+    "date": "2026-11-13T23:05:38Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "96",
     "text": "takwerx/infra-TAK",
@@ -56,7 +56,7 @@
    "key": "rixau/atak-reactive",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-08T04:59:15Z",
+    "date": "2026-11-13T23:14:58Z",
     "description": "Build ATAK (Android Team Awareness Kit) plugin UIs with React and TypeScript. Typed WebView bridge, hot reload, incremental adoption.",
     "stars": "2",
     "text": "rixau/atak-reactive",
@@ -720,6 +720,17 @@
    }
   },
   {
+   "key": "FreeTAKTeam/R3AKT",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2026-11-13T17:27:04Z",
+    "stars": "0",
+    "text": "FreeTAKTeam/R3AKT",
+    "title": "FreeTAKTeam/R3AKT",
+    "url": "https://github.com/FreeTAKTeam/R3AKT"
+   }
+  },
+  {
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
@@ -816,7 +827,7 @@
    "key": "FreeTAKTeam/YARA",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-13T01:32:02Z",
+    "date": "2026-11-13T16:13:08Z",
     "description": "Yet Another Reticulum Application (aka MeschChat-RS)",
     "stars": "2",
     "text": "FreeTAKTeam/YARA",
@@ -840,7 +851,7 @@
    "key": "FreeTAKTeam/r3akt-uas",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-11T21:16:15Z",
+    "date": "2026-11-13T18:29:28Z",
     "description": "Independent R3AKT DJI flying application using shared Rust libraries, RCH telemetry, REM-compatible radar and markers, and separate video streaming.",
     "stars": "0",
     "text": "FreeTAKTeam/r3akt-uas",
@@ -852,7 +863,7 @@
    "key": "gustavtraff/tmm-sensor-planner",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-13T04:53:31Z",
+    "date": "2026-11-13T22:40:17Z",
     "description": "ATAK Plugin",
     "stars": "0",
     "text": "gustavtraff/tmm-sensor-planner",
@@ -864,12 +875,36 @@
    "key": "TX-RX/TAK-XVoice",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-13T04:30:14Z",
+    "date": "2026-11-13T23:22:53Z",
     "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
     "stars": "14",
     "text": "TX-RX/TAK-XVoice",
     "title": "TX-RX/TAK-XVoice",
     "url": "https://github.com/TX-RX/TAK-XVoice"
+   }
+  },
+  {
+   "key": "carlosgt91/icu-ng",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-13T18:15:13Z",
+    "description": "ICU NG: camera streaming plugin for ATAK (RTSP/RTSPS/SRT + MISB 0601 KLV) and its companion app ICU NG Capture",
+    "stars": "1",
+    "text": "carlosgt91/icu-ng",
+    "title": "carlosgt91/icu-ng",
+    "url": "https://github.com/carlosgt91/icu-ng"
+   }
+  },
+  {
+   "key": "takwerx/takwerx-market",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-13T17:41:42Z",
+    "description": "ATAK Plugin: TAKwerx Market — install and update takwerx plugins from inside ATAK. Downloads, guide and issues here.",
+    "stars": "18",
+    "text": "takwerx/takwerx-market",
+    "title": "takwerx/takwerx-market",
+    "url": "https://github.com/takwerx/takwerx-market"
    }
   },
   {
@@ -906,18 +941,6 @@
     "text": "takwerx/iwi",
     "title": "takwerx/iwi",
     "url": "https://github.com/takwerx/iwi"
-   }
-  },
-  {
-   "key": "carlosgt91/icu-ng",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-12T16:59:46Z",
-    "description": "ICU NG: camera streaming plugin for ATAK (RTSP/RTSPS/SRT + MISB 0601 KLV) and its companion app ICU NG Capture",
-    "stars": "1",
-    "text": "carlosgt91/icu-ng",
-    "title": "carlosgt91/icu-ng",
-    "url": "https://github.com/carlosgt91/icu-ng"
    }
   },
   {
@@ -1100,18 +1123,6 @@
    }
   },
   {
-   "key": "C4-Raven/c4raven-clear-plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-04T05:50:38Z",
-    "description": "C4 Raven Remote Clear ATAK-CIV plugin: signed remote Clear Content command from the C4 Raven server",
-    "stars": "0",
-    "text": "C4-Raven/c4raven-clear-plugin",
-    "title": "C4-Raven/c4raven-clear-plugin",
-    "url": "https://github.com/C4-Raven/c4raven-clear-plugin"
-   }
-  },
-  {
    "key": "Ben-Holman12/ATAK-EW-Communications-Plugin",
    "source": "tak-github",
    "fields": {
@@ -1120,18 +1131,6 @@
     "text": "Ben-Holman12/ATAK-EW-Communications-Plugin",
     "title": "Ben-Holman12/ATAK-EW-Communications-Plugin",
     "url": "https://github.com/Ben-Holman12/ATAK-EW-Communications-Plugin"
-   }
-  },
-  {
-   "key": "takwerx/takwerx-market",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-12T18:33:17Z",
-    "description": "ATAK Plugin: TAKwerx Market — install and update takwerx plugins from inside ATAK. Downloads, guide and issues here.",
-    "stars": "18",
-    "text": "takwerx/takwerx-market",
-    "title": "takwerx/takwerx-market",
-    "url": "https://github.com/takwerx/takwerx-market"
    }
   },
   {
@@ -1192,6 +1191,18 @@
     "text": "LinearNetworking/SALUTE",
     "title": "LinearNetworking/SALUTE",
     "url": "https://github.com/LinearNetworking/SALUTE"
+   }
+  },
+  {
+   "key": "Cloud-RF/Trbotak-plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-10-31T18:28:26Z",
+    "description": "ATAK plugin for mapping Motorola DMR radios",
+    "stars": "2",
+    "text": "Cloud-RF/Trbotak-plugin",
+    "title": "Cloud-RF/Trbotak-plugin",
+    "url": "https://github.com/Cloud-RF/Trbotak-plugin"
    }
   },
   {
