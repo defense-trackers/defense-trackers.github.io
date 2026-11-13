@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-11-12T23:54:19Z",
+ "fetched_at": "2026-11-13T14:41:08Z",
  "schema_version": 1,
  "records": [
   {
    "key": "matteskes/macTAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-12T22:18:21Z",
+    "date": "2026-11-13T06:22:19Z",
     "description": "macTAK - A Team Awareness Kit client for macOS",
     "stars": "4",
     "text": "matteskes/macTAK",
@@ -20,7 +20,7 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-12T20:39:15Z",
+    "date": "2026-11-13T02:10:44Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "96",
     "text": "takwerx/infra-TAK",
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-11T16:21:43Z",
+    "date": "2026-11-13T02:34:41Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "44",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -816,7 +816,7 @@
    "key": "FreeTAKTeam/YARA",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-04T15:10:34Z",
+    "date": "2026-11-13T01:32:02Z",
     "description": "Yet Another Reticulum Application (aka MeschChat-RS)",
     "stars": "2",
     "text": "FreeTAKTeam/YARA",
@@ -849,22 +849,10 @@
    }
   },
   {
-   "key": "TX-RX/TAK-XVoice",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-12T23:52:43Z",
-    "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
-    "stars": "14",
-    "text": "TX-RX/TAK-XVoice",
-    "title": "TX-RX/TAK-XVoice",
-    "url": "https://github.com/TX-RX/TAK-XVoice"
-   }
-  },
-  {
    "key": "gustavtraff/tmm-sensor-planner",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-12T23:35:20Z",
+    "date": "2026-11-13T04:53:31Z",
     "description": "ATAK Plugin",
     "stars": "0",
     "text": "gustavtraff/tmm-sensor-planner",
@@ -873,15 +861,39 @@
    }
   },
   {
+   "key": "TX-RX/TAK-XVoice",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-13T04:30:14Z",
+    "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
+    "stars": "14",
+    "text": "TX-RX/TAK-XVoice",
+    "title": "TX-RX/TAK-XVoice",
+    "url": "https://github.com/TX-RX/TAK-XVoice"
+   }
+  },
+  {
    "key": "takwerx/atak-plugins",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-12T19:25:31Z",
+    "date": "2026-11-13T00:35:48Z",
     "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
     "stars": "6",
     "text": "takwerx/atak-plugins",
     "title": "takwerx/atak-plugins",
     "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
+   "key": "takwerx/firecast",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-13T00:27:17Z",
+    "description": "ATAK Plugin: FireCast — satellite heat detections and a fire spread model that runs on the device, with buildings and people reached. Downloads, guide and issues here.",
+    "stars": "2",
+    "text": "takwerx/firecast",
+    "title": "takwerx/firecast",
+    "url": "https://github.com/takwerx/firecast"
    }
   },
   {
@@ -985,7 +997,7 @@
    "source": "tak-github",
    "fields": {
     "date": "2026-11-11T03:52:23Z",
-    "stars": "10",
+    "stars": "11",
     "text": "jpat-12/TAK-PluginSuite-ATAK_ICU",
     "title": "jpat-12/TAK-PluginSuite-ATAK_ICU",
     "url": "https://github.com/jpat-12/TAK-PluginSuite-ATAK_ICU"
@@ -1073,18 +1085,6 @@
     "text": "GPTmadeit/convoy",
     "title": "GPTmadeit/convoy",
     "url": "https://github.com/GPTmadeit/convoy"
-   }
-  },
-  {
-   "key": "takwerx/firecast",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-05T02:41:14Z",
-    "description": "ATAK Plugin: FireCast — satellite heat detections and a fire spread model that runs on the device, with buildings and people reached. Downloads, guide and issues here.",
-    "stars": "2",
-    "text": "takwerx/firecast",
-    "title": "takwerx/firecast",
-    "url": "https://github.com/takwerx/firecast"
    }
   },
   {
