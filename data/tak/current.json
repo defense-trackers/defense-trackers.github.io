@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-11-13T23:54:39Z",
+ "fetched_at": "2026-11-14T13:38:21Z",
  "schema_version": 1,
  "records": [
   {
    "key": "matteskes/macTAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-13T22:40:07Z",
+    "date": "2026-11-14T08:07:12Z",
     "description": "macTAK - A Team Awareness Kit client for macOS",
     "stars": "4",
     "text": "matteskes/macTAK",
@@ -20,9 +20,9 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-13T23:05:38Z",
+    "date": "2026-11-14T13:37:59Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "96",
+    "stars": "97",
     "text": "takwerx/infra-TAK",
     "title": "takwerx/infra-TAK",
     "url": "https://github.com/takwerx/infra-TAK"
@@ -827,7 +827,7 @@
    "key": "FreeTAKTeam/YARA",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-13T16:13:08Z",
+    "date": "2026-11-14T13:13:14Z",
     "description": "Yet Another Reticulum Application (aka MeschChat-RS)",
     "stars": "2",
     "text": "FreeTAKTeam/YARA",
@@ -851,12 +851,36 @@
    "key": "FreeTAKTeam/r3akt-uas",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-13T18:29:28Z",
+    "date": "2026-11-14T13:12:59Z",
     "description": "Independent R3AKT DJI flying application using shared Rust libraries, RCH telemetry, REM-compatible radar and markers, and separate video streaming.",
     "stars": "0",
     "text": "FreeTAKTeam/r3akt-uas",
     "title": "FreeTAKTeam/r3akt-uas",
     "url": "https://github.com/FreeTAKTeam/r3akt-uas"
+   }
+  },
+  {
+   "key": "jdlee77/lonewolf",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-14T03:36:10Z",
+    "description": "Lone Worker plugin for ATAK",
+    "stars": "0",
+    "text": "jdlee77/lonewolf",
+    "title": "jdlee77/lonewolf",
+    "url": "https://github.com/jdlee77/lonewolf"
+   }
+  },
+  {
+   "key": "TX-RX/TAK-XVoice",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-14T00:05:34Z",
+    "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
+    "stars": "15",
+    "text": "TX-RX/TAK-XVoice",
+    "title": "TX-RX/TAK-XVoice",
+    "url": "https://github.com/TX-RX/TAK-XVoice"
    }
   },
   {
@@ -869,18 +893,6 @@
     "text": "gustavtraff/tmm-sensor-planner",
     "title": "gustavtraff/tmm-sensor-planner",
     "url": "https://github.com/gustavtraff/tmm-sensor-planner"
-   }
-  },
-  {
-   "key": "TX-RX/TAK-XVoice",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-13T23:22:53Z",
-    "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
-    "stars": "14",
-    "text": "TX-RX/TAK-XVoice",
-    "title": "TX-RX/TAK-XVoice",
-    "url": "https://github.com/TX-RX/TAK-XVoice"
    }
   },
   {
@@ -1191,18 +1203,6 @@
     "text": "LinearNetworking/SALUTE",
     "title": "LinearNetworking/SALUTE",
     "url": "https://github.com/LinearNetworking/SALUTE"
-   }
-  },
-  {
-   "key": "Cloud-RF/Trbotak-plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-10-31T18:28:26Z",
-    "description": "ATAK plugin for mapping Motorola DMR radios",
-    "stars": "2",
-    "text": "Cloud-RF/Trbotak-plugin",
-    "title": "Cloud-RF/Trbotak-plugin",
-    "url": "https://github.com/Cloud-RF/Trbotak-plugin"
    }
   },
   {

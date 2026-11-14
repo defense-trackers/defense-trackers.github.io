@@ -1,7 +1,7 @@
 {
  "source": "ai-spending",
  "tracker": "ai-spending",
- "fetched_at": "2026-11-13T23:52:08Z",
+ "fetched_at": "2026-11-14T13:36:46Z",
  "schema_version": 1,
  "records": [
   {
@@ -425,18 +425,6 @@
    }
   },
   {
-   "key": "CONT_AWD_HR001122C0009_9700_-NONE-_-NONE-",
-   "source": "ai-spending-contracts",
-   "fields": {
-    "agency": "Department of Defense",
-    "amount": "4.45225061e+06",
-    "description": "EO14042 PERCEPTUALLY-ENABLED TASK GUIDANCE (PTG)- DEVELOP ARTIFICIAL INTELLIGENCE (AI) TECHNOLOGIES TO HELP USERS PERFORM COMPLEX PHYSICAL TASKS",
-    "text": "SRI INTERNATIONAL",
-    "title": "SRI INTERNATIONAL",
-    "url": "https://www.usaspending.gov/award/CONT_AWD_HR001122C0009_9700_-NONE-_-NONE-/"
-   }
-  },
-  {
    "key": "CONT_AWD_FA860924CB002_9700_-NONE-_-NONE-",
    "source": "ai-spending-contracts",
    "fields": {
@@ -602,6 +590,18 @@
     "text": "SYSTEMS \u0026 TECHNOLOGY RESEARCH LLC",
     "title": "SYSTEMS \u0026 TECHNOLOGY RESEARCH LLC",
     "url": "https://www.usaspending.gov/award/CONT_AWD_W56KGU24C0023_9700_-NONE-_-NONE-/"
+   }
+  },
+  {
+   "key": "CONT_AWD_N0017325C2428_9700_-NONE-_-NONE-",
+   "source": "ai-spending-contracts",
+   "fields": {
+    "agency": "Department of Defense",
+    "amount": "2.35174063e+06",
+    "description": "HUMAN SYSTEMS INTEGRATION CONSIDERATIONS WITH ARTIFICIAL INTELLIGENCE / MACHINE LEARNING TECHNOLOGIES",
+    "text": "STRATEGIC ANALYSIS, INC.",
+    "title": "STRATEGIC ANALYSIS, INC.",
+    "url": "https://www.usaspending.gov/award/CONT_AWD_N0017325C2428_9700_-NONE-_-NONE-/"
    }
   },
   {
