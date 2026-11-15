@@ -1,7 +1,7 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-11-15T14:01:30Z",
+ "fetched_at": "2026-11-15T23:11:49Z",
  "schema_version": 1,
  "records": [
   {
@@ -20,7 +20,7 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-15T09:17:18Z",
+    "date": "2026-11-15T23:01:55Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "97",
     "text": "takwerx/infra-TAK",
@@ -94,7 +94,7 @@
    "fields": {
     "date": "2026-11-02T04:38:31Z",
     "description": "PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.",
-    "stars": "257",
+    "stars": "258",
     "text": "snstac/pytak",
     "title": "snstac/pytak",
     "url": "https://github.com/snstac/pytak"
@@ -640,7 +640,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-15T14:00:05Z",
+    "date": "2026-11-15T21:50:15Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "114",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -734,7 +734,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-15T13:37:37Z",
+    "date": "2026-11-15T21:50:11Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "44",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -769,7 +769,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-15T13:57:00Z",
+    "date": "2026-11-15T22:12:38Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "37",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -851,7 +851,7 @@
    "key": "FreeTAKTeam/r3akt-uas",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-14T21:38:52Z",
+    "date": "2026-11-15T19:44:54Z",
     "description": "Independent R3AKT DJI flying application using shared Rust libraries, RCH telemetry, REM-compatible radar and markers, and separate video streaming.",
     "stars": "0",
     "text": "FreeTAKTeam/r3akt-uas",
@@ -860,10 +860,58 @@
    }
   },
   {
+   "key": "ke8tqb/HBC-ATAK-Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-15T22:59:05Z",
+    "description": "Implements HBC protocol for a streamline ATAK plugin",
+    "stars": "11",
+    "text": "ke8tqb/HBC-ATAK-Plugin",
+    "title": "ke8tqb/HBC-ATAK-Plugin",
+    "url": "https://github.com/ke8tqb/HBC-ATAK-Plugin"
+   }
+  },
+  {
+   "key": "Suzuki-Hidemasa/jtak-training-plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-15T21:40:07Z",
+    "description": "TRAINING USE ONLY / 訓練用 — ATAK-CIV plugin for JTAC role training in milsim",
+    "stars": "5",
+    "text": "Suzuki-Hidemasa/jtak-training-plugin",
+    "title": "Suzuki-Hidemasa/jtak-training-plugin",
+    "url": "https://github.com/Suzuki-Hidemasa/jtak-training-plugin"
+   }
+  },
+  {
+   "key": "TX-TAK/TAK-XVoice",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-15T17:22:52Z",
+    "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
+    "stars": "16",
+    "text": "TX-TAK/TAK-XVoice",
+    "title": "TX-TAK/TAK-XVoice",
+    "url": "https://github.com/TX-TAK/TAK-XVoice"
+   }
+  },
+  {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-15T15:47:13Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "7",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
    "key": "takwerx/sit-rep",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-15T03:09:54Z",
+    "date": "2026-11-15T15:43:06Z",
     "description": "ATAK Plugin: Sit Rep — a one-shot situation report for any area from public agency data. Downloads, guide and issues here.",
     "stars": "0",
     "text": "takwerx/sit-rep",
@@ -881,30 +929,6 @@
     "text": "gustavtraff/tmm-sensor-planner",
     "title": "gustavtraff/tmm-sensor-planner",
     "url": "https://github.com/gustavtraff/tmm-sensor-planner"
-   }
-  },
-  {
-   "key": "ke8tqb/HBC-ATAK-Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-14T21:57:07Z",
-    "description": "Implements HBC protocol for a streamline ATAK plugin",
-    "stars": "11",
-    "text": "ke8tqb/HBC-ATAK-Plugin",
-    "title": "ke8tqb/HBC-ATAK-Plugin",
-    "url": "https://github.com/ke8tqb/HBC-ATAK-Plugin"
-   }
-  },
-  {
-   "key": "TX-TAK/TAK-XVoice",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-15T05:04:30Z",
-    "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
-    "stars": "16",
-    "text": "TX-TAK/TAK-XVoice",
-    "title": "TX-TAK/TAK-XVoice",
-    "url": "https://github.com/TX-TAK/TAK-XVoice"
    }
   },
   {
@@ -941,18 +965,6 @@
     "text": "takwerx/takwerx-market",
     "title": "takwerx/takwerx-market",
     "url": "https://github.com/takwerx/takwerx-market"
-   }
-  },
-  {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-13T00:35:48Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "7",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
    }
   },
   {
@@ -1037,18 +1049,6 @@
     "text": "vipersq/Casualty_kit_TAK_CIV",
     "title": "vipersq/Casualty_kit_TAK_CIV",
     "url": "https://github.com/vipersq/Casualty_kit_TAK_CIV"
-   }
-  },
-  {
-   "key": "Hidemas-Suzuki-aka-ZIEK/jtak-training-plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-11T07:38:01Z",
-    "description": "TRAINING USE ONLY / 訓練用 — ATAK-CIV plugin for JTAC role training in milsim",
-    "stars": "5",
-    "text": "Hidemas-Suzuki-aka-ZIEK/jtak-training-plugin",
-    "title": "Hidemas-Suzuki-aka-ZIEK/jtak-training-plugin",
-    "url": "https://github.com/Hidemas-Suzuki-aka-ZIEK/jtak-training-plugin"
    }
   },
   {
