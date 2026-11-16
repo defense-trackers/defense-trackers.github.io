@@ -1,7 +1,7 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-11-15T23:11:18Z",
+ "fetched_at": "2026-11-16T15:55:27Z",
  "schema_version": 1,
  "records": [
   {
@@ -20,7 +20,7 @@
    "key": "cisagov/trustymail",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-10-22T18:45:18Z",
+    "date": "2026-11-16T04:04:30Z",
     "description": "Scan domains and return data based on trustworthy email best practices",
     "stars": "225",
     "text": "cisagov/trustymail",
@@ -296,9 +296,9 @@
    "key": "cisagov/cset",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-11-13T10:35:37Z",
+    "date": "2026-11-16T00:58:44Z",
     "description": "Cybersecurity Evaluation Tool",
-    "stars": "13",
+    "stars": "14",
     "text": "cisagov/cset",
     "title": "cisagov/cset",
     "url": "https://github.com/cisagov/cset"
@@ -584,9 +584,9 @@
    "key": "idaholab/moose",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-11-15T22:25:07Z",
+    "date": "2026-11-16T05:18:33Z",
     "description": "Multiphysics Object Oriented Simulation Environment: A robust, modern, extendable, finite element/finite volume framework that excels at creating complex multiphysics simulations.",
-    "stars": "2407",
+    "stars": "2408",
     "text": "idaholab/moose",
     "title": "idaholab/moose",
     "url": "https://github.com/idaholab/moose"
@@ -728,7 +728,7 @@
    "key": "lanl/LaGriT",
    "source": "oss-lanl",
    "fields": {
-    "date": "2026-11-13T15:59:30Z",
+    "date": "2026-11-16T04:10:38Z",
     "description": "Los Alamos Grid Toolbox (LaGriT) is a library of user callable tools that provide mesh generation, mesh optimization and dynamic mesh maintenance in two and three dimensions.",
     "stars": "139",
     "text": "lanl/LaGriT",
@@ -850,7 +850,7 @@
    "fields": {
     "date": "2026-11-14T01:08:50Z",
     "description": "RAJA Performance Portability Layer (C++)",
-    "stars": "606",
+    "stars": "607",
     "text": "llnl/RAJA",
     "title": "llnl/RAJA",
     "url": "https://github.com/llnl/RAJA"
@@ -871,7 +871,7 @@
    "key": "llnl/GridDyn",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-11-15T22:44:39Z",
+    "date": "2026-11-16T03:18:37Z",
     "description": "GridDyn is an open-source power transmission simulation software package",
     "stars": "63",
     "text": "llnl/GridDyn",
@@ -967,7 +967,7 @@
    "key": "nasa/Open-Source-Catalog",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-07-13T19:47:24Z",
+    "date": "2026-11-16T14:54:37Z",
     "description": "Contains the NASA open source software catalog for automatic deployment to code.nasa.gov",
     "stars": "352",
     "text": "nasa/Open-Source-Catalog",
@@ -1015,7 +1015,7 @@
    "key": "nasa/earthdata-search",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-11-14T00:46:14Z",
+    "date": "2026-11-16T15:48:13Z",
     "description": "Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.",
     "stars": "830",
     "text": "nasa/earthdata-search",
@@ -1195,7 +1195,7 @@
    "key": "nsacyber/HIRS",
    "source": "oss-nsacyber",
    "fields": {
-    "date": "2026-11-13T17:07:31Z",
+    "date": "2026-11-16T15:48:59Z",
     "description": "Trusted Computing based services supporting TPM provisioning and supply chain validation concepts. #nsacyber",
     "stars": "216",
     "text": "nsacyber/HIRS",
@@ -1350,7 +1350,7 @@
    "key": "ORNL/GridKit",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-11-15T22:19:43Z",
+    "date": "2026-11-16T15:50:48Z",
     "description": "Modeling framework for power systems simulations and analysis.",
     "stars": "27",
     "text": "ORNL/GridKit",
@@ -1472,7 +1472,7 @@
    "fields": {
     "date": "2026-11-13T15:51:07Z",
     "description": "FiPy is a Finite Volume PDE solver written in Python",
-    "stars": "650",
+    "stars": "651",
     "text": "usnistgov/fipy",
     "title": "usnistgov/fipy",
     "url": "https://github.com/usnistgov/fipy"
