@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-11-16T15:55:58Z",
+ "fetched_at": "2026-11-17T02:07:10Z",
  "schema_version": 1,
  "records": [
   {
    "key": "matteskes/macTAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-14T21:50:56Z",
+    "date": "2026-11-17T02:02:26Z",
     "description": "macTAK - A Team Awareness Kit client for macOS",
     "stars": "5",
     "text": "matteskes/macTAK",
@@ -17,10 +17,22 @@
    }
   },
   {
+   "key": "m3lixir/minimum-viable-phishing-training",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-11-17T00:49:33Z",
+    "description": "A lightweight, open-source security awareness training kit for small teams, with practical phishing exercises and facilitator guidance.",
+    "stars": "0",
+    "text": "m3lixir/minimum-viable-phishing-training",
+    "title": "m3lixir/minimum-viable-phishing-training",
+    "url": "https://github.com/m3lixir/minimum-viable-phishing-training"
+   }
+  },
+  {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-16T13:59:43Z",
+    "date": "2026-11-17T02:06:15Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "97",
     "text": "takwerx/infra-TAK",
@@ -350,18 +362,6 @@
     "text": "jwdinius/taktile",
     "title": "jwdinius/taktile",
     "url": "https://github.com/jwdinius/taktile"
-   }
-  },
-  {
-   "key": "catsmells/LTAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2025-12-13T19:36:30Z",
-    "description": "Linux-based Team Awareness Kit",
-    "stars": "2",
-    "text": "catsmells/LTAK",
-    "title": "catsmells/LTAK",
-    "url": "https://github.com/catsmells/LTAK"
    }
   },
   {
@@ -734,7 +734,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-15T21:50:11Z",
+    "date": "2026-11-17T01:56:20Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "44",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -747,7 +747,7 @@
    "source": "tak-freetak",
    "fields": {
     "date": "2026-02-15T15:33:46Z",
-    "stars": "20",
+    "stars": "21",
     "text": "FreeTAKTeam/Reticulum_Meshtastic_Integration",
     "title": "FreeTAKTeam/Reticulum_Meshtastic_Integration",
     "url": "https://github.com/FreeTAKTeam/Reticulum_Meshtastic_Integration"
@@ -769,7 +769,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-15T22:12:38Z",
+    "date": "2026-11-16T17:16:24Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "37",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -839,7 +839,7 @@
    "key": "FreeTAKTeam/atn-rangefinder",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-11T00:21:46Z",
+    "date": "2026-11-16T21:57:54Z",
     "description": "ATN rangefinder protocol research, REM integration planning, and synthetic fixtures",
     "stars": "0",
     "text": "FreeTAKTeam/atn-rangefinder",
@@ -860,15 +860,39 @@
    }
   },
   {
+   "key": "fearmikey/TAKwave",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-17T01:29:56Z",
+    "description": "TAK over ordinary analog radios: share ATAK positions, chat and markers via 1200-baud AFSK. No plugin, no cell service. 100% FOSS Android app.",
+    "stars": "0",
+    "text": "fearmikey/TAKwave",
+    "title": "fearmikey/TAKwave",
+    "url": "https://github.com/fearmikey/TAKwave"
+   }
+  },
+  {
    "key": "aegorsuch/atak-plugin-weartak-companion",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-16T15:11:43Z",
+    "date": "2026-11-17T01:03:40Z",
     "description": "Public mirror of TAK.gov atak-plugin-weartak-companion",
-    "stars": "3",
+    "stars": "4",
     "text": "aegorsuch/atak-plugin-weartak-companion",
     "title": "aegorsuch/atak-plugin-weartak-companion",
     "url": "https://github.com/aegorsuch/atak-plugin-weartak-companion"
+   }
+  },
+  {
+   "key": "gustavtraff/tmm-sensor-planner",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-16T20:32:25Z",
+    "description": "ATAK Plugin",
+    "stars": "0",
+    "text": "gustavtraff/tmm-sensor-planner",
+    "title": "gustavtraff/tmm-sensor-planner",
+    "url": "https://github.com/gustavtraff/tmm-sensor-planner"
    }
   },
   {
@@ -887,7 +911,7 @@
    "key": "takwerx/atak-plugins",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-16T06:38:08Z",
+    "date": "2026-11-17T01:28:58Z",
     "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
     "stars": "7",
     "text": "takwerx/atak-plugins",
@@ -913,7 +937,7 @@
    "fields": {
     "date": "2026-11-16T04:35:26Z",
     "description": "Lone Worker plugin for ATAK",
-    "stars": "0",
+    "stars": "1",
     "text": "jdlee77/lonewolf",
     "title": "jdlee77/lonewolf",
     "url": "https://github.com/jdlee77/lonewolf"
@@ -965,18 +989,6 @@
     "text": "takwerx/sit-rep",
     "title": "takwerx/sit-rep",
     "url": "https://github.com/takwerx/sit-rep"
-   }
-  },
-  {
-   "key": "gustavtraff/tmm-sensor-planner",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-15T00:08:52Z",
-    "description": "ATAK Plugin",
-    "stars": "0",
-    "text": "gustavtraff/tmm-sensor-planner",
-    "title": "gustavtraff/tmm-sensor-planner",
-    "url": "https://github.com/gustavtraff/tmm-sensor-planner"
    }
   },
   {
@@ -1192,17 +1204,6 @@
     "text": "s2underground/HAZ-TAK",
     "title": "s2underground/HAZ-TAK",
     "url": "https://github.com/s2underground/HAZ-TAK"
-   }
-  },
-  {
-   "key": "Ben-Holman12/ATAK-EW-Communications-Plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-03T18:58:26Z",
-    "stars": "0",
-    "text": "Ben-Holman12/ATAK-EW-Communications-Plugin",
-    "title": "Ben-Holman12/ATAK-EW-Communications-Plugin",
-    "url": "https://github.com/Ben-Holman12/ATAK-EW-Communications-Plugin"
    }
   },
   {
