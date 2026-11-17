@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-11-17T02:07:10Z",
+ "fetched_at": "2026-11-17T16:08:14Z",
  "schema_version": 1,
  "records": [
   {
    "key": "matteskes/macTAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-17T02:02:26Z",
+    "date": "2026-11-17T06:42:11Z",
     "description": "macTAK - A Team Awareness Kit client for macOS",
     "stars": "5",
     "text": "matteskes/macTAK",
@@ -20,7 +20,7 @@
    "key": "m3lixir/minimum-viable-phishing-training",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-17T00:49:33Z",
+    "date": "2026-11-17T02:26:10Z",
     "description": "A lightweight, open-source security awareness training kit for small teams, with practical phishing exercises and facilitator guidance.",
     "stars": "0",
     "text": "m3lixir/minimum-viable-phishing-training",
@@ -32,7 +32,7 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-17T02:06:15Z",
+    "date": "2026-11-17T15:24:57Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "97",
     "text": "takwerx/infra-TAK",
@@ -176,7 +176,7 @@
    "key": "engindearing-projects/OmniTAK-Android",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-11T21:51:03Z",
+    "date": "2026-11-17T15:35:54Z",
     "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
     "stars": "23",
     "text": "engindearing-projects/OmniTAK-Android",
@@ -188,7 +188,7 @@
    "key": "engindearing-projects/OmniTAK-iOS",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-10-11T21:21:15Z",
+    "date": "2026-11-17T14:52:28Z",
     "description": "Open-source TAK (Team Awareness Kit) client for iPhone and iPad. Swift + SwiftUI. Apache 2.0.",
     "stars": "10",
     "text": "engindearing-projects/OmniTAK-iOS",
@@ -640,7 +640,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-16T12:01:18Z",
+    "date": "2026-11-17T02:29:20Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "114",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/R3AKT",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-13T17:27:04Z",
+    "date": "2026-11-17T12:48:14Z",
     "stars": "0",
     "text": "FreeTAKTeam/R3AKT",
     "title": "FreeTAKTeam/R3AKT",
@@ -734,7 +734,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-17T01:56:20Z",
+    "date": "2026-11-17T06:59:48Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "44",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -769,7 +769,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-16T17:16:24Z",
+    "date": "2026-11-17T12:34:21Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "37",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -851,7 +851,7 @@
    "key": "FreeTAKTeam/r3akt-uas",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-15T19:44:54Z",
+    "date": "2026-11-17T07:18:41Z",
     "description": "Independent R3AKT DJI flying application using shared Rust libraries, RCH telemetry, REM-compatible radar and markers, and separate video streaming.",
     "stars": "0",
     "text": "FreeTAKTeam/r3akt-uas",
@@ -860,27 +860,27 @@
    }
   },
   {
-   "key": "fearmikey/TAKwave",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-17T01:29:56Z",
-    "description": "TAK over ordinary analog radios: share ATAK positions, chat and markers via 1200-baud AFSK. No plugin, no cell service. 100% FOSS Android app.",
-    "stars": "0",
-    "text": "fearmikey/TAKwave",
-    "title": "fearmikey/TAKwave",
-    "url": "https://github.com/fearmikey/TAKwave"
-   }
-  },
-  {
    "key": "aegorsuch/atak-plugin-weartak-companion",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-17T01:03:40Z",
+    "date": "2026-11-17T02:50:53Z",
     "description": "Public mirror of TAK.gov atak-plugin-weartak-companion",
     "stars": "4",
     "text": "aegorsuch/atak-plugin-weartak-companion",
     "title": "aegorsuch/atak-plugin-weartak-companion",
     "url": "https://github.com/aegorsuch/atak-plugin-weartak-companion"
+   }
+  },
+  {
+   "key": "fearmikey/TAKwave",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-17T01:29:56Z",
+    "description": "TAK over ordinary analog radios: share ATAK positions, chat and markers via 1200-baud AFSK. No plugin, no cell service. 100% FOSS Android app.",
+    "stars": "3",
+    "text": "fearmikey/TAKwave",
+    "title": "fearmikey/TAKwave",
+    "url": "https://github.com/fearmikey/TAKwave"
    }
   },
   {
@@ -925,7 +925,7 @@
    "fields": {
     "date": "2026-11-16T06:09:41Z",
     "description": "ATAK Plugin: Atmosphere — fire and hazmat weather on the map: the forecast at a point, radar, satellite, wind, rain, smoke, rivers and the sea. Downloads, guide and issues here.",
-    "stars": "4",
+    "stars": "5",
     "text": "takwerx/atmosphere",
     "title": "takwerx/atmosphere",
     "url": "https://github.com/takwerx/atmosphere"
