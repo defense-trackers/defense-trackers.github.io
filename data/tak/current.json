@@ -1,19 +1,55 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-11-17T16:08:14Z",
+ "fetched_at": "2026-11-18T01:19:35Z",
  "schema_version": 1,
  "records": [
   {
    "key": "matteskes/macTAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-17T06:42:11Z",
+    "date": "2026-11-18T01:14:00Z",
     "description": "macTAK - A Team Awareness Kit client for macOS",
     "stars": "5",
     "text": "matteskes/macTAK",
     "title": "matteskes/macTAK",
     "url": "https://github.com/matteskes/macTAK"
+   }
+  },
+  {
+   "key": "engindearing-projects/OmniTAK-Android",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-11-17T20:35:23Z",
+    "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
+    "stars": "23",
+    "text": "engindearing-projects/OmniTAK-Android",
+    "title": "engindearing-projects/OmniTAK-Android",
+    "url": "https://github.com/engindearing-projects/OmniTAK-Android"
+   }
+  },
+  {
+   "key": "engindearing-projects/OmniTAK-iOS",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-11-17T20:05:38Z",
+    "description": "Open-source TAK (Team Awareness Kit) client for iPhone and iPad. Swift + SwiftUI. Apache 2.0.",
+    "stars": "10",
+    "text": "engindearing-projects/OmniTAK-iOS",
+    "title": "engindearing-projects/OmniTAK-iOS",
+    "url": "https://github.com/engindearing-projects/OmniTAK-iOS"
+   }
+  },
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-11-18T01:14:56Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "97",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -26,18 +62,6 @@
     "text": "m3lixir/minimum-viable-phishing-training",
     "title": "m3lixir/minimum-viable-phishing-training",
     "url": "https://github.com/m3lixir/minimum-viable-phishing-training"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-11-17T15:24:57Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "97",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -173,30 +197,6 @@
    }
   },
   {
-   "key": "engindearing-projects/OmniTAK-Android",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-11-17T15:35:54Z",
-    "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
-    "stars": "23",
-    "text": "engindearing-projects/OmniTAK-Android",
-    "title": "engindearing-projects/OmniTAK-Android",
-    "url": "https://github.com/engindearing-projects/OmniTAK-Android"
-   }
-  },
-  {
-   "key": "engindearing-projects/OmniTAK-iOS",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-11-17T14:52:28Z",
-    "description": "Open-source TAK (Team Awareness Kit) client for iPhone and iPad. Swift + SwiftUI. Apache 2.0.",
-    "stars": "10",
-    "text": "engindearing-projects/OmniTAK-iOS",
-    "title": "engindearing-projects/OmniTAK-iOS",
-    "url": "https://github.com/engindearing-projects/OmniTAK-iOS"
-   }
-  },
-  {
    "key": "Exonical/tak-rs",
    "source": "tak-cot",
    "fields": {
@@ -293,6 +293,18 @@
    }
   },
   {
+   "key": "Youssefzdb/CloneKit",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-05-13T19:35:22Z",
+    "description": "Red Team tool — clone any login page for authorized phishing simulations and security awareness campaigns",
+    "stars": "0",
+    "text": "Youssefzdb/CloneKit",
+    "title": "Youssefzdb/CloneKit",
+    "url": "https://github.com/Youssefzdb/CloneKit"
+   }
+  },
+  {
    "key": "coreywagehoft/go-tak",
    "source": "tak-cot",
    "fields": {
@@ -353,24 +365,12 @@
    }
   },
   {
-   "key": "jwdinius/taktile",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-01-03T17:29:00Z",
-    "description": "C++ Client Library for Team Awareness Kit (TAK)",
-    "stars": "1",
-    "text": "jwdinius/taktile",
-    "title": "jwdinius/taktile",
-    "url": "https://github.com/jwdinius/taktile"
-   }
-  },
-  {
    "key": "FreeTAKTeam/FreeTakServer",
    "source": "tak-freetak",
    "fields": {
     "date": "2024-10-29T11:52:00Z",
     "description": "Situational Awareness Server compatible with TAK clients",
-    "stars": "968",
+    "stars": "967",
     "text": "FreeTAKTeam/FreeTakServer",
     "title": "FreeTAKTeam/FreeTakServer",
     "url": "https://github.com/FreeTAKTeam/FreeTakServer"
@@ -594,7 +594,7 @@
    "key": "FreeTAKTeam/.github",
    "source": "tak-freetak",
    "fields": {
-    "date": "2025-04-16T12:02:44Z",
+    "date": "2026-11-17T19:59:14Z",
     "stars": "0",
     "text": "FreeTAKTeam/.github",
     "title": "FreeTAKTeam/.github",
@@ -640,7 +640,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-17T02:29:20Z",
+    "date": "2026-11-18T01:05:51Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "114",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/R3AKT",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-17T12:48:14Z",
+    "date": "2026-11-17T19:38:42Z",
     "stars": "0",
     "text": "FreeTAKTeam/R3AKT",
     "title": "FreeTAKTeam/R3AKT",
@@ -734,7 +734,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-17T06:59:48Z",
+    "date": "2026-11-18T01:18:36Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "44",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -769,7 +769,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-17T12:34:21Z",
+    "date": "2026-11-18T00:43:50Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "37",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -851,7 +851,7 @@
    "key": "FreeTAKTeam/r3akt-uas",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-17T07:18:41Z",
+    "date": "2026-11-18T01:06:46Z",
     "description": "Independent R3AKT DJI flying application using shared Rust libraries, RCH telemetry, REM-compatible radar and markers, and separate video streaming.",
     "stars": "0",
     "text": "FreeTAKTeam/r3akt-uas",
@@ -860,15 +860,39 @@
    }
   },
   {
+   "key": "cfd2474/TAK_Beacon",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-18T01:06:53Z",
+    "description": "ATAK Plugin: TAK Beacon — keeps reporting your position to your TAK server when ATAK is closed. Downloads, guide and issues here.",
+    "stars": "2",
+    "text": "cfd2474/TAK_Beacon",
+    "title": "cfd2474/TAK_Beacon",
+    "url": "https://github.com/cfd2474/TAK_Beacon"
+   }
+  },
+  {
    "key": "aegorsuch/atak-plugin-weartak-companion",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-17T02:50:53Z",
+    "date": "2026-11-18T01:17:55Z",
     "description": "Public mirror of TAK.gov atak-plugin-weartak-companion",
     "stars": "4",
     "text": "aegorsuch/atak-plugin-weartak-companion",
     "title": "aegorsuch/atak-plugin-weartak-companion",
     "url": "https://github.com/aegorsuch/atak-plugin-weartak-companion"
+   }
+  },
+  {
+   "key": "gustavtraff/tmm-sensor-planner",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-17T23:02:16Z",
+    "description": "ATAK Plugin",
+    "stars": "0",
+    "text": "gustavtraff/tmm-sensor-planner",
+    "title": "gustavtraff/tmm-sensor-planner",
+    "url": "https://github.com/gustavtraff/tmm-sensor-planner"
    }
   },
   {
@@ -881,18 +905,6 @@
     "text": "fearmikey/TAKwave",
     "title": "fearmikey/TAKwave",
     "url": "https://github.com/fearmikey/TAKwave"
-   }
-  },
-  {
-   "key": "gustavtraff/tmm-sensor-planner",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-16T20:32:25Z",
-    "description": "ATAK Plugin",
-    "stars": "0",
-    "text": "gustavtraff/tmm-sensor-planner",
-    "title": "gustavtraff/tmm-sensor-planner",
-    "url": "https://github.com/gustavtraff/tmm-sensor-planner"
    }
   },
   {
@@ -920,12 +932,24 @@
    }
   },
   {
+   "key": "TX-TAK/TAK-XVoice",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-16T06:26:39Z",
+    "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
+    "stars": "17",
+    "text": "TX-TAK/TAK-XVoice",
+    "title": "TX-TAK/TAK-XVoice",
+    "url": "https://github.com/TX-TAK/TAK-XVoice"
+   }
+  },
+  {
    "key": "takwerx/atmosphere",
    "source": "tak-github",
    "fields": {
     "date": "2026-11-16T06:09:41Z",
     "description": "ATAK Plugin: Atmosphere — fire and hazmat weather on the map: the forecast at a point, radar, satellite, wind, rain, smoke, rivers and the sea. Downloads, guide and issues here.",
-    "stars": "5",
+    "stars": "6",
     "text": "takwerx/atmosphere",
     "title": "takwerx/atmosphere",
     "url": "https://github.com/takwerx/atmosphere"
@@ -965,18 +989,6 @@
     "text": "Suzuki-Hidemasa/jtak-training-plugin",
     "title": "Suzuki-Hidemasa/jtak-training-plugin",
     "url": "https://github.com/Suzuki-Hidemasa/jtak-training-plugin"
-   }
-  },
-  {
-   "key": "TX-TAK/TAK-XVoice",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-16T06:26:39Z",
-    "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
-    "stars": "16",
-    "text": "TX-TAK/TAK-XVoice",
-    "title": "TX-TAK/TAK-XVoice",
-    "url": "https://github.com/TX-TAK/TAK-XVoice"
    }
   },
   {
@@ -1120,18 +1132,6 @@
     "text": "danielciscoswart/MESHCORE-ATAK-Plugin",
     "title": "danielciscoswart/MESHCORE-ATAK-Plugin",
     "url": "https://github.com/danielciscoswart/MESHCORE-ATAK-Plugin"
-   }
-  },
-  {
-   "key": "cfd2474/TAK_Beacon",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-10T02:51:54Z",
-    "description": "ATAK Plugin: TAK Beacon — keeps reporting your position to your TAK server when ATAK is closed. Downloads, guide and issues here.",
-    "stars": "2",
-    "text": "cfd2474/TAK_Beacon",
-    "title": "cfd2474/TAK_Beacon",
-    "url": "https://github.com/cfd2474/TAK_Beacon"
    }
   },
   {
