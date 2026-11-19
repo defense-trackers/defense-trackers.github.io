@@ -1,31 +1,43 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-11-19T00:45:30Z",
+ "fetched_at": "2026-11-19T15:51:06Z",
  "schema_version": 1,
  "records": [
   {
-   "key": "engindearing-projects/OmniTAK-Android",
+   "key": "TAK-NZ/tak-deploy",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-19T00:43:41Z",
-    "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
-    "stars": "23",
-    "text": "engindearing-projects/OmniTAK-Android",
-    "title": "engindearing-projects/OmniTAK-Android",
-    "url": "https://github.com/engindearing-projects/OmniTAK-Android"
+    "date": "2026-11-19T05:08:43Z",
+    "description": "One-line installer for TAK (Team Awareness Kit) infrastructure on AWS",
+    "stars": "1",
+    "text": "TAK-NZ/tak-deploy",
+    "title": "TAK-NZ/tak-deploy",
+    "url": "https://github.com/TAK-NZ/tak-deploy"
    }
   },
   {
    "key": "matteskes/macTAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-18T22:10:48Z",
+    "date": "2026-11-19T02:27:40Z",
     "description": "macTAK - A Team Awareness Kit client for macOS",
     "stars": "5",
     "text": "matteskes/macTAK",
     "title": "matteskes/macTAK",
     "url": "https://github.com/matteskes/macTAK"
+   }
+  },
+  {
+   "key": "engindearing-projects/OmniTAK-Android",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-11-19T01:09:25Z",
+    "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
+    "stars": "23",
+    "text": "engindearing-projects/OmniTAK-Android",
+    "title": "engindearing-projects/OmniTAK-Android",
+    "url": "https://github.com/engindearing-projects/OmniTAK-Android"
    }
   },
   {
@@ -56,7 +68,7 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-18T22:11:52Z",
+    "date": "2026-11-19T13:19:33Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "97",
     "text": "takwerx/infra-TAK",
@@ -178,7 +190,7 @@
    "fields": {
     "date": "2026-10-14T05:26:06Z",
     "description": "SwiftTAK (Team Awareness Kit) is a Swift Package for exchanging information with TAK Products",
-    "stars": "30",
+    "stars": "31",
     "text": "flighttactics/SwiftTAK",
     "title": "flighttactics/SwiftTAK",
     "url": "https://github.com/flighttactics/SwiftTAK"
@@ -350,18 +362,6 @@
     "text": "xuha233/project-team-kit",
     "title": "xuha233/project-team-kit",
     "url": "https://github.com/xuha233/project-team-kit"
-   }
-  },
-  {
-   "key": "5hay196/reticulum-atak-tango",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-02-23T00:45:51Z",
-    "description": "Reticulum mesh networking integration with ATAK (Android Team Awareness Kit) and Project Tango devices — hardware compatibility, CoT bridging, plugin architecture, and 3D sensor fusion for off-grid situational awareness.",
-    "stars": "2",
-    "text": "5hay196/reticulum-atak-tango",
-    "title": "5hay196/reticulum-atak-tango",
-    "url": "https://github.com/5hay196/reticulum-atak-tango"
    }
   },
   {
@@ -640,7 +640,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-18T20:17:46Z",
+    "date": "2026-11-19T15:48:17Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "114",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -734,7 +734,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-18T19:25:35Z",
+    "date": "2026-11-19T15:49:06Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "44",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -769,7 +769,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-18T23:11:06Z",
+    "date": "2026-11-19T12:19:53Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "37",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -804,7 +804,7 @@
    "key": "FreeTAKTeam/ReticulumDistributedObject",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-10T14:22:27Z",
+    "date": "2026-11-19T13:35:27Z",
     "stars": "1",
     "text": "FreeTAKTeam/ReticulumDistributedObject",
     "title": "FreeTAKTeam/ReticulumDistributedObject",
@@ -812,15 +812,15 @@
    }
   },
   {
-   "key": "FreeTAKTeam/rpp-spec",
+   "key": "FreeTAKTeam/rreticulum-package-protocol",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-18T18:58:10Z",
+    "date": "2026-11-19T13:42:01Z",
     "description": "Normative specification for the Reticulum Package Protocol",
     "stars": "1",
-    "text": "FreeTAKTeam/rpp-spec",
-    "title": "FreeTAKTeam/rpp-spec",
-    "url": "https://github.com/FreeTAKTeam/rpp-spec"
+    "text": "FreeTAKTeam/rreticulum-package-protocol",
+    "title": "FreeTAKTeam/rreticulum-package-protocol",
+    "url": "https://github.com/FreeTAKTeam/rreticulum-package-protocol"
    }
   },
   {
@@ -863,7 +863,7 @@
    "key": "gustavtraff/tmm-sensor-planner",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-18T23:15:48Z",
+    "date": "2026-11-19T14:39:09Z",
     "description": "ATAK Plugin",
     "stars": "0",
     "text": "gustavtraff/tmm-sensor-planner",
@@ -872,15 +872,75 @@
    }
   },
   {
+   "key": "RyanR3/TakVideoWall",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-19T04:49:16Z",
+    "description": "ATAK plugin for simultaneous multi-stream video monitoring: adaptive 2×2 paged grid, CoT-based feed discovery, snap-to-sender map integration.",
+    "stars": "5",
+    "text": "RyanR3/TakVideoWall",
+    "title": "RyanR3/TakVideoWall",
+    "url": "https://github.com/RyanR3/TakVideoWall"
+   }
+  },
+  {
+   "key": "xznhj8129/hermes-atak",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-19T03:57:48Z",
+    "description": "Hermes skill and platform plugin for ATAK and OpenTAKServer integration",
+    "stars": "0",
+    "text": "xznhj8129/hermes-atak",
+    "title": "xznhj8129/hermes-atak",
+    "url": "https://github.com/xznhj8129/hermes-atak"
+   }
+  },
+  {
+   "key": "fearmikey/TAKwave",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-19T02:59:54Z",
+    "description": "TAK over ordinary analog radios: share ATAK positions, chat and markers via 1200-baud AFSK. No plugin, no cell service. 100% FOSS Android app.",
+    "stars": "4",
+    "text": "fearmikey/TAKwave",
+    "title": "fearmikey/TAKwave",
+    "url": "https://github.com/fearmikey/TAKwave"
+   }
+  },
+  {
+   "key": "RemArrow/geronimo-ecoti",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-19T02:33:15Z",
+    "description": "ECOTI Thermal Fusion for Geronimo (VR): thermal-fusion night vision and a panoramic fusion goggle with an ATAK HUD. A GML plugin.",
+    "stars": "0",
+    "text": "RemArrow/geronimo-ecoti",
+    "title": "RemArrow/geronimo-ecoti",
+    "url": "https://github.com/RemArrow/geronimo-ecoti"
+   }
+  },
+  {
    "key": "takwerx/atak-plugins",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-18T15:20:17Z",
+    "date": "2026-11-19T01:34:19Z",
     "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
     "stars": "7",
     "text": "takwerx/atak-plugins",
     "title": "takwerx/atak-plugins",
     "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
+   "key": "takwerx/feature-layer",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-19T01:25:33Z",
+    "description": "ATAK Plugin: Feature Layer — live ArcGIS feature layers from NIFC, SARCOP, CA Air Intel and your own org, with NWCG symbology. Downloads, guide and issues here.",
+    "stars": "2",
+    "text": "takwerx/feature-layer",
+    "title": "takwerx/feature-layer",
+    "url": "https://github.com/takwerx/feature-layer"
    }
   },
   {
@@ -893,18 +953,6 @@
     "text": "takwerx/sit-rep",
     "title": "takwerx/sit-rep",
     "url": "https://github.com/takwerx/sit-rep"
-   }
-  },
-  {
-   "key": "carlosgt91/aerozona",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-18T14:33:15Z",
-    "description": "AeroZona: plugin ATAK para pilotos de UAS en España (zonas UAS ENAIRE, NOTAM, espacio aéreo, METAR/TAF, AEMET). Fork de TAKWERX AirAware.",
-    "stars": "0",
-    "text": "carlosgt91/aerozona",
-    "title": "carlosgt91/aerozona",
-    "url": "https://github.com/carlosgt91/aerozona"
    }
   },
   {
@@ -977,18 +1025,6 @@
     "text": "cfd2474/TAK_Beacon",
     "title": "cfd2474/TAK_Beacon",
     "url": "https://github.com/cfd2474/TAK_Beacon"
-   }
-  },
-  {
-   "key": "fearmikey/TAKwave",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-17T01:29:56Z",
-    "description": "TAK over ordinary analog radios: share ATAK positions, chat and markers via 1200-baud AFSK. No plugin, no cell service. 100% FOSS Android app.",
-    "stars": "4",
-    "text": "fearmikey/TAKwave",
-    "title": "fearmikey/TAKwave",
-    "url": "https://github.com/fearmikey/TAKwave"
    }
   },
   {
@@ -1180,30 +1216,6 @@
     "text": "danielciscoswart/MESHCORE-ATAK-Plugin",
     "title": "danielciscoswart/MESHCORE-ATAK-Plugin",
     "url": "https://github.com/danielciscoswart/MESHCORE-ATAK-Plugin"
-   }
-  },
-  {
-   "key": "takwerx/feature-layer",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-09T05:32:07Z",
-    "description": "ATAK Plugin: Feature Layer — live ArcGIS feature layers from NIFC, SARCOP, CA Air Intel and your own org, with NWCG symbology. Downloads, guide and issues here.",
-    "stars": "2",
-    "text": "takwerx/feature-layer",
-    "title": "takwerx/feature-layer",
-    "url": "https://github.com/takwerx/feature-layer"
-   }
-  },
-  {
-   "key": "aegorsuch/atak-plugin-houndmaster",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-07T23:37:14Z",
-    "description": "Bloodhound order management",
-    "stars": "2",
-    "text": "aegorsuch/atak-plugin-houndmaster",
-    "title": "aegorsuch/atak-plugin-houndmaster",
-    "url": "https://github.com/aegorsuch/atak-plugin-houndmaster"
    }
   },
   {
