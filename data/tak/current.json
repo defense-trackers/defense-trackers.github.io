@@ -1,31 +1,43 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-11-20T00:56:40Z",
+ "fetched_at": "2026-11-20T15:33:26Z",
  "schema_version": 1,
  "records": [
-  {
-   "key": "matteskes/macTAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-11-20T00:45:22Z",
-    "description": "macTAK - A Team Awareness Kit client for macOS",
-    "stars": "5",
-    "text": "matteskes/macTAK",
-    "title": "matteskes/macTAK",
-    "url": "https://github.com/matteskes/macTAK"
-   }
-  },
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-20T00:40:39Z",
+    "date": "2026-11-20T15:19:12Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "97",
     "text": "takwerx/infra-TAK",
     "title": "takwerx/infra-TAK",
     "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
+  {
+   "key": "engindearing-projects/OmniTAK-Android",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-11-20T06:09:54Z",
+    "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
+    "stars": "23",
+    "text": "engindearing-projects/OmniTAK-Android",
+    "title": "engindearing-projects/OmniTAK-Android",
+    "url": "https://github.com/engindearing-projects/OmniTAK-Android"
+   }
+  },
+  {
+   "key": "matteskes/macTAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-11-20T05:19:53Z",
+    "description": "macTAK - A Team Awareness Kit client for macOS",
+    "stars": "5",
+    "text": "matteskes/macTAK",
+    "title": "matteskes/macTAK",
+    "url": "https://github.com/matteskes/macTAK"
    }
   },
   {
@@ -38,18 +50,6 @@
     "text": "TAK-NZ/tak-deploy",
     "title": "TAK-NZ/tak-deploy",
     "url": "https://github.com/TAK-NZ/tak-deploy"
-   }
-  },
-  {
-   "key": "engindearing-projects/OmniTAK-Android",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-11-19T01:09:25Z",
-    "description": "Open-source TAK (Team Awareness Kit) client for Android. Kotlin + Jetpack Compose. Apache 2.0.",
-    "stars": "23",
-    "text": "engindearing-projects/OmniTAK-Android",
-    "title": "engindearing-projects/OmniTAK-Android",
-    "url": "https://github.com/engindearing-projects/OmniTAK-Android"
    }
   },
   {
@@ -430,7 +430,7 @@
    "fields": {
     "date": "2022-08-06T13:17:21Z",
     "description": "a list of hardware and software to be used in conjunction with ATAK platform",
-    "stars": "304",
+    "stars": "305",
     "text": "FreeTAKTeam/openTAKpickList",
     "title": "FreeTAKTeam/openTAKpickList",
     "url": "https://github.com/FreeTAKTeam/openTAKpickList"
@@ -640,7 +640,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-20T00:14:41Z",
+    "date": "2026-11-20T03:04:49Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "114",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -734,7 +734,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-20T00:12:53Z",
+    "date": "2026-11-20T15:12:57Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "44",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -769,7 +769,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-20T00:39:57Z",
+    "date": "2026-11-20T15:33:08Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "37",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -860,6 +860,42 @@
    }
   },
   {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-20T07:19:45Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "7",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
+   "key": "takwerx/sit-rep",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-20T06:25:41Z",
+    "description": "ATAK Plugin: Sit Rep — a one-shot situation report for any area from public agency data. Downloads, guide and issues here.",
+    "stars": "1",
+    "text": "takwerx/sit-rep",
+    "title": "takwerx/sit-rep",
+    "url": "https://github.com/takwerx/sit-rep"
+   }
+  },
+  {
+   "key": "takwerx/evac-zone",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-20T03:44:55Z",
+    "description": "ATAK Plugin: Evac Zone — evacuation zones from the agencies that publish them, drawn in one status color language. Downloads, guide and issues here.",
+    "stars": "2",
+    "text": "takwerx/evac-zone",
+    "title": "takwerx/evac-zone",
+    "url": "https://github.com/takwerx/evac-zone"
+   }
+  },
+  {
    "key": "gustavtraff/tmm-sensor-planner",
    "source": "tak-github",
    "fields": {
@@ -913,7 +949,7 @@
    "fields": {
     "date": "2026-11-19T02:59:54Z",
     "description": "Companion app that carries ATAK positions, GeoChat, markers and emergency alerts over ordinary VHF/UHF radios. It acts as a local TAK server and sends compact CoT packets as 1200-baud AFSK/AX.25 (with FX.25), or over KISS TNCs, P25, DMR, D-STAR and NXDN data. No cell service, no plugin. 100% FOSS, offline, GPL-3.0.",
-    "stars": "4",
+    "stars": "5",
     "text": "fearmikey/TAKwave",
     "title": "fearmikey/TAKwave",
     "url": "https://github.com/fearmikey/TAKwave"
@@ -932,18 +968,6 @@
    }
   },
   {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-19T01:34:19Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "7",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
-   }
-  },
-  {
    "key": "takwerx/feature-layer",
    "source": "tak-github",
    "fields": {
@@ -953,18 +977,6 @@
     "text": "takwerx/feature-layer",
     "title": "takwerx/feature-layer",
     "url": "https://github.com/takwerx/feature-layer"
-   }
-  },
-  {
-   "key": "takwerx/sit-rep",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-18T15:13:51Z",
-    "description": "ATAK Plugin: Sit Rep — a one-shot situation report for any area from public agency data. Downloads, guide and issues here.",
-    "stars": "1",
-    "text": "takwerx/sit-rep",
-    "title": "takwerx/sit-rep",
-    "url": "https://github.com/takwerx/sit-rep"
    }
   },
   {
@@ -1205,17 +1217,6 @@
     "text": "vipersq/Casualty_kit_TAK_CIV",
     "title": "vipersq/Casualty_kit_TAK_CIV",
     "url": "https://github.com/vipersq/Casualty_kit_TAK_CIV"
-   }
-  },
-  {
-   "key": "jpat-12/TAK-PluginSuite-ATAK_ICU",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-11T03:52:23Z",
-    "stars": "11",
-    "text": "jpat-12/TAK-PluginSuite-ATAK_ICU",
-    "title": "jpat-12/TAK-PluginSuite-ATAK_ICU",
-    "url": "https://github.com/jpat-12/TAK-PluginSuite-ATAK_ICU"
    }
   },
   {
