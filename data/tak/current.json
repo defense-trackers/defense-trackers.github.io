@@ -1,31 +1,31 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-11-21T14:45:03Z",
+ "fetched_at": "2026-11-21T23:36:36Z",
  "schema_version": 1,
  "records": [
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-11-21T13:17:50Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "98",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
-   }
-  },
   {
    "key": "matteskes/macTAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-21T04:33:25Z",
+    "date": "2026-11-21T17:07:30Z",
     "description": "macTAK - A Team Awareness Kit client for macOS",
     "stars": "5",
     "text": "matteskes/macTAK",
     "title": "matteskes/macTAK",
     "url": "https://github.com/matteskes/macTAK"
+   }
+  },
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-11-21T22:10:47Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "98",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -178,7 +178,7 @@
    "fields": {
     "date": "2026-10-19T23:52:43Z",
     "description": "A comprehensive web application for bridging tracking devices and services to TAK (Team Awareness Kit) servers.",
-    "stars": "41",
+    "stars": "42",
     "text": "trakbridge/trakbridge",
     "title": "trakbridge/trakbridge",
     "url": "https://github.com/trakbridge/trakbridge"
@@ -640,7 +640,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-20T22:52:50Z",
+    "date": "2026-11-21T17:03:16Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "114",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -769,7 +769,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-21T14:39:52Z",
+    "date": "2026-11-21T17:02:45Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "37",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -851,7 +851,7 @@
    "key": "FreeTAKTeam/r3akt-uas",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-20T22:30:01Z",
+    "date": "2026-11-21T14:50:51Z",
     "description": "Independent R3AKT DJI flying application using shared Rust libraries, RCH telemetry, REM-compatible radar and markers, and separate video streaming.",
     "stars": "0",
     "text": "FreeTAKTeam/r3akt-uas",
@@ -860,15 +860,39 @@
    }
   },
   {
-   "key": "Crank-Git/ATAKMapDownloader",
+   "key": "Crank-Git/ATAK-Map-Downloader",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-21T13:17:26Z",
+    "date": "2026-11-21T21:51:02Z",
     "description": "Download map tiles from various sources and create MBTiles databases for ATAK. Includes CLI tools, web interface, and support for 30+ MOBAC XML map sources.",
     "stars": "4",
-    "text": "Crank-Git/ATAKMapDownloader",
-    "title": "Crank-Git/ATAKMapDownloader",
-    "url": "https://github.com/Crank-Git/ATAKMapDownloader"
+    "text": "Crank-Git/ATAK-Map-Downloader",
+    "title": "Crank-Git/ATAK-Map-Downloader",
+    "url": "https://github.com/Crank-Git/ATAK-Map-Downloader"
+   }
+  },
+  {
+   "key": "takwerx/takwerx-market",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-21T18:54:51Z",
+    "description": "ATAK Plugin: TAKwerx Market — install and update takwerx plugins from inside ATAK. Downloads, guide and issues here.",
+    "stars": "22",
+    "text": "takwerx/takwerx-market",
+    "title": "takwerx/takwerx-market",
+    "url": "https://github.com/takwerx/takwerx-market"
+   }
+  },
+  {
+   "key": "RyanR3/TAKParcelsTemplate",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-21T15:52:48Z",
+    "description": "Build an ATAK parcels plugin for your county or region: live ArcGIS or your own GIS data, field-mapping tools, tak.gov zip with security checks, Claude Code skill",
+    "stars": "0",
+    "text": "RyanR3/TAKParcelsTemplate",
+    "title": "RyanR3/TAKParcelsTemplate",
+    "url": "https://github.com/RyanR3/TAKParcelsTemplate"
    }
   },
   {
@@ -899,7 +923,7 @@
    "key": "takwerx/atak-plugins",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-21T03:11:53Z",
+    "date": "2026-11-21T18:22:47Z",
     "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
     "stars": "7",
     "text": "takwerx/atak-plugins",
@@ -1148,18 +1172,6 @@
    }
   },
   {
-   "key": "takwerx/takwerx-market",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-21T03:11:08Z",
-    "description": "ATAK Plugin: TAKwerx Market — install and update takwerx plugins from inside ATAK. Downloads, guide and issues here.",
-    "stars": "21",
-    "text": "takwerx/takwerx-market",
-    "title": "takwerx/takwerx-market",
-    "url": "https://github.com/takwerx/takwerx-market"
-   }
-  },
-  {
    "key": "takwerx/firecast",
    "source": "tak-github",
    "fields": {
@@ -1205,18 +1217,6 @@
     "text": "apexcsfc/takassist-releases",
     "title": "apexcsfc/takassist-releases",
     "url": "https://github.com/apexcsfc/takassist-releases"
-   }
-  },
-  {
-   "key": "apexcsfc/takassist",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-11T21:09:56Z",
-    "description": "ATAK-CIV plugin that runs a language model on the phone, fully offline",
-    "stars": "1",
-    "text": "apexcsfc/takassist",
-    "title": "apexcsfc/takassist",
-    "url": "https://github.com/apexcsfc/takassist"
    }
   },
   {
