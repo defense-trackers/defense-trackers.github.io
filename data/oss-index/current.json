@@ -1,7 +1,7 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-11-21T00:14:30Z",
+ "fetched_at": "2026-11-21T14:44:31Z",
  "schema_version": 1,
  "records": [
   {
@@ -56,7 +56,7 @@
    "key": "cisagov/gatherer",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-11-20T20:48:23Z",
+    "date": "2026-11-21T14:43:26Z",
     "description": "Gather domains as a precursor to scanning",
     "stars": "22",
     "text": "cisagov/gatherer",
@@ -92,7 +92,7 @@
    "key": "cisagov/trustymail_reporter",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-11-17T13:33:26Z",
+    "date": "2026-11-21T12:52:49Z",
     "description": "Generate Trustworthy Email reports based on scan data",
     "stars": "13",
     "text": "cisagov/trustymail_reporter",
@@ -262,7 +262,7 @@
    "fields": {
     "date": "2026-11-19T22:21:31Z",
     "description": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.",
-    "stars": "2609",
+    "stars": "2610",
     "text": "cisagov/Malcolm",
     "title": "cisagov/Malcolm",
     "url": "https://github.com/cisagov/Malcolm"
@@ -584,7 +584,7 @@
    "key": "idaholab/moose",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-11-20T22:15:13Z",
+    "date": "2026-11-21T09:21:55Z",
     "description": "Multiphysics Object Oriented Simulation Environment: A robust, modern, extendable, finite element/finite volume framework that excels at creating complex multiphysics simulations.",
     "stars": "2410",
     "text": "idaholab/moose",
@@ -656,7 +656,7 @@
    "key": "idaholab/repository-statistics",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-11-14T00:16:34Z",
+    "date": "2026-11-21T00:16:43Z",
     "description": "Tracking repository statistics over time for projects on GitHub under IdahoLab, IdahoLabResearch and IdahoLabUnsupported.",
     "stars": "1",
     "text": "idaholab/repository-statistics",
@@ -728,7 +728,7 @@
    "key": "lanl/LaGriT",
    "source": "oss-lanl",
    "fields": {
-    "date": "2026-11-18T13:35:26Z",
+    "date": "2026-11-21T05:42:26Z",
     "description": "Los Alamos Grid Toolbox (LaGriT) is a library of user callable tools that provide mesh generation, mesh optimization and dynamic mesh maintenance in two and three dimensions.",
     "stars": "139",
     "text": "lanl/LaGriT",
@@ -800,7 +800,7 @@
    "key": "llnl/conduit",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-11-20T23:38:16Z",
+    "date": "2026-11-21T01:47:26Z",
     "description": "Simplified Data Exchange for HPC Simulations",
     "stars": "252",
     "text": "llnl/conduit",
@@ -814,7 +814,7 @@
    "fields": {
     "date": "2026-11-19T20:07:39Z",
     "description": "Caliper is an instrumentation and performance profiling library",
-    "stars": "422",
+    "stars": "423",
     "text": "llnl/Caliper",
     "title": "llnl/Caliper",
     "url": "https://github.com/llnl/Caliper"
@@ -871,7 +871,7 @@
    "key": "llnl/GridDyn",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-11-21T00:09:46Z",
+    "date": "2026-11-21T05:31:04Z",
     "description": "GridDyn is an open-source power transmission simulation software package",
     "stars": "64",
     "text": "llnl/GridDyn",
@@ -897,7 +897,7 @@
    "fields": {
     "date": "2026-11-05T16:33:31Z",
     "description": "Cyber Threat Intelligence Repository expressed in STIX 2.0",
-    "stars": "2172",
+    "stars": "2173",
     "text": "mitre/cti",
     "title": "mitre/cti",
     "url": "https://github.com/mitre/cti"

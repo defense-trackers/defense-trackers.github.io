@@ -1,31 +1,31 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-11-21T00:15:01Z",
+ "fetched_at": "2026-11-21T14:45:03Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-11-21T13:17:50Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "98",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
   {
    "key": "matteskes/macTAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-21T00:11:35Z",
+    "date": "2026-11-21T04:33:25Z",
     "description": "macTAK - A Team Awareness Kit client for macOS",
     "stars": "5",
     "text": "matteskes/macTAK",
     "title": "matteskes/macTAK",
     "url": "https://github.com/matteskes/macTAK"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-11-20T22:02:59Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "97",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -370,7 +370,7 @@
    "fields": {
     "date": "2024-10-29T11:52:00Z",
     "description": "Situational Awareness Server compatible with TAK clients",
-    "stars": "966",
+    "stars": "967",
     "text": "FreeTAKTeam/FreeTakServer",
     "title": "FreeTAKTeam/FreeTakServer",
     "url": "https://github.com/FreeTAKTeam/FreeTakServer"
@@ -769,7 +769,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-20T17:02:23Z",
+    "date": "2026-11-21T14:39:52Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "37",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -860,10 +860,34 @@
    }
   },
   {
+   "key": "Crank-Git/ATAKMapDownloader",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-21T13:17:26Z",
+    "description": "Download map tiles from various sources and create MBTiles databases for ATAK. Includes CLI tools, web interface, and support for 30+ MOBAC XML map sources.",
+    "stars": "4",
+    "text": "Crank-Git/ATAKMapDownloader",
+    "title": "Crank-Git/ATAKMapDownloader",
+    "url": "https://github.com/Crank-Git/ATAKMapDownloader"
+   }
+  },
+  {
+   "key": "DrLexus11/reticulum-atak",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-21T11:54:48Z",
+    "description": "ATAK reticulum mesh plugin",
+    "stars": "0",
+    "text": "DrLexus11/reticulum-atak",
+    "title": "DrLexus11/reticulum-atak",
+    "url": "https://github.com/DrLexus11/reticulum-atak"
+   }
+  },
+  {
    "key": "gustavtraff/tmm-sensor-planner",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-20T23:45:34Z",
+    "date": "2026-11-21T10:14:18Z",
     "description": "ATAK Plugin",
     "stars": "0",
     "text": "gustavtraff/tmm-sensor-planner",
@@ -875,7 +899,7 @@
    "key": "takwerx/atak-plugins",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-20T07:19:45Z",
+    "date": "2026-11-21T03:11:53Z",
     "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
     "stars": "7",
     "text": "takwerx/atak-plugins",
@@ -899,7 +923,7 @@
    "key": "takwerx/evac-zone",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-20T03:44:55Z",
+    "date": "2026-11-21T03:10:49Z",
     "description": "ATAK Plugin: Evac Zone — evacuation zones from the agencies that publish them, drawn in one status color language. Downloads, guide and issues here.",
     "stars": "2",
     "text": "takwerx/evac-zone",
@@ -949,7 +973,7 @@
    "fields": {
     "date": "2026-11-19T02:59:54Z",
     "description": "Companion app that carries ATAK positions, GeoChat, markers and emergency alerts over ordinary VHF/UHF radios. It acts as a local TAK server and sends compact CoT packets as 1200-baud AFSK/AX.25 (with FX.25), or over KISS TNCs, P25, DMR, D-STAR and NXDN data. No cell service, no plugin. 100% FOSS, offline, GPL-3.0.",
-    "stars": "5",
+    "stars": "6",
     "text": "fearmikey/TAKwave",
     "title": "fearmikey/TAKwave",
     "url": "https://github.com/fearmikey/TAKwave"
@@ -971,7 +995,7 @@
    "key": "takwerx/feature-layer",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-19T01:25:33Z",
+    "date": "2026-11-21T03:10:50Z",
     "description": "ATAK Plugin: Feature Layer — live ArcGIS feature layers from NIFC, SARCOP, CA Air Intel and your own org, with NWCG symbology. Downloads, guide and issues here.",
     "stars": "2",
     "text": "takwerx/feature-layer",
@@ -983,7 +1007,7 @@
    "key": "takwerx/cursorwerx",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-18T11:07:18Z",
+    "date": "2026-11-21T03:10:45Z",
     "description": "ATAK Plugin: Cursorwerx — makes ATAK work with a mouse or trackpad: wheel zoom at the cursor, wheel scrolling in panes, click-drag panning, a Back button. Downloads, guide and issues here.",
     "stars": "4",
     "text": "takwerx/cursorwerx",
@@ -1019,7 +1043,7 @@
    "key": "takwerx/cloudtak-crosstak-plugin",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-20T23:04:46Z",
+    "date": "2026-11-21T04:05:28Z",
     "description": "CloudTAK plugin: see other agencies' TAK Servers on your CloudTAK map, with your own account on each (send, Data Sync, your position)",
     "stars": "0",
     "text": "takwerx/cloudtak-crosstak-plugin",
@@ -1079,7 +1103,7 @@
    "key": "takwerx/atmosphere",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-16T06:09:41Z",
+    "date": "2026-11-21T03:10:40Z",
     "description": "ATAK Plugin: Atmosphere — fire and hazmat weather on the map: the forecast at a point, radar, satellite, wind, rain, smoke, rivers and the sea. Downloads, guide and issues here.",
     "stars": "6",
     "text": "takwerx/atmosphere",
@@ -1127,7 +1151,7 @@
    "key": "takwerx/takwerx-market",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-13T17:41:42Z",
+    "date": "2026-11-21T03:11:08Z",
     "description": "ATAK Plugin: TAKwerx Market — install and update takwerx plugins from inside ATAK. Downloads, guide and issues here.",
     "stars": "21",
     "text": "takwerx/takwerx-market",
@@ -1157,18 +1181,6 @@
     "text": "takwerx/iwi",
     "title": "takwerx/iwi",
     "url": "https://github.com/takwerx/iwi"
-   }
-  },
-  {
-   "key": "DrLexus11/reticulum-atak",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-12T06:50:31Z",
-    "description": "ATAK reticulum mesh plugin",
-    "stars": "0",
-    "text": "DrLexus11/reticulum-atak",
-    "title": "DrLexus11/reticulum-atak",
-    "url": "https://github.com/DrLexus11/reticulum-atak"
    }
   },
   {
@@ -1205,18 +1217,6 @@
     "text": "apexcsfc/takassist",
     "title": "apexcsfc/takassist",
     "url": "https://github.com/apexcsfc/takassist"
-   }
-  },
-  {
-   "key": "vipersq/Casualty_kit_TAK_CIV",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-11T12:11:08Z",
-    "description": "ATAK plugin for casualty reporting: TCCC card (DD1380) with tappable body diagram, MARCH treatments, vitals alerts, status map markers, MIST and 9-line MEDEVAC over CoT",
-    "stars": "3",
-    "text": "vipersq/Casualty_kit_TAK_CIV",
-    "title": "vipersq/Casualty_kit_TAK_CIV",
-    "url": "https://github.com/vipersq/Casualty_kit_TAK_CIV"
    }
   },
   {
