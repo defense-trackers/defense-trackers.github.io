@@ -1,7 +1,7 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-11-20T15:32:53Z",
+ "fetched_at": "2026-11-21T00:14:30Z",
  "schema_version": 1,
  "records": [
   {
@@ -56,7 +56,7 @@
    "key": "cisagov/gatherer",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-11-19T18:36:34Z",
+    "date": "2026-11-20T20:48:23Z",
     "description": "Gather domains as a precursor to scanning",
     "stars": "22",
     "text": "cisagov/gatherer",
@@ -262,7 +262,7 @@
    "fields": {
     "date": "2026-11-19T22:21:31Z",
     "description": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.",
-    "stars": "2608",
+    "stars": "2609",
     "text": "cisagov/Malcolm",
     "title": "cisagov/Malcolm",
     "url": "https://github.com/cisagov/Malcolm"
@@ -344,7 +344,7 @@
    "key": "cisagov/gophish-docker",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-07-07T22:52:43Z",
+    "date": "2026-11-20T22:00:02Z",
     "description": "Docker container for the gophish phishing framework.",
     "stars": "54",
     "text": "cisagov/gophish-docker",
@@ -584,9 +584,9 @@
    "key": "idaholab/moose",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-11-20T15:21:02Z",
+    "date": "2026-11-20T22:15:13Z",
     "description": "Multiphysics Object Oriented Simulation Environment: A robust, modern, extendable, finite element/finite volume framework that excels at creating complex multiphysics simulations.",
-    "stars": "2409",
+    "stars": "2410",
     "text": "idaholab/moose",
     "title": "idaholab/moose",
     "url": "https://github.com/idaholab/moose"
@@ -800,7 +800,7 @@
    "key": "llnl/conduit",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-11-19T04:16:23Z",
+    "date": "2026-11-20T23:38:16Z",
     "description": "Simplified Data Exchange for HPC Simulations",
     "stars": "252",
     "text": "llnl/conduit",
@@ -871,7 +871,7 @@
    "key": "llnl/GridDyn",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-11-19T06:09:48Z",
+    "date": "2026-11-21T00:09:46Z",
     "description": "GridDyn is an open-source power transmission simulation software package",
     "stars": "64",
     "text": "llnl/GridDyn",
@@ -931,7 +931,7 @@
    "key": "mitre/vulcan",
    "source": "oss-mitre",
    "fields": {
-    "date": "2026-11-13T03:57:48Z",
+    "date": "2026-11-20T18:25:37Z",
     "description": "A web application to streamline the development of STIGs from SRGs",
     "stars": "87",
     "text": "mitre/vulcan",
@@ -979,7 +979,7 @@
    "key": "nasa/trick",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-11-19T23:43:22Z",
+    "date": "2026-11-20T22:38:08Z",
     "description": "Trick Simulation Environment.  Trick provides a common set of simulation capabilities and utilities to build simulations automatically.",
     "stars": "185",
     "text": "nasa/trick",
@@ -993,7 +993,7 @@
    "fields": {
     "date": "2026-11-12T16:50:09Z",
     "description": "A web based mission control framework. ",
-    "stars": "13223",
+    "stars": "13225",
     "text": "nasa/openmct",
     "title": "nasa/openmct",
     "url": "https://github.com/nasa/openmct"
@@ -1003,7 +1003,7 @@
    "key": "nasa/earthdata-search",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-11-20T01:27:20Z",
+    "date": "2026-11-20T20:56:52Z",
     "description": "Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.",
     "stars": "829",
     "text": "nasa/earthdata-search",
@@ -1063,7 +1063,7 @@
    "key": "nasa/Common-Metadata-Repository",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-11-20T01:43:34Z",
+    "date": "2026-11-20T22:20:19Z",
     "description": "The Common Metadata Repository (CMR) is a high-performance, high-quality, continuously evolving metadata system that catalogs Earth Science data and associated service metadata records. These metadata records are registered, modified, discovered, and accessed through programmatic interfaces leveraging standard protocols and APIs.",
     "stars": "403",
     "text": "nasa/Common-Metadata-Repository",
@@ -1183,7 +1183,7 @@
    "key": "nsacyber/HIRS",
    "source": "oss-nsacyber",
    "fields": {
-    "date": "2026-11-19T14:37:48Z",
+    "date": "2026-11-20T18:55:10Z",
     "description": "Trusted Computing based services supporting TPM provisioning and supply chain validation concepts. #nsacyber",
     "stars": "218",
     "text": "nsacyber/HIRS",
@@ -1219,7 +1219,7 @@
    "key": "ORNL/TASMANIAN",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-11-18T17:15:13Z",
+    "date": "2026-11-20T18:50:39Z",
     "description": "The Toolkit for Adaptive Stochastic Modeling and Non-Intrusive ApproximatioN",
     "stars": "78",
     "text": "ORNL/TASMANIAN",
@@ -1244,7 +1244,7 @@
    "source": "oss-ornl",
    "fields": {
     "date": "2026-11-19T23:07:29Z",
-    "stars": "310",
+    "stars": "311",
     "text": "ORNL/HeCBench",
     "title": "ORNL/HeCBench",
     "url": "https://github.com/ORNL/HeCBench"
@@ -1338,7 +1338,7 @@
    "key": "ORNL/GridKit",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-11-20T13:37:04Z",
+    "date": "2026-11-20T22:50:40Z",
     "description": "Modeling framework for power systems simulations and analysis.",
     "stars": "27",
     "text": "ORNL/GridKit",

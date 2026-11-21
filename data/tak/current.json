@@ -1,14 +1,26 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-11-20T15:33:26Z",
+ "fetched_at": "2026-11-21T00:15:01Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "matteskes/macTAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-11-21T00:11:35Z",
+    "description": "macTAK - A Team Awareness Kit client for macOS",
+    "stars": "5",
+    "text": "matteskes/macTAK",
+    "title": "matteskes/macTAK",
+    "url": "https://github.com/matteskes/macTAK"
+   }
+  },
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-20T15:19:12Z",
+    "date": "2026-11-20T22:02:59Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "97",
     "text": "takwerx/infra-TAK",
@@ -26,18 +38,6 @@
     "text": "engindearing-projects/OmniTAK-Android",
     "title": "engindearing-projects/OmniTAK-Android",
     "url": "https://github.com/engindearing-projects/OmniTAK-Android"
-   }
-  },
-  {
-   "key": "matteskes/macTAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-11-20T05:19:53Z",
-    "description": "macTAK - A Team Awareness Kit client for macOS",
-    "stars": "5",
-    "text": "matteskes/macTAK",
-    "title": "matteskes/macTAK",
-    "url": "https://github.com/matteskes/macTAK"
    }
   },
   {
@@ -116,7 +116,7 @@
    "key": "rixau/atak-reactive",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-13T23:14:58Z",
+    "date": "2026-11-20T23:14:38Z",
     "description": "Build ATAK (Android Team Awareness Kit) plugin UIs with React and TypeScript. Typed WebView bridge, hot reload, incremental adoption.",
     "stars": "2",
     "text": "rixau/atak-reactive",
@@ -142,7 +142,7 @@
    "fields": {
     "date": "2026-11-02T04:38:31Z",
     "description": "PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.",
-    "stars": "258",
+    "stars": "259",
     "text": "snstac/pytak",
     "title": "snstac/pytak",
     "url": "https://github.com/snstac/pytak"
@@ -640,7 +640,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-20T03:04:49Z",
+    "date": "2026-11-20T22:52:50Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "114",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -734,7 +734,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-20T15:12:57Z",
+    "date": "2026-11-20T18:31:22Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "44",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -769,7 +769,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-20T15:33:08Z",
+    "date": "2026-11-20T17:02:23Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "37",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -851,12 +851,24 @@
    "key": "FreeTAKTeam/r3akt-uas",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-18T17:15:30Z",
+    "date": "2026-11-20T22:30:01Z",
     "description": "Independent R3AKT DJI flying application using shared Rust libraries, RCH telemetry, REM-compatible radar and markers, and separate video streaming.",
     "stars": "0",
     "text": "FreeTAKTeam/r3akt-uas",
     "title": "FreeTAKTeam/r3akt-uas",
     "url": "https://github.com/FreeTAKTeam/r3akt-uas"
+   }
+  },
+  {
+   "key": "gustavtraff/tmm-sensor-planner",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-20T23:45:34Z",
+    "description": "ATAK Plugin",
+    "stars": "0",
+    "text": "gustavtraff/tmm-sensor-planner",
+    "title": "gustavtraff/tmm-sensor-planner",
+    "url": "https://github.com/gustavtraff/tmm-sensor-planner"
    }
   },
   {
@@ -893,18 +905,6 @@
     "text": "takwerx/evac-zone",
     "title": "takwerx/evac-zone",
     "url": "https://github.com/takwerx/evac-zone"
-   }
-  },
-  {
-   "key": "gustavtraff/tmm-sensor-planner",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-19T21:58:22Z",
-    "description": "ATAK Plugin",
-    "stars": "0",
-    "text": "gustavtraff/tmm-sensor-planner",
-    "title": "gustavtraff/tmm-sensor-planner",
-    "url": "https://github.com/gustavtraff/tmm-sensor-planner"
    }
   },
   {
@@ -1019,7 +1019,7 @@
    "key": "takwerx/cloudtak-crosstak-plugin",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-18T04:39:34Z",
+    "date": "2026-11-20T23:04:46Z",
     "description": "CloudTAK plugin: see other agencies' TAK Servers on your CloudTAK map, with your own account on each (send, Data Sync, your position)",
     "stars": "0",
     "text": "takwerx/cloudtak-crosstak-plugin",
