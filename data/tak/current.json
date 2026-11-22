@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-11-21T23:36:36Z",
+ "fetched_at": "2026-11-22T14:40:57Z",
  "schema_version": 1,
  "records": [
   {
    "key": "matteskes/macTAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-21T17:07:30Z",
+    "date": "2026-11-22T05:35:58Z",
     "description": "macTAK - A Team Awareness Kit client for macOS",
     "stars": "5",
     "text": "matteskes/macTAK",
@@ -20,7 +20,7 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-21T22:10:47Z",
+    "date": "2026-11-22T13:59:27Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "98",
     "text": "takwerx/infra-TAK",
@@ -860,6 +860,18 @@
    }
   },
   {
+   "key": "BubsGarage/APRS2TAK",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-22T08:41:08Z",
+    "description": "Show APRSdroid stations on the ATAK map with real APRS symbols. No plugin needed.",
+    "stars": "0",
+    "text": "BubsGarage/APRS2TAK",
+    "title": "BubsGarage/APRS2TAK",
+    "url": "https://github.com/BubsGarage/APRS2TAK"
+   }
+  },
+  {
    "key": "Crank-Git/ATAK-Map-Downloader",
    "source": "tak-github",
    "fields": {
@@ -875,7 +887,7 @@
    "key": "takwerx/takwerx-market",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-21T18:54:51Z",
+    "date": "2026-11-22T13:52:47Z",
     "description": "ATAK Plugin: TAKwerx Market — install and update takwerx plugins from inside ATAK. Downloads, guide and issues here.",
     "stars": "22",
     "text": "takwerx/takwerx-market",
@@ -889,7 +901,7 @@
    "fields": {
     "date": "2026-11-21T15:52:48Z",
     "description": "Build an ATAK parcels plugin for your county or region: live ArcGIS or your own GIS data, field-mapping tools, tak.gov zip with security checks, Claude Code skill",
-    "stars": "0",
+    "stars": "2",
     "text": "RyanR3/TAKParcelsTemplate",
     "title": "RyanR3/TAKParcelsTemplate",
     "url": "https://github.com/RyanR3/TAKParcelsTemplate"
@@ -923,7 +935,7 @@
    "key": "takwerx/atak-plugins",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-21T18:22:47Z",
+    "date": "2026-11-22T09:03:02Z",
     "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
     "stars": "7",
     "text": "takwerx/atak-plugins",
@@ -947,7 +959,7 @@
    "key": "takwerx/evac-zone",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-21T03:10:49Z",
+    "date": "2026-11-22T02:16:54Z",
     "description": "ATAK Plugin: Evac Zone — evacuation zones from the agencies that publish them, drawn in one status color language. Downloads, guide and issues here.",
     "stars": "2",
     "text": "takwerx/evac-zone",
@@ -997,7 +1009,7 @@
    "fields": {
     "date": "2026-11-19T02:59:54Z",
     "description": "Companion app that carries ATAK positions, GeoChat, markers and emergency alerts over ordinary VHF/UHF radios. It acts as a local TAK server and sends compact CoT packets as 1200-baud AFSK/AX.25 (with FX.25), or over KISS TNCs, P25, DMR, D-STAR and NXDN data. No cell service, no plugin. 100% FOSS, offline, GPL-3.0.",
-    "stars": "6",
+    "stars": "7",
     "text": "fearmikey/TAKwave",
     "title": "fearmikey/TAKwave",
     "url": "https://github.com/fearmikey/TAKwave"
@@ -1019,7 +1031,7 @@
    "key": "takwerx/feature-layer",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-21T03:10:50Z",
+    "date": "2026-11-22T02:16:56Z",
     "description": "ATAK Plugin: Feature Layer — live ArcGIS feature layers from NIFC, SARCOP, CA Air Intel and your own org, with NWCG symbology. Downloads, guide and issues here.",
     "stars": "2",
     "text": "takwerx/feature-layer",
@@ -1031,7 +1043,7 @@
    "key": "takwerx/cursorwerx",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-21T03:10:45Z",
+    "date": "2026-11-22T02:16:51Z",
     "description": "ATAK Plugin: Cursorwerx — makes ATAK work with a mouse or trackpad: wheel zoom at the cursor, wheel scrolling in panes, click-drag panning, a Back button. Downloads, guide and issues here.",
     "stars": "4",
     "text": "takwerx/cursorwerx",
@@ -1067,7 +1079,7 @@
    "key": "takwerx/cloudtak-crosstak-plugin",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-21T04:05:28Z",
+    "date": "2026-11-22T02:17:13Z",
     "description": "CloudTAK plugin: see other agencies' TAK Servers on your CloudTAK map, with your own account on each (send, Data Sync, your position)",
     "stars": "0",
     "text": "takwerx/cloudtak-crosstak-plugin",
@@ -1127,7 +1139,7 @@
    "key": "takwerx/atmosphere",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-21T03:10:40Z",
+    "date": "2026-11-22T02:16:45Z",
     "description": "ATAK Plugin: Atmosphere — fire and hazmat weather on the map: the forecast at a point, radar, satellite, wind, rain, smoke, rivers and the sea. Downloads, guide and issues here.",
     "stars": "6",
     "text": "takwerx/atmosphere",
@@ -1205,18 +1217,6 @@
     "text": "vipersq/TakRequest",
     "title": "vipersq/TakRequest",
     "url": "https://github.com/vipersq/TakRequest"
-   }
-  },
-  {
-   "key": "apexcsfc/takassist-releases",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-11T21:21:30Z",
-    "description": "Downloads for TAK Assist, an offline LLM plugin for ATAK",
-    "stars": "1",
-    "text": "apexcsfc/takassist-releases",
-    "title": "apexcsfc/takassist-releases",
-    "url": "https://github.com/apexcsfc/takassist-releases"
    }
   },
   {
