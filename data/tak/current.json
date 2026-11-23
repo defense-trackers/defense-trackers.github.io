@@ -1,9 +1,21 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-11-22T23:51:40Z",
+ "fetched_at": "2026-11-23T18:19:58Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-11-23T18:16:21Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "99",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
   {
    "key": "matteskes/macTAK",
    "source": "tak-cot",
@@ -14,18 +26,6 @@
     "text": "matteskes/macTAK",
     "title": "matteskes/macTAK",
     "url": "https://github.com/matteskes/macTAK"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-11-22T23:03:00Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "98",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -454,7 +454,7 @@
    "fields": {
     "date": "2022-11-06T13:11:28Z",
     "description": "DJI drone flying app with integrations for FreeTAKServer. Looking for a maitainer!",
-    "stars": "129",
+    "stars": "130",
     "text": "FreeTAKTeam/FreeTAKUAS",
     "title": "FreeTAKTeam/FreeTAKUAS",
     "url": "https://github.com/FreeTAKTeam/FreeTAKUAS"
@@ -640,7 +640,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-22T23:46:30Z",
+    "date": "2026-11-22T23:57:40Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "115",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/R3AKT",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-18T20:55:52Z",
+    "date": "2026-11-23T16:12:05Z",
     "stars": "0",
     "text": "FreeTAKTeam/R3AKT",
     "title": "FreeTAKTeam/R3AKT",
@@ -851,7 +851,7 @@
    "key": "FreeTAKTeam/r3akt-uas",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-21T14:50:51Z",
+    "date": "2026-11-23T17:32:23Z",
     "description": "Independent R3AKT DJI flying application using shared Rust libraries, RCH telemetry, REM-compatible radar and markers, and separate video streaming.",
     "stars": "0",
     "text": "FreeTAKTeam/r3akt-uas",
@@ -860,10 +860,82 @@
    }
   },
   {
+   "key": "takwerx/cloudtak-crosstak-plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-23T16:02:10Z",
+    "description": "CloudTAK plugin: see other agencies' TAK Servers on your CloudTAK map, with your own account on each (send, Data Sync, your position)",
+    "stars": "0",
+    "text": "takwerx/cloudtak-crosstak-plugin",
+    "title": "takwerx/cloudtak-crosstak-plugin",
+    "url": "https://github.com/takwerx/cloudtak-crosstak-plugin"
+   }
+  },
+  {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-23T12:44:23Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "7",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
+   "key": "takwerx/sit-rep",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-23T12:37:54Z",
+    "description": "ATAK Plugin: Sit Rep — a one-shot situation report for any area from public agency data. Downloads, guide and issues here.",
+    "stars": "1",
+    "text": "takwerx/sit-rep",
+    "title": "takwerx/sit-rep",
+    "url": "https://github.com/takwerx/sit-rep"
+   }
+  },
+  {
+   "key": "sheldon-st/takdata",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-23T12:17:32Z",
+    "description": "TAK Manager API — streams live ADS-B, AIS and synthetic tracks into a TAK Server as Cursor-on-Target. FastAPI + pytak, plugin-based.",
+    "stars": "0",
+    "text": "sheldon-st/takdata",
+    "title": "sheldon-st/takdata",
+    "url": "https://github.com/sheldon-st/takdata"
+   }
+  },
+  {
+   "key": "takwerx/mast",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-23T05:25:31Z",
+    "description": "ATAK Plugin: MAST — pick the mission, get its ATAK tools and plugins one tap away; pages an MDM can set and lock. Downloads, guide and issues here.",
+    "stars": "1",
+    "text": "takwerx/mast",
+    "title": "takwerx/mast",
+    "url": "https://github.com/takwerx/mast"
+   }
+  },
+  {
+   "key": "gustavtraff/tmm-sensor-planner",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-23T02:03:47Z",
+    "description": "ATAK Plugin",
+    "stars": "0",
+    "text": "gustavtraff/tmm-sensor-planner",
+    "title": "gustavtraff/tmm-sensor-planner",
+    "url": "https://github.com/gustavtraff/tmm-sensor-planner"
+   }
+  },
+  {
    "key": "TX-TAK/TAK-XVoice",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-22T23:39:20Z",
+    "date": "2026-11-23T06:29:35Z",
     "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
     "stars": "17",
     "text": "TX-TAK/TAK-XVoice",
@@ -901,7 +973,7 @@
    "fields": {
     "date": "2026-11-22T08:41:08Z",
     "description": "Show APRSdroid stations on the ATAK map with real APRS symbols. No plugin needed.",
-    "stars": "0",
+    "stars": "2",
     "text": "BubsGarage/APRS2TAK",
     "title": "BubsGarage/APRS2TAK",
     "url": "https://github.com/BubsGarage/APRS2TAK"
@@ -929,42 +1001,6 @@
     "text": "DrLexus11/reticulum-atak",
     "title": "DrLexus11/reticulum-atak",
     "url": "https://github.com/DrLexus11/reticulum-atak"
-   }
-  },
-  {
-   "key": "gustavtraff/tmm-sensor-planner",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-21T10:14:18Z",
-    "description": "ATAK Plugin",
-    "stars": "0",
-    "text": "gustavtraff/tmm-sensor-planner",
-    "title": "gustavtraff/tmm-sensor-planner",
-    "url": "https://github.com/gustavtraff/tmm-sensor-planner"
-   }
-  },
-  {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-22T15:00:37Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "7",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
-   }
-  },
-  {
-   "key": "takwerx/sit-rep",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-20T06:25:41Z",
-    "description": "ATAK Plugin: Sit Rep — a one-shot situation report for any area from public agency data. Downloads, guide and issues here.",
-    "stars": "1",
-    "text": "takwerx/sit-rep",
-    "title": "takwerx/sit-rep",
-    "url": "https://github.com/takwerx/sit-rep"
    }
   },
   {
@@ -1076,18 +1112,6 @@
    }
   },
   {
-   "key": "takwerx/cloudtak-crosstak-plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-22T02:17:13Z",
-    "description": "CloudTAK plugin: see other agencies' TAK Servers on your CloudTAK map, with your own account on each (send, Data Sync, your position)",
-    "stars": "0",
-    "text": "takwerx/cloudtak-crosstak-plugin",
-    "title": "takwerx/cloudtak-crosstak-plugin",
-    "url": "https://github.com/takwerx/cloudtak-crosstak-plugin"
-   }
-  },
-  {
    "key": "ke8tqb/HBC-ATAK-Plugin",
    "source": "tak-github",
    "fields": {
@@ -1193,30 +1217,6 @@
     "text": "takwerx/iwi",
     "title": "takwerx/iwi",
     "url": "https://github.com/takwerx/iwi"
-   }
-  },
-  {
-   "key": "vipersq/TakRequest",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-11T21:32:48Z",
-    "description": "ATAK plugin: a request and reporting board for transport (air/sea/land), resupply, SITREP and ACE, shared over CoT with an approval workflow and exercise/MILSIM modes. Not a targeting or fire-support tool.",
-    "stars": "1",
-    "text": "vipersq/TakRequest",
-    "title": "vipersq/TakRequest",
-    "url": "https://github.com/vipersq/TakRequest"
-   }
-  },
-  {
-   "key": "apexcsfc/takassist-releases",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-11T21:21:30Z",
-    "description": "Downloads for TAK Assist, an offline LLM plugin for ATAK",
-    "stars": "1",
-    "text": "apexcsfc/takassist-releases",
-    "title": "apexcsfc/takassist-releases",
-    "url": "https://github.com/apexcsfc/takassist-releases"
    }
   },
   {
