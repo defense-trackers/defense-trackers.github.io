@@ -1,7 +1,7 @@
 {
  "source": "oss-index",
  "tracker": "oss-index",
- "fetched_at": "2026-11-23T18:19:27Z",
+ "fetched_at": "2026-11-24T04:05:57Z",
  "schema_version": 1,
  "records": [
   {
@@ -44,7 +44,7 @@
    "key": "cisagov/scanner",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-11-06T21:34:13Z",
+    "date": "2026-11-23T21:06:36Z",
     "description": "Automated pshtt, trustymail, and sslyze scanning",
     "stars": "31",
     "text": "cisagov/scanner",
@@ -56,7 +56,7 @@
    "key": "cisagov/gatherer",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-11-23T18:13:34Z",
+    "date": "2026-11-23T19:34:49Z",
     "description": "Gather domains as a precursor to scanning",
     "stars": "22",
     "text": "cisagov/gatherer",
@@ -92,7 +92,7 @@
    "key": "cisagov/trustymail_reporter",
    "source": "oss-cisagov",
    "fields": {
-    "date": "2026-11-23T17:40:54Z",
+    "date": "2026-11-24T03:52:49Z",
     "description": "Generate Trustworthy Email reports based on scan data",
     "stars": "13",
     "text": "cisagov/trustymail_reporter",
@@ -262,7 +262,7 @@
    "fields": {
     "date": "2026-11-19T22:21:31Z",
     "description": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.",
-    "stars": "2614",
+    "stars": "2616",
     "text": "cisagov/Malcolm",
     "title": "cisagov/Malcolm",
     "url": "https://github.com/cisagov/Malcolm"
@@ -584,9 +584,9 @@
    "key": "idaholab/moose",
    "source": "oss-idaholab",
    "fields": {
-    "date": "2026-11-23T18:10:59Z",
+    "date": "2026-11-24T03:44:57Z",
     "description": "Multiphysics Object Oriented Simulation Environment: A robust, modern, extendable, finite element/finite volume framework that excels at creating complex multiphysics simulations.",
-    "stars": "2411",
+    "stars": "2412",
     "text": "idaholab/moose",
     "title": "idaholab/moose",
     "url": "https://github.com/idaholab/moose"
@@ -728,7 +728,7 @@
    "key": "lanl/LaGriT",
    "source": "oss-lanl",
    "fields": {
-    "date": "2026-11-21T05:42:26Z",
+    "date": "2026-11-24T01:08:55Z",
     "description": "Los Alamos Grid Toolbox (LaGriT) is a library of user callable tools that provide mesh generation, mesh optimization and dynamic mesh maintenance in two and three dimensions.",
     "stars": "139",
     "text": "lanl/LaGriT",
@@ -764,9 +764,9 @@
    "key": "llnl/STAT",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-11-19T20:58:33Z",
+    "date": "2026-11-24T01:57:17Z",
     "description": "STAT - the Stack Trace Analysis Tool",
-    "stars": "71",
+    "stars": "72",
     "text": "llnl/STAT",
     "title": "llnl/STAT",
     "url": "https://github.com/llnl/STAT"
@@ -790,7 +790,7 @@
    "fields": {
     "date": "2026-09-18T21:52:26Z",
     "description": "Allows safer access to model specific registers (MSRs)",
-    "stars": "99",
+    "stars": "100",
     "text": "llnl/msr-safe",
     "title": "llnl/msr-safe",
     "url": "https://github.com/llnl/msr-safe"
@@ -800,7 +800,7 @@
    "key": "llnl/conduit",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-11-21T01:47:26Z",
+    "date": "2026-11-24T02:01:57Z",
     "description": "Simplified Data Exchange for HPC Simulations",
     "stars": "252",
     "text": "llnl/conduit",
@@ -812,7 +812,7 @@
    "key": "llnl/Caliper",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-11-23T15:24:23Z",
+    "date": "2026-11-23T22:28:58Z",
     "description": "Caliper is an instrumentation and performance profiling library",
     "stars": "423",
     "text": "llnl/Caliper",
@@ -871,7 +871,7 @@
    "key": "llnl/GridDyn",
    "source": "oss-llnl",
    "fields": {
-    "date": "2026-11-22T05:03:41Z",
+    "date": "2026-11-24T03:14:32Z",
     "description": "GridDyn is an open-source power transmission simulation software package",
     "stars": "64",
     "text": "llnl/GridDyn",
@@ -931,7 +931,7 @@
    "key": "mitre/vulcan",
    "source": "oss-mitre",
    "fields": {
-    "date": "2026-11-23T18:06:12Z",
+    "date": "2026-11-24T03:01:25Z",
     "description": "A web application to streamline the development of STIGs from SRGs",
     "stars": "87",
     "text": "mitre/vulcan",
@@ -967,7 +967,7 @@
    "key": "nasa/Open-Source-Catalog",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-11-16T16:57:00Z",
+    "date": "2026-11-23T23:30:31Z",
     "description": "Contains the NASA open source software catalog for automatic deployment to code.nasa.gov",
     "stars": "351",
     "text": "nasa/Open-Source-Catalog",
@@ -991,7 +991,7 @@
    "key": "nasa/openmct",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-11-23T17:54:33Z",
+    "date": "2026-11-23T22:55:46Z",
     "description": "A web based mission control framework. ",
     "stars": "13227",
     "text": "nasa/openmct",
@@ -1003,7 +1003,7 @@
    "key": "nasa/earthdata-search",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-11-23T18:10:17Z",
+    "date": "2026-11-23T21:10:54Z",
     "description": "Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.",
     "stars": "829",
     "text": "nasa/earthdata-search",
@@ -1063,7 +1063,7 @@
    "key": "nasa/Common-Metadata-Repository",
    "source": "oss-nasa",
    "fields": {
-    "date": "2026-11-23T16:34:41Z",
+    "date": "2026-11-23T21:42:45Z",
     "description": "The Common Metadata Repository (CMR) is a high-performance, high-quality, continuously evolving metadata system that catalogs Earth Science data and associated service metadata records. These metadata records are registered, modified, discovered, and accessed through programmatic interfaces leveraging standard protocols and APIs.",
     "stars": "403",
     "text": "nasa/Common-Metadata-Repository",
@@ -1113,7 +1113,7 @@
    "fields": {
     "date": "2026-11-18T12:38:53Z",
     "description": "Hootenanny conflates multiple maps into a single seamless map.",
-    "stars": "398",
+    "stars": "397",
     "text": "ngageoint/hootenanny",
     "title": "ngageoint/hootenanny",
     "url": "https://github.com/ngageoint/hootenanny"
@@ -1123,7 +1123,7 @@
    "key": "ngageoint/six-library",
    "source": "oss-ngageoint",
    "fields": {
-    "date": "2026-11-06T18:25:42Z",
+    "date": "2026-11-23T18:43:41Z",
     "description": "Sensor Independent XML Library",
     "stars": "83",
     "text": "ngageoint/six-library",
@@ -1183,9 +1183,9 @@
    "key": "nsacyber/HIRS",
    "source": "oss-nsacyber",
    "fields": {
-    "date": "2026-11-23T17:05:20Z",
+    "date": "2026-11-23T22:02:13Z",
     "description": "Trusted Computing based services supporting TPM provisioning and supply chain validation concepts. #nsacyber",
-    "stars": "218",
+    "stars": "219",
     "text": "nsacyber/HIRS",
     "title": "nsacyber/HIRS",
     "url": "https://github.com/nsacyber/HIRS"
@@ -1207,9 +1207,9 @@
    "key": "nsacyber/RIM-Tool",
    "source": "oss-nsacyber",
    "fields": {
-    "date": "2026-11-23T18:11:16Z",
+    "date": "2026-11-23T18:31:45Z",
     "description": "A tool to create TCG Reference Integrity Manifest (RIM) files for use with attestation verifiers like HIRS.",
-    "stars": "10",
+    "stars": "11",
     "text": "nsacyber/RIM-Tool",
     "title": "nsacyber/RIM-Tool",
     "url": "https://github.com/nsacyber/RIM-Tool"
@@ -1243,7 +1243,7 @@
    "key": "ORNL/HeCBench",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-11-19T23:07:29Z",
+    "date": "2026-11-23T22:07:37Z",
     "stars": "310",
     "text": "ORNL/HeCBench",
     "title": "ORNL/HeCBench",
@@ -1254,7 +1254,7 @@
    "key": "ORNL/HydraGNN",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-11-09T18:49:50Z",
+    "date": "2026-11-23T18:52:14Z",
     "description": "Distributed PyTorch implementation of multi-headed graph convolutional neural networks",
     "stars": "129",
     "text": "ORNL/HydraGNN",
@@ -1304,7 +1304,7 @@
    "fields": {
     "date": "2026-08-12T19:18:36Z",
     "description": "Runtime provenance for AI and scientific workflows—capture, enrich, and query workflow data via observability adapters and code annotation across edge, cloud, and HPC.",
-    "stars": "46",
+    "stars": "47",
     "text": "ORNL/flowcept",
     "title": "ORNL/flowcept",
     "url": "https://github.com/ORNL/flowcept"
@@ -1338,7 +1338,7 @@
    "key": "ORNL/GridKit",
    "source": "oss-ornl",
    "fields": {
-    "date": "2026-11-23T17:18:04Z",
+    "date": "2026-11-23T23:15:35Z",
     "description": "Modeling framework for power systems simulations and analysis.",
     "stars": "27",
     "text": "ORNL/GridKit",
