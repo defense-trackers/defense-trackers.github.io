@@ -1,7 +1,7 @@
 {
  "source": "deadlines",
  "tracker": "deadlines",
- "fetched_at": "2026-11-24T04:06:31Z",
+ "fetched_at": "2026-11-24T17:53:20Z",
  "schema_version": 1,
  "records": [
   {
@@ -252,19 +252,6 @@
    }
   },
   {
-   "key": "close-363829",
-   "source": "deadlines-solicitations",
-   "fields": {
-    "agency": "Air Force Office of Scientific Research",
-    "closes": "2026-12-11",
-    "date": "2026-12-11",
-    "from": "pipeline",
-    "text": "Air Force Fiscal Year 2027 Young Investigator Program (YIP)",
-    "title": "Air Force Fiscal Year 2027 Young Investigator Program (YIP)",
-    "url": "https://www.grants.gov/search-results-detail/363829"
-   }
-  },
-  {
    "key": "close-363745",
    "source": "deadlines-solicitations",
    "fields": {
@@ -275,6 +262,19 @@
     "text": "Air Force Basic Research Sciences Conference and Workshop Support",
     "title": "Air Force Basic Research Sciences Conference and Workshop Support",
     "url": "https://www.grants.gov/search-results-detail/363745"
+   }
+  },
+  {
+   "key": "close-363829",
+   "source": "deadlines-solicitations",
+   "fields": {
+    "agency": "Air Force Office of Scientific Research",
+    "closes": "2026-12-11",
+    "date": "2026-12-11",
+    "from": "pipeline",
+    "text": "Air Force Fiscal Year 2027 Young Investigator Program (YIP)",
+    "title": "Air Force Fiscal Year 2027 Young Investigator Program (YIP)",
+    "url": "https://www.grants.gov/search-results-detail/363829"
    }
   },
   {

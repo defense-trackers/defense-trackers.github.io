@@ -1,14 +1,14 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-11-24T04:06:29Z",
+ "fetched_at": "2026-11-24T17:53:18Z",
  "schema_version": 1,
  "records": [
   {
    "key": "matteskes/macTAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-24T03:25:28Z",
+    "date": "2026-11-24T04:22:37Z",
     "description": "macTAK - A Team Awareness Kit client for macOS",
     "stars": "5",
     "text": "matteskes/macTAK",
@@ -20,7 +20,7 @@
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-24T04:05:00Z",
+    "date": "2026-11-24T15:51:48Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "99",
     "text": "takwerx/infra-TAK",
@@ -640,7 +640,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-24T01:12:43Z",
+    "date": "2026-11-24T13:34:02Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "115",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/R3AKT",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-23T16:12:05Z",
+    "date": "2026-11-24T15:40:36Z",
     "stars": "0",
     "text": "FreeTAKTeam/R3AKT",
     "title": "FreeTAKTeam/R3AKT",
@@ -769,7 +769,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-24T01:18:47Z",
+    "date": "2026-11-24T16:40:42Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "37",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -863,24 +863,12 @@
    "key": "pnazarewski-gmail/AutoTAK-plugin",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-23T22:01:04Z",
+    "date": "2026-11-24T10:32:39Z",
     "description": "ATAK plugin that passes the ATAK picture to the AutoTAK app (Android Auto). Read-only public copy of the sources, GPL-3.",
     "stars": "0",
     "text": "pnazarewski-gmail/AutoTAK-plugin",
     "title": "pnazarewski-gmail/AutoTAK-plugin",
     "url": "https://github.com/pnazarewski-gmail/AutoTAK-plugin"
-   }
-  },
-  {
-   "key": "takwerx/cloudtak-crosstak-plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-23T19:35:22Z",
-    "description": "CloudTAK plugin: see other agencies' TAK Servers on your CloudTAK map, with your own account on each (send, Data Sync, your position)",
-    "stars": "0",
-    "text": "takwerx/cloudtak-crosstak-plugin",
-    "title": "takwerx/cloudtak-crosstak-plugin",
-    "url": "https://github.com/takwerx/cloudtak-crosstak-plugin"
    }
   },
   {
@@ -893,6 +881,30 @@
     "text": "takwerx/atak-plugins",
     "title": "takwerx/atak-plugins",
     "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
+   "key": "takwerx/takwerx-market",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-24T03:24:22Z",
+    "description": "ATAK Plugin: TAKwerx Market — install and update takwerx plugins from inside ATAK. Downloads, guide and issues here.",
+    "stars": "22",
+    "text": "takwerx/takwerx-market",
+    "title": "takwerx/takwerx-market",
+    "url": "https://github.com/takwerx/takwerx-market"
+   }
+  },
+  {
+   "key": "takwerx/cloudtak-crosstak-plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-23T19:35:22Z",
+    "description": "CloudTAK plugin: see other agencies' TAK Servers on your CloudTAK map, with your own account on each (send, Data Sync, your position)",
+    "stars": "0",
+    "text": "takwerx/cloudtak-crosstak-plugin",
+    "title": "takwerx/cloudtak-crosstak-plugin",
+    "url": "https://github.com/takwerx/cloudtak-crosstak-plugin"
    }
   },
   {
@@ -968,18 +980,6 @@
    }
   },
   {
-   "key": "takwerx/takwerx-market",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-24T03:24:22Z",
-    "description": "ATAK Plugin: TAKwerx Market — install and update takwerx plugins from inside ATAK. Downloads, guide and issues here.",
-    "stars": "22",
-    "text": "takwerx/takwerx-market",
-    "title": "takwerx/takwerx-market",
-    "url": "https://github.com/takwerx/takwerx-market"
-   }
-  },
-  {
    "key": "BubsGarage/APRS2TAK",
    "source": "tak-github",
    "fields": {
@@ -1045,7 +1045,7 @@
    "fields": {
     "date": "2026-11-19T04:49:16Z",
     "description": "ATAK plugin for simultaneous multi-stream video monitoring: adaptive 2×2 paged grid, CoT-based feed discovery, snap-to-sender map integration.",
-    "stars": "5",
+    "stars": "4",
     "text": "RyanR3/TakVideoWall",
     "title": "RyanR3/TakVideoWall",
     "url": "https://github.com/RyanR3/TakVideoWall"
