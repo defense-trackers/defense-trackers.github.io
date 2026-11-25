@@ -1,7 +1,7 @@
 {
  "source": "model-ops",
  "tracker": "model-ops",
- "fetched_at": "2026-11-24T17:52:01Z",
+ "fetched_at": "2026-11-25T02:47:03Z",
  "schema_version": 1,
  "records": [
   {
@@ -23,7 +23,7 @@
    "fields": {
     "date": "2022-03-02T23:29:04.000Z",
     "downloads": "33180429",
-    "likes": "4370",
+    "likes": "4371",
     "tags": "transformers, pytorch, tf, jax, tflite, rust, onnx, safetensors, gpt2, text-generation, exbert, en, doi:10.57967/hf/0039, license:mit, text-generation-inference, endpoints_compatible, region:us, deploy:azure",
     "text": "openai-community/gpt2",
     "title": "openai-community/gpt2",
@@ -36,7 +36,7 @@
    "fields": {
     "date": "2025-08-04T22:33:29.000Z",
     "downloads": "5409114",
-    "likes": "5346",
+    "likes": "5347",
     "tags": "transformers, safetensors, gpt_oss, text-generation, vllm, conversational, arxiv:2508.10925, license:apache-2.0, eval-results, endpoints_compatible, 8-bit, mxfp4, deploy:sagemaker, deploy:azure, region:us",
     "text": "openai/gpt-oss-20b",
     "title": "openai/gpt-oss-20b",
@@ -49,7 +49,7 @@
    "fields": {
     "date": "2026-08-19T00:02:44.000Z",
     "downloads": "5161983",
-    "likes": "810",
+    "likes": "814",
     "tags": "transformers, gguf, text-generation, license:mit, endpoints_compatible, region:us, conversational",
     "text": "ornith-ai/Ornith-1.5-9B-GGUF",
     "title": "ornith-ai/Ornith-1.5-9B-GGUF",
@@ -62,7 +62,7 @@
    "fields": {
     "date": "2022-05-11T08:25:17.000Z",
     "downloads": "4727881",
-    "likes": "334",
+    "likes": "335",
     "tags": "transformers, pytorch, tf, jax, opt, text-generation, en, arxiv:2205.01068, arxiv:2005.14165, license:other, text-generation-inference, region:us, deploy:azure",
     "text": "facebook/opt-125m",
     "title": "facebook/opt-125m",
@@ -75,7 +75,7 @@
    "fields": {
     "date": "2024-07-18T08:56:00.000Z",
     "downloads": "3960085",
-    "likes": "9095",
+    "likes": "9098",
     "tags": "transformers, safetensors, llama, text-generation, facebook, meta, pytorch, llama-3, conversational, en, de, fr, it, pt, hi, es, th, arxiv:2204.05149, base_model:meta-llama/Llama-3.1-8B, base_model:finetune:meta-llama/Llama-3.1-8B, license:llama3.1, eval-results, text-generation-inference, endpoints_compatible, deploy:sagemaker, region:us",
     "text": "meta-llama/Llama-3.1-8B-Instruct",
     "title": "meta-llama/Llama-3.1-8B-Instruct",
@@ -88,7 +88,7 @@
    "fields": {
     "date": "2026-08-18T06:38:41.000Z",
     "downloads": "3761136",
-    "likes": "676",
+    "likes": "680",
     "tags": "transformers, gguf, text-generation, license:mit, endpoints_compatible, region:us, conversational",
     "text": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
     "title": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
@@ -140,7 +140,7 @@
    "fields": {
     "date": "2025-08-04T22:33:06.000Z",
     "downloads": "2293024",
-    "likes": "5561",
+    "likes": "5563",
     "tags": "transformers, safetensors, gpt_oss, text-generation, vllm, conversational, arxiv:2508.10925, license:apache-2.0, eval-results, endpoints_compatible, 8-bit, mxfp4, deploy:sagemaker, deploy:azure, region:us",
     "text": "openai/gpt-oss-120b",
     "title": "openai/gpt-oss-120b",
@@ -153,7 +153,7 @@
    "fields": {
     "date": "2026-10-07T07:25:49.000Z",
     "downloads": "1956981",
-    "likes": "132",
+    "likes": "133",
     "tags": "gguf, imatrix, mixture-of-experts, glm, project-maya, vision, text-generation, base_model:zai-org/GLM-5.3-Flash, base_model:quantized:zai-org/GLM-5.3-Flash, license:mit, endpoints_compatible, region:us, feature-extraction",
     "text": "peasantsmith/GLM-5.3-Flash-Maya-GGUF",
     "title": "peasantsmith/GLM-5.3-Flash-Maya-GGUF",
@@ -244,7 +244,7 @@
    "fields": {
     "date": "2026-10-13T23:33:49.000Z",
     "downloads": "1355883",
-    "likes": "64",
+    "likes": "65",
     "tags": "gguf, liquid, lfm2.5, edge, moe, 27 reasoning modes, 15 AI Constructs, 5 Super AI Constructs, Brainstorm AI Construct, Brainstorm Business AI Construct, Universal Teacher AI Construct, Agent AI Construct, Coder AI Construct, Turbo-Brilliance, NEO Imatrix, NEO Imatrix MAX, finetune, text-generation, en, ar, zh, fr, de, ja, ko, es, pt, it, vi, th, id, hi, ru, pl, arxiv:2511.23404, base_model:LiquidAI/LFM2.5-24B-A2B, base_model:quantized:LiquidAI/LFM2.5-24B-A2B, license:other, endpoints_compatible, region:us, imatrix, conversational",
     "text": "DavidAU/LFM2.5-24B-A2B-Turbo-Brilliance-50X-NEO-MAX-Imatrix-GGUF",
     "title": "DavidAU/LFM2.5-24B-A2B-Turbo-Brilliance-50X-NEO-MAX-Imatrix-GGUF",
@@ -270,7 +270,7 @@
    "fields": {
     "date": "2026-10-20T01:10:00.000Z",
     "downloads": "1314730",
-    "likes": "119",
+    "likes": "121",
     "tags": "transformers, gguf, text-generation, license:mit, endpoints_compatible, region:us, conversational",
     "text": "ornith-ai/Ornith-1.5-122B-GGUF",
     "title": "ornith-ai/Ornith-1.5-122B-GGUF",
@@ -309,7 +309,7 @@
    "fields": {
     "date": "2026-08-18T06:38:58.000Z",
     "downloads": "1173113",
-    "likes": "115",
+    "likes": "121",
     "tags": "transformers, gguf, text-generation, license:mit, endpoints_compatible, region:us, imatrix, conversational",
     "text": "ornith-ai/Ornith-1.5-397B-GGUF",
     "title": "ornith-ai/Ornith-1.5-397B-GGUF",
@@ -374,7 +374,7 @@
    "fields": {
     "date": "2026-06-16T07:39:20.000Z",
     "downloads": "1012703",
-    "likes": "5220",
+    "likes": "5221",
     "tags": "transformers, safetensors, glm_moe_dsa, text-generation, conversational, en, zh, arxiv:2602.15763, arxiv:2603.12201, license:mit, eval-results, endpoints_compatible, region:us",
     "text": "zai-org/GLM-5.2",
     "title": "zai-org/GLM-5.2",
@@ -413,7 +413,7 @@
    "fields": {
     "date": "2023-12-11T13:18:44.000Z",
     "downloads": "968089",
-    "likes": "3284",
+    "likes": "3285",
     "tags": "transformers, pytorch, safetensors, mistral, text-generation, finetuned, mistral-common, conversational, arxiv:2310.06825, license:apache-2.0, eval-results, text-generation-inference, deploy:azure, deploy:sagemaker, region:us",
     "text": "mistralai/Mistral-7B-Instruct-v0.2",
     "title": "mistralai/Mistral-7B-Instruct-v0.2",
@@ -439,7 +439,7 @@
    "fields": {
     "date": "2026-09-06T11:12:19.000Z",
     "downloads": "916112",
-    "likes": "1870",
+    "likes": "1872",
     "tags": "transformers, safetensors, llama, text-generation, minicpm, minicpm5, long-context, tool-calling, on-device, edge-ai, conversational, en, zh, dataset:openbmb/Ultra-FineWeb, dataset:openbmb/UltraX-Preview, dataset:openbmb/Ultra-FineWeb-L3, dataset:openbmb/UltraData-Math, dataset:openbmb/UltraData-Code, dataset:openbmb/UltraData-SFT-2605, dataset:openbmb/UltraData-SFT-Agent-2609, dataset:openbmb/UltraData-RL-2609, arxiv:2506.07900, arxiv:2602.09003, license:apache-2.0, eval-results, text-generation-inference, endpoints_compatible, deploy:sagemaker, region:us",
     "text": "openbmb/MiniCPM5-2B",
     "title": "openbmb/MiniCPM5-2B",
@@ -491,7 +491,7 @@
    "fields": {
     "date": "2026-08-04T19:10:45.000Z",
     "downloads": "813912",
-    "likes": "506",
+    "likes": "507",
     "tags": "transformers, safetensors, nemotron_h, text-generation, nvidia, pytorch, nemotron-3.5, conversational, en, es, fr, de, it, ja, license:other, eval-results, endpoints_compatible, 8-bit, modelopt, deploy:azure, deploy:sagemaker, region:us",
     "text": "nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
     "title": "nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
@@ -564,83 +564,83 @@
    }
   },
   {
-   "key": "b12676",
+   "key": "b12703",
    "source": "model-ops-llamacpp",
    "fields": {
-    "date": "2026-11-24T13:24:35Z",
-    "text": "b12676",
-    "title": "b12676",
-    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12676"
+    "date": "2026-11-25T02:41:40Z",
+    "text": "b12703",
+    "title": "b12703",
+    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12703"
    }
   },
   {
-   "key": "b12675",
+   "key": "b12701",
    "source": "model-ops-llamacpp",
    "fields": {
-    "date": "2026-11-24T09:55:33Z",
-    "text": "b12675",
-    "title": "b12675",
-    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12675"
+    "date": "2026-11-25T02:24:02Z",
+    "text": "b12701",
+    "title": "b12701",
+    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12701"
    }
   },
   {
-   "key": "b12674",
+   "key": "b12686",
    "source": "model-ops-llamacpp",
    "fields": {
-    "date": "2026-11-24T08:25:32Z",
-    "text": "b12674",
-    "title": "b12674",
-    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12674"
+    "date": "2026-11-24T22:45:15Z",
+    "text": "b12686",
+    "title": "b12686",
+    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12686"
    }
   },
   {
-   "key": "b12671",
+   "key": "b12683",
    "source": "model-ops-llamacpp",
    "fields": {
-    "date": "2026-11-24T07:02:04Z",
-    "text": "b12671",
-    "title": "b12671",
-    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12671"
+    "date": "2026-11-24T22:30:42Z",
+    "text": "b12683",
+    "title": "b12683",
+    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12683"
    }
   },
   {
-   "key": "b12670",
+   "key": "b12682",
    "source": "model-ops-llamacpp",
    "fields": {
-    "date": "2026-11-24T06:13:13Z",
-    "text": "b12670",
-    "title": "b12670",
-    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12670"
+    "date": "2026-11-24T22:11:58Z",
+    "text": "b12682",
+    "title": "b12682",
+    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12682"
    }
   },
   {
-   "key": "b12669",
+   "key": "b12681",
    "source": "model-ops-llamacpp",
    "fields": {
-    "date": "2026-11-24T02:38:41Z",
-    "text": "b12669",
-    "title": "b12669",
-    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12669"
+    "date": "2026-11-24T19:12:13Z",
+    "text": "b12681",
+    "title": "b12681",
+    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12681"
    }
   },
   {
-   "key": "b12668",
+   "key": "b12680",
    "source": "model-ops-llamacpp",
    "fields": {
-    "date": "2026-11-24T02:14:27Z",
-    "text": "b12668",
-    "title": "b12668",
-    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12668"
+    "date": "2026-11-24T18:41:10Z",
+    "text": "b12680",
+    "title": "b12680",
+    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12680"
    }
   },
   {
-   "key": "b12667",
+   "key": "b12679",
    "source": "model-ops-llamacpp",
    "fields": {
-    "date": "2026-11-24T01:52:17Z",
-    "text": "b12667",
-    "title": "b12667",
-    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12667"
+    "date": "2026-11-24T18:24:27Z",
+    "text": "b12679",
+    "title": "b12679",
+    "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12679"
    }
   },
   {
