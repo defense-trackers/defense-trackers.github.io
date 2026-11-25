@@ -1,9 +1,33 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-11-25T02:48:15Z",
+ "fetched_at": "2026-11-25T17:19:47Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-11-25T17:12:02Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "100",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
+  {
+   "key": "matteskes/macTAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-11-25T14:40:14Z",
+    "description": "macTAK - A Team Awareness Kit client for macOS",
+    "stars": "5",
+    "text": "matteskes/macTAK",
+    "title": "matteskes/macTAK",
+    "url": "https://github.com/matteskes/macTAK"
+   }
+  },
   {
    "key": "engindearing-projects/OmniTAK-iOS",
    "source": "tak-cot",
@@ -14,30 +38,6 @@
     "text": "engindearing-projects/OmniTAK-iOS",
     "title": "engindearing-projects/OmniTAK-iOS",
     "url": "https://github.com/engindearing-projects/OmniTAK-iOS"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-11-25T02:20:32Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "99",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
-   }
-  },
-  {
-   "key": "matteskes/macTAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-11-25T02:38:07Z",
-    "description": "macTAK - A Team Awareness Kit client for macOS",
-    "stars": "5",
-    "text": "matteskes/macTAK",
-    "title": "matteskes/macTAK",
-    "url": "https://github.com/matteskes/macTAK"
    }
   },
   {
@@ -860,6 +860,18 @@
    }
   },
   {
+   "key": "DrLexus11/reticulum-atak",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-25T10:30:10Z",
+    "description": "ATAK reticulum mesh plugin",
+    "stars": "0",
+    "text": "DrLexus11/reticulum-atak",
+    "title": "DrLexus11/reticulum-atak",
+    "url": "https://github.com/DrLexus11/reticulum-atak"
+   }
+  },
+  {
    "key": "takwerx/atak-plugins",
    "source": "tak-github",
    "fields": {
@@ -1025,18 +1037,6 @@
     "text": "RyanR3/TAKParcelsTemplate",
     "title": "RyanR3/TAKParcelsTemplate",
     "url": "https://github.com/RyanR3/TAKParcelsTemplate"
-   }
-  },
-  {
-   "key": "DrLexus11/reticulum-atak",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-21T11:54:48Z",
-    "description": "ATAK reticulum mesh plugin",
-    "stars": "0",
-    "text": "DrLexus11/reticulum-atak",
-    "title": "DrLexus11/reticulum-atak",
-    "url": "https://github.com/DrLexus11/reticulum-atak"
    }
   },
   {
