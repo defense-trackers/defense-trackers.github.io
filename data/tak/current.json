@@ -1,31 +1,31 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-11-26T01:58:36Z",
+ "fetched_at": "2026-11-26T17:00:27Z",
  "schema_version": 1,
  "records": [
-  {
-   "key": "matteskes/macTAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-11-26T01:25:12Z",
-    "description": "macTAK - A Team Awareness Kit client for macOS",
-    "stars": "5",
-    "text": "matteskes/macTAK",
-    "title": "matteskes/macTAK",
-    "url": "https://github.com/matteskes/macTAK"
-   }
-  },
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-26T01:45:10Z",
+    "date": "2026-11-26T16:46:22Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
     "stars": "100",
     "text": "takwerx/infra-TAK",
     "title": "takwerx/infra-TAK",
     "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
+  {
+   "key": "matteskes/macTAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-11-26T16:44:08Z",
+    "description": "macTAK - A Team Awareness Kit client for macOS",
+    "stars": "5",
+    "text": "matteskes/macTAK",
+    "title": "matteskes/macTAK",
+    "url": "https://github.com/matteskes/macTAK"
    }
   },
   {
@@ -640,7 +640,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-24T13:34:02Z",
+    "date": "2026-11-26T16:34:21Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "114",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -769,7 +769,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-24T16:40:42Z",
+    "date": "2026-11-26T12:49:15Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "36",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -872,15 +872,63 @@
    }
   },
   {
+   "key": "boberbyte/OTS-Skanetrafiken-Plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-26T09:16:18Z",
+    "description": "OpenTAKServer plugin: Skånetrafiken public transport (Trafiklab GTFS Regional Realtime) as live markers in ATAK, iTAK and WinTAK",
+    "stars": "1",
+    "text": "boberbyte/OTS-Skanetrafiken-Plugin",
+    "title": "boberbyte/OTS-Skanetrafiken-Plugin",
+    "url": "https://github.com/boberbyte/OTS-Skanetrafiken-Plugin"
+   }
+  },
+  {
+   "key": "takwerx/sit-rep",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-26T07:30:10Z",
+    "description": "ATAK Plugin: Sit Rep — a one-shot situation report for any area from public agency data. Downloads, guide and issues here.",
+    "stars": "1",
+    "text": "takwerx/sit-rep",
+    "title": "takwerx/sit-rep",
+    "url": "https://github.com/takwerx/sit-rep"
+   }
+  },
+  {
+   "key": "takwerx/atak-plugins",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-26T07:26:13Z",
+    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
+    "stars": "8",
+    "text": "takwerx/atak-plugins",
+    "title": "takwerx/atak-plugins",
+    "url": "https://github.com/takwerx/atak-plugins"
+   }
+  },
+  {
    "key": "TX-TAK/TAK-XVoice",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-26T01:48:14Z",
+    "date": "2026-11-26T16:59:56Z",
     "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
-    "stars": "17",
+    "stars": "18",
     "text": "TX-TAK/TAK-XVoice",
     "title": "TX-TAK/TAK-XVoice",
     "url": "https://github.com/TX-TAK/TAK-XVoice"
+   }
+  },
+  {
+   "key": "BubsGarage/APRS2TAK",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-26T05:07:08Z",
+    "description": "Show APRSdroid stations on the ATAK map with real APRS symbols. No plugin needed.",
+    "stars": "3",
+    "text": "BubsGarage/APRS2TAK",
+    "title": "BubsGarage/APRS2TAK",
+    "url": "https://github.com/BubsGarage/APRS2TAK"
    }
   },
   {
@@ -917,30 +965,6 @@
     "text": "DrLexus11/reticulum-atak",
     "title": "DrLexus11/reticulum-atak",
     "url": "https://github.com/DrLexus11/reticulum-atak"
-   }
-  },
-  {
-   "key": "takwerx/atak-plugins",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-25T00:01:26Z",
-    "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
-    "stars": "8",
-    "text": "takwerx/atak-plugins",
-    "title": "takwerx/atak-plugins",
-    "url": "https://github.com/takwerx/atak-plugins"
-   }
-  },
-  {
-   "key": "takwerx/sit-rep",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-24T23:33:45Z",
-    "description": "ATAK Plugin: Sit Rep — a one-shot situation report for any area from public agency data. Downloads, guide and issues here.",
-    "stars": "1",
-    "text": "takwerx/sit-rep",
-    "title": "takwerx/sit-rep",
-    "url": "https://github.com/takwerx/sit-rep"
    }
   },
   {
@@ -1019,7 +1043,7 @@
    "key": "gustavtraff/tmm-sensor-planner",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-23T02:03:47Z",
+    "date": "2026-11-26T16:59:38Z",
     "description": "ATAK Plugin",
     "stars": "0",
     "text": "gustavtraff/tmm-sensor-planner",
@@ -1037,18 +1061,6 @@
     "text": "cmlaird/atak-plugin-cfs-viewer",
     "title": "cmlaird/atak-plugin-cfs-viewer",
     "url": "https://github.com/cmlaird/atak-plugin-cfs-viewer"
-   }
-  },
-  {
-   "key": "BubsGarage/APRS2TAK",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-22T08:41:08Z",
-    "description": "Show APRSdroid stations on the ATAK map with real APRS symbols. No plugin needed.",
-    "stars": "3",
-    "text": "BubsGarage/APRS2TAK",
-    "title": "BubsGarage/APRS2TAK",
-    "url": "https://github.com/BubsGarage/APRS2TAK"
    }
   },
   {
@@ -1217,18 +1229,6 @@
     "text": "Suzuki-Hidemasa/jtak-training-plugin",
     "title": "Suzuki-Hidemasa/jtak-training-plugin",
     "url": "https://github.com/Suzuki-Hidemasa/jtak-training-plugin"
-   }
-  },
-  {
-   "key": "carlosgt91/icu-ng",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-13T18:15:13Z",
-    "description": "ICU NG: camera streaming plugin for ATAK (RTSP/RTSPS/SRT + MISB 0601 KLV) and its companion app ICU NG Capture",
-    "stars": "1",
-    "text": "carlosgt91/icu-ng",
-    "title": "carlosgt91/icu-ng",
-    "url": "https://github.com/carlosgt91/icu-ng"
    }
   },
   {
