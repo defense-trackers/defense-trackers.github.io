@@ -1,31 +1,31 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-11-25T17:19:47Z",
+ "fetched_at": "2026-11-26T01:58:36Z",
  "schema_version": 1,
  "records": [
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-11-25T17:12:02Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "100",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
-   }
-  },
   {
    "key": "matteskes/macTAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-25T14:40:14Z",
+    "date": "2026-11-26T01:25:12Z",
     "description": "macTAK - A Team Awareness Kit client for macOS",
     "stars": "5",
     "text": "matteskes/macTAK",
     "title": "matteskes/macTAK",
     "url": "https://github.com/matteskes/macTAK"
+   }
+  },
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-11-26T01:45:10Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "100",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/R3AKT",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-24T15:40:36Z",
+    "date": "2026-11-25T20:22:46Z",
     "stars": "0",
     "text": "FreeTAKTeam/R3AKT",
     "title": "FreeTAKTeam/R3AKT",
@@ -860,6 +860,54 @@
    }
   },
   {
+   "key": "FreeTAKTeam/sigil",
+   "source": "tak-freetak",
+   "fields": {
+    "date": "2026-11-25T19:21:18Z",
+    "description": "R3AKT Sigil: offline NFM voice transcription and BSS radio ID/position gateway for RCH over LXMF",
+    "stars": "0",
+    "text": "FreeTAKTeam/sigil",
+    "title": "FreeTAKTeam/sigil",
+    "url": "https://github.com/FreeTAKTeam/sigil"
+   }
+  },
+  {
+   "key": "TX-TAK/TAK-XVoice",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-26T01:48:14Z",
+    "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
+    "stars": "17",
+    "text": "TX-TAK/TAK-XVoice",
+    "title": "TX-TAK/TAK-XVoice",
+    "url": "https://github.com/TX-TAK/TAK-XVoice"
+   }
+  },
+  {
+   "key": "fearmikey/TAKwave",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-25T20:39:49Z",
+    "description": "Companion app that carries ATAK positions, GeoChat, markers and emergency alerts over ordinary VHF/UHF radios. It acts as a local TAK server and sends compact CoT packets as 1200-baud AFSK/AX.25 (with FX.25), or over KISS TNCs, P25, DMR, D-STAR and NXDN data. No cell service, no plugin. 100% FOSS, offline, GPL-3.0.",
+    "stars": "7",
+    "text": "fearmikey/TAKwave",
+    "title": "fearmikey/TAKwave",
+    "url": "https://github.com/fearmikey/TAKwave"
+   }
+  },
+  {
+   "key": "RyanR3/TakVideoWall",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-25T20:23:26Z",
+    "description": "ATAK plugin for simultaneous multi-stream video monitoring: adaptive 2×2 paged grid, CoT-based feed discovery, snap-to-sender map integration.",
+    "stars": "4",
+    "text": "RyanR3/TakVideoWall",
+    "title": "RyanR3/TakVideoWall",
+    "url": "https://github.com/RyanR3/TakVideoWall"
+   }
+  },
+  {
    "key": "DrLexus11/reticulum-atak",
    "source": "tak-github",
    "fields": {
@@ -980,18 +1028,6 @@
    }
   },
   {
-   "key": "TX-TAK/TAK-XVoice",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-23T06:29:35Z",
-    "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
-    "stars": "17",
-    "text": "TX-TAK/TAK-XVoice",
-    "title": "TX-TAK/TAK-XVoice",
-    "url": "https://github.com/TX-TAK/TAK-XVoice"
-   }
-  },
-  {
    "key": "cmlaird/atak-plugin-cfs-viewer",
    "source": "tak-github",
    "fields": {
@@ -1064,18 +1100,6 @@
    }
   },
   {
-   "key": "RyanR3/TakVideoWall",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-19T04:49:16Z",
-    "description": "ATAK plugin for simultaneous multi-stream video monitoring: adaptive 2×2 paged grid, CoT-based feed discovery, snap-to-sender map integration.",
-    "stars": "4",
-    "text": "RyanR3/TakVideoWall",
-    "title": "RyanR3/TakVideoWall",
-    "url": "https://github.com/RyanR3/TakVideoWall"
-   }
-  },
-  {
    "key": "xznhj8129/hermes-atak",
    "source": "tak-github",
    "fields": {
@@ -1085,18 +1109,6 @@
     "text": "xznhj8129/hermes-atak",
     "title": "xznhj8129/hermes-atak",
     "url": "https://github.com/xznhj8129/hermes-atak"
-   }
-  },
-  {
-   "key": "fearmikey/TAKwave",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-19T02:59:54Z",
-    "description": "Companion app that carries ATAK positions, GeoChat, markers and emergency alerts over ordinary VHF/UHF radios. It acts as a local TAK server and sends compact CoT packets as 1200-baud AFSK/AX.25 (with FX.25), or over KISS TNCs, P25, DMR, D-STAR and NXDN data. No cell service, no plugin. 100% FOSS, offline, GPL-3.0.",
-    "stars": "7",
-    "text": "fearmikey/TAKwave",
-    "title": "fearmikey/TAKwave",
-    "url": "https://github.com/fearmikey/TAKwave"
    }
   },
   {
