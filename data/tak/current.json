@@ -1,31 +1,31 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-11-26T17:00:27Z",
+ "fetched_at": "2026-11-27T01:57:13Z",
  "schema_version": 1,
  "records": [
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-11-26T16:46:22Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "100",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
-   }
-  },
   {
    "key": "matteskes/macTAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-26T16:44:08Z",
+    "date": "2026-11-26T19:35:24Z",
     "description": "macTAK - A Team Awareness Kit client for macOS",
     "stars": "5",
     "text": "matteskes/macTAK",
     "title": "matteskes/macTAK",
     "url": "https://github.com/matteskes/macTAK"
+   }
+  },
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-11-27T01:56:01Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "100",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -142,7 +142,7 @@
    "fields": {
     "date": "2026-11-02T04:38:31Z",
     "description": "PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.",
-    "stars": "259",
+    "stars": "258",
     "text": "snstac/pytak",
     "title": "snstac/pytak",
     "url": "https://github.com/snstac/pytak"
@@ -582,7 +582,7 @@
    "key": "FreeTAKTeam/DigitalArchitectureFramework",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-24T19:37:11Z",
+    "date": "2026-11-26T20:24:18Z",
     "description": "The Digital Architecture Framework (DAF),  is a set modeling tools for Digital Engineering. ",
     "stars": "8",
     "text": "FreeTAKTeam/DigitalArchitectureFramework",
@@ -640,7 +640,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-26T16:34:21Z",
+    "date": "2026-11-26T20:31:10Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "114",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -769,7 +769,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-26T12:49:15Z",
+    "date": "2026-11-26T20:35:49Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "36",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -872,6 +872,42 @@
    }
   },
   {
+   "key": "TX-TAK/TAK-XVoice",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-27T01:12:02Z",
+    "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
+    "stars": "18",
+    "text": "TX-TAK/TAK-XVoice",
+    "title": "TX-TAK/TAK-XVoice",
+    "url": "https://github.com/TX-TAK/TAK-XVoice"
+   }
+  },
+  {
+   "key": "stpleb/openmanet-field-extension",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-26T22:26:31Z",
+    "description": "Field add-ons for plain OpenMANET nodes: status light, PiSugar power, LoRa fallback, ATAK plugin",
+    "stars": "0",
+    "text": "stpleb/openmanet-field-extension",
+    "title": "stpleb/openmanet-field-extension",
+    "url": "https://github.com/stpleb/openmanet-field-extension"
+   }
+  },
+  {
+   "key": "aegorsuch/atak-plugin-weartak-companion",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-26T20:12:07Z",
+    "description": "Public mirror of TAK.gov atak-plugin-weartak-companion",
+    "stars": "4",
+    "text": "aegorsuch/atak-plugin-weartak-companion",
+    "title": "aegorsuch/atak-plugin-weartak-companion",
+    "url": "https://github.com/aegorsuch/atak-plugin-weartak-companion"
+   }
+  },
+  {
    "key": "boberbyte/OTS-Skanetrafiken-Plugin",
    "source": "tak-github",
    "fields": {
@@ -905,18 +941,6 @@
     "text": "takwerx/atak-plugins",
     "title": "takwerx/atak-plugins",
     "url": "https://github.com/takwerx/atak-plugins"
-   }
-  },
-  {
-   "key": "TX-TAK/TAK-XVoice",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-26T16:59:56Z",
-    "description": "ATAK voice plugin — Mumble + multicast bridge with hardware PTT integration, Bluetooth audio routing, and emergency UX",
-    "stars": "18",
-    "text": "TX-TAK/TAK-XVoice",
-    "title": "TX-TAK/TAK-XVoice",
-    "url": "https://github.com/TX-TAK/TAK-XVoice"
    }
   },
   {
@@ -980,18 +1004,6 @@
    }
   },
   {
-   "key": "aegorsuch/atak-plugin-weartak-companion",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-24T20:25:32Z",
-    "description": "Public mirror of TAK.gov atak-plugin-weartak-companion",
-    "stars": "4",
-    "text": "aegorsuch/atak-plugin-weartak-companion",
-    "title": "aegorsuch/atak-plugin-weartak-companion",
-    "url": "https://github.com/aegorsuch/atak-plugin-weartak-companion"
-   }
-  },
-  {
    "key": "takwerx/takwerx-market",
    "source": "tak-github",
    "fields": {
@@ -1037,18 +1049,6 @@
     "text": "takwerx/mast",
     "title": "takwerx/mast",
     "url": "https://github.com/takwerx/mast"
-   }
-  },
-  {
-   "key": "gustavtraff/tmm-sensor-planner",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-26T16:59:38Z",
-    "description": "ATAK Plugin",
-    "stars": "0",
-    "text": "gustavtraff/tmm-sensor-planner",
-    "title": "gustavtraff/tmm-sensor-planner",
-    "url": "https://github.com/gustavtraff/tmm-sensor-planner"
    }
   },
   {
