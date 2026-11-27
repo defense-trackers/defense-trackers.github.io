@@ -1,9 +1,33 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-11-27T01:57:13Z",
+ "fetched_at": "2026-11-27T16:46:08Z",
  "schema_version": 1,
  "records": [
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-11-27T16:38:15Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "100",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
+  {
+   "key": "Audrey-cn/universal-agent-embedding-kit",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-11-27T10:22:48Z",
+    "description": "Model-agnostic, embeddable agent kit — verification, adaptive context, effort routing, cache-aware cost model, cross-platform graded benchmarks. Evidence-first: every metric is red-teamed and tagged on an evidence-strength ladder with honest caveats.",
+    "stars": "0",
+    "text": "Audrey-cn/universal-agent-embedding-kit",
+    "title": "Audrey-cn/universal-agent-embedding-kit",
+    "url": "https://github.com/Audrey-cn/universal-agent-embedding-kit"
+   }
+  },
   {
    "key": "matteskes/macTAK",
    "source": "tak-cot",
@@ -14,18 +38,6 @@
     "text": "matteskes/macTAK",
     "title": "matteskes/macTAK",
     "url": "https://github.com/matteskes/macTAK"
-   }
-  },
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-11-27T01:56:01Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "100",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -62,18 +74,6 @@
     "text": "TAK-NZ/tak-deploy",
     "title": "TAK-NZ/tak-deploy",
     "url": "https://github.com/TAK-NZ/tak-deploy"
-   }
-  },
-  {
-   "key": "Audrey-cn/universal-agent-embedding-kit",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-11-18T11:18:59Z",
-    "description": "Model-agnostic, embeddable agent kit — verification, adaptive context, effort routing, cache-aware cost model, cross-platform graded benchmarks. Evidence-first: every metric is red-teamed and tagged on an evidence-strength ladder with honest caveats.",
-    "stars": "0",
-    "text": "Audrey-cn/universal-agent-embedding-kit",
-    "title": "Audrey-cn/universal-agent-embedding-kit",
-    "url": "https://github.com/Audrey-cn/universal-agent-embedding-kit"
    }
   },
   {
@@ -734,7 +734,7 @@
    "key": "FreeTAKTeam/LXMF-rs",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-22T21:08:33Z",
+    "date": "2026-11-27T15:49:26Z",
     "description": "Reticulum and LXMF with added SDK. A native Rust implementation of the Reticulum Network Stack and LXMF, designed for interoperable servers, applications \u0026 embedded systems.",
     "stars": "44",
     "text": "FreeTAKTeam/LXMF-rs",
@@ -769,7 +769,7 @@
    "key": "FreeTAKTeam/reticulum_mobile_emergency_management",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-26T20:35:49Z",
+    "date": "2026-11-27T14:07:31Z",
     "description": "Situational Awareness Android app for Reticulum mesh networks, with  mission/event replication, action messages, telemetry, and mobile native bridge support.",
     "stars": "36",
     "text": "FreeTAKTeam/reticulum_mobile_emergency_management",
@@ -872,6 +872,42 @@
    }
   },
   {
+   "key": "vipersq/TakRequest",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-27T11:29:37Z",
+    "description": "ATAK plugin: a request and reporting board for transport (air/sea/land), resupply, SITREP and ACE, shared over CoT with an approval workflow and exercise/MILSIM modes. Not a targeting or fire-support tool.",
+    "stars": "1",
+    "text": "vipersq/TakRequest",
+    "title": "vipersq/TakRequest",
+    "url": "https://github.com/vipersq/TakRequest"
+   }
+  },
+  {
+   "key": "vipersq/Casualty_kit_TAK_CIV",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-27T11:29:33Z",
+    "description": "ATAK plugin for casualty reporting: TCCC card (DD1380) with tappable body diagram, MARCH treatments, vitals alerts, status map markers, MIST and 9-line MEDEVAC over CoT",
+    "stars": "3",
+    "text": "vipersq/Casualty_kit_TAK_CIV",
+    "title": "vipersq/Casualty_kit_TAK_CIV",
+    "url": "https://github.com/vipersq/Casualty_kit_TAK_CIV"
+   }
+  },
+  {
+   "key": "fearmikey/TAKwave",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-27T03:49:55Z",
+    "description": "Companion app that carries ATAK positions, GeoChat, markers and emergency alerts over ordinary VHF/UHF radios. It acts as a local TAK server and sends compact CoT packets as 1200-baud AFSK/AX.25 (with FX.25), or over KISS TNCs, P25, DMR, D-STAR and NXDN data. No cell service, no plugin. 100% FOSS, offline, GPL-3.0.",
+    "stars": "7",
+    "text": "fearmikey/TAKwave",
+    "title": "fearmikey/TAKwave",
+    "url": "https://github.com/fearmikey/TAKwave"
+   }
+  },
+  {
    "key": "TX-TAK/TAK-XVoice",
    "source": "tak-github",
    "fields": {
@@ -935,7 +971,7 @@
    "key": "takwerx/atak-plugins",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-26T07:26:13Z",
+    "date": "2026-11-27T16:31:32Z",
     "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
     "stars": "8",
     "text": "takwerx/atak-plugins",
@@ -949,22 +985,10 @@
    "fields": {
     "date": "2026-11-26T05:07:08Z",
     "description": "Show APRSdroid stations on the ATAK map with real APRS symbols. No plugin needed.",
-    "stars": "3",
+    "stars": "4",
     "text": "BubsGarage/APRS2TAK",
     "title": "BubsGarage/APRS2TAK",
     "url": "https://github.com/BubsGarage/APRS2TAK"
-   }
-  },
-  {
-   "key": "fearmikey/TAKwave",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-25T20:39:49Z",
-    "description": "Companion app that carries ATAK positions, GeoChat, markers and emergency alerts over ordinary VHF/UHF radios. It acts as a local TAK server and sends compact CoT packets as 1200-baud AFSK/AX.25 (with FX.25), or over KISS TNCs, P25, DMR, D-STAR and NXDN data. No cell service, no plugin. 100% FOSS, offline, GPL-3.0.",
-    "stars": "7",
-    "text": "fearmikey/TAKwave",
-    "title": "fearmikey/TAKwave",
-    "url": "https://github.com/fearmikey/TAKwave"
    }
   },
   {
@@ -1205,30 +1229,6 @@
     "text": "takwerx/atmosphere",
     "title": "takwerx/atmosphere",
     "url": "https://github.com/takwerx/atmosphere"
-   }
-  },
-  {
-   "key": "jdlee77/lonewolf",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-16T04:35:26Z",
-    "description": "Lone Worker plugin for ATAK",
-    "stars": "1",
-    "text": "jdlee77/lonewolf",
-    "title": "jdlee77/lonewolf",
-    "url": "https://github.com/jdlee77/lonewolf"
-   }
-  },
-  {
-   "key": "Suzuki-Hidemasa/jtak-training-plugin",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-15T21:40:07Z",
-    "description": "TRAINING USE ONLY / 訓練用 — ATAK-CIV plugin for JTAC role training in milsim",
-    "stars": "6",
-    "text": "Suzuki-Hidemasa/jtak-training-plugin",
-    "title": "Suzuki-Hidemasa/jtak-training-plugin",
-    "url": "https://github.com/Suzuki-Hidemasa/jtak-training-plugin"
    }
   },
   {
