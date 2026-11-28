@@ -1,19 +1,31 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-11-27T16:46:08Z",
+ "fetched_at": "2026-11-28T01:41:43Z",
  "schema_version": 1,
  "records": [
   {
    "key": "takwerx/infra-TAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-27T16:38:15Z",
+    "date": "2026-11-28T01:24:09Z",
     "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "100",
+    "stars": "101",
     "text": "takwerx/infra-TAK",
     "title": "takwerx/infra-TAK",
     "url": "https://github.com/takwerx/infra-TAK"
+   }
+  },
+  {
+   "key": "matteskes/macTAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-11-28T00:38:12Z",
+    "description": "macTAK - A Team Awareness Kit client for macOS",
+    "stars": "5",
+    "text": "matteskes/macTAK",
+    "title": "matteskes/macTAK",
+    "url": "https://github.com/matteskes/macTAK"
    }
   },
   {
@@ -29,24 +41,12 @@
    }
   },
   {
-   "key": "matteskes/macTAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-11-26T19:35:24Z",
-    "description": "macTAK - A Team Awareness Kit client for macOS",
-    "stars": "5",
-    "text": "matteskes/macTAK",
-    "title": "matteskes/macTAK",
-    "url": "https://github.com/matteskes/macTAK"
-   }
-  },
-  {
    "key": "engindearing-projects/OmniTAK-iOS",
    "source": "tak-cot",
    "fields": {
     "date": "2026-11-25T00:29:49Z",
     "description": "Open-source TAK (Team Awareness Kit) client for iPhone and iPad. Swift + SwiftUI. Apache 2.0.",
-    "stars": "10",
+    "stars": "11",
     "text": "engindearing-projects/OmniTAK-iOS",
     "title": "engindearing-projects/OmniTAK-iOS",
     "url": "https://github.com/engindearing-projects/OmniTAK-iOS"
@@ -640,7 +640,7 @@
    "key": "FreeTAKTeam/Reticulum-Community-Hub",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-26T20:31:10Z",
+    "date": "2026-11-27T23:03:53Z",
     "description": "Reticulum Community Hub for groups, mission data, and emergency-management interoperability.",
     "stars": "114",
     "text": "FreeTAKTeam/Reticulum-Community-Hub",
@@ -971,7 +971,7 @@
    "key": "takwerx/atak-plugins",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-27T16:31:32Z",
+    "date": "2026-11-27T21:16:24Z",
     "description": "ATAK Plugins by takwerx — development workspace. Each plugin is published from its own repo (see README).",
     "stars": "8",
     "text": "takwerx/atak-plugins",
@@ -1043,7 +1043,7 @@
    "key": "takwerx/cloudtak-crosstak-plugin",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-23T19:35:22Z",
+    "date": "2026-11-28T01:16:36Z",
     "description": "CloudTAK plugin: see other agencies' TAK Servers on your CloudTAK map, with your own account on each (send, Data Sync, your position)",
     "stars": "0",
     "text": "takwerx/cloudtak-crosstak-plugin",
