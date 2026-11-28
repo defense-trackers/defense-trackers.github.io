@@ -1,31 +1,31 @@
 {
  "source": "tak",
  "tracker": "tak",
- "fetched_at": "2026-11-28T01:41:43Z",
+ "fetched_at": "2026-11-28T15:38:16Z",
  "schema_version": 1,
  "records": [
-  {
-   "key": "takwerx/infra-TAK",
-   "source": "tak-cot",
-   "fields": {
-    "date": "2026-11-28T01:24:09Z",
-    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
-    "stars": "101",
-    "text": "takwerx/infra-TAK",
-    "title": "takwerx/infra-TAK",
-    "url": "https://github.com/takwerx/infra-TAK"
-   }
-  },
   {
    "key": "matteskes/macTAK",
    "source": "tak-cot",
    "fields": {
-    "date": "2026-11-28T00:38:12Z",
+    "date": "2026-11-28T09:28:14Z",
     "description": "macTAK - A Team Awareness Kit client for macOS",
     "stars": "5",
     "text": "matteskes/macTAK",
     "title": "matteskes/macTAK",
     "url": "https://github.com/matteskes/macTAK"
+   }
+  },
+  {
+   "key": "takwerx/infra-TAK",
+   "source": "tak-cot",
+   "fields": {
+    "date": "2026-11-28T15:33:52Z",
+    "description": "Browser based Team Awareness Kit Infrastructure Management Platform. One-click deployment of TAK Server, Authentik identity provider, and TAK Portal with automated LDAP, SSL, and QR enrollment. Includes CloudTAK, MediaMTX and NodeRED.",
+    "stars": "101",
+    "text": "takwerx/infra-TAK",
+    "title": "takwerx/infra-TAK",
+    "url": "https://github.com/takwerx/infra-TAK"
    }
   },
   {
@@ -723,7 +723,7 @@
    "key": "FreeTAKTeam/R3AKT",
    "source": "tak-freetak",
    "fields": {
-    "date": "2026-11-25T20:22:46Z",
+    "date": "2026-11-28T13:31:26Z",
     "stars": "0",
     "text": "FreeTAKTeam/R3AKT",
     "title": "FreeTAKTeam/R3AKT",
@@ -872,6 +872,30 @@
    }
   },
   {
+   "key": "aegorsuch/atak-plugin-weartak-companion",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-28T15:09:01Z",
+    "description": "Public mirror of TAK.gov atak-plugin-weartak-companion",
+    "stars": "4",
+    "text": "aegorsuch/atak-plugin-weartak-companion",
+    "title": "aegorsuch/atak-plugin-weartak-companion",
+    "url": "https://github.com/aegorsuch/atak-plugin-weartak-companion"
+   }
+  },
+  {
+   "key": "getdars/dars-atak-plugin",
+   "source": "tak-github",
+   "fields": {
+    "date": "2026-11-28T08:59:45Z",
+    "description": "D.A.R.S. Remote ID plugin for ATAK-CIV: drones and pilots on the map, from the phone's radios or a D.A.R.S. receiver.",
+    "stars": "0",
+    "text": "getdars/dars-atak-plugin",
+    "title": "getdars/dars-atak-plugin",
+    "url": "https://github.com/getdars/dars-atak-plugin"
+   }
+  },
+  {
    "key": "vipersq/TakRequest",
    "source": "tak-github",
    "fields": {
@@ -929,18 +953,6 @@
     "text": "stpleb/openmanet-field-extension",
     "title": "stpleb/openmanet-field-extension",
     "url": "https://github.com/stpleb/openmanet-field-extension"
-   }
-  },
-  {
-   "key": "aegorsuch/atak-plugin-weartak-companion",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-26T20:12:07Z",
-    "description": "Public mirror of TAK.gov atak-plugin-weartak-companion",
-    "stars": "4",
-    "text": "aegorsuch/atak-plugin-weartak-companion",
-    "title": "aegorsuch/atak-plugin-weartak-companion",
-    "url": "https://github.com/aegorsuch/atak-plugin-weartak-companion"
    }
   },
   {
@@ -1043,7 +1055,7 @@
    "key": "takwerx/cloudtak-crosstak-plugin",
    "source": "tak-github",
    "fields": {
-    "date": "2026-11-28T01:16:36Z",
+    "date": "2026-11-28T08:31:53Z",
     "description": "CloudTAK plugin: see other agencies' TAK Servers on your CloudTAK map, with your own account on each (send, Data Sync, your position)",
     "stars": "0",
     "text": "takwerx/cloudtak-crosstak-plugin",
@@ -1217,18 +1229,6 @@
     "text": "niccellular/gadget",
     "title": "niccellular/gadget",
     "url": "https://github.com/niccellular/gadget"
-   }
-  },
-  {
-   "key": "takwerx/atmosphere",
-   "source": "tak-github",
-   "fields": {
-    "date": "2026-11-22T02:16:45Z",
-    "description": "ATAK Plugin: Atmosphere — fire and hazmat weather on the map: the forecast at a point, radar, satellite, wind, rain, smoke, rivers and the sea. Downloads, guide and issues here.",
-    "stars": "6",
-    "text": "takwerx/atmosphere",
-    "title": "takwerx/atmosphere",
-    "url": "https://github.com/takwerx/atmosphere"
    }
   },
   {
